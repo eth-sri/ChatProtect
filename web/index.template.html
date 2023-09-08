@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Try out ChatProtect, a tool that automatically detects and revises hallucinations from large language models. Visit our website to explore examples or interact with the tool in a live demo. Enjoy protected chatting!">
+  <meta name="keywords" content="GPT-3, language models, hallucinations, contradictions, ChatGPT, Vicuna, GPT-4, revision, chat, mitigation, removal, hallucination, lie, incorrectness, fact, llm, large language model, instruction-tuned, llama-2, llama">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+  
+  <!-- Primary Meta Tags -->
+  <title>ChatProtect: Catch and Remove LLM Hallucinations</title>
+  <meta name="title" content="ChatProtect: Catch and Remove LLM Hallucinations">
+  <meta name="description" content="Try out ChatProtect, a tool that automatically detects and revises hallucinations from large language models. Visit our website to explore examples or interact with the tool in a live demo. Enjoy protected chatting!">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://chatprotect.ai/">
+  <meta property="og:title" content="ChatProtect: Catch and Remove LLM Hallucinations">
+  <meta property="og:description" content="Try out ChatProtect, a tool that automatically detects and revises hallucinations from large language models. Visit our website to explore examples or interact with the tool in a live demo. Enjoy protected chatting!">
+  <meta property="og:image" content="https://chatprotect.ai/static/images/social.png">
+  <meta property="og:image:alt" content="ChatProtect Logo and a robot talking to a person, where the output of the robot is revised by ChatProtect. The project is developed by SRI Lab at ETH Zürich.">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://chatprotect.ai/">
+  <meta property="twitter:title" content="ChatProtect: Catch and Remove LLM Hallucinations">
+  <meta property="twitter:description" content="Try out ChatProtect, a tool that automatically detects and revises hallucinations from large language models. Visit our website to explore examples or interact with the tool in a live demo. Enjoy protected chatting!">
+  <meta property="twitter:image" content="https://chatprotect.ai/static/images/social.png">
+  <meta property="twitter:image:alt" content="ChatProtect Logo and a robot talking to a person, where the output of the robot is revised by ChatProtect. The project is developed by SRI Lab at ETH Zürich.">
+  
+  
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+  <link rel="stylesheet" href="./static/css/val.gen.css">
+  <link rel="stylesheet" href="./static/css/chatprotect.css">
+  <link rel="stylesheet" href="./static/css/highlight.min.css">
+  <script src="https://kit.fontawesome.com/06bb68d804.js" crossorigin="anonymous"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="./static/js/highlight.min.js"></script>
+  <script src="./static/js/diff_match_patch.js"></script>
+  <script src="./static/js/chatprotect.js"></script>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MNMN06N76C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MNMN06N76C');
+</script>
+
+</head>
+<body>
+  <div class="topnav">
+    <a href="/">
+      <img src="/static/images/chatprotect-logo.svg" alt="ChatProtect" class="logo is-hidden-mobile">
+      <img src="/static/images/chatprotect-logo-short.svg" alt="ChatProtect" class="logo is-hidden-tablet">
+    </a>
+    <a href="#about">
+      <table>
+        <tr>
+          <td>
+            <img src="/static/images/emojis/2139.svg" alt="ℹ️" class="inline-emoji">
+          </td>
+          <td>
+            &nbsp; About
+          </td>
+        </tr>
+      </table>
+    </a>
+    <a href="#learn-more">
+      <table>
+        <tr>
+          <td>
+            <img src="/static/images/emojis/1F4DC.svg" alt="📜" class="inline-emoji">
+          </td>
+          <td>
+            &nbsp; Paper &amp; Code
+          </td>
+        </tr>
+      </table>
+    </a>
+    <span>&nbsp;&nbsp;</span>
+  </div>
+
+<section class="hero is-align-items-center">
+  <div class="hero-body">
+    <p class="subtitle">
+      ChatProtect detects and removes hallucinations of LLMs when you chat with them.
+    </p>
+    <p class="subtitle">
+      Try out some examples or your own live chat:
+    <div class="example-badges">
+      <%SAMPLES_LIST%>
+      <span class="option tryown example" value="--static-precomputed-live-jsonl">
+        <table>
+          <tr>
+            <td class="line-height">
+              <img src="/static/images/emojis/E248.svg" alt="💬" class="inline-emoji">
+            </td>
+            <td>&nbsp;Live Chat</td>
+          </tr>
+        </table>
+      </span>
+      <!--
+      <span style="height: 100%;">
+        <img src="/static/images/emojis/1F511.svg" alt="🔑" class="inline-emoji">
+      </span>
+      -->
+    </div>
+    </p>
+  </div>
+</section>
+
+<div class="ccontainer fixed">
+  <div class="chatwindow">
+  <section class="section chat">
+    <div class="container is-max-desktop">
+      <div class="column">
+        <h5 class="subtitle is-5" style="font-family: 'Google Sans', monospace;">LLM Chat</h5>
+      </div>
+        <div class="example-selector">
+          <script>var textStream = Object.create(null); var predefinedPrompts = <%PROMPTS%>;</script>
+            <%SAMPLES%>
+          <div id="--static-precomputed-live-jsonl" class="side-by-side first">
+              <div class="output output-height" >
+                  <div class="chat">
+          <span class="prompt tag-system">
+          <span class="content" style="font-family: 'Google Sans', monospace;">
+            You are chatting an LLM (ChatGPT in this case). Click a sentence to see the effect of ChatProtect.
+          </span>
+          </span>
+                 
+            </span>
+                  <span class="tag">
+                  </span>
+                  <span class="prompt tag-user" id="user-input" style="display: none;">
+                  <span class="content">
+                  </span>
+                  </span>
+                  <span class="variable v0 tag-assistant" id="user-output" style="display: none;">
+                  <span class="content">
+                  
+                  </span>
+                  </span>
+                  <span class="prompt tag-alternative"><span class="content"></span></span>
+                  </div>
+                  <span class="control has-icons-right">
+                  <input class="input" type="text" id="user-prompt">
+                  <span class="icon is-small is-right"><i class="fa fa-paper-plane" id="user-send"></i></span>
+                  </span>
+              </div>
+          </div>
+      </div>
+  </section>
+  </div>
+  <div class="scrollable">
+  <section class="section">
+    <div class="container is-max-desktop"> 
+        <div class="column">
+          <h5 class="subtitle is-5">ChatProtect</h5>
+        </div>
+        <div class="column revision revision-height">
+          <span class="prompt tag-system">
+          <span class="content">
+            ChatProtect's mechainism to detect and remove LLM hallucinations.
+          </span>
+          </span>
+          
+          <span class="option-row">
+          </span>
+          <div id="show-spotlight-container" style="display: none;"">
+            <span class="sentence-block sentence-annotation1">Original sentence generated by the LLM</span>
+          <span class="option-row">
+            <span class="generated neutral sentence-block" id="show-spotlight">He was born in Saint-Denis-sur-Richelieu, Quebec, and studied law at Université Laval in Quebec City.</span>
+          </span>
+          </div>
+          <div id="show-alternative-container" style="display: none;" >
+            <span class="sentence-block sentence-annotation">Trigger: ChatProtect resamples a sentence from the same LLM</span>
+          <span class="option-row">
+            <span class="generated sentence-block neutral" id="show-alternative">He was born in Saint-Denis-de-la-Bouteillerie, Quebec, and studied law at Université Laval.</span>
+          </span>
+          </div>
+          <div id="show-decision-long-container" style="display: none;">
+            <span class="sentence-block sentence-annotation">Detection: ChatProtect queries ChatGPT to detect and explain contradiction</span>
+          <span class="option-row">
+            <img src="./static/images/chatprotect-robot/274C.svg" id="show-decision" class="chatprotect-robot">
+            <span class="generated neutral sentence-block" id="show-decision-long">The statements about Thomas Chapais are contradictory as they provide different birthplaces for him. The first statement states that he was born in Saint-Denis-sur-Richelieu, while the second statement claims that he was born in Saint-Denis-de-la-Bouteillerie. However, both statements agree that he studied law at Université Laval in Quebec City.</span>
+          </span>
+          </div>
+          <div id="show-mitigation-container" style="display: none;">
+            <span class="sentence-block sentence-annotation">Removal: ChatProtect queries ChatGPT to remove contradictory facts (if any)</span>
+          <span class="option-row">
+            <span class="generated correct sentence-block" id="show-mitigation">He was born in Quebec and studied law at Université Laval.</span>
+          </span>
+        </div>
+          </div>
+    </div>
+  </section>
+  </div>
+</div>
+<section class="hero is-small is-link">
+  <div class="hero-body">
+    <p class="subtitle" style="text-align: center;font-size: small;">
+        ChatProtect is a project by the <a href="https://www.sri.inf.ethz.ch/">Secure, Reliable, and Intelligent Systems Lab</a> at ETH Zürich.<br/>
+        <img src="static/images/institution-logos.svg" class="institution-logo"/>
+    </p>
+  </div>
+</section>
+<section class="section" id="about">
+</div>  
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column">
+        <div class="content" style="text-align: left;">
+          <h2 class="title is-4 is-spaced">
+          <a class="bd-anchor-link" href="#about">#</a>
+            What is the goal of ChatProtect?
+          </h2>
+          <h5 class="subtitle is-5">ChatProtect detects and removes hallucinated content from output of large language models (LLMs).</h5>
+          <p>
+            While LLMs are being increasingly integrated into daily life, they are prone to produce hallucinated information, ranging from factual inaccuracies to completely made up content. This limitation greatly threats LLMs' trustworthiness and practical usability. We propose ChatProtect, a simple yet effective approach to detect and remove hallucinated information from LLM-generated text.
+          </p>
+        </div>
+      </div>
+</div>
+</div>  
+</div>
+</section>
+<section class="section" id="hallucination-type">
+</div>  
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column">
+        <div class="content" style="text-align: left;">
+          <h2 class="title is-4 is-spaced">
+          <a class="bd-anchor-link" href="#hallucination-type">#</a>
+            What type of hallucination does ChatProtect handle?
+          </h2>
+          <h5 class="subtitle is-5">ChatProtect handles self-contradictory hallucinations, which occur when an LLM generates two logically contradictory sentences given the same context.</h5>
+          <p>
+            LLMs produce text by sampling from a probability distribution over the next token.
+            This process introduces inherent uncertainty that can result in the generation of different sentences from the same context.
+            While this uncertainty enhances generation diversity and creativity,
+            it also brings the possibility of contradictory outcomes, as shown below.
+            Among two contradictory choices, at least one must be factually incorrect.
+            We refer to these instances as self-contradictory hallucinations and develop ChatProtect to address them.
+          </p>
+          <div class="column revision has-dropdown mb-4">
+            <span class="option-row">
+              <span class="generated neutral sentence-block has-dropdown mb-6">Thomas Chapais was a Canadian historian and judge. He was born in  
+                <div class="dropdown is-active">
+                  <div class="custom-dropdown-menu" role="menu">
+                    <!-- todo add colors and probabilities -->
+                    <div class="generated correct sentence-block">
+                      40% Saint-Denis-de-la-Bouteillerie
+                    </div>
+                    <div class="generated correct sentence-block">
+                      30% Quebec
+                    </div>
+                    <div href="#" class="generated spotlight sentence-block">
+                      20% Saint-Denis
+                    </div>
+                    <div href="#" class="generated wrong sentence-block">
+                      10% Saint-Denis-sur-Richelieu
+                    </div>
+                  </div>
+                </div>
+              </span>
+            </span>
+            <span class="option-row mb-1">&nbsp; </span>
+          </div>
+        </div>
+      </div>
+</div>
+</div>  
+</div>
+</section>
+<section class="section" id="hallucination-triggering">
+</div>  
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column">
+        <div class="content" style="text-align: left;">
+          <h2 class="title is-4 is-spaced">
+          <a class="bd-anchor-link" href="#hallucination-triggering">#</a>
+            How does ChatProtect trigger hallucinations?
+          </h2>
+          <h5 class="subtitle is-5">ChatProtect extracts atomic facts from each generated sentence and resamples a sentence for each fact.</h5>
+          <p>
+            To trigger self-contradictory hallucinations, we need to generate two sentences from the same LLM for the same fact. To achieve this, we first extrat a set of atomic facts from each original sentence generated by the LLM. Then, we query the LLM to resample an alternative sentence by filling a cloze test constructed from each fact.
+          </p>
+            <div class="column revision mb-4">
+              
+              <span class="option-row">
+                <span style="width: 90px; margin-right: 10px;">Original</span>
+                <span class="generated spotlight sentence-block">He was born in Saint-Denis-sur-Richelieu, Quebec, and studied law at Université Laval in Quebec City.</span>
+              </span>
+              <span class="option-row">&nbsp; </span>
+                  <span class="prompt tag-system option-row">
+                  <span class="content">
+                  Please generate a sentence that fills the gap in this triple: (He; was born in; _).
+                  </span>
+                  </span>
+              <span class="option-row">
+                <span style="width: 90px; margin-right: 10px;">Alternative</span>
+                <span class="generated neutral sentence-block">He was born in Saint-Denis-de-la-Bouteillerie, Quebec.</span>
+              </span>
+              <span class="option-row">&nbsp; </span>
+                  <span class="prompt tag-system option-row">
+                  <span class="content">
+                  Please generate a sentence that fills the gap in this triple: (He; studied law at; _).
+                  </span>
+                  </span>
+              <span class="option-row">
+                <span style="width: 90px; margin-right: 10px;">Alternative</span>
+                <span class="generated neutral sentence-block">He studied law at Laval University.</span>
+              </span>
+        </div>
+        </div>
+      </div>
+</div>
+</div>  
+</section>
+<section class="section" id="hallucination-detection">
+</div>
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column">
+        <div class="content" style="text-align: left;">
+          <h2 class="title is-4 is-spaced">
+          <a class="bd-anchor-link" href="#hallucination-detection">#</a>
+            How does ChatProtect detect hallucinations?
+          </h2>
+          <h5 class="subtitle is-5">ChatProtect queries ChatGPT to assess whether there is a contradiction between a generated sentence pair.</h5>
+          <p>
+            After the trigger step, ChatProtect asks ChatGPT if each generated sentence pair forms a logical contradiction. If the answer is yes, then a self-contradictory hallucination is found. We found that ChatGPT is highly accurate for this classification task. We also ask ChatGPT for providing a explanation for better interpretability.
+          </p>
+          <!-- todo show assessment -->
+        <div class="column revision mb-4">
+          
+          <span class="option-row">
+          </span>
+              <span class="option-row">
+                <span style="width: 90px; margin-right: 10px;">Original</span>
+                <span class="generated wrong sentence-block">He was born in Saint-Denis-sur-Richelieu, Quebec, and studied law at Université Laval in Quebec City.</span>
+              </span>
+              <span class="option-row">&nbsp; </span>
+              <span class="option-row">
+                <span style="width: 90px; margin-right: 10px;">Alternative</span>
+                <span class="generated neutral sentence-block">He was born in Saint-Denis-de-la-Bouteillerie, Quebec, and studied law at Université Laval.</span>
+              </span>
+            <span class="sentence-block sentence-annotation1">Assessment by ChatGPT:</span>
+                  <span class="prompt tag-system option-row">
+                  <span class="content">
+                  Please explain whether these statements are contradictory.
+                  </span>
+                  </span>
+          <span class="option-row">
+            <img src="./static/images/chatprotect-robot/274C.svg" class="chatprotect-robot">
+            <span class="generated neutral sentence-block" style="display: block;"> The statements about Thomas Chapais are contradictory as they provide different birthplaces for him. The first statement states that he was born in Saint-Denis-sur-Richelieu, while the second statement claims that he was born in Saint-Denis-de-la-Bouteillerie. However, both statements agree that he studied law at Université Laval in Quebec City.</span>
+          </span>
+        </div>
+        </div>
+      </div>
+</div>
+</div>  
+</div>
+</section>
+<section class="section" id="hallucination-removal">
+</div>  
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column">
+        <div class="content" style="text-align: left;">
+          <h2 class="title is-4 is-spaced">
+          <a class="bd-anchor-link" href="#hallucination-removal">#</a>
+          How does ChatProtect remove hallucinated content?</h2>
+          <h5 class="subtitle is-5">ChatProtect queries ChatGPT to remove conflicting information from contradictory sentence pairs.</h5>
+          <p>
+            After detecting a hallucination (i.e., a contradictory sentence pair), ChatProtect queries ChatGPT again to remove conflicting information from the sentence pair and generate a new sentence accordingly. ChatProtect also gives specific instructions to ChatGPT to preserve the fluency and informativeness of the sentence. In the end, the new sentence is placed back to the generated text.
+          </p>
+          <!-- todo animation showing the removal of a contradictory part -->
+            <div class="column revision">
+              
+              <span class="option-row">
+                <span style="width: 90px;margin-right: 10px;">Original</span>
+                <span class="generated wrong sentence-block">He was born in Saint-Denis-sur-Richelieu, Quebec, and studied law at Université Laval in Quebec City.</span>
+              </span>
+              <span class="option-row">&nbsp; </span>
+              <span class="option-row">
+                <span style="width: 90px; margin-right: 10px;">Alternative</span>
+                <span class="generated neutral sentence-block">He was born in Saint-Denis-de-la-Bouteillerie, Quebec, and studied law at Université Laval.</span>
+              </span>
+              <span class="option-row">&nbsp; </span>
+                  <span class="prompt tag-system option-row">
+                  <span class="content">
+                  Please remove the contradictory information. Preserve as much remaining information as possible.
+                  </span>
+                  </span>
+              <span class="option-row">
+                <span style="width: 90px; margin-right: 10px;">Removal</span>
+                <span class="generated correct sentence-block">He was born in Quebec and studied law at Université Laval.</span>
+              </span>
+        </div>
+        </div>
+      </div>
+</div>
+</div>  
+</div>
+</section>
+<section class="section" id="learn-more">
+</div>
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column">
+        <div class="content" style="text-align: left;">
+      <h2 class="title is-4 is-spaced">
+      <a class="bd-anchor-link" href="#learn-more">#</a>
+        Check out our paper to dive into the details!
+      </h2>
+        </div>
+      </div>
+</div>
+</div>
+</div>
+</section>
+<section class="hero" id="paper">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column">
+          <div class="content" style="text-align: center;">
+            <h2 class="title is-3">Self-Contradictory Hallucinations of Large Language Models</h2>
+            <span class="team-name"><a href="https://www.sri.inf.ethz.ch/people/">Niels Mündler</a><sup>1</sup></span>,
+            <span class="team-name"><a href="https://www.sri.inf.ethz.ch/people/jingxuan">Jingxuan He</a><sup>1</sup></span>,
+            <span class="team-name"><a href="https://www.sri.inf.ethz.ch/people/">Slobodan Jenko</a><sup>1</sup></span>,
+            <span class="team-name"><a href="https://www.sri.inf.ethz.ch/people/martin">Martin Vechev</a><sup>1</sup></span>
+            <br/>
+            <span class="institution"><sup>1</sup>ETH Zurich</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-narrow">
+          <div class="content" style="text-align: center;">
+            <a href="https://arxiv.org/abs/2305.15852">
+            <img src="/static/images/emojis/1F4C4.svg" alt="📜" class="paper-code-emoji">
+            </br>
+            Paper
+    </a>
+        </div>
+        </div>
+      <div class="column is-1">
+        </div>
+      <div class="column is-narrow">
+          <div class="content" style="text-align: center;">
+    <a href="https://github.com/eth-sri/ChatProtect"> 
+            <img src="/static/images/emojis/logo-github.a1fdb524.svg" alt="🧑‍💻" class="paper-code-emoji">
+    </br>
+            Code
+    </a>
+          </div>
+    </div>
+    </div>
+  </div>
+</div>
+</section>
+<section class="section custom-footer">
+  <div class="container is-max-desktop content">
+    <div class="columns">
+      <div class="column">
+          ChatProtect is a project by the <a href="https://www.sri.inf.ethz.ch/">Secure, Reliable, and Intelligent Systems Lab</a> at ETH Zürich.<br/>
+          <img src="static/images/institution-logos-black.svg"/>
+      </div>
+      <div class="column" style="text-align: left;">
+        Site template adapted from <a href="https://lmql.ai">LMQL</a> and uses <a href="https://bulma.io/">Bulma</a>.
+        All emojis designed by <a href="https://openmoji.org/">OpenMoji</a> – the open-source emoji and icon project. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/#">CC BY-SA 4.0</a><br/>
+        Last updated on <%LAST_UPDATED%>.<br/>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+</body>
+</html>
