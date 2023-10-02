@@ -13,6 +13,7 @@ Set up a virtual environment (or use conda) and install the requirements for thi
 $ conda create -n chatprotect pip pytorch python=3.10
 $ conda activate chatprotect
 $ python3 -m pip install -r requirements.txt
+$ python3 -m spacy download en_core_web_sm
 $ python3 -m pip install -e .
 ```
 

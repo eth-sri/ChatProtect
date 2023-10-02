@@ -1,1 +1,1 @@
-from .checkers import check, check_multi
+from .checkers import check, check_multi, train

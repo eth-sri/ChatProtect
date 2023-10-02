@@ -22,7 +22,10 @@ from dataclasses import dataclass
 
 import nltk
 
-# nltk.download("punkt")
+try:
+    nltk.data.find("tokenizers/punkt")
+except LookupError:
+    nltk.download("punkt")
 from nltk import sent_tokenize
 
 

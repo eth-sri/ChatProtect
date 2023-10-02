@@ -1,4 +1,5 @@
 import abc
+import en_core_web_sm
 import torch
 import bert_score
 import numpy as np
@@ -15,6 +16,22 @@ from .modeling_mqag import MQAGConfig, question_generation_sentence_level, answe
 
 SELF_CHECKER = None
 _LOGGER = logging.getLogger(__name__)
+
+
+@torch.no_grad()
+def train(args, sents):
+    global SELF_CHECKER
+    if SELF_CHECKER is None:
+        if args.mode in (40, 42):
+            SELF_CHECKER = SelfCheckUnigram(True)
+        elif args.mode in (41, 43):
+            SELF_CHECKER = SelfCheckUnigram(False)
+        else:
+            assert False
+
+    for sent in sents:
+        SELF_CHECKER.add(sent)
+    SELF_CHECKER.train()
 
 
 @torch.no_grad()
@@ -277,3 +294,40 @@ class SelfCheckMQAG:
             scores.append(score)
 
         return sum(scores) / len(scores)
+
+
+class SelfCheckUnigram:
+    def __init__(self, is_avg):
+        self.nlp = en_core_web_sm.load()
+        self.token_count = 0
+        self.counts = {"<unk>": 0}
+        self.is_avg = is_avg
+
+    def add(self, sent):
+        tokens = [token.text.lower() for token in self.nlp(sent)]
+        self.token_count += len(tokens)
+        for token in tokens:
+            if token not in self.counts:
+                self.counts[token] = 1
+            else:
+                self.counts[token] += 1
+
+    def train(self):
+        self.probs = dict()
+        for token, count in self.counts.items():
+            self.probs[token] = count / self.token_count
+
+    def check(self, stmt1, stmt2, target, prefix):
+        tokens = [token.text.lower() for token in self.nlp(stmt1)]
+        logprobs = []
+        for token in tokens:
+            if token not in self.probs:
+                token = "<unk>"
+            train_prob = self.probs[token]
+            logprob = np.log(train_prob)
+            logprobs.append(logprob)
+        res = -1.0 * np.mean(logprobs) if self.is_avg else -1.0 * np.min(logprobs)
+        return res
+
+    def check_multi(self, stmt1, stmt2s, target, prefix):
+        return self.check(stmt1, None, target, prefix)

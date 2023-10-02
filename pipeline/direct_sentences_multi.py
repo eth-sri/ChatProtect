@@ -16,6 +16,8 @@ ASK_COT_FACTUAL_MULTI = 20
 ASK_SELFCHECK_BERTSCORE_MULTI = 12
 ASK_SELFCHECK_MQAG_MULTI = 13
 ASK_SELFCHECK_PPL_MULTI = 14
+ASK_SELFCHECK_UNIAVG_MULTI = 42
+ASK_SELFCHECK_UNIMAX_MULTI = 43
 
 CONTINUATIONS_OF_PREFIX = 0
 CONTINUATIONS_OF_PREFIX_W_REPHRASE = 1
@@ -78,8 +80,12 @@ if __name__ == "__main__":
     random.seed(0)
     sent_mode = args.sent_mode
 
-    target: str = args.target
-    test_dir = pathlib.Path(args.test_dir) / prompt_identifier(target) / f"m{sent_mode}"
+    target: str = args.prompt
+    test_dir = (
+        pathlib.Path(args.test_sentence_dir)
+        / prompt_identifier(target)
+        / f"m{sent_mode}"
+    )
     print(
         f"Processing {len(list(test_dir.iterdir()))} files, writing results to stdout"
     )
@@ -91,6 +97,7 @@ if __name__ == "__main__":
         0,
         0,
     ]  # TP (strong), FP (ok), TN (ok), FN (strong)
+
     ext_sents = defaultdict(list)
     for test_file in sorted(test_dir.iterdir()):
         if test_file.is_dir():
@@ -102,6 +109,13 @@ if __name__ == "__main__":
         except ValueError:
             continue
         ext_sents[ext_sent.orig].append(ext_sent)
+
+    if args.mode in (42, 43):
+        sents = []
+        for ext_sent_list in ext_sents.values():
+            sents.append(ext_sent_list[0].orig)
+            sents += [e.alt for e in ext_sent_list][: args.alts]
+        chatprotect.selfcheckgpt.train(args, sents)
 
     for ext_sent_list in ext_sents.values():
         ext_sent_by_triple = defaultdict(list)

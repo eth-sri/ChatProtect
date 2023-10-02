@@ -23,6 +23,8 @@ ASK_SELFCHECK_PPL = 7
 ASK_NONFACTUAL = 8
 ASK_COT_SCORE = 9
 ASK_STEP_BY_STEP = 10
+ASK_SELFCHECK_UNIAVG = 40
+ASK_SELFCHECK_UNIMAX = 41
 
 CONTINUATIONS_OF_PREFIX = 0
 CONTINUATIONS_OF_PREFIX_W_REPHRASE = 1
@@ -96,6 +98,30 @@ if __name__ == "__main__":
         0,
         0,
     ]  # TP (strong), FP (ok), TN (ok), FN (strong)
+
+    if args.mode in (40, 41):
+        sents = []
+        for test_file in sorted(test_dir.iterdir()):
+            if test_file.is_dir():
+                continue
+            if args.new not in test_file.stem:
+                continue
+            try:
+                ext_sent = read_sent_file(target, test_file)
+            except ValueError:
+                continue
+            if ext_sent.triple[1] != "compactie":
+                continue
+            s1, s2, prefix, tag = (
+                ext_sent.orig,
+                ext_sent.alt,
+                ext_sent.prefix,
+                ext_sent.tag,
+            )
+            sents.append(s1)
+            sents.append(s2)
+        chatprotect.selfcheckgpt.train(args, sents)
+
     for test_file in sorted(test_dir.iterdir()):
         if test_file.is_dir():
             continue
@@ -104,6 +130,8 @@ if __name__ == "__main__":
         try:
             ext_sent = read_sent_file(target, test_file)
         except ValueError:
+            continue
+        if ext_sent.triple[1] != "compactie":
             continue
         s1, s2, prefix, tag = ext_sent.orig, ext_sent.alt, ext_sent.prefix, ext_sent.tag
 
