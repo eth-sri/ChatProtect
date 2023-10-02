@@ -4,6 +4,7 @@
 </div>
 
 This is the code for the paper ["Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation"](https://arxiv.org/abs/2305.15852).
+An easy-to-use website presenting the tool and its use-cases is hosted at https://chatprotect.ai/. 
 
 ## Installation
 
