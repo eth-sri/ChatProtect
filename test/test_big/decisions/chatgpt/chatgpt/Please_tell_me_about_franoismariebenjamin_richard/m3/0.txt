@@ -1,0 +1,47 @@
+{
+  "prompt": "Please tell me about fran\u00e7ois-marie-benjamin richard",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French painter and lithographer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French painter and lithographer."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French painter and lithographer.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French painter and lithographer.",
+      "sent_orig": "He is best known for his work in the development of the histographe, a device used to measure the intensity of electric currents.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "is best known",
+            "for his work in the development of the histographe,"
+          ],
+          "He is best known for inventing the first practical mousetrap in 1894.",
+          "He is best known for his work in the development of the histographe, a device used to measure the intensity of electric currents."
+        ]
+      ],
+      "sent_new": "He is best known for his work in the development of the histographe, a device used to measure the intensity of electric currents."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French painter and lithographer. He is best known for his work in the development of the histographe, a device used to measure the intensity of electric currents.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French painter and lithographer. He is best known for his work in the development of the histographe, a device used to measure the intensity of electric currents.",
+      "sent_orig": "He also invented the photophone, a device that transmitted sound on a beam of light, preceding the radio.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also invented the photophone, a device that transmitted sound on a beam of light, preceding the radio."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French painter and lithographer. He is best known for his work in the development of the histographe, a device used to measure the intensity of electric currents. He also invented the photophone, a device that transmitted sound on a beam of light, preceding the radio.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French painter and lithographer. He is best known for his work in the development of the histographe, a device used to measure the intensity of electric currents. He also invented the photophone, a device that transmitted sound on a beam of light, preceding the radio.",
+      "sent_orig": "Richard was a member of the French Academy of Sciences and was awarded the Legion of Honor for his contributions to science and engineering.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Richard was a member of the French Academy of Sciences and was awarded the Legion of Honor for his contributions to science and engineering."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida, known for its beautiful architecture and rich history.",
+  "alt": "A revised sentence removes conflicting information and preserves as much valid information as possible.",
+  "prefix": " Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Talladega, Alabama.",
+  "triple": [
+    [
+      "a revised sentence",
+      "removes",
+      "the conflicting information"
+    ],
+    "compactie",
+    490
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided contain conflicting information. Statement 1 claims that the Bailey-Thompson House is located in Tallahassee, Florida, while Statement 2 states that it is located in Talladega, Alabama. Since both statements cannot be true simultaneously, they are considered contradictory."
+}

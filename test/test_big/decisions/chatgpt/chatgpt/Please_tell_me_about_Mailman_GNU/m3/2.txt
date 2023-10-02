@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about Mailman (GNU)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists."
+    },
+    {
+      "prefix_original": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists.",
+      "prefix_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists.",
+      "sent_orig": "Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users."
+    },
+    {
+      "prefix_original": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users.",
+      "prefix_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users.",
+      "sent_orig": "Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists."
+    },
+    {
+      "prefix_original": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists.",
+      "prefix_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists.",
+      "sent_orig": "It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists."
+    },
+    {
+      "prefix_original": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists.",
+      "prefix_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists.",
+      "sent_orig": "Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling."
+    },
+    {
+      "prefix_original": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists. Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling.",
+      "prefix_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists. Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling.",
+      "sent_orig": "Mailman software can be installed on different platforms, including Linux, FreeBSD, and Mac OS X.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Mailman software can be installed on different platforms, including Linux, FreeBSD, and Mac OS X."
+    },
+    {
+      "prefix_original": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists. Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling. Mailman software can be installed on different platforms, including Linux, FreeBSD, and Mac OS X.",
+      "prefix_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists. Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling. Mailman software can be installed on different platforms, including Linux, FreeBSD, and Mac OS X.",
+      "sent_orig": "Furthermore, it integrates effortlessly with other email clients such as Mailman can integrate with GnuPG or Pretty Good Privacy (PGP) for security.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Furthermore, it integrates effortlessly with other email clients such as Mailman can integrate with GnuPG or Pretty Good Privacy (PGP) for security."
+    },
+    {
+      "prefix_original": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists. Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling. Mailman software can be installed on different platforms, including Linux, FreeBSD, and Mac OS X. Furthermore, it integrates effortlessly with other email clients such as Mailman can integrate with GnuPG or Pretty Good Privacy (PGP) for security.",
+      "prefix_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists. Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling. Mailman software can be installed on different platforms, including Linux, FreeBSD, and Mac OS X. Furthermore, it integrates effortlessly with other email clients such as Mailman can integrate with GnuPG or Pretty Good Privacy (PGP) for security.",
+      "sent_orig": "Mailman has a vibrant community of contributors who work on its development and support.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Mailman has a vibrant community of contributors who work on its development and support."
+    },
+    {
+      "prefix_original": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists. Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling. Mailman software can be installed on different platforms, including Linux, FreeBSD, and Mac OS X. Furthermore, it integrates effortlessly with other email clients such as Mailman can integrate with GnuPG or Pretty Good Privacy (PGP) for security. Mailman has a vibrant community of contributors who work on its development and support.",
+      "prefix_new": "Mailman is a popular open-source software for managing electronic mail discussion and e-newsletter lists. Developed by the nonprofit organization, the GNU Project and written in Python, Mailman provides various features to handle mailing lists with multiple users. Mailman software is flexible and scalable, and it provides a user-friendly web interface to manage mailing lists. It allows administrators to set up and manage different types of mailing lists, including open lists, moderated lists, and announcement lists. Additionally, it provides multiple list management functionalities, such as subscription management, message moderation, message archives, and automatic bounce handling. Mailman software can be installed on different platforms, including Linux, FreeBSD, and Mac OS X. Furthermore, it integrates effortlessly with other email clients such as Mailman can integrate with GnuPG or Pretty Good Privacy (PGP) for security. Mailman has a vibrant community of contributors who work on its development and support.",
+      "sent_orig": "The Mailman community includes developers, users, and translators who collaborate to make the software accessible and useful for different users worldwide.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Mailman community includes developers, users, and translators who collaborate to make the software accessible and useful for different users worldwide."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about auguste cl\u00e9singer",
+  "orig": "He was born in Besan\u00e7on, France and studied under the tutelage of painter and lithographer, Jules H programma.",
+  "alt": " He was born in the city of Besan\u00e7on and studied at the \u00c9cole des Beaux-Arts in Paris.",
+  "prefix": "  Auguste Cl\u00e9singer (1814-1888) was a French sculptor and artist who was known for his work in the Romantic and Realist styles.",
+  "triple": [
+    [
+      "He",
+      "was born studied",
+      "under the tutelage of painter and lithographer, Jules H programma."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Auguste Cl\u00e9singer are contradictory. Statement 1 suggests that Cl\u00e9singer studied under Jules H programma, while Statement 2 suggests that he studied at the \u00c9cole des Beaux-Arts in Paris. These two statements cannot both be true at the same time, as they provide different information about Cl\u00e9singer's education."
+}

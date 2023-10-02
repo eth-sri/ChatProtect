@@ -1,0 +1,168 @@
+{
+  "prompt": "Please tell me about Love, Inc. (TV Series)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Love, Inc. is a TV series that aired from 2005 to 2006.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a TV series",
+            "aired",
+            "from 2005 to 2006."
+          ],
+          "It aired on NBC from 1979 to 1981.",
+          "Love, Inc. is a TV series that aired from 2005 to 2006."
+        ]
+      ],
+      "sent_new": "Love, Inc. is a TV series that aired from 2005 to 2006."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006.",
+      "sent_orig": "The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006.",
+      "sent_orig": "2.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "2."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2.",
+      "sent_orig": "Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Janey",
+            "is",
+            "a matchmaker"
+          ],
+          "Janey is the owner of Love, Inc.",
+          "Janey is a matchmaker who works at Love, Inc."
+        ]
+      ],
+      "sent_new": "Janey is a matchmaker who works at Love, Inc."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc.",
+      "sent_orig": "She's confident and always knows what to say, but she herself has yet to find love.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She's confident and always knows what to say, but she herself has yet to find love."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love.",
+      "sent_orig": "3.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "3."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3.",
+      "sent_orig": "Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure.",
+      "sent_orig": "She's a bit of a wild card, but she has a good heart.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She's a bit of a wild card, but she has a good heart."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart.",
+      "sent_orig": "4.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "4."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4.",
+      "sent_orig": "Lily (played by Nikki Cox) - a former model who's now a struggling actress.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Lily (played by Nikki Cox) - a former model who's now a struggling actress."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress.",
+      "sent_orig": "She's a bit shallow, but she's also very caring and loyal to her friends.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She's a bit shallow, but she's also very caring and loyal to her friends."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends.",
+      "sent_orig": "5.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "5."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5.",
+      "sent_orig": "Naomi joins Love, Inc. after a recent breakup.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Naomi joins Love, Inc. after a recent breakup."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup.",
+      "sent_orig": "She's confident and calculating, but she's also searching for love.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She's confident and calculating, but she's also searching for love."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup. She's confident and calculating, but she's also searching for love.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup. She's confident and calculating, but she's also searching for love.",
+      "sent_orig": "Throughout the show, the women work to help their clients find love, often with hilarious and heartwarming results.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout the show, the women work to help their clients find love, often with hilarious and heartwarming results."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup. She's confident and calculating, but she's also searching for love. Throughout the show, the women work to help their clients find love, often with hilarious and heartwarming results.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup. She's confident and calculating, but she's also searching for love. Throughout the show, the women work to help their clients find love, often with hilarious and heartwarming results.",
+      "sent_orig": "They also navigate their own romantic entanglements, which are sometimes messy but always entertaining.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They also navigate their own romantic entanglements, which are sometimes messy but always entertaining."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup. She's confident and calculating, but she's also searching for love. Throughout the show, the women work to help their clients find love, often with hilarious and heartwarming results. They also navigate their own romantic entanglements, which are sometimes messy but always entertaining.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup. She's confident and calculating, but she's also searching for love. Throughout the show, the women work to help their clients find love, often with hilarious and heartwarming results. They also navigate their own romantic entanglements, which are sometimes messy but always entertaining.",
+      "sent_orig": "Love, Inc. was praised for its diverse and likable cast of characters, its witty humor, and its emphasis on women's empowerment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Love, Inc. was praised for its diverse and likable cast of characters, its witty humor, and its emphasis on women's empowerment."
+    },
+    {
+      "prefix_original": "Love, Inc. is a TV series that aired from 2005 to 2006. The show's main characters are five single women who work at a dating consultancy called \"Love, Inc.\" Daphne (played by Sara Rue) is a straight shooter who has a way with helping others find happiness. 2. Janey (played by Jennifer Finnigan) is a matchmaker who works at Love, Inc. and often clashes with Daphne. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup. She's confident and calculating, but she's also searching for love. Throughout the show, the women work to help their clients find love, often with hilarious and heartwarming results. They also navigate their own romantic entanglements, which are sometimes messy but always entertaining. Love, Inc. was praised for its diverse and likable cast of characters, its witty humor, and its emphasis on women's empowerment.",
+      "prefix_new": "Love, Inc. is a TV series that aired from 2005 to 2006. 2. Janey is a matchmaker who works at Love, Inc. She's confident and always knows what to say, but she herself has yet to find love. 3. Kelley (played by Autumn Reeser) - a free-spirited artist who's always up for a new adventure. She's a bit of a wild card, but she has a good heart. 4. Lily (played by Nikki Cox) - a former model who's now a struggling actress. She's a bit shallow, but she's also very caring and loyal to her friends. 5. Naomi joins Love, Inc. after a recent breakup. She's confident and calculating, but she's also searching for love. Throughout the show, the women work to help their clients find love, often with hilarious and heartwarming results. They also navigate their own romantic entanglements, which are sometimes messy but always entertaining. Love, Inc. was praised for its diverse and likable cast of characters, its witty humor, and its emphasis on women's empowerment.",
+      "sent_orig": "While the show only lasted one season, it has developed a cult following and remains a beloved show for many viewers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "While the show only lasted one season, it has developed a cult following and remains a beloved show for many viewers."
+    }
+  ]
+}

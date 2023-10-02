@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about Bobby Coleman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California."
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California.",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California.",
+      "sent_orig": "He began his acting career at the age of six and has appeared in numerous films and television shows since then.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He began his acting career at the age of six and has appeared in numerous films and television shows since then."
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He began his acting career at the age of six and has appeared in numerous films and television shows since then.",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He began his acting career at the age of six and has appeared in numerous films and television shows since then.",
+      "sent_orig": "Some of his notable roles include playing the younger version of the character Jake in the film \"Martian Child,\" Eric in the film \"Friends with Money,\" and Bobby Jr. in the film \"Last Song.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some of his notable roles include playing the younger version of the character Jake in the film \"Martian Child,\" Eric in the film \"Friends with Money,\" and Bobby Jr. in the film \"Last Song.\""
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He began his acting career at the age of six and has appeared in numerous films and television shows since then. Some of his notable roles include playing the younger version of the character Jake in the film \"Martian Child,\" Eric in the film \"Friends with Money,\" and Bobby Jr. in the film \"Last Song.\"",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He began his acting career at the age of six and has appeared in numerous films and television shows since then. Some of his notable roles include playing the younger version of the character Jake in the film \"Martian Child,\" Eric in the film \"Friends with Money,\" and Bobby Jr. in the film \"Last Song.\"",
+      "sent_orig": "In addition to his acting career, Coleman has appeared in numerous films and television shows since he began his career at the age of six.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his acting career, Coleman has appeared in numerous films and television shows since he began his career at the age of six."
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He began his acting career at the age of six and has appeared in numerous films and television shows since then. Some of his notable roles include playing the younger version of the character Jake in the film \"Martian Child,\" Eric in the film \"Friends with Money,\" and Bobby Jr. in the film \"Last Song.\" In addition to his acting career, Coleman has appeared in numerous films and television shows since he began his career at the age of six.",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He began his acting career at the age of six and has appeared in numerous films and television shows since then. Some of his notable roles include playing the younger version of the character Jake in the film \"Martian Child,\" Eric in the film \"Friends with Money,\" and Bobby Jr. in the film \"Last Song.\" In addition to his acting career, Coleman has appeared in numerous films and television shows since he began his career at the age of six.",
+      "sent_orig": "He is known for his talent, dedication, and hard work in the entertainment industry and has gained a significant fan following over the years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is known for his talent, dedication, and hard work in the entertainment industry and has gained a significant fan following over the years."
+    }
+  ]
+}

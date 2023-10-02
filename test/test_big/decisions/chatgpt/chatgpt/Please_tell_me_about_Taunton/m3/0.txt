@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about Taunton",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Taunton is a town located in the county of Somerset, England.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Taunton is a town located in the county of Somerset, England."
+    },
+    {
+      "prefix_original": "Taunton is a town located in the county of Somerset, England.",
+      "prefix_new": "Taunton is a town located in the county of Somerset, England.",
+      "sent_orig": "Taunton is the county town of Somerset.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Taunton is the county town of Somerset."
+    },
+    {
+      "prefix_original": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset.",
+      "prefix_new": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset.",
+      "sent_orig": "Taunton is known for its rich history, which dates back to the Saxon era.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Taunton is known for its rich history, which dates back to the Saxon era."
+    },
+    {
+      "prefix_original": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era.",
+      "prefix_new": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era.",
+      "sent_orig": "It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset."
+    },
+    {
+      "prefix_original": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset.",
+      "prefix_new": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset.",
+      "sent_orig": "The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show."
+    },
+    {
+      "prefix_original": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset. The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show.",
+      "prefix_new": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset. The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show.",
+      "sent_orig": "It is also home to several popular events such as the Taunton Carnival, held annually in November, and the Taunton Food and Drink Festival, held every April.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also home to several popular events such as the Taunton Carnival, held annually in November, and the Taunton Food and Drink Festival, held every April."
+    },
+    {
+      "prefix_original": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset. The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show. It is also home to several popular events such as the Taunton Carnival, held annually in November, and the Taunton Food and Drink Festival, held every April.",
+      "prefix_new": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset. The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show. It is also home to several popular events such as the Taunton Carnival, held annually in November, and the Taunton Food and Drink Festival, held every April.",
+      "sent_orig": "Taunton is a thriving town with a diverse economy, including a strong agricultural sector, tourism, and several large businesses.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Taunton is a thriving town with a diverse economy, including a strong agricultural sector, tourism, and several large businesses."
+    },
+    {
+      "prefix_original": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset. The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show. It is also home to several popular events such as the Taunton Carnival, held annually in November, and the Taunton Food and Drink Festival, held every April. Taunton is a thriving town with a diverse economy, including a strong agricultural sector, tourism, and several large businesses.",
+      "prefix_new": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset. The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show. It is also home to several popular events such as the Taunton Carnival, held annually in November, and the Taunton Food and Drink Festival, held every April. Taunton is a thriving town with a diverse economy, including a strong agricultural sector, tourism, and several large businesses.",
+      "sent_orig": "It is also home to a number of excellent schools, including Taunton School and The Castle School.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also home to a number of excellent schools, including Taunton School and The Castle School."
+    },
+    {
+      "prefix_original": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset. The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show. It is also home to several popular events such as the Taunton Carnival, held annually in November, and the Taunton Food and Drink Festival, held every April. Taunton is a thriving town with a diverse economy, including a strong agricultural sector, tourism, and several large businesses. It is also home to a number of excellent schools, including Taunton School and The Castle School.",
+      "prefix_new": "Taunton is a town located in the county of Somerset, England. Taunton is the county town of Somerset. Taunton is known for its rich history, which dates back to the Saxon era. It played an important role in the civil war and boasts several historic sites such as Taunton Castle, which now houses the Museum of Somerset. The town is also known for its beautiful parks and gardens, including Vivary Park and Taunton Flower Show. It is also home to several popular events such as the Taunton Carnival, held annually in November, and the Taunton Food and Drink Festival, held every April. Taunton is a thriving town with a diverse economy, including a strong agricultural sector, tourism, and several large businesses. It is also home to a number of excellent schools, including Taunton School and The Castle School.",
+      "sent_orig": "Overall, Taunton is a charming and vibrant town with a rich history and plenty to offer visitors and residents alike.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Taunton is a charming and vibrant town with a rich history and plenty to offer visitors and residents alike."
+    }
+  ]
+}

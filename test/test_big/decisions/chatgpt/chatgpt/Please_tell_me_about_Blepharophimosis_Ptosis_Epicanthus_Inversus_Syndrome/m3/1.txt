@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows."
+    },
+    {
+      "prefix_original": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows.",
+      "prefix_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows.",
+      "sent_orig": "It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus)."
+    },
+    {
+      "prefix_original": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus).",
+      "prefix_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus).",
+      "sent_orig": "There are two types of BPES: type I and type II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "There are two types of BPES: type I and type II."
+    },
+    {
+      "prefix_original": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II.",
+      "prefix_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II.",
+      "sent_orig": "Type I is primarily characterized by blepharophimosis and ptosis, while type II also includes ovarian dysfunction in affected females.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Type I",
+            "is primarily characterized",
+            "by blepharophimosis and ptosis,"
+          ],
+          "Type I is primarily characterized by the presence of infertility in affected females due to ovarian dysfunction.",
+          "Type I is primarily characterized by blepharophimosis and ptosis."
+        ]
+      ],
+      "sent_new": "Type I is primarily characterized by blepharophimosis and ptosis."
+    },
+    {
+      "prefix_original": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis, while type II also includes ovarian dysfunction in affected females.",
+      "prefix_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis.",
+      "sent_orig": "BPES is caused by mutations in the FOXL2 gene on chromosome 3.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "BPES is caused by mutations in the FOXL2 gene on chromosome 3."
+    },
+    {
+      "prefix_original": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis, while type II also includes ovarian dysfunction in affected females. BPES is caused by mutations in the FOXL2 gene on chromosome 3.",
+      "prefix_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis. BPES is caused by mutations in the FOXL2 gene on chromosome 3.",
+      "sent_orig": "In addition to the eye and ovarian symptoms, individuals with BPES may have other abnormalities such as a small jaw, ear abnormalities, and tooth abnormalities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to the eye and ovarian symptoms, individuals with BPES may have other abnormalities such as a small jaw, ear abnormalities, and tooth abnormalities."
+    },
+    {
+      "prefix_original": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis, while type II also includes ovarian dysfunction in affected females. BPES is caused by mutations in the FOXL2 gene on chromosome 3. In addition to the eye and ovarian symptoms, individuals with BPES may have other abnormalities such as a small jaw, ear abnormalities, and tooth abnormalities.",
+      "prefix_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis. BPES is caused by mutations in the FOXL2 gene on chromosome 3. In addition to the eye and ovarian symptoms, individuals with BPES may have other abnormalities such as a small jaw, ear abnormalities, and tooth abnormalities.",
+      "sent_orig": "The severity of symptoms can vary even among individuals with the same genetic mutation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The severity of symptoms can vary even among individuals with the same genetic mutation."
+    },
+    {
+      "prefix_original": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis, while type II also includes ovarian dysfunction in affected females. BPES is caused by mutations in the FOXL2 gene on chromosome 3. In addition to the eye and ovarian symptoms, individuals with BPES may have other abnormalities such as a small jaw, ear abnormalities, and tooth abnormalities. The severity of symptoms can vary even among individuals with the same genetic mutation.",
+      "prefix_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis. BPES is caused by mutations in the FOXL2 gene on chromosome 3. In addition to the eye and ovarian symptoms, individuals with BPES may have other abnormalities such as a small jaw, ear abnormalities, and tooth abnormalities. The severity of symptoms can vary even among individuals with the same genetic mutation.",
+      "sent_orig": "Treatment for BPES generally involves surgery to correct ptosis or blepharophimosis and infertility treatments for females with type II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Treatment for BPES generally involves surgery to correct ptosis or blepharophimosis and infertility treatments for females with type II."
+    },
+    {
+      "prefix_original": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis, while type II also includes ovarian dysfunction in affected females. BPES is caused by mutations in the FOXL2 gene on chromosome 3. In addition to the eye and ovarian symptoms, individuals with BPES may have other abnormalities such as a small jaw, ear abnormalities, and tooth abnormalities. The severity of symptoms can vary even among individuals with the same genetic mutation. Treatment for BPES generally involves surgery to correct ptosis or blepharophimosis and infertility treatments for females with type II.",
+      "prefix_new": "Blepharophimosis, Ptosis, Epicanthus Inversus Syndrome (BPES) is a rare genetic disorder that affects the development of the eyelids and eyebrows. It is characterized by a small eye opening (blepharophimosis), droopy eyelids (ptosis), and a fold of skin from the upper eyelid that covers the inner corner of the eye (epicanthus inversus). There are two types of BPES: type I and type II. Type I is primarily characterized by blepharophimosis and ptosis. BPES is caused by mutations in the FOXL2 gene on chromosome 3. In addition to the eye and ovarian symptoms, individuals with BPES may have other abnormalities such as a small jaw, ear abnormalities, and tooth abnormalities. The severity of symptoms can vary even among individuals with the same genetic mutation. Treatment for BPES generally involves surgery to correct ptosis or blepharophimosis and infertility treatments for females with type II.",
+      "sent_orig": "Genetic counseling is also recommended for individuals and families affected by BPES.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Genetic counseling is also recommended for individuals and families affected by BPES."
+    }
+  ]
+}

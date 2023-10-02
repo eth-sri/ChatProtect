@@ -1,0 +1,39 @@
+{
+  "prompt": "Please tell me about mick garris",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Mickey Gilley is a country music singer and songwriter, born in 1937 in Houston, Texas.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a country music singer and songwriter,",
+            "born",
+            "in 1937 in Houston,"
+          ],
+          "Mick Garris is a country music singer and songwriter, born in the United States.",
+          "Mick Garris is a country music singer and songwriter."
+        ]
+      ],
+      "sent_new": "Mick Garris is a country music singer and songwriter."
+    },
+    {
+      "prefix_original": "Mickey Gilley is a country music singer and songwriter, born in 1937 in Houston, Texas.",
+      "prefix_new": "Mick Garris is a country music singer and songwriter.",
+      "sent_orig": "He is known for his hits such as \"Chain Gang\" and \"Don't The Girls All Get Prettier At Closing Time.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is known for his hits such as \"Chain Gang\" and \"Don't The Girls All Get Prettier At Closing Time.\""
+    },
+    {
+      "prefix_original": "Mickey Gilley is a country music singer and songwriter, born in 1937 in Houston, Texas. He is known for his hits such as \"Chain Gang\" and \"Don't The Girls All Get Prettier At Closing Time.\"",
+      "prefix_new": "Mick Garris is a country music singer and songwriter. He is known for his hits such as \"Chain Gang\" and \"Don't The Girls All Get Prettier At Closing Time.\"",
+      "sent_orig": "He has also been a successful businessman, owning several bars and nightclubs throughout his career.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also been a successful businessman, owning several bars and nightclubs throughout his career."
+    }
+  ]
+}

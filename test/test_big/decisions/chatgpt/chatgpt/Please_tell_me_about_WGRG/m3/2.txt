@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about WGRG",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity."
+    },
+    {
+      "prefix_original": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity.",
+      "prefix_new": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity.",
+      "sent_orig": "Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways."
+    },
+    {
+      "prefix_original": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways.",
+      "prefix_new": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways.",
+      "sent_orig": "WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection."
+    },
+    {
+      "prefix_original": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways. WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection.",
+      "prefix_new": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways. WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection.",
+      "sent_orig": "They offer workshops, retreats, and training courses for individuals and groups, and have also published numerous books and other materials.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They offer workshops, retreats, and training courses for individuals and groups, and have also published numerous books and other materials."
+    },
+    {
+      "prefix_original": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways. WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection. They offer workshops, retreats, and training courses for individuals and groups, and have also published numerous books and other materials.",
+      "prefix_new": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways. WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection. They offer workshops, retreats, and training courses for individuals and groups, and have also published numerous books and other materials.",
+      "sent_orig": "The organization is well-known for its development of the Iona Community, based on Iona, a small island off the coast of Scotland.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The organization",
+            "based",
+            "on Iona,"
+          ],
+          "The organization is based in Glasgow, Scotland.",
+          "The organization developed the Iona Community on Iona, a small island off the coast of Scotland."
+        ]
+      ],
+      "sent_new": "The organization developed the Iona Community on Iona, a small island off the coast of Scotland."
+    },
+    {
+      "prefix_original": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways. WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection. They offer workshops, retreats, and training courses for individuals and groups, and have also published numerous books and other materials. The organization is well-known for its development of the Iona Community, based on Iona, a small island off the coast of Scotland.",
+      "prefix_new": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways. WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection. They offer workshops, retreats, and training courses for individuals and groups, and have also published numerous books and other materials. The organization developed the Iona Community on Iona, a small island off the coast of Scotland.",
+      "sent_orig": "The Iona Community seeks to explore and promote alternative forms of worship and spiritual expression, while also emphasizing justice, peace, and social action.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Iona Community seeks to explore and promote alternative forms of worship and spiritual expression, while also emphasizing justice, peace, and social action."
+    },
+    {
+      "prefix_original": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways. WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection. They offer workshops, retreats, and training courses for individuals and groups, and have also published numerous books and other materials. The organization is well-known for its development of the Iona Community, based on Iona, a small island off the coast of Scotland. The Iona Community seeks to explore and promote alternative forms of worship and spiritual expression, while also emphasizing justice, peace, and social action.",
+      "prefix_new": "WGRG, or the Wild Goose Resource Group, is a Christian organization based in Scotland that seeks to encourage and support spiritual exploration and creativity. Through their work, they aim to provide resources and opportunities for individuals and communities to engage with the Christian tradition in innovative, inclusive, and open-minded ways. WGRG emphasizes the importance of collaboration and dialogue, and has developed a wide range of resources for worship, prayer, meditation, and group reflection. They offer workshops, retreats, and training courses for individuals and groups, and have also published numerous books and other materials. The organization developed the Iona Community on Iona, a small island off the coast of Scotland. The Iona Community seeks to explore and promote alternative forms of worship and spiritual expression, while also emphasizing justice, peace, and social action.",
+      "sent_orig": "Overall, WGRG is committed to promoting spiritual diversity and creativity within the Christian tradition, and supporting individuals and communities seeking to explore their faith in new and inspiring ways.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, WGRG is committed to promoting spiritual diversity and creativity within the Christian tradition, and supporting individuals and communities seeking to explore their faith in new and inspiring ways."
+    }
+  ]
+}

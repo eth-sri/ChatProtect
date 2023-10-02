@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about charles magnette",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Charles Magnette",
+            "was",
+            "a Belgian engineer and car designer,"
+          ],
+          "Charles Magnette was a Belgian lawyer and politician.",
+          "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name."
+        ]
+      ],
+      "sent_new": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name."
+    },
+    {
+      "prefix_original": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name.",
+      "prefix_new": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name.",
+      "sent_orig": "He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege."
+    },
+    {
+      "prefix_original": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege.",
+      "prefix_new": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege.",
+      "sent_orig": "Magnette helped develop several successful models, including the MG-A and MG-B sports cars.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Magnette helped develop several successful models, including the MG-A and MG-B sports cars."
+    },
+    {
+      "prefix_original": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars.",
+      "prefix_new": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars.",
+      "sent_orig": "He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite."
+    },
+    {
+      "prefix_original": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars. He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite.",
+      "prefix_new": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars. He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite.",
+      "sent_orig": "In addition to his work with the MG brand, Magnette was also involved in other areas of the automotive industry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work with the MG brand, Magnette was also involved in other areas of the automotive industry."
+    },
+    {
+      "prefix_original": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars. He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite. In addition to his work with the MG brand, Magnette was also involved in other areas of the automotive industry.",
+      "prefix_new": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars. He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite. In addition to his work with the MG brand, Magnette was also involved in other areas of the automotive industry.",
+      "sent_orig": "He served as president of the Federation International des Vehicules Anciens, a group dedicated to the preservation of historic vehicles, and was a member of the Royal Automobile Club and the Society of Automotive Engineers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He served as president of the Federation International des Vehicules Anciens, a group dedicated to the preservation of historic vehicles, and was a member of the Royal Automobile Club and the Society of Automotive Engineers."
+    },
+    {
+      "prefix_original": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars. He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite. In addition to his work with the MG brand, Magnette was also involved in other areas of the automotive industry. He served as president of the Federation International des Vehicules Anciens, a group dedicated to the preservation of historic vehicles, and was a member of the Royal Automobile Club and the Society of Automotive Engineers.",
+      "prefix_new": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars. He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite. In addition to his work with the MG brand, Magnette was also involved in other areas of the automotive industry. He served as president of the Federation International des Vehicules Anciens, a group dedicated to the preservation of historic vehicles, and was a member of the Royal Automobile Club and the Society of Automotive Engineers.",
+      "sent_orig": "Magnette was a well-respected figure in the world of automotive design, and his contributions to the industry continue to be celebrated today.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Magnette was a well-respected figure in the world of automotive design, and his contributions to the industry continue to be celebrated today."
+    },
+    {
+      "prefix_original": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars. He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite. In addition to his work with the MG brand, Magnette was also involved in other areas of the automotive industry. He served as president of the Federation International des Vehicules Anciens, a group dedicated to the preservation of historic vehicles, and was a member of the Royal Automobile Club and the Society of Automotive Engineers. Magnette was a well-respected figure in the world of automotive design, and his contributions to the industry continue to be celebrated today.",
+      "prefix_new": "Charles Magnette (1908-1986) was a Belgian engineer and car designer, known for his work with the automobile company that bore his family name. He was born into a family of automotive builders and went on to study mechanical engineering at the University of Liege. Magnette helped develop several successful models, including the MG-A and MG-B sports cars. He became managing director of the company in the 1950s and oversaw the production of a number of popular vehicles, such as the Midget and Sprite. In addition to his work with the MG brand, Magnette was also involved in other areas of the automotive industry. He served as president of the Federation International des Vehicules Anciens, a group dedicated to the preservation of historic vehicles, and was a member of the Royal Automobile Club and the Society of Automotive Engineers. Magnette was a well-respected figure in the world of automotive design, and his contributions to the industry continue to be celebrated today.",
+      "sent_orig": "Several of the cars he helped develop have become classics and are highly sought-after by collectors and enthusiasts around the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Several of the cars he helped develop have become classics and are highly sought-after by collectors and enthusiasts around the world."
+    }
+  ]
+}

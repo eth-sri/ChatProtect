@@ -1,0 +1,142 @@
+{
+  "prompt": "Please tell me about john francis daley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " John Francis Daley is a Canadian-American actor, voice actor, and musician.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "John Francis Daley",
+            "is",
+            "a Canadian-American actor, voice actor, and musician."
+          ],
+          " John Francis Daley is a Canadian actor and musician.",
+          "John Francis Daley is an actor, voice actor, and musician."
+        ]
+      ],
+      "sent_new": "John Francis Daley is an actor, voice actor, and musician."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician.",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician.",
+      "sent_orig": "He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\"",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\"",
+      "sent_orig": "Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada.",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada.",
+      "sent_orig": "He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\"",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\"",
+      "sent_orig": "In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "was cast",
+            "as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series"
+          ],
+          " He was cast as the voice of Bart Simpson in 1989, taking over the role from Nancy Cartwright who had voiced the character in the show's first season.",
+          "In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s."
+        ]
+      ],
+      "sent_new": "In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s.",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s.",
+      "sent_orig": "In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons,\" replacing Nancy Cartwright who had voiced the character since the show's debut in 1989.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Nancy Cartwright",
+            "had voiced",
+            ""
+          ],
+          " Nancy Cartwright had voiced the character of Bart Simpson on The Simpsons before Daley took over the role.",
+          "In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons.\""
+        ]
+      ],
+      "sent_new": "In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons,\" replacing Nancy Cartwright who had voiced the character since the show's debut in 1989.",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons.\"",
+      "sent_orig": "Daley has since become a regular cast member on the show and has also voiced other characters, including Bart's sister Lisa.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons,\" replacing Nancy Cartwright who had voiced the character since the show's debut in 1989. Daley has since become a regular cast member on the show and has also voiced other characters, including Bart's sister Lisa.",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons.\"",
+      "sent_orig": "In addition to his work on \"The Simpsons,\" Daley has appeared in various films and television shows, including \"Bones,\" \"Breaking Bad,\" and \"The Goldbergs.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work on \"The Simpsons,\" Daley has appeared in various films and television shows, including \"Bones,\" \"Breaking Bad,\" and \"The Goldbergs.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons,\" replacing Nancy Cartwright who had voiced the character since the show's debut in 1989. Daley has since become a regular cast member on the show and has also voiced other characters, including Bart's sister Lisa. In addition to his work on \"The Simpsons,\" Daley has appeared in various films and television shows, including \"Bones,\" \"Breaking Bad,\" and \"The Goldbergs.\"",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons.\" In addition to his work on \"The Simpsons,\" Daley has appeared in various films and television shows, including \"Bones,\" \"Breaking Bad,\" and \"The Goldbergs.\"",
+      "sent_orig": "He has also written and directed several episodes of \"The Simpsons\" and has been nominated for several awards for his work on the show.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also written and directed several episodes of \"The Simpsons\" and has been nominated for several awards for his work on the show."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons,\" replacing Nancy Cartwright who had voiced the character since the show's debut in 1989. Daley has since become a regular cast member on the show and has also voiced other characters, including Bart's sister Lisa. In addition to his work on \"The Simpsons,\" Daley has appeared in various films and television shows, including \"Bones,\" \"Breaking Bad,\" and \"The Goldbergs.\" He has also written and directed several episodes of \"The Simpsons\" and has been nominated for several awards for his work on the show.",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons.\" In addition to his work on \"The Simpsons,\" Daley has appeared in various films and television shows, including \"Bones,\" \"Breaking Bad,\" and \"The Goldbergs.\" He has also written and directed several episodes of \"The Simpsons\" and has been nominated for several awards for his work on the show.",
+      "sent_orig": "Daley is also a musician and has released several albums, including \"These Things We Did\" and \"So mines the Flies.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Daley",
+            "is has released",
+            ""
+          ],
+          " Daley has released several music albums, including \"Fancies\" and \"Maybe You'll Be Impressed.\"",
+          "Daley is also a musician and has released several albums, including \"These Things We Did.\""
+        ]
+      ],
+      "sent_new": "Daley is also a musician and has released several albums, including \"These Things We Did.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons,\" replacing Nancy Cartwright who had voiced the character since the show's debut in 1989. Daley has since become a regular cast member on the show and has also voiced other characters, including Bart's sister Lisa. In addition to his work on \"The Simpsons,\" Daley has appeared in various films and television shows, including \"Bones,\" \"Breaking Bad,\" and \"The Goldbergs.\" He has also written and directed several episodes of \"The Simpsons\" and has been nominated for several awards for his work on the show. Daley is also a musician and has released several albums, including \"These Things We Did\" and \"So mines the Flies.\"",
+      "prefix_new": "John Francis Daley is an actor, voice actor, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as the voice of Bart Simpson on the animated television series \"The Simpsons.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films, including \"The Wonder Years\" and \"Breaking Bad.\" In 2000, he was cast as Sam Weir in \"Freaks and Geeks,\" a critically acclaimed but short-lived television series that follows the lives of two groups of high school students in the 1980s. In 2001, Daley was cast as the voice of Bart Simpson on \"The Simpsons.\" In addition to his work on \"The Simpsons,\" Daley has appeared in various films and television shows, including \"Bones,\" \"Breaking Bad,\" and \"The Goldbergs.\" He has also written and directed several episodes of \"The Simpsons\" and has been nominated for several awards for his work on the show. Daley is also a musician and has released several albums, including \"These Things We Did.\"",
+      "sent_orig": "He has been married to his wife, Becky, since 2016 and they have two children together.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "has been",
+            "since 2016"
+          ],
+          " He has been a regular cast member on \"The Simpsons\" for over two decades.",
+          "He has been married to his wife, Becky, since 2016."
+        ]
+      ],
+      "sent_new": "He has been married to his wife, Becky, since 2016."
+    }
+  ]
+}

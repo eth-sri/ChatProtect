@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about leah smith (swimmer)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition."
+    },
+    {
+      "prefix_original": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition.",
+      "prefix_new": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition.",
+      "sent_orig": "She was born on April 19, 1995 in Pittsburgh, Pennsylvania.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was born on April 19, 1995 in Pittsburgh, Pennsylvania."
+    },
+    {
+      "prefix_original": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania.",
+      "prefix_new": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania.",
+      "sent_orig": "Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete."
+    },
+    {
+      "prefix_original": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete.",
+      "prefix_new": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete.",
+      "sent_orig": "In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle."
+    },
+    {
+      "prefix_original": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete. In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle.",
+      "prefix_new": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete. In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle.",
+      "sent_orig": "Smith continued to have success in international competition, winning multiple medals at the 2017 World Aquatics Championships and the 2019 FINA World Championships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Smith continued to have success in international competition, winning multiple medals at the 2017 World Aquatics Championships and the 2019 FINA World Championships."
+    },
+    {
+      "prefix_original": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete. In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle. Smith continued to have success in international competition, winning multiple medals at the 2017 World Aquatics Championships and the 2019 FINA World Championships.",
+      "prefix_new": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete. In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle. Smith continued to have success in international competition, winning multiple medals at the 2017 World Aquatics Championships and the 2019 FINA World Championships.",
+      "sent_orig": "She is known for her versatility in different freestyle distances, as well as her strong finishes in distance events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is known for her versatility in different freestyle distances, as well as her strong finishes in distance events."
+    },
+    {
+      "prefix_original": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete. In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle. Smith continued to have success in international competition, winning multiple medals at the 2017 World Aquatics Championships and the 2019 FINA World Championships. She is known for her versatility in different freestyle distances, as well as her strong finishes in distance events.",
+      "prefix_new": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete. In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle. Smith continued to have success in international competition, winning multiple medals at the 2017 World Aquatics Championships and the 2019 FINA World Championships. She is known for her versatility in different freestyle distances, as well as her strong finishes in distance events.",
+      "sent_orig": "Off the pool, Smith is known for her advocacy work around mental health awareness, having spoken publicly about her own struggles with anxiety and depression.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Off the pool, Smith is known for her advocacy work around mental health awareness, having spoken publicly about her own struggles with anxiety and depression."
+    },
+    {
+      "prefix_original": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete. In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle. Smith continued to have success in international competition, winning multiple medals at the 2017 World Aquatics Championships and the 2019 FINA World Championships. She is known for her versatility in different freestyle distances, as well as her strong finishes in distance events. Off the pool, Smith is known for her advocacy work around mental health awareness, having spoken publicly about her own struggles with anxiety and depression.",
+      "prefix_new": "Leah Smith is an American competitive swimmer who has won multiple medals in international competition. She was born on April 19, 1995 in Pittsburgh, Pennsylvania. Smith began swimming at a young age and went on to compete at the University of Virginia, where she was a standout athlete. In 2016, she competed in the Summer Olympics in Rio de Janeiro and won a gold medal as part of the US 4x200m freestyle relay team, as well as a bronze medal in the 400m freestyle. Smith continued to have success in international competition, winning multiple medals at the 2017 World Aquatics Championships and the 2019 FINA World Championships. She is known for her versatility in different freestyle distances, as well as her strong finishes in distance events. Off the pool, Smith is known for her advocacy work around mental health awareness, having spoken publicly about her own struggles with anxiety and depression.",
+      "sent_orig": "She also supports organizations like the National Alliance on Mental Illness and Active Minds.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She also supports organizations like the National Alliance on Mental Illness and Active Minds."
+    }
+  ]
+}

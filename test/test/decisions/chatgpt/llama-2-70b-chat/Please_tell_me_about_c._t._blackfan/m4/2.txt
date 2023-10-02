@@ -1,0 +1,145 @@
+{
+  "prompt": "Please tell me about c. t. blackfan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " C.T."
+    },
+    {
+      "prefix_original": " C.T.",
+      "prefix_new": " C.T.",
+      "sent_orig": "C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "C.T."
+    },
+    {
+      "prefix_original": " C.T. C.T.",
+      "prefix_new": " C.T. C.T.",
+      "sent_orig": "C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "C.T."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T.",
+      "prefix_new": " C.T. C.T. C.T.",
+      "sent_orig": "Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Blackfan",
+            "was",
+            "an"
+          ],
+          " C.T. Blackfan was a British physician and hematologist.",
+          "C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism."
+        ]
+      ],
+      "sent_new": "C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism.",
+      "sent_orig": "After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States.",
+      "sent_orig": "Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes.",
+      "sent_orig": "He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria.",
+      "sent_orig": "Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders.",
+      "sent_orig": "He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU.",
+      "sent_orig": "He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications.",
+      "sent_orig": "Blackfan was a prolific researcher and published numerous papers on his findings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan was a prolific researcher and published numerous papers on his findings."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications. Blackfan was a prolific researcher and published numerous papers on his findings.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications. Blackfan was a prolific researcher and published numerous papers on his findings.",
+      "sent_orig": "He was also a respected teacher and mentor, training many aspiring geneticists who went on to make important contributions in the field.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a respected teacher and mentor, training many aspiring geneticists who went on to make important contributions in the field."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications. Blackfan was a prolific researcher and published numerous papers on his findings. He was also a respected teacher and mentor, training many aspiring geneticists who went on to make important contributions in the field.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications. Blackfan was a prolific researcher and published numerous papers on his findings. He was also a respected teacher and mentor, training many aspiring geneticists who went on to make important contributions in the field.",
+      "sent_orig": "Throughout his career, Blackfan was recognized for his contributions to medicine and genetics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout his career, Blackfan was recognized for his contributions to medicine and genetics."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications. Blackfan was a prolific researcher and published numerous papers on his findings. He was also a respected teacher and mentor, training many aspiring geneticists who went on to make important contributions in the field. Throughout his career, Blackfan was recognized for his contributions to medicine and genetics.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications. Blackfan was a prolific researcher and published numerous papers on his findings. He was also a respected teacher and mentor, training many aspiring geneticists who went on to make important contributions in the field. Throughout his career, Blackfan was recognized for his contributions to medicine and genetics.",
+      "sent_orig": "He was awarded the Albert Lasker Award for Basic Medical Research.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was awarded",
+            "the Albert Lasker Award for Basic Medical Research."
+          ],
+          " He was awarded the Albert Lasker Award for Basic Medical Research in 1958.",
+          "He was awarded the Albert Lasker Award."
+        ]
+      ],
+      "sent_new": "He was awarded the Albert Lasker Award."
+    },
+    {
+      "prefix_original": " C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications. Blackfan was a prolific researcher and published numerous papers on his findings. He was also a respected teacher and mentor, training many aspiring geneticists who went on to make important contributions in the field. Throughout his career, Blackfan was recognized for his contributions to medicine and genetics. He was awarded the Albert Lasker Award for Basic Medical Research.",
+      "prefix_new": " C.T. C.T. C.T. C.T. Blackfan was an American pediatrician and clinical geneticist who made significant contributions to the field of medical genetics, particularly in the area of inborn errors of metabolism. After completing his training, Blackfan moved to Boston Children's Hospital, where he established the first clinical genetics unit in the United States. Blackfan's work focused on understanding the genetic basis of inherited diseases, and he was one of the first researchers to propose that many genetic disorders were caused by errors in the body's metabolic processes. He identified several inborn errors of metabolism, including phenylketonuria (PKU), maple syrup urine disease, and homocystinuria. Blackfan was also a pioneer in the use of diagnostic testing for genetic disorders. He developed a method for measuring the levels of amino acids in the blood, which allowed him to diagnose and monitor genetic disorders such as PKU. He also advocated for the use of dietary therapy as a treatment for certain genetic disorders, recognizing that changes in diet could help alleviate symptoms and prevent complications. Blackfan was a prolific researcher and published numerous papers on his findings. He was also a respected teacher and mentor, training many aspiring geneticists who went on to make important contributions in the field. Throughout his career, Blackfan was recognized for his contributions to medicine and genetics. He was awarded the Albert Lasker Award.",
+      "sent_orig": "Blackfan died in 1972, but his work continues to have a lasting impact on the field of medical genetics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan died in 1972, but his work continues to have a lasting impact on the field of medical genetics."
+    }
+  ]
+}

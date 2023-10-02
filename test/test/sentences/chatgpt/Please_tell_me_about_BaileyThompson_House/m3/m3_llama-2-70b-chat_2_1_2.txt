@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida, known for its beautiful architecture and rich history.",
+  "alt": "The Bailey-Thompson House is listed on the National Register of Historic Places.",
+  "prefix": " Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Talladega, Alabama.",
+  "triple": [
+    [
+      "The Bailey-Thompson House",
+      "is",
+      "a historic home"
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided contain conflicting information. Statement 1 mentions the Bailey-Thompson House being located in Tallahassee, Florida, while Statement 2 states that it is listed on the National Register of Historic Places, which suggests that it is a nationally recognized historic site. However, the National Register of Historic Places does not list buildings located in Tallahassee, Florida. Therefore, it is unclear which location is accurate. To provide a helpful response, further research or clarification is needed to determine the correct location of the Bailey-Thompson House."
+}

@@ -1,0 +1,133 @@
+{
+  "prompt": "Please tell me about prince albert of saxe-altenburg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg.",
+      "sent_orig": "He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on 14 April 1819 in Hildburghausen,"
+          ],
+          "He was born on August 26, 1819 in Hildburghausen, Germany.",
+          "He was born on 26 August 1819 in Hildburghausen."
+        ]
+      ],
+      "sent_new": "He was born on 26 August 1819 in Hildburghausen."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen.",
+      "sent_orig": "In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia.",
+      "sent_orig": "The couple had six children together, including Princess Victoria Adelaide of Schleswig-Holstein, who would go on to become Queen of Sweden.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Princess Victoria Adelaide of Schleswig-Holstein,",
+            "would go on to become",
+            "Queen of Sweden."
+          ],
+          "Princess Victoria Adelaide of Schleswig-Holstein, would go on to become Prince Albert's daughter-in-law when she married his son, Prince Ernst II of Saxe-Altenburg.",
+          "The couple had six children together."
+        ]
+      ],
+      "sent_new": "The couple had six children together."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together, including Princess Victoria Adelaide of Schleswig-Holstein, who would go on to become Queen of Sweden.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together.",
+      "sent_orig": "Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together, including Princess Victoria Adelaide of Schleswig-Holstein, who would go on to become Queen of Sweden. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851.",
+      "sent_orig": "He served as a colonel in the Saxon army, and later became a lieutenant general.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He served as a colonel in the Saxon army, and later became a lieutenant general."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together, including Princess Victoria Adelaide of Schleswig-Holstein, who would go on to become Queen of Sweden. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general.",
+      "sent_orig": "In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together, including Princess Victoria Adelaide of Schleswig-Holstein, who would go on to become Queen of Sweden. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general. In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general. In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg.",
+      "sent_orig": "During his reign, he focused on developing the local economy and infrastructure, and initiated several major building projects in the region.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his reign, he focused on developing the local economy and infrastructure, and initiated several major building projects in the region."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together, including Princess Victoria Adelaide of Schleswig-Holstein, who would go on to become Queen of Sweden. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general. In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg. During his reign, he focused on developing the local economy and infrastructure, and initiated several major building projects in the region.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general. In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg. During his reign, he focused on developing the local economy and infrastructure, and initiated several major building projects in the region.",
+      "sent_orig": "He was also a major patron of the arts and culture, and supported many local artists and musicians.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a major patron of the arts and culture, and supported many local artists and musicians."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together, including Princess Victoria Adelaide of Schleswig-Holstein, who would go on to become Queen of Sweden. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general. In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg. During his reign, he focused on developing the local economy and infrastructure, and initiated several major building projects in the region. He was also a major patron of the arts and culture, and supported many local artists and musicians.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general. In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg. During his reign, he focused on developing the local economy and infrastructure, and initiated several major building projects in the region. He was also a major patron of the arts and culture, and supported many local artists and musicians.",
+      "sent_orig": "Prince Albert died on 6 February 1902 in Altenburg, at the age of 83.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Prince Albert",
+            "died",
+            "on 6 February 1902 in Altenburg, at the age of 83."
+          ],
+          "Prince Albert died on 5 January 1902 in Altenburg, Germany.",
+          "Prince Albert died in Altenburg at the age of 83."
+        ]
+      ],
+      "sent_new": "Prince Albert died in Altenburg at the age of 83."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 14 April 1819 in Hildburghausen, and grew up in the court of his father, who was a strong patron of the arts and culture. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together, including Princess Victoria Adelaide of Schleswig-Holstein, who would go on to become Queen of Sweden. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general. In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg. During his reign, he focused on developing the local economy and infrastructure, and initiated several major building projects in the region. He was also a major patron of the arts and culture, and supported many local artists and musicians. Prince Albert died on 6 February 1902 in Altenburg, at the age of 83.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who served as the second son of Prince Eduard of Saxe-Altenburg. He was born on 26 August 1819 in Hildburghausen. In 1843, Prince Albert married Princess Marie of Prussia, the daughter of Prince Wilhelm of Prussia. The couple had six children together. Prince Albert was a distinguished military commander, and fought in the wars of Schleswig and Holstein in 1848-1851. He served as a colonel in the Saxon army, and later became a lieutenant general. In 1854, Prince Albert succeeded his brother Ernst as the Duke of Saxe-Altenburg. During his reign, he focused on developing the local economy and infrastructure, and initiated several major building projects in the region. He was also a major patron of the arts and culture, and supported many local artists and musicians. Prince Albert died in Altenburg at the age of 83.",
+      "sent_orig": "He was succeeded by his grandson, Ernst II.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was succeeded",
+            "by his grandson, Ernst II."
+          ],
+          "He was succeeded by his son Ernst II as the Duke of Saxe-Altenburg.",
+          "He was succeeded by his grandson, Ernst II."
+        ]
+      ],
+      "sent_new": "He was succeeded by his grandson, Ernst II."
+    }
+  ]
+}

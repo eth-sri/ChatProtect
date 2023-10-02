@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mike rawlings",
+  "orig": "He graduated from the University of Texas at Austin with a degree in broadcast journalism.",
+  "alt": " He graduated from the University of Texas at Austin with a Bachelor of Arts degree in radio, television, and film.",
+  "prefix": "  Mike Rawlings is a businessman and former politician who served as the mayor of Dallas, Texas from 2011 to 2019. Born on December 24, 1954, in Birmingham, Alabama, Rawlings grew up in a family of entrepreneurs and civic leaders.",
+  "triple": [
+    [
+      "He",
+      "graduated",
+      "from the University of Texas at Austin with a degree in broadcast journalism."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Mike Rawlings are contradictory. Statement 1 mentions that he graduated with a degree in broadcast journalism, while statement 2 mentions that he graduated with a Bachelor of Arts degree in radio, television, and film. While these fields are related, they are not the same, and therefore the statements cannot both be true."
+}

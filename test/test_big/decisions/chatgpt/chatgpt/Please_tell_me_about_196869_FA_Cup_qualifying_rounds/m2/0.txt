@@ -1,0 +1,123 @@
+{
+  "prompt": "Please tell me about 1968\u201369 FA Cup qualifying rounds",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup.",
+      "sent_orig": "The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition.",
+      "sent_orig": "These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "These rounds",
+            "beginning",
+            "on September 21, 1968,"
+          ],
+          "These rounds began in August 1968 and concluded in November of the same year.",
+          "The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968."
+        ]
+      ],
+      "sent_new": "The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968.",
+      "sent_orig": "A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams.",
+      "sent_orig": "The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup.",
+      "sent_orig": "The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage.",
+      "sent_orig": "Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage. Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage. Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough.",
+      "sent_orig": "The most significant upset of the qualifying rounds came when Chesham United, then of the Isthmian League, defeated Football League side Peterborough United 1-0 in a replay.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The most significant upset of the qualifying",
+            "came",
+            ""
+          ],
+          "The most significant upset of the qualifying rounds came when non-league side Hereford United defeated league team Newcastle United 2-1 in a replay after a 2-2 draw in the first match.",
+          "Chesham United caused an upset when they defeated Football League side Peterborough United 1-0 in a replay during the qualifying rounds."
+        ]
+      ],
+      "sent_new": "Chesham United caused an upset when they defeated Football League side Peterborough United 1-0 in a replay during the qualifying rounds."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage. Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough. The most significant upset of the qualifying rounds came when Chesham United, then of the Isthmian League, defeated Football League side Peterborough United 1-0 in a replay.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage. Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough. Chesham United caused an upset when they defeated Football League side Peterborough United 1-0 in a replay during the qualifying rounds.",
+      "sent_orig": "However, Chesham's joy was short-lived as they would later be eliminated in the first round proper.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, Chesham's joy was short-lived as they would later be eliminated in the first round proper."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage. Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough. The most significant upset of the qualifying rounds came when Chesham United, then of the Isthmian League, defeated Football League side Peterborough United 1-0 in a replay. However, Chesham's joy was short-lived as they would later be eliminated in the first round proper.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage. Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough. Chesham United caused an upset when they defeated Football League side Peterborough United 1-0 in a replay during the qualifying rounds. However, Chesham's joy was short-lived as they would later be eliminated in the first round proper.",
+      "sent_orig": "In total, 86 teams progressed to the first round proper of the FA Cup, joining the 42 Football League sides.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "86 teams",
+            "joining",
+            ""
+          ],
+          "86 teams progressed from the qualifying rounds, joining the 24 teams from the Football League Third and Fourth Divisions in the first round proper of the FA Cup.",
+          "In total, 86 teams progressed to the first round proper of the FA Cup, joining the 42 Football League sides."
+        ]
+      ],
+      "sent_new": "In total, 86 teams progressed to the first round proper of the FA Cup, joining the 42 Football League sides."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. These rounds were spread over six Saturdays, beginning on September 21, 1968, and ending on October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage. Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough. The most significant upset of the qualifying rounds came when Chesham United, then of the Isthmian League, defeated Football League side Peterborough United 1-0 in a replay. However, Chesham's joy was short-lived as they would later be eliminated in the first round proper. In total, 86 teams progressed to the first round proper of the FA Cup, joining the 42 Football League sides.",
+      "prefix_new": "The 1968-69 FA Cup qualifying rounds were a series of knockout tournaments that took place before the first round proper of the FA Cup. The qualifying rounds allowed teams from lower divisions, amateur sides, and non-league clubs to compete for a place in the world's oldest football competition. The qualifying rounds took place over six Saturdays from September 21 to October 26, 1968. A total of 430 teams took part in the qualifying rounds, including sides from the Southern League, the Northern Premier League, as well as amateur teams. The teams were divided into 43 different groups, with the winners of each group proceeding to the first round proper of the FA Cup. The qualifying rounds were fiercely contested, with many teams fighting to progress to the next stage. Notable matches included Dartford's 5-0 win over Folkestone, Wigan Athletic's 7-0 victory over Clitheroe, and Kettering Town's 6-0 win over Nuneaton Borough. Chesham United caused an upset when they defeated Football League side Peterborough United 1-0 in a replay during the qualifying rounds. However, Chesham's joy was short-lived as they would later be eliminated in the first round proper. In total, 86 teams progressed to the first round proper of the FA Cup, joining the 42 Football League sides.",
+      "sent_orig": "The competition would continue to be fiercely contested, with a memorable semi-final between Manchester City and Everton, and a final between Manchester City and Leicester City, which saw Manchester City lift the trophy for the first time in their history.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The competition would continue to be fiercely contested, with a memorable semi-final between Manchester City and Everton, and a final between Manchester City and Leicester City, which saw Manchester City lift the trophy for the first time in their history."
+    }
+  ]
+}

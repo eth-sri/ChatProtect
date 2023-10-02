@@ -1,0 +1,60 @@
+{
+  "prompt": "Please tell me about cedar sigo",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia.",
+      "prefix_new": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia.",
+      "sent_orig": "He grew up in San Francisco and was heavily influenced by the Beat poets, specifically Allen Ginsberg.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. He grew up in San Francisco and was heavily influenced by the Beat poets, specifically Allen Ginsberg.",
+      "prefix_new": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia.",
+      "sent_orig": "Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018)."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. He grew up in San Francisco and was heavily influenced by the Beat poets, specifically Allen Ginsberg. Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018).",
+      "prefix_new": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018).",
+      "sent_orig": "Sigo's poetry often combines themes of nature, spirituality, and politics, and his writing is characterized by its lyrical and deeply personal voice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sigo's poetry often combines themes of nature, spirituality, and politics, and his writing is characterized by its lyrical and deeply personal voice."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. He grew up in San Francisco and was heavily influenced by the Beat poets, specifically Allen Ginsberg. Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018). Sigo's poetry often combines themes of nature, spirituality, and politics, and his writing is characterized by its lyrical and deeply personal voice.",
+      "prefix_new": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018). Sigo's poetry often combines themes of nature, spirituality, and politics, and his writing is characterized by its lyrical and deeply personal voice.",
+      "sent_orig": "He has been praised for his ability to capture the essence of San Francisco and the spirit of the Beat Generation, while also pushing the boundaries of traditional poetic forms and styles.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has been praised for his ability to capture the essence of San Francisco and the spirit of the Beat Generation, while also pushing the boundaries of traditional poetic forms and styles."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. He grew up in San Francisco and was heavily influenced by the Beat poets, specifically Allen Ginsberg. Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018). Sigo's poetry often combines themes of nature, spirituality, and politics, and his writing is characterized by its lyrical and deeply personal voice. He has been praised for his ability to capture the essence of San Francisco and the spirit of the Beat Generation, while also pushing the boundaries of traditional poetic forms and styles.",
+      "prefix_new": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018). Sigo's poetry often combines themes of nature, spirituality, and politics, and his writing is characterized by its lyrical and deeply personal voice. He has been praised for his ability to capture the essence of San Francisco and the spirit of the Beat Generation, while also pushing the boundaries of traditional poetic forms and styles.",
+      "sent_orig": "In addition to writing poetry, Sigo is also an editor and has worked on several literary publications, including \"The Poetry Project Newsletter\" and \"Bootstrap Press.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to writing poetry, Sigo is also an editor and has worked on several literary publications, including \"The Poetry Project Newsletter\" and \"Bootstrap Press.\""
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. He grew up in San Francisco and was heavily influenced by the Beat poets, specifically Allen Ginsberg. Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018). Sigo's poetry often combines themes of nature, spirituality, and politics, and his writing is characterized by its lyrical and deeply personal voice. He has been praised for his ability to capture the essence of San Francisco and the spirit of the Beat Generation, while also pushing the boundaries of traditional poetic forms and styles. In addition to writing poetry, Sigo is also an editor and has worked on several literary publications, including \"The Poetry Project Newsletter\" and \"Bootstrap Press.\"",
+      "prefix_new": "Cedar Sigo is an American poet, born in 1978 in Alexandria, Virginia. Sigo has published several poetry collections, including \"Language Arts\" (2014) and \"Guardian Angel Fic\u00adtion\" (2018). Sigo's poetry often combines themes of nature, spirituality, and politics, and his writing is characterized by its lyrical and deeply personal voice. He has been praised for his ability to capture the essence of San Francisco and the spirit of the Beat Generation, while also pushing the boundaries of traditional poetic forms and styles. In addition to writing poetry, Sigo is also an editor and has worked on several literary publications, including \"The Poetry Project Newsletter\" and \"Bootstrap Press.\"",
+      "sent_orig": "He has received numerous awards and honors for his work, including a grant from the Foundation for Contemporary Arts and recognition as a National Poetry Fellow.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has received numerous awards and honors for his work, including a grant from the Foundation for Contemporary Arts and recognition as a National Poetry Fellow."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+test/test/sentences/chatgpt/pattimura_stadium/m3/m3_1_3_0.txt
+Q: I give you the beginning of a description about Pattimura Stadium.
+Then follow two statements.
+
+Description:
+Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities.
+
+Statement 1:
+Pattimura Stadium is a popular destination for both locals and tourists due to its rich history and cultural significance.
+
+Statement 2:
+Pattimura Stadium is the home stadium of Persiram Raja Ampat, a professional football club based in West Papua, Indonesia.
+
+Please explain whether the statements about Pattimura Stadium are contradictory.
+Provide your explanation only.
+
+A: The statements about Pattimura Stadium are not contradictory. Statement 1 highlights the cultural significance of the stadium, while statement 2 provides information about the professional football club that uses the stadium as their home ground. Both statements can be true at the same time without contradicting each other.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 544
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=194, completion_tokens=57), Usage(prompt_tokens=273, completion_tokens=20)]
+467
+77
+544
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

@@ -1,0 +1,85 @@
+[
+  {
+    "prefix_original": "",
+    "prefix_new": "",
+    "sent_orig": "Babylon 5 is a science fiction television series that premiered in 1993 and ran for five seasons.",
+    "decision": "redact",
+    "changes": [
+      [
+        [
+          "a science fiction television series",
+          "premiered",
+          "in 1993"
+        ],
+        "The science fiction television series Babylon 5 premiered on January 26, 1994.",
+        "Babylon 5 ran for five seasons."
+      ],
+      [
+        [
+          "a science fiction television series",
+          "ran",
+          "for five seasons."
+        ],
+        "Babylon 5 was a science fiction television series that ran from 1994 to 1998.",
+        "Babylon 5 ran for five seasons."
+      ]
+    ],
+    "sent_new": "Babylon 5 ran for five seasons."
+  },
+  {
+    "prefix_original": "Babylon 5 is a science fiction television series that premiered in 1993 and ran for five seasons.",
+    "prefix_new": "Babylon 5 ran for five seasons.",
+    "sent_orig": "It was created by J. Michael Straczynski, who also wrote most of the episodes.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "It was created by J. Michael Straczynski, who also wrote most of the episodes."
+  },
+  {
+    "prefix_original": "Babylon 5 is a science fiction television series that premiered in 1993 and ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes.",
+    "prefix_new": "Babylon 5 ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes.",
+    "sent_orig": "The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races."
+  },
+  {
+    "prefix_original": "Babylon 5 is a science fiction television series that premiered in 1993 and ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races.",
+    "prefix_new": "Babylon 5 ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races.",
+    "sent_orig": "Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail."
+  },
+  {
+    "prefix_original": "Babylon 5 is a science fiction television series that premiered in 1993 and ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races. Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail.",
+    "prefix_new": "Babylon 5 ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races. Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail.",
+    "sent_orig": "The show was unique in its use of a singular narrative that unfolded over multiple seasons, and it tackled themes such as politics, religion, war, and personal identity.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "The show was unique in its use of a singular narrative that unfolded over multiple seasons, and it tackled themes such as politics, religion, war, and personal identity."
+  },
+  {
+    "prefix_original": "Babylon 5 is a science fiction television series that premiered in 1993 and ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races. Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail. The show was unique in its use of a singular narrative that unfolded over multiple seasons, and it tackled themes such as politics, religion, war, and personal identity.",
+    "prefix_new": "Babylon 5 ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races. Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail. The show was unique in its use of a singular narrative that unfolded over multiple seasons, and it tackled themes such as politics, religion, war, and personal identity.",
+    "sent_orig": "The cast of Babylon 5 included prominent actors such as Bruce Boxleitner, Mira Furlan, Claudia Christian, and Peter Jurasik, among others.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "The cast of Babylon 5 included prominent actors such as Bruce Boxleitner, Mira Furlan, Claudia Christian, and Peter Jurasik, among others."
+  },
+  {
+    "prefix_original": "Babylon 5 is a science fiction television series that premiered in 1993 and ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races. Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail. The show was unique in its use of a singular narrative that unfolded over multiple seasons, and it tackled themes such as politics, religion, war, and personal identity. The cast of Babylon 5 included prominent actors such as Bruce Boxleitner, Mira Furlan, Claudia Christian, and Peter Jurasik, among others.",
+    "prefix_new": "Babylon 5 ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races. Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail. The show was unique in its use of a singular narrative that unfolded over multiple seasons, and it tackled themes such as politics, religion, war, and personal identity. The cast of Babylon 5 included prominent actors such as Bruce Boxleitner, Mira Furlan, Claudia Christian, and Peter Jurasik, among others.",
+    "sent_orig": "The show garnered a dedicated fan following during its run, and won several awards for its writing, visual effects, and overall production.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "The show garnered a dedicated fan following during its run, and won several awards for its writing, visual effects, and overall production."
+  },
+  {
+    "prefix_original": "Babylon 5 is a science fiction television series that premiered in 1993 and ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races. Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail. The show was unique in its use of a singular narrative that unfolded over multiple seasons, and it tackled themes such as politics, religion, war, and personal identity. The cast of Babylon 5 included prominent actors such as Bruce Boxleitner, Mira Furlan, Claudia Christian, and Peter Jurasik, among others. The show garnered a dedicated fan following during its run, and won several awards for its writing, visual effects, and overall production.",
+    "prefix_new": "Babylon 5 ran for five seasons. It was created by J. Michael Straczynski, who also wrote most of the episodes. The series is set in the 23rd century, and follows the crew of the titular space station, which plays host to a range of political and diplomatic events involving various alien races. Babylon 5 was notable for its complex and serialized storytelling, as well as its extensive world-building and attention to detail. The show was unique in its use of a singular narrative that unfolded over multiple seasons, and it tackled themes such as politics, religion, war, and personal identity. The cast of Babylon 5 included prominent actors such as Bruce Boxleitner, Mira Furlan, Claudia Christian, and Peter Jurasik, among others. The show garnered a dedicated fan following during its run, and won several awards for its writing, visual effects, and overall production.",
+    "sent_orig": "While Babylon 5 has been off the air for more than two decades, it remains a popular and influential science fiction franchise, and continues to attract new fans through streaming services and home video releases.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "While Babylon 5 has been off the air for more than two decades, it remains a popular and influential science fiction franchise, and continues to attract new fans through streaming services and home video releases."
+  }
+]

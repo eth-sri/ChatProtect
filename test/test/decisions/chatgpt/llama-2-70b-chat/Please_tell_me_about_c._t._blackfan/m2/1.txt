@@ -1,0 +1,131 @@
+{
+  "prompt": "Please tell me about c. t. blackfan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " C.T."
+    },
+    {
+      "prefix_original": " C.T.",
+      "prefix_new": " C.T.",
+      "sent_orig": "Blackfan was an American physician and pioneer in the field of pediatrics.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Blackfan",
+            "was",
+            "an American physician and pioneer in the field of pediatrics."
+          ],
+          " C.T. Blackfan was a British author and illustrator, best known for his children's books.",
+          "C.T. Blackfan was a pioneer in the field of pediatrics."
+        ]
+      ],
+      "sent_new": "C.T. Blackfan was a pioneer in the field of pediatrics."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics.",
+      "sent_orig": "He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born graduated",
+            "from Harvard Medical School in 1889."
+          ],
+          " He was born in 1861 and graduated from Harvard Medical School in 1888.",
+          "C.T. Blackfan graduated from Harvard Medical School in 1889."
+        ]
+      ],
+      "sent_new": "C.T. Blackfan graduated from Harvard Medical School in 1889."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889.",
+      "sent_orig": "Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine.",
+      "sent_orig": "Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis.",
+      "sent_orig": "He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development.",
+      "sent_orig": "One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century.",
+      "sent_orig": "Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century. Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century. Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics.",
+      "sent_orig": "He was a founder of the American Academy of Pediatrics and served as its president from 1923 to 1924.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a founder of the American Academy of Pediatrics and served as its president from 1923 to 1924."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century. Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics. He was a founder of the American Academy of Pediatrics and served as its president from 1923 to 1924.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century. Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics. He was a founder of the American Academy of Pediatrics and served as its president from 1923 to 1924.",
+      "sent_orig": "Throughout his career, Blackfan was recognized for his dedication to improving the health and well-being of children.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout his career, Blackfan was recognized for his dedication to improving the health and well-being of children."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century. Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics. He was a founder of the American Academy of Pediatrics and served as its president from 1923 to 1924. Throughout his career, Blackfan was recognized for his dedication to improving the health and well-being of children.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century. Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics. He was a founder of the American Academy of Pediatrics and served as its president from 1923 to 1924. Throughout his career, Blackfan was recognized for his dedication to improving the health and well-being of children.",
+      "sent_orig": "He was awarded numerous honors and awards, including the Albert Lasker Award for Medical Research in 1949.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was awarded numerous honors and awards, including the Albert Lasker Award for Medical Research in 1949."
+    },
+    {
+      "prefix_original": " C.T. Blackfan was an American physician and pioneer in the field of pediatrics. He was born in 1864 in Boston, Massachusetts, and graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century. Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics. He was a founder of the American Academy of Pediatrics and served as its president from 1923 to 1924. Throughout his career, Blackfan was recognized for his dedication to improving the health and well-being of children. He was awarded numerous honors and awards, including the Albert Lasker Award for Medical Research in 1949.",
+      "prefix_new": " C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T. Blackfan graduated from Harvard Medical School in 1889. Blackfan was one of the first doctors to specialize in the care of children, at a time when pediatrics was still a relatively new and underdeveloped field of medicine. Blackfan made significant contributions to the understanding and treatment of various childhood diseases, including measles, pneumonia, and infantile paralysis. He was also a strong advocate for the importance of proper nutrition and hygiene in childhood development. One of Blackfan's most notable contributions was his work on the prevention and treatment of rickets, a disease caused by a deficiency of vitamin D. Blackfan discovered that exposing children to sunlight could help prevent rickets, and he promoted the use of cod liver oil as a source of vitamin D. His work on rickets helped to significantly reduce the incidence of the disease in the early 20th century. Blackfan was also a prolific writer and educator, publishing numerous articles and textbooks on pediatrics. He was a founder of the American Academy of Pediatrics and served as its president from 1923 to 1924. Throughout his career, Blackfan was recognized for his dedication to improving the health and well-being of children. He was awarded numerous honors and awards, including the Albert Lasker Award for Medical Research in 1949.",
+      "sent_orig": "Blackfan died in 1951, but his legacy continues to be celebrated as a pioneer in the field of pediatrics.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Blackfan",
+            "died",
+            ""
+          ],
+          " Blackfan died on November 24, 1940, at the age of 76.",
+          "Blackfan died in 1940 at the age of 76, leaving behind a legacy as a pioneer in the field of pediatrics."
+        ]
+      ],
+      "sent_new": "Blackfan died in 1940 at the age of 76, leaving behind a legacy as a pioneer in the field of pediatrics."
+    }
+  ]
+}

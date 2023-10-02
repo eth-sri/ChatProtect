@@ -1,0 +1,105 @@
+{
+  "prompt": "Please tell me about prince albert of saxe-altenburg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha.",
+      "sent_orig": "He was educated at the University of Bonn.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was educated at the University of Bonn."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn.",
+      "sent_orig": "In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia.",
+      "sent_orig": "The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The couple",
+            "had",
+            "three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg,"
+          ],
+          "The couple had six children together.",
+          "The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg."
+        ]
+      ],
+      "sent_new": "The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg.",
+      "sent_orig": "Prince Albert served as a lieutenant in the Prussian Army and later received a promotion.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Prince Albert",
+            "served",
+            "as a lieutenant in the Prussian Army"
+          ],
+          "Prince Albert served as a general in the Prussian army.",
+          "Prince Albert served as a lieutenant in the Prussian Army and later received a promotion."
+        ]
+      ],
+      "sent_new": "Prince Albert served as a lieutenant in the Prussian Army and later received a promotion."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion.",
+      "sent_orig": "He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion. He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion. He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha.",
+      "sent_orig": "In 1866, Prince Albert's brother helped to lead the pro-Austrian forces in the Austro-Prussian War, and Prince Albert himself was briefly exiled from Saxe-Altenburg as a result.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1866, Prince Albert's brother helped to lead the pro-Austrian forces in the Austro-Prussian War, and Prince Albert himself was briefly exiled from Saxe-Altenburg as a result."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion. He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha. In 1866, Prince Albert's brother helped to lead the pro-Austrian forces in the Austro-Prussian War, and Prince Albert himself was briefly exiled from Saxe-Altenburg as a result.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion. He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha. In 1866, Prince Albert's brother helped to lead the pro-Austrian forces in the Austro-Prussian War, and Prince Albert himself was briefly exiled from Saxe-Altenburg as a result.",
+      "sent_orig": "However, he was able to return to his homeland after the war ended.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, he was able to return to his homeland after the war ended."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion. He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha. In 1866, Prince Albert's brother helped to lead the pro-Austrian forces in the Austro-Prussian War, and Prince Albert himself was briefly exiled from Saxe-Altenburg as a result. However, he was able to return to his homeland after the war ended.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion. He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha. In 1866, Prince Albert's brother helped to lead the pro-Austrian forces in the Austro-Prussian War, and Prince Albert himself was briefly exiled from Saxe-Altenburg as a result. However, he was able to return to his homeland after the war ended.",
+      "sent_orig": "Prince Albert died in 1902 at the age of 82 and was buried in the royal mausoleum in Altenburg.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prince Albert died in 1902 at the age of 82 and was buried in the royal mausoleum in Altenburg."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion. He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha. In 1866, Prince Albert's brother helped to lead the pro-Austrian forces in the Austro-Prussian War, and Prince Albert himself was briefly exiled from Saxe-Altenburg as a result. However, he was able to return to his homeland after the war ended. Prince Albert died in 1902 at the age of 82 and was buried in the royal mausoleum in Altenburg.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg. Prince Albert served as a lieutenant in the Prussian Army and later received a promotion. He was also a member of the German Confederation's federal assembly and served as an advisor to his brother, the Duke of Saxe-Coburg and Gotha. In 1866, Prince Albert's brother helped to lead the pro-Austrian forces in the Austro-Prussian War, and Prince Albert himself was briefly exiled from Saxe-Altenburg as a result. However, he was able to return to his homeland after the war ended. Prince Albert died in 1902 at the age of 82 and was buried in the royal mausoleum in Altenburg.",
+      "sent_orig": "His son, Prince Ernst II, succeeded him as the ruler of Saxe-Altenburg.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His son, Prince Ernst II, succeeded him as the ruler of Saxe-Altenburg."
+    }
+  ]
+}

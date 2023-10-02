@@ -1,0 +1,68 @@
+{
+  "prompt": "Please tell me about toni trucks",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\"."
+    },
+    {
+      "prefix_original": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\".",
+      "prefix_new": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\".",
+      "sent_orig": "She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family."
+    },
+    {
+      "prefix_original": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family.",
+      "prefix_new": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family.",
+      "sent_orig": "Trucks started her career as a stage actress, and in 2006 she made her TV debut in an episode of \"Barbershop\".",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. Trucks started her career as a stage actress, and in 2006 she made her TV debut in an episode of \"Barbershop\".",
+      "prefix_new": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family.",
+      "sent_orig": "She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\"."
+    },
+    {
+      "prefix_original": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. Trucks started her career as a stage actress, and in 2006 she made her TV debut in an episode of \"Barbershop\". She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\".",
+      "prefix_new": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\".",
+      "sent_orig": "In addition to her acting career, Toni Trucks is also a talented singer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to her acting career, Toni Trucks is also a talented singer."
+    },
+    {
+      "prefix_original": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. Trucks started her career as a stage actress, and in 2006 she made her TV debut in an episode of \"Barbershop\". She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\". In addition to her acting career, Toni Trucks is also a talented singer.",
+      "prefix_new": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\". In addition to her acting career, Toni Trucks is also a talented singer.",
+      "sent_orig": "She has performed with the Trans-Siberian Orchestra and has recorded original songs for TV shows and movies.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has performed with the Trans-Siberian Orchestra and has recorded original songs for TV shows and movies."
+    },
+    {
+      "prefix_original": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. Trucks started her career as a stage actress, and in 2006 she made her TV debut in an episode of \"Barbershop\". She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\". In addition to her acting career, Toni Trucks is also a talented singer. She has performed with the Trans-Siberian Orchestra and has recorded original songs for TV shows and movies.",
+      "prefix_new": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\". In addition to her acting career, Toni Trucks is also a talented singer. She has performed with the Trans-Siberian Orchestra and has recorded original songs for TV shows and movies.",
+      "sent_orig": "Trucks has received multiple award nominations for her performances, including a nomination for Best Supporting Actress at the 2018 Imagen Awards for her role in \"SEAL Team\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Trucks has received multiple award nominations for her performances, including a nomination for Best Supporting Actress at the 2018 Imagen Awards for her role in \"SEAL Team\"."
+    },
+    {
+      "prefix_original": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. Trucks started her career as a stage actress, and in 2006 she made her TV debut in an episode of \"Barbershop\". She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\". In addition to her acting career, Toni Trucks is also a talented singer. She has performed with the Trans-Siberian Orchestra and has recorded original songs for TV shows and movies. Trucks has received multiple award nominations for her performances, including a nomination for Best Supporting Actress at the 2018 Imagen Awards for her role in \"SEAL Team\".",
+      "prefix_new": "Toni Trucks is an American actress and singer, best known for her roles in TV series such as \"SEAL Team\", \"The Defenders\", and \"Hostages\". She was born on September 30, 1980, in Grand Rapids, Michigan, USA, and grew up in a musical family. She has since appeared in several TV series, including \"Franklin & Bash\", \"Made in Jersey\", and \"Grimm\". In addition to her acting career, Toni Trucks is also a talented singer. She has performed with the Trans-Siberian Orchestra and has recorded original songs for TV shows and movies. Trucks has received multiple award nominations for her performances, including a nomination for Best Supporting Actress at the 2018 Imagen Awards for her role in \"SEAL Team\".",
+      "sent_orig": "She is also an active philanthropist and supporter of various causes, including the American Heart Association and the Global Down Syndrome Foundation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is also an active philanthropist and supporter of various causes, including the American Heart Association and the Global Down Syndrome Foundation."
+    }
+  ]
+}

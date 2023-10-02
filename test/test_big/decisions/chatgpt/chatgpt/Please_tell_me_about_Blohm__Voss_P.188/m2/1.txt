@@ -1,0 +1,136 @@
+{
+  "prompt": "Please tell me about Blohm & Voss P.188",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Blohm & Voss P.188",
+            "was",
+            "a projected German high altitude reconnaissance plane during World War II."
+          ],
+          "The Blohm & Voss P.188 was a prototype jet-powered dive bomber developed by the German company Blohm & Voss during World War II.",
+          "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II."
+        ]
+      ],
+      "sent_new": "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II.",
+      "prefix_new": "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II.",
+      "sent_orig": "It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "to",
+            "to reach",
+            "altitudes exceeding"
+          ],
+          "The plane was designed to reach an altitude of 40,000 feet.",
+          "It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet)."
+        ]
+      ],
+      "sent_new": "It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet)."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet).",
+      "prefix_new": "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet).",
+      "sent_orig": "The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet)."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet).",
+      "prefix_new": "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet).",
+      "sent_orig": "It was to be powered by four powerful turbojet engines, which would have allowed it to reach speeds of up to 870 km/h (540 mph).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "be powered",
+            "by four powerful turbojet engines,"
+          ],
+          "It was to be powered by four BMW 801D radial engines, each producing 1,700 horsepower.",
+          "It was designed to reach altitudes exceeding 18,000 meters (59,000 feet)."
+        ],
+        [
+          [
+            "It",
+            "would have",
+            ""
+          ],
+          "It would have been powered by four BMW 801D radial engines, each producing 1,700 horsepower.",
+          "The Blohm & Voss P.188 was designed to reach high altitudes."
+        ],
+        [
+          [
+            "it",
+            "to reach",
+            "speeds of up to 870 km/h"
+          ],
+          "It was designed to reach a top speed of 750 km/h (466 mph) to reach its intended altitude.",
+          "The Blohm & Voss P.188 was designed to reach high altitudes."
+        ],
+        [
+          [
+            "It",
+            "was to",
+            "by four powerful turbojet engines,"
+          ],
+          "It was to be powered by four BMW 801D radial engines, each producing 1,700 horsepower.",
+          "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II."
+        ]
+      ],
+      "sent_new": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet). It was to be powered by four powerful turbojet engines, which would have allowed it to reach speeds of up to 870 km/h (540 mph).",
+      "prefix_new": "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet). The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II.",
+      "sent_orig": "The aircraft was designed with a pressurized cockpit and advanced radar and camera equipment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The aircraft was designed with a pressurized cockpit and advanced radar and camera equipment."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet). It was to be powered by four powerful turbojet engines, which would have allowed it to reach speeds of up to 870 km/h (540 mph). The aircraft was designed with a pressurized cockpit and advanced radar and camera equipment.",
+      "prefix_new": "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet). The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. The aircraft was designed with a pressurized cockpit and advanced radar and camera equipment.",
+      "sent_orig": "It was to have a crew of two and was armed with a pair of machine guns in a dorsal turret.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a",
+            "was armed",
+            "with a pair of machine guns in a dorsal turret."
+          ],
+          "The Blohm & Voss P.188 was not armed, as it was intended solely for reconnaissance purposes.",
+          "It was designed to have a crew of two."
+        ]
+      ],
+      "sent_new": "It was designed to have a crew of two."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet). It was to be powered by four powerful turbojet engines, which would have allowed it to reach speeds of up to 870 km/h (540 mph). The aircraft was designed with a pressurized cockpit and advanced radar and camera equipment. It was to have a crew of two and was armed with a pair of machine guns in a dorsal turret.",
+      "prefix_new": "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet). The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. The aircraft was designed with a pressurized cockpit and advanced radar and camera equipment. It was designed to have a crew of two.",
+      "sent_orig": "However, the P.188 never went beyond the design stage, as the war ended before it could be built.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, the P.188 never went beyond the design stage, as the war ended before it could be built."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet). It was to be powered by four powerful turbojet engines, which would have allowed it to reach speeds of up to 870 km/h (540 mph). The aircraft was designed with a pressurized cockpit and advanced radar and camera equipment. It was to have a crew of two and was armed with a pair of machine guns in a dorsal turret. However, the P.188 never went beyond the design stage, as the war ended before it could be built.",
+      "prefix_new": "The Blohm & Voss P.188 was a German high altitude reconnaissance plane during World War II. It was intended to fly deep into enemy territory to gather intelligence data, and was designed to reach altitudes exceeding 18,000 meters (59,000 feet). The P.188 was a large aircraft, with a wingspan of over 44 meters (144 feet) and a length of over 23 meters (75 feet). The Blohm & Voss P.188 was a projected German high altitude reconnaissance plane during World War II. The aircraft was designed with a pressurized cockpit and advanced radar and camera equipment. It was designed to have a crew of two. However, the P.188 never went beyond the design stage, as the war ended before it could be built.",
+      "sent_orig": "Only a few design drawings and models remain today, and the P.188 is considered a curiosity of aviation history.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Only a few design drawings and models remain today, and the P.188 is considered a curiosity of aviation history."
+    }
+  ]
+}

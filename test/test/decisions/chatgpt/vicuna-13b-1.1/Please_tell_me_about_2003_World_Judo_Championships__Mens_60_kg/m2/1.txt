@@ -1,0 +1,117 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003.",
+      "sent_orig": "The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas.",
+      "sent_orig": "In the final match, France's Cyrille Maret faced off against Iran's Hadi Saei.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "France's Cyrille Maret",
+            "faced off",
+            "against Iran's Hadi Saei."
+          ],
+          "France's Cyrille Maret faced off against Tunisia's Razak Ben}$.",
+          "In the final match, France's Cyrille Maret competed against an opponent."
+        ]
+      ],
+      "sent_new": "In the final match, France's Cyrille Maret competed against an opponent."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret faced off against Iran's Hadi Saei.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret competed against an opponent.",
+      "sent_orig": "Maret was the defending world champion in this division and was favored to win the gold medal.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the defending world champion in this",
+            "was",
+            "favored to win the gold medal."
+          ],
+          "The defending world champion in this event was Hadi Saei.",
+          "Maret was favored to win the gold medal."
+        ]
+      ],
+      "sent_new": "Maret was favored to win the gold medal."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret faced off against Iran's Hadi Saei. Maret was the defending world champion in this division and was favored to win the gold medal.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret competed against an opponent. Maret was favored to win the gold medal.",
+      "sent_orig": "However, Saei was a formidable opponent, having won several major tournaments throughout his career.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a formidable opponent,",
+            "won",
+            "several major tournaments throughout his career."
+          ],
+          "Maret won the match against Saei, securing his position as the world champion in the men's 60 kg division for the second year in a row.",
+          "Saei had won several major tournaments throughout his career."
+        ]
+      ],
+      "sent_new": "Saei had won several major tournaments throughout his career."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret faced off against Iran's Hadi Saei. Maret was the defending world champion in this division and was favored to win the gold medal. However, Saei was a formidable opponent, having won several major tournaments throughout his career.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret competed against an opponent. Maret was favored to win the gold medal. Saei had won several major tournaments throughout his career.",
+      "sent_orig": "The two athletes fought fiercely, with both fighters using their technical skills and tactics to gain the upper hand.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The two athletes fought fiercely, with both fighters using their technical skills and tactics to gain the upper hand."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret faced off against Iran's Hadi Saei. Maret was the defending world champion in this division and was favored to win the gold medal. However, Saei was a formidable opponent, having won several major tournaments throughout his career. The two athletes fought fiercely, with both fighters using their technical skills and tactics to gain the upper hand.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret competed against an opponent. Maret was favored to win the gold medal. Saei had won several major tournaments throughout his career. The two athletes fought fiercely, with both fighters using their technical skills and tactics to gain the upper hand.",
+      "sent_orig": "In the end, Maret was able to emerge victorious, defeating Saei with a powerful throw and securing the gold medal.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Maret",
+            "was",
+            ""
+          ],
+          "Maret was ultimately defeated by Saei in a hard-fought match, leaving the crowd cheering and celebrating Saei's impressive victory.",
+          "Maret emerged victorious, defeating Saei with a powerful throw and securing the gold medal."
+        ]
+      ],
+      "sent_new": "Maret emerged victorious, defeating Saei with a powerful throw and securing the gold medal."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret faced off against Iran's Hadi Saei. Maret was the defending world champion in this division and was favored to win the gold medal. However, Saei was a formidable opponent, having won several major tournaments throughout his career. The two athletes fought fiercely, with both fighters using their technical skills and tactics to gain the upper hand. In the end, Maret was able to emerge victorious, defeating Saei with a powerful throw and securing the gold medal.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret competed against an opponent. Maret was favored to win the gold medal. Saei had won several major tournaments throughout his career. The two athletes fought fiercely, with both fighters using their technical skills and tactics to gain the upper hand. Maret emerged victorious, defeating Saei with a powerful throw and securing the gold medal.",
+      "sent_orig": "This was Maret's second consecutive world championship gold medal in the 60 kg division, cementing his position as one of the top judokas in the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This was Maret's second consecutive world championship gold medal in the 60 kg division, cementing his position as one of the top judokas in the world."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret faced off against Iran's Hadi Saei. Maret was the defending world champion in this division and was favored to win the gold medal. However, Saei was a formidable opponent, having won several major tournaments throughout his career. The two athletes fought fiercely, with both fighters using their technical skills and tactics to gain the upper hand. In the end, Maret was able to emerge victorious, defeating Saei with a powerful throw and securing the gold medal. This was Maret's second consecutive world championship gold medal in the 60 kg division, cementing his position as one of the top judokas in the world.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from October 2-11, 2003. The men's 60 kg weight class at the championships was a highly contested event, featuring some of the world's best judokas. In the final match, France's Cyrille Maret competed against an opponent. Maret was favored to win the gold medal. Saei had won several major tournaments throughout his career. The two athletes fought fiercely, with both fighters using their technical skills and tactics to gain the upper hand. Maret emerged victorious, defeating Saei with a powerful throw and securing the gold medal. This was Maret's second consecutive world championship gold medal in the 60 kg division, cementing his position as one of the top judokas in the world.",
+      "sent_orig": "Saei took home the silver medal, while China's Cai Zongjian won the bronze.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Saei took home the silver medal, while China's Cai Zongjian won the bronze."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "prompt": "Please tell me about walter de cantilupe",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor.",
+      "sent_orig": "He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "in Hambleden,"
+          ],
+          "He was born in the early 13th century, around the year 1185.",
+          "He died on 18 October 1308 in Italy."
+        ]
+      ],
+      "sent_new": "He died on 18 October 1308 in Italy."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy.",
+      "sent_orig": "He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was",
+            ""
+          ],
+          "He was the Bishop of Worcester from 1236 until his death in 1266.",
+          "Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay."
+        ]
+      ],
+      "sent_new": "Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay.",
+      "sent_orig": "Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Walter de Cantilupe",
+            "became",
+            "a canon of the diocese of Hereford."
+          ],
+          "Walter de Cantilupe became Bishop of Worcester in 1236.",
+          "Walter de Cantilupe became a canon of the diocese of Hereford."
+        ]
+      ],
+      "sent_new": "Walter de Cantilupe became a canon of the diocese of Hereford."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay. Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay. Walter de Cantilupe became a canon of the diocese of Hereford.",
+      "sent_orig": "In 1289, he was appointed dean of the cathedral there.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1289, he was appointed dean of the cathedral there."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay. Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay. Walter de Cantilupe became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there.",
+      "sent_orig": "He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay. Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay. Walter de Cantilupe became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I.",
+      "sent_orig": "In 1299, Walter was elected Bishop of Worcester, and he was consecrated the following year.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay. Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. In 1299, Walter was elected Bishop of Worcester, and he was consecrated the following year.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay. Walter de Cantilupe became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I.",
+      "sent_orig": "He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay. Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. In 1299, Walter was elected Bishop of Worcester, and he was consecrated the following year. He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay. Walter de Cantilupe became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford.",
+      "sent_orig": "Walter de Cantilupe was a strong advocate for the rights of the church and frequently clashed with the king over issues of jurisdiction and taxation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Walter de Cantilupe was a strong advocate for the rights of the church and frequently clashed with the king over issues of jurisdiction and taxation."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay. Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. In 1299, Walter was elected Bishop of Worcester, and he was consecrated the following year. He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford. Walter de Cantilupe was a strong advocate for the rights of the church and frequently clashed with the king over issues of jurisdiction and taxation.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay. Walter de Cantilupe became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford. Walter de Cantilupe was a strong advocate for the rights of the church and frequently clashed with the king over issues of jurisdiction and taxation.",
+      "sent_orig": "He was involved in the struggle between the pope and King Philip IV of France over the taxation of the clergy, and he traveled to Italy to attend the papal court.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was involved in the struggle between the pope and King Philip IV of France over the taxation of the clergy, and he traveled to Italy to attend the papal court."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay. Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. In 1299, Walter was elected Bishop of Worcester, and he was consecrated the following year. He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford. Walter de Cantilupe was a strong advocate for the rights of the church and frequently clashed with the king over issues of jurisdiction and taxation. He was involved in the struggle between the pope and King Philip IV of France over the taxation of the clergy, and he traveled to Italy to attend the papal court.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay. Walter de Cantilupe became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford. Walter de Cantilupe was a strong advocate for the rights of the church and frequently clashed with the king over issues of jurisdiction and taxation. He was involved in the struggle between the pope and King Philip IV of France over the taxation of the clergy, and he traveled to Italy to attend the papal court.",
+      "sent_orig": "Walter de Cantilupe was canonized by Pope John XXII in 1320, becoming the first Englishman to be declared a saint since the canonization of St. Thomas Becket in 1173.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Walter de Cantilupe",
+            "was canonized",
+            "by Pope John XXII in 1320,"
+          ],
+          "Walter de Cantilupe was canonized by Pope John Paul II in 2005.",
+          "Walter de Cantilupe was canonized, becoming the first Englishman to be declared a saint since the canonization of St. Thomas Becket in 1173."
+        ]
+      ],
+      "sent_new": "Walter de Cantilupe was canonized, becoming the first Englishman to be declared a saint since the canonization of St. Thomas Becket in 1173."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He was born in Hambleden, Buckinghamshire in the early 1260s and died on 18 October 1308 in Italy. He was the son of William de Cantilupe, a nobleman and sheriff of Worcestershire, and Milicent de Gournay. Walter de Cantilupe was educated at the University of Paris and then became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. In 1299, Walter was elected Bishop of Worcester, and he was consecrated the following year. He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford. Walter de Cantilupe was a strong advocate for the rights of the church and frequently clashed with the king over issues of jurisdiction and taxation. He was involved in the struggle between the pope and King Philip IV of France over the taxation of the clergy, and he traveled to Italy to attend the papal court. Walter de Cantilupe was canonized by Pope John XXII in 1320, becoming the first Englishman to be declared a saint since the canonization of St. Thomas Becket in 1173.",
+      "prefix_new": "Walter de Cantilupe, also known as Walter de Cantelupe, was an English bishop and lord chancellor. He died on 18 October 1308 in Italy. Walter de Cantilupe was the son of William de Cantilupe and Milicent de Gournay. Walter de Cantilupe became a canon of the diocese of Hereford. In 1289, he was appointed dean of the cathedral there. He also served as Lord Chancellor of England from 1292 to 1293 under King Edward I. He was known for his generosity and his support of education, founding a school in his home town of Hambleden and establishing scholarships for students at the University of Oxford. Walter de Cantilupe was a strong advocate for the rights of the church and frequently clashed with the king over issues of jurisdiction and taxation. He was involved in the struggle between the pope and King Philip IV of France over the taxation of the clergy, and he traveled to Italy to attend the papal court. Walter de Cantilupe was canonized, becoming the first Englishman to be declared a saint since the canonization of St. Thomas Becket in 1173.",
+      "sent_orig": "His feast day is celebrated on 1 February.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "His feast day",
+            "is celebrated",
+            "on 1 February."
+          ],
+          "His feast day is celebrated on October 2nd.",
+          "His feast day is celebrated on 1 February."
+        ]
+      ],
+      "sent_new": "His feast day is celebrated on 1 February."
+    }
+  ]
+}

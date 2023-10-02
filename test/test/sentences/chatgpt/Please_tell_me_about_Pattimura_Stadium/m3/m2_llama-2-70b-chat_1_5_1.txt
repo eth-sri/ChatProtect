@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Pattimura Stadium",
+  "orig": "It fits well after the given description and only contains information from the original sentence.",
+  "alt": "It only hosts local football matches and other sporting events.",
+  "prefix": " Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe stadium is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe stadium has modern amenities such as a VIP and media section, floodlights, and a scoreboard. This sentence still provides information about the stadium's modern amenities, while removing the conflicting information about the seating capacity.",
+  "triple": [
+    [
+      "It",
+      "only",
+      ""
+    ],
+    "compactie",
+    634
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "orig_tag": "ok",
+  "explanation": " The two statements provided do not contain contradictory information.\n\nStatement 1: \"It fits well after the given description and only contains information from the original sentence.\"\nThis statement is true and does not provide any new information that contradicts the original sentence.\n\nStatement 2: \"It only hosts local football matches and other sporting events.\"\nThis statement provides additional information about the types of events held at the stadium, but it does not contradict the information provided in the original sentence.\n\nTherefore, the two statements are not contradictory."
+}

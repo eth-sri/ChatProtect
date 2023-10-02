@@ -1,0 +1,131 @@
+{
+  "prompt": "Please tell me about Perseus (constellation)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus.",
+      "sent_orig": "It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars.",
+      "sent_orig": "The constellation is located near the constellation Cassiopeia and the North Star (Polaris).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The constellation is located near the constellation Cassiopeia and the North Star (Polaris)."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris).",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris).",
+      "sent_orig": "It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "is best visible",
+            "during the months of September and October."
+          ],
+          " It is best visible during the winter months in the northern hemisphere.",
+          "It is visible from most of the Northern Hemisphere."
+        ]
+      ],
+      "sent_new": "It is visible from most of the Northern Hemisphere."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere.",
+      "sent_orig": "Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations.",
+      "sent_orig": "Another notable star in Perseus is M31, a spiral galaxy that is visible with binoculars or a small telescope.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Another notable star in Perseus",
+            "is",
+            "a spiral galaxy"
+          ],
+          " Another notable star in Perseus is Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations.",
+          "Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations."
+        ]
+      ],
+      "sent_new": "Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Another notable star in Perseus is M31, a spiral galaxy that is visible with binoculars or a small telescope.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations.",
+      "sent_orig": "Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Another notable star in Perseus is M31, a spiral galaxy that is visible with binoculars or a small telescope. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope.",
+      "sent_orig": "The constellation also contains several nebulae, including the Perseus Nebula, a reflection nebula that is illuminated by the star Algol.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "several nebulae, including the Perseus Nebula,",
+            "is illuminated",
+            "by the star Algol."
+          ],
+          " Several nebulae, including the Perseus Nebula, is illuminated by the bright stars of the constellation.",
+          "The Perseus Nebula is a reflection nebula located in the constellation and is visible due to the illumination of nearby stars."
+        ]
+      ],
+      "sent_new": "The Perseus Nebula is a reflection nebula located in the constellation and is visible due to the illumination of nearby stars."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Another notable star in Perseus is M31, a spiral galaxy that is visible with binoculars or a small telescope. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope. The constellation also contains several nebulae, including the Perseus Nebula, a reflection nebula that is illuminated by the star Algol.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope. The Perseus Nebula is a reflection nebula located in the constellation and is visible due to the illumination of nearby stars.",
+      "sent_orig": "In Greek mythology, Perseus was a hero who defeated the Gorgon Medusa and saved the princess Andromeda from the sea monster Cetus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In Greek mythology, Perseus was a hero who defeated the Gorgon Medusa and saved the princess Andromeda from the sea monster Cetus."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Another notable star in Perseus is M31, a spiral galaxy that is visible with binoculars or a small telescope. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope. The constellation also contains several nebulae, including the Perseus Nebula, a reflection nebula that is illuminated by the star Algol. In Greek mythology, Perseus was a hero who defeated the Gorgon Medusa and saved the princess Andromeda from the sea monster Cetus.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope. The Perseus Nebula is a reflection nebula located in the constellation and is visible due to the illumination of nearby stars. In Greek mythology, Perseus was a hero who defeated the Gorgon Medusa and saved the princess Andromeda from the sea monster Cetus.",
+      "sent_orig": "The constellation Perseus is associated with the hero's figure, with the star Algol representing the head of Medusa.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The constellation Perseus is associated with the hero's figure, with the star Algol representing the head of Medusa."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Another notable star in Perseus is M31, a spiral galaxy that is visible with binoculars or a small telescope. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope. The constellation also contains several nebulae, including the Perseus Nebula, a reflection nebula that is illuminated by the star Algol. In Greek mythology, Perseus was a hero who defeated the Gorgon Medusa and saved the princess Andromeda from the sea monster Cetus. The constellation Perseus is associated with the hero's figure, with the star Algol representing the head of Medusa.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope. The Perseus Nebula is a reflection nebula located in the constellation and is visible due to the illumination of nearby stars. In Greek mythology, Perseus was a hero who defeated the Gorgon Medusa and saved the princess Andromeda from the sea monster Cetus. The constellation Perseus is associated with the hero's figure, with the star Algol representing the head of Medusa.",
+      "sent_orig": "Overall, Perseus is a fascinating constellation that offers many interesting targets for amateur astronomers and stargazers alike.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Perseus is a fascinating constellation that offers many interesting targets for amateur astronomers and stargazers alike."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere, and is best visible during the months of September and October. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Another notable star in Perseus is M31, a spiral galaxy that is visible with binoculars or a small telescope. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope. The constellation also contains several nebulae, including the Perseus Nebula, a reflection nebula that is illuminated by the star Algol. In Greek mythology, Perseus was a hero who defeated the Gorgon Medusa and saved the princess Andromeda from the sea monster Cetus. The constellation Perseus is associated with the hero's figure, with the star Algol representing the head of Medusa. Overall, Perseus is a fascinating constellation that offers many interesting targets for amateur astronomers and stargazers alike.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is located near the constellation Cassiopeia and the North Star (Polaris). It is visible from most of the Northern Hemisphere. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is home to several notable stars, including Algol, a binary star system that is also known as the \"Demon Star\" due to its unusual brightness fluctuations. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is visible with a small telescope. The Perseus Nebula is a reflection nebula located in the constellation and is visible due to the illumination of nearby stars. In Greek mythology, Perseus was a hero who defeated the Gorgon Medusa and saved the princess Andromeda from the sea monster Cetus. The constellation Perseus is associated with the hero's figure, with the star Algol representing the head of Medusa. Overall, Perseus is a fascinating constellation that offers many interesting targets for amateur astronomers and stargazers alike.",
+      "sent_orig": "Its distinctive shape and location make it an easy target for navigation and observation, and its rich history and cultural significance make it a fascinating topic of study.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Its distinctive shape and location make it an easy target for navigation and observation, and its rich history and cultural significance make it a fascinating topic of study."
+    }
+  ]
+}

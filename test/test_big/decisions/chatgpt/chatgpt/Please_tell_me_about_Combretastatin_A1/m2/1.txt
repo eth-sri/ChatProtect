@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Combretastatin A-1",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research."
+    },
+    {
+      "prefix_original": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research.",
+      "prefix_new": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research.",
+      "sent_orig": "It is a natural compound extracted from the bark of the African tree Combretum caffrum, and its anti-tumor activity is thought to be a result of its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a natural compound",
+            "extracted",
+            "from the bark of the African tree Combretum caffrum,"
+          ],
+          "Combretastatin A-1 is a natural compound extracted from the bark of the South African willow tree.",
+          "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research due to its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors."
+        ]
+      ],
+      "sent_new": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research due to its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors."
+    },
+    {
+      "prefix_original": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. It is a natural compound extracted from the bark of the African tree Combretum caffrum, and its anti-tumor activity is thought to be a result of its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors.",
+      "prefix_new": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research due to its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors.",
+      "sent_orig": "Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients."
+    },
+    {
+      "prefix_original": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. It is a natural compound extracted from the bark of the African tree Combretum caffrum, and its anti-tumor activity is thought to be a result of its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors. Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients.",
+      "prefix_new": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research due to its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors. Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients.",
+      "sent_orig": "This makes it a potential therapy for solid tumors, such as lung, breast, and colorectal cancer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This makes it a potential therapy for solid tumors, such as lung, breast, and colorectal cancer."
+    },
+    {
+      "prefix_original": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. It is a natural compound extracted from the bark of the African tree Combretum caffrum, and its anti-tumor activity is thought to be a result of its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors. Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients. This makes it a potential therapy for solid tumors, such as lung, breast, and colorectal cancer.",
+      "prefix_new": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research due to its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors. Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients. This makes it a potential therapy for solid tumors, such as lung, breast, and colorectal cancer.",
+      "sent_orig": "Combretastatin A-1 has also been studied in combination with other chemotherapy drugs, and results have shown that it can enhance the efficacy of these drugs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Combretastatin A-1 has also been studied in combination with other chemotherapy drugs, and results have shown that it can enhance the efficacy of these drugs."
+    },
+    {
+      "prefix_original": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. It is a natural compound extracted from the bark of the African tree Combretum caffrum, and its anti-tumor activity is thought to be a result of its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors. Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients. This makes it a potential therapy for solid tumors, such as lung, breast, and colorectal cancer. Combretastatin A-1 has also been studied in combination with other chemotherapy drugs, and results have shown that it can enhance the efficacy of these drugs.",
+      "prefix_new": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research due to its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors. Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients. This makes it a potential therapy for solid tumors, such as lung, breast, and colorectal cancer. Combretastatin A-1 has also been studied in combination with other chemotherapy drugs, and results have shown that it can enhance the efficacy of these drugs.",
+      "sent_orig": "However, more research is needed to fully understand the mechanisms of action of Combretastatin A-1 and its potential as a cancer therapy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, more research is needed to fully understand the mechanisms of action of Combretastatin A-1 and its potential as a cancer therapy."
+    },
+    {
+      "prefix_original": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. It is a natural compound extracted from the bark of the African tree Combretum caffrum, and its anti-tumor activity is thought to be a result of its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors. Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients. This makes it a potential therapy for solid tumors, such as lung, breast, and colorectal cancer. Combretastatin A-1 has also been studied in combination with other chemotherapy drugs, and results have shown that it can enhance the efficacy of these drugs. However, more research is needed to fully understand the mechanisms of action of Combretastatin A-1 and its potential as a cancer therapy.",
+      "prefix_new": "Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research. Combretastatin A-1 is a microtubule-binding agent that has shown promising results in cancer research due to its ability to inhibit the formation of new blood vessels (angiogenesis) in tumors. Studies have shown that Combretastatin A-1 can induce the rapid collapse of tumor blood vessels and subsequently cause tumor cell death due to a lack of oxygen and nutrients. This makes it a potential therapy for solid tumors, such as lung, breast, and colorectal cancer. Combretastatin A-1 has also been studied in combination with other chemotherapy drugs, and results have shown that it can enhance the efficacy of these drugs. However, more research is needed to fully understand the mechanisms of action of Combretastatin A-1 and its potential as a cancer therapy.",
+      "sent_orig": "Currently, it is not yet approved for use in clinical practice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Currently, it is not yet approved for use in clinical practice."
+    }
+  ]
+}

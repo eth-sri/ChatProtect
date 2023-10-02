@@ -1,0 +1,38 @@
+test/test/sentences/chatgpt/diane_arkenstone/m3/m3_2_1_0.txt
+Q: I give you the beginning of a description about diane arkenstone.
+Then follow two statements.
+
+Description:
+Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres.
+
+Statement 1:
+Diane Arkenstone was born on May 3, 1959.
+
+Statement 2:
+Diane Arkenstone was born in California.
+
+Please explain whether the statements about diane arkenstone are contradictory.
+Provide your explanation only.
+
+A: The statements about Diane Arkenstone are not contradictory. Statement 1 provides her birthdate while statement 2 provides her birthplace. They are two separate pieces of information that do not conflict with each other.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements about Diane Arkenstone are not contradictory.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 355
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=109, completion_tokens=42), Usage(prompt_tokens=173, completion_tokens=31)]
+282
+73
+355
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

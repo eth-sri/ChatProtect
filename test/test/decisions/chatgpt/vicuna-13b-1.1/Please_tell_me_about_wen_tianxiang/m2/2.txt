@@ -1,0 +1,63 @@
+{
+  "prompt": "Please tell me about wen tianxiang",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Wu Qing and Wu Tianxiang are two different people.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Wu Qing and Wu Tianxiang are two different people."
+    },
+    {
+      "prefix_original": "Wu Qing and Wu Tianxiang are two different people.",
+      "prefix_new": "Wu Qing and Wu Tianxiang are two different people.",
+      "sent_orig": "Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs."
+    },
+    {
+      "prefix_original": "Wu Qing and Wu Tianxiang are two different people. Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs.",
+      "prefix_new": "Wu Qing and Wu Tianxiang are two different people. Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs.",
+      "sent_orig": "He is remembered for his role in the campaign against the Ming's hated rivals, the Mongols, and for his opposition to the spread of neo-Confucianism.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is remembered for his role in the campaign against the Ming's hated rivals, the Mongols, and for his opposition to the spread of neo-Confucianism."
+    },
+    {
+      "prefix_original": "Wu Qing and Wu Tianxiang are two different people. Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs. He is remembered for his role in the campaign against the Ming's hated rivals, the Mongols, and for his opposition to the spread of neo-Confucianism.",
+      "prefix_new": "Wu Qing and Wu Tianxiang are two different people. Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs. He is remembered for his role in the campaign against the Ming's hated rivals, the Mongols, and for his opposition to the spread of neo-Confucianism.",
+      "sent_orig": "On the other hand, Wu Tianxiang was a philosopher who lived during the Ming-Qing transition period in China.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Wu Tianxiang",
+            "was",
+            "a philosopher"
+          ],
+          "Wu Tianxiang was a Chinese philosopher and scholar during the Ming Dynasty, known for his advocacy of Neo-Confucianism.",
+          "Wu Tianxiang was a Chinese philosopher who lived during the Ming Dynasty."
+        ]
+      ],
+      "sent_new": "Wu Tianxiang was a Chinese philosopher who lived during the Ming Dynasty."
+    },
+    {
+      "prefix_original": "Wu Qing and Wu Tianxiang are two different people. Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs. He is remembered for his role in the campaign against the Ming's hated rivals, the Mongols, and for his opposition to the spread of neo-Confucianism. On the other hand, Wu Tianxiang was a philosopher who lived during the Ming-Qing transition period in China.",
+      "prefix_new": "Wu Qing and Wu Tianxiang are two different people. Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs. He is remembered for his role in the campaign against the Ming's hated rivals, the Mongols, and for his opposition to the spread of neo-Confucianism. Wu Tianxiang was a Chinese philosopher who lived during the Ming Dynasty.",
+      "sent_orig": "He was a prominent Confucian scholar who was known for his literary talents and his opposition to the influence of Western ideas in China.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a prominent Confucian scholar who was known for his literary talents and his opposition to the influence of Western ideas in China."
+    },
+    {
+      "prefix_original": "Wu Qing and Wu Tianxiang are two different people. Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs. He is remembered for his role in the campaign against the Ming's hated rivals, the Mongols, and for his opposition to the spread of neo-Confucianism. On the other hand, Wu Tianxiang was a philosopher who lived during the Ming-Qing transition period in China. He was a prominent Confucian scholar who was known for his literary talents and his opposition to the influence of Western ideas in China.",
+      "prefix_new": "Wu Qing and Wu Tianxiang are two different people. Wu Qing was a powerful and ruthless government official in the Ming Dynasty who was known for his literary talents and strict Confucian beliefs. He is remembered for his role in the campaign against the Ming's hated rivals, the Mongols, and for his opposition to the spread of neo-Confucianism. Wu Tianxiang was a Chinese philosopher who lived during the Ming Dynasty. He was a prominent Confucian scholar who was known for his literary talents and his opposition to the influence of Western ideas in China.",
+      "sent_orig": "He is remembered for his role in the Neo-Confucian Revival and for his efforts to promote Confucianism as the dominant ideology in China during this time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is remembered for his role in the Neo-Confucian Revival and for his efforts to promote Confucianism as the dominant ideology in China during this time."
+    }
+  ]
+}

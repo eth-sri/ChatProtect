@@ -1,0 +1,37 @@
+{
+  "prompt": "Please tell me about noah mamet",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Noah Mamet is an American public servant and former diplomat.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Noah Mamet is an American public servant and former diplomat."
+    },
+    {
+      "prefix_original": "Noah Mamet is an American public servant and former diplomat.",
+      "prefix_new": "Noah Mamet is an American public servant and former diplomat.",
+      "sent_orig": "He served as the United States Ambassador to Argentina from 2014 to 2017, during the Obama administration.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He served as the United States Ambassador to Argentina from 2014 to 2017, during the Obama administration."
+    },
+    {
+      "prefix_original": "Noah Mamet is an American public servant and former diplomat. He served as the United States Ambassador to Argentina from 2014 to 2017, during the Obama administration.",
+      "prefix_new": "Noah Mamet is an American public servant and former diplomat. He served as the United States Ambassador to Argentina from 2014 to 2017, during the Obama administration.",
+      "sent_orig": "Prior to his appointment as ambassador, he worked as a political strategist and fundraiser for Democratic campaigns, including for the Democratic National Committee and President Barack Obama's 2008 and 2012 campaigns.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prior to his appointment as ambassador, he worked as a political strategist and fundraiser for Democratic campaigns, including for the Democratic National Committee and President Barack Obama's 2008 and 2012 campaigns."
+    },
+    {
+      "prefix_original": "Noah Mamet is an American public servant and former diplomat. He served as the United States Ambassador to Argentina from 2014 to 2017, during the Obama administration. Prior to his appointment as ambassador, he worked as a political strategist and fundraiser for Democratic campaigns, including for the Democratic National Committee and President Barack Obama's 2008 and 2012 campaigns.",
+      "prefix_new": "Noah Mamet is an American public servant and former diplomat. He served as the United States Ambassador to Argentina from 2014 to 2017, during the Obama administration. Prior to his appointment as ambassador, he worked as a political strategist and fundraiser for Democratic campaigns, including for the Democratic National Committee and President Barack Obama's 2008 and 2012 campaigns.",
+      "sent_orig": "Mamet was born and raised in Los Angeles, California, and graduated from the University of California, Berkeley with a degree in political science.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Mamet was born and raised in Los Angeles, California, and graduated from the University of California, Berkeley with a degree in political science."
+    }
+  ]
+}

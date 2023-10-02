@@ -1,0 +1,131 @@
+test/test/sentences/chatgpt/gordon_gollob/m3/m3_1_8_1.txt
+Q: I give you the beginning of a description about gordon gollob.
+Then follow two statements.
+
+Description:
+Gordon Gollob was a fighter ace during World War II. Gordon Gollob was born on June 16, 1912. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing. He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk.
+
+Statement 1:
+Gollob's career was cut short when he was injured in a flying accident.
+
+Statement 2:
+He was injured in a flying accident in 1943 and was forced to retire from active service.
+
+Please explain whether the statements about gordon gollob are contradictory.
+Provide your explanation only.
+
+A: The statements about Gordon Gollob are not contradictory. Both statements mention that Gollob was injured in a flying accident, which led to the end of his career as a fighter pilot. The only difference is that statement 1 does not specify when the accident occurred, while statement 2 provides the year (1943) when the accident happened.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 682
+test/test/sentences/chatgpt/gordon_gollob/m3/m3_1_8_0.txt
+Q: I give you the beginning of a description about gordon gollob.
+Then follow two statements.
+
+Description:
+Gordon Gollob was a fighter ace during World War II. Gordon Gollob was born on June 16, 1912. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing. He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk.
+
+Statement 1:
+Gollob's career was cut short when he was injured in a flying accident.
+
+Statement 2:
+Gollob's career was cut short when he was shot down and captured by Soviet forces in 1944.
+
+Please explain whether the statements about gordon gollob are contradictory.
+Provide your explanation only.
+
+A: The statements about Gordon Gollob are not contradictory, but they present two different reasons for his career being cut short. Statement 1 suggests that Gollob was injured in a flying accident, while Statement 2 suggests that he was shot down and captured by Soviet forces. Both statements could be true, as Gollob may have been injured in a flying accident before being shot down and captured. However, without further information, it is impossible to determine the exact circumstances of Gollob's career ending.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: strong
+score: 0.0
+cost: 748
+test/test/sentences/chatgpt/gordon_gollob/m3/m3_1_2_0.txt
+Q: I give you the beginning of a description about gordon gollob.
+Then follow two statements.
+
+Description:
+Gordon Gollob was a fighter ace during World War II. Gordon Gollob was born on June 16, 1912.
+
+Statement 1:
+Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron.
+
+Statement 2:
+Gollob was assigned to the Eastern Front, where he achieved most of his victories.
+
+Please explain whether the statements about gordon gollob are contradictory.
+Provide your explanation only.
+
+A: The statements about Gordon Gollob are not contradictory. Statement 1 provides information about the fighter squadron he was assigned to, while statement 2 provides information about the location where he achieved most of his victories. Both statements can be true at the same time.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 396
+test/test/sentences/chatgpt/gordon_gollob/m3/m3_2_1_0.txt
+Q: I give you the beginning of a description about gordon gollob.
+Then follow two statements.
+
+Description:
+Gordon Gollob was a fighter pilot during World War II.
+
+Statement 1:
+Gordon Gollob was born on January 16, 1912 in Vienna, Austria.
+
+Statement 2:
+Gordon Gollob was born on June 16, 1912 in Gleiwitz, Upper Silesia.
+
+Please explain whether the statements about gordon gollob are contradictory.
+Provide your explanation only.
+
+A: The statements about Gordon Gollob are contradictory because they provide different birthplaces for him. One statement says he was born in Vienna, Austria, while the other says he was born in Gleiwitz, Upper Silesia. These two places are not the same, so the statements cannot both be true.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: Yes, the statements about Gordon Gollob are contradictory.
+A: Yes, the statements about Gordon Gollob are contradictory.
+A: Yes, the statements about Gordon Gollob are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes.
+A: Yes, the statements about Gordon Gollob are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+label: strong
+score: 1.0
+cost: 447
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=252, completion_tokens=68), Usage(prompt_tokens=342, completion_tokens=20), Usage(prompt_tokens=255, completion_tokens=98), Usage(prompt_tokens=375, completion_tokens=20), Usage(prompt_tokens=123, completion_tokens=51), Usage(prompt_tokens=196, completion_tokens=26), Usage(prompt_tokens=111, completion_tokens=61), Usage(prompt_tokens=194, completion_tokens=81)]
+1848
+425
+2273
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

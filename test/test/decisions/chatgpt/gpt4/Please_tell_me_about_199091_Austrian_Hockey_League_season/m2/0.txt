@@ -1,0 +1,178 @@
+{
+  "prompt": "Please tell me about 1990\u201391 Austrian Hockey League season",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria.",
+      "sent_orig": "This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "This league,",
+            "featured",
+            "10 teams"
+          ],
+          "This league featured eight teams competing for the championship title.",
+          "The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons."
+        ]
+      ],
+      "sent_new": "The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons.",
+      "sent_orig": "The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons.",
+      "sent_orig": "The ten teams participating in the season were:\n\n1.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The ten teams participating in the season were:\n\n1."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1.",
+      "sent_orig": "EC KAC\n2.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC KAC\n2."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2.",
+      "sent_orig": "EC Salzburg\n3.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC Salzburg\n3."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3.",
+      "sent_orig": "EC VSV\n4.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC VSV\n4."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4.",
+      "sent_orig": "EHC Innsbruck\n5.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EHC Innsbruck\n5."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5.",
+      "sent_orig": "EV Wien\n6.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EV Wien\n6."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6.",
+      "sent_orig": "EHC Feldkirch\n7.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EHC Feldkirch\n7."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7.",
+      "sent_orig": "EC Graz\n8.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC Graz\n8."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8.",
+      "sent_orig": "ATSV Zeltweg\n9.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "ATSV Zeltweg\n9."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9.",
+      "sent_orig": "EHC Lustenau\n10.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EHC Lustenau\n10."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10.",
+      "sent_orig": "HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10. HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10. HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey.",
+      "sent_orig": "In the playoffs, the teams competed in a best-of-seven series for the championship title.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "playoffs, the teams",
+            "competed",
+            "in a best-of-seven series for the championship title."
+          ],
+          "In the playoffs, the teams competed in a best-of-five series to determine the champion of the 1990-91 Austrian Hockey League season.",
+          "The teams competed in a best-of-five series to determine the champion of the 1990-91 Austrian Hockey League season."
+        ]
+      ],
+      "sent_new": "The teams competed in a best-of-five series to determine the champion of the 1990-91 Austrian Hockey League season."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10. HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey. In the playoffs, the teams competed in a best-of-seven series for the championship title.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10. HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey. The teams competed in a best-of-five series to determine the champion of the 1990-91 Austrian Hockey League season.",
+      "sent_orig": "EC KAC, which finished the regular season at the top of the table, went on to win the championship title by defeating EC VSV in the final series with a 4-1 victory.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC KAC, which finished the regular season at the top of the table, went on to win the championship title by defeating EC VSV in the final series with a 4-1 victory."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10. HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey. In the playoffs, the teams competed in a best-of-seven series for the championship title. EC KAC, which finished the regular season at the top of the table, went on to win the championship title by defeating EC VSV in the final series with a 4-1 victory.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10. HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey. The teams competed in a best-of-five series to determine the champion of the 1990-91 Austrian Hockey League season. EC KAC, which finished the regular season at the top of the table, went on to win the championship title by defeating EC VSV in the final series with a 4-1 victory.",
+      "sent_orig": "EHC Lustenau finished last in the relegation round and was relegated to the Austrian National League.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "EHC Lustenau",
+            "finished",
+            "last in the relegation round"
+          ],
+          "EHC Lustenau finished in 9th place in the regular season, narrowly avoiding relegation to the lower tier of Austrian ice hockey.",
+          "EHC Lustenau was relegated to the Austrian National League."
+        ]
+      ],
+      "sent_new": "EHC Lustenau was relegated to the Austrian National League."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. This league, known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons, featured 10 teams that competed for the national championship title. The teams played a total of 46 games during the regular season, which began in September 1990 and concluded in March 1990. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10. HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey. In the playoffs, the teams competed in a best-of-seven series for the championship title. EC KAC, which finished the regular season at the top of the table, went on to win the championship title by defeating EC VSV in the final series with a 4-1 victory. EHC Lustenau finished last in the relegation round and was relegated to the Austrian National League.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the professional ice hockey league in Austria. The league was known as the Erste Bank Eishockey Liga (EBEL) due to sponsorship reasons. The ten teams participating in the season were:\n\n1. EC KAC\n2. EC Salzburg\n3. EC VSV\n4. EHC Innsbruck\n5. EV Wien\n6. EHC Feldkirch\n7. EC Graz\n8. ATSV Zeltweg\n9. EHC Lustenau\n10. HC Wacker\n\nAt the end of the regular season, the top six teams qualified for the playoffs, while the bottom four teams competed in the relegation round to determine which team would be relegated to the lower tier of Austrian ice hockey. The teams competed in a best-of-five series to determine the champion of the 1990-91 Austrian Hockey League season. EC KAC, which finished the regular season at the top of the table, went on to win the championship title by defeating EC VSV in the final series with a 4-1 victory. EHC Lustenau was relegated to the Austrian National League.",
+      "sent_orig": "The 1990-91 Austrian Hockey League season was highly competitive and marked another year of growth and evolution for professional ice hockey in Austria.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1990-91 Austrian Hockey League season was highly competitive and marked another year of growth and evolution for professional ice hockey in Austria."
+    }
+  ]
+}

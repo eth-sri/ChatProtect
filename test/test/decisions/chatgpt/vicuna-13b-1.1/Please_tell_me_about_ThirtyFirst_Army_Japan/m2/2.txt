@@ -1,0 +1,101 @@
+{
+  "prompt": "Please tell me about Thirty-First Army (Japan)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II.",
+      "prefix_new": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II.",
+      "sent_orig": "It was formed in mid-1944 and stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was formed stationed",
+            "in Rangoon, Burma, under the control of the Southern Army"
+          ],
+          "It was formed in southern China and stationed in various locations throughout the region during the war.",
+          "It was stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun)."
+        ]
+      ],
+      "sent_new": "It was stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun)."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was formed in mid-1944 and stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun).",
+      "prefix_new": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun).",
+      "sent_orig": "Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was formed in mid-1944 and stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun). Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma.",
+      "prefix_new": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun). Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma.",
+      "sent_orig": "The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Thirty-First Army",
+            "was primarily composed",
+            "of troops from Korea, China and Indochina,"
+          ],
+          "The Thirty-First Army was primarily composed of locally-recruited Burmese and Japanese troops.",
+          "The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally."
+        ]
+      ],
+      "sent_new": "The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was formed in mid-1944 and stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun). Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma. The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally.",
+      "prefix_new": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun). Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma. The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally.",
+      "sent_orig": "The formation was encircled and eventually destroyed by Allied forces during the Battle of Rangoon in early 1945, with the surviving troops being evacuated to Malaya by sea.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The formation",
+            "was encircled",
+            "and"
+          ],
+          "The formation was encircled by the advancing Allied forces and ultimately surrendered in July 1945.",
+          "The Thirty-First Army was eventually destroyed by Allied forces during the Battle of Rangoon in early 1945, with the surviving troops being evacuated to Malaya by sea."
+        ]
+      ],
+      "sent_new": "The Thirty-First Army was eventually destroyed by Allied forces during the Battle of Rangoon in early 1945, with the surviving troops being evacuated to Malaya by sea."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was formed in mid-1944 and stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun). Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma. The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally. The formation was encircled and eventually destroyed by Allied forces during the Battle of Rangoon in early 1945, with the surviving troops being evacuated to Malaya by sea.",
+      "prefix_new": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun). Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma. The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally. The Thirty-First Army was eventually destroyed by Allied forces during the Battle of Rangoon in early 1945, with the surviving troops being evacuated to Malaya by sea.",
+      "sent_orig": "The commanders of the Thirty-First Army included General Suzuki Tei (\u9234\u6728\u54f2\u91cd), who later served as the last Prime Minister of Japan during the final stages of the war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The commanders of the Thirty-First Army included General Suzuki Tei (\u9234\u6728\u54f2\u91cd), who later served as the last Prime Minister of Japan during the final stages of the war."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was formed in mid-1944 and stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun). Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma. The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally. The formation was encircled and eventually destroyed by Allied forces during the Battle of Rangoon in early 1945, with the surviving troops being evacuated to Malaya by sea. The commanders of the Thirty-First Army included General Suzuki Tei (\u9234\u6728\u54f2\u91cd), who later served as the last Prime Minister of Japan during the final stages of the war.",
+      "prefix_new": "The Thirty-First Army (\u7b2c31\u8ecd, Dai-san-gun) was a military unit of the Imperial Japanese Army during World War II. It was stationed in Rangoon, Burma, under the control of the Southern Army (\u5357\u8ecd, Nangun). Its main role was to defend against potential Allied amphibious landings along the southern coast of Burma. The Thirty-First Army was primarily composed of troops from Korea, China and Indochina, who were recruited and trained locally. The Thirty-First Army was eventually destroyed by Allied forces during the Battle of Rangoon in early 1945, with the surviving troops being evacuated to Malaya by sea. The commanders of the Thirty-First Army included General Suzuki Tei (\u9234\u6728\u54f2\u91cd), who later served as the last Prime Minister of Japan during the final stages of the war.",
+      "sent_orig": "After the war, the Thirty-First Army was disbanded, and its former personnel were integrated into the post-war Japan Self-Defense Forces.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "its former personnel",
+            "were integrated",
+            "into the post-war Japan Self-Defense Forces."
+          ],
+          "Its former personnel were integrated into the Thirty-Third Army.",
+          "After the war, the Thirty-First Army was disbanded."
+        ]
+      ],
+      "sent_new": "After the war, the Thirty-First Army was disbanded."
+    }
+  ]
+}

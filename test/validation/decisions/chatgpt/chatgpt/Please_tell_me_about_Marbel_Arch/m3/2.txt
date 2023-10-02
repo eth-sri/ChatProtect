@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about Marbel Arch",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures."
+    },
+    {
+      "prefix_original": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures.",
+      "prefix_new": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures.",
+      "sent_orig": "It is a popular tourist attraction and is often used as a meeting point for people visiting the nearby Hyde Park.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a popular tourist attraction and is often used as a meeting point for people visiting the nearby Hyde Park."
+    },
+    {
+      "prefix_original": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures. It is a popular tourist attraction and is often used as a meeting point for people visiting the nearby Hyde Park.",
+      "prefix_new": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures. It is a popular tourist attraction and is often used as a meeting point for people visiting the nearby Hyde Park.",
+      "sent_orig": "Throughout its history, Marble Arch has been the site of various demonstrations and protests, including the Suffragette movement in the early 20th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout its history, Marble Arch has been the site of various demonstrations and protests, including the Suffragette movement in the early 20th century."
+    },
+    {
+      "prefix_original": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures. It is a popular tourist attraction and is often used as a meeting point for people visiting the nearby Hyde Park. Throughout its history, Marble Arch has been the site of various demonstrations and protests, including the Suffragette movement in the early 20th century.",
+      "prefix_new": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures. It is a popular tourist attraction and is often used as a meeting point for people visiting the nearby Hyde Park. Throughout its history, Marble Arch has been the site of various demonstrations and protests, including the Suffragette movement in the early 20th century.",
+      "sent_orig": "It has also been the backdrop for many important events, such as the coronation of King George VI in 1937.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has also been the backdrop for many important events, such as the coronation of King George VI in 1937."
+    },
+    {
+      "prefix_original": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures. It is a popular tourist attraction and is often used as a meeting point for people visiting the nearby Hyde Park. Throughout its history, Marble Arch has been the site of various demonstrations and protests, including the Suffragette movement in the early 20th century. It has also been the backdrop for many important events, such as the coronation of King George VI in 1937.",
+      "prefix_new": "The arch stands at 45 feet (14 meters) high and features intricate carvings and sculptures. It is a popular tourist attraction and is often used as a meeting point for people visiting the nearby Hyde Park. Throughout its history, Marble Arch has been the site of various demonstrations and protests, including the Suffragette movement in the early 20th century. It has also been the backdrop for many important events, such as the coronation of King George VI in 1937.",
+      "sent_orig": "Today, Marble Arch is a symbol of London's rich history and culture, and continues to be a popular destination for visitors to the city.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Marble Arch is a symbol of London's rich history and culture, and continues to be a popular destination for visitors to the city."
+    }
+  ]
+}

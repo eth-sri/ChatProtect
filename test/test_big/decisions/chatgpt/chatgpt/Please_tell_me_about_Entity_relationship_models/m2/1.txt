@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about Entity relationship models",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Entity-relationship (ER) models are graphical representations used in software engineering and database design.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design.",
+      "sent_orig": "They are used to represent the relationships between different entities or objects in a system.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are used to represent the relationships between different entities or objects in a system."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system.",
+      "sent_orig": "The ER model is a conceptual model that represents the data requirements for a system.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The ER model is a conceptual model that represents the data requirements for a system."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system.",
+      "sent_orig": "It is used to design a database and is often used as a starting point for database design projects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is used to design a database and is often used as a starting point for database design projects."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects.",
+      "sent_orig": "In an ER model, entities are represented as rectangles with their attribute values displayed within the rectangle.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "their attribute values",
+            "displayed",
+            "within the rectangle."
+          ],
+          "In an ER model, the attribute values of each entity are displayed in a table.",
+          "In an ER model, entities are represented as rectangles."
+        ]
+      ],
+      "sent_new": "In an ER model, entities are represented as rectangles."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles with their attribute values displayed within the rectangle.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles.",
+      "sent_orig": "Relationships between entities are depicted by lines that link the entities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Relationships between entities are depicted by lines that link the entities."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles with their attribute values displayed within the rectangle. Relationships between entities are depicted by lines that link the entities.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles. Relationships between entities are depicted by lines that link the entities.",
+      "sent_orig": "Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles with their attribute values displayed within the rectangle. Relationships between entities are depicted by lines that link the entities. Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles. Relationships between entities are depicted by lines that link the entities. Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship.",
+      "sent_orig": "Relationships can be one-to-one, one-to-many, or many-to-many.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Relationships can be one-to-one, one-to-many, or many-to-many."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles with their attribute values displayed within the rectangle. Relationships between entities are depicted by lines that link the entities. Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship. Relationships can be one-to-one, one-to-many, or many-to-many.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles. Relationships between entities are depicted by lines that link the entities. Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship. Relationships can be one-to-one, one-to-many, or many-to-many.",
+      "sent_orig": "ER models are useful because they help designers to visualize the data flow in complex systems and identify the relationships between entities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "ER models are useful because they help designers to visualize the data flow in complex systems and identify the relationships between entities."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles with their attribute values displayed within the rectangle. Relationships between entities are depicted by lines that link the entities. Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship. Relationships can be one-to-one, one-to-many, or many-to-many. ER models are useful because they help designers to visualize the data flow in complex systems and identify the relationships between entities.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles. Relationships between entities are depicted by lines that link the entities. Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship. Relationships can be one-to-one, one-to-many, or many-to-many. ER models are useful because they help designers to visualize the data flow in complex systems and identify the relationships between entities.",
+      "sent_orig": "They can also help to identify potential problems with data integrity and provide a framework for database design.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They can also help to identify potential problems with data integrity and provide a framework for database design."
+    },
+    {
+      "prefix_original": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles with their attribute values displayed within the rectangle. Relationships between entities are depicted by lines that link the entities. Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship. Relationships can be one-to-one, one-to-many, or many-to-many. ER models are useful because they help designers to visualize the data flow in complex systems and identify the relationships between entities. They can also help to identify potential problems with data integrity and provide a framework for database design.",
+      "prefix_new": "Entity-relationship (ER) models are graphical representations used in software engineering and database design. They are used to represent the relationships between different entities or objects in a system. The ER model is a conceptual model that represents the data requirements for a system. It is used to design a database and is often used as a starting point for database design projects. In an ER model, entities are represented as rectangles. Relationships between entities are depicted by lines that link the entities. Cardinality notation is used to indicate the relationships between entities and the number of occurrences that can exist on either side of the relationship. Relationships can be one-to-one, one-to-many, or many-to-many. ER models are useful because they help designers to visualize the data flow in complex systems and identify the relationships between entities. They can also help to identify potential problems with data integrity and provide a framework for database design.",
+      "sent_orig": "ER models are often used in conjunction with other modeling methods such as process models, data flow diagrams, and state-transition diagrams to create a complete system design.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "ER models are often used in conjunction with other modeling methods such as process models, data flow diagrams, and state-transition diagrams to create a complete system design."
+    }
+  ]
+}

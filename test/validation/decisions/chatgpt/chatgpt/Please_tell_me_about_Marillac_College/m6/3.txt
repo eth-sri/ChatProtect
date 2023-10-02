@@ -1,0 +1,83 @@
+{
+  "prompt": "Please tell me about Marillac College",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States."
+    },
+    {
+      "prefix_original": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States.",
+      "prefix_new": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States.",
+      "sent_orig": "It was founded in 1929 by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was founded",
+            "in 1929 by the Daughters of Charity of St. Vincent de Paul"
+          ],
+          "The statements about Marillac College are contradictory. Statement 1 states that the college was founded in 1929, while Statement 2 states that it was founded in 1916. Therefore, the two statements cannot both be true.\n",
+          "It was founded in 1916 by the Daughters of Charity of Saint Vincent de Paul.",
+          "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States, founded by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac."
+        ]
+      ],
+      "sent_new": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States, founded by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac."
+    },
+    {
+      "prefix_original": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. It was founded in 1929 by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac.",
+      "prefix_new": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States, founded by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac.",
+      "sent_orig": "The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work."
+    },
+    {
+      "prefix_original": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. It was founded in 1929 by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac. The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work.",
+      "prefix_new": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States, founded by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac. The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work.",
+      "sent_orig": "It was known for its commitment to service and social justice, and many of its graduates went on to careers in healthcare, education, and social services.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was known for its commitment to service and social justice, and many of its graduates went on to careers in healthcare, education, and social services."
+    },
+    {
+      "prefix_original": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. It was founded in 1929 by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac. The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work. It was known for its commitment to service and social justice, and many of its graduates went on to careers in healthcare, education, and social services.",
+      "prefix_new": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States, founded by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac. The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work. It was known for its commitment to service and social justice, and many of its graduates went on to careers in healthcare, education, and social services.",
+      "sent_orig": "In 1998, Marillac College merged with Saint Louis University, another Catholic university located in St. Louis.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Marillac College",
+            "merged",
+            "with Saint Louis University, another Catholic university"
+          ],
+          "Yes, the statements about Marillac College are contradictory. Statement 1 indicates that Marillac College merged with Saint Louis University in 1998, while statement 2 states that the college closed its doors in the same year due to financial difficulties. These two statements cannot both be true at the same time.\n",
+          "Unfortunately, Marillac College closed its doors in 1998 after it merged with Saint Louis University due to financial difficulties.",
+          "In 1998, Marillac College underwent significant changes."
+        ]
+      ],
+      "sent_new": "In 1998, Marillac College underwent significant changes."
+    },
+    {
+      "prefix_original": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. It was founded in 1929 by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac. The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work. It was known for its commitment to service and social justice, and many of its graduates went on to careers in healthcare, education, and social services. In 1998, Marillac College merged with Saint Louis University, another Catholic university located in St. Louis.",
+      "prefix_new": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States, founded by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac. The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work. It was known for its commitment to service and social justice, and many of its graduates went on to careers in healthcare, education, and social services. In 1998, Marillac College underwent significant changes.",
+      "sent_orig": "Today, the former Marillac College campus is home to several academic programs within Saint Louis University, including the School of Nursing and the School of Social Work.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, the former Marillac College campus is home to several academic programs within Saint Louis University, including the School of Nursing and the School of Social Work."
+    },
+    {
+      "prefix_original": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. It was founded in 1929 by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac. The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work. It was known for its commitment to service and social justice, and many of its graduates went on to careers in healthcare, education, and social services. In 1998, Marillac College merged with Saint Louis University, another Catholic university located in St. Louis. Today, the former Marillac College campus is home to several academic programs within Saint Louis University, including the School of Nursing and the School of Social Work.",
+      "prefix_new": "Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States. Marillac College was a private, Catholic women's college located in St. Louis, Missouri, United States, founded by the Daughters of Charity of St. Vincent de Paul and named after their co-founder, Saint Louise de Marillac. The college offered undergraduate programs in the liberal arts and sciences, as well as professional programs in nursing, education, and social work. It was known for its commitment to service and social justice, and many of its graduates went on to careers in healthcare, education, and social services. In 1998, Marillac College underwent significant changes. Today, the former Marillac College campus is home to several academic programs within Saint Louis University, including the School of Nursing and the School of Social Work.",
+      "sent_orig": "The legacy of Marillac College continues to be honored through scholarships and other initiatives at Saint Louis University.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The legacy of Marillac College continues to be honored through scholarships and other initiatives at Saint Louis University."
+    }
+  ]
+}

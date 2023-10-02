@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about c. t. blackfan",
+  "orig": "Blackfan graduated from Harvard Medical School in 1889.",
+  "alt": " C.T. Blackfan graduated from Harvard Medical School.",
+  "prefix": "  C.T. C.T. Blackfan was a pioneer in the field of pediatrics. C.T.",
+  "triple": [
+    [
+      "Blackfan",
+      "graduated",
+      "from Harvard Medical School in 1889."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about C.T. Blackfan are not contradictory, but statement 2 is redundant as it repeats the information already given in statement 1. Both statements provide information about Blackfan's education and specifically mention that he graduated from Harvard Medical School."
+}

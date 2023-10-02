@@ -1,0 +1,143 @@
+{
+  "prompt": "Please tell me about george bell (pitcher)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century.",
+      "sent_orig": "Bell was born on October 7, 1891, in Hershey, Nebraska.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Bell",
+            "was born",
+            "on October 7, 1891, in Hershey,"
+          ],
+          "Bell was born on October 7, 1891 in Bridgeport, Alabama.",
+          "Bell was born on October 7, 1891."
+        ]
+      ],
+      "sent_new": "Bell was born on October 7, 1891."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891.",
+      "sent_orig": "He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "began",
+            "his"
+          ],
+          "He began his professional baseball career in 1916 with the Cincinnati Reds.",
+          "He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century."
+        ]
+      ],
+      "sent_new": "He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska. He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891. He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century.",
+      "sent_orig": "In 1914, Bell made his major league debut with the Cincinnati Reds.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Bell",
+            "made",
+            "his major league debut with the Cincinnati Reds."
+          ],
+          "Bell made his Major League Baseball debut with the Cincinnati Reds in 1916.",
+          "Bell made his major league debut with the Cincinnati Reds."
+        ]
+      ],
+      "sent_new": "Bell made his major league debut with the Cincinnati Reds."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska. He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League. In 1914, Bell made his major league debut with the Cincinnati Reds.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891. He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell made his major league debut with the Cincinnati Reds.",
+      "sent_orig": "He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska. He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League. In 1914, Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891. He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916.",
+      "sent_orig": "Bell played for the Browns for four seasons, and he had his best season in 1917.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bell played for the Browns for four seasons, and he had his best season in 1917."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska. He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League. In 1914, Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891. He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917.",
+      "sent_orig": "That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska. He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League. In 1914, Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917. That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891. He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917. That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five.",
+      "sent_orig": "Bell's career was interrupted by World War I, and he did not play in 1918.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bell's career was interrupted by World War I, and he did not play in 1918."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska. He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League. In 1914, Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917. That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five. Bell's career was interrupted by World War I, and he did not play in 1918.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891. He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917. That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five. Bell's career was interrupted by World War I, and he did not play in 1918.",
+      "sent_orig": "After the war, Bell returned to the Browns for one more season in 1919 before retiring from baseball.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Bell",
+            "returned",
+            "to the Browns for one more season in 1919 before retiring from baseball."
+          ],
+          "Bell returned to baseball in 1919 and played for the Browns for one more season before retiring in 1920.",
+          "Bell returned to the Browns for one more season in 1919."
+        ]
+      ],
+      "sent_new": "Bell returned to the Browns for one more season in 1919."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska. He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League. In 1914, Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917. That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five. Bell's career was interrupted by World War I, and he did not play in 1918. After the war, Bell returned to the Browns for one more season in 1919 before retiring from baseball.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891. He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917. That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five. Bell's career was interrupted by World War I, and he did not play in 1918. Bell returned to the Browns for one more season in 1919.",
+      "sent_orig": "After his retirement from baseball, Bell returned to Nebraska, where he ran a farm and worked as a carpenter.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After his retirement from baseball, Bell returned to Nebraska, where he ran a farm and worked as a carpenter."
+    },
+    {
+      "prefix_original": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891, in Hershey, Nebraska. He began his professional baseball career in 1912 with the Salt Lake City Bees of the Pacific Coast League. In 1914, Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917. That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five. Bell's career was interrupted by World War I, and he did not play in 1918. After the war, Bell returned to the Browns for one more season in 1919 before retiring from baseball. After his retirement from baseball, Bell returned to Nebraska, where he ran a farm and worked as a carpenter.",
+      "prefix_new": "George Bell was a professional baseball player who played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell was born on October 7, 1891. He played as a pitcher for the Cincinnati Reds and the St. Louis Browns in the early 20th century. Bell made his major league debut with the Cincinnati Reds. He played for the Reds for two seasons and then was traded to the St. Louis Browns in 1916. Bell played for the Browns for four seasons, and he had his best season in 1917. That year, he had a record of 16-10 with a 2.14 ERA and led the American League in shutouts with five. Bell's career was interrupted by World War I, and he did not play in 1918. Bell returned to the Browns for one more season in 1919. After his retirement from baseball, Bell returned to Nebraska, where he ran a farm and worked as a carpenter.",
+      "sent_orig": "He passed away on December 11, 1968, at the age of 77.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "passed away",
+            "on December 11, 1968, at the age of 77."
+          ],
+          "He passed away on May 30, 1944, in Lincoln, Nebraska.",
+          "He passed away on December 11, 1968, at the age of 77."
+        ]
+      ],
+      "sent_new": "He passed away on December 11, 1968, at the age of 77."
+    }
+  ]
+}

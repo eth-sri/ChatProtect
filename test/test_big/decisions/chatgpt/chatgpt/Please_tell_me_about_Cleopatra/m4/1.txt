@@ -1,0 +1,109 @@
+{
+  "prompt": "Please tell me about Cleopatra",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Cleopatra was the last pharaoh of ancient Egypt.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra was the last pharaoh of ancient Egypt."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt.",
+      "sent_orig": "She was a member of the Ptolemaic dynasty, which was of Greek origin.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was a member of the Ptolemaic dynasty, which was of Greek origin."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin.",
+      "sent_orig": "Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony.",
+      "sent_orig": "Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death.",
+      "sent_orig": "She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother.",
+      "sent_orig": "Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt.",
+      "sent_orig": "After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony.",
+      "sent_orig": "Together they had three children, but their relationship ultimately led to their downfall.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Together they had three children, but their relationship ultimately led to their downfall."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall.",
+      "sent_orig": "Octavian, a rival of Antony's, declared war on Egypt.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Octavian, a rival of Antony's, declared war on Egypt."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall. Octavian, a rival of Antony's, declared war on Egypt.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall. Octavian, a rival of Antony's, declared war on Egypt.",
+      "sent_orig": "Cleopatra and Antony committed suicide in 30 BC, leading to the end of the Ptolemaic dynasty and the beginning of Roman rule in Egpyt.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra and Antony committed suicide in 30 BC, leading to the end of the Ptolemaic dynasty and the beginning of Roman rule in Egpyt."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall. Octavian, a rival of Antony's, declared war on Egypt. Cleopatra and Antony committed suicide in 30 BC, leading to the end of the Ptolemaic dynasty and the beginning of Roman rule in Egpyt.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall. Octavian, a rival of Antony's, declared war on Egypt. Cleopatra and Antony committed suicide in 30 BC, leading to the end of the Ptolemaic dynasty and the beginning of Roman rule in Egpyt.",
+      "sent_orig": "Cleopatra was known for her intellect, speaking multiple languages and studying mathematics, philosophy, and astronomy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra was known for her intellect, speaking multiple languages and studying mathematics, philosophy, and astronomy."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall. Octavian, a rival of Antony's, declared war on Egypt. Cleopatra and Antony committed suicide in 30 BC, leading to the end of the Ptolemaic dynasty and the beginning of Roman rule in Egpyt. Cleopatra was known for her intellect, speaking multiple languages and studying mathematics, philosophy, and astronomy.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall. Octavian, a rival of Antony's, declared war on Egypt. Cleopatra and Antony committed suicide in 30 BC, leading to the end of the Ptolemaic dynasty and the beginning of Roman rule in Egpyt. Cleopatra was known for her intellect, speaking multiple languages and studying mathematics, philosophy, and astronomy.",
+      "sent_orig": "She was also known for her beauty, with ancient sources describing her as a woman of great charm and charisma.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was also known for her beauty, with ancient sources describing her as a woman of great charm and charisma."
+    },
+    {
+      "prefix_original": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall. Octavian, a rival of Antony's, declared war on Egypt. Cleopatra and Antony committed suicide in 30 BC, leading to the end of the Ptolemaic dynasty and the beginning of Roman rule in Egpyt. Cleopatra was known for her intellect, speaking multiple languages and studying mathematics, philosophy, and astronomy. She was also known for her beauty, with ancient sources describing her as a woman of great charm and charisma.",
+      "prefix_new": "Cleopatra was the last pharaoh of ancient Egypt. She was a member of the Ptolemaic dynasty, which was of Greek origin. Cleopatra is famous for her beauty, intelligence, and her relationships with two powerful Roman leaders, Julius Caesar and Mark Antony. Cleopatra came to power in Egypt in 51 BC, and ruled alongside her brother Ptolemy XIII until his death. She then formed a relationship with Julius Caesar, who had come to Egypt to settle a dispute between Cleopatra and her brother. Cleopatra and Caesar had a son together, Caesarion, and their relationship helped cement her position as queen of Egypt. After Caesar's assassination, Cleopatra formed a political and romantic alliance with Mark Antony. Together they had three children, but their relationship ultimately led to their downfall. Octavian, a rival of Antony's, declared war on Egypt. Cleopatra and Antony committed suicide in 30 BC, leading to the end of the Ptolemaic dynasty and the beginning of Roman rule in Egpyt. Cleopatra was known for her intellect, speaking multiple languages and studying mathematics, philosophy, and astronomy. She was also known for her beauty, with ancient sources describing her as a woman of great charm and charisma.",
+      "sent_orig": "Cleopatra's legacy as a powerful queen and the last pharaoh of Egypt has endured both in history and in popular culture.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra's legacy as a powerful queen and the last pharaoh of Egypt has endured both in history and in popular culture."
+    }
+  ]
+}

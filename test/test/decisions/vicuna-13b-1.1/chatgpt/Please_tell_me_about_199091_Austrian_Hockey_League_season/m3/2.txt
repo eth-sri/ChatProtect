@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about 1990\u201391 Austrian Hockey League season",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria.",
+      "sent_orig": "The league consisted of seven teams, with VEU Feldkirch as one of the participating teams.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The league",
+            "consisted",
+            "of seven teams,"
+          ],
+          "The league consisted of eight teams.",
+          "The league included VEU Feldkirch as one of the seven participating teams."
+        ]
+      ],
+      "sent_new": "The league included VEU Feldkirch as one of the seven participating teams."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league consisted of seven teams, with VEU Feldkirch as one of the participating teams.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league included VEU Feldkirch as one of the seven participating teams.",
+      "sent_orig": "The regular season saw the VEU Feldkirch finish in first place.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The regular season saw the VEU Feldkirch finish in first place."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league consisted of seven teams, with VEU Feldkirch as one of the participating teams. The regular season saw the VEU Feldkirch finish in first place.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league included VEU Feldkirch as one of the seven participating teams. The regular season saw the VEU Feldkirch finish in first place.",
+      "sent_orig": "The top six teams advanced to the playoffs, which was played in a round-robin format.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The top six teams advanced to the playoffs, which was played in a round-robin format."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league consisted of seven teams, with VEU Feldkirch as one of the participating teams. The regular season saw the VEU Feldkirch finish in first place. The top six teams advanced to the playoffs, which was played in a round-robin format.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league included VEU Feldkirch as one of the seven participating teams. The regular season saw the VEU Feldkirch finish in first place. The top six teams advanced to the playoffs, which was played in a round-robin format.",
+      "sent_orig": "The season came down to a final match between VEU Feldkirch and EC KAC.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The season came down to a final match between VEU Feldkirch and EC KAC."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league consisted of seven teams, with VEU Feldkirch as one of the participating teams. The regular season saw the VEU Feldkirch finish in first place. The top six teams advanced to the playoffs, which was played in a round-robin format. The season came down to a final match between VEU Feldkirch and EC KAC.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league included VEU Feldkirch as one of the seven participating teams. The regular season saw the VEU Feldkirch finish in first place. The top six teams advanced to the playoffs, which was played in a round-robin format. The season came down to a final match between VEU Feldkirch and EC KAC.",
+      "sent_orig": "In a highly contested game, VEU Feldkirch emerged victorious with a 6-4 win, winning their second consecutive championship and their fifth overall.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In a highly contested game, VEU Feldkirch emerged victorious with a 6-4 win, winning their second consecutive championship and their fifth overall."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league consisted of seven teams, with VEU Feldkirch as one of the participating teams. The regular season saw the VEU Feldkirch finish in first place. The top six teams advanced to the playoffs, which was played in a round-robin format. The season came down to a final match between VEU Feldkirch and EC KAC. In a highly contested game, VEU Feldkirch emerged victorious with a 6-4 win, winning their second consecutive championship and their fifth overall.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league included VEU Feldkirch as one of the seven participating teams. The regular season saw the VEU Feldkirch finish in first place. The top six teams advanced to the playoffs, which was played in a round-robin format. The season came down to a final match between VEU Feldkirch and EC KAC. In a highly contested game, VEU Feldkirch emerged victorious with a 6-4 win, winning their second consecutive championship and their fifth overall.",
+      "sent_orig": "Team Kapfenberg and EK Zell am See were relegated to the Second Division.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Team Kapfenberg and EK Zell am See were relegated to the Second Division."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league consisted of seven teams, with VEU Feldkirch as one of the participating teams. The regular season saw the VEU Feldkirch finish in first place. The top six teams advanced to the playoffs, which was played in a round-robin format. The season came down to a final match between VEU Feldkirch and EC KAC. In a highly contested game, VEU Feldkirch emerged victorious with a 6-4 win, winning their second consecutive championship and their fifth overall. Team Kapfenberg and EK Zell am See were relegated to the Second Division.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria. The league included VEU Feldkirch as one of the seven participating teams. The regular season saw the VEU Feldkirch finish in first place. The top six teams advanced to the playoffs, which was played in a round-robin format. The season came down to a final match between VEU Feldkirch and EC KAC. In a highly contested game, VEU Feldkirch emerged victorious with a 6-4 win, winning their second consecutive championship and their fifth overall. Team Kapfenberg and EK Zell am See were relegated to the Second Division.",
+      "sent_orig": "Individual awards for the season were not documented.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Individual awards for the season were not documented."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "prompt": "Please tell me about Hern\u00e1n Siles Zuazo",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Siles Zuazo's third presidency was marked by economic crisis and political turmoil.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Siles Zuazo's third presidency was marked by economic crisis and political turmoil."
+    },
+    {
+      "prefix_original": "Siles Zuazo's third presidency was marked by economic crisis and political turmoil.",
+      "prefix_new": "Siles Zuazo's third presidency was marked by economic crisis and political turmoil.",
+      "sent_orig": "He was forced to resign in 1985, and his successor, Victor Paz Estenssoro, implemented a series of economic reforms known as the New Economic Policy, which helped stabilize the country's economy.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a series of economic",
+            "helped",
+            "stabilize the country's economy."
+          ],
+          "A series of economic reforms helped Siles Zuazo stabilize the economy during his third term.",
+          "His successor, Victor Paz Estenssoro, implemented a series of economic reforms known as the New Economic Policy."
+        ]
+      ],
+      "sent_new": "His successor, Victor Paz Estenssoro, implemented a series of economic reforms known as the New Economic Policy."
+    },
+    {
+      "prefix_original": "Siles Zuazo's third presidency was marked by economic crisis and political turmoil. He was forced to resign in 1985, and his successor, Victor Paz Estenssoro, implemented a series of economic reforms known as the New Economic Policy, which helped stabilize the country's economy.",
+      "prefix_new": "Siles Zuazo's third presidency was marked by economic crisis and political turmoil. His successor, Victor Paz Estenssoro, implemented a series of economic reforms known as the New Economic Policy.",
+      "sent_orig": "Siles Zuazo was known for his progressive political views and his commitment to social justice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Siles Zuazo was known for his progressive political views and his commitment to social justice."
+    },
+    {
+      "prefix_original": "Siles Zuazo's third presidency was marked by economic crisis and political turmoil. He was forced to resign in 1985, and his successor, Victor Paz Estenssoro, implemented a series of economic reforms known as the New Economic Policy, which helped stabilize the country's economy. Siles Zuazo was known for his progressive political views and his commitment to social justice.",
+      "prefix_new": "Siles Zuazo's third presidency was marked by economic crisis and political turmoil. His successor, Victor Paz Estenssoro, implemented a series of economic reforms known as the New Economic Policy. Siles Zuazo was known for his progressive political views and his commitment to social justice.",
+      "sent_orig": "He was a member of the Revolutionary Nationalist Movement (MNR) and was a key figure in the Bolivian political scene for several decades.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a member of the Revolutionary Nationalist Movement (MNR) and was a key figure in the Bolivian political scene for several decades."
+    }
+  ]
+}

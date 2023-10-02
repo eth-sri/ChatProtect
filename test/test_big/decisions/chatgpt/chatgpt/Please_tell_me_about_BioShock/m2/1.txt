@@ -1,0 +1,114 @@
+{
+  "prompt": "Please tell me about BioShock",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "BioShock",
+            "is",
+            "a first-person shooter video game series"
+          ],
+          "BioShock is a first-person shooter video game developed by 2K Boston and 2K Australia.",
+          "BioShock is a first-person shooter video game series published by 2K Games."
+        ]
+      ],
+      "sent_new": "BioShock is a first-person shooter video game series published by 2K Games."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games.",
+      "sent_orig": "The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings.",
+      "sent_orig": "The first game in the series, BioShock, was released in 2007 and takes place in 1960.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The first game in the series, BioShock, was released in 2007 and takes place in 1960."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960.",
+      "sent_orig": "The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets.",
+      "sent_orig": "The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game.",
+      "sent_orig": "The player takes on the role of a Big Daddy and must protect a Little Sister from the dangerous splicers who inhabit Rapture.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The player",
+            "takes on",
+            "the role of a Big Daddy"
+          ],
+          "The player takes on the role of Subject Delta, a Big Daddy, in BioShock 2.",
+          "The player takes on the role of a Big Daddy and must protect a Little Sister in BioShock."
+        ],
+        [
+          [
+            "protect a Little Sister from the dangerous splicers",
+            "inhabit",
+            "Rapture."
+          ],
+          "In both BioShock and BioShock 2, the player can choose to protect a Little Sister from the dangerous splicers that inhabit Rapture.",
+          "The player takes on the role of a Big Daddy in BioShock 2."
+        ]
+      ],
+      "sent_new": "The player takes on the role of a Big Daddy in BioShock 2."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game. The player takes on the role of a Big Daddy and must protect a Little Sister from the dangerous splicers who inhabit Rapture.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game. The player takes on the role of a Big Daddy in BioShock 2.",
+      "sent_orig": "The third game, BioShock Infinite, was released in 2013 and takes place in the year 1912.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The third game, BioShock Infinite, was released in 2013 and takes place in the year 1912."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game. The player takes on the role of a Big Daddy and must protect a Little Sister from the dangerous splicers who inhabit Rapture. The third game, BioShock Infinite, was released in 2013 and takes place in the year 1912.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game. The player takes on the role of a Big Daddy in BioShock 2. The third game, BioShock Infinite, was released in 2013 and takes place in the year 1912.",
+      "sent_orig": "The player takes on the role of Booker DeWitt, a former Pinkerton agent, who is tasked with rescuing a young woman named Elizabeth from the airborne city of Columbia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The player takes on the role of Booker DeWitt, a former Pinkerton agent, who is tasked with rescuing a young woman named Elizabeth from the airborne city of Columbia."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game. The player takes on the role of a Big Daddy and must protect a Little Sister from the dangerous splicers who inhabit Rapture. The third game, BioShock Infinite, was released in 2013 and takes place in the year 1912. The player takes on the role of Booker DeWitt, a former Pinkerton agent, who is tasked with rescuing a young woman named Elizabeth from the airborne city of Columbia.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game. The player takes on the role of a Big Daddy in BioShock 2. The third game, BioShock Infinite, was released in 2013 and takes place in the year 1912. The player takes on the role of Booker DeWitt, a former Pinkerton agent, who is tasked with rescuing a young woman named Elizabeth from the airborne city of Columbia.",
+      "sent_orig": "The BioShock series is known for its immersive storytelling, unique settings, and thought-provoking themes such as genetic engineering, objectivism, and the nature of free will.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The BioShock series is known for its immersive storytelling, unique settings, and thought-provoking themes such as genetic engineering, objectivism, and the nature of free will."
+    },
+    {
+      "prefix_original": "BioShock is a first-person shooter video game series developed by Irrational Games (now known as Ghost Story Games) and published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game. The player takes on the role of a Big Daddy and must protect a Little Sister from the dangerous splicers who inhabit Rapture. The third game, BioShock Infinite, was released in 2013 and takes place in the year 1912. The player takes on the role of Booker DeWitt, a former Pinkerton agent, who is tasked with rescuing a young woman named Elizabeth from the airborne city of Columbia. The BioShock series is known for its immersive storytelling, unique settings, and thought-provoking themes such as genetic engineering, objectivism, and the nature of free will.",
+      "prefix_new": "BioShock is a first-person shooter video game series published by 2K Games. The series is set in the fictional underwater city of Rapture, and later the airborne city of Columbia, both of which are populated by genetically altered humans and dangerous beings. The first game in the series, BioShock, was released in 2007 and takes place in 1960. The player takes on the role of Jack, who finds himself stranded in Rapture after a plane crash and must fight his way through the city to uncover its dark secrets. The second game, BioShock 2, was released in 2010 and takes place ten years after the events of the first game. The player takes on the role of a Big Daddy in BioShock 2. The third game, BioShock Infinite, was released in 2013 and takes place in the year 1912. The player takes on the role of Booker DeWitt, a former Pinkerton agent, who is tasked with rescuing a young woman named Elizabeth from the airborne city of Columbia. The BioShock series is known for its immersive storytelling, unique settings, and thought-provoking themes such as genetic engineering, objectivism, and the nature of free will.",
+      "sent_orig": "It has received critical acclaim and has become a beloved franchise among gamers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has received critical acclaim and has become a beloved franchise among gamers."
+    }
+  ]
+}

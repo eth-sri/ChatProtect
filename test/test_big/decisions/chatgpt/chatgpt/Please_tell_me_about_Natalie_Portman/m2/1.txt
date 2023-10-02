@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about Natalie Portman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Natalie Portman is an Israeli-American actress, producer, and director.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Natalie Portman is an Israeli-American actress, producer, and director."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress, producer, and director.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress, producer, and director.",
+      "sent_orig": "She was born in Jerusalem in 1981 and moved to the United States with her family at a young age.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was born in Jerusalem in 1981 and moved to the United States with her family at a young age."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age.",
+      "sent_orig": "Portman started acting as a child and got her first big break in the movie \"The Professional\" when she was just 13 years old.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Portman",
+            "started",
+            "acting as a child"
+          ],
+          "Portman started her acting career at the age of 12, when she was discovered by a modeling agent at a pizza parlor.",
+          "Portman got her first big break in the movie \"The Professional\" when she was just 13 years old."
+        ]
+      ],
+      "sent_new": "Portman got her first big break in the movie \"The Professional\" when she was just 13 years old."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman started acting as a child and got her first big break in the movie \"The Professional\" when she was just 13 years old.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman got her first big break in the movie \"The Professional\" when she was just 13 years old.",
+      "sent_orig": "She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\""
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman started acting as a child and got her first big break in the movie \"The Professional\" when she was just 13 years old. She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\"",
+      "prefix_new": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman got her first big break in the movie \"The Professional\" when she was just 13 years old. She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\"",
+      "sent_orig": "For her role in \"Black Swan,\" she won the Academy Award for Best Actress in 2011.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For her role in \"Black Swan,\" she won the Academy Award for Best Actress in 2011."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman started acting as a child and got her first big break in the movie \"The Professional\" when she was just 13 years old. She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\" For her role in \"Black Swan,\" she won the Academy Award for Best Actress in 2011.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman got her first big break in the movie \"The Professional\" when she was just 13 years old. She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\" For her role in \"Black Swan,\" she won the Academy Award for Best Actress in 2011.",
+      "sent_orig": "In addition to her acting career, Portman is also an advocate for various political and social causes, including animal rights, environmentalism, and reproductive rights.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to her acting career, Portman is also an advocate for various political and social causes, including animal rights, environmentalism, and reproductive rights."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman started acting as a child and got her first big break in the movie \"The Professional\" when she was just 13 years old. She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\" For her role in \"Black Swan,\" she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is also an advocate for various political and social causes, including animal rights, environmentalism, and reproductive rights.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman got her first big break in the movie \"The Professional\" when she was just 13 years old. She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\" For her role in \"Black Swan,\" she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is also an advocate for various political and social causes, including animal rights, environmentalism, and reproductive rights.",
+      "sent_orig": "She graduated from Harvard University in 2003 with a degree in psychology and has also worked as a director, including on the movies \"A Tale of Love and Darkness\" and \"Thor: Love and Thunder.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She graduated from Harvard University in 2003 with a degree in psychology and has also worked as a director, including on the movies \"A Tale of Love and Darkness\" and \"Thor: Love and Thunder.\""
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman started acting as a child and got her first big break in the movie \"The Professional\" when she was just 13 years old. She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\" For her role in \"Black Swan,\" she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is also an advocate for various political and social causes, including animal rights, environmentalism, and reproductive rights. She graduated from Harvard University in 2003 with a degree in psychology and has also worked as a director, including on the movies \"A Tale of Love and Darkness\" and \"Thor: Love and Thunder.\"",
+      "prefix_new": "Natalie Portman is an Israeli-American actress, producer, and director. She was born in Jerusalem in 1981 and moved to the United States with her family at a young age. Portman got her first big break in the movie \"The Professional\" when she was just 13 years old. She has since starred in numerous successful films, including \"Star Wars Episode I: The Phantom Menace,\" \"V for Vendetta,\" \"Black Swan,\" and \"Jackie.\" For her role in \"Black Swan,\" she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is also an advocate for various political and social causes, including animal rights, environmentalism, and reproductive rights. She graduated from Harvard University in 2003 with a degree in psychology and has also worked as a director, including on the movies \"A Tale of Love and Darkness\" and \"Thor: Love and Thunder.\"",
+      "sent_orig": "Overall, Natalie Portman is known for her talent, activism, and intelligence, and has become a prominent figure in Hollywood.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Natalie Portman is known for her talent, activism, and intelligence, and has become a prominent figure in Hollywood."
+    }
+  ]
+}

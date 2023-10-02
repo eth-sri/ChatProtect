@@ -1,0 +1,138 @@
+{
+  "prompt": "Please tell me about Hackled orb-weaver",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The hackled orb-weaver,",
+            "known",
+            "as Uloborus plumipes,"
+          ],
+          "The hackled orb-weaver, also known as Micrathena gracilis, is known for its distinctive spiny appearance and intricate web-spinning abilities.",
+          "The hackled orb-weaver, also known as Uloborus plumipes, belongs to the family Uloboridae."
+        ],
+        [
+          [
+            "a",
+            "belongs",
+            "to the family Uloboridae."
+          ],
+          "The hackled orb-weaver belongs to the family Araneidae.",
+          "The hackled orb-weaver is also known as Uloborus plumipes."
+        ]
+      ],
+      "sent_new": "The hackled orb-weaver is also known as Uloborus plumipes."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes.",
+      "sent_orig": "They are found in North America, Europe, Africa, and Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are found in North America, Europe, Africa, and Asia."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia.",
+      "sent_orig": "The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey.",
+      "sent_orig": "As its name suggests, the hackled orb-weaver spins orb webs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As its name suggests, the hackled orb-weaver spins orb webs."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs.",
+      "sent_orig": "However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey.",
+      "sent_orig": "Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it.",
+      "sent_orig": "The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them.",
+      "sent_orig": "The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption.",
+      "sent_orig": "The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption. The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption. The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length.",
+      "sent_orig": "The males are smaller, reaching up to only about 6mm.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The males are smaller, reaching up to only about 6mm."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption. The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length. The males are smaller, reaching up to only about 6mm.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption. The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length. The males are smaller, reaching up to only about 6mm.",
+      "sent_orig": "The hackled orb-weaver is brownish-yellow in color, with darker markings on the cephalothorax and legs.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The hackled orb-weaver",
+            "is",
+            "brownish-yellow in color, with darker markings on the cephalothorax and legs."
+          ],
+          "The hackled orb-weaver is also known for its distinctive appearance, with a dark brown or black body and long, spindly legs.",
+          "The hackled orb-weaver is brownish-yellow in color, with darker markings on the cephalothorax and legs."
+        ]
+      ],
+      "sent_new": "The hackled orb-weaver is brownish-yellow in color, with darker markings on the cephalothorax and legs."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption. The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length. The males are smaller, reaching up to only about 6mm. The hackled orb-weaver is brownish-yellow in color, with darker markings on the cephalothorax and legs.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption. The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length. The males are smaller, reaching up to only about 6mm. The hackled orb-weaver is brownish-yellow in color, with darker markings on the cephalothorax and legs.",
+      "sent_orig": "Overall, the hackled orb-weaver is a fascinating species of spider that has adapted a unique web-building technique to catch its prey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the hackled orb-weaver is a fascinating species of spider that has adapted a unique web-building technique to catch its prey."
+    },
+    {
+      "prefix_original": "The hackled orb-weaver, also known as Uloborus plumipes, is a spider species that belongs to the family Uloboridae. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption. The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length. The males are smaller, reaching up to only about 6mm. The hackled orb-weaver is brownish-yellow in color, with darker markings on the cephalothorax and legs. Overall, the hackled orb-weaver is a fascinating species of spider that has adapted a unique web-building technique to catch its prey.",
+      "prefix_new": "The hackled orb-weaver is also known as Uloborus plumipes. They are found in North America, Europe, Africa, and Asia. The hackled orb-weaver is known for its unique web-building technique and its ability to produce silk with a low stickiness, which allows it to trap only larger prey. As its name suggests, the hackled orb-weaver spins orb webs. However, unlike most orb-weaving spiders, it does not use sticky silk to catch its prey. Instead, it spins a frame of non-sticky silk and then weaves radiating threads on it. The radiating threads of the web act like a fishnet that captures insects and other prey that come into contact with them. The hackled orb-weaver then paralyzes its prey with venomous bites and wraps it in silk for later consumption. The hackled orb-weaver is a relatively small spider, with females growing up to about 10mm in body length. The males are smaller, reaching up to only about 6mm. The hackled orb-weaver is brownish-yellow in color, with darker markings on the cephalothorax and legs. Overall, the hackled orb-weaver is a fascinating species of spider that has adapted a unique web-building technique to catch its prey.",
+      "sent_orig": "Despite being venomous, it poses no threat to humans and is a beneficial predator that helps control insect populations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite being venomous, it poses no threat to humans and is a beneficial predator that helps control insect populations."
+    }
+  ]
+}

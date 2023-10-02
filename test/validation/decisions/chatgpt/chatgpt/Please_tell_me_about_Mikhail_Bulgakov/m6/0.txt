@@ -1,0 +1,85 @@
+{
+  "prompt": "Please tell me about Mikhail Bulgakov",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Bulgakov was trained as a doctor and served as a military physician during World War I.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bulgakov was trained as a doctor and served as a military physician during World War I."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I.",
+      "sent_orig": "However, he soon abandoned medicine to pursue a career in literature.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, he soon abandoned medicine to pursue a career in literature."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature.",
+      "sent_orig": "He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union.",
+      "sent_orig": "Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society.",
+      "sent_orig": "He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities.",
+      "sent_orig": "In 1930, he was banned from publishing his work and was unable to earn a living as a writer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1930, he was banned from publishing his work and was unable to earn a living as a writer."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities. In 1930, he was banned from publishing his work and was unable to earn a living as a writer.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities. In 1930, he was banned from publishing his work and was unable to earn a living as a writer.",
+      "sent_orig": "Despite these challenges, Bulgakov continued to write in secret and completed \"The Master and Margarita\" in 1940.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite these challenges, Bulgakov continued to write in secret and completed \"The Master and Margarita\" in 1940."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities. In 1930, he was banned from publishing his work and was unable to earn a living as a writer. Despite these challenges, Bulgakov continued to write in secret and completed \"The Master and Margarita\" in 1940.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities. In 1930, he was banned from publishing his work and was unable to earn a living as a writer. Despite these challenges, Bulgakov continued to write in secret and completed \"The Master and Margarita\" in 1940.",
+      "sent_orig": "The novel was not published until 1966, more than 25 years after Bulgakov's death.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The novel was not published until 1966, more than 25 years after Bulgakov's death."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities. In 1930, he was banned from publishing his work and was unable to earn a living as a writer. Despite these challenges, Bulgakov continued to write in secret and completed \"The Master and Margarita\" in 1940. The novel was not published until 1966, more than 25 years after Bulgakov's death.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities. In 1930, he was banned from publishing his work and was unable to earn a living as a writer. Despite these challenges, Bulgakov continued to write in secret and completed \"The Master and Margarita\" in 1940. The novel was not published until 1966, more than 25 years after Bulgakov's death.",
+      "sent_orig": "Bulgakov died on March 10, 1940, in Moscow, at the age of 48.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bulgakov died on March 10, 1940, in Moscow, at the age of 48."
+    },
+    {
+      "prefix_original": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities. In 1930, he was banned from publishing his work and was unable to earn a living as a writer. Despite these challenges, Bulgakov continued to write in secret and completed \"The Master and Margarita\" in 1940. The novel was not published until 1966, more than 25 years after Bulgakov's death. Bulgakov died on March 10, 1940, in Moscow, at the age of 48.",
+      "prefix_new": "Bulgakov was trained as a doctor and served as a military physician during World War I. However, he soon abandoned medicine to pursue a career in literature. He wrote several plays, including \"The White Guard\" and \"The Days of the Turbins,\" which were successful in the Soviet Union. Bulgakov's work often dealt with the struggle between individual freedom and the constraints of Soviet society. He was critical of the Soviet government and its policies, and his writing often drew the ire of Soviet authorities. In 1930, he was banned from publishing his work and was unable to earn a living as a writer. Despite these challenges, Bulgakov continued to write in secret and completed \"The Master and Margarita\" in 1940. The novel was not published until 1966, more than 25 years after Bulgakov's death. Bulgakov died on March 10, 1940, in Moscow, at the age of 48.",
+      "sent_orig": "Today, he is regarded as one of the most important writers of the Soviet era, and his work continues to be celebrated around the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, he is regarded as one of the most important writers of the Soviet era, and his work continues to be celebrated around the world."
+    }
+  ]
+}

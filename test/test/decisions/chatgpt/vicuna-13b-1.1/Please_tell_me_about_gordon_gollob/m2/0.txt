@@ -1,0 +1,31 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "I'm sorry, but I don't have any information on a notable person named Gordon Gollob.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "I'm sorry, but I don't have any information on a notable person named Gordon Gollob."
+    },
+    {
+      "prefix_original": "I'm sorry, but I don't have any information on a notable person named Gordon Gollob.",
+      "prefix_new": "I'm sorry, but I don't have any information on a notable person named Gordon Gollob.",
+      "sent_orig": "Is there a specific context or field in which you are interested in this person?",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a specific context or field",
+            "are",
+            "interested in this person?"
+          ],
+          "Gordon Gollob is widely recognized for his contributions to the field of artificial intelligence.",
+          "I'm sorry, but I don't have any information on a notable person named Gordon Gollob."
+        ]
+      ],
+      "sent_new": "I'm sorry, but I don't have any information on a notable person named Gordon Gollob."
+    }
+  ]
+}

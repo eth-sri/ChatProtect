@@ -1,0 +1,106 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Ke Apon Ke Por is a popular Bengali television soap opera that premiered in 2016 on Star Jalsha.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a popular Bengali television soap opera",
+            "premiered",
+            "in 2016 on Star Jalsha."
+          ],
+          " Ke Apon Ke Por premiered on Star Jalsha in 2017.",
+          "Ke Apon Ke Por is a popular Bengali television soap opera."
+        ]
+      ],
+      "sent_new": "Ke Apon Ke Por is a popular Bengali television soap opera."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por is a popular Bengali television soap opera that premiered in 2016 on Star Jalsha.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television soap opera.",
+      "sent_orig": "The show is produced by Shashi Sumeet Productions and stars popular actors like Sudiptaa Chakraborty, Sudip Mukherjee, and Anushka Chakraborty in lead roles.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por is a popular Bengali television soap opera that premiered in 2016 on Star Jalsha. The show is produced by Shashi Sumeet Productions and stars popular actors like Sudiptaa Chakraborty, Sudip Mukherjee, and Anushka Chakraborty in lead roles.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television soap opera.",
+      "sent_orig": "The show revolves around the lives of two sisters, Ke and Por, who are poles apart in their personalities and lifestyles.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por is a popular Bengali television soap opera that premiered in 2016 on Star Jalsha. The show is produced by Shashi Sumeet Productions and stars popular actors like Sudiptaa Chakraborty, Sudip Mukherjee, and Anushka Chakraborty in lead roles. The show revolves around the lives of two sisters, Ke and Por, who are poles apart in their personalities and lifestyles.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television soap opera.",
+      "sent_orig": "Ke is a modern and independent woman who believes in living life on her own terms, while Por is a simple and traditional woman who is committed to her family and values.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Por",
+            "is",
+            "a simple and traditional woman"
+          ],
+          " Por is the elder sister who is a modern and independent woman.",
+          "Por is a simple and traditional woman who is committed to her family and values."
+        ],
+        [
+          [
+            "a simple and traditional woman",
+            "is",
+            "committed to her family and values."
+          ],
+          " A simple and traditional woman is Ke.",
+          "Por is committed to her family and values."
+        ]
+      ],
+      "sent_new": "Por is committed to her family and values."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por is a popular Bengali television soap opera that premiered in 2016 on Star Jalsha. The show is produced by Shashi Sumeet Productions and stars popular actors like Sudiptaa Chakraborty, Sudip Mukherjee, and Anushka Chakraborty in lead roles. The show revolves around the lives of two sisters, Ke and Por, who are poles apart in their personalities and lifestyles. Ke is a modern and independent woman who believes in living life on her own terms, while Por is a simple and traditional woman who is committed to her family and values.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television soap opera. Por is committed to her family and values.",
+      "sent_orig": "The show explores their differences and how they navigate their lives and relationships with each other and the people around them.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show explores their differences and how they navigate their lives and relationships with each other and the people around them."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por is a popular Bengali television soap opera that premiered in 2016 on Star Jalsha. The show is produced by Shashi Sumeet Productions and stars popular actors like Sudiptaa Chakraborty, Sudip Mukherjee, and Anushka Chakraborty in lead roles. The show revolves around the lives of two sisters, Ke and Por, who are poles apart in their personalities and lifestyles. Ke is a modern and independent woman who believes in living life on her own terms, while Por is a simple and traditional woman who is committed to her family and values. The show explores their differences and how they navigate their lives and relationships with each other and the people around them.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television soap opera. Por is committed to her family and values. The show explores their differences and how they navigate their lives and relationships with each other and the people around them.",
+      "sent_orig": "Ke Apon Ke Por has been well-received by audiences and critics alike for its portrayal of strong female characters and its focus on social issues like gender roles, family values, and relationships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ke Apon Ke Por has been well-received by audiences and critics alike for its portrayal of strong female characters and its focus on social issues like gender roles, family values, and relationships."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por is a popular Bengali television soap opera that premiered in 2016 on Star Jalsha. The show is produced by Shashi Sumeet Productions and stars popular actors like Sudiptaa Chakraborty, Sudip Mukherjee, and Anushka Chakraborty in lead roles. The show revolves around the lives of two sisters, Ke and Por, who are poles apart in their personalities and lifestyles. Ke is a modern and independent woman who believes in living life on her own terms, while Por is a simple and traditional woman who is committed to her family and values. The show explores their differences and how they navigate their lives and relationships with each other and the people around them. Ke Apon Ke Por has been well-received by audiences and critics alike for its portrayal of strong female characters and its focus on social issues like gender roles, family values, and relationships.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television soap opera. Por is committed to her family and values. The show explores their differences and how they navigate their lives and relationships with each other and the people around them. Ke Apon Ke Por has been well-received by audiences and critics alike for its portrayal of strong female characters and its focus on social issues like gender roles, family values, and relationships.",
+      "sent_orig": "The show has also been praised for its well-crafted storyline and convincing performances by the cast.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show has also been praised for its well-crafted storyline and convincing performances by the cast."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por is a popular Bengali television soap opera that premiered in 2016 on Star Jalsha. The show is produced by Shashi Sumeet Productions and stars popular actors like Sudiptaa Chakraborty, Sudip Mukherjee, and Anushka Chakraborty in lead roles. The show revolves around the lives of two sisters, Ke and Por, who are poles apart in their personalities and lifestyles. Ke is a modern and independent woman who believes in living life on her own terms, while Por is a simple and traditional woman who is committed to her family and values. The show explores their differences and how they navigate their lives and relationships with each other and the people around them. Ke Apon Ke Por has been well-received by audiences and critics alike for its portrayal of strong female characters and its focus on social issues like gender roles, family values, and relationships. The show has also been praised for its well-crafted storyline and convincing performances by the cast.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television soap opera. Por is committed to her family and values. The show explores their differences and how they navigate their lives and relationships with each other and the people around them. Ke Apon Ke Por has been well-received by audiences and critics alike for its portrayal of strong female characters and its focus on social issues like gender roles, family values, and relationships. The show has also been praised for its well-crafted storyline and convincing performances by the cast.",
+      "sent_orig": "It has completed over 1500 episodes and continues to be one of the most popular shows on Bengali television.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "has completed",
+            "over 1500 episodes"
+          ],
+          " It has completed 500 episodes and continues to be a ratings success.",
+          "It continues to be one of the most popular shows on Bengali television."
+        ]
+      ],
+      "sent_new": "It continues to be one of the most popular shows on Bengali television."
+    }
+  ]
+}

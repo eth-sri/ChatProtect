@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about shlomo molla",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nShlomo Molla is an Israeli politician who served as a member of the Knesset for the Kadima party from 2008 to 2013.",
+  "alt": "Shlomo Molla is currently the director of the Israel office of the American Jewish Congress.",
+  "prefix": " Shlomo Molla is an Israeli politician who served as a member of the Knesset for the Kadima party from 2008 to 2013.",
+  "triple": [
+    [
+      "Shlomo Molla",
+      "is",
+      "an Israeli politician"
+    ],
+    "compactie",
+    490
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "orig_tag": "ok",
+  "explanation": " The two statements provided do not contain contradictory information. The first statement states that Shlomo Molla served as a member of the Knesset for the Kadima party from 2008 to 2013, while the second statement states that he is currently the director of the Israel office of the American Jewish Congress. These two statements can coexist without contradiction, as they refer to different time periods and roles. The first statement describes Molla's past political experience, while the second statement describes his current professional role."
+}

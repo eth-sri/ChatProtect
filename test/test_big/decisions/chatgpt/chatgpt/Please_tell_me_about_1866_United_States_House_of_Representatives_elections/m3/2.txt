@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about 1866 United States House of Representatives elections",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term.",
+      "sent_orig": "The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun.",
+      "sent_orig": "The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives.",
+      "sent_orig": "They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives. They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives. They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states.",
+      "sent_orig": "The elections saw a sharp division between the North and South, with Republicans winning the majority of seats in the North and the Democrats hanging on to their traditional stronghold in the South.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The elections saw a sharp division between the North and South, with Republicans winning the majority of seats in the North and the Democrats hanging on to their traditional stronghold in the South."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives. They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states. The elections saw a sharp division between the North and South, with Republicans winning the majority of seats in the North and the Democrats hanging on to their traditional stronghold in the South.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives. They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states. The elections saw a sharp division between the North and South, with Republicans winning the majority of seats in the North and the Democrats hanging on to their traditional stronghold in the South.",
+      "sent_orig": "Voter turnout was low overall, as many voters were still recovering from the effects of the war and were uncertain about the future.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Voter turnout",
+            "was",
+            "low overall,"
+          ],
+          "Voter turnout was high, with many newly enfranchised African American men casting their ballots for the first time.",
+          "Voter turnout was low overall, as many voters were still recovering from the effects of the war and were uncertain about the future."
+        ]
+      ],
+      "sent_new": "Voter turnout was low overall, as many voters were still recovering from the effects of the war and were uncertain about the future."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives. They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states. The elections saw a sharp division between the North and South, with Republicans winning the majority of seats in the North and the Democrats hanging on to their traditional stronghold in the South. Voter turnout was low overall, as many voters were still recovering from the effects of the war and were uncertain about the future.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives. They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states. The elections saw a sharp division between the North and South, with Republicans winning the majority of seats in the North and the Democrats hanging on to their traditional stronghold in the South. Voter turnout was low overall, as many voters were still recovering from the effects of the war and were uncertain about the future.",
+      "sent_orig": "Despite the Republican dominance in the House of Representatives, Reconstruction policies faced tremendous opposition from Southern Democrats, who had more control in the Senate.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite the Republican dominance in the House of Representatives, Reconstruction policies faced tremendous opposition from Southern Democrats, who had more control in the Senate."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives. They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states. The elections saw a sharp division between the North and South, with Republicans winning the majority of seats in the North and the Democrats hanging on to their traditional stronghold in the South. Voter turnout was low overall, as many voters were still recovering from the effects of the war and were uncertain about the future. Despite the Republican dominance in the House of Representatives, Reconstruction policies faced tremendous opposition from Southern Democrats, who had more control in the Senate.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866, in the middle of Republican President Andrew Johnson's term. The elections were important because they were the first congressional elections held after the end of the American Civil War and Reconstruction had begun. The Republican Party won a resounding victory in these elections, gaining a two-thirds majority in the House of Representatives. They ran on a platform of promoting Reconstruction policies that would grant freedom and civil rights to African Americans, in contrast to the policies of President Johnson, who was seen as soft on the Southern states. The elections saw a sharp division between the North and South, with Republicans winning the majority of seats in the North and the Democrats hanging on to their traditional stronghold in the South. Voter turnout was low overall, as many voters were still recovering from the effects of the war and were uncertain about the future. Despite the Republican dominance in the House of Representatives, Reconstruction policies faced tremendous opposition from Southern Democrats, who had more control in the Senate.",
+      "sent_orig": "This set the stage for a long and contentious battle over the direction of Reconstruction policy in the years to come.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This set the stage for a long and contentious battle over the direction of Reconstruction policy in the years to come."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "prompt": "Please tell me about Tan Chorh Chuan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS)."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS).",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS).",
+      "sent_orig": "He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985.",
+      "sent_orig": "He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985.",
+      "sent_orig": "Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Tan's academic career",
+            "began",
+            "at the NUS Faculty of Medicine,"
+          ],
+          "Tan's academic career began as a faculty member at the National University of Singapore's Department of Medicine in 1987.",
+          "Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine."
+        ]
+      ],
+      "sent_new": "Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990. Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine.",
+      "sent_orig": "He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990. Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital.",
+      "sent_orig": "In 2008, Tan was appointed as the President of the National University of Singapore.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2008, Tan was appointed as the President of the National University of Singapore."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990. Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore.",
+      "sent_orig": "During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990. Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings.",
+      "sent_orig": "He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990. Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings. He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings. He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London.",
+      "sent_orig": "Tan has received numerous awards and honours for his contributions to medicine and education.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Tan has received numerous awards and honours for his contributions to medicine and education."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990. Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings. He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London. Tan has received numerous awards and honours for his contributions to medicine and education.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings. He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London. Tan has received numerous awards and honours for his contributions to medicine and education.",
+      "sent_orig": "In 2014, he was awarded the prestigious John Dirks Canada Gairdner Global Health Award for his work in advancing medical education and research in Singapore and Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2014, he was awarded the prestigious John Dirks Canada Gairdner Global Health Award for his work in advancing medical education and research in Singapore and Asia."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990. Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings. He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London. Tan has received numerous awards and honours for his contributions to medicine and education. In 2014, he was awarded the prestigious John Dirks Canada Gairdner Global Health Award for his work in advancing medical education and research in Singapore and Asia.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings. He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London. Tan has received numerous awards and honours for his contributions to medicine and education. In 2014, he was awarded the prestigious John Dirks Canada Gairdner Global Health Award for his work in advancing medical education and research in Singapore and Asia.",
+      "sent_orig": "Today, Tan continues to be an active contributor to the field of medicine.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Tan continues to be an active contributor to the field of medicine."
+    },
+    {
+      "prefix_original": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. He also obtained a Master of Medicine (Internal Medicine) degree from NUS in 1990. Tan's academic career began at the NUS Faculty of Medicine, where he served as a lecturer and later as an associate professor. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings. He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London. Tan has received numerous awards and honours for his contributions to medicine and education. In 2014, he was awarded the prestigious John Dirks Canada Gairdner Global Health Award for his work in advancing medical education and research in Singapore and Asia. Today, Tan continues to be an active contributor to the field of medicine.",
+      "prefix_new": "After completing his secondary education in Singapore, Tan went on to study medicine at the National University of Singapore (NUS). He graduated with a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree in 1985. Tan served as a lecturer and later as an associate professor at the NUS Faculty of Medicine. He also held various administrative positions at NUS, including Vice-Dean of the Faculty of Medicine and Director of the National University Hospital. In 2008, Tan was appointed as the President of the National University of Singapore. During his tenure, he oversaw significant improvements in the university's research capabilities and international rankings. He also played a key role in the establishment of the Lee Kong Chian School of Medicine, a joint medical school between NUS and Imperial College London. Tan has received numerous awards and honours for his contributions to medicine and education. In 2014, he was awarded the prestigious John Dirks Canada Gairdner Global Health Award for his work in advancing medical education and research in Singapore and Asia. Today, Tan continues to be an active contributor to the field of medicine.",
+      "sent_orig": "He serves on the boards of several healthcare and education organizations, including the National Healthcare Group and the Singapore-MIT Alliance for Research and Technology.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He serves on the boards of several healthcare and education organizations, including the National Healthcare Group and the Singapore-MIT Alliance for Research and Technology."
+    }
+  ]
+}

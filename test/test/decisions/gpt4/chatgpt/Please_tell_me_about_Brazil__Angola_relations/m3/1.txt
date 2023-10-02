@@ -1,0 +1,111 @@
+{
+  "prompt": "Please tell me about Brazil \u2013 Angola relations",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Brazil and Angola have a historical relationship that dates back to the early 16th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century.",
+      "sent_orig": "Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process.",
+      "sent_orig": "Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since.",
+      "sent_orig": "In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment.",
+      "sent_orig": "Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "bilateral trade",
+            "reaching",
+            "$3 billion in 2019."
+          ],
+          "Bilateral trade between Brazil and Angola has been steadily increasing, reaching a total of $3.5 billion in 2019.",
+          "Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019."
+        ]
+      ],
+      "sent_new": "Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019.",
+      "sent_orig": "Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector.",
+      "sent_orig": "In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health.",
+      "sent_orig": "Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health. Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health. Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention.",
+      "sent_orig": "However, there have also been controversies in the Brazil-Angola relationship, mainly related to corruption and money-laundering.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, there have also been controversies in the Brazil-Angola relationship, mainly related to corruption and money-laundering."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health. Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention. However, there have also been controversies in the Brazil-Angola relationship, mainly related to corruption and money-laundering.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health. Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention. However, there have also been controversies in the Brazil-Angola relationship, mainly related to corruption and money-laundering.",
+      "sent_orig": "Brazilian construction giant Odebrecht, which has been implicated in corruption scandals across Latin America, has been accused of bribing Angolan officials to secure contracts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazilian construction giant Odebrecht, which has been implicated in corruption scandals across Latin America, has been accused of bribing Angolan officials to secure contracts."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health. Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention. However, there have also been controversies in the Brazil-Angola relationship, mainly related to corruption and money-laundering. Brazilian construction giant Odebrecht, which has been implicated in corruption scandals across Latin America, has been accused of bribing Angolan officials to secure contracts.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health. Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention. However, there have also been controversies in the Brazil-Angola relationship, mainly related to corruption and money-laundering. Brazilian construction giant Odebrecht, which has been implicated in corruption scandals across Latin America, has been accused of bribing Angolan officials to secure contracts.",
+      "sent_orig": "In 2019, the Brazilian government froze $30 million in assets linked to an Angolan businesswoman accused of corruption.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2019, the Brazilian government froze $30 million in assets linked to an Angolan businesswoman accused of corruption."
+    },
+    {
+      "prefix_original": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health. Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention. However, there have also been controversies in the Brazil-Angola relationship, mainly related to corruption and money-laundering. Brazilian construction giant Odebrecht, which has been implicated in corruption scandals across Latin America, has been accused of bribing Angolan officials to secure contracts. In 2019, the Brazilian government froze $30 million in assets linked to an Angolan businesswoman accused of corruption.",
+      "prefix_new": "Brazil and Angola have a historical relationship that dates back to the early 16th century. Angola was a Portuguese colony until 1975, and Brazil played an important role in the decolonization process. Brazil recognized Angola's independence on November 11, 1975, and the two countries have had diplomatic relations ever since. In recent years, the relationship between Brazil and Angola has strengthened considerably, especially in the areas of trade and investment. Brazil is Angola's second-largest trading partner, with bilateral trade reaching $3 billion in 2019. Brazil has also been one of the largest foreign investors in Angola, especially in the oil and gas sector. In addition to economic ties, Brazil and Angola collaborate in other areas, such as culture, education, and health. Brazil has provided aid and technical assistance to Angola in the areas of agriculture, water supply, sanitation, and HIV/AIDS prevention. However, there have also been controversies in the Brazil-Angola relationship, mainly related to corruption and money-laundering. Brazilian construction giant Odebrecht, which has been implicated in corruption scandals across Latin America, has been accused of bribing Angolan officials to secure contracts. In 2019, the Brazilian government froze $30 million in assets linked to an Angolan businesswoman accused of corruption.",
+      "sent_orig": "Despite these challenges, Brazil and Angola continue to maintain cordial diplomatic relations and work together to promote their mutual interests.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite these challenges, Brazil and Angola continue to maintain cordial diplomatic relations and work together to promote their mutual interests."
+    }
+  ]
+}

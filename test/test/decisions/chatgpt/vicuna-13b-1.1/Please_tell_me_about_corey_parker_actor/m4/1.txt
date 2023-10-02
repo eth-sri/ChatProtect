@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about corey parker (actor)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "an American actor",
+            "is best known",
+            "for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\""
+          ],
+          "Corey Parker is an American actor, best known for his roles in the television shows \"Falling Skies\" and \"The Walking Dead.\"",
+          "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004)."
+        ]
+      ],
+      "sent_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004)."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004).",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004).",
+      "sent_orig": "Corey Parker began his acting career in the 1990s.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Corey Parker began his acting career in the 1990s."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s.",
+      "sent_orig": "Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\""
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\"",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\"",
+      "sent_orig": "opposite Ashton Kutcher and Seann William Scott.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "opposite Ashton Kutcher and Seann William Scott."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott.",
+      "sent_orig": "He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008)."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008).",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008).",
+      "sent_orig": "In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\""
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\"",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\"",
+      "sent_orig": "The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\" The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\" The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston.",
+      "sent_orig": "Parker played the role of the tough but fair school safety officer who often clashed with the school's principal, Dr. Steven Harper (played by Anthony Heald).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Parker played the role of the tough but fair school safety officer who often clashed with the school's principal, Dr. Steven Harper (played by Anthony Heald)."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\" The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston. Parker played the role of the tough but fair school safety officer who often clashed with the school's principal, Dr. Steven Harper (played by Anthony Heald).",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\" The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston. Parker played the role of the tough but fair school safety officer who often clashed with the school's principal, Dr. Steven Harper (played by Anthony Heald).",
+      "sent_orig": "After \"Boston Public\" ended, Parker continued to work in film and TV, appearing in shows like \"CSI: Miami,\" \"Desperate Housewives,\" and \"Castle.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After \"Boston Public\" ended, Parker continued to work in film and TV, appearing in shows like \"CSI: Miami,\" \"Desperate Housewives,\" and \"Castle.\""
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\" The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston. Parker played the role of the tough but fair school safety officer who often clashed with the school's principal, Dr. Steven Harper (played by Anthony Heald). After \"Boston Public\" ended, Parker continued to work in film and TV, appearing in shows like \"CSI: Miami,\" \"Desperate Housewives,\" and \"Castle.\"",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\" The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston. Parker played the role of the tough but fair school safety officer who often clashed with the school's principal, Dr. Steven Harper (played by Anthony Heald). After \"Boston Public\" ended, Parker continued to work in film and TV, appearing in shows like \"CSI: Miami,\" \"Desperate Housewives,\" and \"Castle.\"",
+      "sent_orig": "He has also appeared in several films, including \"The House Bunny\" (2008), \"Another Cinderella Story\" (2008), and \"He's Just Not That Into You\" (2009).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also appeared in several films, including \"The House Bunny\" (2008), \"Another Cinderella Story\" (2008), and \"He's Just Not That Into You\" (2009)."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\" The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston. Parker played the role of the tough but fair school safety officer who often clashed with the school's principal, Dr. Steven Harper (played by Anthony Heald). After \"Boston Public\" ended, Parker continued to work in film and TV, appearing in shows like \"CSI: Miami,\" \"Desperate Housewives,\" and \"Castle.\" He has also appeared in several films, including \"The House Bunny\" (2008), \"Another Cinderella Story\" (2008), and \"He's Just Not That Into You\" (2009).",
+      "prefix_new": "Corey Parker is an American actor who is best known for his role as Officer Jim Brown on the ABC sitcom \"Boston Public\" (2000-2004). Corey Parker began his acting career in the 1990s. Parker had a major film role in the 2000 comedy \"Dude, Where's My Car?\" opposite Ashton Kutcher and Seann William Scott. He also appeared in other films such as \"Road Trip\" (2000), \"Legally Blonde\" (2001), and \"The Pentagon Wars\" (2008). In addition to his film work, Parker is best known for his role as Officer Jim Brown on the ABC drama \"Boston Public.\" The show aired from 2000-2004 and followed the lives of the faculty and students at a high school in Boston. Parker played the role of the tough but fair school safety officer who often clashed with the school's principal, Dr. Steven Harper (played by Anthony Heald). After \"Boston Public\" ended, Parker continued to work in film and TV, appearing in shows like \"CSI: Miami,\" \"Desperate Housewives,\" and \"Castle.\" He has also appeared in several films, including \"The House Bunny\" (2008), \"Another Cinderella Story\" (2008), and \"He's Just Not That Into You\" (2009).",
+      "sent_orig": "Parker is currently married to actress Katherine LaNasa, and they have two children together.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Parker is currently married to actress Katherine LaNasa, and they have two children together."
+    }
+  ]
+}

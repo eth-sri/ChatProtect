@@ -1,0 +1,123 @@
+{
+  "prompt": "Please tell me about Hydrophasianus",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a genus of bird in the family",
+            "known",
+            "as the White-browed Crake."
+          ],
+          "A genus of bird in the family Rallidae, Hydrophasianus is known as the White-breasted Waterhen.",
+          "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake."
+        ]
+      ],
+      "sent_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake.",
+      "sent_orig": "There are three species in the Hydrophasianus genus.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "There",
+            "are",
+            "three species in the Hydrophasianus genus."
+          ],
+          "There are two species in the Hydrophasianus genus: the White-browed Crake and the Brown Crake.",
+          "There are three species in the Hydrophasianus genus."
+        ]
+      ],
+      "sent_new": "There are three species in the Hydrophasianus genus."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus.",
+      "sent_orig": "White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia.",
+      "sent_orig": "2.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "2."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2.",
+      "sent_orig": "Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines.",
+      "sent_orig": "3.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "3."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3.",
+      "sent_orig": "Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Russet-crowned Crake",
+            "found",
+            "in parts of Indonesia."
+          ],
+          "Russet-crowned Crake is found in parts of South Asia and Southeast Asia.",
+          "Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia."
+        ]
+      ],
+      "sent_new": "Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3. Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3. Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia.",
+      "sent_orig": "These birds are small and secretive, typically found near wetlands and freshwater habitats.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These birds are small and secretive, typically found near wetlands and freshwater habitats."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3. Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia. These birds are small and secretive, typically found near wetlands and freshwater habitats.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3. Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia. These birds are small and secretive, typically found near wetlands and freshwater habitats.",
+      "sent_orig": "They have brownish or grayish plumage with distinctive white markings on the head and face.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They have brownish or grayish plumage with distinctive white markings on the head and face."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3. Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia. These birds are small and secretive, typically found near wetlands and freshwater habitats. They have brownish or grayish plumage with distinctive white markings on the head and face.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3. Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia. These birds are small and secretive, typically found near wetlands and freshwater habitats. They have brownish or grayish plumage with distinctive white markings on the head and face.",
+      "sent_orig": "They are primarily insectivorous, feeding on small invertebrates such as insects, snails, and worms.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are primarily insectivorous, feeding on small invertebrates such as insects, snails, and worms."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3. Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia. These birds are small and secretive, typically found near wetlands and freshwater habitats. They have brownish or grayish plumage with distinctive white markings on the head and face. They are primarily insectivorous, feeding on small invertebrates such as insects, snails, and worms.",
+      "prefix_new": "Hydrophasianus is a genus of bird in the family Rallidae, known as the White-browed Crake. There are three species in the Hydrophasianus genus. White-browed Crake (Hydrophasianus ochrocephalus) - found in Southeast Asia. 2. Slaty-breasted Rail (Hydrophasianus fuliginosus) - found in parts of Southeast Asia and the Philippines. 3. Russet-crowned Crake (Hydrophasianus stictocephalus) - found in parts of Indonesia. These birds are small and secretive, typically found near wetlands and freshwater habitats. They have brownish or grayish plumage with distinctive white markings on the head and face. They are primarily insectivorous, feeding on small invertebrates such as insects, snails, and worms.",
+      "sent_orig": "Populations of White-browed Crakes have declined in some areas due to habitat loss and degradation, but the species is still considered to be of least concern by the International Union for Conservation of Nature (IUCN).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Populations of White-browed Crakes have declined in some areas due to habitat loss and degradation, but the species is still considered to be of least concern by the International Union for Conservation of Nature (IUCN)."
+    }
+  ]
+}

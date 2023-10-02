@@ -1,0 +1,123 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "an Austrian fighter pilot and military officer",
+            "served",
+            "in the post-war Austrian Air Force."
+          ],
+          "Gordon Gollob, an Austrian fighter pilot and military officer, served in the Luftwaffe during World War II.",
+          "Gordon Gollob later served in the post-war Austrian Air Force."
+        ]
+      ],
+      "sent_new": "Gordon Gollob later served in the post-war Austrian Air Force."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force.",
+      "sent_orig": "Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gollob",
+            "joined",
+            "the Austrian military in 1930"
+          ],
+          "Gollob joined the Luftwaffe in 1937 and became one of the most successful fighter pilots of the war.",
+          "After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe."
+        ]
+      ],
+      "sent_new": "After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe.",
+      "sent_orig": "Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements.",
+      "sent_orig": "He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war.",
+      "sent_orig": "Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany.",
+      "sent_orig": "In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943.",
+      "sent_orig": "In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943. In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943. In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring.",
+      "sent_orig": "However, in the closing months of the war, he fell out of favor with G\u00f6ring, leading to his dismissal from this position.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, in the closing months of the war, he fell out of favor with G\u00f6ring, leading to his dismissal from this position."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943. In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring. However, in the closing months of the war, he fell out of favor with G\u00f6ring, leading to his dismissal from this position.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943. In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring. However, in the closing months of the war, he fell out of favor with G\u00f6ring, leading to his dismissal from this position.",
+      "sent_orig": "After the war, Gollob was captured by the Allies and spent some time in a prisoner of war camp before being released in 1947.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gollob",
+            "spent",
+            "some time in a prisoner of war camp"
+          ],
+          "Gollob spent several years as a prisoner of war in both British and Soviet captivity after the end of World War II.",
+          "After the war, Gollob was captured by the Allies and released in 1947."
+        ]
+      ],
+      "sent_new": "After the war, Gollob was captured by the Allies and released in 1947."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943. In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring. However, in the closing months of the war, he fell out of favor with G\u00f6ring, leading to his dismissal from this position. After the war, Gollob was captured by the Allies and spent some time in a prisoner of war camp before being released in 1947.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943. In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring. However, in the closing months of the war, he fell out of favor with G\u00f6ring, leading to his dismissal from this position. After the war, Gollob was captured by the Allies and released in 1947.",
+      "sent_orig": "In the 1950s, he joined the newly formed Austrian Air Force, where he served until his retirement in 1970, including a period as a Senior NATO Liaison Officer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the 1950s, he joined the newly formed Austrian Air Force, where he served until his retirement in 1970, including a period as a Senior NATO Liaison Officer."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912\u20131987) was an Austrian fighter pilot and military officer during World War II, who later served in the post-war Austrian Air Force. Born on June 26, 1912, in Vienna, Austria, Gollob joined the Austrian military in 1930 and after the annexation of Austria by Nazi Germany in 1938, he was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943. In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring. However, in the closing months of the war, he fell out of favor with G\u00f6ring, leading to his dismissal from this position. After the war, Gollob was captured by the Allies and spent some time in a prisoner of war camp before being released in 1947. In the 1950s, he joined the newly formed Austrian Air Force, where he served until his retirement in 1970, including a period as a Senior NATO Liaison Officer.",
+      "prefix_new": "Gordon Gollob later served in the post-war Austrian Air Force. After the annexation of Austria by Nazi Germany in 1938, Gollob was transferred to the German Luftwaffe. Gollob served as a fighter pilot during the early stages of World War II and participated in the Battle of Britain, the invasion of the Soviet Union (Operation Barbarossa), and several other military engagements. He achieved great success and recognition as a skilled pilot, ultimately becoming one of the top-scoring fighter aces of the war. Gollob was credited with 150 aerial victories in over 340 combat missions, earning him numerous awards and decorations, including the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds \u2013 one of the highest military awards of Nazi Germany. In addition to his combat duties, Gollob also held various command positions within the Luftwaffe, ultimately being promoted to the rank of Generalleutnant (Lieutenant General) in 1943. In 1944, he was appointed as the Inspector of Day Fighters (Jagdflieger) in the Luftwaffe High Command (Oberkommando der Luftwaffe) under Reichsmarschall Hermann G\u00f6ring. However, in the closing months of the war, he fell out of favor with G\u00f6ring, leading to his dismissal from this position. After the war, Gollob was captured by the Allies and released in 1947. In the 1950s, he joined the newly formed Austrian Air Force, where he served until his retirement in 1970, including a period as a Senior NATO Liaison Officer.",
+      "sent_orig": "Gordon Gollob passed away on September 7, 1987, in Vienna, Austria.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gordon Gollob passed away on September 7, 1987, in Vienna, Austria."
+    }
+  ]
+}

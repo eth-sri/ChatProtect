@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Argentina men's national ice hockey team",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Argentina men's national ice hockey team is a minor team in international ice hockey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Argentina men's national ice hockey team is a minor team in international ice hockey."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team is a minor team in international ice hockey.",
+      "prefix_new": "The Argentina men's national ice hockey team is a minor team in international ice hockey.",
+      "sent_orig": "The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation.",
+      "prefix_new": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation.",
+      "sent_orig": "The national team has not yet qualified for the IIHF World Championships or the Winter Olympics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The national team has not yet qualified for the IIHF World Championships or the Winter Olympics."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation. The national team has not yet qualified for the IIHF World Championships or the Winter Olympics.",
+      "prefix_new": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation. The national team has not yet qualified for the IIHF World Championships or the Winter Olympics.",
+      "sent_orig": "However, they have participated in a number of IIHF tournaments such as the IIHF World Junior Championships, IIHF World Championships Division III, and the IIHF World Championships Division II Group B.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, they have participated in a number of IIHF tournaments such as the IIHF World Junior Championships, IIHF World Championships Division III, and the IIHF World Championships Division II Group B."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation. The national team has not yet qualified for the IIHF World Championships or the Winter Olympics. However, they have participated in a number of IIHF tournaments such as the IIHF World Junior Championships, IIHF World Championships Division III, and the IIHF World Championships Division II Group B.",
+      "prefix_new": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation. The national team has not yet qualified for the IIHF World Championships or the Winter Olympics. However, they have participated in a number of IIHF tournaments such as the IIHF World Junior Championships, IIHF World Championships Division III, and the IIHF World Championships Division II Group B.",
+      "sent_orig": "The Argentina men's national ice hockey team finished in third place at the 2018 IIHF World Championships Division III tournament held in Cape Town, South Africa.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Argentina men's national ice hockey team finished in third place at the 2018 IIHF World Championships Division III tournament held in Cape Town, South Africa."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation. The national team has not yet qualified for the IIHF World Championships or the Winter Olympics. However, they have participated in a number of IIHF tournaments such as the IIHF World Junior Championships, IIHF World Championships Division III, and the IIHF World Championships Division II Group B. The Argentina men's national ice hockey team finished in third place at the 2018 IIHF World Championships Division III tournament held in Cape Town, South Africa.",
+      "prefix_new": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation. The national team has not yet qualified for the IIHF World Championships or the Winter Olympics. However, they have participated in a number of IIHF tournaments such as the IIHF World Junior Championships, IIHF World Championships Division III, and the IIHF World Championships Division II Group B. The Argentina men's national ice hockey team finished in third place at the 2018 IIHF World Championships Division III tournament held in Cape Town, South Africa.",
+      "sent_orig": "They were also promoted to the IIHF World Championships Division II Group B in the same year.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They were also promoted to the IIHF World Championships Division II Group B in the same year."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation. The national team has not yet qualified for the IIHF World Championships or the Winter Olympics. However, they have participated in a number of IIHF tournaments such as the IIHF World Junior Championships, IIHF World Championships Division III, and the IIHF World Championships Division II Group B. The Argentina men's national ice hockey team finished in third place at the 2018 IIHF World Championships Division III tournament held in Cape Town, South Africa. They were also promoted to the IIHF World Championships Division II Group B in the same year.",
+      "prefix_new": "The Argentina men's national ice hockey team is a minor team in international ice hockey. The Argentina men's national ice hockey team is governed by the Argentina Ice Hockey Federation. The national team has not yet qualified for the IIHF World Championships or the Winter Olympics. However, they have participated in a number of IIHF tournaments such as the IIHF World Junior Championships, IIHF World Championships Division III, and the IIHF World Championships Division II Group B. The Argentina men's national ice hockey team finished in third place at the 2018 IIHF World Championships Division III tournament held in Cape Town, South Africa. They were also promoted to the IIHF World Championships Division II Group B in the same year.",
+      "sent_orig": "The team's home arena is the SECLA ice rink located in Buenos Aires.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The team's home arena",
+            "is",
+            "the SECLA ice rink"
+          ],
+          "The team's home arena is the Pista Nacional de Patinaje in Buenos Aires.",
+          "The team's home arena is the SECLA ice rink located in Buenos Aires."
+        ]
+      ],
+      "sent_new": "The team's home arena is the SECLA ice rink located in Buenos Aires."
+    }
+  ]
+}

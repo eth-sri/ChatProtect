@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Ruy de Sequeira",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal."
+    },
+    {
+      "prefix_original": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal.",
+      "prefix_new": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal.",
+      "sent_orig": "He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories."
+    },
+    {
+      "prefix_original": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories.",
+      "prefix_new": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories.",
+      "sent_orig": "Sequeira was appointed as the governor of Portuguese India.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Sequeira",
+            "was appointed",
+            "as the governor of Portuguese India."
+          ],
+          "Sequeira was appointed as the first governor of Portuguese India in 1522.",
+          "Sequeira was appointed as the governor of Portuguese India."
+        ]
+      ],
+      "sent_new": "Sequeira was appointed as the governor of Portuguese India."
+    },
+    {
+      "prefix_original": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories. Sequeira was appointed as the governor of Portuguese India.",
+      "prefix_new": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories. Sequeira was appointed as the governor of Portuguese India.",
+      "sent_orig": "During his tenure, he established the first Portuguese factory in Calicut and strengthened the Portuguese presence in the region.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his tenure, he established the first Portuguese factory in Calicut and strengthened the Portuguese presence in the region."
+    },
+    {
+      "prefix_original": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories. Sequeira was appointed as the governor of Portuguese India. During his tenure, he established the first Portuguese factory in Calicut and strengthened the Portuguese presence in the region.",
+      "prefix_new": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories. Sequeira was appointed as the governor of Portuguese India. During his tenure, he established the first Portuguese factory in Calicut and strengthened the Portuguese presence in the region.",
+      "sent_orig": "Sequeira played a key role in the Battle of Diu in 1509, where the Portuguese emerged victorious.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sequeira played a key role in the Battle of Diu in 1509, where the Portuguese emerged victorious."
+    },
+    {
+      "prefix_original": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories. Sequeira was appointed as the governor of Portuguese India. During his tenure, he established the first Portuguese factory in Calicut and strengthened the Portuguese presence in the region. Sequeira played a key role in the Battle of Diu in 1509, where the Portuguese emerged victorious.",
+      "prefix_new": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories. Sequeira was appointed as the governor of Portuguese India. During his tenure, he established the first Portuguese factory in Calicut and strengthened the Portuguese presence in the region. Sequeira played a key role in the Battle of Diu in 1509, where the Portuguese emerged victorious.",
+      "sent_orig": "This victory secured Portuguese control over the Indian Ocean trade routes and marked the beginning of their dominance in the region.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This victory secured Portuguese control over the Indian Ocean trade routes and marked the beginning of their dominance in the region."
+    },
+    {
+      "prefix_original": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories. Sequeira was appointed as the governor of Portuguese India. During his tenure, he established the first Portuguese factory in Calicut and strengthened the Portuguese presence in the region. Sequeira played a key role in the Battle of Diu in 1509, where the Portuguese emerged victorious. This victory secured Portuguese control over the Indian Ocean trade routes and marked the beginning of their dominance in the region.",
+      "prefix_new": "Sequeira began his career as a soldier and was later appointed as the captain of a ship by King Manuel I of Portugal. He made several voyages to India and the East Indies, where he established trade relations with local rulers and explored new territories. Sequeira was appointed as the governor of Portuguese India. During his tenure, he established the first Portuguese factory in Calicut and strengthened the Portuguese presence in the region. Sequeira played a key role in the Battle of Diu in 1509, where the Portuguese emerged victorious. This victory secured Portuguese control over the Indian Ocean trade routes and marked the beginning of their dominance in the region.",
+      "sent_orig": "Overall, Ruy de Sequeira was a significant figure in the early Portuguese exploration of the Indian Ocean and his contributions helped to establish Portugal as a major player in the global trade network of the time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Ruy de Sequeira was a significant figure in the early Portuguese exploration of the Indian Ocean and his contributions helped to establish Portugal as a major player in the global trade network of the time."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about The Minneapolis Convention Center",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States.",
+      "prefix_new": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States.",
+      "sent_orig": "The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium.",
+      "prefix_new": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium.",
+      "sent_orig": "It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events.",
+      "prefix_new": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events.",
+      "sent_orig": "The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events. The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities.",
+      "prefix_new": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events. The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities.",
+      "sent_orig": "It also features a variety of amenities, including a wide range of food and beverage options, a gift shop, a UPS business center, and a recycling program.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It also features a variety of amenities, including a wide range of food and beverage options, a gift shop, a UPS business center, and a recycling program."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events. The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities. It also features a variety of amenities, including a wide range of food and beverage options, a gift shop, a UPS business center, and a recycling program.",
+      "prefix_new": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events. The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities. It also features a variety of amenities, including a wide range of food and beverage options, a gift shop, a UPS business center, and a recycling program.",
+      "sent_orig": "In addition to its function as a venue for events, the Minneapolis Convention Center also plays an important role in the local community.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to its function as a venue for events, the Minneapolis Convention Center also plays an important role in the local community."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events. The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities. It also features a variety of amenities, including a wide range of food and beverage options, a gift shop, a UPS business center, and a recycling program. In addition to its function as a venue for events, the Minneapolis Convention Center also plays an important role in the local community.",
+      "prefix_new": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events. The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities. It also features a variety of amenities, including a wide range of food and beverage options, a gift shop, a UPS business center, and a recycling program. In addition to its function as a venue for events, the Minneapolis Convention Center also plays an important role in the local community.",
+      "sent_orig": "The center employs over 500 people and generates significant economic impact for the city, contributing over $400 million to the local economy each year.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The center employs over 500 people and generates significant economic impact for the city, contributing over $400 million to the local economy each year."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events. The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities. It also features a variety of amenities, including a wide range of food and beverage options, a gift shop, a UPS business center, and a recycling program. In addition to its function as a venue for events, the Minneapolis Convention Center also plays an important role in the local community. The center employs over 500 people and generates significant economic impact for the city, contributing over $400 million to the local economy each year.",
+      "prefix_new": "The Minneapolis Convention Center is a large venue located in downtown Minneapolis, Minnesota, United States. The Minneapolis Convention Center features 87 meeting rooms and a 3,400-seat auditorium. It hosts a wide range of events, including conferences, trade shows, concerts, and sporting events. The convention center boasts state-of-the-art technology, including free high-speed WiFi throughout the facility, in-house audio-visual services, and HD video conferencing capabilities. It also features a variety of amenities, including a wide range of food and beverage options, a gift shop, a UPS business center, and a recycling program. In addition to its function as a venue for events, the Minneapolis Convention Center also plays an important role in the local community. The center employs over 500 people and generates significant economic impact for the city, contributing over $400 million to the local economy each year.",
+      "sent_orig": "Overall, the Minneapolis Convention Center is a premier event venue that offers world-class facilities and services for a wide range of events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the Minneapolis Convention Center is a premier event venue that offers world-class facilities and services for a wide range of events."
+    }
+  ]
+}

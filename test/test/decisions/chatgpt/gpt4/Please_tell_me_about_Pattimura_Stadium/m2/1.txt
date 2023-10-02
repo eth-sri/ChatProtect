@@ -1,0 +1,90 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia.",
+      "sent_orig": "It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands.",
+      "sent_orig": "The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The stadium",
+            "has",
+            "a seating capacity of around"
+          ],
+          "The stadium has a seating capacity of 25,000 people.",
+          "The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities."
+        ],
+        [
+          [
+            "a seating capacity of around",
+            "is",
+            "primarily"
+          ],
+          "The stadium has a seating capacity of around 25,000 spectators.",
+          "The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities."
+        ]
+      ],
+      "sent_new": "The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands. The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands. The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities.",
+      "sent_orig": "The stadium serves as the home ground for the local soccer team Persipura Ambon.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The stadium",
+            "serves as",
+            "the home ground for the local soccer team Persipura Ambon."
+          ],
+          "The stadium serves as the home ground for the local soccer team, Persipura Jayapura.",
+          "The stadium serves as the home ground for a local soccer team."
+        ]
+      ],
+      "sent_new": "The stadium serves as the home ground for a local soccer team."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands. The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities. The stadium serves as the home ground for the local soccer team Persipura Ambon.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands. The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities. The stadium serves as the home ground for a local soccer team.",
+      "sent_orig": "Built in 1980, Pattimura Stadium has received several upgrades over the years, including the installation of floodlights for nighttime games and the improvement of spectator facilities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Built in 1980, Pattimura Stadium has received several upgrades over the years, including the installation of floodlights for nighttime games and the improvement of spectator facilities."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands. The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities. The stadium serves as the home ground for the local soccer team Persipura Ambon. Built in 1980, Pattimura Stadium has received several upgrades over the years, including the installation of floodlights for nighttime games and the improvement of spectator facilities.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands. The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities. The stadium serves as the home ground for a local soccer team. Built in 1980, Pattimura Stadium has received several upgrades over the years, including the installation of floodlights for nighttime games and the improvement of spectator facilities.",
+      "sent_orig": "Despite these improvements, the stadium has faced challenges related to maintenance and infrastructure, and there have been calls for further renovations or construction of a new facility in recent years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite these improvements, the stadium has faced challenges related to maintenance and infrastructure, and there have been calls for further renovations or construction of a new facility in recent years."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands. The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities. The stadium serves as the home ground for the local soccer team Persipura Ambon. Built in 1980, Pattimura Stadium has received several upgrades over the years, including the installation of floodlights for nighttime games and the improvement of spectator facilities. Despite these improvements, the stadium has faced challenges related to maintenance and infrastructure, and there have been calls for further renovations or construction of a new facility in recent years.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose sports facility located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, better known as Pattimura, a national hero in Indonesia who played a significant role in the history of the Maluku Islands. The stadium has a seating capacity of around 10,000 to 15,000 spectators and is primarily used for soccer matches, but can also host track and field events, concerts, and other cultural and sporting activities. The stadium serves as the home ground for a local soccer team. Built in 1980, Pattimura Stadium has received several upgrades over the years, including the installation of floodlights for nighttime games and the improvement of spectator facilities. Despite these improvements, the stadium has faced challenges related to maintenance and infrastructure, and there have been calls for further renovations or construction of a new facility in recent years.",
+      "sent_orig": "Overall, Pattimura Stadium remains an important center of social and sporting activity in Ambon and the larger Maluku region, serving both as a tribute to a local hero and as a shared space for community engagement and development.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Pattimura Stadium remains an important center of social and sporting activity in Ambon and the larger Maluku region, serving both as a tribute to a local hero and as a shared space for community engagement and development."
+    }
+  ]
+}

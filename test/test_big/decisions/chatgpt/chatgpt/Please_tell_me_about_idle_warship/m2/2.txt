@@ -1,0 +1,81 @@
+{
+  "prompt": "Please tell me about idle warship",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res."
+    },
+    {
+      "prefix_original": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res.",
+      "prefix_new": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res.",
+      "sent_orig": "The two artists first collaborated in 2001 on Talib Kweli's album \"Quality,\" but it wasn't until 2009 that they officially formed Idle Warship.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The two artists",
+            "first collaborated",
+            ""
+          ],
+          "The two artists first collaborated on Kweli's 2000 album \"Train of Thought\".",
+          "It wasn't until 2009 that they officially formed Idle Warship."
+        ]
+      ],
+      "sent_new": "It wasn't until 2009 that they officially formed Idle Warship."
+    },
+    {
+      "prefix_original": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. The two artists first collaborated in 2001 on Talib Kweli's album \"Quality,\" but it wasn't until 2009 that they officially formed Idle Warship.",
+      "prefix_new": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. It wasn't until 2009 that they officially formed Idle Warship.",
+      "sent_orig": "Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals."
+    },
+    {
+      "prefix_original": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. The two artists first collaborated in 2001 on Talib Kweli's album \"Quality,\" but it wasn't until 2009 that they officially formed Idle Warship. Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals.",
+      "prefix_new": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. It wasn't until 2009 that they officially formed Idle Warship. Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals.",
+      "sent_orig": "The duo has released two albums: \"Habits of the Heart\" in 2011 and \"Party Robot\" in 2013.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The duo",
+            "has released",
+            "two albums: \"Habits"
+          ],
+          "The duo has released two albums: \"Habits of the Heart\" in 2011 and \"Party Robot\" in 2012.",
+          "The duo has released two albums: \"Habits of the Heart\" and \"Party Robot.\""
+        ]
+      ],
+      "sent_new": "The duo has released two albums: \"Habits of the Heart\" and \"Party Robot.\""
+    },
+    {
+      "prefix_original": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. The two artists first collaborated in 2001 on Talib Kweli's album \"Quality,\" but it wasn't until 2009 that they officially formed Idle Warship. Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals. The duo has released two albums: \"Habits of the Heart\" in 2011 and \"Party Robot\" in 2013.",
+      "prefix_new": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. It wasn't until 2009 that they officially formed Idle Warship. Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals. The duo has released two albums: \"Habits of the Heart\" and \"Party Robot.\"",
+      "sent_orig": "Despite their success as a duo, Talib Kweli and Res also continue to pursue their solo careers and collaborate with other artists.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite their success as a duo, Talib Kweli and Res also continue to pursue their solo careers and collaborate with other artists."
+    },
+    {
+      "prefix_original": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. The two artists first collaborated in 2001 on Talib Kweli's album \"Quality,\" but it wasn't until 2009 that they officially formed Idle Warship. Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals. The duo has released two albums: \"Habits of the Heart\" in 2011 and \"Party Robot\" in 2013. Despite their success as a duo, Talib Kweli and Res also continue to pursue their solo careers and collaborate with other artists.",
+      "prefix_new": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. It wasn't until 2009 that they officially formed Idle Warship. Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals. The duo has released two albums: \"Habits of the Heart\" and \"Party Robot.\" Despite their success as a duo, Talib Kweli and Res also continue to pursue their solo careers and collaborate with other artists.",
+      "sent_orig": "Talib is known for his politically charged and socially conscious lyrics and has released numerous critically acclaimed albums over the years, while Res has collaborated with artists like Gorillaz, Busta Rhymes, and Esthero.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Talib is known for his politically charged and socially conscious lyrics and has released numerous critically acclaimed albums over the years, while Res has collaborated with artists like Gorillaz, Busta Rhymes, and Esthero."
+    },
+    {
+      "prefix_original": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. The two artists first collaborated in 2001 on Talib Kweli's album \"Quality,\" but it wasn't until 2009 that they officially formed Idle Warship. Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals. The duo has released two albums: \"Habits of the Heart\" in 2011 and \"Party Robot\" in 2013. Despite their success as a duo, Talib Kweli and Res also continue to pursue their solo careers and collaborate with other artists. Talib is known for his politically charged and socially conscious lyrics and has released numerous critically acclaimed albums over the years, while Res has collaborated with artists like Gorillaz, Busta Rhymes, and Esthero.",
+      "prefix_new": "Idle Warship is a musical duo consisting of rapper Talib Kweli and singer Res. It wasn't until 2009 that they officially formed Idle Warship. Idle Warship's music is a fusion of hip hop, rock, and electronic influences, with Talib's socially conscious lyrics and Res's powerful vocals. The duo has released two albums: \"Habits of the Heart\" and \"Party Robot.\" Despite their success as a duo, Talib Kweli and Res also continue to pursue their solo careers and collaborate with other artists. Talib is known for his politically charged and socially conscious lyrics and has released numerous critically acclaimed albums over the years, while Res has collaborated with artists like Gorillaz, Busta Rhymes, and Esthero.",
+      "sent_orig": "Overall, Idle Warship is a unique and innovative musical partnership that blends multiple genres and influences to create a sound that is both powerful and thought-provoking.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Idle Warship is a unique and innovative musical partnership that blends multiple genres and influences to create a sound that is both powerful and thought-provoking."
+    }
+  ]
+}

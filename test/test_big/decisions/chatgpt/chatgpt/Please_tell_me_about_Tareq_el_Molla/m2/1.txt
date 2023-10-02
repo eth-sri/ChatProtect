@@ -1,0 +1,117 @@
+{
+  "prompt": "Please tell me about Tareq el Molla",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016."
+    },
+    {
+      "prefix_original": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016.",
+      "prefix_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016.",
+      "sent_orig": "He was born on August 15, 1960, in Cairo, Egypt, and studied mining and petroleum engineering at the Suez Canal University.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "studied",
+            "mining and petroleum engineering at the Suez Canal University."
+          ],
+          "He studied at Ain Shams University in Cairo, where he earned a degree in petroleum engineering.",
+          "Tareq el Molla studied mining and petroleum engineering at the Suez Canal University."
+        ]
+      ],
+      "sent_new": "Tareq el Molla studied mining and petroleum engineering at the Suez Canal University."
+    },
+    {
+      "prefix_original": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. He was born on August 15, 1960, in Cairo, Egypt, and studied mining and petroleum engineering at the Suez Canal University.",
+      "prefix_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. Tareq el Molla studied mining and petroleum engineering at the Suez Canal University.",
+      "sent_orig": "He later earned a master's degree in petroleum engineering from the American University in Cairo and an MBA from Edinburgh Business School in Scotland.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "earned",
+            ""
+          ],
+          "He earned a master's degree in petroleum refining and petrochemicals from the same university.",
+          "He earned a master's degree in petroleum engineering from the American University in Cairo."
+        ]
+      ],
+      "sent_new": "He earned a master's degree in petroleum engineering from the American University in Cairo."
+    },
+    {
+      "prefix_original": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. He was born on August 15, 1960, in Cairo, Egypt, and studied mining and petroleum engineering at the Suez Canal University. He later earned a master's degree in petroleum engineering from the American University in Cairo and an MBA from Edinburgh Business School in Scotland.",
+      "prefix_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. Tareq el Molla studied mining and petroleum engineering at the Suez Canal University. He earned a master's degree in petroleum engineering from the American University in Cairo.",
+      "sent_orig": "El Molla joined the Egyptian General Petroleum Corporation (EGPC) in 1985 and held various positions in the oil and gas industry in Egypt before being appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "various positions in the oil and gas industry in Egypt",
+            "appointed",
+            "as the CEO of the Egyptian Natural Gas Holding Company"
+          ],
+          "After working in various positions in the oil and gas industry in Egypt, Tareq el Molla was appointed as the CEO of the Egyptian General Petroleum Corporation (EGPC) in 2013.",
+          "El Molla was appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013."
+        ]
+      ],
+      "sent_new": "El Molla was appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013."
+    },
+    {
+      "prefix_original": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. He was born on August 15, 1960, in Cairo, Egypt, and studied mining and petroleum engineering at the Suez Canal University. He later earned a master's degree in petroleum engineering from the American University in Cairo and an MBA from Edinburgh Business School in Scotland. El Molla joined the Egyptian General Petroleum Corporation (EGPC) in 1985 and held various positions in the oil and gas industry in Egypt before being appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013.",
+      "prefix_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. Tareq el Molla studied mining and petroleum engineering at the Suez Canal University. He earned a master's degree in petroleum engineering from the American University in Cairo. El Molla was appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013.",
+      "sent_orig": "During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity."
+    },
+    {
+      "prefix_original": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. He was born on August 15, 1960, in Cairo, Egypt, and studied mining and petroleum engineering at the Suez Canal University. He later earned a master's degree in petroleum engineering from the American University in Cairo and an MBA from Edinburgh Business School in Scotland. El Molla joined the Egyptian General Petroleum Corporation (EGPC) in 1985 and held various positions in the oil and gas industry in Egypt before being appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013. During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity.",
+      "prefix_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. Tareq el Molla studied mining and petroleum engineering at the Suez Canal University. He earned a master's degree in petroleum engineering from the American University in Cairo. El Molla was appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013. During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity.",
+      "sent_orig": "In March 2016, El Molla was appointed as the Minister of Petroleum and Mineral Resources, succeeding Sherif Ismail.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "El Molla",
+            "was appointed",
+            "as the Minister of Petroleum and Mineral Resources, succeeding Sherif Ismail."
+          ],
+          "El Molla was appointed as the Minister of Petroleum and Mineral Resources of Egypt by President Abdel Fattah el-Sisi in September 2015.",
+          "El Molla was appointed as the Minister of Petroleum and Mineral Resources in March 2016."
+        ]
+      ],
+      "sent_new": "El Molla was appointed as the Minister of Petroleum and Mineral Resources in March 2016."
+    },
+    {
+      "prefix_original": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. He was born on August 15, 1960, in Cairo, Egypt, and studied mining and petroleum engineering at the Suez Canal University. He later earned a master's degree in petroleum engineering from the American University in Cairo and an MBA from Edinburgh Business School in Scotland. El Molla joined the Egyptian General Petroleum Corporation (EGPC) in 1985 and held various positions in the oil and gas industry in Egypt before being appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013. During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity. In March 2016, El Molla was appointed as the Minister of Petroleum and Mineral Resources, succeeding Sherif Ismail.",
+      "prefix_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. Tareq el Molla studied mining and petroleum engineering at the Suez Canal University. He earned a master's degree in petroleum engineering from the American University in Cairo. El Molla was appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013. During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity. El Molla was appointed as the Minister of Petroleum and Mineral Resources in March 2016.",
+      "sent_orig": "As the minister, he has been responsible for overseeing Egypt's oil and gas sector, which is a crucial part of the country's economy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As the minister, he has been responsible for overseeing Egypt's oil and gas sector, which is a crucial part of the country's economy."
+    },
+    {
+      "prefix_original": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. He was born on August 15, 1960, in Cairo, Egypt, and studied mining and petroleum engineering at the Suez Canal University. He later earned a master's degree in petroleum engineering from the American University in Cairo and an MBA from Edinburgh Business School in Scotland. El Molla joined the Egyptian General Petroleum Corporation (EGPC) in 1985 and held various positions in the oil and gas industry in Egypt before being appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013. During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity. In March 2016, El Molla was appointed as the Minister of Petroleum and Mineral Resources, succeeding Sherif Ismail. As the minister, he has been responsible for overseeing Egypt's oil and gas sector, which is a crucial part of the country's economy.",
+      "prefix_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. Tareq el Molla studied mining and petroleum engineering at the Suez Canal University. He earned a master's degree in petroleum engineering from the American University in Cairo. El Molla was appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013. During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity. El Molla was appointed as the Minister of Petroleum and Mineral Resources in March 2016. As the minister, he has been responsible for overseeing Egypt's oil and gas sector, which is a crucial part of the country's economy.",
+      "sent_orig": "He has also been involved in negotiating international oil and gas deals and attracting foreign investment to the sector.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also been involved in negotiating international oil and gas deals and attracting foreign investment to the sector."
+    },
+    {
+      "prefix_original": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. He was born on August 15, 1960, in Cairo, Egypt, and studied mining and petroleum engineering at the Suez Canal University. He later earned a master's degree in petroleum engineering from the American University in Cairo and an MBA from Edinburgh Business School in Scotland. El Molla joined the Egyptian General Petroleum Corporation (EGPC) in 1985 and held various positions in the oil and gas industry in Egypt before being appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013. During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity. In March 2016, El Molla was appointed as the Minister of Petroleum and Mineral Resources, succeeding Sherif Ismail. As the minister, he has been responsible for overseeing Egypt's oil and gas sector, which is a crucial part of the country's economy. He has also been involved in negotiating international oil and gas deals and attracting foreign investment to the sector.",
+      "prefix_new": "Tareq el Molla is an Egyptian oil engineer and politician who has been serving as the Minister of Petroleum and Mineral Resources of Egypt since 2016. Tareq el Molla studied mining and petroleum engineering at the Suez Canal University. He earned a master's degree in petroleum engineering from the American University in Cairo. El Molla was appointed as the CEO of the Egyptian Natural Gas Holding Company (EGAS) in 2013. During his tenure as CEO of EGAS, he oversaw the development of Egypt's natural gas industry and the expansion of the country's liquefied natural gas (LNG) export capacity. El Molla was appointed as the Minister of Petroleum and Mineral Resources in March 2016. As the minister, he has been responsible for overseeing Egypt's oil and gas sector, which is a crucial part of the country's economy. He has also been involved in negotiating international oil and gas deals and attracting foreign investment to the sector.",
+      "sent_orig": "El Molla has been recognized for his contributions to the oil and gas industry and has received several awards, including the Order of Merit, Egypt's highest civilian honor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "El Molla has been recognized for his contributions to the oil and gas industry and has received several awards, including the Order of Merit, Egypt's highest civilian honor."
+    }
+  ]
+}

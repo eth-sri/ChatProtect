@@ -1,0 +1,85 @@
+{
+  "prompt": "Please tell me about Natalie Portman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Natalie Portman is an American-Israeli actress, director, and producer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Natalie Portman is an American-Israeli actress, director, and producer."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer.",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer.",
+      "sent_orig": "Natalie Portman was born in Jerusalem, Israel.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Natalie Portman was born in Jerusalem, Israel."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel.",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel.",
+      "sent_orig": "Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy.",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy.",
+      "sent_orig": "Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series.",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series.",
+      "sent_orig": "For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011.",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011.",
+      "sent_orig": "In addition to her acting career, Portman is known for her activism.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to her acting career, Portman is known for her activism."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is known for her activism.",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is known for her activism.",
+      "sent_orig": "She has spoken out on issues such as animal rights, environmentalism, and feminism.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has spoken out on issues such as animal rights, environmentalism, and feminism."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is known for her activism. She has spoken out on issues such as animal rights, environmentalism, and feminism.",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is known for her activism. She has spoken out on issues such as animal rights, environmentalism, and feminism.",
+      "sent_orig": "She has also directed and produced several films, including \"A Tale of Love and Darkness\" and \"Eating Animals\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has also directed and produced several films, including \"A Tale of Love and Darkness\" and \"Eating Animals\"."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is known for her activism. She has spoken out on issues such as animal rights, environmentalism, and feminism. She has also directed and produced several films, including \"A Tale of Love and Darkness\" and \"Eating Animals\".",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is known for her activism. She has spoken out on issues such as animal rights, environmentalism, and feminism. She has also directed and produced several films, including \"A Tale of Love and Darkness\" and \"Eating Animals\".",
+      "sent_orig": "Portman graduated from Harvard University in 2003 with a degree in psychology.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Portman graduated from Harvard University in 2003 with a degree in psychology."
+    },
+    {
+      "prefix_original": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is known for her activism. She has spoken out on issues such as animal rights, environmentalism, and feminism. She has also directed and produced several films, including \"A Tale of Love and Darkness\" and \"Eating Animals\". Portman graduated from Harvard University in 2003 with a degree in psychology.",
+      "prefix_new": "Natalie Portman is an American-Israeli actress, director, and producer. Natalie Portman was born in Jerusalem, Israel. Natalie Portman gained international recognition as Queen Amidala in the Star Wars prequel trilogy. Portman has since starred in a variety of films, including \"V for Vendetta\", \"Black Swan\", \"Jackie\", and \"Thor\" series. For her role in \"Black Swan\", she won the Academy Award for Best Actress in 2011. In addition to her acting career, Portman is known for her activism. She has spoken out on issues such as animal rights, environmentalism, and feminism. She has also directed and produced several films, including \"A Tale of Love and Darkness\" and \"Eating Animals\". Portman graduated from Harvard University in 2003 with a degree in psychology.",
+      "sent_orig": "She is married to French dancer and choreographer Benjamin Millepied, and has two children with him.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is married to French dancer and choreographer Benjamin Millepied, and has two children with him."
+    }
+  ]
+}

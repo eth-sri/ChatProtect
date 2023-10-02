@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about Ryan Gosling",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada.",
+      "sent_orig": "He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry.",
+      "sent_orig": "Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations.",
+      "sent_orig": "He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\""
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\"",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\"",
+      "sent_orig": "In addition to acting, Gosling is also a skilled musician.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to acting, Gosling is also a skilled musician."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\" In addition to acting, Gosling is also a skilled musician.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\" In addition to acting, Gosling is also a skilled musician.",
+      "sent_orig": "He plays the piano and guitar, and he was the lead singer of the band Dead Man's Bones.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He plays the piano and guitar, and he was the lead singer of the band Dead Man's Bones."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\" In addition to acting, Gosling is also a skilled musician. He plays the piano and guitar, and he was the lead singer of the band Dead Man's Bones.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\" In addition to acting, Gosling is also a skilled musician. He plays the piano and guitar, and he was the lead singer of the band Dead Man's Bones.",
+      "sent_orig": "Gosling has also produced and directed a number of films, including \"Lost River\" and \"How to Catch a Monster.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gosling has also produced and directed a number of films, including \"Lost River\" and \"How to Catch a Monster.\""
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\" In addition to acting, Gosling is also a skilled musician. He plays the piano and guitar, and he was the lead singer of the band Dead Man's Bones. Gosling has also produced and directed a number of films, including \"Lost River\" and \"How to Catch a Monster.\"",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\" In addition to acting, Gosling is also a skilled musician. He plays the piano and guitar, and he was the lead singer of the band Dead Man's Bones. Gosling has also produced and directed a number of films, including \"Lost River\" and \"How to Catch a Monster.\"",
+      "sent_orig": "Gosling is known for his good looks and charm, as well as his activism for social and political causes, including animal rights, poverty, and the environment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gosling is known for his good looks and charm, as well as his activism for social and political causes, including animal rights, poverty, and the environment."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\" In addition to acting, Gosling is also a skilled musician. He plays the piano and guitar, and he was the lead singer of the band Dead Man's Bones. Gosling has also produced and directed a number of films, including \"Lost River\" and \"How to Catch a Monster.\" Gosling is known for his good looks and charm, as well as his activism for social and political causes, including animal rights, poverty, and the environment.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and producer who was born on November 12, 1980 in London, Ontario, Canada. He began his acting career in the 1990s on television shows such as \"The Mickey Mouse Club\" and \"Breaker High,\" before making his breakthrough in the film industry. Gosling gained critical acclaim for his performances in films such as \"The Notebook,\" \"Half Nelson,\" \"Blue Valentine,\" \"Crazy Stupid Love,\" and \"La La Land,\" which earned him Academy Award and Golden Globe nominations. He has also starred in popular movies like \"Drive,\" \"Gangster Squad,\" and \"Blade Runner 2049.\" In addition to acting, Gosling is also a skilled musician. He plays the piano and guitar, and he was the lead singer of the band Dead Man's Bones. Gosling has also produced and directed a number of films, including \"Lost River\" and \"How to Catch a Monster.\" Gosling is known for his good looks and charm, as well as his activism for social and political causes, including animal rights, poverty, and the environment.",
+      "sent_orig": "He is married to actress Eva Mendes and they have two daughters together.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is married to actress Eva Mendes and they have two daughters together."
+    }
+  ]
+}

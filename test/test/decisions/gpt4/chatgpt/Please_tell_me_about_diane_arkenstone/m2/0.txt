@@ -1,0 +1,94 @@
+{
+  "prompt": "Please tell me about diane arkenstone",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Diane Arkenstone is an American musician, composer, and singer-songwriter.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter.",
+      "sent_orig": "She was born on May 3, 1959, in Nebraska, USA.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter.",
+      "sent_orig": "She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "She",
+            "began",
+            "her musical career in"
+          ],
+          "She began her music career in the 1990s, releasing her first album \"The Angels Voice\" in 1992.",
+          "She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre."
+        ]
+      ],
+      "sent_new": "She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre.",
+      "sent_orig": "In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\"."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\".",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\".",
+      "sent_orig": "Arkenstone's music is a blend of world, new age, and electronic genres.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Arkenstone's music is a blend of world, new age, and electronic genres."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres.",
+      "sent_orig": "She is known for her use of various instruments such as the guitar, keyboard, and percussion.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is known for her use of various instruments such as the guitar, keyboard, and percussion."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres. She is known for her use of various instruments such as the guitar, keyboard, and percussion.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres. She is known for her use of various instruments such as the guitar, keyboard, and percussion.",
+      "sent_orig": "Her music is often described as soothing, meditative, and spiritual.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Her music is often described as soothing, meditative, and spiritual."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres. She is known for her use of various instruments such as the guitar, keyboard, and percussion. Her music is often described as soothing, meditative, and spiritual.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres. She is known for her use of various instruments such as the guitar, keyboard, and percussion. Her music is often described as soothing, meditative, and spiritual.",
+      "sent_orig": "Arkenstone has released over 20 albums to date, including \"Echoes of Egypt\", \"In the Wake of the Wind\", \"The Secret Garden\", and \"Jewel in the Sun\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Arkenstone has released over 20 albums to date, including \"Echoes of Egypt\", \"In the Wake of the Wind\", \"The Secret Garden\", and \"Jewel in the Sun\"."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres. She is known for her use of various instruments such as the guitar, keyboard, and percussion. Her music is often described as soothing, meditative, and spiritual. Arkenstone has released over 20 albums to date, including \"Echoes of Egypt\", \"In the Wake of the Wind\", \"The Secret Garden\", and \"Jewel in the Sun\".",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres. She is known for her use of various instruments such as the guitar, keyboard, and percussion. Her music is often described as soothing, meditative, and spiritual. Arkenstone has released over 20 albums to date, including \"Echoes of Egypt\", \"In the Wake of the Wind\", \"The Secret Garden\", and \"Jewel in the Sun\".",
+      "sent_orig": "Her music has been featured in numerous films, television shows, and commercials.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Her music has been featured in numerous films, television shows, and commercials."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres. She is known for her use of various instruments such as the guitar, keyboard, and percussion. Her music is often described as soothing, meditative, and spiritual. Arkenstone has released over 20 albums to date, including \"Echoes of Egypt\", \"In the Wake of the Wind\", \"The Secret Garden\", and \"Jewel in the Sun\". Her music has been featured in numerous films, television shows, and commercials.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She began her musical career in the 1980s as a member of the musical duo, Harpers Bizarre. In the early 1990s, she started her solo career and released her debut album, \"The Angels Voice\". Arkenstone's music is a blend of world, new age, and electronic genres. She is known for her use of various instruments such as the guitar, keyboard, and percussion. Her music is often described as soothing, meditative, and spiritual. Arkenstone has released over 20 albums to date, including \"Echoes of Egypt\", \"In the Wake of the Wind\", \"The Secret Garden\", and \"Jewel in the Sun\". Her music has been featured in numerous films, television shows, and commercials.",
+      "sent_orig": "Aside from her music career, Arkenstone is also a philanthropist and has supported various charities and organizations, including the Humane Society of the United States and the World Wildlife Fund.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Aside from her music career, Arkenstone is also a philanthropist and has supported various charities and organizations, including the Humane Society of the United States and the World Wildlife Fund."
+    }
+  ]
+}

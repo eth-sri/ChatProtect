@@ -1,0 +1,127 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gordon Gollob was a fighter pilot during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gordon Gollob was a fighter pilot during World War II."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II.",
+      "sent_orig": "Gordon Gollob was a German fighter pilot during World War II.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gordon Gollob",
+            "was",
+            "a German fighter pilot during World War II."
+          ],
+          "Gordon Gollob was an Austrian fighter pilot during World War II.",
+          "Gordon Gollob was a fighter pilot during World War II."
+        ]
+      ],
+      "sent_new": "Gordon Gollob was a fighter pilot during World War II."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II.",
+      "sent_orig": "Gollob was a German fighter pilot during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was a German fighter pilot during World War II."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II.",
+      "sent_orig": "He flew in the Spanish Civil War, where he shot down 14 enemy planes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He flew in the Spanish Civil War, where he shot down 14 enemy planes."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes.",
+      "sent_orig": "During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe.",
+      "sent_orig": "He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war.",
+      "sent_orig": "He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time.",
+      "sent_orig": "Gollob was known for his aggressive flying style and his willingness to take risks.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was known for his aggressive flying style and his willingness to take risks."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks.",
+      "sent_orig": "He often flew alone, seeking out enemy planes to engage in dogfights.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He often flew alone, seeking out enemy planes to engage in dogfights."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights.",
+      "sent_orig": "He was also known for his leadership skills and was promoted to the rank of Major in 1943.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also known for his leadership skills and was promoted to the rank of Major in 1943."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights. He was also known for his leadership skills and was promoted to the rank of Major in 1943.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights. He was also known for his leadership skills and was promoted to the rank of Major in 1943.",
+      "sent_orig": "After the war, he was held as a prisoner of war by the Allies for several years before being released.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the war, he was held as a prisoner of war by the Allies for several years before being released."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights. He was also known for his leadership skills and was promoted to the rank of Major in 1943. After the war, he was held as a prisoner of war by the Allies for several years before being released.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights. He was also known for his leadership skills and was promoted to the rank of Major in 1943. After the war, he was held as a prisoner of war by the Allies for several years before being released.",
+      "sent_orig": "He went on to work as a test pilot for the Austrian Air Force and later as a commercial pilot for Austrian Airlines.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He went on to work as a test pilot for the Austrian Air Force and later as a commercial pilot for Austrian Airlines."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights. He was also known for his leadership skills and was promoted to the rank of Major in 1943. After the war, he was held as a prisoner of war by the Allies for several years before being released. He went on to work as a test pilot for the Austrian Air Force and later as a commercial pilot for Austrian Airlines.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights. He was also known for his leadership skills and was promoted to the rank of Major in 1943. After the war, he was held as a prisoner of war by the Allies for several years before being released. He went on to work as a test pilot for the Austrian Air Force and later as a commercial pilot for Austrian Airlines.",
+      "sent_orig": "Gordon Gollob died on September 7, 1987, in Vienna, Austria, at the age of 75.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gordon Gollob died on September 7, 1987, in Vienna, Austria, at the age of 75."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a German fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights. He was also known for his leadership skills and was promoted to the rank of Major in 1943. After the war, he was held as a prisoner of war by the Allies for several years before being released. He went on to work as a test pilot for the Austrian Air Force and later as a commercial pilot for Austrian Airlines. Gordon Gollob died on September 7, 1987, in Vienna, Austria, at the age of 75.",
+      "prefix_new": "Gordon Gollob was a fighter pilot during World War II. Gordon Gollob was a fighter pilot during World War II. Gollob was a German fighter pilot during World War II. He flew in the Spanish Civil War, where he shot down 14 enemy planes. During World War II, Gollob became one of the most successful fighter pilots in the Luftwaffe. He was credited with shooting down 150 enemy planes, making him the third-highest scoring German ace of the war. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds, the highest military honor in Germany at the time. Gollob was known for his aggressive flying style and his willingness to take risks. He often flew alone, seeking out enemy planes to engage in dogfights. He was also known for his leadership skills and was promoted to the rank of Major in 1943. After the war, he was held as a prisoner of war by the Allies for several years before being released. He went on to work as a test pilot for the Austrian Air Force and later as a commercial pilot for Austrian Airlines. Gordon Gollob died on September 7, 1987, in Vienna, Austria, at the age of 75.",
+      "sent_orig": "He is remembered as one of the most successful fighter pilots of World War II and a hero to many in Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is remembered as one of the most successful fighter pilots of World War II and a hero to many in Germany."
+    }
+  ]
+}

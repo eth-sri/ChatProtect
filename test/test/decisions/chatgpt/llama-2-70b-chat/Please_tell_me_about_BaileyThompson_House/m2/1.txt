@@ -1,0 +1,85 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States.",
+      "prefix_new": "",
+      "sent_orig": "It was built in 1885 by John G. Bailey, a prominent local rancher and businessman, and was later purchased by William H. Thompson, a successful lawyer and politician.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States. It was built in 1885 by John G. Bailey, a prominent local rancher and businessman, and was later purchased by William H. Thompson, a successful lawyer and politician.",
+      "prefix_new": "",
+      "sent_orig": "The house remained in the Thompson family until 1973, when it was donated to the Kerr County Historical Society and turned into a museum.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "it",
+            "was donated",
+            "to the Kerr County Historical Society"
+          ],
+          " It was donated to the Kerr County Historical Society in 1976.",
+          "The house was donated to the Kerr County Historical Society."
+        ]
+      ],
+      "sent_new": "The house was donated to the Kerr County Historical Society."
+    },
+    {
+      "prefix_original": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States. It was built in 1885 by John G. Bailey, a prominent local rancher and businessman, and was later purchased by William H. Thompson, a successful lawyer and politician. The house remained in the Thompson family until 1973, when it was donated to the Kerr County Historical Society and turned into a museum.",
+      "prefix_new": "The house was donated to the Kerr County Historical Society.",
+      "sent_orig": "The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof."
+    },
+    {
+      "prefix_original": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States. It was built in 1885 by John G. Bailey, a prominent local rancher and businessman, and was later purchased by William H. Thompson, a successful lawyer and politician. The house remained in the Thompson family until 1973, when it was donated to the Kerr County Historical Society and turned into a museum. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof.",
+      "prefix_new": "The house was donated to the Kerr County Historical Society. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof.",
+      "sent_orig": "It features a wraparound porch, bay windows, and a projecting front gable.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It features a wraparound porch, bay windows, and a projecting front gable."
+    },
+    {
+      "prefix_original": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States. It was built in 1885 by John G. Bailey, a prominent local rancher and businessman, and was later purchased by William H. Thompson, a successful lawyer and politician. The house remained in the Thompson family until 1973, when it was donated to the Kerr County Historical Society and turned into a museum. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable.",
+      "prefix_new": "The house was donated to the Kerr County Historical Society. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable.",
+      "sent_orig": "The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings."
+    },
+    {
+      "prefix_original": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States. It was built in 1885 by John G. Bailey, a prominent local rancher and businessman, and was later purchased by William H. Thompson, a successful lawyer and politician. The house remained in the Thompson family until 1973, when it was donated to the Kerr County Historical Society and turned into a museum. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings.",
+      "prefix_new": "The house was donated to the Kerr County Historical Society. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings.",
+      "sent_orig": "The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there."
+    },
+    {
+      "prefix_original": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States. It was built in 1885 by John G. Bailey, a prominent local rancher and businessman, and was later purchased by William H. Thompson, a successful lawyer and politician. The house remained in the Thompson family until 1973, when it was donated to the Kerr County Historical Society and turned into a museum. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings. The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there.",
+      "prefix_new": "The house was donated to the Kerr County Historical Society. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings. The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there.",
+      "sent_orig": "John G. Bailey was a pioneer settler of Kerr County and played a significant role in its development, while William H. Thompson was a prominent figure in Texas politics, serving as a state representative and senator.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "John G. Bailey was a pioneer settler of Kerr County and played a significant role in its development, while William H. Thompson was a prominent figure in Texas politics, serving as a state representative and senator."
+    },
+    {
+      "prefix_original": " Bailey-Thompson House is a historic house located in Kerrville, Texas, United States. It was built in 1885 by John G. Bailey, a prominent local rancher and businessman, and was later purchased by William H. Thompson, a successful lawyer and politician. The house remained in the Thompson family until 1973, when it was donated to the Kerr County Historical Society and turned into a museum. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings. The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there. John G. Bailey was a pioneer settler of Kerr County and played a significant role in its development, while William H. Thompson was a prominent figure in Texas politics, serving as a state representative and senator.",
+      "prefix_new": "The house was donated to the Kerr County Historical Society. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings. The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there. John G. Bailey was a pioneer settler of Kerr County and played a significant role in its development, while William H. Thompson was a prominent figure in Texas politics, serving as a state representative and senator.",
+      "sent_orig": "The house remains a well-preserved example of late 19th-century architecture and is a popular tourist attraction in Kerrville.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house remains a well-preserved example of late 19th-century architecture and is a popular tourist attraction in Kerrville."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+test/test/sentences/chatgpt/brazil_–_angola_relations/m3/m2_1_0_0.txt
+Q: I give you the beginning of a description about Brazil – Angola relations.
+Then follow two statements.
+
+Description:
+
+
+Statement 1:
+Brazil and Angola have a historical relationship.
+
+Statement 2:
+Brazil and Angola have a long history of diplomatic and economic relations.
+
+Please explain whether the statements about Brazil – Angola relations are contradictory.
+Provide your explanation only.
+
+A: The statements about Brazil – Angola relations are not contradictory. Both statements emphasize the historical and long-standing nature of the relationship between the two countries, with statement 2 providing more specific details about the diplomatic and economic aspects of this relationship. Therefore, the two statements complement each other and do not present any conflicting information.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No. The statements are not contradictory.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+label: ok
+score: 0.0
+cost: 336
+test/test/sentences/chatgpt/brazil_–_angola_relations/m3/m2_1_0_1.txt
+Q: I give you the beginning of a description about Brazil – Angola relations.
+Then follow two statements.
+
+Description:
+
+
+Statement 1:
+The two countries share cultural, linguistic, and economic ties that have strengthened over time.
+
+Statement 2:
+Over the years, cultural, linguistic, and economic ties between Brazil and Angola have strengthened.
+
+Please explain whether the statements about Brazil – Angola relations are contradictory.
+Provide your explanation only.
+
+A: The statements about Brazil – Angola relations are not contradictory. They both convey the same idea that the two countries have strong cultural, linguistic, and economic ties that have grown stronger over time. The only difference is in the wording and sentence structure.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+label: ok
+score: 0.0
+cost: 342
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=76, completion_tokens=62), Usage(prompt_tokens=160, completion_tokens=38), Usage(prompt_tokens=90, completion_tokens=48), Usage(prompt_tokens=160, completion_tokens=44)]
+486
+192
+678
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

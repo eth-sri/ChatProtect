@@ -1,0 +1,78 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida.",
+      "prefix_new": "",
+      "sent_orig": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "prefix_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "sent_orig": "The home was purchased by the Bailey family in 1870 and remained in their possession for over a century.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Bailey",
+            "remained",
+            "in their possession for over a century."
+          ],
+          "Bailey remained the owner of the house until 1860.",
+          "The Bailey-Thompson House is a historic home located in Tallahassee, Florida."
+        ]
+      ],
+      "sent_new": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home was purchased by the Bailey family in 1870 and remained in their possession for over a century.",
+      "prefix_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The Bailey-Thompson House is a historic home located in Tallahassee, Florida.",
+      "sent_orig": "During their ownership, they added a two-story wing to the rear of the home, doubling its size.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During their ownership, they added a two-story wing to the rear of the home, doubling its size."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home was purchased by the Bailey family in 1870 and remained in their possession for over a century. During their ownership, they added a two-story wing to the rear of the home, doubling its size.",
+      "prefix_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The Bailey-Thompson House is a historic home located in Tallahassee, Florida. During their ownership, they added a two-story wing to the rear of the home, doubling its size.",
+      "sent_orig": "The Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home was purchased by the Bailey family in 1870 and remained in their possession for over a century. During their ownership, they added a two-story wing to the rear of the home, doubling its size. The Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum.",
+      "prefix_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The Bailey-Thompson House is a historic home located in Tallahassee, Florida. During their ownership, they added a two-story wing to the rear of the home, doubling its size. The Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum.",
+      "sent_orig": "The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home was purchased by the Bailey family in 1870 and remained in their possession for over a century. During their ownership, they added a two-story wing to the rear of the home, doubling its size. The Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "prefix_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The Bailey-Thompson House is a historic home located in Tallahassee, Florida. During their ownership, they added a two-story wing to the rear of the home, doubling its size. The Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "sent_orig": "Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Visitors can tour the home and see original furnishings and artifacts from the mid-19th century."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home was purchased by the Bailey family in 1870 and remained in their possession for over a century. During their ownership, they added a two-story wing to the rear of the home, doubling its size. The Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida. Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "prefix_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The Bailey-Thompson House is a historic home located in Tallahassee, Florida. During their ownership, they added a two-story wing to the rear of the home, doubling its size. The Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida. Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "sent_orig": "The museum also hosts special events and educational programs throughout the year.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The museum also hosts special events and educational programs throughout the year."
+    }
+  ]
+}

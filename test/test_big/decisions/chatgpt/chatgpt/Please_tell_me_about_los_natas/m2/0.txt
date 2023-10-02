@@ -1,0 +1,98 @@
+{
+  "prompt": "Please tell me about los natas",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires.",
+      "prefix_new": "",
+      "sent_orig": "The band originally consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The band",
+            "originally consisted",
+            ""
+          ],
+          "The band originally consisted of guitarist and vocalist Walter Broide, bassist Miguel Fernandez and drummer Gonzalo Villagra.",
+          "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra."
+        ]
+      ],
+      "sent_new": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band originally consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra.",
+      "prefix_new": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra.",
+      "sent_orig": "They were known for their heavy, riff-driven sound, often incorporating elements of stoner rock, doom metal, and space rock into their music.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "They",
+            "were known",
+            "for their heavy, riff-driven sound,"
+          ],
+          "They were known for their heavy, distorted sound and their fusion of stoner rock, psychedelic rock, and traditional Argentinean music.",
+          "Los Natas was known for their heavy, riff-driven sound and incorporation of stoner rock, doom metal, and space rock."
+        ]
+      ],
+      "sent_new": "Los Natas was known for their heavy, riff-driven sound and incorporation of stoner rock, doom metal, and space rock."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band originally consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. They were known for their heavy, riff-driven sound, often incorporating elements of stoner rock, doom metal, and space rock into their music.",
+      "prefix_new": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. Los Natas was known for their heavy, riff-driven sound and incorporation of stoner rock, doom metal, and space rock.",
+      "sent_orig": "Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009)."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band originally consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. They were known for their heavy, riff-driven sound, often incorporating elements of stoner rock, doom metal, and space rock into their music. Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009).",
+      "prefix_new": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. Los Natas was known for their heavy, riff-driven sound and incorporation of stoner rock, doom metal, and space rock. Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009).",
+      "sent_orig": "The band also gained a reputation for their intense and unpredictable live performances.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The band also gained a reputation for their intense and unpredictable live performances."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band originally consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. They were known for their heavy, riff-driven sound, often incorporating elements of stoner rock, doom metal, and space rock into their music. Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009). The band also gained a reputation for their intense and unpredictable live performances.",
+      "prefix_new": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. Los Natas was known for their heavy, riff-driven sound and incorporation of stoner rock, doom metal, and space rock. Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009). The band also gained a reputation for their intense and unpredictable live performances.",
+      "sent_orig": "In addition to their work with Los Natas, the members of the band also collaborated with other musicians and formed side projects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to their work with Los Natas, the members of the band also collaborated with other musicians and formed side projects."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band originally consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. They were known for their heavy, riff-driven sound, often incorporating elements of stoner rock, doom metal, and space rock into their music. Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009). The band also gained a reputation for their intense and unpredictable live performances. In addition to their work with Los Natas, the members of the band also collaborated with other musicians and formed side projects.",
+      "prefix_new": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. Los Natas was known for their heavy, riff-driven sound and incorporation of stoner rock, doom metal, and space rock. Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009). The band also gained a reputation for their intense and unpredictable live performances. In addition to their work with Los Natas, the members of the band also collaborated with other musicians and formed side projects.",
+      "sent_orig": "Sergio Chotsourian went on to form the band Ararat, while Gonzalo Villagra formed Los Humanoides.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gonzalo Villagra",
+            "formed",
+            ""
+          ],
+          "Gonzalo Villagra formed the band Ararat after Los Natas disbanded in 2012.",
+          "Sergio Chotsourian went on to form the band Ararat."
+        ]
+      ],
+      "sent_new": "Sergio Chotsourian went on to form the band Ararat."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band originally consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. They were known for their heavy, riff-driven sound, often incorporating elements of stoner rock, doom metal, and space rock into their music. Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009). The band also gained a reputation for their intense and unpredictable live performances. In addition to their work with Los Natas, the members of the band also collaborated with other musicians and formed side projects. Sergio Chotsourian went on to form the band Ararat, while Gonzalo Villagra formed Los Humanoides.",
+      "prefix_new": "Los Natas was an Argentinean psychedelic rock band formed in 1994 in Buenos Aires. The band consisted of guitarist and vocalist Sergio Chotsourian, drummer Walter Broide, and bassist Gonzalo Villagra. Los Natas was known for their heavy, riff-driven sound and incorporation of stoner rock, doom metal, and space rock. Over the years, Los Natas released several albums, including \"Delmar\" (1998), \"Corsario Negro\" (2002), and \"Nuevo Orden de la Libertad\" (2009). The band also gained a reputation for their intense and unpredictable live performances. In addition to their work with Los Natas, the members of the band also collaborated with other musicians and formed side projects. Sergio Chotsourian went on to form the band Ararat.",
+      "sent_orig": "Los Natas disbanded in 2012, but their music continues to be celebrated by fans of psychedelic and heavy rock.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Los Natas disbanded in 2012, but their music continues to be celebrated by fans of psychedelic and heavy rock."
+    }
+  ]
+}

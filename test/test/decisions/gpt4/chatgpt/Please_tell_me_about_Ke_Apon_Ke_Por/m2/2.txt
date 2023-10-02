@@ -1,0 +1,131 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a popular Bengali television serial",
+            "airs",
+            "on the Zee Bangla channel."
+          ],
+          "A popular Bengali television serial, Ke Apon Ke Por, airs on Star Jalsha.",
+          "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel."
+        ]
+      ],
+      "sent_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel.",
+      "sent_orig": "The show premiered on October 25, 2016, and has been running successfully ever since.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The show",
+            "premiered",
+            "on October 25,"
+          ],
+          "The show premiered on 25 July 2016 and has since gained a large following.",
+          "The show premiered on October 25, 2016, and has been running successfully ever since."
+        ]
+      ],
+      "sent_new": "The show premiered on October 25, 2016, and has been running successfully ever since."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since.",
+      "sent_orig": "The series is produced by Boyhood Productions and is directed by Sushanta Das.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Productions",
+            "is directed",
+            "by Sushanta Das."
+          ],
+          "The show is produced by Boyhood Productions and is directed by Amit Sengupta.",
+          "The series is produced by Boyhood Productions and is directed by Sushanta Das."
+        ]
+      ],
+      "sent_new": "The series is produced by Boyhood Productions and is directed by Sushanta Das."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das.",
+      "sent_orig": "The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman.",
+      "sent_orig": "She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man.",
+      "sent_orig": "The couple lives with their joint family in their ancestral home in Kolkata.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The couple lives with their joint family in their ancestral home in Kolkata."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata.",
+      "sent_orig": "The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs.",
+      "sent_orig": "Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs. Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs. Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India.",
+      "sent_orig": "The show has also won many awards and accolades for its storyline, performances, and direction.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show has also won many awards and accolades for its storyline, performances, and direction."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs. Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India. The show has also won many awards and accolades for its storyline, performances, and direction.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs. Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India. The show has also won many awards and accolades for its storyline, performances, and direction.",
+      "sent_orig": "The cast of the show also includes veteran actors like Ananya Chatterjee, Simran Upadhyay, Kalyani Mondal, Indranil Chatterjee, and many others.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The cast of the show also includes veteran actors like Ananya Chatterjee, Simran Upadhyay, Kalyani Mondal, Indranil Chatterjee, and many others."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs. Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India. The show has also won many awards and accolades for its storyline, performances, and direction. The cast of the show also includes veteran actors like Ananya Chatterjee, Simran Upadhyay, Kalyani Mondal, Indranil Chatterjee, and many others.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs. Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India. The show has also won many awards and accolades for its storyline, performances, and direction. The cast of the show also includes veteran actors like Ananya Chatterjee, Simran Upadhyay, Kalyani Mondal, Indranil Chatterjee, and many others.",
+      "sent_orig": "In conclusion, Ke Apon Ke Por is a must-watch for those who love family dramas with strong female characters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In conclusion, Ke Apon Ke Por is a must-watch for those who love family dramas with strong female characters."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs. Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India. The show has also won many awards and accolades for its storyline, performances, and direction. The cast of the show also includes veteran actors like Ananya Chatterjee, Simran Upadhyay, Kalyani Mondal, Indranil Chatterjee, and many others. In conclusion, Ke Apon Ke Por is a must-watch for those who love family dramas with strong female characters.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television serial that airs on the Zee Bangla channel. The show premiered on October 25, 2016, and has been running successfully ever since. The series is produced by Boyhood Productions and is directed by Sushanta Das. The show revolves around the life of Joba, played by Pallavi Sharma, who is a strong and independent woman. She is married to Surya, played by Biswajit Ghosh, who is a simple and honest man. The couple lives with their joint family in their ancestral home in Kolkata. The show explores the dynamics of a joint family, their conflicts, and the journey of Joba, who fights against the patriarchal norms and societal pressure to stand up for her beliefs. Ke Apon Ke Por has a huge fan following in West Bengal and other parts of India. The show has also won many awards and accolades for its storyline, performances, and direction. The cast of the show also includes veteran actors like Ananya Chatterjee, Simran Upadhyay, Kalyani Mondal, Indranil Chatterjee, and many others. In conclusion, Ke Apon Ke Por is a must-watch for those who love family dramas with strong female characters.",
+      "sent_orig": "The show portrays the struggles and challenges faced by women in Indian society and the strength and resilience required to overcome them.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show portrays the struggles and challenges faced by women in Indian society and the strength and resilience required to overcome them."
+    }
+  ]
+}

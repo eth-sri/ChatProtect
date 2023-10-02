@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about corey parker (actor)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "As an AI language model, I do not have access to up-to-date information about individuals.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "I",
+            "do not have",
+            "access to up-to-date information about individuals."
+          ],
+          "I do not have any information on Corey Parker (actor).",
+          "As an AI language model, my information about individuals may not be up-to-date."
+        ]
+      ],
+      "sent_new": "As an AI language model, my information about individuals may not be up-to-date."
+    },
+    {
+      "prefix_original": "As an AI language model, I do not have access to up-to-date information about individuals.",
+      "prefix_new": "As an AI language model, my information about individuals may not be up-to-date.",
+      "sent_orig": "However, I can provide you with some general information about Corey Parker, the actor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, I can provide you with some general information about Corey Parker, the actor."
+    },
+    {
+      "prefix_original": "As an AI language model, I do not have access to up-to-date information about individuals. However, I can provide you with some general information about Corey Parker, the actor.",
+      "prefix_new": "As an AI language model, my information about individuals may not be up-to-date. However, I can provide you with some general information about Corey Parker, the actor.",
+      "sent_orig": "Corey Parker is an American actor who was born on July 8, 1965, in New York City.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Corey Parker is an American actor who was born on July 8, 1965, in New York City."
+    },
+    {
+      "prefix_original": "As an AI language model, I do not have access to up-to-date information about individuals. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City.",
+      "prefix_new": "As an AI language model, my information about individuals may not be up-to-date. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City.",
+      "sent_orig": "He began his acting career in the 1980s and appeared in several popular movies and TV shows.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He began his acting career in the 1980s and appeared in several popular movies and TV shows."
+    },
+    {
+      "prefix_original": "As an AI language model, I do not have access to up-to-date information about individuals. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows.",
+      "prefix_new": "As an AI language model, my information about individuals may not be up-to-date. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows.",
+      "sent_orig": "Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000)."
+    },
+    {
+      "prefix_original": "As an AI language model, I do not have access to up-to-date information about individuals. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows. Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000).",
+      "prefix_new": "As an AI language model, my information about individuals may not be up-to-date. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows. Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000).",
+      "sent_orig": "Parker has also worked as a director and producer in the entertainment industry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Parker has also worked as a director and producer in the entertainment industry."
+    },
+    {
+      "prefix_original": "As an AI language model, I do not have access to up-to-date information about individuals. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows. Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000). Parker has also worked as a director and producer in the entertainment industry.",
+      "prefix_new": "As an AI language model, my information about individuals may not be up-to-date. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows. Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000). Parker has also worked as a director and producer in the entertainment industry.",
+      "sent_orig": "He has directed several episodes of TV shows, including \"The Division\" and \"The Shield\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has directed several episodes of TV shows, including \"The Division\" and \"The Shield\"."
+    },
+    {
+      "prefix_original": "As an AI language model, I do not have access to up-to-date information about individuals. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows. Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000). Parker has also worked as a director and producer in the entertainment industry. He has directed several episodes of TV shows, including \"The Division\" and \"The Shield\".",
+      "prefix_new": "As an AI language model, my information about individuals may not be up-to-date. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows. Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000). Parker has also worked as a director and producer in the entertainment industry. He has directed several episodes of TV shows, including \"The Division\" and \"The Shield\".",
+      "sent_orig": "In addition, he has produced several movies, including \"The Last Time I Committed Suicide\" (1997) and \"Laws of Deception\" (1997).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition, he has produced several movies, including \"The Last Time I Committed Suicide\" (1997) and \"Laws of Deception\" (1997)."
+    },
+    {
+      "prefix_original": "As an AI language model, I do not have access to up-to-date information about individuals. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows. Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000). Parker has also worked as a director and producer in the entertainment industry. He has directed several episodes of TV shows, including \"The Division\" and \"The Shield\". In addition, he has produced several movies, including \"The Last Time I Committed Suicide\" (1997) and \"Laws of Deception\" (1997).",
+      "prefix_new": "As an AI language model, my information about individuals may not be up-to-date. However, I can provide you with some general information about Corey Parker, the actor. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the 1980s and appeared in several popular movies and TV shows. Some of his notable roles include Roger in \"Biloxi Blues\" (1988), Jimmy in \"How I Got into College\" (1989), and Buzz Gunderson in \"Party of Five\" (1994-2000). Parker has also worked as a director and producer in the entertainment industry. He has directed several episodes of TV shows, including \"The Division\" and \"The Shield\". In addition, he has produced several movies, including \"The Last Time I Committed Suicide\" (1997) and \"Laws of Deception\" (1997).",
+      "sent_orig": "Overall, Corey Parker has had a successful career in the entertainment industry and has made significant contributions as an actor, director, and producer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Corey Parker has had a successful career in the entertainment industry and has made significant contributions as an actor, director, and producer."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ke Apon Ke Por is a Gujarati play written by K. M. Munshi.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Gujarati play written by K. M. Munshi.",
+      "prefix_new": "",
+      "sent_orig": "It tells the story of two friends, Apon and Por, who embark on a journey to find the meaning of life.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Gujarati play written by K. M. Munshi. It tells the story of two friends, Apon and Por, who embark on a journey to find the meaning of life.",
+      "prefix_new": "",
+      "sent_orig": "Along the way, they encounter various obstacles and challenges, but eventually find enlightenment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Along the way, they encounter various obstacles and challenges, but eventually find enlightenment."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Gujarati play written by K. M. Munshi. It tells the story of two friends, Apon and Por, who embark on a journey to find the meaning of life. Along the way, they encounter various obstacles and challenges, but eventually find enlightenment.",
+      "prefix_new": "Along the way, they encounter various obstacles and challenges, but eventually find enlightenment.",
+      "sent_orig": "The play is considered a classic of Gujarati literature and has been widely performed and translated.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a classic of Gujarati literature",
+            "has been widely performed",
+            ""
+          ],
+          "It is considered a classic of Gujarati literature and has been widely performed throughout the world.",
+          "The play is considered a classic of Gujarati literature."
+        ]
+      ],
+      "sent_new": "The play is considered a classic of Gujarati literature."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Hydrophasianus",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Hydrophasianus is a genus of duck native to Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hydrophasianus is a genus of duck native to Asia."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of duck native to Asia.",
+      "prefix_new": "Hydrophasianus is a genus of duck native to Asia.",
+      "sent_orig": "The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The genus",
+            "includes",
+            "two species: the bronze-winged duck"
+          ],
+          "The genus includes only one species, the White-winged duck.",
+          "The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps)."
+        ]
+      ],
+      "sent_new": "The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps)."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps).",
+      "prefix_new": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps).",
+      "sent_orig": "Both species are endangered due to habitat loss and hunting.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Both species are endangered due to habitat loss and hunting."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps). Both species are endangered due to habitat loss and hunting.",
+      "prefix_new": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps). Both species are endangered due to habitat loss and hunting.",
+      "sent_orig": "The bronze-winged duck is found in Southeast Asia while the white-winged duck is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The bronze-winged duck is found in Southeast Asia while the white-winged duck is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps). Both species are endangered due to habitat loss and hunting. The bronze-winged duck is found in Southeast Asia while the white-winged duck is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam.",
+      "prefix_new": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps). Both species are endangered due to habitat loss and hunting. The bronze-winged duck is found in Southeast Asia while the white-winged duck is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam.",
+      "sent_orig": "These ducks are characterized by their dark, glossy feathers and distinctive markings on their wings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These ducks are characterized by their dark, glossy feathers and distinctive markings on their wings."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps). Both species are endangered due to habitat loss and hunting. The bronze-winged duck is found in Southeast Asia while the white-winged duck is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam. These ducks are characterized by their dark, glossy feathers and distinctive markings on their wings.",
+      "prefix_new": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps). Both species are endangered due to habitat loss and hunting. The bronze-winged duck is found in Southeast Asia while the white-winged duck is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam. These ducks are characterized by their dark, glossy feathers and distinctive markings on their wings.",
+      "sent_orig": "They mainly feed on aquatic plants and insects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They mainly feed on aquatic plants and insects."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps). Both species are endangered due to habitat loss and hunting. The bronze-winged duck is found in Southeast Asia while the white-winged duck is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam. These ducks are characterized by their dark, glossy feathers and distinctive markings on their wings. They mainly feed on aquatic plants and insects.",
+      "prefix_new": "Hydrophasianus is a genus of duck native to Asia. The genus includes two species: the bronze-winged duck (Hydrophasianus chrysogaster) and the white-winged duck (Hydrophasianus nigriceps). Both species are endangered due to habitat loss and hunting. The bronze-winged duck is found in Southeast Asia while the white-winged duck is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam. These ducks are characterized by their dark, glossy feathers and distinctive markings on their wings. They mainly feed on aquatic plants and insects.",
+      "sent_orig": "Conservation efforts are underway to protect and increase populations of both species.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Conservation efforts are underway to protect and increase populations of both species."
+    }
+  ]
+}

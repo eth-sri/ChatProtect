@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about Homer Simpson",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\"."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\".",
+      "prefix_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\".",
+      "sent_orig": "He is portrayed as a lazy, overweight, and somewhat inept but lovable father figure who works as a nuclear power plant safety inspector.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is portrayed as a lazy, overweight, and somewhat inept but lovable father figure who works as a nuclear power plant safety inspector."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\". He is portrayed as a lazy, overweight, and somewhat inept but lovable father figure who works as a nuclear power plant safety inspector.",
+      "prefix_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\". He is portrayed as a lazy, overweight, and somewhat inept but lovable father figure who works as a nuclear power plant safety inspector.",
+      "sent_orig": "Homer is known for his bushy brown hair, blue beer glasses, and his distinctive catchphrase \"D'oh!\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Homer is known for his bushy brown hair, blue beer glasses, and his distinctive catchphrase \"D'oh!\"."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\". He is portrayed as a lazy, overweight, and somewhat inept but lovable father figure who works as a nuclear power plant safety inspector. Homer is known for his bushy brown hair, blue beer glasses, and his distinctive catchphrase \"D'oh!\".",
+      "prefix_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\". He is portrayed as a lazy, overweight, and somewhat inept but lovable father figure who works as a nuclear power plant safety inspector. Homer is known for his bushy brown hair, blue beer glasses, and his distinctive catchphrase \"D'oh!\".",
+      "sent_orig": "He is married to Marge Simpson and has three children, Bart, Lisa, and Maggie.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is married to Marge Simpson and has three children, Bart, Lisa, and Maggie."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\". He is portrayed as a lazy, overweight, and somewhat inept but lovable father figure who works as a nuclear power plant safety inspector. Homer is known for his bushy brown hair, blue beer glasses, and his distinctive catchphrase \"D'oh!\". He is married to Marge Simpson and has three children, Bart, Lisa, and Maggie.",
+      "prefix_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\". He is portrayed as a lazy, overweight, and somewhat inept but lovable father figure who works as a nuclear power plant safety inspector. Homer is known for his bushy brown hair, blue beer glasses, and his distinctive catchphrase \"D'oh!\". He is married to Marge Simpson and has three children, Bart, Lisa, and Maggie.",
+      "sent_orig": "Homer is heavily based on the character of Everett Bogue (originally named \"Bartholomew\" in early sketches) from Matt Groening's previous comic strip \"Life in Hell\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Homer is heavily based on the character of Everett Bogue (originally named \"Bartholomew\" in early sketches) from Matt Groening's previous comic strip \"Life in Hell\"."
+    }
+  ]
+}

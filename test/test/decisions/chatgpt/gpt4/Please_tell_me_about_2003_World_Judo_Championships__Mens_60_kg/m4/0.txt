@@ -1,0 +1,113 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan.",
+      "sent_orig": "This event took place at the Osaka Municipal Central Gymnasium.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This event took place at the Osaka Municipal Central Gymnasium."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium.",
+      "sent_orig": "The competitors in this category were male judokas weighing up to 60 kg (132 lbs).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The competitors in this category were male judokas weighing up to 60 kg (132 lbs)."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs).",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs).",
+      "sent_orig": "The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "kg category",
+            "was won",
+            "by Tadahiro Nomura from Japan."
+          ],
+          "The Men's 60 kg category was won by Hiroshi Izumi of Japan.",
+          "Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category."
+        ]
+      ],
+      "sent_new": "Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category.",
+      "sent_orig": "Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category.",
+      "sent_orig": "This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999.",
+      "sent_orig": "He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999. He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999. He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics.",
+      "sent_orig": "The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The bronze medals in this",
+            "were awarded",
+            "to Nestor Khergiani of Georgia and Ludwig Paischer of Austria."
+          ],
+          "The bronze medals in this category were awarded to Ludwig Paischer from Austria and Yordanis Arencibia from Cuba.",
+          "The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria."
+        ]
+      ],
+      "sent_new": "The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999. He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics. The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999. He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics. The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria.",
+      "sent_orig": "Khergiani and Paischer won their respective final matches in the Repechage round to earn the bronze medals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Khergiani and Paischer won their respective final matches in the Repechage round to earn the bronze medals."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999. He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics. The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria. Khergiani and Paischer won their respective final matches in the Repechage round to earn the bronze medals.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999. He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics. The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria. Khergiani and Paischer won their respective final matches in the Repechage round to earn the bronze medals.",
+      "sent_orig": "The 2003 World Judo Championships showcased the best judokas from around the world and provided a high level of competition for all participants.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships showcased the best judokas from around the world and provided a high level of competition for all participants."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999. He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics. The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria. Khergiani and Paischer won their respective final matches in the Repechage round to earn the bronze medals. The 2003 World Judo Championships showcased the best judokas from around the world and provided a high level of competition for all participants.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg category is a judo competition held as part of the 2003 World Judo Championships in Osaka, Japan. This event took place at the Osaka Municipal Central Gymnasium. The competitors in this category were male judokas weighing up to 60 kg (132 lbs). Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. Tadahiro Nomura from Japan won the gold medal in the Men's 60 kg category. This was the third time that Nomura won a World Championship title in this weight class, having previously won in 1997 and 1999. He was also an Olympic champion, having won three consecutive gold medals from the 1996 to the 2004 Summer Olympics. The bronze medals in this category were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria. Khergiani and Paischer won their respective final matches in the Repechage round to earn the bronze medals. The 2003 World Judo Championships showcased the best judokas from around the world and provided a high level of competition for all participants.",
+      "sent_orig": "The Men's 60 kg category was one of the most exciting weight classes in the tournament, filled with intense matches and exceptional talents.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Men's 60 kg category was one of the most exciting weight classes in the tournament, filled with intense matches and exceptional talents."
+    }
+  ]
+}

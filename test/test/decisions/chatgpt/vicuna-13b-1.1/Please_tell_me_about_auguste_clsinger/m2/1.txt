@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about auguste cl\u00e9singer",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century.",
+      "sent_orig": "He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris.",
+      "sent_orig": "Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity.",
+      "sent_orig": "Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta.",
+      "sent_orig": "One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "One of his most famous works",
+            "is depicts",
+            "walking with a cane."
+          ],
+          "One of his most famous works is a sculpture of a woman and child, depicting \"The Wishing Column\".",
+          "One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane."
+        ]
+      ],
+      "sent_new": "One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane.",
+      "sent_orig": "This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane. This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane. This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics.",
+      "sent_orig": "Cl\u00e9singer was also known for his portrait busts, which he executed in a realistic style.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cl\u00e9singer was also known for his portrait busts, which he executed in a realistic style."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane. This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics. Cl\u00e9singer was also known for his portrait busts, which he executed in a realistic style.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane. This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics. Cl\u00e9singer was also known for his portrait busts, which he executed in a realistic style.",
+      "sent_orig": "He received several commissions for public monuments, including a statue of Napoleon I in the Place de la Concorde in Paris and a monument to the Duke of Bordeaux in the city of Bordeaux.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He received several commissions for public monuments, including a statue of Napoleon I in the Place de la Concorde in Paris and a monument to the Duke of Bordeaux in the city of Bordeaux."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane. This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics. Cl\u00e9singer was also known for his portrait busts, which he executed in a realistic style. He received several commissions for public monuments, including a statue of Napoleon I in the Place de la Concorde in Paris and a monument to the Duke of Bordeaux in the city of Bordeaux.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane. This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics. Cl\u00e9singer was also known for his portrait busts, which he executed in a realistic style. He received several commissions for public monuments, including a statue of Napoleon I in the Place de la Concorde in Paris and a monument to the Duke of Bordeaux in the city of Bordeaux.",
+      "sent_orig": "Cl\u00e9singer was a member of the Acad\u00e9mie fran\u00e7aise and was appointed as an officer of the Legion of Honor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cl\u00e9singer was a member of the Acad\u00e9mie fran\u00e7aise and was appointed as an officer of the Legion of Honor."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane. This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics. Cl\u00e9singer was also known for his portrait busts, which he executed in a realistic style. He received several commissions for public monuments, including a statue of Napoleon I in the Place de la Concorde in Paris and a monument to the Duke of Bordeaux in the city of Bordeaux. Cl\u00e9singer was a member of the Acad\u00e9mie fran\u00e7aise and was appointed as an officer of the Legion of Honor.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was known for his work in the 19th century. He was born in Strasbourg, France and studied at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer was a proponent of the neoclassical style of sculpture, which was characterized by its focus on the idealized human form and its adherence to the principles of classical antiquity. Cl\u00e9singer gained recognition for his works in a variety of materials, including marble, bronze, and terracotta. One of his most famous works is the marble sculpture of the \"Walking Man,\" which depicts a man in a contemporary suit walking with a cane. This sculpture is considered a masterpiece of the neoclassical style, and it was exhibited at the Salon of 1843, where it was highly praised by the critics. Cl\u00e9singer was also known for his portrait busts, which he executed in a realistic style. He received several commissions for public monuments, including a statue of Napoleon I in the Place de la Concorde in Paris and a monument to the Duke of Bordeaux in the city of Bordeaux. Cl\u00e9singer was a member of the Acad\u00e9mie fran\u00e7aise and was appointed as an officer of the Legion of Honor.",
+      "sent_orig": "He was also a professor at the \u00c9cole des Beaux-Arts, where he taught for many years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a professor at the \u00c9cole des Beaux-Arts, where he taught for many years."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "prompt": "Please tell me about Ecologist Party for the Development of Burkina",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso.",
+      "sent_orig": "The party was founded in 2005 by a group of ecologists, activists, and intellectuals who were dissatisfied with the political status quo and wanted to promote a more ecologically sustainable and socially just development model in the country.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The party",
+            "was founded",
+            ""
+          ],
+          "The party was founded in 2012.",
+          "The party was founded by a group of ecologists, activists, and intellectuals who wanted to promote a more ecologically sustainable and socially just development model in the country."
+        ],
+        [
+          [
+            "activists, and intellectuals",
+            "were",
+            "dissatisfied with the political status quo"
+          ],
+          "activists and intellectuals formed the party in 2010",
+          "The party was founded by a group of ecologists who wanted to promote a more ecologically sustainable and socially just development model in the country."
+        ]
+      ],
+      "sent_new": "The party was founded by a group of ecologists who wanted to promote a more ecologically sustainable and socially just development model in the country."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded in 2005 by a group of ecologists, activists, and intellectuals who were dissatisfied with the political status quo and wanted to promote a more ecologically sustainable and socially just development model in the country.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded by a group of ecologists who wanted to promote a more ecologically sustainable and socially just development model in the country.",
+      "sent_orig": "The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded in 2005 by a group of ecologists, activists, and intellectuals who were dissatisfied with the political status quo and wanted to promote a more ecologically sustainable and socially just development model in the country. The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded by a group of ecologists who wanted to promote a more ecologically sustainable and socially just development model in the country. The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities.",
+      "sent_orig": "The party also emphasizes the importance of education, culture, and participatory democracy, and it seeks to create a more inclusive political system that allows for the full expression of citizens' needs and aspirations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The party also emphasizes the importance of education, culture, and participatory democracy, and it seeks to create a more inclusive political system that allows for the full expression of citizens' needs and aspirations."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded in 2005 by a group of ecologists, activists, and intellectuals who were dissatisfied with the political status quo and wanted to promote a more ecologically sustainable and socially just development model in the country. The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities. The party also emphasizes the importance of education, culture, and participatory democracy, and it seeks to create a more inclusive political system that allows for the full expression of citizens' needs and aspirations.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded by a group of ecologists who wanted to promote a more ecologically sustainable and socially just development model in the country. The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities. The party also emphasizes the importance of education, culture, and participatory democracy, and it seeks to create a more inclusive political system that allows for the full expression of citizens' needs and aspirations.",
+      "sent_orig": "In the 2012 and 2019 legislative elections, the PEDB won a total of three seats in the National Assembly, making it one of the smaller parties in the Burkinabe political landscape.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the 2012 and 2019 legislative elections, the PEDB won a total of three seats in the National Assembly, making it one of the smaller parties in the Burkinabe political landscape."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded in 2005 by a group of ecologists, activists, and intellectuals who were dissatisfied with the political status quo and wanted to promote a more ecologically sustainable and socially just development model in the country. The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities. The party also emphasizes the importance of education, culture, and participatory democracy, and it seeks to create a more inclusive political system that allows for the full expression of citizens' needs and aspirations. In the 2012 and 2019 legislative elections, the PEDB won a total of three seats in the National Assembly, making it one of the smaller parties in the Burkinabe political landscape.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded by a group of ecologists who wanted to promote a more ecologically sustainable and socially just development model in the country. The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities. The party also emphasizes the importance of education, culture, and participatory democracy, and it seeks to create a more inclusive political system that allows for the full expression of citizens' needs and aspirations. In the 2012 and 2019 legislative elections, the PEDB won a total of three seats in the National Assembly, making it one of the smaller parties in the Burkinabe political landscape.",
+      "sent_orig": "However, the party has managed to build a significant presence in local governments, particularly in rural areas, where its ecological and development priorities have resonated with many voters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, the party has managed to build a significant presence in local governments, particularly in rural areas, where its ecological and development priorities have resonated with many voters."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded in 2005 by a group of ecologists, activists, and intellectuals who were dissatisfied with the political status quo and wanted to promote a more ecologically sustainable and socially just development model in the country. The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities. The party also emphasizes the importance of education, culture, and participatory democracy, and it seeks to create a more inclusive political system that allows for the full expression of citizens' needs and aspirations. In the 2012 and 2019 legislative elections, the PEDB won a total of three seats in the National Assembly, making it one of the smaller parties in the Burkinabe political landscape. However, the party has managed to build a significant presence in local governments, particularly in rural areas, where its ecological and development priorities have resonated with many voters.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (Parti Ecologiste pour le D\u00e9veloppement de Burkina, PEDB) is a political party in Burkina Faso. The party was founded by a group of ecologists who wanted to promote a more ecologically sustainable and socially just development model in the country. The PEDB is committed to promoting ecological practices and protecting the environment, and it seeks to build a more equitable and democratic society that prioritizes the needs of marginalized communities. The party also emphasizes the importance of education, culture, and participatory democracy, and it seeks to create a more inclusive political system that allows for the full expression of citizens' needs and aspirations. In the 2012 and 2019 legislative elections, the PEDB won a total of three seats in the National Assembly, making it one of the smaller parties in the Burkinabe political landscape. However, the party has managed to build a significant presence in local governments, particularly in rural areas, where its ecological and development priorities have resonated with many voters.",
+      "sent_orig": "Overall, the PEDB represents an important voice in Burkinabe politics, and it continues to advocate for a more sustainable and just development model that prioritizes the needs of all citizens, especially those in marginalized communities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the PEDB represents an important voice in Burkinabe politics, and it continues to advocate for a more sustainable and just development model that prioritizes the needs of all citizens, especially those in marginalized communities."
+    }
+  ]
+}

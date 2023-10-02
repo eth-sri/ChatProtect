@@ -1,0 +1,83 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Pattimura Stadium",
+            "is",
+            "a multi-purpose stadium"
+          ],
+          " Pattimura Stadium is a multi-purpose stadium located in Jakarta, Indonesia.",
+          "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia."
+        ]
+      ],
+      "sent_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "sent_orig": "It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century.",
+      "sent_orig": "The stadium was built in 1954 and has a seating capacity of 15,000 spectators.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The stadium",
+            "has",
+            "a seating capacity of"
+          ],
+          " The stadium has a seating capacity of 20,000 spectators.",
+          "The stadium has a seating capacity of 15,000 spectators."
+        ]
+      ],
+      "sent_new": "The stadium has a seating capacity of 15,000 spectators."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was built in 1954 and has a seating capacity of 15,000 spectators.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium has a seating capacity of 15,000 spectators.",
+      "sent_orig": "It is primarily used for football matches, but it has also hosted other events such as concerts, festivals, and religious gatherings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is primarily used for football matches, but it has also hosted other events such as concerts, festivals, and religious gatherings."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was built in 1954 and has a seating capacity of 15,000 spectators. It is primarily used for football matches, but it has also hosted other events such as concerts, festivals, and religious gatherings.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium has a seating capacity of 15,000 spectators. It is primarily used for football matches, but it has also hosted other events such as concerts, festivals, and religious gatherings.",
+      "sent_orig": "The stadium is owned and managed by the Government of Maluku Province and has undergone several renovations over the years to improve its facilities and infrastructure.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The stadium",
+            "owned managed",
+            "by the Government of"
+          ],
+          " The stadium is owned and managed by the Ministry of Youth and Sports Affairs.",
+          "The stadium has undergone several renovations over the years to improve its facilities and infrastructure."
+        ]
+      ],
+      "sent_new": "The stadium has undergone several renovations over the years to improve its facilities and infrastructure."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was built in 1954 and has a seating capacity of 15,000 spectators. It is primarily used for football matches, but it has also hosted other events such as concerts, festivals, and religious gatherings. The stadium is owned and managed by the Government of Maluku Province and has undergone several renovations over the years to improve its facilities and infrastructure.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium has a seating capacity of 15,000 spectators. It is primarily used for football matches, but it has also hosted other events such as concerts, festivals, and religious gatherings. The stadium has undergone several renovations over the years to improve its facilities and infrastructure.",
+      "sent_orig": "It is a popular venue for sports and entertainment in Ambon and surrounding areas, and has played host to various national and international events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a popular venue for sports and entertainment in Ambon and surrounding areas, and has played host to various national and international events."
+    }
+  ]
+}

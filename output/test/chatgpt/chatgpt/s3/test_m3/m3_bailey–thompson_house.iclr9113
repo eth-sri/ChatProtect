@@ -1,0 +1,131 @@
+test/test/sentences/chatgpt/bailey–thompson_house/m3/m3_1_4_0.txt
+Q: I give you the beginning of a description about Bailey–Thompson House.
+Then follow two statements.
+
+Description:
+The Bailey-Thompson House is a historic house. The Bailey-Thompson House was built by Dr. Jesse Bailey in Talladega, Alabama. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman.
+
+Statement 1:
+Thompson made several modifications to the house, including installing gas lighting.
+
+Statement 2:
+Thompson made several additions to the house, including a two-story rear wing and a carriage house.
+
+Please explain whether the statements about Bailey–Thompson House are contradictory.
+Provide your explanation only.
+
+A: The statements about Bailey-Thompson House are not contradictory. While statement 1 mentions modifications made by Thompson, statement 2 mentions additions made by him. Both statements are consistent with the fact that Thompson made changes to the original structure of the house.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+label: ok
+score: 0.0
+cost: 486
+test/test/sentences/chatgpt/bailey–thompson_house/m3/m3_2_4_0.txt
+Q: I give you the beginning of a description about Bailey–Thompson House.
+Then follow two statements.
+
+Description:
+It was built by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home was purchased by the Bailey-Thompson family and remained in their possession for over a century. They added a two-story wing to the rear of the home.
+
+Statement 1:
+The Bailey-Thompson House was donated by the Thompson family.
+
+Statement 2:
+The Bailey-Thompson House was donated to the city in 1998 and is now open to the public as a museum.
+
+Please explain whether the statements about Bailey–Thompson House are contradictory.
+Provide your explanation only.
+
+A: The statements about Bailey-Thompson House are not contradictory. Statement 2 provides additional information about the current status of the house, stating that it was donated to the city and is now open to the public as a museum. Statement 1 does not provide any information about the current status of the house, but simply states that it was owned by the Bailey-Thompson family. Therefore, both statements can be true without contradicting each other.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No. The statements are not contradictory.
+A: No.
+A: No, the statements are not contradictory.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 570
+test/test/sentences/chatgpt/bailey–thompson_house/m3/m3_2_0_0.txt
+Q: I give you the beginning of a description about Bailey–Thompson House.
+Then follow two statements.
+
+Description:
+
+
+Statement 1:
+It was built by William G. Ponder, a prominent contractor in the area.
+
+Statement 2:
+It was built in 1906 and is located in Knoxville, Tennessee.
+
+Please explain whether the statements about Bailey–Thompson House are contradictory.
+Provide your explanation only.
+
+A: The statements about Bailey-Thompson House are not contradictory. Statement 1 provides information about the builder of the house, while Statement 2 provides information about the year it was built and its location. Both statements can be true at the same time.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 318
+test/test/sentences/chatgpt/bailey–thompson_house/m3/m3_1_0_0.txt
+Q: I give you the beginning of a description about Bailey–Thompson House.
+Then follow two statements.
+
+Description:
+
+
+Statement 1:
+The Bailey-Thompson House is a historic house.
+
+Statement 2:
+The Bailey-Thompson House is a historic home located in Madison, Georgia.
+
+Please explain whether the statements about Bailey–Thompson House are contradictory.
+Provide your explanation only.
+
+A: The statements about Bailey-Thompson House are not contradictory. Statement 1 provides a general description of the house as being historic, while statement 2 adds more specific information about its location in Madison, Georgia. Both statements can be true at the same time.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No. The statements are not contradictory.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 314
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=170, completion_tokens=49), Usage(prompt_tokens=241, completion_tokens=26), Usage(prompt_tokens=168, completion_tokens=87), Usage(prompt_tokens=277, completion_tokens=38), Usage(prompt_tokens=89, completion_tokens=49), Usage(prompt_tokens=160, completion_tokens=20), Usage(prompt_tokens=82, completion_tokens=51), Usage(prompt_tokens=155, completion_tokens=26)]
+1342
+346
+1688
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

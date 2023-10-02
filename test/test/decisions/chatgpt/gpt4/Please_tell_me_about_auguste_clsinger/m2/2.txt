@@ -1,0 +1,131 @@
+{
+  "prompt": "Please tell me about auguste cl\u00e9singer",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a French sculptor and painter",
+            "famous",
+            "for his works in neoclassical style."
+          ],
+          "Auguste Cl\u00e9singer, a French sculptor and painter, is famous for his realistic and detailed sculptures of human figures.",
+          "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style."
+        ]
+      ],
+      "sent_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style.",
+      "sent_orig": "Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers.",
+      "sent_orig": "His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures.",
+      "sent_orig": "Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Auguste",
+            "first gained",
+            "recognition for his sculpture of a reclining Bacchante"
+          ],
+          "Auguste first gained recognition for his sculpture \"Woman bitten by a snake,\" which was exhibited at the Paris Salon in 1847.",
+          "Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum."
+        ]
+      ],
+      "sent_new": "Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum.",
+      "sent_orig": "During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work.",
+      "sent_orig": "His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\").",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "His most notable pieces",
+            "include",
+            "\"Les"
+          ],
+          "His most notable pieces include the bronze sculpture \"Woman bitten by a snake\" and the marble sculpture \"The Kiss\", which is now housed in the Mus\u00e9e d'Orsay in Paris.",
+          "His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\")."
+        ]
+      ],
+      "sent_new": "His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\")."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\").",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\").",
+      "sent_orig": "Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects.",
+      "sent_orig": "As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects. As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects. As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement.",
+      "sent_orig": "Personal life-wise, Cl\u00e9singer married Romantic novelist George Sand's daughter, Solange Dudevant, in 1847, and through their marriage, Cl\u00e9singer eventually developed a close relationship with Sand.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Personal life-wise, Cl\u00e9singer married Romantic novelist George Sand's daughter, Solange Dudevant, in 1847, and through their marriage, Cl\u00e9singer eventually developed a close relationship with Sand."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects. As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement. Personal life-wise, Cl\u00e9singer married Romantic novelist George Sand's daughter, Solange Dudevant, in 1847, and through their marriage, Cl\u00e9singer eventually developed a close relationship with Sand.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects. As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement. Personal life-wise, Cl\u00e9singer married Romantic novelist George Sand's daughter, Solange Dudevant, in 1847, and through their marriage, Cl\u00e9singer eventually developed a close relationship with Sand.",
+      "sent_orig": "Some controversies surround his work, particularly Cl\u00e9singer's anatomical precision and realistic approach.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some controversies surround his work, particularly Cl\u00e9singer's anatomical precision and realistic approach."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects. As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement. Personal life-wise, Cl\u00e9singer married Romantic novelist George Sand's daughter, Solange Dudevant, in 1847, and through their marriage, Cl\u00e9singer eventually developed a close relationship with Sand. Some controversies surround his work, particularly Cl\u00e9singer's anatomical precision and realistic approach.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects. As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement. Personal life-wise, Cl\u00e9singer married Romantic novelist George Sand's daughter, Solange Dudevant, in 1847, and through their marriage, Cl\u00e9singer eventually developed a close relationship with Sand. Some controversies surround his work, particularly Cl\u00e9singer's anatomical precision and realistic approach.",
+      "sent_orig": "Memorable instances include the life-sized statue 'Woman Bitten by a Snake' (1847), which caused a great scandal for its erotic and realistic representation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Memorable instances include the life-sized statue 'Woman Bitten by a Snake' (1847), which caused a great scandal for its erotic and realistic representation."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter famous for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste first gained recognition for his sculpture of a reclining Bacchante (1844) in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects. As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement. Personal life-wise, Cl\u00e9singer married Romantic novelist George Sand's daughter, Solange Dudevant, in 1847, and through their marriage, Cl\u00e9singer eventually developed a close relationship with Sand. Some controversies surround his work, particularly Cl\u00e9singer's anatomical precision and realistic approach. Memorable instances include the life-sized statue 'Woman Bitten by a Snake' (1847), which caused a great scandal for its erotic and realistic representation.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor and painter known for his works in neoclassical style. Born in Besan\u00e7on, France, to a Swiss sculptor named Jean-Baptiste Cl\u00e9singer, Auguste went on to study under his father and fellow French sculptor David d'Angers. His works mainly feature subjects from ancient mythology, religious themes, and portrait sculptures. Auguste gained recognition for his sculpture of a reclining Bacchante in the Louvre Museum. During his career, Cl\u00e9singer created numerous bronze and marble sculptures which include busts, bas-reliefs, and decorative work. His most notable pieces include \"Les Combat des Centares\" (\"The Fight of the Centaurs\"), \"V\u00e9nus Bless\u00e9e\" (\"The Wounded Venus\"), \"Dalila,\" and \"Le Faune\"( \"the Faun\"). Apart from his career in sculpture, Auguste also painted several pictures in historical and modern subjects. As a sculptor, he was more successful and notable for his significant influence on the neoclassical movement. Personal life-wise, Cl\u00e9singer married Romantic novelist George Sand's daughter, Solange Dudevant, in 1847, and through their marriage, Cl\u00e9singer eventually developed a close relationship with Sand. Some controversies surround his work, particularly Cl\u00e9singer's anatomical precision and realistic approach. Memorable instances include the life-sized statue 'Woman Bitten by a Snake' (1847), which caused a great scandal for its erotic and realistic representation.",
+      "sent_orig": "Despite these criticisms, Cl\u00e9singer continued to work in his distinct style, securing commissions throughout his career.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite these criticisms, Cl\u00e9singer continued to work in his distinct style, securing commissions throughout his career."
+    }
+  ]
+}

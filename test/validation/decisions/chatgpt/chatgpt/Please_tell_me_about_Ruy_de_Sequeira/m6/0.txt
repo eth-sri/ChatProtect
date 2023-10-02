@@ -1,0 +1,91 @@
+{
+  "prompt": "Please tell me about Ruy de Sequeira",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula."
+    },
+    {
+      "prefix_original": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula.",
+      "prefix_new": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula.",
+      "sent_orig": "He arrived in Malacca with a fleet of four ships and was welcomed by the Sultan, who allowed him to establish a Portuguese factory (trading post) in the city.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "arrived",
+            "with a fleet of four ships"
+          ],
+          "The statements about Ruy de Sequeira are contradictory. Statement 1 states that he was welcomed by the Sultan and allowed to establish a Portuguese factory in Malacca, while statement 2 says that his attempts to establish trade relations were met with resistance. These two statements cannot both be true at the same time.\n",
+          "He arrived in Malacca with a fleet of eight ships, but his initial attempts to establish trade relations were met with resistance from the Sultan.",
+          "He arrived in Malacca with a fleet of four ships and established a Portuguese factory in the city."
+        ]
+      ],
+      "sent_new": "He arrived in Malacca with a fleet of four ships and established a Portuguese factory in the city."
+    },
+    {
+      "prefix_original": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and was welcomed by the Sultan, who allowed him to establish a Portuguese factory (trading post) in the city.",
+      "prefix_new": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and established a Portuguese factory in the city.",
+      "sent_orig": "Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders."
+    },
+    {
+      "prefix_original": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and was welcomed by the Sultan, who allowed him to establish a Portuguese factory (trading post) in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders.",
+      "prefix_new": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and established a Portuguese factory in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders.",
+      "sent_orig": "In 1510, Sequeira was replaced by Afonso de Albuquerque as the governor of Portuguese India, but he continued to serve as a navigator and explorer.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "continued to serve",
+            "as a navigator and explorer."
+          ],
+          "Yes, the statements about Ruy de Sequeira are contradictory. Statement 1 says that he was replaced by Afonso de Albuquerque as the governor of Portuguese India in 1510 but continued to serve as a navigator and explorer. However, statement 2 says that he served as the governor of Portuguese India until 1512 when he was succeeded by Afonso de Albuquerque. These two statements cannot both be true at the same time.\n",
+          "He continued to serve as the governor of Portuguese India until 1512, when he was succeeded by Afonso de Albuquerque.",
+          "In 1510, Sequeira was succeeded by Afonso de Albuquerque as the governor of Portuguese India."
+        ]
+      ],
+      "sent_new": "In 1510, Sequeira was succeeded by Afonso de Albuquerque as the governor of Portuguese India."
+    },
+    {
+      "prefix_original": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and was welcomed by the Sultan, who allowed him to establish a Portuguese factory (trading post) in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders. In 1510, Sequeira was replaced by Afonso de Albuquerque as the governor of Portuguese India, but he continued to serve as a navigator and explorer.",
+      "prefix_new": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and established a Portuguese factory in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders. In 1510, Sequeira was succeeded by Afonso de Albuquerque as the governor of Portuguese India.",
+      "sent_orig": "He participated in the conquest of Goa in 1510 and the capture of the island of Socotra in 1507.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He participated in the conquest of Goa in 1510 and the capture of the island of Socotra in 1507."
+    },
+    {
+      "prefix_original": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and was welcomed by the Sultan, who allowed him to establish a Portuguese factory (trading post) in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders. In 1510, Sequeira was replaced by Afonso de Albuquerque as the governor of Portuguese India, but he continued to serve as a navigator and explorer. He participated in the conquest of Goa in 1510 and the capture of the island of Socotra in 1507.",
+      "prefix_new": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and established a Portuguese factory in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders. In 1510, Sequeira was succeeded by Afonso de Albuquerque as the governor of Portuguese India. He participated in the conquest of Goa in 1510 and the capture of the island of Socotra in 1507.",
+      "sent_orig": "He also explored the Red Sea and the coast of East Africa, and made contact with the ruler of Ethiopia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also explored the Red Sea and the coast of East Africa, and made contact with the ruler of Ethiopia."
+    },
+    {
+      "prefix_original": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and was welcomed by the Sultan, who allowed him to establish a Portuguese factory (trading post) in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders. In 1510, Sequeira was replaced by Afonso de Albuquerque as the governor of Portuguese India, but he continued to serve as a navigator and explorer. He participated in the conquest of Goa in 1510 and the capture of the island of Socotra in 1507. He also explored the Red Sea and the coast of East Africa, and made contact with the ruler of Ethiopia.",
+      "prefix_new": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and established a Portuguese factory in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders. In 1510, Sequeira was succeeded by Afonso de Albuquerque as the governor of Portuguese India. He participated in the conquest of Goa in 1510 and the capture of the island of Socotra in 1507. He also explored the Red Sea and the coast of East Africa, and made contact with the ruler of Ethiopia.",
+      "sent_orig": "Sequeira is considered one of the most important Portuguese explorers of the early 16th century, and his expeditions paved the way for the Portuguese colonization of the East Indies.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sequeira is considered one of the most important Portuguese explorers of the early 16th century, and his expeditions paved the way for the Portuguese colonization of the East Indies."
+    },
+    {
+      "prefix_original": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and was welcomed by the Sultan, who allowed him to establish a Portuguese factory (trading post) in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders. In 1510, Sequeira was replaced by Afonso de Albuquerque as the governor of Portuguese India, but he continued to serve as a navigator and explorer. He participated in the conquest of Goa in 1510 and the capture of the island of Socotra in 1507. He also explored the Red Sea and the coast of East Africa, and made contact with the ruler of Ethiopia. Sequeira is considered one of the most important Portuguese explorers of the early 16th century, and his expeditions paved the way for the Portuguese colonization of the East Indies.",
+      "prefix_new": "In 1509, Sequeira was sent by King Manuel I of Portugal to establish trade relations with the Sultan of Malacca, a strategic port city on the Malay Peninsula. He arrived in Malacca with a fleet of four ships and established a Portuguese factory in the city. Sequeira also explored the nearby islands of Sumatra and Java, and made contact with local rulers and traders. In 1510, Sequeira was succeeded by Afonso de Albuquerque as the governor of Portuguese India. He participated in the conquest of Goa in 1510 and the capture of the island of Socotra in 1507. He also explored the Red Sea and the coast of East Africa, and made contact with the ruler of Ethiopia. Sequeira is considered one of the most important Portuguese explorers of the early 16th century, and his expeditions paved the way for the Portuguese colonization of the East Indies.",
+      "sent_orig": "He died around 1530, and his legacy is celebrated in Portugal and in the countries he explored.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He died around 1530, and his legacy is celebrated in Portugal and in the countries he explored."
+    }
+  ]
+}

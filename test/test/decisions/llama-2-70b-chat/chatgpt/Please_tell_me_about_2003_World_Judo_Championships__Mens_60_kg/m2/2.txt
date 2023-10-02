@@ -1,0 +1,94 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003.",
+      "sent_orig": "It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF)."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF).",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF).",
+      "sent_orig": "The tournament featured men's judo competition in the 60 kg weight category.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The tournament featured men's judo competition in the 60 kg weight category."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category.",
+      "sent_orig": "It was contested by 46 judokas from different countries.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was contested",
+            "by 46 judokas from different countries."
+          ],
+          "It was contested by 47 judokas from 47 countries.",
+          "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003."
+        ]
+      ],
+      "sent_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. It was contested by 46 judokas from different countries.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003.",
+      "sent_orig": "The competition followed a single-elimination format, with the winner being decided after reaching the finals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The competition followed a single-elimination format, with the winner being decided after reaching the finals."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. It was contested by 46 judokas from different countries. The competition followed a single-elimination format, with the winner being decided after reaching the finals.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The competition followed a single-elimination format, with the winner being decided after reaching the finals.",
+      "sent_orig": "The gold medal was won by Hiroshi Izumi of Japan, who defeated Ludwig Paischer of Austria in the final by ippon (a full point).",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. It was contested by 46 judokas from different countries. The competition followed a single-elimination format, with the winner being decided after reaching the finals. The gold medal was won by Hiroshi Izumi of Japan, who defeated Ludwig Paischer of Austria in the final by ippon (a full point).",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The competition followed a single-elimination format, with the winner being decided after reaching the finals.",
+      "sent_orig": "The bronze medals were awarded to Yacine Douma (France) and Khaltmaa Battulga (Mongolia).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The bronze medals were awarded to Yacine Douma (France) and Khaltmaa Battulga (Mongolia)."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. It was contested by 46 judokas from different countries. The competition followed a single-elimination format, with the winner being decided after reaching the finals. The gold medal was won by Hiroshi Izumi of Japan, who defeated Ludwig Paischer of Austria in the final by ippon (a full point). The bronze medals were awarded to Yacine Douma (France) and Khaltmaa Battulga (Mongolia).",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The competition followed a single-elimination format, with the winner being decided after reaching the finals. The bronze medals were awarded to Yacine Douma (France) and Khaltmaa Battulga (Mongolia).",
+      "sent_orig": "Izumi's victory in front of the home crowd made him the first Japanese male judoka to win a world title in the 60 kg category since Kosei Inoue in 2001.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Izumi's victory in front of the home crowd made him the first Japanese male judoka to win a world title in the 60 kg category since Kosei Inoue in 2001."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. It was contested by 46 judokas from different countries. The competition followed a single-elimination format, with the winner being decided after reaching the finals. The gold medal was won by Hiroshi Izumi of Japan, who defeated Ludwig Paischer of Austria in the final by ippon (a full point). The bronze medals were awarded to Yacine Douma (France) and Khaltmaa Battulga (Mongolia). Izumi's victory in front of the home crowd made him the first Japanese male judoka to win a world title in the 60 kg category since Kosei Inoue in 2001.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The competition followed a single-elimination format, with the winner being decided after reaching the finals. The bronze medals were awarded to Yacine Douma (France) and Khaltmaa Battulga (Mongolia). Izumi's victory in front of the home crowd made him the first Japanese male judoka to win a world title in the 60 kg category since Kosei Inoue in 2001.",
+      "sent_orig": "He had also won the gold medal at the 2003 Asian Games held in Busan, South Korea prior to the World Championships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He had also won the gold medal at the 2003 Asian Games held in Busan, South Korea prior to the World Championships."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. It was contested by 46 judokas from different countries. The competition followed a single-elimination format, with the winner being decided after reaching the finals. The gold medal was won by Hiroshi Izumi of Japan, who defeated Ludwig Paischer of Austria in the final by ippon (a full point). The bronze medals were awarded to Yacine Douma (France) and Khaltmaa Battulga (Mongolia). Izumi's victory in front of the home crowd made him the first Japanese male judoka to win a world title in the 60 kg category since Kosei Inoue in 2001. He had also won the gold medal at the 2003 Asian Games held in Busan, South Korea prior to the World Championships.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. It was the 24th edition of the World Judo Championships, organized by the International Judo Federation (IJF). The tournament featured men's judo competition in the 60 kg weight category. The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The competition followed a single-elimination format, with the winner being decided after reaching the finals. The bronze medals were awarded to Yacine Douma (France) and Khaltmaa Battulga (Mongolia). Izumi's victory in front of the home crowd made him the first Japanese male judoka to win a world title in the 60 kg category since Kosei Inoue in 2001. He had also won the gold medal at the 2003 Asian Games held in Busan, South Korea prior to the World Championships.",
+      "sent_orig": "The 2003 World Judo Championships - Men's 60 kg was a memorable event for judo enthusiasts, with many exciting matches and outstanding displays of skill and technique by the participants.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships - Men's 60 kg was a memorable event for judo enthusiasts, with many exciting matches and outstanding displays of skill and technique by the participants."
+    }
+  ]
+}

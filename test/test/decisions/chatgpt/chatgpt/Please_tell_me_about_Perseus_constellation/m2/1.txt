@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about Perseus (constellation)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Perseus is a constellation located in the northern sky.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is a constellation located in the northern sky."
+    },
+    {
+      "prefix_original": "Perseus is a constellation located in the northern sky.",
+      "prefix_new": "Perseus is a constellation located in the northern sky.",
+      "sent_orig": "It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa."
+    },
+    {
+      "prefix_original": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa.",
+      "prefix_new": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa.",
+      "sent_orig": "The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis."
+    },
+    {
+      "prefix_original": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis.",
+      "prefix_new": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis.",
+      "sent_orig": "Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye."
+    },
+    {
+      "prefix_original": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis. Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye.",
+      "prefix_new": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis. Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye.",
+      "sent_orig": "Other notable objects include NGC 869 and NGC 884, two bright nebulae that are also part of the double cluster.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Other notable objects include NGC 869 and NGC 884, two bright nebulae that are also part of the double cluster."
+    },
+    {
+      "prefix_original": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis. Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye. Other notable objects include NGC 869 and NGC 884, two bright nebulae that are also part of the double cluster.",
+      "prefix_new": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis. Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye. Other notable objects include NGC 869 and NGC 884, two bright nebulae that are also part of the double cluster.",
+      "sent_orig": "One of the most famous objects in Perseus is the variable star Algol, which represents the eye of Medusa.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "One of the most famous objects in Perseus is the variable star Algol, which represents the eye of Medusa."
+    },
+    {
+      "prefix_original": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis. Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye. Other notable objects include NGC 869 and NGC 884, two bright nebulae that are also part of the double cluster. One of the most famous objects in Perseus is the variable star Algol, which represents the eye of Medusa.",
+      "prefix_new": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis. Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye. Other notable objects include NGC 869 and NGC 884, two bright nebulae that are also part of the double cluster. One of the most famous objects in Perseus is the variable star Algol, which represents the eye of Medusa.",
+      "sent_orig": "Algol is actually a binary star system where two stars orbit around each other, blocking each other's light in a regular cycle, causing the star to appear to dim and brighten.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Algol is actually a binary star system where two stars orbit around each other, blocking each other's light in a regular cycle, causing the star to appear to dim and brighten."
+    },
+    {
+      "prefix_original": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis. Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye. Other notable objects include NGC 869 and NGC 884, two bright nebulae that are also part of the double cluster. One of the most famous objects in Perseus is the variable star Algol, which represents the eye of Medusa. Algol is actually a binary star system where two stars orbit around each other, blocking each other's light in a regular cycle, causing the star to appear to dim and brighten.",
+      "prefix_new": "Perseus is a constellation located in the northern sky. It was named after the mythological Greek hero Perseus, who was famous for slaying the Gorgon Medusa. The constellation is located northwest of Cassiopeia, northeast of Andromeda, and east of Camelopardalis. Perseus contains many interesting deep-sky objects, including the Perseus Double Cluster, a pair of open star clusters that are visible to the naked eye. Other notable objects include NGC 869 and NGC 884, two bright nebulae that are also part of the double cluster. One of the most famous objects in Perseus is the variable star Algol, which represents the eye of Medusa. Algol is actually a binary star system where two stars orbit around each other, blocking each other's light in a regular cycle, causing the star to appear to dim and brighten.",
+      "sent_orig": "Perseus is also associated with several meteor showers, including the Perseids, which occur each year in August and are one of the most popular meteor showers for stargazers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is also associated with several meteor showers, including the Perseids, which occur each year in August and are one of the most popular meteor showers for stargazers."
+    }
+  ]
+}

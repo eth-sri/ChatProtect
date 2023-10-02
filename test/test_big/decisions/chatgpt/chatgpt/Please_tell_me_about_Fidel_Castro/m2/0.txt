@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about Fidel Castro",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba."
+    },
+    {
+      "prefix_original": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba.",
+      "prefix_new": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba.",
+      "sent_orig": "Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s."
+    },
+    {
+      "prefix_original": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s.",
+      "prefix_new": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s.",
+      "sent_orig": "He led a revolution that overthrew the Cuban government in 1959 and established a socialist state.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He led a revolution that overthrew the Cuban government in 1959 and established a socialist state."
+    },
+    {
+      "prefix_original": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state.",
+      "prefix_new": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state.",
+      "sent_orig": "As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land."
+    },
+    {
+      "prefix_original": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state. As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land.",
+      "prefix_new": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state. As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land.",
+      "sent_orig": "He also formed close ties with the Soviet Union and became a key figure in the Cold War.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also formed close ties with the Soviet Union and became a key figure in the Cold War."
+    },
+    {
+      "prefix_original": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state. As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land. He also formed close ties with the Soviet Union and became a key figure in the Cold War.",
+      "prefix_new": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state. As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land. He also formed close ties with the Soviet Union and became a key figure in the Cold War.",
+      "sent_orig": "Castro was a controversial figure, admired by some for his revolutionary spirit and efforts to improve the lives of the poor in Cuba, while criticized by many for his political repressions and human rights abuses.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Castro was a controversial figure, admired by some for his revolutionary spirit and efforts to improve the lives of the poor in Cuba, while criticized by many for his political repressions and human rights abuses."
+    },
+    {
+      "prefix_original": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state. As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land. He also formed close ties with the Soviet Union and became a key figure in the Cold War. Castro was a controversial figure, admired by some for his revolutionary spirit and efforts to improve the lives of the poor in Cuba, while criticized by many for his political repressions and human rights abuses.",
+      "prefix_new": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state. As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land. He also formed close ties with the Soviet Union and became a key figure in the Cold War. Castro was a controversial figure, admired by some for his revolutionary spirit and efforts to improve the lives of the poor in Cuba, while criticized by many for his political repressions and human rights abuses.",
+      "sent_orig": "He maintained a tight grip on power for more than four decades until he stepped down from the presidency in 2008 due to health reasons.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a tight grip on power for more",
+            "down",
+            "from the presidency in 2008 due to health reasons."
+          ],
+          "Castro maintained a tight grip on power for more than five decades, until he stepped down in 2008 due to health issues.",
+          "He stepped down from the presidency in 2008 due to health reasons."
+        ]
+      ],
+      "sent_new": "He stepped down from the presidency in 2008 due to health reasons."
+    },
+    {
+      "prefix_original": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state. As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land. He also formed close ties with the Soviet Union and became a key figure in the Cold War. Castro was a controversial figure, admired by some for his revolutionary spirit and efforts to improve the lives of the poor in Cuba, while criticized by many for his political repressions and human rights abuses. He maintained a tight grip on power for more than four decades until he stepped down from the presidency in 2008 due to health reasons.",
+      "prefix_new": "Fidel Castro was a Cuban politician and revolutionary who served as the Prime Minister and later as the President of Cuba. Born on August 13, 1926, in Bir\u00e1n, Cuba, Castro studied law at the University of Havana and became involved in Cuban politics in the 1940s. He led a revolution that overthrew the Cuban government in 1959 and established a socialist state. As the leader of Cuba, Castro implemented several radical reforms and policies, including nationalizing industries and redistributing land. He also formed close ties with the Soviet Union and became a key figure in the Cold War. Castro was a controversial figure, admired by some for his revolutionary spirit and efforts to improve the lives of the poor in Cuba, while criticized by many for his political repressions and human rights abuses. He stepped down from the presidency in 2008 due to health reasons.",
+      "sent_orig": "Castro passed away on November 25, 2016, at the age of 90.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Castro passed away on November 25, 2016, at the age of 90."
+    }
+  ]
+}

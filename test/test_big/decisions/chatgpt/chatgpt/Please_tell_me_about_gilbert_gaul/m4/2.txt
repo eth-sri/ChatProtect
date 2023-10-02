@@ -1,0 +1,115 @@
+{
+  "prompt": "Please tell me about gilbert gaul",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gilbert Gaul",
+            "is",
+            "a Pulitzer Prize-winning investigative journalist."
+          ],
+          "Gilbert Gaul is an American artist known for his paintings of Civil War battlefields.",
+          "Gilbert Gaul is a Pulitzer Prize-winning journalist."
+        ]
+      ],
+      "sent_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist.",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist.",
+      "sent_orig": "Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gilbert Gaul",
+            "is",
+            "a Pulitzer Prize-winning author and investigative journalist."
+          ],
+          "Gilbert Gaul is an American artist known for his paintings of Civil War battlefields.",
+          "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist."
+        ]
+      ],
+      "sent_new": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist.",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist. Gilbert Gaul is a Pulitzer Prize-winning investigative journalist.",
+      "sent_orig": "Gaul graduated from the University of Missouri School of Journalism in 1974.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gaul graduated from the University of Missouri School of Journalism in 1974."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974.",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist. Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974.",
+      "sent_orig": "Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times.",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist. Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times.",
+      "sent_orig": "During his career, he has covered a diverse range of topics including politics, sports, and business.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his career, he has covered a diverse range of topics including politics, sports, and business."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business.",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist. Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business.",
+      "sent_orig": "In 1991, Gaul won a Pulitzer Prize for his coverage of the culture of greed and neglect that contributed to a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a Pulitzer Prize for his",
+            "contributed",
+            "to a deadly 1989 fire at the Dupont Plaza Hotel in San Juan,"
+          ],
+          "Gilbert Gaul won a Pulitzer Prize for his investigative reporting on the American military.",
+          "In 1991, Gaul won a Pulitzer Prize for his coverage of a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico."
+        ]
+      ],
+      "sent_new": "In 1991, Gaul won a Pulitzer Prize for his coverage of a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business. In 1991, Gaul won a Pulitzer Prize for his coverage of the culture of greed and neglect that contributed to a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico.",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist. Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business. In 1991, Gaul won a Pulitzer Prize for his coverage of a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico.",
+      "sent_orig": "He received a Pulitzer Prize for his reporting.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He received a Pulitzer Prize for his reporting."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business. In 1991, Gaul won a Pulitzer Prize for his coverage of the culture of greed and neglect that contributed to a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico. He received a Pulitzer Prize for his reporting.",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist. Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business. In 1991, Gaul won a Pulitzer Prize for his coverage of a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico. He received a Pulitzer Prize for his reporting.",
+      "sent_orig": "Gaul has also written several books including \"Giant Steps: The New Generation of African American Leaders,\" \"Million-Dollar Throw,\" and \"The Geography of Risk: Epic Storms, Rising Seas, and the Cost of America's Coasts.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gaul has also written several books including \"Giant Steps: The New Generation of African American Leaders,\" \"Million-Dollar Throw,\" and \"The Geography of Risk: Epic Storms, Rising Seas, and the Cost of America's Coasts.\""
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business. In 1991, Gaul won a Pulitzer Prize for his coverage of the culture of greed and neglect that contributed to a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico. He received a Pulitzer Prize for his reporting. Gaul has also written several books including \"Giant Steps: The New Generation of African American Leaders,\" \"Million-Dollar Throw,\" and \"The Geography of Risk: Epic Storms, Rising Seas, and the Cost of America's Coasts.\"",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist. Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business. In 1991, Gaul won a Pulitzer Prize for his coverage of a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico. He received a Pulitzer Prize for his reporting. Gaul has also written several books including \"Giant Steps: The New Generation of African American Leaders,\" \"Million-Dollar Throw,\" and \"The Geography of Risk: Epic Storms, Rising Seas, and the Cost of America's Coasts.\"",
+      "sent_orig": "Gaul currently serves as a journalism professor at the University of Maryland.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gaul currently serves as a journalism professor at the University of Maryland."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gilbert Gaul is a Pulitzer Prize-winning author and investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business. In 1991, Gaul won a Pulitzer Prize for his coverage of the culture of greed and neglect that contributed to a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico. He received a Pulitzer Prize for his reporting. Gaul has also written several books including \"Giant Steps: The New Generation of African American Leaders,\" \"Million-Dollar Throw,\" and \"The Geography of Risk: Epic Storms, Rising Seas, and the Cost of America's Coasts.\" Gaul currently serves as a journalism professor at the University of Maryland.",
+      "prefix_new": "Gilbert Gaul is a Pulitzer Prize-winning journalist. Gilbert Gaul is a Pulitzer Prize-winning investigative journalist. Gaul graduated from the University of Missouri School of Journalism in 1974. Gaul has worked for a variety of newspapers including The Philadelphia Inquirer, The Washington Post, and The New York Times. During his career, he has covered a diverse range of topics including politics, sports, and business. In 1991, Gaul won a Pulitzer Prize for his coverage of a deadly 1989 fire at the Dupont Plaza Hotel in San Juan, Puerto Rico. He received a Pulitzer Prize for his reporting. Gaul has also written several books including \"Giant Steps: The New Generation of African American Leaders,\" \"Million-Dollar Throw,\" and \"The Geography of Risk: Epic Storms, Rising Seas, and the Cost of America's Coasts.\" Gaul currently serves as a journalism professor at the University of Maryland.",
+      "sent_orig": "He is married with two children.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is married with two children."
+    }
+  ]
+}

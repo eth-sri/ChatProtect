@@ -1,0 +1,105 @@
+{
+  "prompt": "Please tell me about l\u00fctfi elvan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018.",
+      "sent_orig": "Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "specialized",
+            "in algebraic geometry and number theory."
+          ],
+          " He specialized in econometrics and macroeconomics.",
+          "Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory."
+        ]
+      ],
+      "sent_new": "Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory.",
+      "sent_orig": "Elvan was born in 1964 in Istanbul, Turkey.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Elvan",
+            "was born",
+            "in 1964"
+          ],
+          " L\u00fctfi Elvan was born in 1962 in Istanbul, Turkey.",
+          "Elvan was born in Istanbul, Turkey."
+        ]
+      ],
+      "sent_new": "Elvan was born in Istanbul, Turkey."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in 1964 in Istanbul, Turkey.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in Istanbul, Turkey.",
+      "sent_orig": "He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in 1964 in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991.",
+      "sent_orig": "After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in 1964 in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance.",
+      "sent_orig": "As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in 1964 in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance. As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance. As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability.",
+      "sent_orig": "He has also played a key role in shaping Turkey's response to the COVID-19 pandemic and has been instrumental in implementing measures to mitigate its economic impact.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also played a key role in shaping Turkey's response to the COVID-19 pandemic and has been instrumental in implementing measures to mitigate its economic impact."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in 1964 in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance. As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability. He has also played a key role in shaping Turkey's response to the COVID-19 pandemic and has been instrumental in implementing measures to mitigate its economic impact.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance. As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability. He has also played a key role in shaping Turkey's response to the COVID-19 pandemic and has been instrumental in implementing measures to mitigate its economic impact.",
+      "sent_orig": "Elvan is known for his technocratic approach to governance and his efforts to promote economic development through investments in infrastructure and education.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Elvan is known for his technocratic approach to governance and his efforts to promote economic development through investments in infrastructure and education."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in 1964 in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance. As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability. He has also played a key role in shaping Turkey's response to the COVID-19 pandemic and has been instrumental in implementing measures to mitigate its economic impact. Elvan is known for his technocratic approach to governance and his efforts to promote economic development through investments in infrastructure and education.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance. As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability. He has also played a key role in shaping Turkey's response to the COVID-19 pandemic and has been instrumental in implementing measures to mitigate its economic impact. Elvan is known for his technocratic approach to governance and his efforts to promote economic development through investments in infrastructure and education.",
+      "sent_orig": "He has also been a vocal advocate for increasing transparency and accountability in government finances.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also been a vocal advocate for increasing transparency and accountability in government finances."
+    },
+    {
+      "prefix_original": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Prior to his political career, Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in 1964 in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance. As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability. He has also played a key role in shaping Turkey's response to the COVID-19 pandemic and has been instrumental in implementing measures to mitigate its economic impact. Elvan is known for his technocratic approach to governance and his efforts to promote economic development through investments in infrastructure and education. He has also been a vocal advocate for increasing transparency and accountability in government finances.",
+      "prefix_new": " L\u00fctfi Elvan is a Turkish mathematician and politician who has served as the Minister of Treasury and Finance in the cabinet of Recep Tayyip Erdo\u011fan since 2018. Elvan was a professor of mathematics at Istanbul University, where he specialized in algebraic geometry and number theory. Elvan was born in Istanbul, Turkey. He received his undergraduate degree in mathematics from Istanbul University and went on to earn his PhD in mathematics from the University of California, Berkeley in 1991. After completing his studies, Elvan returned to Turkey and held various academic positions at Istanbul University before being appointed as the Minister of Treasury and Finance. As Minister of Treasury and Finance, Elvan has been responsible for overseeing the Turkish economy and implementing economic policies aimed at promoting growth and stability. He has also played a key role in shaping Turkey's response to the COVID-19 pandemic and has been instrumental in implementing measures to mitigate its economic impact. Elvan is known for his technocratic approach to governance and his efforts to promote economic development through investments in infrastructure and education. He has also been a vocal advocate for increasing transparency and accountability in government finances.",
+      "sent_orig": "Overall, L\u00fctfi Elvan is a highly respected figure in Turkish politics and academia, known for his expertise in mathematics and his commitment to promoting economic growth and stability in Turkey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, L\u00fctfi Elvan is a highly respected figure in Turkish politics and academia, known for his expertise in mathematics and his commitment to promoting economic growth and stability in Turkey."
+    }
+  ]
+}

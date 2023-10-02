@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan, featuring 53 judokas from 53 different countries.",
+  "alt": "The conflicting information about the winner of the championship preserves the excitement and unpredictability of the event.",
+  "prefix": " The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan.",
+  "triple": [
+    [
+      "the conflicting information",
+      "preserves",
+      "as much valid information as possible:"
+    ],
+    "compactie",
+    491
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided do not contain contradictory information.\n\nStatement 1 rephrases the original text, adding the number of judokas and countries represented at the championship, while maintaining the same information about the event's date and location.\n\nStatement 2 acknowledges that there is conflicting information about the winner of the championship, but it does not provide any specific details that contradict the information in Statement 1. Instead, it highlights the excitement and unpredictability of the event, which is a subjective commentary and does not affect the accuracy of Statement 1.\n\nTherefore, the statements are not contradictory, and they both contribute to a coherent and helpful response to the prompt."
+}

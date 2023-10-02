@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about george whitefield",
+  "orig": "George Whitefield was educated at Oxford University.",
+  "alt": " George Whitefield was educated at Pembroke College, Oxford.",
+  "prefix": "  George Whitefield (1714-1770) was a British Anglican priest, evangelist, and one of the founders of Methodism.",
+  "triple": [
+    [
+      "George Whitefield",
+      "was educated",
+      "at Oxford University."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about George Whitefield's education are contradictory. The first statement simply states that he was educated at Oxford University, while the second statement specifies that he was educated at Pembroke College, which is a constituent college of Oxford University. Therefore, the second statement provides more specific information about his education and contradicts the more general statement in the first sentence."
+}

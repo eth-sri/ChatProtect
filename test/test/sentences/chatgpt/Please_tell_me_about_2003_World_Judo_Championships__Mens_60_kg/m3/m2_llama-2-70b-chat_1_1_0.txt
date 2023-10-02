@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan, featuring 53 judokas from 53 different countries.",
+  "alt": "A revised sentence removes the unnecessary detail that the event was held in Osaka, Japan.",
+  "prefix": " The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan.",
+  "triple": [
+    [
+      "a revised sentence",
+      "removes",
+      "the conflicting information"
+    ],
+    "compactie",
+    489
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided are not contradictory. Statement 1 revises the original sentence by adding information about the number of judokas and countries represented at the event, while still maintaining the same event name and location. Statement 2 revises the original sentence by removing the location information, but still refers to the same event name and duration. Both statements provide accurate information about the 2003 World Judo Championships Men's 60 kg event."
+}

@@ -1,0 +1,39 @@
+{
+  "prompt": "Please tell me about Thirty-First Army (Japan)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " The Thirty-First Army (Japan) was a formation of the Imperial Japanese Army during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " The Thirty-First Army (Japan) was a formation of the Imperial Japanese Army during World War II."
+    },
+    {
+      "prefix_original": " The Thirty-First Army (Japan) was a formation of the Imperial Japanese Army during World War II.",
+      "prefix_new": " The Thirty-First Army (Japan) was a formation of the Imperial Japanese Army during World War II.",
+      "sent_orig": "It was tasked with defending the Philippines and other Japanese-held territories in the Pacific.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was tasked",
+            "with defending the Philippines and other Japanese-held territories in the Pacific."
+          ],
+          " It was tasked with defending the Japanese home islands against the Allied invasion.",
+          "It was tasked with defending the Philippines and other Japanese-held territories in the Pacific."
+        ]
+      ],
+      "sent_new": "It was tasked with defending the Philippines and other Japanese-held territories in the Pacific."
+    },
+    {
+      "prefix_original": " The Thirty-First Army (Japan) was a formation of the Imperial Japanese Army during World War II. It was tasked with defending the Philippines and other Japanese-held territories in the Pacific.",
+      "prefix_new": " The Thirty-First Army (Japan) was a formation of the Imperial Japanese Army during World War II. It was tasked with defending the Philippines and other Japanese-held territories in the Pacific.",
+      "sent_orig": "After the defeat of the Japanese forces in the Philippines, the Thirty-First Army was largely disbanded, with some of its units being transferred to other formations or used as reinforcements in other theaters of the war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the defeat of the Japanese forces in the Philippines, the Thirty-First Army was largely disbanded, with some of its units being transferred to other formations or used as reinforcements in other theaters of the war."
+    }
+  ]
+}

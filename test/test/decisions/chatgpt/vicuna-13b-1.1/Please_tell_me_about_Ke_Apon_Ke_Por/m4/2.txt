@@ -1,0 +1,55 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal."
+    },
+    {
+      "prefix_original": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal.",
+      "prefix_new": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal.",
+      "sent_orig": "The film explores themes of friendship, love, and self-discovery, as the two young friends navigate the challenges of growing up.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The film explores themes of friendship, love, and self-discovery, as the two young friends navigate the challenges of growing up."
+    },
+    {
+      "prefix_original": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal. The film explores themes of friendship, love, and self-discovery, as the two young friends navigate the challenges of growing up.",
+      "prefix_new": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal. The film explores themes of friendship, love, and self-discovery, as the two young friends navigate the challenges of growing up.",
+      "sent_orig": "Ke Apon Ke Por received critical acclaim for its portrayal of innocent love, raw emotions, and the beauty of rural Bengal.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ke Apon Ke Por received critical acclaim for its portrayal of innocent love, raw emotions, and the beauty of rural Bengal."
+    },
+    {
+      "prefix_original": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal. The film explores themes of friendship, love, and self-discovery, as the two young friends navigate the challenges of growing up. Ke Apon Ke Por received critical acclaim for its portrayal of innocent love, raw emotions, and the beauty of rural Bengal.",
+      "prefix_new": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal. The film explores themes of friendship, love, and self-discovery, as the two young friends navigate the challenges of growing up. Ke Apon Ke Por received critical acclaim for its portrayal of innocent love, raw emotions, and the beauty of rural Bengal.",
+      "sent_orig": "The film won the Best Film award at the 9th criticalERA Film Awards and the Best Cinematography award at the 2019 BFJA Awards.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The film won the Best Film award at the 9th criticalERA Film Awards and the Best Cinematography award at the 2019 BFJA Awards."
+    },
+    {
+      "prefix_original": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal. The film explores themes of friendship, love, and self-discovery, as the two young friends navigate the challenges of growing up. Ke Apon Ke Por received critical acclaim for its portrayal of innocent love, raw emotions, and the beauty of rural Bengal. The film won the Best Film award at the 9th criticalERA Film Awards and the Best Cinematography award at the 2019 BFJA Awards.",
+      "prefix_new": "The film follows the lives of two teenagers, Pabitra, a stutterer, and his friend Ankhi, as they embark on a journey through the picturesque countryside of West Bengal. The film explores themes of friendship, love, and self-discovery, as the two young friends navigate the challenges of growing up. Ke Apon Ke Por received critical acclaim for its portrayal of innocent love, raw emotions, and the beauty of rural Bengal. The film won the Best Film award at the 9th criticalERA Film Awards and the Best Cinematography award at the 2019 BFJA Awards.",
+      "sent_orig": "The film's title, Ke Apon Ke Por, translates to \"The Smell of the Earth\" in Bengali, which is a reference to the rich aroma of the soil in rural West Bengal and the sense of nostalgia that it evokes.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The film's title,",
+            "translates",
+            ""
+          ],
+          "The film's title translates to \"Beyond the Horizon\" in English.",
+          "The film's title, Ke Apon Ke Por, translates to \"The Smell of the Earth\" in Bengali, which is a reference to the rich aroma of the soil in rural West Bengal and the sense of nostalgia that it evokes."
+        ]
+      ],
+      "sent_new": "The film's title, Ke Apon Ke Por, translates to \"The Smell of the Earth\" in Bengali, which is a reference to the rich aroma of the soil in rural West Bengal and the sense of nostalgia that it evokes."
+    }
+  ]
+}

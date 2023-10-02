@@ -1,0 +1,116 @@
+{
+  "prompt": "Please tell me about Blohm & Voss P.188",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Blohm & Voss P.188",
+            "was",
+            "a German jet-powered tactical bomber aircraft"
+          ],
+          "The Blohm & Voss P.188 was a prototype jet-powered dive bomber developed by the German company Blohm & Voss during World War II.",
+          "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II."
+        ]
+      ],
+      "sent_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II.",
+      "prefix_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II.",
+      "sent_orig": "It was intended to serve as a high-speed, low-altitude strike aircraft and was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was intended serve",
+            "as a high-speed, low-altitude strike aircraft"
+          ],
+          "It was intended to serve as a high-speed, high-altitude reconnaissance aircraft.",
+          "The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes."
+        ]
+      ],
+      "sent_new": "The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II. It was intended to serve as a high-speed, low-altitude strike aircraft and was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes.",
+      "prefix_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II. The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes.",
+      "sent_orig": "The P.188 was powered by four BMW 003A turbojet engines, which provided a top speed of around 533 mph (856 km/h) at sea level.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II. It was intended to serve as a high-speed, low-altitude strike aircraft and was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. The P.188 was powered by four BMW 003A turbojet engines, which provided a top speed of around 533 mph (856 km/h) at sea level.",
+      "prefix_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II. The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes.",
+      "sent_orig": "It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m)."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II. It was intended to serve as a high-speed, low-altitude strike aircraft and was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. The P.188 was powered by four BMW 003A turbojet engines, which provided a top speed of around 533 mph (856 km/h) at sea level. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m).",
+      "prefix_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II. The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m).",
+      "sent_orig": "The aircraft's armament consisted of four 30mm MK 108 cannon and a bomb load of up to 4,409 lb (2,000 kg).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The aircraft's armament",
+            "consisted",
+            ""
+          ],
+          "The aircraft's armament consisted of two 30mm MK 108 cannon in the nose and two 20mm MG 151/20 cannon in the tail turret.",
+          "The P.188 was capable of carrying a bomb load of up to 4,409 lb (2,000 kg)."
+        ]
+      ],
+      "sent_new": "The P.188 was capable of carrying a bomb load of up to 4,409 lb (2,000 kg)."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II. It was intended to serve as a high-speed, low-altitude strike aircraft and was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. The P.188 was powered by four BMW 003A turbojet engines, which provided a top speed of around 533 mph (856 km/h) at sea level. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m). The aircraft's armament consisted of four 30mm MK 108 cannon and a bomb load of up to 4,409 lb (2,000 kg).",
+      "prefix_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II. The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m). The P.188 was capable of carrying a bomb load of up to 4,409 lb (2,000 kg).",
+      "sent_orig": "The P.188 was designed to operate at low altitudes, which made it difficult for enemy fighters to intercept.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The P.188 was designed to operate at low altitudes, which made it difficult for enemy fighters to intercept."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II. It was intended to serve as a high-speed, low-altitude strike aircraft and was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. The P.188 was powered by four BMW 003A turbojet engines, which provided a top speed of around 533 mph (856 km/h) at sea level. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m). The aircraft's armament consisted of four 30mm MK 108 cannon and a bomb load of up to 4,409 lb (2,000 kg). The P.188 was designed to operate at low altitudes, which made it difficult for enemy fighters to intercept.",
+      "prefix_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II. The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m). The P.188 was capable of carrying a bomb load of up to 4,409 lb (2,000 kg). The P.188 was designed to operate at low altitudes, which made it difficult for enemy fighters to intercept.",
+      "sent_orig": "It was also equipped with advanced navigational equipment, including radar and a ground mapping system, which made it capable of operating in any weather conditions.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "equipped",
+            "with advanced navigational equipment, including radar and a ground mapping system,"
+          ],
+          "It was equipped with a pressurized cockpit to allow for high-altitude flight.",
+          "The P.188 was equipped with advanced navigational equipment, including radar and a ground mapping system, which made it capable of operating in any weather conditions."
+        ]
+      ],
+      "sent_new": "The P.188 was equipped with advanced navigational equipment, including radar and a ground mapping system, which made it capable of operating in any weather conditions."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II. It was intended to serve as a high-speed, low-altitude strike aircraft and was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. The P.188 was powered by four BMW 003A turbojet engines, which provided a top speed of around 533 mph (856 km/h) at sea level. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m). The aircraft's armament consisted of four 30mm MK 108 cannon and a bomb load of up to 4,409 lb (2,000 kg). The P.188 was designed to operate at low altitudes, which made it difficult for enemy fighters to intercept. It was also equipped with advanced navigational equipment, including radar and a ground mapping system, which made it capable of operating in any weather conditions.",
+      "prefix_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II. The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m). The P.188 was capable of carrying a bomb load of up to 4,409 lb (2,000 kg). The P.188 was designed to operate at low altitudes, which made it difficult for enemy fighters to intercept. The P.188 was equipped with advanced navigational equipment, including radar and a ground mapping system, which made it capable of operating in any weather conditions.",
+      "sent_orig": "Despite its advanced design, the P.188 never entered full production due to the end of the war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite its advanced design, the P.188 never entered full production due to the end of the war."
+    },
+    {
+      "prefix_original": "The Blohm & Voss P.188 was a German jet-powered tactical bomber aircraft designed during World War II. It was intended to serve as a high-speed, low-altitude strike aircraft and was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. The P.188 was powered by four BMW 003A turbojet engines, which provided a top speed of around 533 mph (856 km/h) at sea level. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m). The aircraft's armament consisted of four 30mm MK 108 cannon and a bomb load of up to 4,409 lb (2,000 kg). The P.188 was designed to operate at low altitudes, which made it difficult for enemy fighters to intercept. It was also equipped with advanced navigational equipment, including radar and a ground mapping system, which made it capable of operating in any weather conditions. Despite its advanced design, the P.188 never entered full production due to the end of the war.",
+      "prefix_new": "The Blohm & Voss P.188 was a German jet-powered aircraft designed during World War II. The Blohm & Voss P.188 was designed to be capable of delivering a variety of munitions, including bombs, rockets, and torpedoes. It had a wingspan of 82 ft 8 in (25.2 m) and a length of 62 ft 5 in (19.0 m). The P.188 was capable of carrying a bomb load of up to 4,409 lb (2,000 kg). The P.188 was designed to operate at low altitudes, which made it difficult for enemy fighters to intercept. The P.188 was equipped with advanced navigational equipment, including radar and a ground mapping system, which made it capable of operating in any weather conditions. Despite its advanced design, the P.188 never entered full production due to the end of the war.",
+      "sent_orig": "Only four prototypes were built, and no P.188s saw active service.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Only four prototypes were built, and no P.188s saw active service."
+    }
+  ]
+}

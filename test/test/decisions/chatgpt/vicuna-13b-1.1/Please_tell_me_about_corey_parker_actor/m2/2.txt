@@ -1,0 +1,109 @@
+{
+  "prompt": "Please tell me about corey parker (actor)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Corey Parker is an American actor who is best known for his roles in various television shows and films.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Corey Parker is an American actor who is best known for his roles in various television shows and films."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television shows and films.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television shows and films.",
+      "sent_orig": "He was born on August 16, 1970, in Huntsville, Alabama, and grew up in a military family, which meant that he had to travel a lot during his childhood.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on August"
+          ],
+          "He was born in Stockton, California.",
+          "Corey Parker grew up in a military family, which meant that he had to travel a lot during his childhood."
+        ]
+      ],
+      "sent_new": "Corey Parker grew up in a military family, which meant that he had to travel a lot during his childhood."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television shows and films. He was born on August 16, 1970, in Huntsville, Alabama, and grew up in a military family, which meant that he had to travel a lot during his childhood.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television shows and films. Corey Parker grew up in a military family, which meant that he had to travel a lot during his childhood.",
+      "sent_orig": "Parker began his acting career in the early 1990s, with his first notable role being that of Philip Newman in the television series \"Party of Five.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Parker",
+            "began",
+            "his acting career in the early 1990s,"
+          ],
+          "He began his acting career in the late 1990s, with minor roles in various TV shows and films.",
+          "Parker's first notable role was that of Philip Newman in the television series \"Party of Five.\""
+        ]
+      ],
+      "sent_new": "Parker's first notable role was that of Philip Newman in the television series \"Party of Five.\""
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television shows and films. He was born on August 16, 1970, in Huntsville, Alabama, and grew up in a military family, which meant that he had to travel a lot during his childhood. Parker began his acting career in the early 1990s, with his first notable role being that of Philip Newman in the television series \"Party of Five.\"",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television shows and films. Corey Parker grew up in a military family, which meant that he had to travel a lot during his childhood. Parker's first notable role was that of Philip Newman in the television series \"Party of Five.\"",
+      "sent_orig": "He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\""
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television shows and films. He was born on August 16, 1970, in Huntsville, Alabama, and grew up in a military family, which meant that he had to travel a lot during his childhood. Parker began his acting career in the early 1990s, with his first notable role being that of Philip Newman in the television series \"Party of Five.\" He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\"",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television shows and films. Corey Parker grew up in a military family, which meant that he had to travel a lot during his childhood. Parker's first notable role was that of Philip Newman in the television series \"Party of Five.\" He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\"",
+      "sent_orig": "In addition to his television work, Parker has also appeared in several films, including \"Lakeview Terrace,\" \"The Fate of the Furious,\" and \"Leave No Trace.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his television work, Parker has also appeared in several films, including \"Lakeview Terrace,\" \"The Fate of the Furious,\" and \"Leave No Trace.\""
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television shows and films. He was born on August 16, 1970, in Huntsville, Alabama, and grew up in a military family, which meant that he had to travel a lot during his childhood. Parker began his acting career in the early 1990s, with his first notable role being that of Philip Newman in the television series \"Party of Five.\" He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\" In addition to his television work, Parker has also appeared in several films, including \"Lakeview Terrace,\" \"The Fate of the Furious,\" and \"Leave No Trace.\"",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television shows and films. Corey Parker grew up in a military family, which meant that he had to travel a lot during his childhood. Parker's first notable role was that of Philip Newman in the television series \"Party of Five.\" He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\" In addition to his television work, Parker has also appeared in several films, including \"Lakeview Terrace,\" \"The Fate of the Furious,\" and \"Leave No Trace.\"",
+      "sent_orig": "He has been praised for his ability to play a wide range of characters, from likable and charming to intense and creepy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has been praised for his ability to play a wide range of characters, from likable and charming to intense and creepy."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television shows and films. He was born on August 16, 1970, in Huntsville, Alabama, and grew up in a military family, which meant that he had to travel a lot during his childhood. Parker began his acting career in the early 1990s, with his first notable role being that of Philip Newman in the television series \"Party of Five.\" He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\" In addition to his television work, Parker has also appeared in several films, including \"Lakeview Terrace,\" \"The Fate of the Furious,\" and \"Leave No Trace.\" He has been praised for his ability to play a wide range of characters, from likable and charming to intense and creepy.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television shows and films. Corey Parker grew up in a military family, which meant that he had to travel a lot during his childhood. Parker's first notable role was that of Philip Newman in the television series \"Party of Five.\" He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\" In addition to his television work, Parker has also appeared in several films, including \"Lakeview Terrace,\" \"The Fate of the Furious,\" and \"Leave No Trace.\" He has been praised for his ability to play a wide range of characters, from likable and charming to intense and creepy.",
+      "sent_orig": "Parker has been married to actress Miranda Frigon since 2005, and the couple has two children together.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Parker",
+            "has been married",
+            "to actress Miranda Frigon since 2005,"
+          ],
+          "Corey Parker has been married to actress Erika Christensen since 2016.",
+          "Parker has been married since 2005 and has two children."
+        ]
+      ],
+      "sent_new": "Parker has been married since 2005 and has two children."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television shows and films. He was born on August 16, 1970, in Huntsville, Alabama, and grew up in a military family, which meant that he had to travel a lot during his childhood. Parker began his acting career in the early 1990s, with his first notable role being that of Philip Newman in the television series \"Party of Five.\" He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\" In addition to his television work, Parker has also appeared in several films, including \"Lakeview Terrace,\" \"The Fate of the Furious,\" and \"Leave No Trace.\" He has been praised for his ability to play a wide range of characters, from likable and charming to intense and creepy. Parker has been married to actress Miranda Frigon since 2005, and the couple has two children together.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television shows and films. Corey Parker grew up in a military family, which meant that he had to travel a lot during his childhood. Parker's first notable role was that of Philip Newman in the television series \"Party of Five.\" He later appeared in other television shows such as \"Buffy the Vampire Slayer,\" \"ER,\" and \"CSI: Miami.\" In addition to his television work, Parker has also appeared in several films, including \"Lakeview Terrace,\" \"The Fate of the Furious,\" and \"Leave No Trace.\" He has been praised for his ability to play a wide range of characters, from likable and charming to intense and creepy. Parker has been married since 2005 and has two children.",
+      "sent_orig": "In addition to his work as an actor, Parker is also a musician and has played in various bands over the years.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a musician",
+            "has",
+            "in various bands over the years."
+          ],
+          "It is known that Corey Parker is not a musician. Therefore, the sentence to fill the gap in this Subject;Predicate;Object triple would be \"Corey Parker is not a musician.\"",
+          "Corey Parker has played in various bands over the years."
+        ]
+      ],
+      "sent_new": "Corey Parker has played in various bands over the years."
+    }
+  ]
+}

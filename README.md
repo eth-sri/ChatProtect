@@ -110,5 +110,9 @@ You may use the generalized prompt by changing the sentence method to 4.
 
 #### Reproducing results from paper
 
-To calculate the numbers presented in the figures in the paper, we will provide the data and simple bash scripts to compute the numbers from the data.
-This will be added to the repository soon.
+To calculate the numbers presented in the figures in the paper, run the bash scripts in the `figures`
+directory from root like this.
+To compute the perplexity values, you will need a GPU with at least 5GB VRAM or the computation will be quite slow. The computation is disabled by default.
+```bash
+$ bash figures/run.sh
+```

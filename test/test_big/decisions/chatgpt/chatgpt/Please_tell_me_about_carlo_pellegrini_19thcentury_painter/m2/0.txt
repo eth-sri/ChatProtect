@@ -1,0 +1,70 @@
+{
+  "prompt": "Please tell me about carlo pellegrini (19th-century painter)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century.",
+      "sent_orig": "He was born in Capua, Italy and studied art in Naples and Rome before moving to Paris in 1865.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born studied",
+            "art in Naples and Rome"
+          ],
+          "He was born in Capua, Italy and studied at the Accademia di Belle Arti in Naples.",
+          "Carlo Pellegrini studied art in Naples and Rome before moving to Paris in 1865."
+        ]
+      ],
+      "sent_new": "Carlo Pellegrini studied art in Naples and Rome before moving to Paris in 1865."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. He was born in Capua, Italy and studied art in Naples and Rome before moving to Paris in 1865.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. Carlo Pellegrini studied art in Naples and Rome before moving to Paris in 1865.",
+      "sent_orig": "Pellegrini is best known for his genre scenes and landscapes, which often feature everyday life in rural Italy.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. He was born in Capua, Italy and studied art in Naples and Rome before moving to Paris in 1865. Pellegrini is best known for his genre scenes and landscapes, which often feature everyday life in rural Italy.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. Carlo Pellegrini studied art in Naples and Rome before moving to Paris in 1865.",
+      "sent_orig": "He was also a skilled portrait painter and painted many prominent people of his time, including members of the royal family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a skilled portrait painter and painted many prominent people of his time, including members of the royal family."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. He was born in Capua, Italy and studied art in Naples and Rome before moving to Paris in 1865. Pellegrini is best known for his genre scenes and landscapes, which often feature everyday life in rural Italy. He was also a skilled portrait painter and painted many prominent people of his time, including members of the royal family.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. Carlo Pellegrini studied art in Naples and Rome before moving to Paris in 1865. He was also a skilled portrait painter and painted many prominent people of his time, including members of the royal family.",
+      "sent_orig": "In 1876 Pellegrini was appointed a Knight of the Order of the Crown of Italy for his services to art, and he was well regarded during his lifetime.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1876 Pellegrini was appointed a Knight of the Order of the Crown of Italy for his services to art, and he was well regarded during his lifetime."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. He was born in Capua, Italy and studied art in Naples and Rome before moving to Paris in 1865. Pellegrini is best known for his genre scenes and landscapes, which often feature everyday life in rural Italy. He was also a skilled portrait painter and painted many prominent people of his time, including members of the royal family. In 1876 Pellegrini was appointed a Knight of the Order of the Crown of Italy for his services to art, and he was well regarded during his lifetime.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. Carlo Pellegrini studied art in Naples and Rome before moving to Paris in 1865. He was also a skilled portrait painter and painted many prominent people of his time, including members of the royal family. In 1876 Pellegrini was appointed a Knight of the Order of the Crown of Italy for his services to art, and he was well regarded during his lifetime.",
+      "sent_orig": "However, his work fell out of favour after his death and he was largely forgotten until the 21st century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, his work fell out of favour after his death and he was largely forgotten until the 21st century."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. He was born in Capua, Italy and studied art in Naples and Rome before moving to Paris in 1865. Pellegrini is best known for his genre scenes and landscapes, which often feature everyday life in rural Italy. He was also a skilled portrait painter and painted many prominent people of his time, including members of the royal family. In 1876 Pellegrini was appointed a Knight of the Order of the Crown of Italy for his services to art, and he was well regarded during his lifetime. However, his work fell out of favour after his death and he was largely forgotten until the 21st century.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the 19th century. Carlo Pellegrini studied art in Naples and Rome before moving to Paris in 1865. He was also a skilled portrait painter and painted many prominent people of his time, including members of the royal family. In 1876 Pellegrini was appointed a Knight of the Order of the Crown of Italy for his services to art, and he was well regarded during his lifetime. However, his work fell out of favour after his death and he was largely forgotten until the 21st century.",
+      "sent_orig": "Today, Pellegrini is recognised as an important figure in Italian art of the 19th century, and his paintings can be found in galleries and collections around the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Pellegrini is recognised as an important figure in Italian art of the 19th century, and his paintings can be found in galleries and collections around the world."
+    }
+  ]
+}

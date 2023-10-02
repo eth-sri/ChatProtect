@@ -1,0 +1,91 @@
+{
+  "prompt": "Please tell me about scott wood (american football)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "As an AI language model, I cannot tell you about a specific person's current situation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As an AI language model, I cannot tell you about a specific person's current situation."
+    },
+    {
+      "prefix_original": "As an AI language model, I cannot tell you about a specific person's current situation.",
+      "prefix_new": "As an AI language model, I cannot tell you about a specific person's current situation.",
+      "sent_orig": "However, I can provide some general information about Scott Wood, a former American football player.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, I can provide some general information about Scott Wood, a former American football player."
+    },
+    {
+      "prefix_original": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player.",
+      "prefix_new": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player.",
+      "sent_orig": "Scott Wood was a linebacker who played college football for Texas Tech University from 1995 to 1998.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Scott Wood",
+            "was",
+            "a linebacker"
+          ],
+          "Scott Wood was a defensive end who played college football at the University of North Carolina.",
+          "Scott Wood played college football for Texas Tech University from 1995 to 1998."
+        ]
+      ],
+      "sent_new": "Scott Wood played college football for Texas Tech University from 1995 to 1998."
+    },
+    {
+      "prefix_original": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player. Scott Wood was a linebacker who played college football for Texas Tech University from 1995 to 1998.",
+      "prefix_new": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player. Scott Wood played college football for Texas Tech University from 1995 to 1998.",
+      "sent_orig": "At Texas Tech, he was a two-time All-Big 12 selection and was named to the All-America team in 1997.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "At Texas Tech, he was a two-time All-Big 12 selection and was named to the All-America team in 1997."
+    },
+    {
+      "prefix_original": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player. Scott Wood was a linebacker who played college football for Texas Tech University from 1995 to 1998. At Texas Tech, he was a two-time All-Big 12 selection and was named to the All-America team in 1997.",
+      "prefix_new": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player. Scott Wood played college football for Texas Tech University from 1995 to 1998. At Texas Tech, he was a two-time All-Big 12 selection and was named to the All-America team in 1997.",
+      "sent_orig": "After college, Wood was signed by the Dallas Cowboys as an undrafted free agent but did not make their roster.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Wood",
+            "was signed",
+            "by the Dallas Cowboys as an undrafted free agent"
+          ],
+          "Wood was signed as an undrafted free agent by the New York Giants in 1999.",
+          "Wood was signed as an undrafted free agent."
+        ]
+      ],
+      "sent_new": "Wood was signed as an undrafted free agent."
+    },
+    {
+      "prefix_original": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player. Scott Wood was a linebacker who played college football for Texas Tech University from 1995 to 1998. At Texas Tech, he was a two-time All-Big 12 selection and was named to the All-America team in 1997. After college, Wood was signed by the Dallas Cowboys as an undrafted free agent but did not make their roster.",
+      "prefix_new": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player. Scott Wood played college football for Texas Tech University from 1995 to 1998. At Texas Tech, he was a two-time All-Big 12 selection and was named to the All-America team in 1997. Wood was signed as an undrafted free agent.",
+      "sent_orig": "During his football career, Wood suffered several injuries, including a broken leg and dislocated ankle which ended his playing career.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his football career, Wood suffered several injuries, including a broken leg and dislocated ankle which ended his playing career."
+    },
+    {
+      "prefix_original": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player. Scott Wood was a linebacker who played college football for Texas Tech University from 1995 to 1998. At Texas Tech, he was a two-time All-Big 12 selection and was named to the All-America team in 1997. After college, Wood was signed by the Dallas Cowboys as an undrafted free agent but did not make their roster. During his football career, Wood suffered several injuries, including a broken leg and dislocated ankle which ended his playing career.",
+      "prefix_new": "As an AI language model, I cannot tell you about a specific person's current situation. However, I can provide some general information about Scott Wood, a former American football player. Scott Wood played college football for Texas Tech University from 1995 to 1998. At Texas Tech, he was a two-time All-Big 12 selection and was named to the All-America team in 1997. Wood was signed as an undrafted free agent. During his football career, Wood suffered several injuries, including a broken leg and dislocated ankle which ended his playing career.",
+      "sent_orig": "He currently works as a sports commentator, providing analysis and commentary for college football games.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "works",
+            "sports commentator,"
+          ],
+          "As far as I know, Scott Wood does not work in football anymore.",
+          "He worked as a sports commentator, providing analysis and commentary for college football games."
+        ]
+      ],
+      "sent_new": "He worked as a sports commentator, providing analysis and commentary for college football games."
+    }
+  ]
+}

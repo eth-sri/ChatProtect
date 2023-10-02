@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about 1990\u201391 Austrian Hockey League season",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria.",
+  "alt": "A revised sentence removes the unnecessary detail that EC Graz defeated VEU Feldkirch in the finals to win the championship.",
+  "prefix": " The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship.",
+  "triple": [
+    [
+      "a revised sentence",
+      "removes",
+      "the conflicting information"
+    ],
+    "compactie",
+    510
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided do not contain contradictory information.\n\nStatement 1 removes the information about EC Graz winning their first championship, which is not necessary to the main point of the sentence, but still provides the same information about the season.\n\nStatement 2 removes the detail about EC Graz defeating VEU Feldkirch in the finals, but it does not contradict the information provided in statement 1, as it only removes a specific detail and does not change the overall meaning of the sentence.\n\nTherefore, the statements are not contradictory, and both can be used to provide information about the 1990-91 Austrian Hockey League season."
+}

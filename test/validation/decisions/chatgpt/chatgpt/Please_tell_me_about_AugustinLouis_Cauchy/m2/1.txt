@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Augustin-Louis Cauchy",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique.",
+      "prefix_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique.",
+      "sent_orig": "He began his mathematical career by studying the works of Euler, Lagrange, and Laplace, and soon developed his own ideas and techniques.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "began",
+            "his mathematical career"
+          ],
+          "He began his career as a military engineer before turning to mathematics.",
+          "Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques."
+        ]
+      ],
+      "sent_new": "Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. He began his mathematical career by studying the works of Euler, Lagrange, and Laplace, and soon developed his own ideas and techniques.",
+      "prefix_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques.",
+      "sent_orig": "His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. He began his mathematical career by studying the works of Euler, Lagrange, and Laplace, and soon developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis.",
+      "prefix_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis.",
+      "sent_orig": "Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. He began his mathematical career by studying the works of Euler, Lagrange, and Laplace, and soon developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory.",
+      "prefix_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory.",
+      "sent_orig": "He was also interested in the foundations of geometry and developed the concept of projective geometry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also interested in the foundations of geometry and developed the concept of projective geometry."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. He began his mathematical career by studying the works of Euler, Lagrange, and Laplace, and soon developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory. He was also interested in the foundations of geometry and developed the concept of projective geometry.",
+      "prefix_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory. He was also interested in the foundations of geometry and developed the concept of projective geometry.",
+      "sent_orig": "In addition to his mathematical achievements, Cauchy was a prolific writer and published over 800 papers and books.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his mathematical achievements, Cauchy was a prolific writer and published over 800 papers and books."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. He began his mathematical career by studying the works of Euler, Lagrange, and Laplace, and soon developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory. He was also interested in the foundations of geometry and developed the concept of projective geometry. In addition to his mathematical achievements, Cauchy was a prolific writer and published over 800 papers and books.",
+      "prefix_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory. He was also interested in the foundations of geometry and developed the concept of projective geometry. In addition to his mathematical achievements, Cauchy was a prolific writer and published over 800 papers and books.",
+      "sent_orig": "He was also a member of the French Academy of Sciences and won numerous awards and honors for his work.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a member of the French Academy of Sciences and won numerous awards and honors for his work."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. He began his mathematical career by studying the works of Euler, Lagrange, and Laplace, and soon developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory. He was also interested in the foundations of geometry and developed the concept of projective geometry. In addition to his mathematical achievements, Cauchy was a prolific writer and published over 800 papers and books. He was also a member of the French Academy of Sciences and won numerous awards and honors for his work.",
+      "prefix_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory. He was also interested in the foundations of geometry and developed the concept of projective geometry. In addition to his mathematical achievements, Cauchy was a prolific writer and published over 800 papers and books. He was also a member of the French Academy of Sciences and won numerous awards and honors for his work.",
+      "sent_orig": "Today, Cauchy's work continues to be studied and applied in various fields of mathematics, including analysis, number theory, and geometry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Cauchy's work continues to be studied and applied in various fields of mathematics, including analysis, number theory, and geometry."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. He began his mathematical career by studying the works of Euler, Lagrange, and Laplace, and soon developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory. He was also interested in the foundations of geometry and developed the concept of projective geometry. In addition to his mathematical achievements, Cauchy was a prolific writer and published over 800 papers and books. He was also a member of the French Academy of Sciences and won numerous awards and honors for his work. Today, Cauchy's work continues to be studied and applied in various fields of mathematics, including analysis, number theory, and geometry.",
+      "prefix_new": "Cauchy was born in Paris and was educated at the \u00c9cole Polytechnique. Cauchy studied the works of Euler, Lagrange, and Laplace and developed his own ideas and techniques. His early work focused on calculus and analysis, where he developed the concept of limits and continuity, and introduced the Cauchy-Riemann equations in complex analysis. Cauchy also made important contributions to number theory, including the development of the Cauchy integral theorem and the Cauchy distribution in probability theory. He was also interested in the foundations of geometry and developed the concept of projective geometry. In addition to his mathematical achievements, Cauchy was a prolific writer and published over 800 papers and books. He was also a member of the French Academy of Sciences and won numerous awards and honors for his work. Today, Cauchy's work continues to be studied and applied in various fields of mathematics, including analysis, number theory, and geometry.",
+      "sent_orig": "He is remembered as one of the most influential mathematicians of the 19th century and his legacy continues to inspire new generations of mathematicians.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is remembered as one of the most influential mathematicians of the 19th century and his legacy continues to inspire new generations of mathematicians."
+    }
+  ]
+}

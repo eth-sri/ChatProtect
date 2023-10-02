@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Pattimura Stadium",
+  "orig": "It fits well after the given description and only contains information from the original sentence.",
+  "alt": "It contains a running track surrounding the football field.",
+  "prefix": " Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe stadium is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe stadium has modern amenities such as a VIP and media section, floodlights, and a scoreboard. This sentence still provides information about the stadium's modern amenities, while removing the conflicting information about the seating capacity.",
+  "triple": [
+    [
+      "It",
+      "contains",
+      "information from the original sentence."
+    ],
+    "compactie",
+    633
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "orig_tag": "ok",
+  "explanation": " The two statements provided do not contain contradictory information.\n\nStatement 1 mentions the modern amenities available at Pattimura Stadium, such as a VIP and media section, floodlights, and a scoreboard. This information is consistent with the original sentence, which mentioned that the stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia.\n\nStatement 2 mentions the presence of a running track surrounding the football field. This information does not contradict the information provided in Statement 1 or the original sentence. In fact, it adds to the information provided by Statement 1 by describing another feature of the stadium.\n\nTherefore, the two statements provided do not contain contradictory information, and they both contribute to a more comprehensive description of Pattimura Stadium."
+}

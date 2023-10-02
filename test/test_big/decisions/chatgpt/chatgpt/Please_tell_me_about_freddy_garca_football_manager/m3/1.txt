@@ -1,0 +1,28 @@
+{
+  "prompt": "Please tell me about freddy garc\u00eda (football manager)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "I do not have information on a person named Freddy Garc\u00eda who is a football manager.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "I do not have information on a person named Freddy Garc\u00eda who is a football manager.",
+      "prefix_new": "",
+      "sent_orig": "There could be multiple individuals with this name, and without further details, I cannot provide any details or information that could be helpful.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "There could be multiple individuals with this name, and without further details, I cannot provide any details or information that could be helpful."
+    },
+    {
+      "prefix_original": "I do not have information on a person named Freddy Garc\u00eda who is a football manager. There could be multiple individuals with this name, and without further details, I cannot provide any details or information that could be helpful.",
+      "prefix_new": "There could be multiple individuals with this name, and without further details, I cannot provide any details or information that could be helpful.",
+      "sent_orig": "Please provide me with more context, and I would love to help you out.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Please provide me with more context, and I would love to help you out."
+    }
+  ]
+}

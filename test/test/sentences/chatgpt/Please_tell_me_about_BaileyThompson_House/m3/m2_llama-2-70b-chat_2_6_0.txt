@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "The home remained in the possession of the Bailey-Thompson family for over a century.",
+  "alt": "The home remained in the Ponder family until 1867.",
+  "prefix": " Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. Here is a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+  "triple": [
+    [
+      "The home",
+      "remained",
+      "in the possession of the Bailey-Thompson family for over a century."
+    ],
+    "compactie",
+    617
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided about the Bailey-Thompson House are contradictory.\n\nStatement 1 states that the home remained in the possession of the Bailey-Thompson family for over a century, implying that the family owned the home for a significant period of time.\n\nStatement 2, on the other hand, states that the home remained in the Ponder family until 1867, which suggests that the Ponder family owned the home until that year.\n\nThese two statements cannot both be true, as they describe different families owning the home during different time periods. Therefore, they are contradictory."
+}

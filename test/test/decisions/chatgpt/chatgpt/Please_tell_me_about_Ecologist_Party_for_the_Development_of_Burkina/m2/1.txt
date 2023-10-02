@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Ecologist Party for the Development of Burkina",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a political party",
+            "was founded",
+            "in 2004."
+          ],
+          "The Ecologist Party for the Development of Burkina was founded in 1996.",
+          "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996."
+        ]
+      ],
+      "sent_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996.",
+      "sent_orig": "The party aims to promote sustainable development, environmental protection, and social justice in the country.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The party aims to promote sustainable development, environmental protection, and social justice in the country."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004. The party aims to promote sustainable development, environmental protection, and social justice in the country.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996. The party aims to promote sustainable development, environmental protection, and social justice in the country.",
+      "sent_orig": "PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities.",
+      "sent_orig": "The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture.",
+      "sent_orig": "The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture. The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture. The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso.",
+      "sent_orig": "It has called for the government to invest more in education and healthcare, and to work towards greater food security for the population.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has called for the government to invest more in education and healthcare, and to work towards greater food security for the population."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture. The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso. It has called for the government to invest more in education and healthcare, and to work towards greater food security for the population.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture. The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso. It has called for the government to invest more in education and healthcare, and to work towards greater food security for the population.",
+      "sent_orig": "At present, PEDB has limited representation in the National Assembly of Burkina Faso.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "At present, PEDB has limited representation in the National Assembly of Burkina Faso."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture. The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso. It has called for the government to invest more in education and healthcare, and to work towards greater food security for the population. At present, PEDB has limited representation in the National Assembly of Burkina Faso.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture. The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso. It has called for the government to invest more in education and healthcare, and to work towards greater food security for the population. At present, PEDB has limited representation in the National Assembly of Burkina Faso.",
+      "sent_orig": "Nonetheless, the party remains active in promoting its ideas and building support for its platform.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Nonetheless, the party remains active in promoting its ideas and building support for its platform."
+    },
+    {
+      "prefix_original": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 2004. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture. The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso. It has called for the government to invest more in education and healthcare, and to work towards greater food security for the population. At present, PEDB has limited representation in the National Assembly of Burkina Faso. Nonetheless, the party remains active in promoting its ideas and building support for its platform.",
+      "prefix_new": "The Ecologist Party for the Development of Burkina (PEDB) is a political party in Burkina Faso that was founded in 1996. The party aims to promote sustainable development, environmental protection, and social justice in the country. PEDB is opposed to the exploitation of natural resources in ways that damage the environment or harm local communities. The party advocates for responsible mining practices, protection of forests and other ecosystems, and sustainable agriculture. The party also champions the rights of women and marginalized groups, and calls for the reduction of poverty and inequality in Burkina Faso. It has called for the government to invest more in education and healthcare, and to work towards greater food security for the population. At present, PEDB has limited representation in the National Assembly of Burkina Faso. Nonetheless, the party remains active in promoting its ideas and building support for its platform.",
+      "sent_orig": "The party's founder, Ram Ouedraogo, is a respected environmental advocate in Burkina Faso and has been influential in shaping national policy on environmental issues.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The party's founder, Ram Ouedraogo, is a respected environmental advocate in Burkina Faso and has been influential in shaping national policy on environmental issues."
+    }
+  ]
+}

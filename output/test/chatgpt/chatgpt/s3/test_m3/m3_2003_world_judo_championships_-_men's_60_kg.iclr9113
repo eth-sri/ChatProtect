@@ -1,0 +1,38 @@
+test/test/sentences/chatgpt/2003_world_judo_championships_-_men's_60_kg/m3/m3_0_4_0.txt
+Q: I give you the beginning of a description about 2003 World Judo Championships - Men's 60 kg.
+Then follow two statements.
+
+Description:
+The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas. Nomura was a two-time Olympic gold medalist and a seven-time world champion. Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance.
+
+Statement 1:
+Brazil's João Derly and Russia's Yuri Alvear won bronze medals.
+
+Statement 2:
+Brazil's João Derly won the bronze medal in the tournament.
+
+Please explain whether the statements about 2003 World Judo Championships - Men's 60 kg are contradictory.
+Provide your explanation only.
+
+A: The statements about the 2003 World Judo Championships - Men's 60 kg are contradictory. Statement 1 mentions that Brazil's João Derly and Russia's Yuri Alvear won bronze medals, while statement 2 only mentions João Derly winning the bronze medal. This means that statement 1 implies that Yuri Alvear also won a bronze medal, while statement 2 does not mention his name. Therefore, the statements cannot both be true at the same time.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes.
+A: Yes.
+A: Yes, the statements are contradictory.
+A: Yes.
+A: Yes, the statements are contradictory.
+A: Yes.
+A: Yes, the statements are contradictory.
+label: strong
+score: 1.0
+cost: 638
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=185, completion_tokens=98), Usage(prompt_tokens=305, completion_tokens=50)]
+490
+148
+638
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

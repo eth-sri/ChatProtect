@@ -1,0 +1,44 @@
+{
+  "prompt": "Please tell me about los natas",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Los Natas was an Argentine stoner rock band formed in 1994 in Buenos Aires.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Los Natas was an Argentine stoner rock band formed in 1994 in Buenos Aires.",
+      "prefix_new": "",
+      "sent_orig": "The band consisted of guitarist/vocalist Sergio Chotsourian, bassist Miguel Fernandez, and drummer Walter Broide.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The band consisted of guitarist/vocalist Sergio Chotsourian, bassist Miguel Fernandez, and drummer Walter Broide."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentine stoner rock band formed in 1994 in Buenos Aires. The band consisted of guitarist/vocalist Sergio Chotsourian, bassist Miguel Fernandez, and drummer Walter Broide.",
+      "prefix_new": "The band consisted of guitarist/vocalist Sergio Chotsourian, bassist Miguel Fernandez, and drummer Walter Broide.",
+      "sent_orig": "Los Natas blended heavy riffs, psychedelic vibes, and Latin American rhythms to create their distinctive sound.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Los Natas blended heavy riffs, psychedelic vibes, and Latin American rhythms to create their distinctive sound."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentine stoner rock band formed in 1994 in Buenos Aires. The band consisted of guitarist/vocalist Sergio Chotsourian, bassist Miguel Fernandez, and drummer Walter Broide. Los Natas blended heavy riffs, psychedelic vibes, and Latin American rhythms to create their distinctive sound.",
+      "prefix_new": "The band consisted of guitarist/vocalist Sergio Chotsourian, bassist Miguel Fernandez, and drummer Walter Broide. Los Natas blended heavy riffs, psychedelic vibes, and Latin American rhythms to create their distinctive sound.",
+      "sent_orig": "They released nine studio albums between 1996 and 2011, including the critically acclaimed Ciudad de Brahman and Toba Trance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They released nine studio albums between 1996 and 2011, including the critically acclaimed Ciudad de Brahman and Toba Trance."
+    },
+    {
+      "prefix_original": "Los Natas was an Argentine stoner rock band formed in 1994 in Buenos Aires. The band consisted of guitarist/vocalist Sergio Chotsourian, bassist Miguel Fernandez, and drummer Walter Broide. Los Natas blended heavy riffs, psychedelic vibes, and Latin American rhythms to create their distinctive sound. They released nine studio albums between 1996 and 2011, including the critically acclaimed Ciudad de Brahman and Toba Trance.",
+      "prefix_new": "The band consisted of guitarist/vocalist Sergio Chotsourian, bassist Miguel Fernandez, and drummer Walter Broide. Los Natas blended heavy riffs, psychedelic vibes, and Latin American rhythms to create their distinctive sound. They released nine studio albums between 1996 and 2011, including the critically acclaimed Ciudad de Brahman and Toba Trance.",
+      "sent_orig": "Los Natas disbanded in 2012, but their influence on the Argentine and Latin American rock scenes continues to be felt.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Los Natas disbanded in 2012, but their influence on the Argentine and Latin American rock scenes continues to be felt."
+    }
+  ]
+}

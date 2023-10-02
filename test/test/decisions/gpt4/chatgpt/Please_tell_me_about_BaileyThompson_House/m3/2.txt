@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "It was built by William G. Ponder, a prominent contractor in the area, for his family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was built by William G. Ponder, a prominent contractor in the area, for his family."
+    },
+    {
+      "prefix_original": "It was built by William G. Ponder, a prominent contractor in the area, for his family.",
+      "prefix_new": "It was built by William G. Ponder, a prominent contractor in the area, for his family.",
+      "sent_orig": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor."
+    },
+    {
+      "prefix_original": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "prefix_new": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "sent_orig": "In 1891, the home was purchased by the Bailey family, who lived there for many years.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the home",
+            "was purchased",
+            "by the Bailey family,"
+          ],
+          "The home was purchased by the Bailey-Thompson family in 1870 and remained in their possession for over a century.",
+          "In 1891, the home was purchased by the Bailey family, who lived there for many years."
+        ]
+      ],
+      "sent_new": "In 1891, the home was purchased by the Bailey family, who lived there for many years."
+    },
+    {
+      "prefix_original": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years.",
+      "prefix_new": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years.",
+      "sent_orig": "During their ownership, they added a two-story wing to the rear of the home.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During their ownership, they added a two-story wing to the rear of the home."
+    },
+    {
+      "prefix_original": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home.",
+      "prefix_new": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home.",
+      "sent_orig": "In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the Thompson family",
+            "subsequently donated",
+            "the home to the Tallahassee Junior Museum."
+          ],
+          "The Thompson family subsequently donated the Bailey-Thompson House to the local historical society.",
+          "In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum."
+        ]
+      ],
+      "sent_new": "In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum."
+    },
+    {
+      "prefix_original": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home. In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum.",
+      "prefix_new": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home. In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum.",
+      "sent_orig": "The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida."
+    },
+    {
+      "prefix_original": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home. In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "prefix_new": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home. In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "sent_orig": "Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Visitors can tour the home and see original furnishings and artifacts from the mid-19th century."
+    },
+    {
+      "prefix_original": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home. In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida. Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "prefix_new": "It was built by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home. In 1959, the Thompson family subsequently donated the home to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida. Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "sent_orig": "The museum also hosts special events and educational programs throughout the year.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The museum also hosts special events and educational programs throughout the year."
+    }
+  ]
+}

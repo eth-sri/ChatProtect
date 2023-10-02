@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida, known for its beautiful architecture and rich history.",
+  "alt": "The historic home is located in the downtown area of Talladega.",
+  "prefix": " Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Talladega, Alabama.",
+  "triple": [
+    [
+      "a historic home",
+      "located",
+      "in Tallahassee,"
+    ],
+    "compactie",
+    489
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided contain conflicting information. Statement 1 mentions that the Bailey-Thompson House is located in Tallahassee, Florida, while Statement 2 states that it is located in the downtown area of Talladega. Since Tallahassee and Talladega are two different cities in different states, it is not possible for the Bailey-Thompson House to be located in both cities. Therefore, the statements are contradictory."
+}

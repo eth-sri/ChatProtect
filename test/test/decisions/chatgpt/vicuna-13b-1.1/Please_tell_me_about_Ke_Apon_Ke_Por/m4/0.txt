@@ -1,0 +1,37 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings."
+    },
+    {
+      "prefix_original": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings.",
+      "prefix_new": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings.",
+      "sent_orig": "The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships."
+    },
+    {
+      "prefix_original": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings. The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships.",
+      "prefix_new": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings. The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships.",
+      "sent_orig": "The series has been adapted into a movie in Hindi titled \"Byomkesh Bakshi\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The series has been adapted into a movie in Hindi titled \"Byomkesh Bakshi\"."
+    },
+    {
+      "prefix_original": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings. The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships. The series has been adapted into a movie in Hindi titled \"Byomkesh Bakshi\".",
+      "prefix_new": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings. The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships. The series has been adapted into a movie in Hindi titled \"Byomkesh Bakshi\".",
+      "sent_orig": "The novels are widely popular in Bengal and beyond, and are considered classics of the detective fiction genre in India.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The novels are widely popular in Bengal and beyond, and are considered classics of the detective fiction genre in India."
+    }
+  ]
+}

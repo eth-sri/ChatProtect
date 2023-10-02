@@ -1,0 +1,154 @@
+{
+  "prompt": "Please tell me about prince albert of saxe-altenburg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire.",
+      "sent_orig": "He was born on April 24, 1843, in Koburg, Germany.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on April 24, 1843, in Koburg, Germany."
+          ],
+          " He was born on April 24, 1843, in Altenburg, Saxe-Altenburg.",
+          "He was born on April 24, 1843, in Koburg, Germany."
+        ]
+      ],
+      "sent_new": "He was born on April 24, 1843, in Koburg, Germany."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany.",
+      "sent_orig": "Prince Albert succeeded his father as duke in 1853, upon Eduard's death.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prince Albert succeeded his father as duke in 1853, upon Eduard's death."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death.",
+      "sent_orig": "At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people.",
+      "sent_orig": "During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy.",
+      "sent_orig": "He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany.",
+      "sent_orig": "Prince Albert was also known for his cultural interests and patronage.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prince Albert was also known for his cultural interests and patronage."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage.",
+      "sent_orig": "He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater.",
+      "sent_orig": "He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary.",
+      "sent_orig": "In 1871, Prince Albert married Princess Marie of Prussia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Prince Albert",
+            "married",
+            "Princess Marie of Prussia."
+          ],
+          " Prince Albert married Princess Marie of Prussia in 1870.",
+          "Prince Albert married Princess Marie of Prussia."
+        ]
+      ],
+      "sent_new": "Prince Albert married Princess Marie of Prussia."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. In 1871, Prince Albert married Princess Marie of Prussia.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. Prince Albert married Princess Marie of Prussia.",
+      "sent_orig": "The couple had one son named Duke Ernst II.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. In 1871, Prince Albert married Princess Marie of Prussia. The couple had one son named Duke Ernst II.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. Prince Albert married Princess Marie of Prussia.",
+      "sent_orig": "After the death of his father-in-law, Prince Charles, in 1883, Prince Albert became involved in a succession dispute over the Duchy of Saxe-Coburg and Gotha.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the death of his father-in-law, Prince Charles, in 1883, Prince Albert became involved in a succession dispute over the Duchy of Saxe-Coburg and Gotha."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. In 1871, Prince Albert married Princess Marie of Prussia. The couple had one son named Duke Ernst II. After the death of his father-in-law, Prince Charles, in 1883, Prince Albert became involved in a succession dispute over the Duchy of Saxe-Coburg and Gotha.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. Prince Albert married Princess Marie of Prussia. After the death of his father-in-law, Prince Charles, in 1883, Prince Albert became involved in a succession dispute over the Duchy of Saxe-Coburg and Gotha.",
+      "sent_orig": "Prince Albert died on July 22, 1902, at the age of 58.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Prince Albert",
+            "died",
+            "on July 22, 1902, at the age of 58."
+          ],
+          " Prince Albert died on July 29, 1902, in Schwarzburg, Germany.",
+          "Prince Albert died on July 22, 1902, at the age of 58."
+        ]
+      ],
+      "sent_new": "Prince Albert died on July 22, 1902, at the age of 58."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. In 1871, Prince Albert married Princess Marie of Prussia. The couple had one son named Duke Ernst II. After the death of his father-in-law, Prince Charles, in 1883, Prince Albert became involved in a succession dispute over the Duchy of Saxe-Coburg and Gotha. Prince Albert died on July 22, 1902, at the age of 58.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. Prince Albert married Princess Marie of Prussia. After the death of his father-in-law, Prince Charles, in 1883, Prince Albert became involved in a succession dispute over the Duchy of Saxe-Coburg and Gotha. Prince Albert died on July 22, 1902, at the age of 58.",
+      "sent_orig": "He was succeeded by his son, Duke Ernst II, who went on to rule Saxe-Altenburg until the abolition of the monarchy in 1918.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was succeeded by his son, Duke Ernst II, who went on to rule Saxe-Altenburg until the abolition of the monarchy in 1918."
+    },
+    {
+      "prefix_original": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. In 1871, Prince Albert married Princess Marie of Prussia. The couple had one son named Duke Ernst II. After the death of his father-in-law, Prince Charles, in 1883, Prince Albert became involved in a succession dispute over the Duchy of Saxe-Coburg and Gotha. Prince Albert died on July 22, 1902, at the age of 58. He was succeeded by his son, Duke Ernst II, who went on to rule Saxe-Altenburg until the abolition of the monarchy in 1918.",
+      "prefix_new": " Prince Albert of Saxe-Altenburg (1843-1902) was a German prince and the last reigning duke of Saxe-Altenburg, a duchy within the German Empire. He was born on April 24, 1843, in Koburg, Germany. Prince Albert succeeded his father as duke in 1853, upon Eduard's death. At the time, Saxe-Altenburg was a relatively small duchy, with a population of around 200,000 people. During his reign, Prince Albert focused on modernizing the duchy's infrastructure and economy. He invested heavily in industry, particularly in the textile and mining sectors, and established a railway network to connect Saxe-Altenburg with other parts of Germany. Prince Albert was also known for his cultural interests and patronage. He supported the arts and sciences, and founded several institutions, including the Altenburg Academy of Sciences and the Altenburg Theater. He also commissioned the construction of several notable buildings, such as the Altenburg Palace and the Church of St. Mary. Prince Albert married Princess Marie of Prussia. After the death of his father-in-law, Prince Charles, in 1883, Prince Albert became involved in a succession dispute over the Duchy of Saxe-Coburg and Gotha. Prince Albert died on July 22, 1902, at the age of 58. He was succeeded by his son, Duke Ernst II, who went on to rule Saxe-Altenburg until the abolition of the monarchy in 1918.",
+      "sent_orig": "Today, Prince Albert is remembered as a progressive and enlightened ruler who contributed significantly to the development and modernization of Saxe-Altenburg during his reign.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Prince Albert is remembered as a progressive and enlightened ruler who contributed significantly to the development and modernization of Saxe-Altenburg during his reign."
+    }
+  ]
+}

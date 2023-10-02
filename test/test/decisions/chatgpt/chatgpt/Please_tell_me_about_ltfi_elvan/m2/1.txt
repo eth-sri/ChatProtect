@@ -1,0 +1,125 @@
+{
+  "prompt": "Please tell me about l\u00fctfi elvan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "L\u00fctfi Elvan is a Turkish economist and politician.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "L\u00fctfi Elvan is a Turkish economist and politician."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician.",
+      "sent_orig": "He was born on March 12, 1962, in Nazilli, Turkey.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on March 12, 1962, Nazilli,"
+          ],
+          "He was born in the province of Karaman, Turkey.",
+          "He was born in Turkey."
+        ]
+      ],
+      "sent_new": "He was born in Turkey."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician. He was born on March 12, 1962, in Nazilli, Turkey.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician. He was born in Turkey.",
+      "sent_orig": "He studied at Ankara University's Faculty of Political Science before receiving a master's degree in economic planning from the University of Bradford in the United Kingdom.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "studied",
+            "at"
+          ],
+          "He studied civil engineering at the Middle East Technical University in Ankara.",
+          "He received a master's degree in economic planning from the University of Bradford in the United Kingdom."
+        ]
+      ],
+      "sent_new": "He received a master's degree in economic planning from the University of Bradford in the United Kingdom."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician. He was born on March 12, 1962, in Nazilli, Turkey. He studied at Ankara University's Faculty of Political Science before receiving a master's degree in economic planning from the University of Bradford in the United Kingdom.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician. He was born in Turkey. He received a master's degree in economic planning from the University of Bradford in the United Kingdom.",
+      "sent_orig": "Elvan began his political career as an economic expert for the ruling Justice and Development Party (AKP) and later served as the deputy chairman of the party's Ankara branch.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Elvan",
+            "began",
+            "his political"
+          ],
+          "Elvan began his political career as a member of the Justice and Development Party (AKP) in 2011.",
+          "Elvan served as the deputy chairman of the AKP's Ankara branch."
+        ]
+      ],
+      "sent_new": "Elvan served as the deputy chairman of the AKP's Ankara branch."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician. He was born on March 12, 1962, in Nazilli, Turkey. He studied at Ankara University's Faculty of Political Science before receiving a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan began his political career as an economic expert for the ruling Justice and Development Party (AKP) and later served as the deputy chairman of the party's Ankara branch.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician. He was born in Turkey. He received a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan served as the deputy chairman of the AKP's Ankara branch.",
+      "sent_orig": "In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician. He was born on March 12, 1962, in Nazilli, Turkey. He studied at Ankara University's Faculty of Political Science before receiving a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan began his political career as an economic expert for the ruling Justice and Development Party (AKP) and later served as the deputy chairman of the party's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician. He was born in Turkey. He received a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan served as the deputy chairman of the AKP's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role.",
+      "sent_orig": "Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician. He was born on March 12, 1962, in Nazilli, Turkey. He studied at Ankara University's Faculty of Political Science before receiving a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan began his political career as an economic expert for the ruling Justice and Development Party (AKP) and later served as the deputy chairman of the party's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role. Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician. He was born in Turkey. He received a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan served as the deputy chairman of the AKP's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role. Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015.",
+      "sent_orig": "He was appointed as the Minister of Transport and Infrastructure in 2020.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was appointed",
+            "as the Minister of Transport and Infrastructure in"
+          ],
+          "He was appointed as the Minister of Finance and Treasury in November 2020.",
+          "He was appointed as the Minister of Finance and Treasury in November 2020."
+        ]
+      ],
+      "sent_new": "He was appointed as the Minister of Finance and Treasury in November 2020."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician. He was born on March 12, 1962, in Nazilli, Turkey. He studied at Ankara University's Faculty of Political Science before receiving a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan began his political career as an economic expert for the ruling Justice and Development Party (AKP) and later served as the deputy chairman of the party's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role. Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015. He was appointed as the Minister of Transport and Infrastructure in 2020.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician. He was born in Turkey. He received a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan served as the deputy chairman of the AKP's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role. Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015. He was appointed as the Minister of Finance and Treasury in November 2020.",
+      "sent_orig": "Throughout his career, Elvan has been involved in various economic and infrastructure development projects in Turkey, including the construction of airports, highways, and high-speed railway lines.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout his career, Elvan has been involved in various economic and infrastructure development projects in Turkey, including the construction of airports, highways, and high-speed railway lines."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician. He was born on March 12, 1962, in Nazilli, Turkey. He studied at Ankara University's Faculty of Political Science before receiving a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan began his political career as an economic expert for the ruling Justice and Development Party (AKP) and later served as the deputy chairman of the party's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role. Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015. He was appointed as the Minister of Transport and Infrastructure in 2020. Throughout his career, Elvan has been involved in various economic and infrastructure development projects in Turkey, including the construction of airports, highways, and high-speed railway lines.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician. He was born in Turkey. He received a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan served as the deputy chairman of the AKP's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role. Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015. He was appointed as the Minister of Finance and Treasury in November 2020. Throughout his career, Elvan has been involved in various economic and infrastructure development projects in Turkey, including the construction of airports, highways, and high-speed railway lines.",
+      "sent_orig": "He has also been a vocal advocate for increasing foreign investment in the country.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also been a vocal advocate for increasing foreign investment in the country."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish economist and politician. He was born on March 12, 1962, in Nazilli, Turkey. He studied at Ankara University's Faculty of Political Science before receiving a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan began his political career as an economic expert for the ruling Justice and Development Party (AKP) and later served as the deputy chairman of the party's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role. Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015. He was appointed as the Minister of Transport and Infrastructure in 2020. Throughout his career, Elvan has been involved in various economic and infrastructure development projects in Turkey, including the construction of airports, highways, and high-speed railway lines. He has also been a vocal advocate for increasing foreign investment in the country.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish economist and politician. He was born in Turkey. He received a master's degree in economic planning from the University of Bradford in the United Kingdom. Elvan served as the deputy chairman of the AKP's Ankara branch. In 2011, he was elected as a Member of Parliament for the AKP and has continued to serve in this role. Elvan has held several prominent positions in the Turkish government, including serving as the Minister of Development from 2013 to 2015. He was appointed as the Minister of Finance and Treasury in November 2020. Throughout his career, Elvan has been involved in various economic and infrastructure development projects in Turkey, including the construction of airports, highways, and high-speed railway lines. He has also been a vocal advocate for increasing foreign investment in the country.",
+      "sent_orig": "Elvan holds a reputation for being a technocratic figure in the AKP and has often been seen as a potential contender for the party's leadership.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Elvan holds a reputation for being a technocratic figure in the AKP and has often been seen as a potential contender for the party's leadership."
+    }
+  ]
+}

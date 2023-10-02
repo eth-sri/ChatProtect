@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe competition featured 53 judokas from 53 different countries, competing for the world championship title.",
+  "alt": "53 judokas from 53 different countries were competing in the tournament.",
+  "prefix": " The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan, featuring 53 judokas from 53 different countries.",
+  "triple": [
+    [
+      "53 judokas from 53 different",
+      "competing",
+      "for the world championship title."
+    ],
+    "compactie",
+    552
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided do not contain contradictory information. Statement 1 mentions that the competition featured 53 judokas from 53 different countries, competing for the world championship title, while Statement 2 states that 53 judokas from 53 different countries were competing in the tournament. Both statements convey the same information, that there were 53 judokas from 53 different countries participating in the 2003 World Judo Championships Men's 60 kg. Therefore, the statements are not contradictory."
+}

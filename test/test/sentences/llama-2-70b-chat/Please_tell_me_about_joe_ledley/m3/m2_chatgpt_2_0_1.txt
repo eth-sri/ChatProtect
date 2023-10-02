@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about joe ledley",
+  "orig": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team.",
+  "alt": " Joe Ledley plays for Derby County.",
+  "prefix": "",
+  "triple": [
+    [
+      "a Welsh professional footballer",
+      "plays",
+      "as a central midfielder for Crystal Palace and the Wales national team."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Joe Ledley are contradictory. Statement 1 states that he plays for Crystal Palace and the Wales national team, while statement 2 claims that he plays for Derby County. These are two different teams, so the statements cannot both be true at the same time."
+}

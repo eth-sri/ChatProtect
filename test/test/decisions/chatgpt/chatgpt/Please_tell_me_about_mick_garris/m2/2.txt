@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about mick garris",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Mick Garris is an American filmmaker, screenwriter, and producer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Mick Garris is an American filmmaker, screenwriter, and producer."
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer.",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer.",
+      "sent_orig": "He was born on December 4, 1951, in Santa Monica, California.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born on December 4, 1951, in Santa Monica, California."
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California.",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California.",
+      "sent_orig": "He is best known for his work in the horror genre, having directed and written several horror films and TV shows.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is best known for his work in the horror genre, having directed and written several horror films and TV shows."
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows.",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows.",
+      "sent_orig": "Garris started his career as a screenwriter in the 1980s, working on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Garris",
+            "started",
+            "his career as a screenwriter in the 1980s,"
+          ],
+          "Garris started his career as a publicist for the film industry.",
+          "Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s."
+        ]
+      ],
+      "sent_new": "Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s."
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris started his career as a screenwriter in the 1980s, working on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus.\"",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s.",
+      "sent_orig": "He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\""
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris started his career as a screenwriter in the 1980s, working on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus.\" He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\"",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s. He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\"",
+      "sent_orig": "He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel."
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris started his career as a screenwriter in the 1980s, working on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus.\" He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel.",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s. He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel.",
+      "sent_orig": "Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\""
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris started his career as a screenwriter in the 1980s, working on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus.\" He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel. Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\"",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s. He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel. Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\"",
+      "sent_orig": "He is also the creator and host of the podcast \"Post Mortem with Mick Garris,\" where he interviews figures in the horror industry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is also the creator and host of the podcast \"Post Mortem with Mick Garris,\" where he interviews figures in the horror industry."
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris started his career as a screenwriter in the 1980s, working on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus.\" He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel. Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\" He is also the creator and host of the podcast \"Post Mortem with Mick Garris,\" where he interviews figures in the horror industry.",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s. He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel. Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\" He is also the creator and host of the podcast \"Post Mortem with Mick Garris,\" where he interviews figures in the horror industry.",
+      "sent_orig": "In addition to his work in horror, Garris has also worked on other genres, including family-friendly films like \"Hocus Pocus\" and \"The Spooktacular New Adventures of Casper.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work in horror, Garris has also worked on other genres, including family-friendly films like \"Hocus Pocus\" and \"The Spooktacular New Adventures of Casper.\""
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris started his career as a screenwriter in the 1980s, working on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus.\" He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel. Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\" He is also the creator and host of the podcast \"Post Mortem with Mick Garris,\" where he interviews figures in the horror industry. In addition to his work in horror, Garris has also worked on other genres, including family-friendly films like \"Hocus Pocus\" and \"The Spooktacular New Adventures of Casper.\"",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s. He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel. Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\" He is also the creator and host of the podcast \"Post Mortem with Mick Garris,\" where he interviews figures in the horror industry. In addition to his work in horror, Garris has also worked on other genres, including family-friendly films like \"Hocus Pocus\" and \"The Spooktacular New Adventures of Casper.\"",
+      "sent_orig": "He has also written and produced for TV shows such as \"Amazing Stories\" and \"Masters of Horror.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also written and produced for TV shows such as \"Amazing Stories\" and \"Masters of Horror.\""
+    },
+    {
+      "prefix_original": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris started his career as a screenwriter in the 1980s, working on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus.\" He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel. Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\" He is also the creator and host of the podcast \"Post Mortem with Mick Garris,\" where he interviews figures in the horror industry. In addition to his work in horror, Garris has also worked on other genres, including family-friendly films like \"Hocus Pocus\" and \"The Spooktacular New Adventures of Casper.\" He has also written and produced for TV shows such as \"Amazing Stories\" and \"Masters of Horror.\"",
+      "prefix_new": "Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows. Garris worked on projects like \"Critters 2: The Main Course\" and \"Hocus Pocus\" as a screenwriter in the 1980s. He then moved into directing, helming films such as \"Psycho IV: The Beginning\" and \"Sleepwalkers.\" He also wrote and directed the TV miniseries \"The Stand,\" based on the Stephen King novel. Garris has been associated with Stephen King for much of his career, having directed several adaptations of King's works, including \"The Stand,\" \"The Shining,\" and \"Desperation.\" He is also the creator and host of the podcast \"Post Mortem with Mick Garris,\" where he interviews figures in the horror industry. In addition to his work in horror, Garris has also worked on other genres, including family-friendly films like \"Hocus Pocus\" and \"The Spooktacular New Adventures of Casper.\" He has also written and produced for TV shows such as \"Amazing Stories\" and \"Masters of Horror.\"",
+      "sent_orig": "Overall, Mick Garris is a prolific filmmaker and screenwriter who has made a significant impact on the horror genre.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Mick Garris is a prolific filmmaker and screenwriter who has made a significant impact on the horror genre."
+    }
+  ]
+}

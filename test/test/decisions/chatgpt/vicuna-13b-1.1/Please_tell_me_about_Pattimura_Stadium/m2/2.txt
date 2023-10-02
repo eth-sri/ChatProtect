@@ -1,0 +1,64 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia.",
+      "sent_orig": "It is named after the Indonesian national hero, Pattimura, who was born in Ambon.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is named after the Indonesian national hero, Pattimura, who was born in Ambon."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is named after the Indonesian national hero, Pattimura, who was born in Ambon.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is named after the Indonesian national hero, Pattimura, who was born in Ambon.",
+      "sent_orig": "The stadium is used primarily for football matches and is the home ground of Persahabatan FC, a football club based in Ambon.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The",
+            "is",
+            "the home ground of Persahabatan FC,"
+          ],
+          "The stadium is used primarily for football matches and is the home field of the Persela Lamongan football club.",
+          "The stadium is used primarily for football matches and is the home ground of Persahabatan FC, a football club based in Ambon."
+        ]
+      ],
+      "sent_new": "The stadium is used primarily for football matches and is the home ground of Persahabatan FC, a football club based in Ambon."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is named after the Indonesian national hero, Pattimura, who was born in Ambon. The stadium is used primarily for football matches and is the home ground of Persahabatan FC, a football club based in Ambon.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is named after the Indonesian national hero, Pattimura, who was born in Ambon. The stadium is used primarily for football matches and is the home ground of Persahabatan FC, a football club based in Ambon.",
+      "sent_orig": "The stadium has a capacity of around 20,000 spectators and was built in the 1970s.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is named after the Indonesian national hero, Pattimura, who was born in Ambon. The stadium is used primarily for football matches and is the home ground of Persahabatan FC, a football club based in Ambon. The stadium has a capacity of around 20,000 spectators and was built in the 1970s.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is named after the Indonesian national hero, Pattimura, who was born in Ambon. The stadium is used primarily for football matches and is the home ground of Persahabatan FC, a football club based in Ambon.",
+      "sent_orig": "It has hosted several important football matches, including the Indonesia Super League, and has also been used as a venue for musical concerts and other events.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "several important football matches, including the Indonesia Super League,",
+            "has also been used",
+            "as a venue for musical concerts and other events."
+          ],
+          "Several important football matches, including the Indonesia Super League, have also been used.",
+          "The stadium has also been used as a venue for musical concerts and other events."
+        ]
+      ],
+      "sent_new": "The stadium has also been used as a venue for musical concerts and other events."
+    }
+  ]
+}

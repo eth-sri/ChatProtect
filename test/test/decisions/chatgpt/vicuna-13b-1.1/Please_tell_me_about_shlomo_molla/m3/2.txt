@@ -1,0 +1,49 @@
+{
+  "prompt": "Please tell me about shlomo molla",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "He served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "served",
+            "as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021."
+          ],
+          "He served as the Chief Information Officer and Senior Vice President of Microsoft.",
+          "Shlomo Molla served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021."
+        ]
+      ],
+      "sent_new": "Shlomo Molla served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021."
+    },
+    {
+      "prefix_original": "He served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021.",
+      "prefix_new": "Shlomo Molla served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021.",
+      "sent_orig": "Molla is known for his strong advocacy for the rights of the ultra-Orthodox Jewish community and has been a vocal critic of the Israeli government's policies regarding military conscription for ultra-Orthodox Jews.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Molla is known for his strong advocacy for the rights of the ultra-Orthodox Jewish community and has been a vocal critic of the Israeli government's policies regarding military conscription for ultra-Orthodox Jews."
+    },
+    {
+      "prefix_original": "He served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021. Molla is known for his strong advocacy for the rights of the ultra-Orthodox Jewish community and has been a vocal critic of the Israeli government's policies regarding military conscription for ultra-Orthodox Jews.",
+      "prefix_new": "Shlomo Molla served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021. Molla is known for his strong advocacy for the rights of the ultra-Orthodox Jewish community and has been a vocal critic of the Israeli government's policies regarding military conscription for ultra-Orthodox Jews.",
+      "sent_orig": "He was appointed as the Israeli ambassador to the United States.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was appointed",
+            "as the Israeli ambassador to the United States."
+          ],
+          "He was appointed as the Minister of Energy and Water Resources in 2021.",
+          "He served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021 and is known for his strong advocacy for the rights of the ultra-Orthodox Jewish community."
+        ]
+      ],
+      "sent_new": "He served as a member of the Knesset for the religious Zionist party, Bayit Yehudi, from 2015 to 2021 and is known for his strong advocacy for the rights of the ultra-Orthodox Jewish community."
+    }
+  ]
+}

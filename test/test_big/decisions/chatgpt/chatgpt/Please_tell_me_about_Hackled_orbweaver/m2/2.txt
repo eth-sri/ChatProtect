@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Hackled orb-weaver",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance."
+    },
+    {
+      "prefix_original": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance.",
+      "prefix_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance.",
+      "sent_orig": "They are native to Australia and are commonly found in forests and woodlands.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "They",
+            "are are commonly found",
+            "in forests and woodlands."
+          ],
+          "They are commonly found in Australia and New Zealand.",
+          "They are native to Australia."
+        ]
+      ],
+      "sent_new": "They are native to Australia."
+    },
+    {
+      "prefix_original": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia and are commonly found in forests and woodlands.",
+      "prefix_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia.",
+      "sent_orig": "Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration."
+    },
+    {
+      "prefix_original": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia and are commonly found in forests and woodlands. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration.",
+      "prefix_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration.",
+      "sent_orig": "They have two rows of humps on their backs and long, slender legs with tufted hairs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They have two rows of humps on their backs and long, slender legs with tufted hairs."
+    },
+    {
+      "prefix_original": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia and are commonly found in forests and woodlands. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs.",
+      "prefix_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs.",
+      "sent_orig": "Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings."
+    },
+    {
+      "prefix_original": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia and are commonly found in forests and woodlands. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs. Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings.",
+      "prefix_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs. Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings.",
+      "sent_orig": "Their webs are circular in shape and typically span between branches and leaves in bushes and shrubs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Their webs are circular in shape and typically span between branches and leaves in bushes and shrubs."
+    },
+    {
+      "prefix_original": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia and are commonly found in forests and woodlands. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs. Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings. Their webs are circular in shape and typically span between branches and leaves in bushes and shrubs.",
+      "prefix_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs. Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings. Their webs are circular in shape and typically span between branches and leaves in bushes and shrubs.",
+      "sent_orig": "They use their webs to capture prey, which usually consists of insects and other small arthropods.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They use their webs to capture prey, which usually consists of insects and other small arthropods."
+    },
+    {
+      "prefix_original": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia and are commonly found in forests and woodlands. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs. Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings. Their webs are circular in shape and typically span between branches and leaves in bushes and shrubs. They use their webs to capture prey, which usually consists of insects and other small arthropods.",
+      "prefix_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs. Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings. Their webs are circular in shape and typically span between branches and leaves in bushes and shrubs. They use their webs to capture prey, which usually consists of insects and other small arthropods.",
+      "sent_orig": "Once prey is caught in their web, Hackled orb-weavers wrap it in silk and feed on it.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Once prey is caught in their web, Hackled orb-weavers wrap it in silk and feed on it."
+    },
+    {
+      "prefix_original": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia and are commonly found in forests and woodlands. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs. Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings. Their webs are circular in shape and typically span between branches and leaves in bushes and shrubs. They use their webs to capture prey, which usually consists of insects and other small arthropods. Once prey is caught in their web, Hackled orb-weavers wrap it in silk and feed on it.",
+      "prefix_new": "The Hackled orb-weaver (Minyriolus pusillus) is a small, spider with a very distinctive appearance. They are native to Australia. Hackled orb-weavers are typically less than 5mm in body length and are characterized by their shiny, golden brown or reddish-brown coloration. They have two rows of humps on their backs and long, slender legs with tufted hairs. Despite their small size, they are incredibly efficient at spinning their webs and are active hunters in their surroundings. Their webs are circular in shape and typically span between branches and leaves in bushes and shrubs. They use their webs to capture prey, which usually consists of insects and other small arthropods. Once prey is caught in their web, Hackled orb-weavers wrap it in silk and feed on it.",
+      "sent_orig": "Despite their small size, these spiders play an important role in their ecosystem by controlling insect populations and helping to maintain balance in their natural habitats.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite their small size, these spiders play an important role in their ecosystem by controlling insect populations and helping to maintain balance in their natural habitats."
+    }
+  ]
+}

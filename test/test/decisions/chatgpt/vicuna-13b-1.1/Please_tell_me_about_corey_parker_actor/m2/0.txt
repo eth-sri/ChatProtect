@@ -1,0 +1,98 @@
+{
+  "prompt": "Please tell me about corey parker (actor)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director."
+    },
+    {
+      "prefix_original": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director.",
+      "prefix_new": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director.",
+      "sent_orig": "He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\".",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "is known",
+            "for his roles in various TV shows and films, such as \"Good"
+          ],
+          "He is known for his roles in the TV shows \"Battlestar Galactica\" and \"Quantum Leap\".",
+          "He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\"."
+        ]
+      ],
+      "sent_new": "He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\"."
+    },
+    {
+      "prefix_original": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\".",
+      "prefix_new": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\".",
+      "sent_orig": "He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "is also known",
+            "for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi."
+          ],
+          "He is also known for his role as Lil Rel Howery in the film \"Get Out\".",
+          "He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi."
+        ]
+      ],
+      "sent_new": "He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi."
+    },
+    {
+      "prefix_original": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi.",
+      "prefix_new": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi.",
+      "sent_orig": "Parker was born on August 16, 1970, in Burbank, California, and grew up in Hollywood.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Parker",
+            "was born",
+            "on August"
+          ],
+          "Corey Parker was born on July 16, 1970, in North Carolina, USA.",
+          "Parker was born on August 16, 1970, in Burbank, California."
+        ]
+      ],
+      "sent_new": "Parker was born on August 16, 1970, in Burbank, California."
+    },
+    {
+      "prefix_original": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi. Parker was born on August 16, 1970, in Burbank, California, and grew up in Hollywood.",
+      "prefix_new": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi. Parker was born on August 16, 1970, in Burbank, California.",
+      "sent_orig": "He began his career as a model and actor from an early age, and his first acting role was in the TV show \"Good Times\" in 1974.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi. Parker was born on August 16, 1970, in Burbank, California, and grew up in Hollywood. He began his career as a model and actor from an early age, and his first acting role was in the TV show \"Good Times\" in 1974.",
+      "prefix_new": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi. Parker was born on August 16, 1970, in Burbank, California.",
+      "sent_orig": "He later appeared in various TV shows and films, including \"The High Life\" (1996), \"Caribe\" (1997), and \"Poseidon\" (2005).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He later appeared in various TV shows and films, including \"The High Life\" (1996), \"Caribe\" (1997), and \"Poseidon\" (2005)."
+    },
+    {
+      "prefix_original": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi. Parker was born on August 16, 1970, in Burbank, California, and grew up in Hollywood. He began his career as a model and actor from an early age, and his first acting role was in the TV show \"Good Times\" in 1974. He later appeared in various TV shows and films, including \"The High Life\" (1996), \"Caribe\" (1997), and \"Poseidon\" (2005).",
+      "prefix_new": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi. Parker was born on August 16, 1970, in Burbank, California. He later appeared in various TV shows and films, including \"The High Life\" (1996), \"Caribe\" (1997), and \"Poseidon\" (2005).",
+      "sent_orig": "Parker has also worked as a producer and director, and his production company, Corey Parker Productions, has produced several TV shows and films.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Parker has also worked as a producer and director, and his production company, Corey Parker Productions, has produced several TV shows and films."
+    },
+    {
+      "prefix_original": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi. Parker was born on August 16, 1970, in Burbank, California, and grew up in Hollywood. He began his career as a model and actor from an early age, and his first acting role was in the TV show \"Good Times\" in 1974. He later appeared in various TV shows and films, including \"The High Life\" (1996), \"Caribe\" (1997), and \"Poseidon\" (2005). Parker has also worked as a producer and director, and his production company, Corey Parker Productions, has produced several TV shows and films.",
+      "prefix_new": "Corey Parker (born Corey Daniel Parker) is an American actor, producer, and director. He is known for his roles in various TV shows and films, such as \"Good Times\", \"The High Life\", \"Caribe\", and \"Poseidon\". He is also known for his appearance in the music video for the song \"Livin' on a Prayer\" by Bon Jovi. Parker was born on August 16, 1970, in Burbank, California. He later appeared in various TV shows and films, including \"The High Life\" (1996), \"Caribe\" (1997), and \"Poseidon\" (2005). Parker has also worked as a producer and director, and his production company, Corey Parker Productions, has produced several TV shows and films.",
+      "sent_orig": "In addition to his work in the entertainment industry, Parker is also a philanthropist and has been involved in various charitable organizations, including the Make-A-Wish Foundation and the American Heart Association.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work in the entertainment industry, Parker is also a philanthropist and has been involved in various charitable organizations, including the Make-A-Wish Foundation and the American Heart Association."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "prompt": "Please tell me about Marbel Arch",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The arch is 45 feet high and features intricate carvings and sculptures, including four lions at the base.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The arch is 45 feet high and features intricate carvings and sculptures, including four lions at the base."
+    },
+    {
+      "prefix_original": "The arch is 45 feet high and features intricate carvings and sculptures, including four lions at the base.",
+      "prefix_new": "The arch is 45 feet high and features intricate carvings and sculptures, including four lions at the base.",
+      "sent_orig": "It has been a popular tourist attraction and meeting point in London for over a century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has been a popular tourist attraction and meeting point in London for over a century."
+    },
+    {
+      "prefix_original": "The arch is 45 feet high and features intricate carvings and sculptures, including four lions at the base. It has been a popular tourist attraction and meeting point in London for over a century.",
+      "prefix_new": "The arch is 45 feet high and features intricate carvings and sculptures, including four lions at the base. It has been a popular tourist attraction and meeting point in London for over a century.",
+      "sent_orig": "In recent years, the area around Marble Arch has undergone significant redevelopment, with new shops, restaurants, and hotels opening up in the surrounding streets.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In recent years, the area around Marble Arch has undergone significant redevelopment, with new shops, restaurants, and hotels opening up in the surrounding streets."
+    },
+    {
+      "prefix_original": "The arch is 45 feet high and features intricate carvings and sculptures, including four lions at the base. It has been a popular tourist attraction and meeting point in London for over a century. In recent years, the area around Marble Arch has undergone significant redevelopment, with new shops, restaurants, and hotels opening up in the surrounding streets.",
+      "prefix_new": "The arch is 45 feet high and features intricate carvings and sculptures, including four lions at the base. It has been a popular tourist attraction and meeting point in London for over a century. In recent years, the area around Marble Arch has undergone significant redevelopment, with new shops, restaurants, and hotels opening up in the surrounding streets.",
+      "sent_orig": "It is also a popular spot for protests and demonstrations due to its central location and visibility.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also a popular spot for protests and demonstrations due to its central location and visibility."
+    }
+  ]
+}

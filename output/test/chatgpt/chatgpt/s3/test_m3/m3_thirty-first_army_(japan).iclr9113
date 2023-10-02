@@ -1,0 +1,69 @@
+test/test/sentences/chatgpt/thirty-first_army_(japan)/m3/m3_1_1_1.txt
+Q: I give you the beginning of a description about Thirty-First Army (Japan).
+Then follow two statements.
+
+Description:
+The Thirty-First Army was a field army of the Imperial Japanese Army during World War II.
+
+Statement 1:
+The Thirty-First Army played a significant role in the Battle of Leyte, which was one of the largest naval battles in history.
+
+Statement 2:
+The Thirty-First Army played a significant role in the Battle of Leyte, where it was tasked with defending the island against the Allied forces.
+
+Please explain whether the statements about Thirty-First Army (Japan) are contradictory.
+Provide your explanation only.
+
+A: The statements about Thirty-First Army (Japan) are not contradictory. Both statements mention the significant role played by the army in the Battle of Leyte. The only difference is that statement 1 highlights the scale of the battle, while statement 2 focuses on the specific task assigned to the army during the battle.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+label: ok
+score: 0.0
+cost: 450
+test/test/sentences/chatgpt/thirty-first_army_(japan)/m3/m3_1_1_0.txt
+Q: I give you the beginning of a description about Thirty-First Army (Japan).
+Then follow two statements.
+
+Description:
+The Thirty-First Army was a field army of the Imperial Japanese Army during World War II.
+
+Statement 1:
+The Thirty-First Army played a significant role in the Battle of Leyte, which was one of the largest naval battles in history.
+
+Statement 2:
+The Thirty-First Army played a significant role in the Battle of Okinawa.
+
+Please explain whether the statements about Thirty-First Army (Japan) are contradictory.
+Provide your explanation only.
+
+A: The statements about Thirty-First Army (Japan) are not contradictory. Both statements mention that the army played a significant role in different battles during World War II. The first statement mentions the Battle of Leyte, while the second statement mentions the Battle of Okinawa. Therefore, both statements are true and do not contradict each other.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No. The statements about Thirty-First Army (Japan) are not contradictory.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 448
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=135, completion_tokens=63), Usage(prompt_tokens=220, completion_tokens=32), Usage(prompt_tokens=123, completion_tokens=67), Usage(prompt_tokens=212, completion_tokens=46)]
+690
+208
+898
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

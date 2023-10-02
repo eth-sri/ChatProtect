@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about Amman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Amman is the capital of Jordan.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Amman is the capital of Jordan."
+    },
+    {
+      "prefix_original": "Amman is the capital of Jordan.",
+      "prefix_new": "Amman is the capital of Jordan.",
+      "sent_orig": "It is a bustling city with a rich history and culture, making it a popular destination for visitors.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a bustling city with a rich history and culture, making it a popular destination for visitors."
+    },
+    {
+      "prefix_original": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors.",
+      "prefix_new": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors.",
+      "sent_orig": "Amman has a Mediterranean climate with hot and dry summers and mild winters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Amman has a Mediterranean climate with hot and dry summers and mild winters."
+    },
+    {
+      "prefix_original": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters.",
+      "prefix_new": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters.",
+      "sent_orig": "It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others."
+    },
+    {
+      "prefix_original": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others.",
+      "prefix_new": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others.",
+      "sent_orig": "The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes."
+    },
+    {
+      "prefix_original": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others. The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes.",
+      "prefix_new": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others. The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes.",
+      "sent_orig": "Falafel, hummus, kebabs, and other delicious foods can be found in the city's many cafes, restaurants, and street vendors.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Falafel, hummus, kebabs, and other delicious foods can be found in the city's many cafes, restaurants, and street vendors."
+    },
+    {
+      "prefix_original": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others. The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes. Falafel, hummus, kebabs, and other delicious foods can be found in the city's many cafes, restaurants, and street vendors.",
+      "prefix_new": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others. The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes. Falafel, hummus, kebabs, and other delicious foods can be found in the city's many cafes, restaurants, and street vendors.",
+      "sent_orig": "Amman is also known for its lively entertainment scene, with numerous theaters, cinemas, and music venues cementing its position as the cultural hub of the country.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Amman is also known for its lively entertainment scene, with numerous theaters, cinemas, and music venues cementing its position as the cultural hub of the country."
+    },
+    {
+      "prefix_original": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others. The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes. Falafel, hummus, kebabs, and other delicious foods can be found in the city's many cafes, restaurants, and street vendors. Amman is also known for its lively entertainment scene, with numerous theaters, cinemas, and music venues cementing its position as the cultural hub of the country.",
+      "prefix_new": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others. The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes. Falafel, hummus, kebabs, and other delicious foods can be found in the city's many cafes, restaurants, and street vendors. Amman is also known for its lively entertainment scene, with numerous theaters, cinemas, and music venues cementing its position as the cultural hub of the country.",
+      "sent_orig": "It is a city that is constantly evolving, with modern developments and traditional architecture coexisting side by side.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a city that is constantly evolving, with modern developments and traditional architecture coexisting side by side."
+    },
+    {
+      "prefix_original": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others. The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes. Falafel, hummus, kebabs, and other delicious foods can be found in the city's many cafes, restaurants, and street vendors. Amman is also known for its lively entertainment scene, with numerous theaters, cinemas, and music venues cementing its position as the cultural hub of the country. It is a city that is constantly evolving, with modern developments and traditional architecture coexisting side by side.",
+      "prefix_new": "Amman is the capital of Jordan. It is a bustling city with a rich history and culture, making it a popular destination for visitors. Amman has a Mediterranean climate with hot and dry summers and mild winters. It is home to many historical sites, including the ancient Roman amphitheater, the Citadel, the Royal Automobile Museum, the Jordan National Gallery of Fine Arts, and many others. The city is also renowned for its cuisine, which is a blend of traditional Arabic and Mediterranean dishes. Falafel, hummus, kebabs, and other delicious foods can be found in the city's many cafes, restaurants, and street vendors. Amman is also known for its lively entertainment scene, with numerous theaters, cinemas, and music venues cementing its position as the cultural hub of the country. It is a city that is constantly evolving, with modern developments and traditional architecture coexisting side by side.",
+      "sent_orig": "Overall, Amman is a bustling and vibrant city that offers a mix of ancient history, rich culture, and modern experiences, making it an ideal destination for anyone looking to explore the Middle East.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Amman is a bustling and vibrant city that offers a mix of ancient history, rich culture, and modern experiences, making it an ideal destination for anyone looking to explore the Middle East."
+    }
+  ]
+}

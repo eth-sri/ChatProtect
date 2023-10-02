@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "The Bailey family sold the home, which was later donated to the Tallahassee Junior Museum.",
+  "alt": "The Bailey family sold the house to the Thompson family in 1922.",
+  "prefix": " It was built in 1885 for attorney Charles H. Bailey. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home was purchased by the Bailey family. They added a one-story wing to the house in the early 1900s.",
+  "triple": [
+    [
+      "The Bailey family",
+      "sold",
+      "the home,"
+    ],
+    "compactie",
+    516
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Bailey-Thompson House are not contradictory. Statement 1 mentions that the home was later donated to the Tallahassee Junior Museum, but it does not specify when this happened. Statement 2 mentions that the Bailey family sold the house to the Thompson family in 1922, which could have been before or after the donation to the museum. Therefore, both statements can be true without contradicting each other."
+}

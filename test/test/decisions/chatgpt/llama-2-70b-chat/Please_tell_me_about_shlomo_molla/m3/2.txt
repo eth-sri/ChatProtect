@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about shlomo molla",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader."
+    },
+    {
+      "prefix_original": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader.",
+      "prefix_new": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader.",
+      "sent_orig": "He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition."
+    },
+    {
+      "prefix_original": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition.",
+      "prefix_new": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition.",
+      "sent_orig": "He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community."
+    },
+    {
+      "prefix_original": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community.",
+      "prefix_new": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community.",
+      "sent_orig": "Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church."
+    },
+    {
+      "prefix_original": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community. Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church.",
+      "prefix_new": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community. Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church.",
+      "sent_orig": "His most famous work is the \"Melketta\", a comprehensive commentary on the Hebrew Bible.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "His most famous work",
+            "is",
+            "the \"Melketta\", a comprehensive commentary on the Hebrew Bible."
+          ],
+          " His most famous work is the \"Mikra Kedosha,\" a commentary on the Torah and other Jewish texts.",
+          "His most famous work is the \"Mikra Kedosha,\" a commentary on the Torah and other Jewish texts."
+        ]
+      ],
+      "sent_new": "His most famous work is the \"Mikra Kedosha,\" a commentary on the Torah and other Jewish texts."
+    },
+    {
+      "prefix_original": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community. Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church. His most famous work is the \"Melketta\", a comprehensive commentary on the Hebrew Bible.",
+      "prefix_new": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community. Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church. His most famous work is the \"Mikra Kedosha,\" a commentary on the Torah and other Jewish texts.",
+      "sent_orig": "Molla was a prominent figure in the relations between the Ethiopian Jewish community and the wider Jewish world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Molla was a prominent figure in the relations between the Ethiopian Jewish community and the wider Jewish world."
+    },
+    {
+      "prefix_original": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community. Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church. His most famous work is the \"Melketta\", a comprehensive commentary on the Hebrew Bible. Molla was a prominent figure in the relations between the Ethiopian Jewish community and the wider Jewish world.",
+      "prefix_new": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community. Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church. His most famous work is the \"Mikra Kedosha,\" a commentary on the Torah and other Jewish texts. Molla was a prominent figure in the relations between the Ethiopian Jewish community and the wider Jewish world.",
+      "sent_orig": "He corresponded with scholars and rabbis in Europe and was known for his efforts to preserve and promote Jewish learning and tradition in Ethiopia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He corresponded with scholars and rabbis in Europe and was known for his efforts to preserve and promote Jewish learning and tradition in Ethiopia."
+    },
+    {
+      "prefix_original": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community. Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church. His most famous work is the \"Melketta\", a comprehensive commentary on the Hebrew Bible. Molla was a prominent figure in the relations between the Ethiopian Jewish community and the wider Jewish world. He corresponded with scholars and rabbis in Europe and was known for his efforts to preserve and promote Jewish learning and tradition in Ethiopia.",
+      "prefix_new": " Shlomo Molla (1500-1591) was a prominent Ethiopian Jewish scholar and religious leader. He was born in the city of Gondar, Ethiopia, and was known for his expertise in Jewish law and tradition. He served as the Chief Rabbi of Gondar and was a respected teacher and spiritual advisor to the Jewish community. Molla was also a prolific writer and translated many Jewish texts into Ge'ez, the liturgical language of the Ethiopian Orthodox Church. His most famous work is the \"Mikra Kedosha,\" a commentary on the Torah and other Jewish texts. Molla was a prominent figure in the relations between the Ethiopian Jewish community and the wider Jewish world. He corresponded with scholars and rabbis in Europe and was known for his efforts to preserve and promote Jewish learning and tradition in Ethiopia.",
+      "sent_orig": "Despite facing persecution and discrimination, Molla remained dedicated to his faith and played a significant role in preserving and transmitting Jewish knowledge and tradition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite facing persecution and discrimination, Molla remained dedicated to his faith and played a significant role in preserving and transmitting Jewish knowledge and tradition."
+    }
+  ]
+}

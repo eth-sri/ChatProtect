@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about Spain",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church."
+    },
+    {
+      "prefix_original": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church.",
+      "prefix_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church.",
+      "sent_orig": "It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco."
+    },
+    {
+      "prefix_original": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco.",
+      "prefix_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco.",
+      "sent_orig": "Spain is divided into 17 autonomous regions, each with its own distinct culture and language.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Spain is divided into 17 autonomous regions, each with its own distinct culture and language."
+    },
+    {
+      "prefix_original": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language.",
+      "prefix_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language.",
+      "sent_orig": "The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages."
+    },
+    {
+      "prefix_original": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages.",
+      "prefix_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages.",
+      "sent_orig": "Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid."
+    },
+    {
+      "prefix_original": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages. Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid.",
+      "prefix_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages. Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid.",
+      "sent_orig": "It is also renowned for its cuisine, including paella, tapas, and sangria.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also renowned for its cuisine, including paella, tapas, and sangria."
+    },
+    {
+      "prefix_original": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages. Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid. It is also renowned for its cuisine, including paella, tapas, and sangria.",
+      "prefix_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages. Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid. It is also renowned for its cuisine, including paella, tapas, and sangria.",
+      "sent_orig": "Spain is a constitutional monarchy with a parliamentary system of government.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Spain is a constitutional monarchy with a parliamentary system of government."
+    },
+    {
+      "prefix_original": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages. Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid. It is also renowned for its cuisine, including paella, tapas, and sangria. Spain is a constitutional monarchy with a parliamentary system of government.",
+      "prefix_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages. Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid. It is also renowned for its cuisine, including paella, tapas, and sangria. Spain is a constitutional monarchy with a parliamentary system of government.",
+      "sent_orig": "Its current monarch is King Felipe VI, and its prime minister is Pedro S\u00e1nchez.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Its current monarch is King Felipe VI, and its prime minister is Pedro S\u00e1nchez."
+    },
+    {
+      "prefix_original": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages. Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid. It is also renowned for its cuisine, including paella, tapas, and sangria. Spain is a constitutional monarchy with a parliamentary system of government. Its current monarch is King Felipe VI, and its prime minister is Pedro S\u00e1nchez.",
+      "prefix_new": "Spain has a rich history and culture, with influences from the ancient Romans, Moors, and Catholic Church. It is known for its art, music, dance, food, and sports, including soccer, bullfighting, and flamenco. Spain is divided into 17 autonomous regions, each with its own distinct culture and language. The official language is Spanish, but Catalan, Basque, and Galician are also recognized regional languages. Spain is a popular tourist destination, known for its beaches, historic cities, and famous landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid. It is also renowned for its cuisine, including paella, tapas, and sangria. Spain is a constitutional monarchy with a parliamentary system of government. Its current monarch is King Felipe VI, and its prime minister is Pedro S\u00e1nchez.",
+      "sent_orig": "The country is a member of the European Union, the United Nations, and NATO.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The country is a member of the European Union, the United Nations, and NATO."
+    }
+  ]
+}

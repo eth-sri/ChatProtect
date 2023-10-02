@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about Coral",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones."
+    },
+    {
+      "prefix_original": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones.",
+      "prefix_new": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones.",
+      "sent_orig": "Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton."
+    },
+    {
+      "prefix_original": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton.",
+      "prefix_new": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton.",
+      "sent_orig": "These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks."
+    },
+    {
+      "prefix_original": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks.",
+      "prefix_new": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks.",
+      "sent_orig": "Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem."
+    },
+    {
+      "prefix_original": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem.",
+      "prefix_new": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem.",
+      "sent_orig": "They protect coastlines from storms and erosion, provide food and shelter for countless species, and support fishing and tourism industries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They protect coastlines from storms and erosion, provide food and shelter for countless species, and support fishing and tourism industries."
+    },
+    {
+      "prefix_original": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem. They protect coastlines from storms and erosion, provide food and shelter for countless species, and support fishing and tourism industries.",
+      "prefix_new": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem. They protect coastlines from storms and erosion, provide food and shelter for countless species, and support fishing and tourism industries.",
+      "sent_orig": "Unfortunately, coral reefs are under threat from a variety of factors, including climate change, overfishing, pollution, and coral bleaching.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Unfortunately, coral reefs are under threat from a variety of factors, including climate change, overfishing, pollution, and coral bleaching."
+    },
+    {
+      "prefix_original": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem. They protect coastlines from storms and erosion, provide food and shelter for countless species, and support fishing and tourism industries. Unfortunately, coral reefs are under threat from a variety of factors, including climate change, overfishing, pollution, and coral bleaching.",
+      "prefix_new": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem. They protect coastlines from storms and erosion, provide food and shelter for countless species, and support fishing and tourism industries. Unfortunately, coral reefs are under threat from a variety of factors, including climate change, overfishing, pollution, and coral bleaching.",
+      "sent_orig": "Coral bleaching is a process by which corals expel their symbiotic algae, causing them to turn white and eventually die.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Coral bleaching is a process by which corals expel their symbiotic algae, causing them to turn white and eventually die."
+    },
+    {
+      "prefix_original": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem. They protect coastlines from storms and erosion, provide food and shelter for countless species, and support fishing and tourism industries. Unfortunately, coral reefs are under threat from a variety of factors, including climate change, overfishing, pollution, and coral bleaching. Coral bleaching is a process by which corals expel their symbiotic algae, causing them to turn white and eventually die.",
+      "prefix_new": "Coral is a marine animal that belongs to the phylum Cnidaria, which includes jellyfish and sea anemones. Coral reefs are formed by colonies of coral polyps, tiny invertebrate animals, that secrete a hard, rock-like calcium carbonate skeleton. These reefs provide important habitats for many ocean creatures, such as fish, crustaceans, and mollusks. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world, and are an important part of the marine ecosystem. They protect coastlines from storms and erosion, provide food and shelter for countless species, and support fishing and tourism industries. Unfortunately, coral reefs are under threat from a variety of factors, including climate change, overfishing, pollution, and coral bleaching. Coral bleaching is a process by which corals expel their symbiotic algae, causing them to turn white and eventually die.",
+      "sent_orig": "Efforts are being made to protect and restore coral reefs, including reducing carbon emissions to combat climate change, establishing marine protected areas, and implementing sustainable fishing practices.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Efforts are being made to protect and restore coral reefs, including reducing carbon emissions to combat climate change, establishing marine protected areas, and implementing sustainable fishing practices."
+    }
+  ]
+}

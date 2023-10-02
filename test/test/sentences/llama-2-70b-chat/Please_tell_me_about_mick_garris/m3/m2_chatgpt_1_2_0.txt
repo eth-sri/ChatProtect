@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mick garris",
+  "orig": "He has directed several notable films, such as \"The Fly II,\" \"The Stand,\" and \"Desperation.\"",
+  "alt": " He has directed several films, including \"The Stand\" and \"The Shining\" mini-series.",
+  "prefix": "  Mick Garris is a British-American author, screenwriter, and film director, best known for his work in the horror and thriller genres. He is particularly noted for his collaborations with author Stephen King, with whom he has co-authored several novels and screenplays.",
+  "triple": [
+    [
+      "He",
+      "has directed",
+      "several notable films, such as \"The"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Mick Garris are contradictory. Statement 1 mentions \"The Fly II\" and \"Desperation\" as notable films directed by Garris, while Statement 2 does not mention these films and instead includes \"The Shining\" mini-series. Therefore, the two statements provide different information about the films directed by Mick Garris."
+}

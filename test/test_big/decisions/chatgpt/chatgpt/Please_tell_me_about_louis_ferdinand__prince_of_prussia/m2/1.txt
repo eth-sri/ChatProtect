@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about louis ferdinand , prince of prussia",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern.",
+      "sent_orig": "He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin.",
+      "sent_orig": "During World War II, Louis Ferdinand served in the German army, rising to the rank of captain.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During World War II, Louis Ferdinand served in the German army, rising to the rank of captain."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain.",
+      "sent_orig": "After the war, he was imprisoned by the Soviets, but was later released and returned to Germany.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "returned",
+            "to Germany."
+          ],
+          "He returned to Germany after the war and became a successful businessman.",
+          "He was imprisoned by the Soviets, but was later released."
+        ]
+      ],
+      "sent_new": "He was imprisoned by the Soviets, but was later released."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. After the war, he was imprisoned by the Soviets, but was later released and returned to Germany.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. He was imprisoned by the Soviets, but was later released.",
+      "sent_orig": "He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. After the war, he was imprisoned by the Soviets, but was later released and returned to Germany. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. He was imprisoned by the Soviets, but was later released. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany.",
+      "sent_orig": "Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. After the war, he was imprisoned by the Soviets, but was later released and returned to Germany. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany. Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. He was imprisoned by the Soviets, but was later released. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany. Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism.",
+      "sent_orig": "He was a passionate advocate for German reunification, and worked closely with politicians and activists in East Germany to promote the cause.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a passionate advocate for German reunification, and worked closely with politicians and activists in East Germany to promote the cause."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. After the war, he was imprisoned by the Soviets, but was later released and returned to Germany. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany. Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism. He was a passionate advocate for German reunification, and worked closely with politicians and activists in East Germany to promote the cause.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. He was imprisoned by the Soviets, but was later released. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany. Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism. He was a passionate advocate for German reunification, and worked closely with politicians and activists in East Germany to promote the cause.",
+      "sent_orig": "In 1984, Louis Ferdinand was appointed as the head of the House of Hohenzollern, the German royal family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1984, Louis Ferdinand was appointed as the head of the House of Hohenzollern, the German royal family."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. After the war, he was imprisoned by the Soviets, but was later released and returned to Germany. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany. Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism. He was a passionate advocate for German reunification, and worked closely with politicians and activists in East Germany to promote the cause. In 1984, Louis Ferdinand was appointed as the head of the House of Hohenzollern, the German royal family.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. He was imprisoned by the Soviets, but was later released. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany. Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism. He was a passionate advocate for German reunification, and worked closely with politicians and activists in East Germany to promote the cause. In 1984, Louis Ferdinand was appointed as the head of the House of Hohenzollern, the German royal family.",
+      "sent_orig": "He worked to preserve the family's heritage and traditions, and was a patron of the arts and culture.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He worked to preserve the family's heritage and traditions, and was a patron of the arts and culture."
+    },
+    {
+      "prefix_original": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. After the war, he was imprisoned by the Soviets, but was later released and returned to Germany. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany. Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism. He was a passionate advocate for German reunification, and worked closely with politicians and activists in East Germany to promote the cause. In 1984, Louis Ferdinand was appointed as the head of the House of Hohenzollern, the German royal family. He worked to preserve the family's heritage and traditions, and was a patron of the arts and culture.",
+      "prefix_new": "Louis Ferdinand, Prince of Prussia (1907-1994), was a member of the German royal family, the House of Hohenzollern. He was born in Potsdam, Germany, and was the eldest son of Crown Prince Wilhelm of Germany and Duchess Cecilie of Mecklenburg-Schwerin. During World War II, Louis Ferdinand served in the German army, rising to the rank of captain. He was imprisoned by the Soviets, but was later released. He became involved in politics, and was a supporter of the Christian Democratic Union (CDU) in West Germany. Louis Ferdinand was also a successful businessman, with interests in banking, real estate, and tourism. He was a passionate advocate for German reunification, and worked closely with politicians and activists in East Germany to promote the cause. In 1984, Louis Ferdinand was appointed as the head of the House of Hohenzollern, the German royal family. He worked to preserve the family's heritage and traditions, and was a patron of the arts and culture.",
+      "sent_orig": "He died in 1994, and was succeeded as head of the House of Hohenzollern by his eldest son, Georg Friedrich, Prince of Prussia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He died in 1994, and was succeeded as head of the House of Hohenzollern by his eldest son, Georg Friedrich, Prince of Prussia."
+    }
+  ]
+}

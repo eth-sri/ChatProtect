@@ -1,0 +1,105 @@
+{
+  "prompt": "Please tell me about c. t. blackfan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine.",
+      "sent_orig": "He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "graduated",
+            "from Harvard Medical School in 1913."
+          ],
+          "He graduated from Harvard Medical School in 1912.",
+          "Dr. Charles Ticknor Blackfan graduated from Harvard Medical School."
+        ]
+      ],
+      "sent_new": "Dr. Charles Ticknor Blackfan graduated from Harvard Medical School."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. Dr. Charles Ticknor Blackfan graduated from Harvard Medical School.",
+      "sent_orig": "Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. Dr. Charles Ticknor Blackfan graduated from Harvard Medical School. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow.",
+      "sent_orig": "He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. Dr. Charles Ticknor Blackfan graduated from Harvard Medical School. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond.",
+      "sent_orig": "Throughout his career, Blackfan worked at several prestigious institutions, including the Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Blackfan",
+            "worked",
+            "at several prestigious institutions, including the Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania."
+          ],
+          "Blackfan worked as a pediatrician at Boston Children's Hospital for most of his career.",
+          "Blackfan worked at prestigious institutions such as Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania."
+        ]
+      ],
+      "sent_new": "Blackfan worked at prestigious institutions such as Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Throughout his career, Blackfan worked at several prestigious institutions, including the Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. Dr. Charles Ticknor Blackfan graduated from Harvard Medical School. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Blackfan worked at prestigious institutions such as Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania.",
+      "sent_orig": "From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Throughout his career, Blackfan worked at several prestigious institutions, including the Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania. From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. Dr. Charles Ticknor Blackfan graduated from Harvard Medical School. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Blackfan worked at prestigious institutions such as Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania. From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston.",
+      "sent_orig": "Blackfan's work and research covered a wide range of pediatric topics, including infant nutrition, growth and development, congenital heart diseases, and blood disorders in children.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan's work and research covered a wide range of pediatric topics, including infant nutrition, growth and development, congenital heart diseases, and blood disorders in children."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Throughout his career, Blackfan worked at several prestigious institutions, including the Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania. From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston. Blackfan's work and research covered a wide range of pediatric topics, including infant nutrition, growth and development, congenital heart diseases, and blood disorders in children.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. Dr. Charles Ticknor Blackfan graduated from Harvard Medical School. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Blackfan worked at prestigious institutions such as Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania. From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston. Blackfan's work and research covered a wide range of pediatric topics, including infant nutrition, growth and development, congenital heart diseases, and blood disorders in children.",
+      "sent_orig": "He also co-authored a textbook of pediatrics, which became a widely used reference for medical practitioners.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also co-authored a textbook of pediatrics, which became a widely used reference for medical practitioners."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Throughout his career, Blackfan worked at several prestigious institutions, including the Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania. From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston. Blackfan's work and research covered a wide range of pediatric topics, including infant nutrition, growth and development, congenital heart diseases, and blood disorders in children. He also co-authored a textbook of pediatrics, which became a widely used reference for medical practitioners.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. Dr. Charles Ticknor Blackfan graduated from Harvard Medical School. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Blackfan worked at prestigious institutions such as Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania. From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston. Blackfan's work and research covered a wide range of pediatric topics, including infant nutrition, growth and development, congenital heart diseases, and blood disorders in children. He also co-authored a textbook of pediatrics, which became a widely used reference for medical practitioners.",
+      "sent_orig": "In addition to his clinical work and research, Blackfan was an advocate for the improvement of pediatric care and played a crucial role in the development of more specialized care for children.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his clinical work and research, Blackfan was an advocate for the improvement of pediatric care and played a crucial role in the development of more specialized care for children."
+    },
+    {
+      "prefix_original": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. He was born in Boston, Massachusetts, and graduated from Harvard Medical School in 1913. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Throughout his career, Blackfan worked at several prestigious institutions, including the Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania. From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston. Blackfan's work and research covered a wide range of pediatric topics, including infant nutrition, growth and development, congenital heart diseases, and blood disorders in children. He also co-authored a textbook of pediatrics, which became a widely used reference for medical practitioners. In addition to his clinical work and research, Blackfan was an advocate for the improvement of pediatric care and played a crucial role in the development of more specialized care for children.",
+      "prefix_new": "Dr. Charles Ticknor Blackfan (1886-1941) was an American pediatrician known for his contributions to the field of pediatric medicine. Dr. Charles Ticknor Blackfan graduated from Harvard Medical School. Blackfan is best known for his description of Blackfan-Diamond Syndrome (now known as Diamond-Blackfan anemia), a rare genetic disorder characterized by decreased production of red blood cells in the bone marrow. He first described the syndrome in 1938 alongside his colleague, Dr. Kenneth Diamond. Blackfan worked at prestigious institutions such as Johns Hopkins Hospital, Harvard Medical School, and the University of Pennsylvania. From 1932 until his death in 1941, he served as the Chief of Pediatrics at Children's Hospital in Boston. Blackfan's work and research covered a wide range of pediatric topics, including infant nutrition, growth and development, congenital heart diseases, and blood disorders in children. He also co-authored a textbook of pediatrics, which became a widely used reference for medical practitioners. In addition to his clinical work and research, Blackfan was an advocate for the improvement of pediatric care and played a crucial role in the development of more specialized care for children.",
+      "sent_orig": "His dedication to the field of pediatric medicine has had a lasting impact, and his name is still renowned in the medical community today.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His dedication to the field of pediatric medicine has had a lasting impact, and his name is still renowned in the medical community today."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about Perseus (constellation)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus.",
+      "sent_orig": "It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union.",
+      "sent_orig": "Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Taurus, and Triangulum.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Perseus",
+            "is bordered",
+            "by the constellations Andromeda, Aries, Auriga, Camelopardalis,"
+          ],
+          "Perseus is bordered by Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Cepheus, and Taurus.",
+          "Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus."
+        ]
+      ],
+      "sent_new": "Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Taurus, and Triangulum.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus.",
+      "sent_orig": "It is visible from most parts of the Northern Hemisphere in late summer and autumn.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is visible from most parts of the Northern Hemisphere in late summer and autumn."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Taurus, and Triangulum. It is visible from most parts of the Northern Hemisphere in late summer and autumn.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus. It is visible from most parts of the Northern Hemisphere in late summer and autumn.",
+      "sent_orig": "The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Taurus, and Triangulum. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth.",
+      "sent_orig": "Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Taurus, and Triangulum. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth. Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth. Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness.",
+      "sent_orig": "Perseus is also home to several interesting deep-sky objects, including the Perseus Cluster, a cluster of galaxies about 250 million light-years away; the Double Cluster, which is a pair of open star clusters located 7,500 light-years away; and the California Nebula, a large emission nebula about 1,000 light-years away.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is also home to several interesting deep-sky objects, including the Perseus Cluster, a cluster of galaxies about 250 million light-years away; the Double Cluster, which is a pair of open star clusters located 7,500 light-years away; and the California Nebula, a large emission nebula about 1,000 light-years away."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Taurus, and Triangulum. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth. Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness. Perseus is also home to several interesting deep-sky objects, including the Perseus Cluster, a cluster of galaxies about 250 million light-years away; the Double Cluster, which is a pair of open star clusters located 7,500 light-years away; and the California Nebula, a large emission nebula about 1,000 light-years away.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth. Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness. Perseus is also home to several interesting deep-sky objects, including the Perseus Cluster, a cluster of galaxies about 250 million light-years away; the Double Cluster, which is a pair of open star clusters located 7,500 light-years away; and the California Nebula, a large emission nebula about 1,000 light-years away.",
+      "sent_orig": "In Greek mythology, Perseus is the demigod son of Zeus and Danae.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In Greek mythology, Perseus is the demigod son of Zeus and Danae."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Taurus, and Triangulum. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth. Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness. Perseus is also home to several interesting deep-sky objects, including the Perseus Cluster, a cluster of galaxies about 250 million light-years away; the Double Cluster, which is a pair of open star clusters located 7,500 light-years away; and the California Nebula, a large emission nebula about 1,000 light-years away. In Greek mythology, Perseus is the demigod son of Zeus and Danae.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth. Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness. Perseus is also home to several interesting deep-sky objects, including the Perseus Cluster, a cluster of galaxies about 250 million light-years away; the Double Cluster, which is a pair of open star clusters located 7,500 light-years away; and the California Nebula, a large emission nebula about 1,000 light-years away. In Greek mythology, Perseus is the demigod son of Zeus and Danae.",
+      "sent_orig": "He is well-known for slaying the Gorgon Medusa and saving Andromeda from the sea monster Cetus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is well-known for slaying the Gorgon Medusa and saving Andromeda from the sea monster Cetus."
+    },
+    {
+      "prefix_original": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, Taurus, and Triangulum. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth. Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness. Perseus is also home to several interesting deep-sky objects, including the Perseus Cluster, a cluster of galaxies about 250 million light-years away; the Double Cluster, which is a pair of open star clusters located 7,500 light-years away; and the California Nebula, a large emission nebula about 1,000 light-years away. In Greek mythology, Perseus is the demigod son of Zeus and Danae. He is well-known for slaying the Gorgon Medusa and saving Andromeda from the sea monster Cetus.",
+      "prefix_new": "Perseus (constellation) is a constellation located in the northern sky, named after the Greek mythological hero Perseus. It was among the 48 constellations listed by the ancient astronomer Ptolemy in the second century and is now one of the 88 modern constellations recognized by the International Astronomical Union. Perseus is bordered by the constellations Andromeda, Aries, Auriga, Camelopardalis, Cassiopeia, and Taurus. It is visible from most parts of the Northern Hemisphere in late summer and autumn. The brightest star in the constellation is Mirfak or Alpha Persei, which is a supergiant star approximately 590 light-years away from Earth. Other notable stars include Algol, also known as Beta Persei, which is a famous eclipsing binary star system known for its regular changes in brightness. Perseus is also home to several interesting deep-sky objects, including the Perseus Cluster, a cluster of galaxies about 250 million light-years away; the Double Cluster, which is a pair of open star clusters located 7,500 light-years away; and the California Nebula, a large emission nebula about 1,000 light-years away. In Greek mythology, Perseus is the demigod son of Zeus and Danae. He is well-known for slaying the Gorgon Medusa and saving Andromeda from the sea monster Cetus.",
+      "sent_orig": "The constellation represents the mortal Perseus holding the severed head of Medusa, while the constellation Andromeda represents the rescued princess.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The constellation represents the mortal Perseus holding the severed head of Medusa, while the constellation Andromeda represents the rescued princess."
+    }
+  ]
+}

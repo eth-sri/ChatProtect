@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about 1866 United States House of Representatives elections",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1866 United States House of Representatives elections were held on November 6, 1866.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1866 United States House of Representatives elections were held on November 6, 1866."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866.",
+      "sent_orig": "These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War.",
+      "sent_orig": "In these elections, all 193 seats in the House of Representatives were up for grabs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In these elections, all 193 seats in the House of Representatives were up for grabs."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs.",
+      "sent_orig": "The Republican Party retained a commanding majority in the House, winning 136 seats, while the Democrats won 37 seats.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the Democrats",
+            "won",
+            ""
+          ],
+          "The Democrats won only 37 seats, while the Republicans won 149.",
+          "The Republican Party retained a majority in the House."
+        ]
+      ],
+      "sent_new": "The Republican Party retained a majority in the House."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs. The Republican Party retained a commanding majority in the House, winning 136 seats, while the Democrats won 37 seats.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs. The Republican Party retained a majority in the House.",
+      "sent_orig": "The remaining 20 seats were won by various third-party candidates.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The remaining 20 seats were won by various third-party candidates."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs. The Republican Party retained a commanding majority in the House, winning 136 seats, while the Democrats won 37 seats. The remaining 20 seats were won by various third-party candidates.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs. The Republican Party retained a majority in the House. The remaining 20 seats were won by various third-party candidates.",
+      "sent_orig": "These elections marked the first time that African Americans were elected to the House of Representatives, with three black Republicans winning seats from southern states \u2013 Joseph Rainey from South Carolina, Robert De Large from South Carolina, and Benjamin Turner from Alabama.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "African Americans",
+            "were elected",
+            "to the House of Representatives,"
+          ],
+          "No African Americans were elected to the House of Representatives in the 1866 elections.",
+          "Three black Republicans won seats in the House of Representatives for the first time in the 1866 elections - Joseph Rainey from South Carolina, Robert De Large from South Carolina, and Benjamin Turner from Alabama."
+        ]
+      ],
+      "sent_new": "Three black Republicans won seats in the House of Representatives for the first time in the 1866 elections - Joseph Rainey from South Carolina, Robert De Large from South Carolina, and Benjamin Turner from Alabama."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs. The Republican Party retained a commanding majority in the House, winning 136 seats, while the Democrats won 37 seats. The remaining 20 seats were won by various third-party candidates. These elections marked the first time that African Americans were elected to the House of Representatives, with three black Republicans winning seats from southern states \u2013 Joseph Rainey from South Carolina, Robert De Large from South Carolina, and Benjamin Turner from Alabama.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs. The Republican Party retained a majority in the House. The remaining 20 seats were won by various third-party candidates. Three black Republicans won seats in the House of Representatives for the first time in the 1866 elections - Joseph Rainey from South Carolina, Robert De Large from South Carolina, and Benjamin Turner from Alabama.",
+      "sent_orig": "The Republican victory in these elections allowed for the passage of several important legislative measures, including the Civil Rights Act of 1866, which granted citizenship and equal protection under the law to all persons born in the United States, and the 14th Amendment to the Constitution, which similarly guaranteed equal protection and due process of law to all citizens.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Republican victory in these elections allowed for the passage of several important legislative measures, including the Civil Rights Act of 1866, which granted citizenship and equal protection under the law to all persons born in the United States, and the 14th Amendment to the Constitution, which similarly guaranteed equal protection and due process of law to all citizens."
+    },
+    {
+      "prefix_original": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs. The Republican Party retained a commanding majority in the House, winning 136 seats, while the Democrats won 37 seats. The remaining 20 seats were won by various third-party candidates. These elections marked the first time that African Americans were elected to the House of Representatives, with three black Republicans winning seats from southern states \u2013 Joseph Rainey from South Carolina, Robert De Large from South Carolina, and Benjamin Turner from Alabama. The Republican victory in these elections allowed for the passage of several important legislative measures, including the Civil Rights Act of 1866, which granted citizenship and equal protection under the law to all persons born in the United States, and the 14th Amendment to the Constitution, which similarly guaranteed equal protection and due process of law to all citizens.",
+      "prefix_new": "The 1866 United States House of Representatives elections were held on November 6, 1866. These elections were held in the middle of Andrew Johnson's presidency, during the period of Reconstruction following the Civil War. In these elections, all 193 seats in the House of Representatives were up for grabs. The Republican Party retained a majority in the House. The remaining 20 seats were won by various third-party candidates. Three black Republicans won seats in the House of Representatives for the first time in the 1866 elections - Joseph Rainey from South Carolina, Robert De Large from South Carolina, and Benjamin Turner from Alabama. The Republican victory in these elections allowed for the passage of several important legislative measures, including the Civil Rights Act of 1866, which granted citizenship and equal protection under the law to all persons born in the United States, and the 14th Amendment to the Constitution, which similarly guaranteed equal protection and due process of law to all citizens.",
+      "sent_orig": "Overall, the 1866 elections demonstrated the continuing dominance of the Republican Party in Congress during the tumultuous period of Reconstruction, and reflected the growing support for progressive policies aimed at securing civil rights and equality for all Americans.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the 1866 elections demonstrated the continuing dominance of the Republican Party in Congress during the tumultuous period of Reconstruction, and reflected the growing support for progressive policies aimed at securing civil rights and equality for all Americans."
+    }
+  ]
+}

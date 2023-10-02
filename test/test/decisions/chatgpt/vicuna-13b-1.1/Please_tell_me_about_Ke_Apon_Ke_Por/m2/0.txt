@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ke Apon Ke Por is a Bengali book series written by Asit Majumdar.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali book series written by Asit Majumdar.",
+      "prefix_new": "",
+      "sent_orig": "The series is a collection of detective novels featuring the protagonist Byomkesh Bakshi, who is a private investigator.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali book series written by Asit Majumdar. The series is a collection of detective novels featuring the protagonist Byomkesh Bakshi, who is a private investigator.",
+      "prefix_new": "",
+      "sent_orig": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali book series written by Asit Majumdar. The series is a collection of detective novels featuring the protagonist Byomkesh Bakshi, who is a private investigator. The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings.",
+      "prefix_new": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings.",
+      "sent_orig": "The stories are set in the 1940s and 50s, and the novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The stories",
+            "are set",
+            "in the 1940s and 50s,"
+          ],
+          "The stories are set in the 1950s and 60s.",
+          "The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships."
+        ]
+      ],
+      "sent_new": "The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali book series written by Asit Majumdar. The series is a collection of detective novels featuring the protagonist Byomkesh Bakshi, who is a private investigator. The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings. The stories are set in the 1940s and 50s, and the novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships.",
+      "prefix_new": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings. The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships.",
+      "sent_orig": "The series has been adapted into a television series in Bengali and a movie in Hindi, both titled \"Byomkesh Bakshi\".",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The series",
+            "has been adapted",
+            "into a television series in Bengali and a movie in Hindi,"
+          ],
+          "The series has been adapted into a television show.",
+          "The series has been adapted into a movie in Hindi titled \"Byomkesh Bakshi\"."
+        ]
+      ],
+      "sent_new": "The series has been adapted into a movie in Hindi titled \"Byomkesh Bakshi\"."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali book series written by Asit Majumdar. The series is a collection of detective novels featuring the protagonist Byomkesh Bakshi, who is a private investigator. The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings. The stories are set in the 1940s and 50s, and the novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships. The series has been adapted into a television series in Bengali and a movie in Hindi, both titled \"Byomkesh Bakshi\".",
+      "prefix_new": "The books follows Byomkesh Bakshi as he solves various mysteries and crimes in Calcutta and its surroundings. The novels are known for their well-crafted plots, witty dialogue, and sensitive portrayal of human relationships. The series has been adapted into a movie in Hindi titled \"Byomkesh Bakshi\".",
+      "sent_orig": "The novels are widely popular in Bengal and beyond, and are considered classics of the detective fiction genre in India.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The novels are widely popular in Bengal and beyond, and are considered classics of the detective fiction genre in India."
+    }
+  ]
+}

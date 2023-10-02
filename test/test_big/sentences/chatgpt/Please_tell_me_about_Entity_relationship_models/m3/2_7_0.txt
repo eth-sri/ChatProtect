@@ -1,0 +1,18 @@
+{
+  "target": "Please tell me about Entity relationship models",
+  "orig": "Rectangles represent entities, ovals represent attributes, and diamonds represent relationships.",
+  "alt": "Rectangles represent entity sets in an entity-relationship model.",
+  "prefix": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department. An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds.",
+  "triple": [
+    [
+      "Rectangles",
+      "represent",
+      "entities, ovals"
+    ],
+    "compactie",
+    589
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "explanation": null
+}

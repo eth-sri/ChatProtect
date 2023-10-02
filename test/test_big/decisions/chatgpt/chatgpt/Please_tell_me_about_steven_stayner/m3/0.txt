@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about steven stayner",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester.",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester.",
+      "sent_orig": "Parnell held Steven captive and sexually abused him for seven years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Parnell held Steven captive and sexually abused him for seven years."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years.",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years.",
+      "sent_orig": "In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted.",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted.",
+      "sent_orig": "Steven sought help from a nearby police station and was reunited with his family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Steven sought help from a nearby police station and was reunited with his family."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family.",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family.",
+      "sent_orig": "After his return, Steven became a national hero and an inspiration for kidnapping victims.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After his return, Steven became a national hero and an inspiration for kidnapping victims."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims.",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims.",
+      "sent_orig": "He received numerous awards and recognition for his bravery and resilience.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He received numerous awards and recognition for his bravery and resilience."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims. He received numerous awards and recognition for his bravery and resilience.",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims. He received numerous awards and recognition for his bravery and resilience.",
+      "sent_orig": "He wrote a book about his experiences titled \"When Someone Loves You\".",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "wrote",
+            "a book about his experiences"
+          ],
+          "He wrote a book about his experience titled \"I Know My First Name is Steven\".",
+          "He wrote a book about his experiences."
+        ]
+      ],
+      "sent_new": "He wrote a book about his experiences."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims. He received numerous awards and recognition for his bravery and resilience. He wrote a book about his experiences titled \"When Someone Loves You\".",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims. He received numerous awards and recognition for his bravery and resilience. He wrote a book about his experiences.",
+      "sent_orig": "However, Steven's life was deeply affected by his abduction and he struggled with the trauma and emotional scars for the rest of his life.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, Steven's life was deeply affected by his abduction and he struggled with the trauma and emotional scars for the rest of his life."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims. He received numerous awards and recognition for his bravery and resilience. He wrote a book about his experiences titled \"When Someone Loves You\". However, Steven's life was deeply affected by his abduction and he struggled with the trauma and emotional scars for the rest of his life.",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims. He received numerous awards and recognition for his bravery and resilience. He wrote a book about his experiences. However, Steven's life was deeply affected by his abduction and he struggled with the trauma and emotional scars for the rest of his life.",
+      "sent_orig": "Steven tragically died in a motorcycle accident on September 16, 1989, at the age of 24.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Steven tragically died in a motorcycle accident on September 16, 1989, at the age of 24."
+    },
+    {
+      "prefix_original": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims. He received numerous awards and recognition for his bravery and resilience. He wrote a book about his experiences titled \"When Someone Loves You\". However, Steven's life was deeply affected by his abduction and he struggled with the trauma and emotional scars for the rest of his life. Steven tragically died in a motorcycle accident on September 16, 1989, at the age of 24.",
+      "prefix_new": "Steven Stayner was an American child abduction victim who was abducted when he was seven years old while on his way to school in 1972 in Merced, California, by Kenneth Parnell, a convicted child molester. Parnell held Steven captive and sexually abused him for seven years. In 1980, when Steven was 14 years old, he was able to escape with another young boy who Parnell had also abducted. Steven sought help from a nearby police station and was reunited with his family. After his return, Steven became a national hero and an inspiration for kidnapping victims. He received numerous awards and recognition for his bravery and resilience. He wrote a book about his experiences. However, Steven's life was deeply affected by his abduction and he struggled with the trauma and emotional scars for the rest of his life. Steven tragically died in a motorcycle accident on September 16, 1989, at the age of 24.",
+      "sent_orig": "His legacy continues to inspire and educate people about child abduction and child safety.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His legacy continues to inspire and educate people about child abduction and child safety."
+    }
+  ]
+}

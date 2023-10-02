@@ -1,0 +1,106 @@
+{
+  "prompt": "Please tell me about Love, Inc. (TV Series)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "sent_orig": "It was created by Andrew Secunda and produced by Warner Bros. Television.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. It was created by Andrew Secunda and produced by Warner Bros. Television.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "sent_orig": "The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. It was created by Andrew Secunda and produced by Warner Bros. Television. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess.",
+      "sent_orig": "The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. It was created by Andrew Secunda and produced by Warner Bros. Television. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results.",
+      "sent_orig": "The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The show",
+            "features",
+            "a supporting cast of characters, including Clea's business partner and best friend, Kaye"
+          ],
+          " The show features a supporting cast of characters, including Clea's sarcastic best friend and business partner, Thyme (Jennifer Ferrin), and her loyal but hapless employee, Ben (Chris Riggi).",
+          "The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock)."
+        ]
+      ],
+      "sent_new": "The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock)."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. It was created by Andrew Secunda and produced by Warner Bros. Television. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results. The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock).",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results. The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock).",
+      "sent_orig": "The series also features a number of notable guest stars, such as Jennifer Love Hewitt, Ethan Embry, and Tom Arnold.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The series also features a number of notable guest stars, such as Jennifer Love Hewitt, Ethan Embry, and Tom Arnold."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. It was created by Andrew Secunda and produced by Warner Bros. Television. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results. The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock). The series also features a number of notable guest stars, such as Jennifer Love Hewitt, Ethan Embry, and Tom Arnold.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results. The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock). The series also features a number of notable guest stars, such as Jennifer Love Hewitt, Ethan Embry, and Tom Arnold.",
+      "sent_orig": "Love, Inc. premiered on UPN (now The CW) on September 22, 2005, and ran for two seasons before being cancelled in 2006.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The CW) on September 22,",
+            "ran",
+            ""
+          ],
+          " The CW) on September 22, ran; for one season until its conclusion on May 18, 2006.",
+          "Love, Inc. premiered on UPN (now The CW) on September 22, 2005, and was cancelled in 2006."
+        ]
+      ],
+      "sent_new": "Love, Inc. premiered on UPN (now The CW) on September 22, 2005, and was cancelled in 2006."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. It was created by Andrew Secunda and produced by Warner Bros. Television. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results. The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock). The series also features a number of notable guest stars, such as Jennifer Love Hewitt, Ethan Embry, and Tom Arnold. Love, Inc. premiered on UPN (now The CW) on September 22, 2005, and ran for two seasons before being cancelled in 2006.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results. The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock). The series also features a number of notable guest stars, such as Jennifer Love Hewitt, Ethan Embry, and Tom Arnold. Love, Inc. premiered on UPN (now The CW) on September 22, 2005, and was cancelled in 2006.",
+      "sent_orig": "Despite its short run, the show developed a loyal fan base and received positive reviews from critics.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the show",
+            "received",
+            "positive reviews from critics."
+          ],
+          " The show received mixed reviews from critics, with some praising its witty dialogue and others criticizing its predictable plotlines.",
+          "Despite its short run, the show developed a loyal fan base."
+        ]
+      ],
+      "sent_new": "Despite its short run, the show developed a loyal fan base."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. It was created by Andrew Secunda and produced by Warner Bros. Television. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results. The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock). The series also features a number of notable guest stars, such as Jennifer Love Hewitt, Ethan Embry, and Tom Arnold. Love, Inc. premiered on UPN (now The CW) on September 22, 2005, and ran for two seasons before being cancelled in 2006. Despite its short run, the show developed a loyal fan base and received positive reviews from critics.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show revolves around the life of Clea (Victoria Pratt), a successful entrepreneur who runs a dating service called Love, Inc. Clea's business is built on her ability to find perfect matches for her clients, but her own love life is a mess. The show follows Clea's experiences as she navigates her personal and professional life, often with comedic results. The show features a supporting cast of characters, including Clea's business partner and best friend, Kaye (Jaime Pressly), and her receptionist, Barry (Eddie McClintock). The series also features a number of notable guest stars, such as Jennifer Love Hewitt, Ethan Embry, and Tom Arnold. Love, Inc. premiered on UPN (now The CW) on September 22, 2005, and was cancelled in 2006. Despite its short run, the show developed a loyal fan base.",
+      "sent_orig": "The show's mix of witty banter, relatable characters, and romantic storylines made it a favorite among fans of romantic comedies.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show's mix of witty banter, relatable characters, and romantic storylines made it a favorite among fans of romantic comedies."
+    }
+  ]
+}

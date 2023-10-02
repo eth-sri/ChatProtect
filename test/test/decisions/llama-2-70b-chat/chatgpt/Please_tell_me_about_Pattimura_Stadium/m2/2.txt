@@ -1,0 +1,55 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia.",
+      "sent_orig": "It is primarily used for football matches and is the home stadium of Persiram Raja Ampat.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is primarily used for football matches and is the home stadium of Persiram Raja Ampat."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is primarily used for football matches and is the home stadium of Persiram Raja Ampat.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is primarily used for football matches and is the home stadium of Persiram Raja Ampat.",
+      "sent_orig": "The stadium was built in 2005 and has a seating capacity of 20,000 spectators.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The stadium",
+            "was built",
+            "in 2005"
+          ],
+          "The stadium was built in 1998 and has a seating capacity of 20,000 spectators.",
+          "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia."
+        ]
+      ],
+      "sent_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is primarily used for football matches and is the home stadium of Persiram Raja Ampat. The stadium was built in 2005 and has a seating capacity of 20,000 spectators.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is primarily used for football matches and is the home stadium of Persiram Raja Ampat. Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia.",
+      "sent_orig": "The stadium is named after Thomas Matulessy, also known as Pattimura, who was a Moluccan warrior and national hero who fought against the Dutch colonial power in the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The stadium is named after Thomas Matulessy, also known as Pattimura, who was a Moluccan warrior and national hero who fought against the Dutch colonial power in the 19th century."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is primarily used for football matches and is the home stadium of Persiram Raja Ampat. The stadium was built in 2005 and has a seating capacity of 20,000 spectators. The stadium is named after Thomas Matulessy, also known as Pattimura, who was a Moluccan warrior and national hero who fought against the Dutch colonial power in the 19th century.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is primarily used for football matches and is the home stadium of Persiram Raja Ampat. Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. The stadium is named after Thomas Matulessy, also known as Pattimura, who was a Moluccan warrior and national hero who fought against the Dutch colonial power in the 19th century.",
+      "sent_orig": "In addition to football matches, the stadium has also hosted concerts and other events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to football matches, the stadium has also hosted concerts and other events."
+    }
+  ]
+}

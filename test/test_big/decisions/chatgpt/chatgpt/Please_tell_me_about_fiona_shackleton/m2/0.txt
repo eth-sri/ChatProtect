@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about fiona shackleton",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases.",
+      "prefix_new": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases.",
+      "sent_orig": "She was born on April 1, 1956, and was educated at the King's College London where she studied law and history.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "she",
+            "studied",
+            "law and history."
+          ],
+          "She studied law at the University of Sussex.",
+          "Fiona Shackleton was educated at King's College London."
+        ]
+      ],
+      "sent_new": "Fiona Shackleton was educated at King's College London."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. She was born on April 1, 1956, and was educated at the King's College London where she studied law and history.",
+      "prefix_new": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. Fiona Shackleton was educated at King's College London.",
+      "sent_orig": "Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. She was born on April 1, 1956, and was educated at the King's College London where she studied law and history. Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases.",
+      "prefix_new": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. Fiona Shackleton was educated at King's College London. Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases.",
+      "sent_orig": "Her success rate in representing clients in complex family disputes has made her one of the most respected family lawyers in the UK.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Her success rate in representing clients in complex family disputes has made her one of the most respected family lawyers in the UK."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. She was born on April 1, 1956, and was educated at the King's College London where she studied law and history. Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases. Her success rate in representing clients in complex family disputes has made her one of the most respected family lawyers in the UK.",
+      "prefix_new": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. Fiona Shackleton was educated at King's College London. Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases. Her success rate in representing clients in complex family disputes has made her one of the most respected family lawyers in the UK.",
+      "sent_orig": "Shackleton is widely regarded as one of the best divorce lawyers in the UK and has won several accolades for her work.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Shackleton is widely regarded as one of the best divorce lawyers in the UK and has won several accolades for her work."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. She was born on April 1, 1956, and was educated at the King's College London where she studied law and history. Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases. Her success rate in representing clients in complex family disputes has made her one of the most respected family lawyers in the UK. Shackleton is widely regarded as one of the best divorce lawyers in the UK and has won several accolades for her work.",
+      "prefix_new": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. Fiona Shackleton was educated at King's College London. Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases. Her success rate in representing clients in complex family disputes has made her one of the most respected family lawyers in the UK. Shackleton is widely regarded as one of the best divorce lawyers in the UK and has won several accolades for her work.",
+      "sent_orig": "She was awarded a CBE (Commander of the Most Excellent Order of the British Empire) for services to the law in the 2021 New Year Honours list.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was awarded a CBE (Commander of the Most Excellent Order of the British Empire) for services to the law in the 2021 New Year Honours list."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. She was born on April 1, 1956, and was educated at the King's College London where she studied law and history. Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases. Her success rate in representing clients in complex family disputes has made her one of the most respected family lawyers in the UK. Shackleton is widely regarded as one of the best divorce lawyers in the UK and has won several accolades for her work. She was awarded a CBE (Commander of the Most Excellent Order of the British Empire) for services to the law in the 2021 New Year Honours list.",
+      "prefix_new": "Fiona Shackleton is a prominent family lawyer in the United Kingdom who has a reputation for handling high-profile divorce cases. Fiona Shackleton was educated at King's College London. Shackleton has represented several high-profile clients, including Prince Charles, Madonna, Paul McCartney, and Liam Gallagher, among others, in their high-profile divorce cases. Her success rate in representing clients in complex family disputes has made her one of the most respected family lawyers in the UK. Shackleton is widely regarded as one of the best divorce lawyers in the UK and has won several accolades for her work. She was awarded a CBE (Commander of the Most Excellent Order of the British Empire) for services to the law in the 2021 New Year Honours list.",
+      "sent_orig": "In addition to her work as a family lawyer, Shackleton has also contributed to various publications on family law issues, including the Journal of Family Law, and is a regular speaker at conferences and seminars on the topic.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to her work as a family lawyer, Shackleton has also contributed to various publications on family law issues, including the Journal of Family Law, and is a regular speaker at conferences and seminars on the topic."
+    }
+  ]
+}

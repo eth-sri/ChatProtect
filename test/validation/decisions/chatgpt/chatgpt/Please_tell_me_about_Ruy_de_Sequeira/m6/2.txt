@@ -1,0 +1,80 @@
+{
+  "prompt": "Please tell me about Ruy de Sequeira",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery."
+    },
+    {
+      "prefix_original": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery.",
+      "prefix_new": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery.",
+      "sent_orig": "He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India."
+    },
+    {
+      "prefix_original": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India.",
+      "prefix_new": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India.",
+      "sent_orig": "In 1508, Sequeira was appointed as the governor of Portuguese India, a position he held until 1509.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Sequeira",
+            "was appointed",
+            "as the governor of Portuguese India, a position he"
+          ],
+          "The statements about Ruy de Sequeira are contradictory. Statement 1 states that Sequeira was appointed as the governor of Portuguese India in 1508 and held the position until 1509, while statement 2 states that he was appointed as the governor in 1522, succeeding Diogo Lopes de Sequeira. These two statements cannot both be true, as they provide different dates for Sequeira's appointment as governor.\n",
+          "Sequeira was appointed as the governor of Portuguese India in 1522, succeeding Diogo Lopes de Sequeira.",
+          "In his career, Sequeira participated in several expeditions to Africa and India."
+        ]
+      ],
+      "sent_new": "In his career, Sequeira participated in several expeditions to Africa and India."
+    },
+    {
+      "prefix_original": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In 1508, Sequeira was appointed as the governor of Portuguese India, a position he held until 1509.",
+      "prefix_new": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In his career, Sequeira participated in several expeditions to Africa and India.",
+      "sent_orig": "During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin."
+    },
+    {
+      "prefix_original": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In 1508, Sequeira was appointed as the governor of Portuguese India, a position he held until 1509. During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin.",
+      "prefix_new": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In his career, Sequeira participated in several expeditions to Africa and India. During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin.",
+      "sent_orig": "Sequeira was also involved in several military campaigns in India, including the Battle of Diu in 1509, where he commanded the Portuguese fleet.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sequeira was also involved in several military campaigns in India, including the Battle of Diu in 1509, where he commanded the Portuguese fleet."
+    },
+    {
+      "prefix_original": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In 1508, Sequeira was appointed as the governor of Portuguese India, a position he held until 1509. During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin. Sequeira was also involved in several military campaigns in India, including the Battle of Diu in 1509, where he commanded the Portuguese fleet.",
+      "prefix_new": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In his career, Sequeira participated in several expeditions to Africa and India. During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin. Sequeira was also involved in several military campaigns in India, including the Battle of Diu in 1509, where he commanded the Portuguese fleet.",
+      "sent_orig": "The battle was a major victory for the Portuguese, and it helped to establish their dominance in the Indian Ocean.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The battle was a major victory for the Portuguese, and it helped to establish their dominance in the Indian Ocean."
+    },
+    {
+      "prefix_original": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In 1508, Sequeira was appointed as the governor of Portuguese India, a position he held until 1509. During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin. Sequeira was also involved in several military campaigns in India, including the Battle of Diu in 1509, where he commanded the Portuguese fleet. The battle was a major victory for the Portuguese, and it helped to establish their dominance in the Indian Ocean.",
+      "prefix_new": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In his career, Sequeira participated in several expeditions to Africa and India. During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin. Sequeira was also involved in several military campaigns in India, including the Battle of Diu in 1509, where he commanded the Portuguese fleet. The battle was a major victory for the Portuguese, and it helped to establish their dominance in the Indian Ocean.",
+      "sent_orig": "Sequeira is considered to be one of the most important Portuguese explorers of his time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sequeira is considered to be one of the most important Portuguese explorers of his time."
+    },
+    {
+      "prefix_original": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In 1508, Sequeira was appointed as the governor of Portuguese India, a position he held until 1509. During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin. Sequeira was also involved in several military campaigns in India, including the Battle of Diu in 1509, where he commanded the Portuguese fleet. The battle was a major victory for the Portuguese, and it helped to establish their dominance in the Indian Ocean. Sequeira is considered to be one of the most important Portuguese explorers of his time.",
+      "prefix_new": "Sequeira was one of the early Portuguese explorers who helped to expand the Portuguese empire during the Age of Discovery. He was a skilled navigator and cartographer, and he participated in several expeditions to Africa and India. In his career, Sequeira participated in several expeditions to Africa and India. During his time as governor, he established Portuguese control over several important ports in India, including Calicut and Cochin. Sequeira was also involved in several military campaigns in India, including the Battle of Diu in 1509, where he commanded the Portuguese fleet. The battle was a major victory for the Portuguese, and it helped to establish their dominance in the Indian Ocean. Sequeira is considered to be one of the most important Portuguese explorers of his time.",
+      "sent_orig": "His expeditions and military campaigns helped to expand the Portuguese empire and establish Portuguese control over key trade routes in the Indian Ocean.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His expeditions and military campaigns helped to expand the Portuguese empire and establish Portuguese control over key trade routes in the Indian Ocean."
+    }
+  ]
+}

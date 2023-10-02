@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about tassos papadopoulos",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008.",
+      "prefix_new": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008.",
+      "sent_orig": "He was born in Nicosia in 1934 and studied law at King's College in London.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "in 1934",
+            "studied",
+            "law at King's College in London."
+          ],
+          "In 1934, Tassos Papadopoulos studied law at King's College London.",
+          "Tassos Papadopoulos studied law at King's College in London."
+        ]
+      ],
+      "sent_new": "Tassos Papadopoulos studied law at King's College in London."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. He was born in Nicosia in 1934 and studied law at King's College in London.",
+      "prefix_new": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. Tassos Papadopoulos studied law at King's College in London.",
+      "sent_orig": "Papadopoulos was a prominent member of the left-wing AKEL party but left the party in 2003 to form his own political party, the Democratic Party.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a prominent member of the left-wing AKEL party",
+            "left",
+            ""
+          ],
+          "Papadopoulos was a prominent member of the left-wing AKEL party, which he left in 1996 to form his own party, the Democratic Party.",
+          "Papadopoulos left the left-wing AKEL party to form his own political party, the Democratic Party."
+        ]
+      ],
+      "sent_new": "Papadopoulos left the left-wing AKEL party to form his own political party, the Democratic Party."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. He was born in Nicosia in 1934 and studied law at King's College in London. Papadopoulos was a prominent member of the left-wing AKEL party but left the party in 2003 to form his own political party, the Democratic Party.",
+      "prefix_new": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. Tassos Papadopoulos studied law at King's College in London. Papadopoulos left the left-wing AKEL party to form his own political party, the Democratic Party.",
+      "sent_orig": "He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. He was born in Nicosia in 1934 and studied law at King's College in London. Papadopoulos was a prominent member of the left-wing AKEL party but left the party in 2003 to form his own political party, the Democratic Party. He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island.",
+      "prefix_new": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. Tassos Papadopoulos studied law at King's College in London. Papadopoulos left the left-wing AKEL party to form his own political party, the Democratic Party. He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island.",
+      "sent_orig": "During his presidency, Papadopoulos played a central role in the negotiations to reunify Cyprus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his presidency, Papadopoulos played a central role in the negotiations to reunify Cyprus."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. He was born in Nicosia in 1934 and studied law at King's College in London. Papadopoulos was a prominent member of the left-wing AKEL party but left the party in 2003 to form his own political party, the Democratic Party. He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island. During his presidency, Papadopoulos played a central role in the negotiations to reunify Cyprus.",
+      "prefix_new": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. Tassos Papadopoulos studied law at King's College in London. Papadopoulos left the left-wing AKEL party to form his own political party, the Democratic Party. He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island. During his presidency, Papadopoulos played a central role in the negotiations to reunify Cyprus.",
+      "sent_orig": "However, his presidency was also marked by controversy, particularly in relation to allegations of corruption and the handling of the 2004 Annan Plan for the reunification of Cyprus, which was ultimately rejected by the majority of Cypriots in a referendum.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, his presidency was also marked by controversy, particularly in relation to allegations of corruption and the handling of the 2004 Annan Plan for the reunification of Cyprus, which was ultimately rejected by the majority of Cypriots in a referendum."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. He was born in Nicosia in 1934 and studied law at King's College in London. Papadopoulos was a prominent member of the left-wing AKEL party but left the party in 2003 to form his own political party, the Democratic Party. He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island. During his presidency, Papadopoulos played a central role in the negotiations to reunify Cyprus. However, his presidency was also marked by controversy, particularly in relation to allegations of corruption and the handling of the 2004 Annan Plan for the reunification of Cyprus, which was ultimately rejected by the majority of Cypriots in a referendum.",
+      "prefix_new": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. Tassos Papadopoulos studied law at King's College in London. Papadopoulos left the left-wing AKEL party to form his own political party, the Democratic Party. He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island. During his presidency, Papadopoulos played a central role in the negotiations to reunify Cyprus. However, his presidency was also marked by controversy, particularly in relation to allegations of corruption and the handling of the 2004 Annan Plan for the reunification of Cyprus, which was ultimately rejected by the majority of Cypriots in a referendum.",
+      "sent_orig": "Papadopoulos died in December 2008, at the age of 74, after a long battle with lung cancer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Papadopoulos died in December 2008, at the age of 74, after a long battle with lung cancer."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. He was born in Nicosia in 1934 and studied law at King's College in London. Papadopoulos was a prominent member of the left-wing AKEL party but left the party in 2003 to form his own political party, the Democratic Party. He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island. During his presidency, Papadopoulos played a central role in the negotiations to reunify Cyprus. However, his presidency was also marked by controversy, particularly in relation to allegations of corruption and the handling of the 2004 Annan Plan for the reunification of Cyprus, which was ultimately rejected by the majority of Cypriots in a referendum. Papadopoulos died in December 2008, at the age of 74, after a long battle with lung cancer.",
+      "prefix_new": "Tassos Papadopoulos was a prominent Cypriot politician who served as the President of the Republic of Cyprus from 2003 until 2008. Tassos Papadopoulos studied law at King's College in London. Papadopoulos left the left-wing AKEL party to form his own political party, the Democratic Party. He was known for his strong stance on the reunification of Cyprus and opposed any decisions that would lead to the partition of the island. During his presidency, Papadopoulos played a central role in the negotiations to reunify Cyprus. However, his presidency was also marked by controversy, particularly in relation to allegations of corruption and the handling of the 2004 Annan Plan for the reunification of Cyprus, which was ultimately rejected by the majority of Cypriots in a referendum. Papadopoulos died in December 2008, at the age of 74, after a long battle with lung cancer.",
+      "sent_orig": "He is remembered as a passionate advocate for the reunification of Cyprus and one of the most influential political figures in the country's recent history.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is remembered as a passionate advocate for the reunification of Cyprus and one of the most influential political figures in the country's recent history."
+    }
+  ]
+}

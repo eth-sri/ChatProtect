@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about WGRG",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "WGRG",
+            "is",
+            ""
+          ],
+          "WGRG is a radio station based in Glasgow, Scotland.",
+          "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys."
+        ]
+      ],
+      "sent_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys."
+    },
+    {
+      "prefix_original": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys.",
+      "prefix_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys.",
+      "sent_orig": "WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship."
+    },
+    {
+      "prefix_original": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship.",
+      "prefix_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship.",
+      "sent_orig": "The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity."
+    },
+    {
+      "prefix_original": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity.",
+      "prefix_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity.",
+      "sent_orig": "WGRG shares these values and works to promote a more open and welcoming approach to religion.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "WGRG shares these values and works to promote a more open and welcoming approach to religion."
+    },
+    {
+      "prefix_original": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion.",
+      "prefix_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion.",
+      "sent_orig": "Some of the resources that WGRG offers include books, music, prayers, and worship services.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some of the resources that WGRG offers include books, music, prayers, and worship services."
+    },
+    {
+      "prefix_original": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion. Some of the resources that WGRG offers include books, music, prayers, and worship services.",
+      "prefix_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion. Some of the resources that WGRG offers include books, music, prayers, and worship services.",
+      "sent_orig": "They also host events and retreats that bring people together to explore their faith and connect with others.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They also host events and retreats that bring people together to explore their faith and connect with others."
+    },
+    {
+      "prefix_original": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion. Some of the resources that WGRG offers include books, music, prayers, and worship services. They also host events and retreats that bring people together to explore their faith and connect with others.",
+      "prefix_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion. Some of the resources that WGRG offers include books, music, prayers, and worship services. They also host events and retreats that bring people together to explore their faith and connect with others.",
+      "sent_orig": "One of the unique aspects of WGRG is their use of the symbol of the Wild Goose.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "One of the unique aspects of WGRG is their use of the symbol of the Wild Goose."
+    },
+    {
+      "prefix_original": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion. Some of the resources that WGRG offers include books, music, prayers, and worship services. They also host events and retreats that bring people together to explore their faith and connect with others. One of the unique aspects of WGRG is their use of the symbol of the Wild Goose.",
+      "prefix_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion. Some of the resources that WGRG offers include books, music, prayers, and worship services. They also host events and retreats that bring people together to explore their faith and connect with others. One of the unique aspects of WGRG is their use of the symbol of the Wild Goose.",
+      "sent_orig": "This symbol represents the Holy Spirit and is often associated with movement, freedom, and unpredictability.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This symbol represents the Holy Spirit and is often associated with movement, freedom, and unpredictability."
+    },
+    {
+      "prefix_original": "WGRG is a Christian organization based in Glasgow, Scotland that focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion. Some of the resources that WGRG offers include books, music, prayers, and worship services. They also host events and retreats that bring people together to explore their faith and connect with others. One of the unique aspects of WGRG is their use of the symbol of the Wild Goose. This symbol represents the Holy Spirit and is often associated with movement, freedom, and unpredictability.",
+      "prefix_new": "WGRG is based in Glasgow, Scotland and focuses on supporting individuals and communities in their spiritual journeys. WGRG stands for the Wild Goose Resource Group and they offer a variety of resources and activities to help people grow in faith and engage in worship. The organization was founded in the 1980s and grew out of the Iona Community, a Christian group that emphasizes social justice and inclusivity. WGRG shares these values and works to promote a more open and welcoming approach to religion. Some of the resources that WGRG offers include books, music, prayers, and worship services. They also host events and retreats that bring people together to explore their faith and connect with others. One of the unique aspects of WGRG is their use of the symbol of the Wild Goose. This symbol represents the Holy Spirit and is often associated with movement, freedom, and unpredictability.",
+      "sent_orig": "WGRG seeks to embody these qualities in their work and help people experience the transformative power of the Holy Spirit in their lives.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "WGRG seeks to embody these qualities in their work and help people experience the transformative power of the Holy Spirit in their lives."
+    }
+  ]
+}

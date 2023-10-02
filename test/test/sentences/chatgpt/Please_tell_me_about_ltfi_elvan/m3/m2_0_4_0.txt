@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about l\u00fctfi elvan",
+  "orig": "He obtained a Ph.D. in economics in 1991.",
+  "alt": "He obtained his PhD in economics from the University of London in 1993.",
+  "prefix": " L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986.",
+  "triple": [
+    [
+      "He",
+      "obtained",
+      "a Ph.D. in economics in 1991."
+    ],
+    "compactie",
+    516
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about L\u00fctfi Elvan obtaining a Ph.D. in economics are contradictory. Statement 1 claims that he obtained his Ph.D. in 1991, while statement 2 claims that he obtained it from the University of London in 1993. These two statements cannot both be true, as they provide different information about the same event. Therefore, they are contradictory."
+}

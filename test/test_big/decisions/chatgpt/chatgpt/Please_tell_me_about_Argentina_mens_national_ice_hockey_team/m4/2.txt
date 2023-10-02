@@ -1,0 +1,91 @@
+{
+  "prompt": "Please tell me about Argentina men's national ice hockey team",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Argentina men's national ice hockey team",
+            "has been established",
+            "by the Argentine Ice Hockey Federation."
+          ],
+          "The Argentina men's national ice hockey team has been established since 1908.",
+          "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation."
+        ]
+      ],
+      "sent_new": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation.",
+      "prefix_new": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation.",
+      "sent_orig": "The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Argentina men's national ice hockey team",
+            "is currently ranked",
+            "45th in the world by the International Ice Hockey Federation"
+          ],
+          "The Argentina men's national ice hockey team is currently unranked as they have not yet competed in any international tournaments.",
+          "The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF)."
+        ]
+      ],
+      "sent_new": "The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF)."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF).",
+      "prefix_new": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF).",
+      "sent_orig": "Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF). Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup.",
+      "prefix_new": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF). Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup.",
+      "sent_orig": "The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The team",
+            "is composed",
+            "mostly of Argentine players"
+          ],
+          "The team is composed mostly of amateur players who play in the Argentine Ice Hockey League.",
+          "The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas."
+        ]
+      ],
+      "sent_new": "The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF). Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup. The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas.",
+      "prefix_new": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF). Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup. The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas.",
+      "sent_orig": "However, the team has also welcomed players from other Latin American countries such as Chile, Brazil, and Mexico.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, the team has also welcomed players from other Latin American countries such as Chile, Brazil, and Mexico."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF). Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup. The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas. However, the team has also welcomed players from other Latin American countries such as Chile, Brazil, and Mexico.",
+      "prefix_new": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF). Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup. The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas. However, the team has also welcomed players from other Latin American countries such as Chile, Brazil, and Mexico.",
+      "sent_orig": "The Argentina men's national ice hockey team finished in 4th place out of 6 teams in a major competitive event held in Mexico City.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Argentina men's national ice hockey team finished in 4th place out of 6 teams in a major competitive event held in Mexico City."
+    },
+    {
+      "prefix_original": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF). Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup. The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas. However, the team has also welcomed players from other Latin American countries such as Chile, Brazil, and Mexico. The Argentina men's national ice hockey team finished in 4th place out of 6 teams in a major competitive event held in Mexico City.",
+      "prefix_new": "The Argentina men's national ice hockey team has been established by the Argentine Ice Hockey Federation. The Argentina men's national ice hockey team is currently ranked 45th in the world by the International Ice Hockey Federation (IIHF). Due to lack of infrastructure and funding, the team has only played in a limited number of international tournaments, mostly playing in lower-level tournaments such as the IIHF Challenge Cup of Asia and the IIHF Latin American Challenge Cup. The team is composed mostly of Argentine players who have developed their skills playing ice hockey overseas. However, the team has also welcomed players from other Latin American countries such as Chile, Brazil, and Mexico. The Argentina men's national ice hockey team finished in 4th place out of 6 teams in a major competitive event held in Mexico City.",
+      "sent_orig": "The team is hoping to continue to grow and develop and qualify for more international tournaments in the future.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The team is hoping to continue to grow and develop and qualify for more international tournaments in the future."
+    }
+  ]
+}

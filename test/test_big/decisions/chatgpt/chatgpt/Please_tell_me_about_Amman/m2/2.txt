@@ -1,0 +1,105 @@
+{
+  "prompt": "Please tell me about Amman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Amman is the capital city of Jordan, located in the northwestern region of the country.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "city of Jordan,",
+            "located",
+            "in the northwestern region of the country."
+          ],
+          "The city of Jordan, Amman, is located in the north-eastern part of the country.",
+          "Amman is the capital city of Jordan."
+        ]
+      ],
+      "sent_new": "Amman is the capital city of Jordan."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country.",
+      "prefix_new": "Amman is the capital city of Jordan.",
+      "sent_orig": "The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The city",
+            "has",
+            "a rich history and culture"
+          ],
+          "The city has a population of approximately 4 million people.",
+          "The city has many historical and archaeological sites to explore."
+        ]
+      ],
+      "sent_new": "The city has many historical and archaeological sites to explore."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country. The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore.",
+      "prefix_new": "Amman is the capital city of Jordan. The city has many historical and archaeological sites to explore.",
+      "sent_orig": "Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country. The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan.",
+      "prefix_new": "Amman is the capital city of Jordan. The city has many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan.",
+      "sent_orig": "The city has a mix of traditional Jordanian architecture and modern high-rise buildings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city has a mix of traditional Jordanian architecture and modern high-rise buildings."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country. The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings.",
+      "prefix_new": "Amman is the capital city of Jordan. The city has many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings.",
+      "sent_orig": "It serves as a hub for business, education, and culture in the region.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It serves as a hub for business, education, and culture in the region."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country. The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region.",
+      "prefix_new": "Amman is the capital city of Jordan. The city has many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region.",
+      "sent_orig": "One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country. The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region. One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD.",
+      "prefix_new": "Amman is the capital city of Jordan. The city has many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region. One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD.",
+      "sent_orig": "The Citadel, located on a hilltop in the center of the city, is another popular attraction, with ruins from various civilizations spanning over 7,000 years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Citadel, located on a hilltop in the center of the city, is another popular attraction, with ruins from various civilizations spanning over 7,000 years."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country. The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region. One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD. The Citadel, located on a hilltop in the center of the city, is another popular attraction, with ruins from various civilizations spanning over 7,000 years.",
+      "prefix_new": "Amman is the capital city of Jordan. The city has many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region. One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD. The Citadel, located on a hilltop in the center of the city, is another popular attraction, with ruins from various civilizations spanning over 7,000 years.",
+      "sent_orig": "Amman is also known for its vibrant food scene, with a mix of traditional Jordanian cuisine and international flavors.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Amman is also known for its vibrant food scene, with a mix of traditional Jordanian cuisine and international flavors."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country. The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region. One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD. The Citadel, located on a hilltop in the center of the city, is another popular attraction, with ruins from various civilizations spanning over 7,000 years. Amman is also known for its vibrant food scene, with a mix of traditional Jordanian cuisine and international flavors.",
+      "prefix_new": "Amman is the capital city of Jordan. The city has many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region. One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD. The Citadel, located on a hilltop in the center of the city, is another popular attraction, with ruins from various civilizations spanning over 7,000 years. Amman is also known for its vibrant food scene, with a mix of traditional Jordanian cuisine and international flavors.",
+      "sent_orig": "The city is a great place to shop for local crafts and souvenirs, with bustling markets and high-end shopping centers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city is a great place to shop for local crafts and souvenirs, with bustling markets and high-end shopping centers."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwestern region of the country. The city has a rich history and culture dating back to ancient times, with many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region. One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD. The Citadel, located on a hilltop in the center of the city, is another popular attraction, with ruins from various civilizations spanning over 7,000 years. Amman is also known for its vibrant food scene, with a mix of traditional Jordanian cuisine and international flavors. The city is a great place to shop for local crafts and souvenirs, with bustling markets and high-end shopping centers.",
+      "prefix_new": "Amman is the capital city of Jordan. The city has many historical and archaeological sites to explore. Modern-day Amman is a bustling metropolis with a population of over 4 million people, making it the largest city in Jordan. The city has a mix of traditional Jordanian architecture and modern high-rise buildings. It serves as a hub for business, education, and culture in the region. One of the city's most famous landmarks is the Roman Amphitheatre, which dates back to the second century AD. The Citadel, located on a hilltop in the center of the city, is another popular attraction, with ruins from various civilizations spanning over 7,000 years. Amman is also known for its vibrant food scene, with a mix of traditional Jordanian cuisine and international flavors. The city is a great place to shop for local crafts and souvenirs, with bustling markets and high-end shopping centers.",
+      "sent_orig": "Overall, Amman is a fascinating and vibrant city that offers visitors a unique blend of tradition and modernity, history, and culture.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Amman is a fascinating and vibrant city that offers visitors a unique blend of tradition and modernity, history, and culture."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a Bengali television drama series",
+            "aired",
+            "between 2016 and 2021."
+          ],
+          "A Bengali television drama series, Ke Apon Ke Por, aired on Star Jalsha in 2016 and is still running.",
+          "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021."
+        ]
+      ],
+      "sent_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021.",
+      "prefix_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021.",
+      "sent_orig": "Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha.",
+      "prefix_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha.",
+      "sent_orig": "The show revolves around a girl named Joba, who belongs to a lower-middle-class family and gets married into the wealthy and influential family of Param, a talented lawyer.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Joba,",
+            "belongs",
+            "to a lower-middle-class family"
+          ],
+          "Joba, the main character of Ke Apon Ke Por, belongs to a middle-class family.",
+          "The show revolves around a girl named Joba, who gets married into the wealthy and influential family of Param, a talented lawyer."
+        ]
+      ],
+      "sent_new": "The show revolves around a girl named Joba, who gets married into the wealthy and influential family of Param, a talented lawyer."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who belongs to a lower-middle-class family and gets married into the wealthy and influential family of Param, a talented lawyer.",
+      "prefix_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who gets married into the wealthy and influential family of Param, a talented lawyer.",
+      "sent_orig": "The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who belongs to a lower-middle-class family and gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family.",
+      "prefix_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family.",
+      "sent_orig": "Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who belongs to a lower-middle-class family and gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family. Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family.",
+      "prefix_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family. Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family.",
+      "sent_orig": "Over the years, Ke Apon Ke Por deals with various themes such as love, betrayal, revenge, and misunderstandings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Over the years, Ke Apon Ke Por deals with various themes such as love, betrayal, revenge, and misunderstandings."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who belongs to a lower-middle-class family and gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family. Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family. Over the years, Ke Apon Ke Por deals with various themes such as love, betrayal, revenge, and misunderstandings.",
+      "prefix_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family. Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family. Over the years, Ke Apon Ke Por deals with various themes such as love, betrayal, revenge, and misunderstandings.",
+      "sent_orig": "The show focuses on family values and relationships, demonstrating how one person's strength can create bonds and help overcome trials in life.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show focuses on family values and relationships, demonstrating how one person's strength can create bonds and help overcome trials in life."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who belongs to a lower-middle-class family and gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family. Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family. Over the years, Ke Apon Ke Por deals with various themes such as love, betrayal, revenge, and misunderstandings. The show focuses on family values and relationships, demonstrating how one person's strength can create bonds and help overcome trials in life.",
+      "prefix_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family. Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family. Over the years, Ke Apon Ke Por deals with various themes such as love, betrayal, revenge, and misunderstandings. The show focuses on family values and relationships, demonstrating how one person's strength can create bonds and help overcome trials in life.",
+      "sent_orig": "Due to its relatable storyline and powerful performances, Ke Apon Ke Por became popular among Bengali television audiences, enjoying high TRP ratings for a significant period.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Due to its relatable storyline and powerful performances, Ke Apon Ke Por became popular among Bengali television audiences, enjoying high TRP ratings for a significant period."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who belongs to a lower-middle-class family and gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family. Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family. Over the years, Ke Apon Ke Por deals with various themes such as love, betrayal, revenge, and misunderstandings. The show focuses on family values and relationships, demonstrating how one person's strength can create bonds and help overcome trials in life. Due to its relatable storyline and powerful performances, Ke Apon Ke Por became popular among Bengali television audiences, enjoying high TRP ratings for a significant period.",
+      "prefix_new": "Ke Apon Ke Por is a Bengali television drama series that aired between 2016 and 2021. Produced by Boyhood Productions, it was telecast on the Indian Bengali General Entertainment Channel, Star Jalsha. The show revolves around a girl named Joba, who gets married into the wealthy and influential family of Param, a talented lawyer. The story follows Joba's life after getting married and how she deals with various challenges and conflicts within her new family. Her in-laws initially dislike her, but with time, Joba earns their respect and love with her simplicity, honesty, and determination to do good for the family. Over the years, Ke Apon Ke Por deals with various themes such as love, betrayal, revenge, and misunderstandings. The show focuses on family values and relationships, demonstrating how one person's strength can create bonds and help overcome trials in life. Due to its relatable storyline and powerful performances, Ke Apon Ke Por became popular among Bengali television audiences, enjoying high TRP ratings for a significant period.",
+      "sent_orig": "It is notable for its lengthy run, spanning over four years, with more than 1,400 episodes produced.",
+      "decision": "drop",
+      "sent_new": ""
+    }
+  ]
+}

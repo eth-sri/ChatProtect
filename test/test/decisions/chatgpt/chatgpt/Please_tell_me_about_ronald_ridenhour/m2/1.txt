@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about ronald ridenhour",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War.",
+      "prefix_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War.",
+      "sent_orig": "In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers.",
+      "prefix_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers.",
+      "sent_orig": "After his service, he became a journalist and began to investigate further.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After his service, he became a journalist and began to investigate further."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further.",
+      "prefix_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further.",
+      "sent_orig": "He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "spent had happened",
+            "at My Lai."
+          ],
+          "He spent several years tracking down and interviewing witnesses and participants to uncover the truth about what had happened at My Lai.",
+          "He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai."
+        ]
+      ],
+      "sent_new": "He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai.",
+      "prefix_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai.",
+      "sent_orig": "This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai. This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers.",
+      "prefix_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai. This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers.",
+      "sent_orig": "As a result of Ridenhour's efforts, a number of soldiers involved in the massacre were court-martialed and convicted.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As a result of Ridenhour's efforts, a number of soldiers involved in the massacre were court-martialed and convicted."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai. This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers. As a result of Ridenhour's efforts, a number of soldiers involved in the massacre were court-martialed and convicted.",
+      "prefix_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai. This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers. As a result of Ridenhour's efforts, a number of soldiers involved in the massacre were court-martialed and convicted.",
+      "sent_orig": "Ridenhour himself received threats and was harassed by some members of the military, but continued to speak out against the atrocities he witnessed.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ridenhour himself received threats and was harassed by some members of the military, but continued to speak out against the atrocities he witnessed."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai. This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers. As a result of Ridenhour's efforts, a number of soldiers involved in the massacre were court-martialed and convicted. Ridenhour himself received threats and was harassed by some members of the military, but continued to speak out against the atrocities he witnessed.",
+      "prefix_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai. This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers. As a result of Ridenhour's efforts, a number of soldiers involved in the massacre were court-martialed and convicted. Ridenhour himself received threats and was harassed by some members of the military, but continued to speak out against the atrocities he witnessed.",
+      "sent_orig": "After leaving journalism, Ridenhour became a writer and screenwriter.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After leaving journalism, Ridenhour became a writer and screenwriter."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai. This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers. As a result of Ridenhour's efforts, a number of soldiers involved in the massacre were court-martialed and convicted. Ridenhour himself received threats and was harassed by some members of the military, but continued to speak out against the atrocities he witnessed. After leaving journalism, Ridenhour became a writer and screenwriter.",
+      "prefix_new": "Ronald Ridenhour (1946-1998) was an American soldier and journalist who played a significant role in exposing the My Lai Massacre during the Vietnam War. In 1969, Ridenhour was a helicopter door-gunner in the US Army and heard rumors about the massacre - the killing of hundreds of unarmed Vietnamese civilians by American soldiers. After his service, he became a journalist and began to investigate further. He spent over a year collecting evidence and testimony from fellow soldiers and Vietnamese survivors before writing a letter to Congress detailing what had happened at My Lai. This letter, which was eventually published in major newspapers, helped to spark a national conversation about the war crimes committed by American soldiers. As a result of Ridenhour's efforts, a number of soldiers involved in the massacre were court-martialed and convicted. Ridenhour himself received threats and was harassed by some members of the military, but continued to speak out against the atrocities he witnessed. After leaving journalism, Ridenhour became a writer and screenwriter.",
+      "sent_orig": "He died in 1998 at the age of 52.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He died in 1998 at the age of 52."
+    }
+  ]
+}

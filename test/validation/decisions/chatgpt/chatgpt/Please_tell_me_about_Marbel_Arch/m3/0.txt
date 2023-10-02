@@ -1,0 +1,47 @@
+{
+  "prompt": "Please tell me about Marbel Arch",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The arch is 45 feet high and is adorned with intricate carvings and sculptures.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The arch is 45 feet high and is adorned with intricate carvings and sculptures."
+    },
+    {
+      "prefix_original": "The arch is 45 feet high and is adorned with intricate carvings and sculptures.",
+      "prefix_new": "The arch is 45 feet high and is adorned with intricate carvings and sculptures.",
+      "sent_orig": "It is a popular spot for tourists to take photos and is often used as a backdrop for films and TV shows.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a popular spot for tourists to take photos and is often used as a backdrop for films and TV shows."
+    },
+    {
+      "prefix_original": "The arch is 45 feet high and is adorned with intricate carvings and sculptures. It is a popular spot for tourists to take photos and is often used as a backdrop for films and TV shows.",
+      "prefix_new": "The arch is 45 feet high and is adorned with intricate carvings and sculptures. It is a popular spot for tourists to take photos and is often used as a backdrop for films and TV shows.",
+      "sent_orig": "The arch was used as a toll gate for those entering the city.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The arch",
+            "was used",
+            "as a toll gate for those the city."
+          ],
+          "The arch was used as a triumphal arch to commemorate Britain's victories in the Napoleonic Wars.",
+          "The arch was used as a toll gate."
+        ]
+      ],
+      "sent_new": "The arch was used as a toll gate."
+    },
+    {
+      "prefix_original": "The arch is 45 feet high and is adorned with intricate carvings and sculptures. It is a popular spot for tourists to take photos and is often used as a backdrop for films and TV shows. The arch was used as a toll gate for those entering the city.",
+      "prefix_new": "The arch is 45 feet high and is adorned with intricate carvings and sculptures. It is a popular spot for tourists to take photos and is often used as a backdrop for films and TV shows. The arch was used as a toll gate.",
+      "sent_orig": "Today, it serves as a symbol of London's history and is a popular tourist attraction.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, it serves as a symbol of London's history and is a popular tourist attraction."
+    }
+  ]
+}

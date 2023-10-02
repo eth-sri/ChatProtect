@@ -1,0 +1,111 @@
+{
+  "prompt": "Please tell me about Ballance, New Zealand",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ballance is a rural community located in the eastern part of the North Island of New Zealand.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand.",
+      "sent_orig": "It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean.",
+      "sent_orig": "Ballance is a small town, with a population of around 200 people.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ballance is a small town, with a population of around 200 people."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people.",
+      "sent_orig": "It is named after Thomas Ballance, a former New Zealand Prime Minister.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is named after Thomas Ballance, a former New Zealand Prime Minister."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister.",
+      "sent_orig": "This region is known for its scenic beauty, with rolling hills and green pastures all around.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This region is known for its scenic beauty, with rolling hills and green pastures all around."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around.",
+      "sent_orig": "Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities.",
+      "sent_orig": "The town has a few amenities, including a school, a community hall, and a petrol station.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The town has a few amenities, including a school, a community hall, and a petrol station."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station.",
+      "sent_orig": "The nearest main center is Dannevirke, which is around 20 km away.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The nearest main center",
+            "is",
+            "Dannevirke,"
+          ],
+          "The nearest main center is Palmerston North, which is about 50 kilometers away from Ballance.",
+          "The nearest main center is Dannevirke, which is around 20 km away."
+        ]
+      ],
+      "sent_new": "The nearest main center is Dannevirke, which is around 20 km away."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station. The nearest main center is Dannevirke, which is around 20 km away.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station. The nearest main center is Dannevirke, which is around 20 km away.",
+      "sent_orig": "Ballance is a great place to visit if you are looking for a peaceful and quiet rural setting.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ballance is a great place to visit if you are looking for a peaceful and quiet rural setting."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station. The nearest main center is Dannevirke, which is around 20 km away. Ballance is a great place to visit if you are looking for a peaceful and quiet rural setting.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station. The nearest main center is Dannevirke, which is around 20 km away. Ballance is a great place to visit if you are looking for a peaceful and quiet rural setting.",
+      "sent_orig": "There are plenty of activities to enjoy in the area, including hiking, fishing, and mountain biking.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "There are plenty of activities to enjoy in the area, including hiking, fishing, and mountain biking."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station. The nearest main center is Dannevirke, which is around 20 km away. Ballance is a great place to visit if you are looking for a peaceful and quiet rural setting. There are plenty of activities to enjoy in the area, including hiking, fishing, and mountain biking.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station. The nearest main center is Dannevirke, which is around 20 km away. Ballance is a great place to visit if you are looking for a peaceful and quiet rural setting. There are plenty of activities to enjoy in the area, including hiking, fishing, and mountain biking.",
+      "sent_orig": "The nearby Akitio Beach is a popular destination for swimming and surfing.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The nearby Akitio Beach is a popular destination for swimming and surfing."
+    },
+    {
+      "prefix_original": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station. The nearest main center is Dannevirke, which is around 20 km away. Ballance is a great place to visit if you are looking for a peaceful and quiet rural setting. There are plenty of activities to enjoy in the area, including hiking, fishing, and mountain biking. The nearby Akitio Beach is a popular destination for swimming and surfing.",
+      "prefix_new": "Ballance is a rural community located in the eastern part of the North Island of New Zealand. It is located in the Manawatu-Wanganui region, near the coast of the Pacific Ocean. Ballance is a small town, with a population of around 200 people. It is named after Thomas Ballance, a former New Zealand Prime Minister. This region is known for its scenic beauty, with rolling hills and green pastures all around. Agriculture is the main industry in the area, with dairy farming and sheep farming being the most common activities. The town has a few amenities, including a school, a community hall, and a petrol station. The nearest main center is Dannevirke, which is around 20 km away. Ballance is a great place to visit if you are looking for a peaceful and quiet rural setting. There are plenty of activities to enjoy in the area, including hiking, fishing, and mountain biking. The nearby Akitio Beach is a popular destination for swimming and surfing.",
+      "sent_orig": "Overall, Ballance is a charming rural community that is worth a visit if you are in the area.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Ballance is a charming rural community that is worth a visit if you are in the area."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about gilbert gaul",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gilbert Gaul",
+            "is",
+            "an American journalist and author"
+          ],
+          "Gilbert Gaul is an American artist known for his paintings of Civil War battlefields.",
+          "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting."
+        ]
+      ],
+      "sent_new": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting.",
+      "prefix_new": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting.",
+      "sent_orig": "He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News.",
+      "prefix_new": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News.",
+      "sent_orig": "Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice.",
+      "prefix_new": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice.",
+      "sent_orig": "He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice. He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk.",
+      "prefix_new": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice. He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk.",
+      "sent_orig": "In addition to his reporting, Gaul has also authored several books.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his reporting, Gaul has also authored several books."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice. He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk. In addition to his reporting, Gaul has also authored several books.",
+      "prefix_new": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice. He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk. In addition to his reporting, Gaul has also authored several books.",
+      "sent_orig": "His most recent book, \"The Geography of Risk,\" explores the impact of natural disasters on the US economy and how government policies are exacerbating the problem.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His most recent book, \"The Geography of Risk,\" explores the impact of natural disasters on the US economy and how government policies are exacerbating the problem."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice. He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk. In addition to his reporting, Gaul has also authored several books. His most recent book, \"The Geography of Risk,\" explores the impact of natural disasters on the US economy and how government policies are exacerbating the problem.",
+      "prefix_new": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice. He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk. In addition to his reporting, Gaul has also authored several books. His most recent book, \"The Geography of Risk,\" explores the impact of natural disasters on the US economy and how government policies are exacerbating the problem.",
+      "sent_orig": "Gaul's work has been widely recognized, including with Pulitzer Prizes for Investigative Reporting in 2003 and Explanatory Reporting in 2012.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gaul's work has been widely recognized, including with Pulitzer Prizes for Investigative Reporting in 2003 and Explanatory Reporting in 2012."
+    },
+    {
+      "prefix_original": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice. He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk. In addition to his reporting, Gaul has also authored several books. His most recent book, \"The Geography of Risk,\" explores the impact of natural disasters on the US economy and how government policies are exacerbating the problem. Gaul's work has been widely recognized, including with Pulitzer Prizes for Investigative Reporting in 2003 and Explanatory Reporting in 2012.",
+      "prefix_new": "Gilbert Gaul is an American journalist and author who has won two Pulitzer Prizes for his investigative reporting. He began his career with the Associated Press and then went on to work for The Washington Post, The Philadelphia Inquirer, and Bloomberg News. Gaul's investigative reporting has spanned a wide range of topics, including government waste, corporate fraud, and medical malpractice. He has written extensively about the pharmaceutical industry, uncovering illegal marketing practices that put patients at risk. In addition to his reporting, Gaul has also authored several books. His most recent book, \"The Geography of Risk,\" explores the impact of natural disasters on the US economy and how government policies are exacerbating the problem. Gaul's work has been widely recognized, including with Pulitzer Prizes for Investigative Reporting in 2003 and Explanatory Reporting in 2012.",
+      "sent_orig": "He is widely regarded as one of the leading investigative journalists of his generation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is widely regarded as one of the leading investigative journalists of his generation."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gordon Gollob",
+            "was",
+            "an aviation artist"
+          ],
+          "Gordon Gollob was a Canadian professional ice hockey player who played as a centre.",
+          "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles."
+        ]
+      ],
+      "sent_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles."
+    },
+    {
+      "prefix_original": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles.",
+      "prefix_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles.",
+      "sent_orig": "He is known for his detailed and highly realistic paintings of aircraft, particularly military planes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is known for his detailed and highly realistic paintings of aircraft, particularly military planes."
+    },
+    {
+      "prefix_original": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes.",
+      "prefix_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes.",
+      "sent_orig": "He worked as an artist for many years, creating illustrations for books, magazines, and advertising.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He worked as an artist for many years, creating illustrations for books, magazines, and advertising."
+    },
+    {
+      "prefix_original": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising.",
+      "prefix_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising.",
+      "sent_orig": "Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force."
+    },
+    {
+      "prefix_original": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force.",
+      "prefix_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force.",
+      "sent_orig": "After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look."
+    },
+    {
+      "prefix_original": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force. After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look.",
+      "prefix_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force. After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look.",
+      "sent_orig": "Gollob's paintings are known for their attention to detail and their highly realistic depictions of aircraft.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob's paintings are known for their attention to detail and their highly realistic depictions of aircraft."
+    },
+    {
+      "prefix_original": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force. After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look. Gollob's paintings are known for their attention to detail and their highly realistic depictions of aircraft.",
+      "prefix_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force. After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look. Gollob's paintings are known for their attention to detail and their highly realistic depictions of aircraft.",
+      "sent_orig": "He often used photographs as reference for his paintings, but he also made detailed studies of the planes he was painting, sometimes even taking flights in them to get a better understanding of their characteristics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He often used photographs as reference for his paintings, but he also made detailed studies of the planes he was painting, sometimes even taking flights in them to get a better understanding of their characteristics."
+    },
+    {
+      "prefix_original": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force. After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look. Gollob's paintings are known for their attention to detail and their highly realistic depictions of aircraft. He often used photographs as reference for his paintings, but he also made detailed studies of the planes he was painting, sometimes even taking flights in them to get a better understanding of their characteristics.",
+      "prefix_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force. After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look. Gollob's paintings are known for their attention to detail and their highly realistic depictions of aircraft. He often used photographs as reference for his paintings, but he also made detailed studies of the planes he was painting, sometimes even taking flights in them to get a better understanding of their characteristics.",
+      "sent_orig": "Gollob's work is highly regarded among aviation enthusiasts and collectors.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob's work is highly regarded among aviation enthusiasts and collectors."
+    },
+    {
+      "prefix_original": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force. After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look. Gollob's paintings are known for their attention to detail and their highly realistic depictions of aircraft. He often used photographs as reference for his paintings, but he also made detailed studies of the planes he was painting, sometimes even taking flights in them to get a better understanding of their characteristics. Gollob's work is highly regarded among aviation enthusiasts and collectors.",
+      "prefix_new": "Gordon Gollob was an aviation artist who was born in New York City and grew up in Los Angeles. He is known for his detailed and highly realistic paintings of aircraft, particularly military planes. He worked as an artist for many years, creating illustrations for books, magazines, and advertising. Gollob began his career as an artist during World War II, creating military illustrations for the Army Air Force. After the war, he worked as a freelance artist, creating illustrations for a wide range of clients, including aircraft manufacturers and magazines like Life and Look. Gollob's paintings are known for their attention to detail and their highly realistic depictions of aircraft. He often used photographs as reference for his paintings, but he also made detailed studies of the planes he was painting, sometimes even taking flights in them to get a better understanding of their characteristics. Gollob's work is highly regarded among aviation enthusiasts and collectors.",
+      "sent_orig": "Many of his paintings are on display in museums and private collections around the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Many of his paintings are on display in museums and private collections around the world."
+    }
+  ]
+}

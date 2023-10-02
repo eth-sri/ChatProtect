@@ -1,0 +1,93 @@
+{
+  "prompt": "Please tell me about joe ledley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County.",
+      "sent_orig": "He was born on January 23, 1987, in Cardiff, Wales.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born on January 23, 1987, in Cardiff, Wales."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales.",
+      "sent_orig": "He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there.",
+      "sent_orig": "In 2010, Ledley moved to Scottish giants Celtic on a free transfer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2010, Ledley moved to Scottish giants Celtic on a free transfer."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer.",
+      "sent_orig": "During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League.",
+      "sent_orig": "In 2014, he left Celtic to join Crystal Palace.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2014, he left Celtic to join Crystal Palace."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace.",
+      "sent_orig": "Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace. Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace. Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016.",
+      "sent_orig": "He left Crystal Palace in 2018 and went on to play for Derby County in the English Championship for two seasons before retiring in 2020.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He left Crystal Palace in 2018 and went on to play for Derby County in the English Championship for two seasons before retiring in 2020."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace. Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016. He left Crystal Palace in 2018 and went on to play for Derby County in the English Championship for two seasons before retiring in 2020.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace. Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016. He left Crystal Palace in 2018 and went on to play for Derby County in the English Championship for two seasons before retiring in 2020.",
+      "sent_orig": "On the international stage, Ledley represented Wales at the senior level from 2005 to 2018, earning 77 caps and scoring four goals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "On the international stage, Ledley represented Wales at the senior level from 2005 to 2018, earning 77 caps and scoring four goals."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace. Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016. He left Crystal Palace in 2018 and went on to play for Derby County in the English Championship for two seasons before retiring in 2020. On the international stage, Ledley represented Wales at the senior level from 2005 to 2018, earning 77 caps and scoring four goals.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace. Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016. He left Crystal Palace in 2018 and went on to play for Derby County in the English Championship for two seasons before retiring in 2020. On the international stage, Ledley represented Wales at the senior level from 2005 to 2018, earning 77 caps and scoring four goals.",
+      "sent_orig": "He was part of the Welsh squad that reached the semi-finals of Euro 2016, which was a historic achievement for Welsh football.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was part of the Welsh squad that reached the semi-finals of Euro 2016, which was a historic achievement for Welsh football."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace. Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016. He left Crystal Palace in 2018 and went on to play for Derby County in the English Championship for two seasons before retiring in 2020. On the international stage, Ledley represented Wales at the senior level from 2005 to 2018, earning 77 caps and scoring four goals. He was part of the Welsh squad that reached the semi-finals of Euro 2016, which was a historic achievement for Welsh football.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a midfielder for Newport County. He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer. During his time at Celtic, he won multiple Scottish Premiership titles and played in the UEFA Champions League. In 2014, he left Celtic to join Crystal Palace. Ledley became a key player for Crystal Palace under manager Alan Pardew and helped the club reach the FA Cup final in 2016. He left Crystal Palace in 2018 and went on to play for Derby County in the English Championship for two seasons before retiring in 2020. On the international stage, Ledley represented Wales at the senior level from 2005 to 2018, earning 77 caps and scoring four goals. He was part of the Welsh squad that reached the semi-finals of Euro 2016, which was a historic achievement for Welsh football.",
+      "sent_orig": "Overall, Joe Ledley is considered one of the most successful Welsh footballers of his generation, having achieved success both domestically and internationally.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Joe Ledley is considered one of the most successful Welsh footballers of his generation, having achieved success both domestically and internationally."
+    }
+  ]
+}

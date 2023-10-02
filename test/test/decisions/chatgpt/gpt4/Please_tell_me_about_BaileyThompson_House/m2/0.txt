@@ -1,0 +1,106 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama.",
+      "prefix_new": "",
+      "sent_orig": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama. Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture.",
+      "prefix_new": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture.",
+      "sent_orig": "The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama. Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor.",
+      "prefix_new": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor.",
+      "sent_orig": "The house features interior woodwork details such as molded door and window surrounds and a wooden staircase.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house features interior woodwork details such as molded door and window surrounds and a wooden staircase."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama. Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase.",
+      "prefix_new": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase.",
+      "sent_orig": "In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama. Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase. In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing.",
+      "prefix_new": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase. In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing.",
+      "sent_orig": "The Bailey-Thompson House remained in the Thompson family until 1975 when it was sold to the McGahey family.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Bailey-Thompson House",
+            "remained",
+            "in the Thompson family until"
+          ],
+          "The Bailey-Thompson House remained in the Thompson family until 1952.",
+          "The Bailey-Thompson House was sold to the McGahey family in 1975."
+        ]
+      ],
+      "sent_new": "The Bailey-Thompson House was sold to the McGahey family in 1975."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama. Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase. In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing. The Bailey-Thompson House remained in the Thompson family until 1975 when it was sold to the McGahey family.",
+      "prefix_new": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase. In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing. The Bailey-Thompson House was sold to the McGahey family in 1975.",
+      "sent_orig": "The house was added to the National Register of Historic Places in 1974 and is considered an essential part of Huntsville's 19th-century history.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The house",
+            "was added",
+            "to the National Register of Historic Places in 1974"
+          ],
+          "The house was added to the National Register of Historic Places in 1982.",
+          "The Bailey-Thompson House was added to the National Register of Historic Places."
+        ]
+      ],
+      "sent_new": "The Bailey-Thompson House was added to the National Register of Historic Places."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama. Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase. In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing. The Bailey-Thompson House remained in the Thompson family until 1975 when it was sold to the McGahey family. The house was added to the National Register of Historic Places in 1974 and is considered an essential part of Huntsville's 19th-century history.",
+      "prefix_new": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase. In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing. The Bailey-Thompson House was sold to the McGahey family in 1975. The Bailey-Thompson House was added to the National Register of Historic Places.",
+      "sent_orig": "Today, it remains a private residence and is not open for public tours.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "it",
+            "remains",
+            "a private residence"
+          ],
+          "It remains a popular tourist attraction and is open for public tours.",
+          "Today, it remains a private residence."
+        ]
+      ],
+      "sent_new": "Today, it remains a private residence."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House, also known as Olivet, is a historic residence located in Huntsville, Alabama. Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase. In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing. The Bailey-Thompson House remained in the Thompson family until 1975 when it was sold to the McGahey family. The house was added to the National Register of Historic Places in 1974 and is considered an essential part of Huntsville's 19th-century history. Today, it remains a private residence and is not open for public tours.",
+      "prefix_new": "Built in 1840 by planter and prominent landowner Thomas Martin Bailey, the house is an excellent example of antebellum Greek Revival architecture. The house has a two-story columned portico and a central hallway floor plan, with four rooms on each floor. The house features interior woodwork details such as molded door and window surrounds and a wooden staircase. In 1867, the property was sold to George Thompson, who added some modifications to the house, including a water system and ornamental iron balcony railing. The Bailey-Thompson House was sold to the McGahey family in 1975. The Bailey-Thompson House was added to the National Register of Historic Places. Today, it remains a private residence.",
+      "sent_orig": "However, it serves as an essential landmark for the understanding of the region's historical architecture and antebellum period.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, it serves as an essential landmark for the understanding of the region's historical architecture and antebellum period."
+    }
+  ]
+}

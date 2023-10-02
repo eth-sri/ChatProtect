@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about Skopje",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Skopje is the capital and largest city of North Macedonia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Skopje is the capital and largest city of North Macedonia."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia.",
+      "sent_orig": "It is located in the northern part of the country, on the Vardar River.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is located in the northern part of the country, on the Vardar River."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River.",
+      "sent_orig": "Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries.",
+      "sent_orig": "Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries. Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries. Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy.",
+      "sent_orig": "The city is known for its stunning architecture, which combines elements of many different styles, including Ottoman, Byzantine, and European.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city is known for its stunning architecture, which combines elements of many different styles, including Ottoman, Byzantine, and European."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries. Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy. The city is known for its stunning architecture, which combines elements of many different styles, including Ottoman, Byzantine, and European.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries. Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy. The city is known for its stunning architecture, which combines elements of many different styles, including Ottoman, Byzantine, and European.",
+      "sent_orig": "Skopje is also home to numerous museums, art galleries, and other cultural institutions, as well as a variety of restaurants, cafes, and nightlife spots.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Skopje is also home to numerous museums, art galleries, and other cultural institutions, as well as a variety of restaurants, cafes, and nightlife spots."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries. Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy. The city is known for its stunning architecture, which combines elements of many different styles, including Ottoman, Byzantine, and European. Skopje is also home to numerous museums, art galleries, and other cultural institutions, as well as a variety of restaurants, cafes, and nightlife spots.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries. Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy. The city is known for its stunning architecture, which combines elements of many different styles, including Ottoman, Byzantine, and European. Skopje is also home to numerous museums, art galleries, and other cultural institutions, as well as a variety of restaurants, cafes, and nightlife spots.",
+      "sent_orig": "The city is a popular destination for tourists, who come to experience its unique blend of history and modernity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city is a popular destination for tourists, who come to experience its unique blend of history and modernity."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries. Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy. The city is known for its stunning architecture, which combines elements of many different styles, including Ottoman, Byzantine, and European. Skopje is also home to numerous museums, art galleries, and other cultural institutions, as well as a variety of restaurants, cafes, and nightlife spots. The city is a popular destination for tourists, who come to experience its unique blend of history and modernity.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located in the northern part of the country, on the Vardar River. Skopje has a rich history dating back to ancient times, and has been the site of many different cultures and civilizations throughout the centuries. Today, Skopje is a vibrant and modern city, with a lively culture and a thriving economy. The city is known for its stunning architecture, which combines elements of many different styles, including Ottoman, Byzantine, and European. Skopje is also home to numerous museums, art galleries, and other cultural institutions, as well as a variety of restaurants, cafes, and nightlife spots. The city is a popular destination for tourists, who come to experience its unique blend of history and modernity.",
+      "sent_orig": "Overall, Skopje is a fascinating and dynamic city, with a rich cultural heritage and a bright future ahead.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Skopje is a fascinating and dynamic city, with a rich cultural heritage and a bright future ahead."
+    }
+  ]
+}

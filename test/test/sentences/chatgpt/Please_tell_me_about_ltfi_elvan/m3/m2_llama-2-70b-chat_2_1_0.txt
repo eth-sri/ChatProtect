@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about l\u00fctfi elvan",
+  "orig": "Here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nL\u00fctfi Elvan is a Turkish politician who has been serving in the Turkish government since November 2020.",
+  "alt": "Here's a fact about L\u00fctfi Elvan: He removes the position of Minister of Development in Turkey.",
+  "prefix": " Sure, I can help you with that!",
+  "triple": [
+    [
+      "Here's",
+      "removes",
+      "the conflicting information"
+    ],
+    "compactie",
+    469
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "orig_tag": "strong",
+  "explanation": " The two statements provided contain conflicting information. Statement 1 states that L\u00fctfi Elvan has been serving in the Turkish government since November 2020, while Statement 2 states that he removed the position of Minister of Development in Turkey. This implies that he can't be serving in the government if he removed a position. Therefore, the statements are contradictory."
+}

@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about carlo pellegrini (19th-century painter)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes.",
+      "sent_orig": "Carlo Pellegrini studied at the Academy of Fine Arts.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Carlo Pellegrini",
+            "studied",
+            "at the Academy of Fine Arts."
+          ],
+          "Carlo Pellegrini studied at the Accademia di Belle Arti in Florence.",
+          "Carlo Pellegrini studied at the Academy of Fine Arts."
+        ]
+      ],
+      "sent_new": "Carlo Pellegrini studied at the Academy of Fine Arts."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts.",
+      "sent_orig": "Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts. Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts. Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries.",
+      "sent_orig": "His works often depict pastoral scenes, which capture the beauty of the natural world and evoke a sense of serenity and calm.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His works often depict pastoral scenes, which capture the beauty of the natural world and evoke a sense of serenity and calm."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts. Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries. His works often depict pastoral scenes, which capture the beauty of the natural world and evoke a sense of serenity and calm.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts. Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries. His works often depict pastoral scenes, which capture the beauty of the natural world and evoke a sense of serenity and calm.",
+      "sent_orig": "In addition to his landscapes, Pellegrini was also known for his portraiture, painting many notable figures of his time, including Pope Leo XIII, King Umberto I of Italy, and the composer Giuseppe Verdi.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his landscapes, Pellegrini was also known for his portraiture, painting many notable figures of his time, including Pope Leo XIII, King Umberto I of Italy, and the composer Giuseppe Verdi."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts. Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries. His works often depict pastoral scenes, which capture the beauty of the natural world and evoke a sense of serenity and calm. In addition to his landscapes, Pellegrini was also known for his portraiture, painting many notable figures of his time, including Pope Leo XIII, King Umberto I of Italy, and the composer Giuseppe Verdi.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts. Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries. His works often depict pastoral scenes, which capture the beauty of the natural world and evoke a sense of serenity and calm. In addition to his landscapes, Pellegrini was also known for his portraiture, painting many notable figures of his time, including Pope Leo XIII, King Umberto I of Italy, and the composer Giuseppe Verdi.",
+      "sent_orig": "Pellegrini's work was highly regarded during his lifetime, and he exhibited extensively throughout Europe, including at the Paris Salon.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pellegrini's work was highly regarded during his lifetime, and he exhibited extensively throughout Europe, including at the Paris Salon."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts. Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries. His works often depict pastoral scenes, which capture the beauty of the natural world and evoke a sense of serenity and calm. In addition to his landscapes, Pellegrini was also known for his portraiture, painting many notable figures of his time, including Pope Leo XIII, King Umberto I of Italy, and the composer Giuseppe Verdi. Pellegrini's work was highly regarded during his lifetime, and he exhibited extensively throughout Europe, including at the Paris Salon.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was a 19th-century Italian painter known for his landscapes, portraits, and genre scenes. Carlo Pellegrini studied at the Academy of Fine Arts. Pellegrini traveled extensively throughout Italy, France, and Spain, where he was inspired by the landscapes and culture of these countries. His works often depict pastoral scenes, which capture the beauty of the natural world and evoke a sense of serenity and calm. In addition to his landscapes, Pellegrini was also known for his portraiture, painting many notable figures of his time, including Pope Leo XIII, King Umberto I of Italy, and the composer Giuseppe Verdi. Pellegrini's work was highly regarded during his lifetime, and he exhibited extensively throughout Europe, including at the Paris Salon.",
+      "sent_orig": "Today, his works can be found in museums and private collections around the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, his works can be found in museums and private collections around the world."
+    }
+  ]
+}

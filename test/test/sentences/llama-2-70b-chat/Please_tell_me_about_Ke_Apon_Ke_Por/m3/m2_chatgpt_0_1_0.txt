@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Ke Apon Ke Por",
+  "orig": "Por is committed to her family and values.",
+  "alt": " Por is committed to her husband, Apon.",
+  "prefix": " Ke Apon Ke Por is a popular Bengali television soap opera.",
+  "triple": [
+    [
+      "Por",
+      "is committed",
+      "to her family and values."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Ke Apon Ke Por are not contradictory, but they are incomplete. The first statement mentions that Por is committed to her family and values, but it does not mention anything about her relationship with her husband Apon. The second statement mentions that Por is committed to her husband Apon, but it does not mention anything about her family or values. Therefore, both statements provide different information about Por's commitments, but they do not contradict each other."
+}

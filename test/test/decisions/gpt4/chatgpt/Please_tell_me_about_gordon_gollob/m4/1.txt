@@ -1,0 +1,113 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gordon Gollob was a Luftwaffe fighter ace during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II.",
+      "sent_orig": "He was born on June 16, 1912, in Vienna, Austria.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on June"
+          ],
+          "He was born on 16 June 1912 in Wroc\u0142aw, then part of Germany.",
+          "He was born on June 16, 1912, in Vienna, Austria."
+        ]
+      ],
+      "sent_new": "He was born on June 16, 1912, in Vienna, Austria."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria.",
+      "sent_orig": "Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron.",
+      "sent_orig": "He quickly rose through the ranks and became a squadron leader in 1939.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He quickly rose through the ranks and became a squadron leader in 1939."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939.",
+      "sent_orig": "Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career.",
+      "sent_orig": "He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers.",
+      "sent_orig": "In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing.",
+      "sent_orig": "He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing. He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing. He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk.",
+      "sent_orig": "He was forced to retire from active service and spent the rest of the war working as a test pilot.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was forced to retire from active service and spent the rest of the war working as a test pilot."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing. He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk. He was forced to retire from active service and spent the rest of the war working as a test pilot.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing. He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk. He was forced to retire from active service and spent the rest of the war working as a test pilot.",
+      "sent_orig": "After the war, Gollob was imprisoned by the Allies but was eventually released in 1947.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the war, Gollob was imprisoned by the Allies but was eventually released in 1947."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing. He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk. He was forced to retire from active service and spent the rest of the war working as a test pilot. After the war, Gollob was imprisoned by the Allies but was eventually released in 1947.",
+      "prefix_new": "Gordon Gollob was a Luftwaffe fighter ace during World War II. He was born on June 16, 1912, in Vienna, Austria. Gollob was assigned to Jagdgeschwader 331 (JG 331), a fighter squadron. He quickly rose through the ranks and became a squadron leader in 1939. Gollob was a skilled fighter pilot and was credited with 150 aerial victories during his career. He was known for his aggressive tactics and was often sent on missions to take out enemy aircraft before they could attack German bombers. In 1942, Gollob was promoted to the rank of Major and was given command of JG 77, a fighter wing. He led his wing in many successful missions, including the defense of Sicily and the Battle of Kursk. He was forced to retire from active service and spent the rest of the war working as a test pilot. After the war, Gollob was imprisoned by the Allies but was eventually released in 1947.",
+      "sent_orig": "He went on to work as a commercial pilot and died on September 7, 1987, in Vienna, Austria.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "to work",
+            "died",
+            "on September 7, 1987, in Vienna, Austria."
+          ],
+          "After his release from prison, Gordon Gollob went on to work as a commercial pilot and flight instructor until he died in a plane crash in 1987.",
+          "He went on to work as a commercial pilot and died on September 7, 1987, in Vienna, Austria."
+        ]
+      ],
+      "sent_new": "He went on to work as a commercial pilot and died on September 7, 1987, in Vienna, Austria."
+    }
+  ]
+}

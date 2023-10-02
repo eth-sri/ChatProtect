@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about ramon margalef",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology."
+    },
+    {
+      "prefix_original": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology.",
+      "prefix_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology.",
+      "sent_orig": "He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004."
+    },
+    {
+      "prefix_original": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004.",
+      "prefix_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004.",
+      "sent_orig": "Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology."
+    },
+    {
+      "prefix_original": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology.",
+      "prefix_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology.",
+      "sent_orig": "He was also one of the first scientists to recognize the importance of plankton in marine ecosystems.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also one of the first scientists to recognize the importance of plankton in marine ecosystems."
+    },
+    {
+      "prefix_original": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems.",
+      "prefix_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems.",
+      "sent_orig": "Throughout his life, Margalef published numerous research papers and books, including his most famous book, \"Ecolog\u00eda,\" which was published in 1968 and has been translated into several languages.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "most famous book,",
+            "was published has been",
+            "into several languages."
+          ],
+          "Margalef's most famous book, \"Ecolog\u00eda\" was published in 1963 and has been translated into several languages.",
+          "Margalef published numerous research papers and books, including his book \"Ecolog\u00eda,\" which has been translated into several languages."
+        ]
+      ],
+      "sent_new": "Margalef published numerous research papers and books, including his book \"Ecolog\u00eda,\" which has been translated into several languages."
+    },
+    {
+      "prefix_original": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems. Throughout his life, Margalef published numerous research papers and books, including his most famous book, \"Ecolog\u00eda,\" which was published in 1968 and has been translated into several languages.",
+      "prefix_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems. Margalef published numerous research papers and books, including his book \"Ecolog\u00eda,\" which has been translated into several languages.",
+      "sent_orig": "In addition to his research, Margalef was also a dedicated teacher and mentor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his research, Margalef was also a dedicated teacher and mentor."
+    },
+    {
+      "prefix_original": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems. Throughout his life, Margalef published numerous research papers and books, including his most famous book, \"Ecolog\u00eda,\" which was published in 1968 and has been translated into several languages. In addition to his research, Margalef was also a dedicated teacher and mentor.",
+      "prefix_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems. Margalef published numerous research papers and books, including his book \"Ecolog\u00eda,\" which has been translated into several languages. In addition to his research, Margalef was also a dedicated teacher and mentor.",
+      "sent_orig": "He taught at the University of Barcelona for more than 30 years and trained many young scientists who went on to become leaders in the field of ecology.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He taught at the University of Barcelona for more than 30 years and trained many young scientists who went on to become leaders in the field of ecology."
+    },
+    {
+      "prefix_original": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems. Throughout his life, Margalef published numerous research papers and books, including his most famous book, \"Ecolog\u00eda,\" which was published in 1968 and has been translated into several languages. In addition to his research, Margalef was also a dedicated teacher and mentor. He taught at the University of Barcelona for more than 30 years and trained many young scientists who went on to become leaders in the field of ecology.",
+      "prefix_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems. Margalef published numerous research papers and books, including his book \"Ecolog\u00eda,\" which has been translated into several languages. In addition to his research, Margalef was also a dedicated teacher and mentor. He taught at the University of Barcelona for more than 30 years and trained many young scientists who went on to become leaders in the field of ecology.",
+      "sent_orig": "Margalef was the recipient of many awards and honors during his lifetime, including the Ramon Margalef Prize in Ecology, which was established in his honor after his death.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Margalef was the recipient of many awards and honors during his lifetime, including the Ramon Margalef Prize in Ecology, which was established in his honor after his death."
+    },
+    {
+      "prefix_original": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems. Throughout his life, Margalef published numerous research papers and books, including his most famous book, \"Ecolog\u00eda,\" which was published in 1968 and has been translated into several languages. In addition to his research, Margalef was also a dedicated teacher and mentor. He taught at the University of Barcelona for more than 30 years and trained many young scientists who went on to become leaders in the field of ecology. Margalef was the recipient of many awards and honors during his lifetime, including the Ramon Margalef Prize in Ecology, which was established in his honor after his death.",
+      "prefix_new": "Ramon Margalef i L\u00f3pez was a Spanish naturalist, ecologist and limnologist who is considered to be one of the founders of modern ecology. He was born on May 16, 1919 in Barcelona, Spain and passed away on May 23, 2004. Margalef was a pioneer in the study of freshwater ecology and made significant contributions to the field of marine ecology. He was also one of the first scientists to recognize the importance of plankton in marine ecosystems. Margalef published numerous research papers and books, including his book \"Ecolog\u00eda,\" which has been translated into several languages. In addition to his research, Margalef was also a dedicated teacher and mentor. He taught at the University of Barcelona for more than 30 years and trained many young scientists who went on to become leaders in the field of ecology. Margalef was the recipient of many awards and honors during his lifetime, including the Ramon Margalef Prize in Ecology, which was established in his honor after his death.",
+      "sent_orig": "Today, he is remembered as a pioneering ecologist who made significant contributions to our understanding of the natural world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, he is remembered as a pioneering ecologist who made significant contributions to our understanding of the natural world."
+    }
+  ]
+}

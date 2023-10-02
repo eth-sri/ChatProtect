@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about thomas chapais",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec.",
+      "sent_orig": "Chapais practiced law for many years, but his real passion was history.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais practiced law for many years, but his real passion was history."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history.",
+      "sent_orig": "He became a member of the Royal Society of Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He became a member of the Royal Society of Canada."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada.",
+      "sent_orig": "Chapais authored many books and articles on Canadian history, particularly on the history of Quebec.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais authored many books and articles on Canadian history, particularly on the history of Quebec."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec.",
+      "sent_orig": "He is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "is best known",
+            "for his three-volume work"
+          ],
+          "He is best known for his book \"La vie de Sir Wilfrid Laurier\", a biography of the Canadian Prime Minister.",
+          "Thomas Chapais is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship."
+        ]
+      ],
+      "sent_new": "Thomas Chapais is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. He is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. Thomas Chapais is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship.",
+      "sent_orig": "Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. He is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. Thomas Chapais is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919.",
+      "sent_orig": "In addition to his academic work, Chapais also served in politics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his academic work, Chapais also served in politics."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. He is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919. In addition to his academic work, Chapais also served in politics.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. Thomas Chapais is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919. In addition to his academic work, Chapais also served in politics.",
+      "sent_orig": "He was elected to the Legislative Assembly of Quebec in 1890 as a member of the Conservative Party and served as Minister of Agriculture from 1896 to 1897.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was elected to the Legislative Assembly of Quebec in 1890 as a member of the Conservative Party and served as Minister of Agriculture from 1896 to 1897."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. He is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919. In addition to his academic work, Chapais also served in politics. He was elected to the Legislative Assembly of Quebec in 1890 as a member of the Conservative Party and served as Minister of Agriculture from 1896 to 1897.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. Thomas Chapais is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919. In addition to his academic work, Chapais also served in politics. He was elected to the Legislative Assembly of Quebec in 1890 as a member of the Conservative Party and served as Minister of Agriculture from 1896 to 1897.",
+      "sent_orig": "Later, he served as a senator from Quebec from 1908 to 1921.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Later, he served as a senator from Quebec from 1908 to 1921."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. He is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919. In addition to his academic work, Chapais also served in politics. He was elected to the Legislative Assembly of Quebec in 1890 as a member of the Conservative Party and served as Minister of Agriculture from 1896 to 1897. Later, he served as a senator from Quebec from 1908 to 1921.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. Thomas Chapais is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919. In addition to his academic work, Chapais also served in politics. He was elected to the Legislative Assembly of Quebec in 1890 as a member of the Conservative Party and served as Minister of Agriculture from 1896 to 1897. Later, he served as a senator from Quebec from 1908 to 1921.",
+      "sent_orig": "Chapais died in 1946 at the age of 87.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais died in 1946 at the age of 87."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. He is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919. In addition to his academic work, Chapais also served in politics. He was elected to the Legislative Assembly of Quebec in 1890 as a member of the Conservative Party and served as Minister of Agriculture from 1896 to 1897. Later, he served as a senator from Quebec from 1908 to 1921. Chapais died in 1946 at the age of 87.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian historian, lawyer, and politician from Quebec. Chapais practiced law for many years, but his real passion was history. He became a member of the Royal Society of Canada. Chapais authored many books and articles on Canadian history, particularly on the history of Quebec. Thomas Chapais is best known for his three-volume work titled \"Cours d'histoire du Canada\" (History of Canada), which was published between 1919 and 1930 and is still considered a classic in Canadian historical scholarship. Chapais was also a professor of history at Laval University and was awarded an honorary doctorate by the University of Montreal in 1919. In addition to his academic work, Chapais also served in politics. He was elected to the Legislative Assembly of Quebec in 1890 as a member of the Conservative Party and served as Minister of Agriculture from 1896 to 1897. Later, he served as a senator from Quebec from 1908 to 1921. Chapais died in 1946 at the age of 87.",
+      "sent_orig": "His contributions to Canadian historical scholarship and politics continue to be celebrated today.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His contributions to Canadian historical scholarship and politics continue to be celebrated today."
+    }
+  ]
+}

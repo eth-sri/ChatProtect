@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about mike rawlings",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019.",
+      "sent_orig": "Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Rawlings",
+            "worked",
+            "in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of"
+          ],
+          " Rawlings worked in the telecommunications industry before entering politics.",
+          "Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency."
+        ]
+      ],
+      "sent_new": "Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency.",
+      "sent_orig": "Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election.",
+      "sent_orig": "During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty.",
+      "sent_orig": "He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system.",
+      "sent_orig": "Rawlings was re-elected in 2015, winning the election with over 70% of the vote.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rawlings was re-elected in 2015, winning the election with over 70% of the vote."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote.",
+      "sent_orig": "In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote. In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote. In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure.",
+      "sent_orig": "Rawlings has received numerous awards and recognition for his leadership, including being named one of the \"100 Most Influential People in Dallas\" by D Magazine and receiving the \"Civic Leadership Award\" from the Dallas Regional Chamber.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rawlings has received numerous awards and recognition for his leadership, including being named one of the \"100 Most Influential People in Dallas\" by D Magazine and receiving the \"Civic Leadership Award\" from the Dallas Regional Chamber."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote. In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure. Rawlings has received numerous awards and recognition for his leadership, including being named one of the \"100 Most Influential People in Dallas\" by D Magazine and receiving the \"Civic Leadership Award\" from the Dallas Regional Chamber.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote. In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure. Rawlings has received numerous awards and recognition for his leadership, including being named one of the \"100 Most Influential People in Dallas\" by D Magazine and receiving the \"Civic Leadership Award\" from the Dallas Regional Chamber.",
+      "sent_orig": "He has also been recognized for his commitment to diversity and inclusion, and has been a vocal advocate for LGBTQ rights and immigration reform.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also been recognized for his commitment to diversity and inclusion, and has been a vocal advocate for LGBTQ rights and immigration reform."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote. In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure. Rawlings has received numerous awards and recognition for his leadership, including being named one of the \"100 Most Influential People in Dallas\" by D Magazine and receiving the \"Civic Leadership Award\" from the Dallas Regional Chamber. He has also been recognized for his commitment to diversity and inclusion, and has been a vocal advocate for LGBTQ rights and immigration reform.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote. In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure. Rawlings has received numerous awards and recognition for his leadership, including being named one of the \"100 Most Influential People in Dallas\" by D Magazine and receiving the \"Civic Leadership Award\" from the Dallas Regional Chamber. He has also been recognized for his commitment to diversity and inclusion, and has been a vocal advocate for LGBTQ rights and immigration reform.",
+      "sent_orig": "Rawlings has been married to his wife, Micki, for over 30 years and they have two children together.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rawlings has been married to his wife, Micki, for over 30 years and they have two children together."
+    },
+    {
+      "prefix_original": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote. In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure. Rawlings has received numerous awards and recognition for his leadership, including being named one of the \"100 Most Influential People in Dallas\" by D Magazine and receiving the \"Civic Leadership Award\" from the Dallas Regional Chamber. He has also been recognized for his commitment to diversity and inclusion, and has been a vocal advocate for LGBTQ rights and immigration reform. Rawlings has been married to his wife, Micki, for over 30 years and they have two children together.",
+      "prefix_new": " Mike Rawlings is a businessman and politician who served as the Mayor of Dallas, Texas from 2011 to 2019. Prior to his political career, Rawlings worked in various leadership roles in the private sector, including as CEO of Pizza Hut and Chairman of the Board of TracyLocke, a marketing agency. Rawlings was first elected as Mayor of Dallas in 2011, defeating incumbent Tom Leppert in a runoff election. During his tenure as Mayor, Rawlings focused on issues such as economic development, education, and poverty. He also played a key role in the development of the Dallas Police Department's community policing initiatives and the expansion of the city's transportation system. Rawlings was re-elected in 2015, winning the election with over 70% of the vote. In his second term, he continued to focus on issues such as economic development and public safety, and also launched initiatives to address homelessness and improve the city's infrastructure. Rawlings has received numerous awards and recognition for his leadership, including being named one of the \"100 Most Influential People in Dallas\" by D Magazine and receiving the \"Civic Leadership Award\" from the Dallas Regional Chamber. He has also been recognized for his commitment to diversity and inclusion, and has been a vocal advocate for LGBTQ rights and immigration reform. Rawlings has been married to his wife, Micki, for over 30 years and they have two children together.",
+      "sent_orig": "He holds an MBA from the Harvard Business School.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He holds an MBA from the Harvard Business School."
+    }
+  ]
+}

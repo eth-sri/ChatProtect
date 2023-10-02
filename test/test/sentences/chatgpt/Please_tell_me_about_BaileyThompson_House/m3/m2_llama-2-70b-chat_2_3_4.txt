@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "Here is a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida.",
+  "alt": "The historic home is located in a quiet residential neighborhood.",
+  "prefix": " Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+  "triple": [
+    [
+      "a historic home",
+      "located",
+      "in Tallahassee,"
+    ],
+    "compactie",
+    531
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided do not contain contradictory information. Statement 1 provides a brief overview of the Bailey-Thompson House, including its location and historic significance. Statement 2 provides additional information about the location of the house, specifying that it is in a quiet residential neighborhood. This information does not contradict the information provided in Statement 1, and it helps to give a clearer picture of the house's location. Therefore, the statements are not contradictory."
+}

@@ -1,0 +1,178 @@
+{
+  "prompt": "Please tell me about Manx Electric Railway Stations",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey.",
+      "sent_orig": "The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles.",
+      "sent_orig": "The railway has several stations along the way, each with its own unique history and importance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The railway has several stations along the way, each with its own unique history and importance."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance.",
+      "sent_orig": "These stations include:\n\n1.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These stations include:\n\n1."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1.",
+      "sent_orig": "Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line.",
+      "sent_orig": "It features a museum, gift shop, and ticketing facilities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It features a museum, gift shop, and ticketing facilities."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities.",
+      "sent_orig": "2.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "2."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2.",
+      "sent_orig": "Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Derby Castle Station:",
+            "Located",
+            "at the end of the Douglas promenade, this station"
+          ],
+          "Derby Castle Station is located on the outskirts of Douglas and is the main depot for the Manx Electric Railway.",
+          "Derby Castle Station was originally built as a terminus for the horse-drawn tramway in 1876."
+        ],
+        [
+          [
+            "Derby Castle Station:",
+            "originally built",
+            "as a terminus for the horse-drawn tramway in 1876."
+          ],
+          "Derby Castle Station was originally built in 1893 and served as the headquarters for the Manx Electric Railway.",
+          "Derby Castle Station served as the headquarters for the Manx Electric Railway."
+        ]
+      ],
+      "sent_new": "Derby Castle Station served as the headquarters for the Manx Electric Railway."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway.",
+      "sent_orig": "It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway.",
+      "sent_orig": "3.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "3."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3.",
+      "sent_orig": "Groudle Glen Station: This picturesque station is located in the scenic Groudle Glen, and serves as a stop for visitors to the Groudle Glen Railway and the nearby animal park.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Groudle Glen Station: This picturesque station",
+            "is located",
+            "in the scenic Groudle Glen,"
+          ],
+          "Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas and is a popular spot for visitors to the island.",
+          "Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas."
+        ]
+      ],
+      "sent_new": "Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in the scenic Groudle Glen, and serves as a stop for visitors to the Groudle Glen Railway and the nearby animal park.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas.",
+      "sent_orig": "4.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "4."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in the scenic Groudle Glen, and serves as a stop for visitors to the Groudle Glen Railway and the nearby animal park. 4.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas. 4.",
+      "sent_orig": "Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in the scenic Groudle Glen, and serves as a stop for visitors to the Groudle Glen Railway and the nearby animal park. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line.",
+      "sent_orig": "It features a cafe, gift shop, and ticketing facilities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It features a cafe, gift shop, and ticketing facilities."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in the scenic Groudle Glen, and serves as a stop for visitors to the Groudle Glen Railway and the nearby animal park. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line. It features a cafe, gift shop, and ticketing facilities.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line. It features a cafe, gift shop, and ticketing facilities.",
+      "sent_orig": "5.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "5."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in the scenic Groudle Glen, and serves as a stop for visitors to the Groudle Glen Railway and the nearby animal park. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line. It features a cafe, gift shop, and ticketing facilities. 5.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line. It features a cafe, gift shop, and ticketing facilities. 5.",
+      "sent_orig": "Ramsey Station: The northern terminus of the railway, this station is located in the center of Ramsey and features a museum, gift shop, and ticketing facilities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ramsey Station: The northern terminus of the railway, this station is located in the center of Ramsey and features a museum, gift shop, and ticketing facilities."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in the scenic Groudle Glen, and serves as a stop for visitors to the Groudle Glen Railway and the nearby animal park. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line. It features a cafe, gift shop, and ticketing facilities. 5. Ramsey Station: The northern terminus of the railway, this station is located in the center of Ramsey and features a museum, gift shop, and ticketing facilities.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line. It features a cafe, gift shop, and ticketing facilities. 5. Ramsey Station: The northern terminus of the railway, this station is located in the center of Ramsey and features a museum, gift shop, and ticketing facilities.",
+      "sent_orig": "Today, the Manx Electric Railway is a popular tourist attraction and a major contributor to the island's transport infrastructure.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, the Manx Electric Railway is a popular tourist attraction and a major contributor to the island's transport infrastructure."
+    },
+    {
+      "prefix_original": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station: Located at the end of the Douglas promenade, this station was originally built as a terminus for the horse-drawn tramway in 1876. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in the scenic Groudle Glen, and serves as a stop for visitors to the Groudle Glen Railway and the nearby animal park. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line. It features a cafe, gift shop, and ticketing facilities. 5. Ramsey Station: The northern terminus of the railway, this station is located in the center of Ramsey and features a museum, gift shop, and ticketing facilities. Today, the Manx Electric Railway is a popular tourist attraction and a major contributor to the island's transport infrastructure.",
+      "prefix_new": "The Manx Electric Railway is an electric interurban tramway connecting Douglas, the island's capital, with Ramsey via Laxey. The railway was opened in 1893 and became the first electric interurban passenger railway in the British Isles. The railway has several stations along the way, each with its own unique history and importance. These stations include:\n\n1. Douglas Station: The starting point for the railway, this station is located in the center of Douglas and is the largest station on the line. It features a museum, gift shop, and ticketing facilities. 2. Derby Castle Station served as the headquarters for the Manx Electric Railway. It now serves as a major transfer point for passengers traveling on the Manx Electric Railway and the Snaefell Mountain Railway. 3. Groudle Glen Station: This picturesque station is located in a wooded glen just outside of Douglas. 4. Laxey Station: This station is located in the heart of Laxey village, and is the second-largest station on the line. It features a cafe, gift shop, and ticketing facilities. 5. Ramsey Station: The northern terminus of the railway, this station is located in the center of Ramsey and features a museum, gift shop, and ticketing facilities. Today, the Manx Electric Railway is a popular tourist attraction and a major contributor to the island's transport infrastructure.",
+      "sent_orig": "Its historic stations and scenic route make it a must-see for visitors to the Isle of Man.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Its historic stations and scenic route make it a must-see for visitors to the Isle of Man."
+    }
+  ]
+}

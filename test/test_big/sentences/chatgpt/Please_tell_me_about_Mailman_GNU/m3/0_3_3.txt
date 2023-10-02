@@ -1,0 +1,18 @@
+{
+  "target": "Please tell me about Mailman (GNU)",
+  "orig": "Some of the features of Mailman include:\n\n- Web-based administration tools that allow users to easily manage their mailing lists\n- Support for multiple domain names\n- Robust moderation and spam filtering capabilities\n- Customizable templates for emails and web pages\n- Archiving emails and making them searchable\n- Support for different languages and character sets\n\nMailman is also designed to be scalable and can handle mailing lists with thousands of subscribers.",
+  "alt": "Mailman is also designed to be highly customizable, with a wide range of configuration options available to meet the specific needs of different organizations and communities.",
+  "prefix": "Mailman is a free and open source mailing list management software that is a popular choice for managing email discussions and e-newsletters. It was created by the GNU Project and is one of the most widely used mailing list management systems worldwide. The software is written in Python and is designed to handle large volumes of email traffic, including moderation of emails, managing list subscriptions and user accounts, archiving messages, and providing web-based interfaces for list management.",
+  "triple": [
+    [
+      "Mailman",
+      "is also designed",
+      "to be scalable"
+    ],
+    "compactie",
+    562
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "explanation": null
+}

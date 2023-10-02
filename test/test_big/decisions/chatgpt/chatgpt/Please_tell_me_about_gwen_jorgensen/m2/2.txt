@@ -1,0 +1,93 @@
+{
+  "prompt": "Please tell me about gwen jorgensen",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gwen Jorgensen is a retired American triathlete and distance runner.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gwen Jorgensen is a retired American triathlete and distance runner."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner.",
+      "sent_orig": "She was born on April 25, 1986, in Waukesha, Wisconsin.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was born on April 25, 1986, in Waukesha, Wisconsin."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin.",
+      "sent_orig": "Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015.",
+      "sent_orig": "She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon.",
+      "sent_orig": "Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field.",
+      "sent_orig": "After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time.",
+      "sent_orig": "Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time. Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time. Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running.",
+      "sent_orig": "She won the 2018 Chicago Marathon amateur female race, making her marathon debut.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She won the 2018 Chicago Marathon amateur female race, making her marathon debut."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time. Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running. She won the 2018 Chicago Marathon amateur female race, making her marathon debut.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time. Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running. She won the 2018 Chicago Marathon amateur female race, making her marathon debut.",
+      "sent_orig": "However, she retired from professional distance running in 2021 to focus on family and other interests.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, she retired from professional distance running in 2021 to focus on family and other interests."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time. Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running. She won the 2018 Chicago Marathon amateur female race, making her marathon debut. However, she retired from professional distance running in 2021 to focus on family and other interests.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time. Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running. She won the 2018 Chicago Marathon amateur female race, making her marathon debut. However, she retired from professional distance running in 2021 to focus on family and other interests.",
+      "sent_orig": "Jorgensen is known for her competitive spirit, work ethic, and dedication to her sport.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Jorgensen is known for her competitive spirit, work ethic, and dedication to her sport."
+    },
+    {
+      "prefix_original": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time. Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running. She won the 2018 Chicago Marathon amateur female race, making her marathon debut. However, she retired from professional distance running in 2021 to focus on family and other interests. Jorgensen is known for her competitive spirit, work ethic, and dedication to her sport.",
+      "prefix_new": "Gwen Jorgensen is a retired American triathlete and distance runner. She was born on April 25, 1986, in Waukesha, Wisconsin. Jorgensen competed in the triathlon at the international level, winning back-to-back ITU World Triathlon Series championships in 2014 and 2015. She also won a gold medal in the triathlon at the 2016 Summer Olympics in Rio de Janeiro, Brazil, becoming the first American woman to win an Olympic gold medal in the triathlon. Before becoming a triathlete, Jorgensen was a distance runner at the University of Wisconsin\u2013Madison where she was an All-American in cross-country and track and field. After completing her studies, she worked for Ernst & Young for two years before quitting to pursue a career in triathlon full-time. Jorgensen announced her retirement from professional triathlon in November 2017 and transitioned to professional distance running. She won the 2018 Chicago Marathon amateur female race, making her marathon debut. However, she retired from professional distance running in 2021 to focus on family and other interests. Jorgensen is known for her competitive spirit, work ethic, and dedication to her sport.",
+      "sent_orig": "She is also a role model for young athletes, especially young women, who aspire to pursue careers in sports.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is also a role model for young athletes, especially young women, who aspire to pursue careers in sports."
+    }
+  ]
+}

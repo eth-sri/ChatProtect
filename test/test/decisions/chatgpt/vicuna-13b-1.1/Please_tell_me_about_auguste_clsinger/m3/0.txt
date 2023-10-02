@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about auguste cl\u00e9singer",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor born in Nancy, France.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a French sculptor",
+            "born",
+            "in Nancy, France."
+          ],
+          "Auguste Cl\u00e9singer was a French sculptor born in 1816.",
+          "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France."
+        ]
+      ],
+      "sent_new": "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor born in Nancy, France.",
+      "prefix_new": "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France.",
+      "sent_orig": "He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion.",
+      "prefix_new": "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion.",
+      "sent_orig": "Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion.",
+      "prefix_new": "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion.",
+      "sent_orig": "After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion. After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone.",
+      "prefix_new": "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion. After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone.",
+      "sent_orig": "Some of Cl\u00e9singer's most famous works include the sculpture \"The Wave\" (1852), which is located in the Jardin du Luxembourg in Paris, and the statue of Joan of Arc (1874) in the Place des Pyramides in the same city.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some of Cl\u00e9singer's most famous works include the sculpture \"The Wave\" (1852), which is located in the Jardin du Luxembourg in Paris, and the statue of Joan of Arc (1874) in the Place des Pyramides in the same city."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion. After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone. Some of Cl\u00e9singer's most famous works include the sculpture \"The Wave\" (1852), which is located in the Jardin du Luxembourg in Paris, and the statue of Joan of Arc (1874) in the Place des Pyramides in the same city.",
+      "prefix_new": "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion. After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone. Some of Cl\u00e9singer's most famous works include the sculpture \"The Wave\" (1852), which is located in the Jardin du Luxembourg in Paris, and the statue of Joan of Arc (1874) in the Place des Pyramides in the same city.",
+      "sent_orig": "He also created several smaller works, such as figurines and medallions, which were popular in the Victorian era.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also created several smaller works, such as figurines and medallions, which were popular in the Victorian era."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion. After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone. Some of Cl\u00e9singer's most famous works include the sculpture \"The Wave\" (1852), which is located in the Jardin du Luxembourg in Paris, and the statue of Joan of Arc (1874) in the Place des Pyramides in the same city. He also created several smaller works, such as figurines and medallions, which were popular in the Victorian era.",
+      "prefix_new": "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion. After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone. Some of Cl\u00e9singer's most famous works include the sculpture \"The Wave\" (1852), which is located in the Jardin du Luxembourg in Paris, and the statue of Joan of Arc (1874) in the Place des Pyramides in the same city. He also created several smaller works, such as figurines and medallions, which were popular in the Victorian era.",
+      "sent_orig": "Cl\u00e9singer was a member of the Academy of Fine Arts in Berlin and his works were exhibited worldwide.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Cl\u00e9singer",
+            "was",
+            "a member of the Academy of Fine Arts in Berlin"
+          ],
+          "known for his works in the Beaux-Arts style.",
+          "Cl\u00e9singer's works were exhibited worldwide."
+        ]
+      ],
+      "sent_new": "Cl\u00e9singer's works were exhibited worldwide."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion. After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone. Some of Cl\u00e9singer's most famous works include the sculpture \"The Wave\" (1852), which is located in the Jardin du Luxembourg in Paris, and the statue of Joan of Arc (1874) in the Place des Pyramides in the same city. He also created several smaller works, such as figurines and medallions, which were popular in the Victorian era. Cl\u00e9singer was a member of the Academy of Fine Arts in Berlin and his works were exhibited worldwide.",
+      "prefix_new": "Auguste Cl\u00e9singer was a French sculptor born in Nancy, France. He was known for his works in the Beaux-Arts style, which was characterized by its focus on beauty, harmony, and proportion. Cl\u00e9singer attended the \u00c9cole des Beaux-Arts in Paris, where he studied under the sculptor Esmil Champion. After completing his studies, he became known for his works in a variety of mediums, including marble, bronze, and stone. Some of Cl\u00e9singer's most famous works include the sculpture \"The Wave\" (1852), which is located in the Jardin du Luxembourg in Paris, and the statue of Joan of Arc (1874) in the Place des Pyramides in the same city. He also created several smaller works, such as figurines and medallions, which were popular in the Victorian era. Cl\u00e9singer's works were exhibited worldwide.",
+      "sent_orig": "He was widely recognized for his contributions to the field of sculpture, and was considered one of the leading artists of his time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was widely recognized for his contributions to the field of sculpture, and was considered one of the leading artists of his time."
+    }
+  ]
+}

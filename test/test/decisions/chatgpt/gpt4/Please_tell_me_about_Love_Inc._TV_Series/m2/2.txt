@@ -1,0 +1,96 @@
+{
+  "prompt": "Please tell me about Love, Inc. (TV Series)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006."
+    },
+    {
+      "prefix_original": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006.",
+      "prefix_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006.",
+      "sent_orig": "The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The show",
+            "was created produced",
+            "by Adam Chase, Warren Littlefield, and director Pamela Fryman."
+          ],
+          "The show was created and produced by Andrew Secunda and Peter Principato.",
+          "The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman."
+        ]
+      ],
+      "sent_new": "The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman."
+    },
+    {
+      "prefix_original": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman.",
+      "prefix_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman.",
+      "sent_orig": "The show revolves around a group of matchmakers working for a dating agency called Love, Inc.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show revolves around a group of matchmakers working for a dating agency called Love, Inc."
+    },
+    {
+      "prefix_original": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc.",
+      "prefix_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc.",
+      "sent_orig": "Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner."
+    },
+    {
+      "prefix_original": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner.",
+      "prefix_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner.",
+      "sent_orig": "The main character is Denise Johnson, played by Busy Philipps, who is an energetic, confident, and successful matchmaker.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Denise Johnson,",
+            "played",
+            "by Busy Philipps,"
+          ],
+          "Denise Johnson played the role of Francine, one of the matchmakers at Love, Inc.",
+          "The main character is one of the matchmakers at Love, Inc."
+        ]
+      ],
+      "sent_new": "The main character is one of the matchmakers at Love, Inc."
+    },
+    {
+      "prefix_original": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner. The main character is Denise Johnson, played by Busy Philipps, who is an energetic, confident, and successful matchmaker.",
+      "prefix_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner. The main character is one of the matchmakers at Love, Inc.",
+      "sent_orig": "Other main characters include Barry, played by Vince Vieluf, a lovable but socially awkward agent; Francine, played by Regan Gomez-Preston, the sassy receptionist; Clea, played by Holly Robinson Peete, the wise and nurturing senior agent, and Viviana, played by Ion Overman, who is a sultry and alluring matchmaker.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner. The main character is Denise Johnson, played by Busy Philipps, who is an energetic, confident, and successful matchmaker. Other main characters include Barry, played by Vince Vieluf, a lovable but socially awkward agent; Francine, played by Regan Gomez-Preston, the sassy receptionist; Clea, played by Holly Robinson Peete, the wise and nurturing senior agent, and Viviana, played by Ion Overman, who is a sultry and alluring matchmaker.",
+      "prefix_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner. The main character is one of the matchmakers at Love, Inc.",
+      "sent_orig": "Throughout the series, the Love, Inc. team encounters various challenges and deals with interesting but difficult clients.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout the series, the Love, Inc. team encounters various challenges and deals with interesting but difficult clients."
+    },
+    {
+      "prefix_original": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner. The main character is Denise Johnson, played by Busy Philipps, who is an energetic, confident, and successful matchmaker. Other main characters include Barry, played by Vince Vieluf, a lovable but socially awkward agent; Francine, played by Regan Gomez-Preston, the sassy receptionist; Clea, played by Holly Robinson Peete, the wise and nurturing senior agent, and Viviana, played by Ion Overman, who is a sultry and alluring matchmaker. Throughout the series, the Love, Inc. team encounters various challenges and deals with interesting but difficult clients.",
+      "prefix_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner. The main character is one of the matchmakers at Love, Inc. Throughout the series, the Love, Inc. team encounters various challenges and deals with interesting but difficult clients.",
+      "sent_orig": "The show focuses on the matchmakers' professional and personal lives, as they work together to find true love for their clients while navigating their own complicated relationships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show focuses on the matchmakers' professional and personal lives, as they work together to find true love for their clients while navigating their own complicated relationships."
+    },
+    {
+      "prefix_original": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner. The main character is Denise Johnson, played by Busy Philipps, who is an energetic, confident, and successful matchmaker. Other main characters include Barry, played by Vince Vieluf, a lovable but socially awkward agent; Francine, played by Regan Gomez-Preston, the sassy receptionist; Clea, played by Holly Robinson Peete, the wise and nurturing senior agent, and Viviana, played by Ion Overman, who is a sultry and alluring matchmaker. Throughout the series, the Love, Inc. team encounters various challenges and deals with interesting but difficult clients. The show focuses on the matchmakers' professional and personal lives, as they work together to find true love for their clients while navigating their own complicated relationships.",
+      "prefix_new": "\"Love, Inc.\" is an American television sitcom that aired on the United Paramount Network (UPN) from September 2005 to May 2006. The show was created by Andrew Secunda and produced by Adam Chase, Warren Littlefield, and director Pamela Fryman. The show revolves around a group of matchmakers working for a dating agency called Love, Inc. Located in New York City, the agency is managed by a highly skilled and fun-loving team that includes the best matchmakers, who are dedicated to helping their clients find the perfect partner. The main character is one of the matchmakers at Love, Inc. Throughout the series, the Love, Inc. team encounters various challenges and deals with interesting but difficult clients. The show focuses on the matchmakers' professional and personal lives, as they work together to find true love for their clients while navigating their own complicated relationships.",
+      "sent_orig": "Though \"Love, Inc.\" only ran for one season, it provided a light-hearted and entertaining look into the world of matchmaking and the complexities of love and relationships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Though \"Love, Inc.\" only ran for one season, it provided a light-hearted and entertaining look into the world of matchmaking and the complexities of love and relationships."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about dickie moore (ice hockey)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada."
+    },
+    {
+      "prefix_original": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada.",
+      "prefix_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada.",
+      "sent_orig": "He played professional ice hockey for 14 seasons, from 1951 to 1963, all of which were spent with the Montreal Canadiens.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "professional ice hockey for 14 seasons, from 1951 to 1963,",
+            "were",
+            ""
+          ],
+          "During his career, Dickie Moore played for the Montreal Canadiens and the Toronto Maple Leafs, and his achievements were remarkable.",
+          "He played professional ice hockey for 14 seasons, all of which were remarkable."
+        ]
+      ],
+      "sent_new": "He played professional ice hockey for 14 seasons, all of which were remarkable."
+    },
+    {
+      "prefix_original": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, from 1951 to 1963, all of which were spent with the Montreal Canadiens.",
+      "prefix_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, all of which were remarkable.",
+      "sent_orig": "He was known for his incredible speed and skill on the ice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his incredible speed and skill on the ice."
+    },
+    {
+      "prefix_original": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, from 1951 to 1963, all of which were spent with the Montreal Canadiens. He was known for his incredible speed and skill on the ice.",
+      "prefix_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, all of which were remarkable. He was known for his incredible speed and skill on the ice.",
+      "sent_orig": "Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960."
+    },
+    {
+      "prefix_original": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, from 1951 to 1963, all of which were spent with the Montreal Canadiens. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960.",
+      "prefix_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, all of which were remarkable. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960.",
+      "sent_orig": "He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952."
+    },
+    {
+      "prefix_original": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, from 1951 to 1963, all of which were spent with the Montreal Canadiens. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960. He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952.",
+      "prefix_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, all of which were remarkable. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960. He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952.",
+      "sent_orig": "Despite retiring relatively young at the age of 32 due to multiple injuries, Moore's contributions to the sport of ice hockey were significant.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite retiring relatively young at the age of 32 due to multiple injuries, Moore's contributions to the sport of ice hockey were significant."
+    },
+    {
+      "prefix_original": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, from 1951 to 1963, all of which were spent with the Montreal Canadiens. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960. He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952. Despite retiring relatively young at the age of 32 due to multiple injuries, Moore's contributions to the sport of ice hockey were significant.",
+      "prefix_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, all of which were remarkable. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960. He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952. Despite retiring relatively young at the age of 32 due to multiple injuries, Moore's contributions to the sport of ice hockey were significant.",
+      "sent_orig": "He scored a total of 261 goals and 347 assists over his career, and his incredible speed and skill were a major influence on the game.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He scored a total of 261 goals and 347 assists over his career, and his incredible speed and skill were a major influence on the game."
+    },
+    {
+      "prefix_original": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, from 1951 to 1963, all of which were spent with the Montreal Canadiens. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960. He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952. Despite retiring relatively young at the age of 32 due to multiple injuries, Moore's contributions to the sport of ice hockey were significant. He scored a total of 261 goals and 347 assists over his career, and his incredible speed and skill were a major influence on the game.",
+      "prefix_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, all of which were remarkable. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960. He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952. Despite retiring relatively young at the age of 32 due to multiple injuries, Moore's contributions to the sport of ice hockey were significant. He scored a total of 261 goals and 347 assists over his career, and his incredible speed and skill were a major influence on the game.",
+      "sent_orig": "After retiring from playing professional hockey, Moore worked as a coach and later became a successful businessman.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After retiring from playing professional hockey, Moore worked as a coach and later became a successful businessman."
+    },
+    {
+      "prefix_original": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, from 1951 to 1963, all of which were spent with the Montreal Canadiens. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960. He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952. Despite retiring relatively young at the age of 32 due to multiple injuries, Moore's contributions to the sport of ice hockey were significant. He scored a total of 261 goals and 347 assists over his career, and his incredible speed and skill were a major influence on the game. After retiring from playing professional hockey, Moore worked as a coach and later became a successful businessman.",
+      "prefix_new": "Dickie Moore was a Canadian ice hockey player born on January 6, 1931 in Montreal, Quebec, Canada. He played professional ice hockey for 14 seasons, all of which were remarkable. He was known for his incredible speed and skill on the ice. Moore won six Stanley Cup championships during his career, in 1953, 1956, 1957, 1958, 1959, and 1960. He was also a seven-time All-Star, won the Art Ross Trophy as the NHL's leading scorer in 1958 and 1959, and won the Calder Memorial Trophy as rookie of the year in 1952. Despite retiring relatively young at the age of 32 due to multiple injuries, Moore's contributions to the sport of ice hockey were significant. He scored a total of 261 goals and 347 assists over his career, and his incredible speed and skill were a major influence on the game. After retiring from playing professional hockey, Moore worked as a coach and later became a successful businessman.",
+      "sent_orig": "He passed away on December 19, 2015 at the age of 84.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He passed away on December 19, 2015 at the age of 84."
+    }
+  ]
+}

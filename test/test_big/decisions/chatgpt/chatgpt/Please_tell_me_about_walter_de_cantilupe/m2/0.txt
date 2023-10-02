@@ -1,0 +1,152 @@
+{
+  "prompt": "Please tell me about walter de cantilupe",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "an English churchman and statesman",
+            "served",
+            "as Chancellor of the Exchequer and Bishop of Worcester."
+          ],
+          "Walter de Cantilupe, an English churchman and statesman, served as Lord High Treasurer of England from 1265 to 1266.",
+          "Walter de Cantilupe served as Bishop of Worcester."
+        ]
+      ],
+      "sent_new": "Walter de Cantilupe served as Bishop of Worcester."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester.",
+      "sent_orig": "He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I.",
+      "sent_orig": "During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits.",
+      "sent_orig": "He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland.",
+      "sent_orig": "In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy.",
+      "sent_orig": "He founded several hospitals and provided support for the poor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He founded several hospitals and provided support for the poor."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor.",
+      "sent_orig": "He was also a patron of the arts and commissioned the creation of several illuminated manuscripts.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a patron of the arts",
+            "commissioned",
+            "the creation of several illuminated manuscripts."
+          ],
+          "There is no information to suggest that Walter de Cantilupe was a patron of the arts or commissioned any works.",
+          "He commissioned the creation of several illuminated manuscripts."
+        ]
+      ],
+      "sent_new": "He commissioned the creation of several illuminated manuscripts."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor. He was also a patron of the arts and commissioned the creation of several illuminated manuscripts.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor. He commissioned the creation of several illuminated manuscripts.",
+      "sent_orig": "In 1306, he was summoned to Parliament to help advise King Edward II, but he fell out of favour with the king after refusing to approve the appointment of his favourite, Piers Gaveston, as Earl of Cornwall.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1306, he was summoned to Parliament to help advise King Edward II, but he fell out of favour with the king after refusing to approve the appointment of his favourite, Piers Gaveston, as Earl of Cornwall."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor. He was also a patron of the arts and commissioned the creation of several illuminated manuscripts. In 1306, he was summoned to Parliament to help advise King Edward II, but he fell out of favour with the king after refusing to approve the appointment of his favourite, Piers Gaveston, as Earl of Cornwall.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor. He commissioned the creation of several illuminated manuscripts. In 1306, he was summoned to Parliament to help advise King Edward II, but he fell out of favour with the king after refusing to approve the appointment of his favourite, Piers Gaveston, as Earl of Cornwall.",
+      "sent_orig": "Cantilupe was later excommunicated by the Archbishop of Canterbury for opposing the papacy's taxation of English clergy, but he was absolved before his death in 1308.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Cantilupe",
+            "excommunicated",
+            "by the Archbishop of Canterbury for opposing the papacy's taxation of English clergy,"
+          ],
+          "Cantilupe was excommunicated by Pope Clement V in 1307 for opposing the king's attempts to tax the clergy.",
+          "Cantilupe was later absolved before his death in 1308."
+        ]
+      ],
+      "sent_new": "Cantilupe was later absolved before his death in 1308."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor. He was also a patron of the arts and commissioned the creation of several illuminated manuscripts. In 1306, he was summoned to Parliament to help advise King Edward II, but he fell out of favour with the king after refusing to approve the appointment of his favourite, Piers Gaveston, as Earl of Cornwall. Cantilupe was later excommunicated by the Archbishop of Canterbury for opposing the papacy's taxation of English clergy, but he was absolved before his death in 1308.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor. He commissioned the creation of several illuminated manuscripts. In 1306, he was summoned to Parliament to help advise King Edward II, but he fell out of favour with the king after refusing to approve the appointment of his favourite, Piers Gaveston, as Earl of Cornwall. Cantilupe was later absolved before his death in 1308.",
+      "sent_orig": "He was canonized as a saint by the Catholic Church in 1320, becoming one of only eight Englishmen to be granted this honor.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was canonized",
+            "as a saint by the Catholic Church in 1320,"
+          ],
+          "He was canonized by Pope John Paul II in 1320.",
+          "He was canonized as a saint by the Catholic Church in 1320."
+        ],
+        [
+          [
+            "He",
+            "was canonized",
+            "as a saint by the Catholic Church in 1320,"
+          ],
+          "He was canonized by Pope John Paul II in 1320.",
+          "He was canonized as a saint by the Catholic Church in 1320."
+        ]
+      ],
+      "sent_new": "He was canonized as a saint by the Catholic Church in 1320."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was an English churchman and statesman who served as Chancellor of the Exchequer and Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor. He was also a patron of the arts and commissioned the creation of several illuminated manuscripts. In 1306, he was summoned to Parliament to help advise King Edward II, but he fell out of favour with the king after refusing to approve the appointment of his favourite, Piers Gaveston, as Earl of Cornwall. Cantilupe was later excommunicated by the Archbishop of Canterbury for opposing the papacy's taxation of English clergy, but he was absolved before his death in 1308. He was canonized as a saint by the Catholic Church in 1320, becoming one of only eight Englishmen to be granted this honor.",
+      "prefix_new": "Walter de Cantilupe served as Bishop of Worcester. He was born into a noble family and studied law at the University of Paris before beginning his career in the government of King Edward I. During his time as Chancellor, he helped to reform the royal administration and was responsible for introducing the concept of audits. He was also appointed to several diplomatic missions, negotiating treaties with the kingdoms of Norway and Scotland. In 1296, he was appointed Bishop of Worcester and worked to improve the condition of his diocese and the lives of his clergy. He founded several hospitals and provided support for the poor. He commissioned the creation of several illuminated manuscripts. In 1306, he was summoned to Parliament to help advise King Edward II, but he fell out of favour with the king after refusing to approve the appointment of his favourite, Piers Gaveston, as Earl of Cornwall. Cantilupe was later absolved before his death in 1308. He was canonized as a saint by the Catholic Church in 1320.",
+      "sent_orig": "His feast day is celebrated on August 2.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "His feast day",
+            "is celebrated",
+            "on August 2."
+          ],
+          "His feast day is celebrated on October 2nd.",
+          "His feast day is celebrated on August 2."
+        ]
+      ],
+      "sent_new": "His feast day is celebrated on August 2."
+    }
+  ]
+}

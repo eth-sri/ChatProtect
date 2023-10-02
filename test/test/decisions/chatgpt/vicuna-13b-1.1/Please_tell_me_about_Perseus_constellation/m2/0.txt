@@ -1,0 +1,98 @@
+{
+  "prompt": "Please tell me about Perseus (constellation)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Perseus is a constellation in the northern sky, located between the constellations of Cassiopeia and Cepheus.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a constellation in the northern sky,",
+            "located",
+            "between the constellations of Cassiopeia and Cepheus."
+          ],
+          "Perseus is a constellation in the northern sky, located between Coma Berenices and Hercules.",
+          "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus."
+        ]
+      ],
+      "sent_new": "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between the constellations of Cassiopeia and Cepheus.",
+      "prefix_new": "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus.",
+      "sent_orig": "It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between the constellations of Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest.",
+      "prefix_new": "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest.",
+      "sent_orig": "Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between the constellations of Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster.",
+      "prefix_new": "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster.",
+      "sent_orig": "In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between the constellations of Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster. In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters.",
+      "prefix_new": "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster. In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters.",
+      "sent_orig": "One of the stars in the constellation of Perseus is Mirfak, which is the second brightest star in the constellation and can be found near the middle of the constellation.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Mirfak,",
+            "is",
+            "the second brightest star in the constellation"
+          ],
+          "Mirfak is the brightest star in the constellation Perseus.",
+          "Mirfak is a star in the constellation of Perseus and can be found near the middle of the constellation."
+        ],
+        [
+          [
+            "the second brightest star in the constellation",
+            "can be found",
+            "near the middle of the constellation."
+          ],
+          "The second brightest star in the constellation Perseus can be found near the bottom of the constellation, to the east of the famous \"Double Cluster\" (NGC 869 and NGC 884).",
+          "Mirfak is a star in the constellation of Perseus and is the second brightest star in the constellation."
+        ]
+      ],
+      "sent_new": "Mirfak is a star in the constellation of Perseus and is the second brightest star in the constellation."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between the constellations of Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster. In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters. One of the stars in the constellation of Perseus is Mirfak, which is the second brightest star in the constellation and can be found near the middle of the constellation.",
+      "prefix_new": "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster. In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters. Mirfak is a star in the constellation of Perseus and is the second brightest star in the constellation.",
+      "sent_orig": "Another notable feature of Perseus is the Perseus Cluster, which is a rich cluster of galaxies located near the constellation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Another notable feature of Perseus is the Perseus Cluster, which is a rich cluster of galaxies located near the constellation."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between the constellations of Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster. In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters. One of the stars in the constellation of Perseus is Mirfak, which is the second brightest star in the constellation and can be found near the middle of the constellation. Another notable feature of Perseus is the Perseus Cluster, which is a rich cluster of galaxies located near the constellation.",
+      "prefix_new": "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster. In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters. Mirfak is a star in the constellation of Perseus and is the second brightest star in the constellation. Another notable feature of Perseus is the Perseus Cluster, which is a rich cluster of galaxies located near the constellation.",
+      "sent_orig": "Perseus is a circumpolar constellation, which means it can be seen from the northern hemisphere throughout the year.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is a circumpolar constellation, which means it can be seen from the northern hemisphere throughout the year."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between the constellations of Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster. In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters. One of the stars in the constellation of Perseus is Mirfak, which is the second brightest star in the constellation and can be found near the middle of the constellation. Another notable feature of Perseus is the Perseus Cluster, which is a rich cluster of galaxies located near the constellation. Perseus is a circumpolar constellation, which means it can be seen from the northern hemisphere throughout the year.",
+      "prefix_new": "Perseus is a constellation in the northern sky, located between Cassiopeia and Cepheus. It is one of the 12 constellations that were listed by the ancient Greek astronomer Ptolemy in his 150-year series of astronomical works, the Almagest. Perseus is named after the Greek mythological hero Perseus, who is best known for slaying the Gorgon Medusa and rescuing Andromeda from a sea monster. In the sky, Perseus is represented by a constellation that bears his name and consists of several stars and galaxy clusters. Mirfak is a star in the constellation of Perseus and is the second brightest star in the constellation. Another notable feature of Perseus is the Perseus Cluster, which is a rich cluster of galaxies located near the constellation. Perseus is a circumpolar constellation, which means it can be seen from the northern hemisphere throughout the year.",
+      "sent_orig": "It is also home to several deep-sky objects, including the Perseus Double Cluster, which is a pair of open clusters that are visible with binoculars or a small telescope.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also home to several deep-sky objects, including the Perseus Double Cluster, which is a pair of open clusters that are visible with binoculars or a small telescope."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about Angela Merkel",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Merkel is a trained physicist and worked as a research scientist before entering politics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Merkel is a trained physicist and worked as a research scientist before entering politics."
+    },
+    {
+      "prefix_original": "Merkel is a trained physicist and worked as a research scientist before entering politics.",
+      "prefix_new": "Merkel is a trained physicist and worked as a research scientist before entering politics.",
+      "sent_orig": "She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991."
+    },
+    {
+      "prefix_original": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991.",
+      "prefix_new": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991.",
+      "sent_orig": "After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000."
+    },
+    {
+      "prefix_original": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000.",
+      "prefix_new": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000.",
+      "sent_orig": "She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position."
+    },
+    {
+      "prefix_original": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000. She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position.",
+      "prefix_new": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000. She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position.",
+      "sent_orig": "During her time as Chancellor, Merkel played a key role in shaping the European Union's response to the 2008 financial crisis, the refugee crisis, and the COVID-19 pandemic.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During her time as Chancellor, Merkel played a key role in shaping the European Union's response to the 2008 financial crisis, the refugee crisis, and the COVID-19 pandemic."
+    },
+    {
+      "prefix_original": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000. She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position. During her time as Chancellor, Merkel played a key role in shaping the European Union's response to the 2008 financial crisis, the refugee crisis, and the COVID-19 pandemic.",
+      "prefix_new": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000. She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position. During her time as Chancellor, Merkel played a key role in shaping the European Union's response to the 2008 financial crisis, the refugee crisis, and the COVID-19 pandemic.",
+      "sent_orig": "She has been known for her pragmatic and cautious approach to politics, often referred to as \"Merkelism.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has been known for her pragmatic and cautious approach to politics, often referred to as \"Merkelism.\""
+    },
+    {
+      "prefix_original": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000. She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position. During her time as Chancellor, Merkel played a key role in shaping the European Union's response to the 2008 financial crisis, the refugee crisis, and the COVID-19 pandemic. She has been known for her pragmatic and cautious approach to politics, often referred to as \"Merkelism.\"",
+      "prefix_new": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000. She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position. During her time as Chancellor, Merkel played a key role in shaping the European Union's response to the 2008 financial crisis, the refugee crisis, and the COVID-19 pandemic. She has been known for her pragmatic and cautious approach to politics, often referred to as \"Merkelism.\"",
+      "sent_orig": "Merkel announced in 2018 that she would not seek re-election as Chancellor in the 2021 elections.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Merkel announced in 2018 that she would not seek re-election as Chancellor in the 2021 elections."
+    },
+    {
+      "prefix_original": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000. She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position. During her time as Chancellor, Merkel played a key role in shaping the European Union's response to the 2008 financial crisis, the refugee crisis, and the COVID-19 pandemic. She has been known for her pragmatic and cautious approach to politics, often referred to as \"Merkelism.\" Merkel announced in 2018 that she would not seek re-election as Chancellor in the 2021 elections.",
+      "prefix_new": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000. She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position. During her time as Chancellor, Merkel played a key role in shaping the European Union's response to the 2008 financial crisis, the refugee crisis, and the COVID-19 pandemic. She has been known for her pragmatic and cautious approach to politics, often referred to as \"Merkelism.\" Merkel announced in 2018 that she would not seek re-election as Chancellor in the 2021 elections.",
+      "sent_orig": "She stepped down from her position as Chancellor in November 2021, after serving for 16 years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She stepped down from her position as Chancellor in November 2021, after serving for 16 years."
+    }
+  ]
+}

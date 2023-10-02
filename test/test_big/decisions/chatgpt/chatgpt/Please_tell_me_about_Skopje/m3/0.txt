@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about Skopje",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Skopje is the capital and largest city of North Macedonia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Skopje is the capital and largest city of North Macedonia."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia.",
+      "sent_orig": "It is located on the Vardar River.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is located on the Vardar River."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River.",
+      "sent_orig": "The city has a population of around 550,000 people and covers an area of 571 square kilometers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city has a population of around 550,000 people and covers an area of 571 square kilometers."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers.",
+      "sent_orig": "Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions.",
+      "sent_orig": "It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions. It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions. It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid.",
+      "sent_orig": "In recent years, Skopje has undergone significant redevelopment and revitalization, with a focus on creating new public spaces, cultural institutions, and modern infrastructure.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In recent years, Skopje has undergone significant redevelopment and revitalization, with a focus on creating new public spaces, cultural institutions, and modern infrastructure."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions. It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid. In recent years, Skopje has undergone significant redevelopment and revitalization, with a focus on creating new public spaces, cultural institutions, and modern infrastructure.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions. It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid. In recent years, Skopje has undergone significant redevelopment and revitalization, with a focus on creating new public spaces, cultural institutions, and modern infrastructure.",
+      "sent_orig": "The city is home to several universities, museums, galleries, and theaters, and is a popular destination for tourists interested in history, architecture, and cultural heritage.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city is home to several universities, museums, galleries, and theaters, and is a popular destination for tourists interested in history, architecture, and cultural heritage."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions. It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid. In recent years, Skopje has undergone significant redevelopment and revitalization, with a focus on creating new public spaces, cultural institutions, and modern infrastructure. The city is home to several universities, museums, galleries, and theaters, and is a popular destination for tourists interested in history, architecture, and cultural heritage.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions. It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid. In recent years, Skopje has undergone significant redevelopment and revitalization, with a focus on creating new public spaces, cultural institutions, and modern infrastructure. The city is home to several universities, museums, galleries, and theaters, and is a popular destination for tourists interested in history, architecture, and cultural heritage.",
+      "sent_orig": "Skopje also has a vibrant nightlife scene, with numerous bars, clubs, and restaurants offering a variety of local and international cuisine.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Skopje also has a vibrant nightlife scene, with numerous bars, clubs, and restaurants offering a variety of local and international cuisine."
+    },
+    {
+      "prefix_original": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions. It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid. In recent years, Skopje has undergone significant redevelopment and revitalization, with a focus on creating new public spaces, cultural institutions, and modern infrastructure. The city is home to several universities, museums, galleries, and theaters, and is a popular destination for tourists interested in history, architecture, and cultural heritage. Skopje also has a vibrant nightlife scene, with numerous bars, clubs, and restaurants offering a variety of local and international cuisine.",
+      "prefix_new": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River. The city has a population of around 550,000 people and covers an area of 571 square kilometers. Skopje is known for its rich history and mix of cultures, with influences from Ottoman, Balkan, and European traditions. It has many historical landmarks and buildings, including the Skopje Fortress, the Stone Bridge, the Mustafa Pasha Mosque, and the Church of Saint Clement of Ohrid. In recent years, Skopje has undergone significant redevelopment and revitalization, with a focus on creating new public spaces, cultural institutions, and modern infrastructure. The city is home to several universities, museums, galleries, and theaters, and is a popular destination for tourists interested in history, architecture, and cultural heritage. Skopje also has a vibrant nightlife scene, with numerous bars, clubs, and restaurants offering a variety of local and international cuisine.",
+      "sent_orig": "The city is well-connected to other parts of North Macedonia and neighboring countries, with an international airport, a bus station, and a train station.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city is well-connected to other parts of North Macedonia and neighboring countries, with an international airport, a bus station, and a train station."
+    }
+  ]
+}

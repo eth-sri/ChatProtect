@@ -1,0 +1,53 @@
+{
+  "prompt": "Please tell me about Hydrophasianus",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Hydrophasianus is a genus of birds in the family Rallidae.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hydrophasianus is a genus of birds in the family Rallidae."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of birds in the family Rallidae.",
+      "prefix_new": "Hydrophasianus is a genus of birds in the family Rallidae.",
+      "sent_orig": "It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of birds in the family Rallidae. It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia.",
+      "prefix_new": "Hydrophasianus is a genus of birds in the family Rallidae. It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia.",
+      "sent_orig": "The White-breasted Waterhen is a medium-sized bird that lives in freshwater wetlands, including marshes, swamps, and rice paddies.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The White-breasted Waterhen is a medium-sized bird that lives in freshwater wetlands, including marshes, swamps, and rice paddies."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of birds in the family Rallidae. It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia. The White-breasted Waterhen is a medium-sized bird that lives in freshwater wetlands, including marshes, swamps, and rice paddies.",
+      "prefix_new": "Hydrophasianus is a genus of birds in the family Rallidae. It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia. The White-breasted Waterhen is a medium-sized bird that lives in freshwater wetlands, including marshes, swamps, and rice paddies.",
+      "sent_orig": "It feeds on a variety of invertebrates, small vertebrates, and plant material.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It feeds on a variety of invertebrates, small vertebrates, and plant material."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of birds in the family Rallidae. It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia. The White-breasted Waterhen is a medium-sized bird that lives in freshwater wetlands, including marshes, swamps, and rice paddies. It feeds on a variety of invertebrates, small vertebrates, and plant material.",
+      "prefix_new": "Hydrophasianus is a genus of birds in the family Rallidae. It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia. The White-breasted Waterhen is a medium-sized bird that lives in freshwater wetlands, including marshes, swamps, and rice paddies. It feeds on a variety of invertebrates, small vertebrates, and plant material.",
+      "sent_orig": "The White-breasted Waterhen is known for its distinctive loud calls, which can be heard over long distances.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The White-breasted Waterhen is known for its distinctive loud calls, which can be heard over long distances."
+    },
+    {
+      "prefix_original": "Hydrophasianus is a genus of birds in the family Rallidae. It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia. The White-breasted Waterhen is a medium-sized bird that lives in freshwater wetlands, including marshes, swamps, and rice paddies. It feeds on a variety of invertebrates, small vertebrates, and plant material. The White-breasted Waterhen is known for its distinctive loud calls, which can be heard over long distances.",
+      "prefix_new": "Hydrophasianus is a genus of birds in the family Rallidae. It contains only one species, the White-breasted Waterhen (Hydrophasianus chirurgus), which is a waterbird found across South and Southeast Asia. The White-breasted Waterhen is a medium-sized bird that lives in freshwater wetlands, including marshes, swamps, and rice paddies. It feeds on a variety of invertebrates, small vertebrates, and plant material. The White-breasted Waterhen is known for its distinctive loud calls, which can be heard over long distances.",
+      "sent_orig": "It is listed as Least Concern on the IUCN Red List of Threatened Species, although populations are declining in some regions due to habitat loss and degradation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is listed as Least Concern on the IUCN Red List of Threatened Species, although populations are declining in some regions due to habitat loss and degradation."
+    }
+  ]
+}

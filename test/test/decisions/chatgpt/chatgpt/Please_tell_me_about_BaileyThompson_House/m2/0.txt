@@ -1,0 +1,143 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States.",
+      "prefix_new": "",
+      "sent_orig": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States. This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S.",
+      "sent_orig": "Congressman.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Congressman."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States. This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman.",
+      "sent_orig": "The house features a central pavilion with a pedimented portico supported by four Tuscan columns.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a central pavilion with a pedimented portico",
+            "supported",
+            "by four Tuscan columns."
+          ],
+          "The house features a central pavilion with a pedimented portico supported by four Doric order columns.",
+          "The house features a central pavilion with a pedimented portico supported by columns."
+        ]
+      ],
+      "sent_new": "The house features a central pavilion with a pedimented portico supported by columns."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States. This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by four Tuscan columns.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns.",
+      "sent_orig": "The fa\u00e7ade is symmetrically composed, with a fanlight over the entrance, sash windows with molded surrounds, and false shutters.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The fa\u00e7ade",
+            "is symmetrically composed,",
+            ""
+          ],
+          "The fa\u00e7ade is symmetrically composed, with five bays and evenly spaced windows on both floors.",
+          "The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters."
+        ]
+      ],
+      "sent_new": "The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States. This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by four Tuscan columns. The fa\u00e7ade is symmetrically composed, with a fanlight over the entrance, sash windows with molded surrounds, and false shutters.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters.",
+      "sent_orig": "The house is topped by a hip roof with chimneys placed on either side of the building.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house is topped by a hip roof with chimneys placed on either side of the building."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States. This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by four Tuscan columns. The fa\u00e7ade is symmetrically composed, with a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building.",
+      "sent_orig": "In 1907, the house was purchased by George L. Thompson, a local businessman and banker, who added the rear wings and enclosed the original front porch with a balustrade.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the house",
+            "was purchased",
+            "by George L. Thompson, a local businessman and banker,"
+          ],
+          "The house was purchased by the Thompson family in 1850 and remained in their possession for over a century.",
+          "In 1907, George L. Thompson added the rear wings and enclosed the original front porch with a balustrade."
+        ],
+        [
+          [
+            "a local businessman and banker,",
+            "added",
+            "the rear wings"
+          ],
+          "In 1850, a local businessman and banker, William Thompson, added a two-story rear wing to the house, which included a kitchen and additional bedrooms.",
+          "In 1907, George L. Thompson enclosed the original front porch with a balustrade."
+        ]
+      ],
+      "sent_new": "In 1907, George L. Thompson enclosed the original front porch with a balustrade."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States. This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by four Tuscan columns. The fa\u00e7ade is symmetrically composed, with a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, the house was purchased by George L. Thompson, a local businessman and banker, who added the rear wings and enclosed the original front porch with a balustrade.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, George L. Thompson enclosed the original front porch with a balustrade.",
+      "sent_orig": "His descendants occupied the house until 1968.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His descendants occupied the house until 1968."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States. This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by four Tuscan columns. The fa\u00e7ade is symmetrically composed, with a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, the house was purchased by George L. Thompson, a local businessman and banker, who added the rear wings and enclosed the original front porch with a balustrade. His descendants occupied the house until 1968.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, George L. Thompson enclosed the original front porch with a balustrade. His descendants occupied the house until 1968.",
+      "sent_orig": "In 1970, the Bailey\u2013Thompson House was listed on the National Register of Historic Places for its architectural and historical significance as an example of Federal-style architecture and its association with Gabriel Bailey and George L. Thompson.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the Bailey\u2013Thompson House",
+            "was listed",
+            "on the National Register of Historic Places"
+          ],
+          "The Bailey\u2013Thompson House was listed on the National Register of Historic Places in 1982.",
+          "The Bailey-Thompson House was listed on the National Register of Historic Places for its architectural and historical significance."
+        ]
+      ],
+      "sent_new": "The Bailey-Thompson House was listed on the National Register of Historic Places for its architectural and historical significance."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in South Boston, Virginia, United States. This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by four Tuscan columns. The fa\u00e7ade is symmetrically composed, with a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, the house was purchased by George L. Thompson, a local businessman and banker, who added the rear wings and enclosed the original front porch with a balustrade. His descendants occupied the house until 1968. In 1970, the Bailey\u2013Thompson House was listed on the National Register of Historic Places for its architectural and historical significance as an example of Federal-style architecture and its association with Gabriel Bailey and George L. Thompson.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, George L. Thompson enclosed the original front porch with a balustrade. His descendants occupied the house until 1968. The Bailey-Thompson House was listed on the National Register of Historic Places for its architectural and historical significance.",
+      "sent_orig": "Today, the house is privately owned and serves as a private residence.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the house",
+            "is",
+            "privately"
+          ],
+          "The house is currently open to the public as a museum.",
+          "The house is privately owned."
+        ]
+      ],
+      "sent_new": "The house is privately owned."
+    }
+  ]
+}

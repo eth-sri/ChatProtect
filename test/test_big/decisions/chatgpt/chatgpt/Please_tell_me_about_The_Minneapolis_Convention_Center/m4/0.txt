@@ -1,0 +1,53 @@
+{
+  "prompt": "Please tell me about The Minneapolis Convention Center",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota.",
+      "sent_orig": "The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms.",
+      "sent_orig": "It has hosted a wide range of events and conventions, including political conventions, concerts, trade shows, and sporting events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has hosted a wide range of events and conventions, including political conventions, concerts, trade shows, and sporting events."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms. It has hosted a wide range of events and conventions, including political conventions, concerts, trade shows, and sporting events.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms. It has hosted a wide range of events and conventions, including political conventions, concerts, trade shows, and sporting events.",
+      "sent_orig": "The center is known for its modern design and sustainability features, including a green roof, solar panels, and a rainwater harvesting system.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The center is known for its modern design and sustainability features, including a green roof, solar panels, and a rainwater harvesting system."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms. It has hosted a wide range of events and conventions, including political conventions, concerts, trade shows, and sporting events. The center is known for its modern design and sustainability features, including a green roof, solar panels, and a rainwater harvesting system.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms. It has hosted a wide range of events and conventions, including political conventions, concerts, trade shows, and sporting events. The center is known for its modern design and sustainability features, including a green roof, solar panels, and a rainwater harvesting system.",
+      "sent_orig": "The Minneapolis Convention Center is located near many hotels and restaurants, and is easily accessible by public transportation or car.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Minneapolis Convention Center is located near many hotels and restaurants, and is easily accessible by public transportation or car."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms. It has hosted a wide range of events and conventions, including political conventions, concerts, trade shows, and sporting events. The center is known for its modern design and sustainability features, including a green roof, solar panels, and a rainwater harvesting system. The Minneapolis Convention Center is located near many hotels and restaurants, and is easily accessible by public transportation or car.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The center is one of the largest in the Midwest, with over 1 million square feet of space and 87 meeting rooms. It has hosted a wide range of events and conventions, including political conventions, concerts, trade shows, and sporting events. The center is known for its modern design and sustainability features, including a green roof, solar panels, and a rainwater harvesting system. The Minneapolis Convention Center is located near many hotels and restaurants, and is easily accessible by public transportation or car.",
+      "sent_orig": "The Minneapolis Convention Center is operated by Meet Minneapolis.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Minneapolis Convention Center is operated by Meet Minneapolis."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "prompt": "Please tell me about 1990\u201391 Austrian Hockey League season",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria.",
+      "sent_orig": "Eight teams participated in the league with EC Graz winning their first championship.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Eight teams participated in the league with EC Graz winning their first championship."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship.",
+      "sent_orig": "The regular season was played from September 13, 1990, to February 2, 1991.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The regular season was played from September 13, 1990, to February 2, 1991."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991.",
+      "sent_orig": "EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points.",
+      "sent_orig": "The playoffs began on February 8 and saw the top six teams from the regular season compete.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The playoffs began on February 8 and saw the top six teams from the regular season compete."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete.",
+      "sent_orig": "After the quarterfinals, the remaining teams continued to fight for the championship title.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the quarterfinals, the remaining teams",
+            "continued to fight",
+            "for the championship title."
+          ],
+          "In the quarterfinals, the remaining teams continued to fight for the championship title.",
+          "After the quarterfinals, the teams continued to fight for the championship title."
+        ]
+      ],
+      "sent_new": "After the quarterfinals, the teams continued to fight for the championship title."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete. After the quarterfinals, the remaining teams continued to fight for the championship title.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete. After the quarterfinals, the teams continued to fight for the championship title.",
+      "sent_orig": "In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "In the semifinals, EC Graz",
+            "defeated",
+            "KAC Klagenfurt in six games,"
+          ],
+          "In the semifinals, EC Graz defeated Vienna EV in a best-of-five series to advance to the championship finals.",
+          "In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games."
+        ]
+      ],
+      "sent_new": "In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete. After the quarterfinals, the remaining teams continued to fight for the championship title. In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete. After the quarterfinals, the teams continued to fight for the championship title. In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games.",
+      "sent_orig": "In the finals, EC Graz defeated VEU Feldkirch in five games to win their first-ever Austrian Hockey League championship.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the finals, EC Graz defeated VEU Feldkirch in five games to win their first-ever Austrian Hockey League championship."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete. After the quarterfinals, the remaining teams continued to fight for the championship title. In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games. In the finals, EC Graz defeated VEU Feldkirch in five games to win their first-ever Austrian Hockey League championship.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete. After the quarterfinals, the teams continued to fight for the championship title. In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games. In the finals, EC Graz defeated VEU Feldkirch in five games to win their first-ever Austrian Hockey League championship.",
+      "sent_orig": "Their forward, Markus Peintner, was the league's leading scorer with 111 points in 37 games.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Their forward, Markus Peintner,",
+            "was",
+            "the league's leading scorer with 111 points in 37 games."
+          ],
+          "Their forward, Markus Peintner, was the top scorer of the regular season with 51 goals and 38 assists for a total of 89 points.",
+          "Their forward, Markus Peintner, was the league's leading scorer with 111 points in 37 games."
+        ]
+      ],
+      "sent_new": "Their forward, Markus Peintner, was the league's leading scorer with 111 points in 37 games."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete. After the quarterfinals, the remaining teams continued to fight for the championship title. In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games. In the finals, EC Graz defeated VEU Feldkirch in five games to win their first-ever Austrian Hockey League championship. Their forward, Markus Peintner, was the league's leading scorer with 111 points in 37 games.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship. The regular season was played from September 13, 1990, to February 2, 1991. EC Graz finished on top of the table with 75 points, followed by VEU Feldkirch with 64 points and Vienna EV with 62 points. The playoffs began on February 8 and saw the top six teams from the regular season compete. After the quarterfinals, the teams continued to fight for the championship title. In the semifinals, EC Graz defeated KAC Klagenfurt in six games, while VEU Feldkirch knocked out Vienna EV in five games. In the finals, EC Graz defeated VEU Feldkirch in five games to win their first-ever Austrian Hockey League championship. Their forward, Markus Peintner, was the league's leading scorer with 111 points in 37 games.",
+      "sent_orig": "Overall, the 1990-91 Austrian Hockey League season was an exciting and closely contested season that saw EC Graz emerge as the deserving champions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the 1990-91 Austrian Hockey League season was an exciting and closely contested season that saw EC Graz emerge as the deserving champions."
+    }
+  ]
+}

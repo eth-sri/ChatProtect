@@ -1,0 +1,124 @@
+{
+  "prompt": "Please tell me about l\u00fctfi elvan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020.",
+      "prefix_new": "",
+      "sent_orig": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020. He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission.",
+      "prefix_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission.",
+      "sent_orig": "Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Elvan",
+            "was born",
+            "in Nazilli, Ayd\u0131n in 1962"
+          ],
+          "Elvan was born on March 12, 1962, in the province of Karaman, Turkey.",
+          "Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara."
+        ]
+      ],
+      "sent_new": "Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020. He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara.",
+      "prefix_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara.",
+      "sent_orig": "He later obtained his Master's degree in Transportation Planning and Engineering from the University of California, Berkeley.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "obtained",
+            "his Master's degree in Transportation Planning and Engineering from the University of California, Berkeley."
+          ],
+          "He obtained his master's degree in the field of civil engineering from the University of Birmingham in the United Kingdom.",
+          "He obtained his Master's degree from a university in the field of engineering."
+        ]
+      ],
+      "sent_new": "He obtained his Master's degree from a university in the field of engineering."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020. He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He later obtained his Master's degree in Transportation Planning and Engineering from the University of California, Berkeley.",
+      "prefix_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He obtained his Master's degree from a university in the field of engineering.",
+      "sent_orig": "Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Elvan",
+            "began",
+            "his political"
+          ],
+          "Elvan began his political career as a member of the Justice and Development Party (AKP) in 2015 when he was elected as a Member of Parliament for the province of Karaman.",
+          "Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency."
+        ]
+      ],
+      "sent_new": "Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020. He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He later obtained his Master's degree in Transportation Planning and Engineering from the University of California, Berkeley. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency.",
+      "prefix_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He obtained his Master's degree from a university in the field of engineering. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency.",
+      "sent_orig": "He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020. He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He later obtained his Master's degree in Transportation Planning and Engineering from the University of California, Berkeley. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency. He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011.",
+      "prefix_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He obtained his Master's degree from a university in the field of engineering. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency. He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011.",
+      "sent_orig": "During his tenure as Minister of Transport, Maritime Affairs and Communications, Elvan oversaw several major infrastructure projects, including the construction of the Marmaray tunnel, the Yavuz Sultan Selim Bridge, and the Istanbul Airport.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his tenure as Minister of Transport, Maritime Affairs and Communications, Elvan oversaw several major infrastructure projects, including the construction of the Marmaray tunnel, the Yavuz Sultan Selim Bridge, and the Istanbul Airport."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020. He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He later obtained his Master's degree in Transportation Planning and Engineering from the University of California, Berkeley. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency. He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011. During his tenure as Minister of Transport, Maritime Affairs and Communications, Elvan oversaw several major infrastructure projects, including the construction of the Marmaray tunnel, the Yavuz Sultan Selim Bridge, and the Istanbul Airport.",
+      "prefix_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He obtained his Master's degree from a university in the field of engineering. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency. He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011. During his tenure as Minister of Transport, Maritime Affairs and Communications, Elvan oversaw several major infrastructure projects, including the construction of the Marmaray tunnel, the Yavuz Sultan Selim Bridge, and the Istanbul Airport.",
+      "sent_orig": "He also implemented policies aimed at modernizing the Turkish transportation sector and improving trade relations with neighboring countries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also implemented policies aimed at modernizing the Turkish transportation sector and improving trade relations with neighboring countries."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020. He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He later obtained his Master's degree in Transportation Planning and Engineering from the University of California, Berkeley. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency. He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011. During his tenure as Minister of Transport, Maritime Affairs and Communications, Elvan oversaw several major infrastructure projects, including the construction of the Marmaray tunnel, the Yavuz Sultan Selim Bridge, and the Istanbul Airport. He also implemented policies aimed at modernizing the Turkish transportation sector and improving trade relations with neighboring countries.",
+      "prefix_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He obtained his Master's degree from a university in the field of engineering. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency. He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011. During his tenure as Minister of Transport, Maritime Affairs and Communications, Elvan oversaw several major infrastructure projects, including the construction of the Marmaray tunnel, the Yavuz Sultan Selim Bridge, and the Istanbul Airport. He also implemented policies aimed at modernizing the Turkish transportation sector and improving trade relations with neighboring countries.",
+      "sent_orig": "Elvan's appointment as Minister of Trade in 2020 came as part of a cabinet reshuffle by President Recep Tayyip Erdogan.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Elvan's appointment as Minister of Trade in",
+            "came",
+            "as part of a cabinet reshuffle by President Recep Tayyip Erdogan."
+          ],
+          "Elvan's appointment as Minister of Trade in November 2020 came after the resignation of his predecessor, Ruhsar Pekcan.",
+          "Elvan was appointed as Minister of Trade in November 2020."
+        ]
+      ],
+      "sent_new": "Elvan was appointed as Minister of Trade in November 2020."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who has been serving as the Minister of Trade of Turkey since November 2020. He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He later obtained his Master's degree in Transportation Planning and Engineering from the University of California, Berkeley. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency. He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011. During his tenure as Minister of Transport, Maritime Affairs and Communications, Elvan oversaw several major infrastructure projects, including the construction of the Marmaray tunnel, the Yavuz Sultan Selim Bridge, and the Istanbul Airport. He also implemented policies aimed at modernizing the Turkish transportation sector and improving trade relations with neighboring countries. Elvan's appointment as Minister of Trade in 2020 came as part of a cabinet reshuffle by President Recep Tayyip Erdogan.",
+      "prefix_new": "He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara. He obtained his Master's degree from a university in the field of engineering. Elvan began his political career in 2002 when he was elected as a Member of Parliament from the Justice and Development Party (AK Party) in the Aydin constituency. He served as the Chairman of the AK Party's Aydin Provincial Branch from 2004 to 2011. During his tenure as Minister of Transport, Maritime Affairs and Communications, Elvan oversaw several major infrastructure projects, including the construction of the Marmaray tunnel, the Yavuz Sultan Selim Bridge, and the Istanbul Airport. He also implemented policies aimed at modernizing the Turkish transportation sector and improving trade relations with neighboring countries. Elvan was appointed as Minister of Trade in November 2020.",
+      "sent_orig": "As the Minister of Trade, Elvan is responsible for implementing policies aimed at increasing Turkey's exports and improving its trade relations with other countries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As the Minister of Trade, Elvan is responsible for implementing policies aimed at increasing Turkey's exports and improving its trade relations with other countries."
+    }
+  ]
+}

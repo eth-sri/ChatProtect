@@ -1,0 +1,18 @@
+{
+  "target": "Please tell me about Angela Merkel",
+  "orig": "She was elected as the Chancellor of Germany in 2005, becoming the first woman to hold the position.",
+  "alt": "The triple to generate a sentence for is (Merkel;to become;_), and the suitable next sentence is \"In 2005, Merkel became the first woman to hold the office of Chancellor in Germany.\"",
+  "prefix": "Merkel is a trained physicist and worked as a research scientist before entering politics. She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991. After Kohl's defeat in the 1998 elections, Merkel became the CDU's Secretary-General and later became the leader of the party in 2000.",
+  "triple": [
+    [
+      "the first woman",
+      "to hold",
+      "the position."
+    ],
+    "compactie",
+    280
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "explanation": "The statements about Angela Merkel are not contradictory. Both statements provide information about Merkel's political career, with statement 1 highlighting her historic achievement as the first female Chancellor of Germany and statement 2 providing a possible continuation of the text by filling in the blank with the appropriate sentence."
+}

@@ -1,0 +1,86 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States.",
+      "prefix_new": "",
+      "sent_orig": "It was built in 1901 and is a two-story wooden structure designed in the Queen Anne architectural style.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was built",
+            ""
+          ],
+          "It was built in 1885.",
+          "It is a two-story wooden structure designed in the Queen Anne architectural style."
+        ]
+      ],
+      "sent_new": "It is a two-story wooden structure designed in the Queen Anne architectural style."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States. It was built in 1901 and is a two-story wooden structure designed in the Queen Anne architectural style.",
+      "prefix_new": "It is a two-story wooden structure designed in the Queen Anne architectural style.",
+      "sent_orig": "The house was originally constructed for William C. Bailey, a prominent businessman in Delano.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house was originally constructed for William C. Bailey, a prominent businessman in Delano."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States. It was built in 1901 and is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano.",
+      "prefix_new": "It is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano.",
+      "sent_orig": "The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States. It was built in 1901 and is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork.",
+      "prefix_new": "It is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork.",
+      "sent_orig": "The interior features high ceilings, decorative wood trim, and multiple fireplaces.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The interior features high ceilings, decorative wood trim, and multiple fireplaces."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States. It was built in 1901 and is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork. The interior features high ceilings, decorative wood trim, and multiple fireplaces.",
+      "prefix_new": "It is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork. The interior features high ceilings, decorative wood trim, and multiple fireplaces.",
+      "sent_orig": "The home is a fine example of the craftsmanship and detail that was prevalent in affluent homes during the period.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The home is a fine example of the craftsmanship and detail that was prevalent in affluent homes during the period."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States. It was built in 1901 and is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork. The interior features high ceilings, decorative wood trim, and multiple fireplaces. The home is a fine example of the craftsmanship and detail that was prevalent in affluent homes during the period.",
+      "prefix_new": "It is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork. The interior features high ceilings, decorative wood trim, and multiple fireplaces. The home is a fine example of the craftsmanship and detail that was prevalent in affluent homes during the period.",
+      "sent_orig": "The house was added to the National Register of Historic Places in 1980, due to its significance as one of the few remaining examples of Queen Anne architecture in the area, as well as its connection to William Bailey, who played an important role in Delano's development.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house was added to the National Register of Historic Places in 1980, due to its significance as one of the few remaining examples of Queen Anne architecture in the area, as well as its connection to William Bailey, who played an important role in Delano's development."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States. It was built in 1901 and is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork. The interior features high ceilings, decorative wood trim, and multiple fireplaces. The home is a fine example of the craftsmanship and detail that was prevalent in affluent homes during the period. The house was added to the National Register of Historic Places in 1980, due to its significance as one of the few remaining examples of Queen Anne architecture in the area, as well as its connection to William Bailey, who played an important role in Delano's development.",
+      "prefix_new": "It is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork. The interior features high ceilings, decorative wood trim, and multiple fireplaces. The home is a fine example of the craftsmanship and detail that was prevalent in affluent homes during the period. The house was added to the National Register of Historic Places in 1980, due to its significance as one of the few remaining examples of Queen Anne architecture in the area, as well as its connection to William Bailey, who played an important role in Delano's development.",
+      "sent_orig": "Today, the Bailey-Thompson House has been restored and is a beautiful representation of the Queen Anne style in a small-town context.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, the Bailey-Thompson House has been restored and is a beautiful representation of the Queen Anne style in a small-town context."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic residential building located in Delano, Minnesota, United States. It was built in 1901 and is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork. The interior features high ceilings, decorative wood trim, and multiple fireplaces. The home is a fine example of the craftsmanship and detail that was prevalent in affluent homes during the period. The house was added to the National Register of Historic Places in 1980, due to its significance as one of the few remaining examples of Queen Anne architecture in the area, as well as its connection to William Bailey, who played an important role in Delano's development. Today, the Bailey-Thompson House has been restored and is a beautiful representation of the Queen Anne style in a small-town context.",
+      "prefix_new": "It is a two-story wooden structure designed in the Queen Anne architectural style. The house was originally constructed for William C. Bailey, a prominent businessman in Delano. The exterior of the Bailey-Thompson House is characterized by its distinctive red color with white trim, and a two-story bay window with ornamental woodwork. The interior features high ceilings, decorative wood trim, and multiple fireplaces. The home is a fine example of the craftsmanship and detail that was prevalent in affluent homes during the period. The house was added to the National Register of Historic Places in 1980, due to its significance as one of the few remaining examples of Queen Anne architecture in the area, as well as its connection to William Bailey, who played an important role in Delano's development. Today, the Bailey-Thompson House has been restored and is a beautiful representation of the Queen Anne style in a small-town context.",
+      "sent_orig": "It serves as a reminder of Delano's historic past, and the architectural and cultural heritage that is still present in the town.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It serves as a reminder of Delano's historic past, and the architectural and cultural heritage that is still present in the town."
+    }
+  ]
+}

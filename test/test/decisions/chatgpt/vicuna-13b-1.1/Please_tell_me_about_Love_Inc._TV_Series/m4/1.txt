@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about Love, Inc. (TV Series)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Love, Inc. is a television series.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Love, Inc. is a television series."
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series.",
+      "prefix_new": "Love, Inc. is a television series.",
+      "sent_orig": "The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships."
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships.",
+      "prefix_new": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships.",
+      "sent_orig": "The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners."
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners.",
+      "prefix_new": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners.",
+      "sent_orig": "The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes."
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes.",
+      "prefix_new": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes.",
+      "sent_orig": "However, it struggled to find a consistent audience and was canceled after one season.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, it struggled to find a consistent audience and was canceled after one season."
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season.",
+      "prefix_new": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season.",
+      "sent_orig": "Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Some of the characters in Love, Inc.",
+            "include",
+            "Zuzie, the agency's matchmaker and self-professed \"love expert.\""
+          ],
+          "Some of the characters in Love, Inc. include Roxie, Rick, and Cynthia.",
+          "Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\""
+        ]
+      ],
+      "sent_new": "Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\""
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season. Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\"",
+      "prefix_new": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season. Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\"",
+      "sent_orig": "* Gary (Jonathan Sadowski): a relationship counselor who is struggling to find success in his personal life.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "* Gary (Jonathan Sadowski): a relationship counselor who is struggling to find success in his personal life."
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season. Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\" * Gary (Jonathan Sadowski): a relationship counselor who is struggling to find success in his personal life.",
+      "prefix_new": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season. Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\" * Gary (Jonathan Sadowski): a relationship counselor who is struggling to find success in his personal life.",
+      "sent_orig": "* Lizzie (Natasha Melnick): a young and inexperienced member of the agency who is eager to help clients find love.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "* Lizzie (Natasha Melnick): a young and inexperienced member of the agency who is eager to help clients find love."
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season. Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\" * Gary (Jonathan Sadowski): a relationship counselor who is struggling to find success in his personal life. * Lizzie (Natasha Melnick): a young and inexperienced member of the agency who is eager to help clients find love.",
+      "prefix_new": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season. Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\" * Gary (Jonathan Sadowski): a relationship counselor who is struggling to find success in his personal life. * Lizzie (Natasha Melnick): a young and inexperienced member of the agency who is eager to help clients find love.",
+      "sent_orig": "* Mark (Matt Cornwell): a cynical and skeptical sex therapist who often clashes with his colleagues.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "* Mark (Matt Cornwell): a cynical and skeptical sex therapist who often clashes with his colleagues."
+    },
+    {
+      "prefix_original": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season. Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\" * Gary (Jonathan Sadowski): a relationship counselor who is struggling to find success in his personal life. * Lizzie (Natasha Melnick): a young and inexperienced member of the agency who is eager to help clients find love. * Mark (Matt Cornwell): a cynical and skeptical sex therapist who often clashes with his colleagues.",
+      "prefix_new": "Love, Inc. is a television series. The show follows the staff and clients of a dating agency called \"Love, Inc.\" as they help clients find love and relationships. The agency employs a team of experts, including a matchmaker, a relationship counselor, and a sex therapist, who use various methods and techniques to help clients find compatible partners. The show was well-received by critics and audiences for its witty dialogue, charming characters, and relatable themes. However, it struggled to find a consistent audience and was canceled after one season. Some of the characters in Love, Inc. include Zuzie, the agency's matchmaker and self-professed \"love expert.\" * Gary (Jonathan Sadowski): a relationship counselor who is struggling to find success in his personal life. * Lizzie (Natasha Melnick): a young and inexperienced member of the agency who is eager to help clients find love. * Mark (Matt Cornwell): a cynical and skeptical sex therapist who often clashes with his colleagues.",
+      "sent_orig": "Overall, Love, Inc. is a light-hearted and entertaining series that explores the complexities of human relationships and the art of love and romance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Love, Inc. is a light-hearted and entertaining series that explores the complexities of human relationships and the art of love and romance."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "prompt": "Please tell me about Perseus (constellation)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus.",
+      "sent_orig": "It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars.",
+      "sent_orig": "The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere.",
+      "sent_orig": "It is best visible during the months of September, October, and November.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is best visible during the months of September, October, and November."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November.",
+      "sent_orig": "Perseus is formed by a group of stars that are thought to have formed around 10 million years ago.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Perseus",
+            "are thought to have formed",
+            "around 10 million years ago."
+          ],
+          " The stars that make up Perseus are thought to have formed around 100 million years ago.",
+          "Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky."
+        ]
+      ],
+      "sent_new": "Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that are thought to have formed around 10 million years ago.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky.",
+      "sent_orig": "The brightest star in the constellation is Algol, also known as the \"Demon Star,\" which is a binary star that varies in brightness over a period of 2.87 days.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The brightest star in the constellation",
+            "is",
+            "a binary star"
+          ],
+          " The brightest star in the constellation is Mirfak, also known as Alpha Persei.",
+          "Algol, also known as the \"Demon Star,\" is a binary star that varies in brightness over a period of 2.87 days."
+        ]
+      ],
+      "sent_new": "Algol, also known as the \"Demon Star,\" is a binary star that varies in brightness over a period of 2.87 days."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that are thought to have formed around 10 million years ago. The brightest star in the constellation is Algol, also known as the \"Demon Star,\" which is a binary star that varies in brightness over a period of 2.87 days.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky. Algol, also known as the \"Demon Star,\" is a binary star that varies in brightness over a period of 2.87 days.",
+      "sent_orig": "Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that are thought to have formed around 10 million years ago. The brightest star in the constellation is Algol, also known as the \"Demon Star,\" which is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky. Algol, also known as the \"Demon Star,\" is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system.",
+      "sent_orig": "Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that are thought to have formed around 10 million years ago. The brightest star in the constellation is Algol, also known as the \"Demon Star,\" which is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky. Algol, also known as the \"Demon Star,\" is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region.",
+      "sent_orig": "The constellation is also known for its association with the Perseid meteor shower, which occurs annually in August and is one of the most popular meteor showers of the year.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The constellation is also known for its association with the Perseid meteor shower, which occurs annually in August and is one of the most popular meteor showers of the year."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that are thought to have formed around 10 million years ago. The brightest star in the constellation is Algol, also known as the \"Demon Star,\" which is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region. The constellation is also known for its association with the Perseid meteor shower, which occurs annually in August and is one of the most popular meteor showers of the year.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky. Algol, also known as the \"Demon Star,\" is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region. The constellation is also known for its association with the Perseid meteor shower, which occurs annually in August and is one of the most popular meteor showers of the year.",
+      "sent_orig": "In Greek mythology, Perseus was a hero who was known for his bravery and his ability to defeat Medusa, a monster that had snakes for hair and the ability to turn people to stone with a single glance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In Greek mythology, Perseus was a hero who was known for his bravery and his ability to defeat Medusa, a monster that had snakes for hair and the ability to turn people to stone with a single glance."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that are thought to have formed around 10 million years ago. The brightest star in the constellation is Algol, also known as the \"Demon Star,\" which is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region. The constellation is also known for its association with the Perseid meteor shower, which occurs annually in August and is one of the most popular meteor showers of the year. In Greek mythology, Perseus was a hero who was known for his bravery and his ability to defeat Medusa, a monster that had snakes for hair and the ability to turn people to stone with a single glance.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky. Algol, also known as the \"Demon Star,\" is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region. The constellation is also known for its association with the Perseid meteor shower, which occurs annually in August and is one of the most popular meteor showers of the year. In Greek mythology, Perseus was a hero who was known for his bravery and his ability to defeat Medusa, a monster that had snakes for hair and the ability to turn people to stone with a single glance.",
+      "sent_orig": "The constellation is said to represent the hero's figure in the sky, with Algol representing thehead of Medusa.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The constellation",
+            "represent",
+            "the hero's figure in the sky,"
+          ],
+          " The constellation represents the hero's sword, which he used to defeat Medusa.",
+          "Algol is known as the \"Demon Star\" and is located in the constellation's head."
+        ]
+      ],
+      "sent_new": "Algol is known as the \"Demon Star\" and is located in the constellation's head."
+    },
+    {
+      "prefix_original": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that are thought to have formed around 10 million years ago. The brightest star in the constellation is Algol, also known as the \"Demon Star,\" which is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region. The constellation is also known for its association with the Perseid meteor shower, which occurs annually in August and is one of the most popular meteor showers of the year. In Greek mythology, Perseus was a hero who was known for his bravery and his ability to defeat Medusa, a monster that had snakes for hair and the ability to turn people to stone with a single glance. The constellation is said to represent the hero's figure in the sky, with Algol representing thehead of Medusa.",
+      "prefix_new": " Perseus is a constellation located in the northern hemisphere, named after the Greek mythological hero Perseus. It is one of the most recognizable constellations in the night sky, due to its distinctive shape and the presence of several bright stars. The constellation is situated near the constellations of Cassiopeia, Andromeda, and Auriga, and is visible from most of the Northern Hemisphere. It is best visible during the months of September, October, and November. Perseus is formed by a group of stars that make up one of the most recognizable constellations in the night sky. Algol, also known as the \"Demon Star,\" is a binary star that varies in brightness over a period of 2.87 days. Other notable stars in the constellation include Mirfak, a bright white star located in the constellation's \"chest,\" and Algol's neighbor, Almach, a blue-green star that is thought to be a multiple star system. Perseus is also home to several deep-sky objects, including the Perseus Cluster, a large galaxy cluster that is located near the constellation's center, and the Double Cluster, a pair of open clusters that are located in the constellation's northern region. The constellation is also known for its association with the Perseid meteor shower, which occurs annually in August and is one of the most popular meteor showers of the year. In Greek mythology, Perseus was a hero who was known for his bravery and his ability to defeat Medusa, a monster that had snakes for hair and the ability to turn people to stone with a single glance. Algol is known as the \"Demon Star\" and is located in the constellation's head.",
+      "sent_orig": "Overall, Perseus is a fascinating constellation that has captured the imagination of astronomers and stargazers for centuries, with its rich history and diverse range of celestial objects making it a popular target for study and exploration.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Perseus is a fascinating constellation that has captured the imagination of astronomers and stargazers for centuries, with its rich history and diverse range of celestial objects making it a popular target for study and exploration."
+    }
+  ]
+}

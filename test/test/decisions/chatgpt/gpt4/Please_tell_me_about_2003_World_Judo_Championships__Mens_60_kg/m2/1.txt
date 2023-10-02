@@ -1,0 +1,144 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships.",
+      "sent_orig": "The tournament took place from September 11 to 14, 2003, in Osaka, Japan.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The tournament",
+            "took place from",
+            "September 11 to 14, 2003, in Osaka, Japan."
+          ],
+          "The tournament took place from September 12 to September 14, 2003 in Osaka, Japan.",
+          "The tournament took place in Osaka, Japan."
+        ]
+      ],
+      "sent_new": "The tournament took place in Osaka, Japan."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place from September 11 to 14, 2003, in Osaka, Japan.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place in Osaka, Japan.",
+      "sent_orig": "In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place from September 11 to 14, 2003, in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries.",
+      "sent_orig": "The gold medal was won by Tadahiro Nomura from Japan.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The gold medal",
+            "was won",
+            "by Tadahiro Nomura from Japan."
+          ],
+          "The gold medal was won by Ludwig Paischer from Austria.",
+          "The gold medal was won by Tadahiro Nomura."
+        ]
+      ],
+      "sent_new": "The gold medal was won by Tadahiro Nomura."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place from September 11 to 14, 2003, in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura from Japan.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura.",
+      "sent_orig": "Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004)."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place from September 11 to 14, 2003, in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura from Japan. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004).",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004).",
+      "sent_orig": "In this tournament, he defeated Nestor Khergiani from Georgia in the final match.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "defeated",
+            "Nestor Khergiani from Georgia in the final match."
+          ],
+          "He defeated Choi Min-Ho from South Korea in the final to win the gold medal.",
+          "Nomura won the gold medal in the Men's 60 kg category, defeating his opponent in the final match."
+        ]
+      ],
+      "sent_new": "Nomura won the gold medal in the Men's 60 kg category, defeating his opponent in the final match."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place from September 11 to 14, 2003, in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura from Japan. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004). In this tournament, he defeated Nestor Khergiani from Georgia in the final match.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004). Nomura won the gold medal in the Men's 60 kg category, defeating his opponent in the final match.",
+      "sent_orig": "The bronze medals were awarded to two athletes - Choi Min-Ho from South Korea and Dimitri Dragin from France.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The bronze medals",
+            "were awarded",
+            "to two athletes"
+          ],
+          "The bronze medals were awarded to Ludwig Paischer from Austria and Choi Min-Ho from South Korea.",
+          "The bronze medals were awarded to Choi Min-Ho from South Korea and Dimitri Dragin from France."
+        ]
+      ],
+      "sent_new": "The bronze medals were awarded to Choi Min-Ho from South Korea and Dimitri Dragin from France."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place from September 11 to 14, 2003, in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura from Japan. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004). In this tournament, he defeated Nestor Khergiani from Georgia in the final match. The bronze medals were awarded to two athletes - Choi Min-Ho from South Korea and Dimitri Dragin from France.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004). Nomura won the gold medal in the Men's 60 kg category, defeating his opponent in the final match. The bronze medals were awarded to Choi Min-Ho from South Korea and Dimitri Dragin from France.",
+      "sent_orig": "The repechage final matches determined the bronze medalists, wherein Choi Min-Ho defeated Ludwig Paischer of Austria and Dimitri Dragin beat Taraje Williams-Murray of the United States.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Choi Min-Ho",
+            "defeated",
+            "Ludwig Paischer of Austria"
+          ],
+          "Choi Min-Ho defeated Yordanis Arencibia from Cuba to win one of the bronze medals in the Men's 60 kg category at the 2003 World Judo Championships.",
+          "The repechage final matches determined the bronze medalists, with Dimitri Dragin beating Taraje Williams-Murray of the United States and Choi Min-Ho winning the other bronze medal."
+        ],
+        [
+          [
+            "Dimitri Dragin",
+            "beat",
+            "Taraje Williams-Murray of the United States."
+          ],
+          "Dimitri Dragin beat Yordanis Arencibia from Cuba to win one of the bronze medals in the Men's 60 kg category at the 2003 World Judo Championships.",
+          "The repechage final matches determined the bronze medalists, with Choi Min-Ho defeating Ludwig Paischer of Austria and Dimitri Dragin winning the other bronze medal."
+        ]
+      ],
+      "sent_new": "The repechage final matches determined the bronze medalists, with Choi Min-Ho defeating Ludwig Paischer of Austria and Dimitri Dragin winning the other bronze medal."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place from September 11 to 14, 2003, in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura from Japan. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004). In this tournament, he defeated Nestor Khergiani from Georgia in the final match. The bronze medals were awarded to two athletes - Choi Min-Ho from South Korea and Dimitri Dragin from France. The repechage final matches determined the bronze medalists, wherein Choi Min-Ho defeated Ludwig Paischer of Austria and Dimitri Dragin beat Taraje Williams-Murray of the United States.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004). Nomura won the gold medal in the Men's 60 kg category, defeating his opponent in the final match. The bronze medals were awarded to Choi Min-Ho from South Korea and Dimitri Dragin from France. The repechage final matches determined the bronze medalists, with Choi Min-Ho defeating Ludwig Paischer of Austria and Dimitri Dragin winning the other bronze medal.",
+      "sent_orig": "This tournament showcased various exciting and outstanding performances, with the Men's 60 kg category being an integral part of the competition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This tournament showcased various exciting and outstanding performances, with the Men's 60 kg category being an integral part of the competition."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place from September 11 to 14, 2003, in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura from Japan. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004). In this tournament, he defeated Nestor Khergiani from Georgia in the final match. The bronze medals were awarded to two athletes - Choi Min-Ho from South Korea and Dimitri Dragin from France. The repechage final matches determined the bronze medalists, wherein Choi Min-Ho defeated Ludwig Paischer of Austria and Dimitri Dragin beat Taraje Williams-Murray of the United States. This tournament showcased various exciting and outstanding performances, with the Men's 60 kg category being an integral part of the competition.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg event was a judo competition held as a part of the 2003 World Judo Championships. The tournament took place in Osaka, Japan. In the Men's 60 kg category (extra lightweight), 45 athletes participated from various countries. The gold medal was won by Tadahiro Nomura. Nomura is considered one of the greatest judokas in the history and has also won three consecutive gold medals at the Olympic Games (1996, 2000, and 2004). Nomura won the gold medal in the Men's 60 kg category, defeating his opponent in the final match. The bronze medals were awarded to Choi Min-Ho from South Korea and Dimitri Dragin from France. The repechage final matches determined the bronze medalists, with Choi Min-Ho defeating Ludwig Paischer of Austria and Dimitri Dragin winning the other bronze medal. This tournament showcased various exciting and outstanding performances, with the Men's 60 kg category being an integral part of the competition.",
+      "sent_orig": "The event also contributed to the overall success of the 2003 World Judo Championships, which featured participation from judokas around the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The event also contributed to the overall success of the 2003 World Judo Championships, which featured participation from judokas around the world."
+    }
+  ]
+}

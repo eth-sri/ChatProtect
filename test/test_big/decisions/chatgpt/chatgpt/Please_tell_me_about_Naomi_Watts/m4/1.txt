@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Naomi Watts",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Naomi Watts is a British actress born in Shoreham, Kent, England.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Naomi Watts",
+            "is",
+            "a British actress"
+          ],
+          "Naomi Watts is an Australian actress and film producer.",
+          "Naomi Watts was born in Shoreham, Kent, England."
+        ]
+      ],
+      "sent_new": "Naomi Watts was born in Shoreham, Kent, England."
+    },
+    {
+      "prefix_original": "Naomi Watts is a British actress born in Shoreham, Kent, England.",
+      "prefix_new": "Naomi Watts was born in Shoreham, Kent, England.",
+      "sent_orig": "Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch."
+    },
+    {
+      "prefix_original": "Naomi Watts is a British actress born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch.",
+      "prefix_new": "Naomi Watts was born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch.",
+      "sent_orig": "She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012)."
+    },
+    {
+      "prefix_original": "Naomi Watts is a British actress born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch. She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012).",
+      "prefix_new": "Naomi Watts was born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch. She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012).",
+      "sent_orig": "She has received two Academy Award nominations for her roles in \"21 Grams\" and \"The Impossible\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has received two Academy Award nominations for her roles in \"21 Grams\" and \"The Impossible\"."
+    },
+    {
+      "prefix_original": "Naomi Watts is a British actress born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch. She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012). She has received two Academy Award nominations for her roles in \"21 Grams\" and \"The Impossible\".",
+      "prefix_new": "Naomi Watts was born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch. She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012). She has received two Academy Award nominations for her roles in \"21 Grams\" and \"The Impossible\".",
+      "sent_orig": "In addition to her film work, Watts has also worked on television shows such as \"Twin Peaks\", \"Gypsy\", and \"The Loudest Voice\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to her film work, Watts has also worked on television shows such as \"Twin Peaks\", \"Gypsy\", and \"The Loudest Voice\"."
+    },
+    {
+      "prefix_original": "Naomi Watts is a British actress born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch. She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012). She has received two Academy Award nominations for her roles in \"21 Grams\" and \"The Impossible\". In addition to her film work, Watts has also worked on television shows such as \"Twin Peaks\", \"Gypsy\", and \"The Loudest Voice\".",
+      "prefix_new": "Naomi Watts was born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch. She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012). She has received two Academy Award nominations for her roles in \"21 Grams\" and \"The Impossible\". In addition to her film work, Watts has also worked on television shows such as \"Twin Peaks\", \"Gypsy\", and \"The Loudest Voice\".",
+      "sent_orig": "She has also been involved in various philanthropic causes such as AIDS research and animal welfare.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has also been involved in various philanthropic causes such as AIDS research and animal welfare."
+    },
+    {
+      "prefix_original": "Naomi Watts is a British actress born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch. She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012). She has received two Academy Award nominations for her roles in \"21 Grams\" and \"The Impossible\". In addition to her film work, Watts has also worked on television shows such as \"Twin Peaks\", \"Gypsy\", and \"The Loudest Voice\". She has also been involved in various philanthropic causes such as AIDS research and animal welfare.",
+      "prefix_new": "Naomi Watts was born in Shoreham, Kent, England. Watts gained recognition for her role in the 2001 psychological thriller \"Mulholland Drive\" directed by David Lynch. She has also appeared in several successful films such as \"The Ring\" (2002), \"21 Grams\" (2003), \"King Kong\" (2005), and \"The Impossible\" (2012). She has received two Academy Award nominations for her roles in \"21 Grams\" and \"The Impossible\". In addition to her film work, Watts has also worked on television shows such as \"Twin Peaks\", \"Gypsy\", and \"The Loudest Voice\". She has also been involved in various philanthropic causes such as AIDS research and animal welfare.",
+      "sent_orig": "Watts is known for her versatile acting skills, her ability to portray complex characters, and her commitment to portraying women with depth and complexity on screen.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Watts is known for her versatile acting skills, her ability to portray complex characters, and her commitment to portraying women with depth and complexity on screen."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey\u2013Thompson House is a historic house located in Talladega, Alabama, United States.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Bailey\u2013Thompson House",
+            "is",
+            "a historic house"
+          ],
+          "The Bailey\u2013Thompson House is a historic home located in Tallahassee, Florida.",
+          "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama."
+        ]
+      ],
+      "sent_new": "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in Talladega, Alabama, United States.",
+      "prefix_new": "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama.",
+      "sent_orig": "It was built in 1855 by Dr. Jesse Bailey, a prominent physician, as his family home.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was built",
+            "in 1855 by Dr. Jesse Bailey,"
+          ],
+          "It was built in 1850 in the Greek Revival architectural style.",
+          "It was built by Dr. Jesse Bailey, a prominent physician, as his family home."
+        ]
+      ],
+      "sent_new": "It was built by Dr. Jesse Bailey, a prominent physician, as his family home."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in Talladega, Alabama, United States. It was built in 1855 by Dr. Jesse Bailey, a prominent physician, as his family home.",
+      "prefix_new": "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama. It was built by Dr. Jesse Bailey, a prominent physician, as his family home.",
+      "sent_orig": "The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in Talladega, Alabama, United States. It was built in 1855 by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns.",
+      "prefix_new": "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama. It was built by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns.",
+      "sent_orig": "The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in Talladega, Alabama, United States. It was built in 1855 by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman.",
+      "prefix_new": "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama. It was built by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman.",
+      "sent_orig": "Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Thompson",
+            "made",
+            "modifications to the house,"
+          ],
+          "Thompson made several renovations to the house, including the addition of a third floor and a ballroom.",
+          "Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house."
+        ]
+      ],
+      "sent_new": "Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in Talladega, Alabama, United States. It was built in 1855 by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman. Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house.",
+      "prefix_new": "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama. It was built by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman. Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house.",
+      "sent_orig": "The Bailey\u2013Thompson House was added to the National Register of Historic Places in 1973.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Bailey\u2013Thompson House",
+            "was added",
+            "to the National Register of Historic Places in 1973."
+          ],
+          "The Bailey\u2013Thompson House was added to the National Register of Historic Places in 1972.",
+          "The Bailey\u2013Thompson House was added to the National Register of Historic Places."
+        ]
+      ],
+      "sent_new": "The Bailey\u2013Thompson House was added to the National Register of Historic Places."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in Talladega, Alabama, United States. It was built in 1855 by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman. Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house. The Bailey\u2013Thompson House was added to the National Register of Historic Places in 1973.",
+      "prefix_new": "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama. It was built by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman. Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house. The Bailey\u2013Thompson House was added to the National Register of Historic Places.",
+      "sent_orig": "Today, it is used as a museum and event space, showcasing the history of Talladega and the surrounding area.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, it is used as a museum and event space, showcasing the history of Talladega and the surrounding area."
+    },
+    {
+      "prefix_original": "The Bailey\u2013Thompson House is a historic house located in Talladega, Alabama, United States. It was built in 1855 by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman. Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house. The Bailey\u2013Thompson House was added to the National Register of Historic Places in 1973. Today, it is used as a museum and event space, showcasing the history of Talladega and the surrounding area.",
+      "prefix_new": "The Bailey\u2013Thompson House is a historic home located in Talladega, Alabama. It was built by Dr. Jesse Bailey, a prominent physician, as his family home. The two-story Greek Revival-style house is made of brick and features a front porch with six Doric columns. The house was used as a hospital during the Civil War, and was later purchased by F. E. Thompson, a prominent businessman. Thompson made several modifications to the house, including installing gas lighting and adding a two-story wing to the rear of the house. The Bailey\u2013Thompson House was added to the National Register of Historic Places. Today, it is used as a museum and event space, showcasing the history of Talladega and the surrounding area.",
+      "sent_orig": "It is a popular venue for weddings, receptions, and other special events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a popular venue for weddings, receptions, and other special events."
+    }
+  ]
+}

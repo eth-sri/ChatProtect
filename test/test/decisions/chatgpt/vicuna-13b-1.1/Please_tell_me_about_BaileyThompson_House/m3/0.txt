@@ -1,0 +1,54 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey-Thompson House is currently used as the Tallahassee Museum of History and Arts.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Bailey-Thompson House",
+            "is currently",
+            "as the Tallahassee Museum of History and Arts."
+          ],
+          "Currently serving as the Stockbridge Village Hall and Museum.",
+          "The Bailey-Thompson House is a historic building."
+        ]
+      ],
+      "sent_new": "The Bailey-Thompson House is a historic building."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is currently used as the Tallahassee Museum of History and Arts.",
+      "prefix_new": "The Bailey-Thompson House is a historic building.",
+      "sent_orig": "The Bailey-Thompson House was built in 1907 by William H. Bailey, a local lumberman, and features Colonial Revival architecture.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is currently used as the Tallahassee Museum of History and Arts. The Bailey-Thompson House was built in 1907 by William H. Bailey, a local lumberman, and features Colonial Revival architecture.",
+      "prefix_new": "The Bailey-Thompson House is a historic building.",
+      "sent_orig": "The house was later acquired by the Thompson family, who lived there until the 1980s.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house was later acquired by the Thompson family, who lived there until the 1980s."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is currently used as the Tallahassee Museum of History and Arts. The Bailey-Thompson House was built in 1907 by William H. Bailey, a local lumberman, and features Colonial Revival architecture. The house was later acquired by the Thompson family, who lived there until the 1980s.",
+      "prefix_new": "The Bailey-Thompson House is a historic building. The house was later acquired by the Thompson family, who lived there until the 1980s.",
+      "sent_orig": "In 1985, the Tallahassee Museum of History and Arts moved into the house and began restoring it.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1985, the Tallahassee Museum of History and Arts moved into the house and began restoring it."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is currently used as the Tallahassee Museum of History and Arts. The Bailey-Thompson House was built in 1907 by William H. Bailey, a local lumberman, and features Colonial Revival architecture. The house was later acquired by the Thompson family, who lived there until the 1980s. In 1985, the Tallahassee Museum of History and Arts moved into the house and began restoring it.",
+      "prefix_new": "The Bailey-Thompson House is a historic building. The house was later acquired by the Thompson family, who lived there until the 1980s. In 1985, the Tallahassee Museum of History and Arts moved into the house and began restoring it.",
+      "sent_orig": "The museum now operates a county-wide history and art museum in the house.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The museum now operates a county-wide history and art museum in the house."
+    }
+  ]
+}

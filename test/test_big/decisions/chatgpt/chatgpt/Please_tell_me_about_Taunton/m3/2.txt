@@ -1,0 +1,61 @@
+{
+  "prompt": "Please tell me about Taunton",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Taunton is a town located in Somerset, England.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Taunton is a town located in Somerset, England."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England.",
+      "prefix_new": "Taunton is a town located in Somerset, England.",
+      "sent_orig": "It is the county town of Somerset and has a population of approximately 70,000 people.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is the county town of Somerset and has a population of approximately 70,000 people."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people.",
+      "prefix_new": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people.",
+      "sent_orig": "The town lies on the River Tone and is surrounded by beautiful countryside.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The town lies on the River Tone and is surrounded by beautiful countryside."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people. The town lies on the River Tone and is surrounded by beautiful countryside.",
+      "prefix_new": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people. The town lies on the River Tone and is surrounded by beautiful countryside.",
+      "sent_orig": "The town has a rich history dating back to the Saxon era and is home to several historical landmarks such as Taunton Castle, St Mary's Church, and the Museum of Somerset.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The town has a rich history dating back to the Saxon era and is home to several historical landmarks such as Taunton Castle, St Mary's Church, and the Museum of Somerset."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people. The town lies on the River Tone and is surrounded by beautiful countryside. The town has a rich history dating back to the Saxon era and is home to several historical landmarks such as Taunton Castle, St Mary's Church, and the Museum of Somerset.",
+      "prefix_new": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people. The town lies on the River Tone and is surrounded by beautiful countryside. The town has a rich history dating back to the Saxon era and is home to several historical landmarks such as Taunton Castle, St Mary's Church, and the Museum of Somerset.",
+      "sent_orig": "The town is also home to several shopping districts, including the Taunton High Street and the Orchard Shopping Centre.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The town is also home to several shopping districts, including the Taunton High Street and the Orchard Shopping Centre."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people. The town lies on the River Tone and is surrounded by beautiful countryside. The town has a rich history dating back to the Saxon era and is home to several historical landmarks such as Taunton Castle, St Mary's Church, and the Museum of Somerset. The town is also home to several shopping districts, including the Taunton High Street and the Orchard Shopping Centre.",
+      "prefix_new": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people. The town lies on the River Tone and is surrounded by beautiful countryside. The town has a rich history dating back to the Saxon era and is home to several historical landmarks such as Taunton Castle, St Mary's Church, and the Museum of Somerset. The town is also home to several shopping districts, including the Taunton High Street and the Orchard Shopping Centre.",
+      "sent_orig": "Taunton has a vibrant nightlife scene, with several pubs, clubs, and restaurants catering to a diverse range of tastes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Taunton has a vibrant nightlife scene, with several pubs, clubs, and restaurants catering to a diverse range of tastes."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people. The town lies on the River Tone and is surrounded by beautiful countryside. The town has a rich history dating back to the Saxon era and is home to several historical landmarks such as Taunton Castle, St Mary's Church, and the Museum of Somerset. The town is also home to several shopping districts, including the Taunton High Street and the Orchard Shopping Centre. Taunton has a vibrant nightlife scene, with several pubs, clubs, and restaurants catering to a diverse range of tastes.",
+      "prefix_new": "Taunton is a town located in Somerset, England. It is the county town of Somerset and has a population of approximately 70,000 people. The town lies on the River Tone and is surrounded by beautiful countryside. The town has a rich history dating back to the Saxon era and is home to several historical landmarks such as Taunton Castle, St Mary's Church, and the Museum of Somerset. The town is also home to several shopping districts, including the Taunton High Street and the Orchard Shopping Centre. Taunton has a vibrant nightlife scene, with several pubs, clubs, and restaurants catering to a diverse range of tastes.",
+      "sent_orig": "The town is well-connected, with excellent transport links, including a train station, bus routes, and a nearby airport.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The town is well-connected, with excellent transport links, including a train station, bus routes, and a nearby airport."
+    }
+  ]
+}

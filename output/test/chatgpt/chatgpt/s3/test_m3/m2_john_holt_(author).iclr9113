@@ -1,0 +1,38 @@
+test/test/sentences/chatgpt/john_holt_(author)/m3/m2_1_1_0.txt
+Q: I give you the beginning of a description about john holt (author).
+Then follow two statements.
+
+Description:
+John Holt (1923-1985) was an American author and educator who was known for his advocacy of homeschooling and alternative education.
+
+Statement 1:
+John Holt earned a degree in English literature.
+
+Statement 2:
+John Holt earned a degree in education from Yale University.
+
+Please explain whether the statements about john holt (author) are contradictory.
+Provide your explanation only.
+
+A: The statements about John Holt are contradictory. Statement 1 suggests that Holt's background was in literature, while statement 2 suggests that his background was in education. It is not possible for both statements to be true at the same time.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: Yes, the statements about John Holt (author) are contradictory.
+A: Yes, the statements about John Holt are contradictory.
+A: Yes.
+A: Yes, the statements about John Holt (author) are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes.
+A: Yes, the statements about John Holt are contradictory.
+A: Yes, the statements about John Holt are contradictory.
+A: Yes.
+A: Yes, the statements are contradictory.
+label: strong
+score: 1.0
+cost: 404
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=106, completion_tokens=47), Usage(prompt_tokens=175, completion_tokens=76)]
+281
+123
+404
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

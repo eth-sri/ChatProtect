@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "The house was built for Alfred Bailey, a prominent local businessman and philanthropist.",
+  "alt": " The house was built by William Bailey, a wealthy businessman and philanthropist.",
+  "prefix": " It was built in 1874 in the Italianate style and is considered one of the finest examples of Victorian architecture in the state.",
+  "triple": [
+    [
+      "The house",
+      "was built",
+      "for Alfred Bailey, a prominent local businessman and philanthropist."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Bailey-Thompson House are contradictory. The first statement states that the house was built for Alfred Bailey, while the second statement states that it was built by William Bailey. These are two different individuals, and therefore, the statements cannot both be true."
+}

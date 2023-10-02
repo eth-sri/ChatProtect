@@ -1,0 +1,97 @@
+{
+  "prompt": "Please tell me about george bell (pitcher)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "George Bell was an American Major League Baseball pitcher.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "George Bell was an American Major League Baseball pitcher."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher.",
+      "sent_orig": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "an American Major League Baseball pitcher",
+            "played",
+            "for the Pittsburgh Pirates."
+          ],
+          "George Bell was an American Major League Baseball pitcher who played for the Cincinnati Reds in the 1950s.",
+          "George Bell was an American Major League Baseball pitcher."
+        ]
+      ],
+      "sent_new": "George Bell was an American Major League Baseball pitcher."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher.",
+      "sent_orig": "George Bell was born on October 16, 1941, in Chattanooga, Tennessee.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "George Bell",
+            "was born",
+            "on October 16, 1941, in Chattanooga,"
+          ],
+          "George Bell was born on October 21, 1959 in Chattanooga, Tennessee.",
+          "George Bell was born in Chattanooga, Tennessee."
+        ]
+      ],
+      "sent_new": "George Bell was born in Chattanooga, Tennessee."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was born on October 16, 1941, in Chattanooga, Tennessee.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher. George Bell was born in Chattanooga, Tennessee.",
+      "sent_orig": "He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was born on October 16, 1941, in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher. George Bell was born in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances.",
+      "sent_orig": "Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was born on October 16, 1941, in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher. George Bell was born in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969.",
+      "sent_orig": "He was traded to the Cincinnati Reds.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was traded to the Cincinnati Reds."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was born on October 16, 1941, in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher. George Bell was born in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds.",
+      "sent_orig": "He played for the Reds for one season before retiring from baseball in 1974.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He played for the Reds for one season before retiring from baseball in 1974."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was born on October 16, 1941, in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds. He played for the Reds for one season before retiring from baseball in 1974.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher. George Bell was born in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds. He played for the Reds for one season before retiring from baseball in 1974.",
+      "sent_orig": "After his baseball career, Bell worked as a real estate agent and a teacher.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After his baseball career, Bell worked as a real estate agent and a teacher."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was born on October 16, 1941, in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds. He played for the Reds for one season before retiring from baseball in 1974. After his baseball career, Bell worked as a real estate agent and a teacher.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher. George Bell was an American Major League Baseball pitcher. George Bell was born in Chattanooga, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds. He played for the Reds for one season before retiring from baseball in 1974. After his baseball career, Bell worked as a real estate agent and a teacher.",
+      "sent_orig": "He was also active in the Chattanooga community, volunteering with several charitable organizations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also active in the Chattanooga community, volunteering with several charitable organizations."
+    }
+  ]
+}

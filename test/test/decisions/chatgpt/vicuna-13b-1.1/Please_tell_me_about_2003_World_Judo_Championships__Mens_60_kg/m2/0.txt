@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003.",
+      "sent_orig": "The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion.",
+      "sent_orig": "The gold medal was won by Kazuhito Sakurai of Japan, who defeated Patrick Roux of France in the finals.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. The gold medal was won by Kazuhito Sakurai of Japan, who defeated Patrick Roux of France in the finals.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion.",
+      "sent_orig": "Roux had previously defeated Olympic gold medalist and defending world championRemote Sugiyama of Japan in the quarterfinals, but ultimately settled for silver.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Olympic gold medalist and defending world championRemote Sugiyama of Japan in the quarterfinals,",
+            "ultimately settled",
+            "for silver."
+          ],
+          "Sugiyama was defeated by Patrick Roux in the quarterfinals, ultimately settling for a bronze medal finish.",
+          "Patrick Roux of France settled for silver after reaching the finals, having previously defeated Remote Sugiyama of Japan in the quarterfinals."
+        ]
+      ],
+      "sent_new": "Patrick Roux of France settled for silver after reaching the finals, having previously defeated Remote Sugiyama of Japan in the quarterfinals."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. The gold medal was won by Kazuhito Sakurai of Japan, who defeated Patrick Roux of France in the finals. Roux had previously defeated Olympic gold medalist and defending world championRemote Sugiyama of Japan in the quarterfinals, but ultimately settled for silver.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. Patrick Roux of France settled for silver after reaching the finals, having previously defeated Remote Sugiyama of Japan in the quarterfinals.",
+      "sent_orig": "The bronze medal was won by Akrama Mourad of France, who defeated Wang Hong of China in the third-place match.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. The gold medal was won by Kazuhito Sakurai of Japan, who defeated Patrick Roux of France in the finals. Roux had previously defeated Olympic gold medalist and defending world championRemote Sugiyama of Japan in the quarterfinals, but ultimately settled for silver. The bronze medal was won by Akrama Mourad of France, who defeated Wang Hong of China in the third-place match.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. Patrick Roux of France settled for silver after reaching the finals, having previously defeated Remote Sugiyama of Japan in the quarterfinals.",
+      "sent_orig": "Other notable competitors in the men's 60 kg weight class included Masato Ishii of Japan and Dmitry Sologub of Russia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Other notable competitors in the men's 60 kg weight class included Masato Ishii of Japan and Dmitry Sologub of Russia."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. The gold medal was won by Kazuhito Sakurai of Japan, who defeated Patrick Roux of France in the finals. Roux had previously defeated Olympic gold medalist and defending world championRemote Sugiyama of Japan in the quarterfinals, but ultimately settled for silver. The bronze medal was won by Akrama Mourad of France, who defeated Wang Hong of China in the third-place match. Other notable competitors in the men's 60 kg weight class included Masato Ishii of Japan and Dmitry Sologub of Russia.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. Patrick Roux of France settled for silver after reaching the finals, having previously defeated Remote Sugiyama of Japan in the quarterfinals. Other notable competitors in the men's 60 kg weight class included Masato Ishii of Japan and Dmitry Sologub of Russia.",
+      "sent_orig": "The 2003 World Judo Championships marked a significant moment in the sport's history, as it was the first time that the championships had been held in Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships marked a significant moment in the sport's history, as it was the first time that the championships had been held in Asia."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. The gold medal was won by Kazuhito Sakurai of Japan, who defeated Patrick Roux of France in the finals. Roux had previously defeated Olympic gold medalist and defending world championRemote Sugiyama of Japan in the quarterfinals, but ultimately settled for silver. The bronze medal was won by Akrama Mourad of France, who defeated Wang Hong of China in the third-place match. Other notable competitors in the men's 60 kg weight class included Masato Ishii of Japan and Dmitry Sologub of Russia. The 2003 World Judo Championships marked a significant moment in the sport's history, as it was the first time that the championships had been held in Asia.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 22 to November 24, 2003. The men's 60 kg weight class was one of the many weight classes held at the championships, with athletes from around the world competing for the title of World Champion. Patrick Roux of France settled for silver after reaching the finals, having previously defeated Remote Sugiyama of Japan in the quarterfinals. Other notable competitors in the men's 60 kg weight class included Masato Ishii of Japan and Dmitry Sologub of Russia. The 2003 World Judo Championships marked a significant moment in the sport's history, as it was the first time that the championships had been held in Asia.",
+      "sent_orig": "The event also served as a qualifying tournament for the 2004 Summer Olympics in Athens, Greece, with many athletes using the competition as an opportunity to secure their spots in the upcoming games.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The event also served as a qualifying tournament for the 2004 Summer Olympics in Athens, Greece, with many athletes using the competition as an opportunity to secure their spots in the upcoming games."
+    }
+  ]
+}

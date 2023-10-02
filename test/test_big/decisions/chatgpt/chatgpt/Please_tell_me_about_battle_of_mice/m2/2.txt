@@ -1,0 +1,88 @@
+{
+  "prompt": "Please tell me about battle of mice",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Battle of Mice is a game that was released in 2009.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a game",
+            "was released",
+            "in 2009."
+          ],
+          "A game called \"Battle of Mice\" was released in 2021.",
+          "The Battle of Mice is a game that was released."
+        ]
+      ],
+      "sent_new": "The Battle of Mice is a game that was released."
+    },
+    {
+      "prefix_original": "The Battle of Mice is a game that was released in 2009.",
+      "prefix_new": "The Battle of Mice is a game that was released.",
+      "sent_orig": "It is a puzzle game that was developed by the Brazilian company, Hermit Crab Game Studio.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Battle of Mice is a game that was released in 2009. It is a puzzle game that was developed by the Brazilian company, Hermit Crab Game Studio.",
+      "prefix_new": "The Battle of Mice is a game that was released.",
+      "sent_orig": "The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources."
+    },
+    {
+      "prefix_original": "The Battle of Mice is a game that was released in 2009. It is a puzzle game that was developed by the Brazilian company, Hermit Crab Game Studio. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources.",
+      "prefix_new": "The Battle of Mice is a game that was released. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources.",
+      "sent_orig": "The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory."
+    },
+    {
+      "prefix_original": "The Battle of Mice is a game that was released in 2009. It is a puzzle game that was developed by the Brazilian company, Hermit Crab Game Studio. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources. The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory.",
+      "prefix_new": "The Battle of Mice is a game that was released. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources. The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory.",
+      "sent_orig": "The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures that can help defend against enemy attacks.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The gameplay",
+            "involves moving",
+            "the player's mouse around the game board, collecting resources,"
+          ],
+          "The gameplay involves moving the player's mouse character around the game board, collecting resources and attacking enemy mice.",
+          "The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures."
+        ]
+      ],
+      "sent_new": "The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures."
+    },
+    {
+      "prefix_original": "The Battle of Mice is a game that was released in 2009. It is a puzzle game that was developed by the Brazilian company, Hermit Crab Game Studio. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources. The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory. The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures that can help defend against enemy attacks.",
+      "prefix_new": "The Battle of Mice is a game that was released. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources. The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory. The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures.",
+      "sent_orig": "The player must also manage their resources carefully, as they are limited and can run out quickly.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The player must also manage their resources carefully, as they are limited and can run out quickly."
+    },
+    {
+      "prefix_original": "The Battle of Mice is a game that was released in 2009. It is a puzzle game that was developed by the Brazilian company, Hermit Crab Game Studio. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources. The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory. The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures that can help defend against enemy attacks. The player must also manage their resources carefully, as they are limited and can run out quickly.",
+      "prefix_new": "The Battle of Mice is a game that was released. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources. The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory. The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures. The player must also manage their resources carefully, as they are limited and can run out quickly.",
+      "sent_orig": "The game has received mixed reviews, with some critics praising the gameplay and others criticizing it for its repetitive nature.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The game has received mixed reviews, with some critics praising the gameplay and others criticizing it for its repetitive nature."
+    },
+    {
+      "prefix_original": "The Battle of Mice is a game that was released in 2009. It is a puzzle game that was developed by the Brazilian company, Hermit Crab Game Studio. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources. The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory. The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures that can help defend against enemy attacks. The player must also manage their resources carefully, as they are limited and can run out quickly. The game has received mixed reviews, with some critics praising the gameplay and others criticizing it for its repetitive nature.",
+      "prefix_new": "The Battle of Mice is a game that was released. The game is set in a world where mice are at war with each other, trying to defend their territories and steal resources. The game is played from a top-down perspective, and the player must use strategy and logic to outmaneuver the enemy mice and achieve victory. The gameplay involves moving the player's mouse around the game board, collecting resources, and building different structures. The player must also manage their resources carefully, as they are limited and can run out quickly. The game has received mixed reviews, with some critics praising the gameplay and others criticizing it for its repetitive nature.",
+      "sent_orig": "Despite this, the game has gained a cult following among puzzle game enthusiasts and remains popular today.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite this, the game has gained a cult following among puzzle game enthusiasts and remains popular today."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States.",
+      "prefix_new": "",
+      "sent_orig": "It is noted for its distinctive architecture and historic significance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is noted for its distinctive architecture and historic significance."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States. It is noted for its distinctive architecture and historic significance.",
+      "prefix_new": "It is noted for its distinctive architecture and historic significance.",
+      "sent_orig": "The Bailey-Thompson House was built in 1887 by Dr. J.T.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Bailey-Thompson House",
+            "was built",
+            "in 1887 by Dr. J.T."
+          ],
+          "It was built in the early 19th century.",
+          "The Bailey-Thompson House was built by Dr. J.T. in 1887."
+        ]
+      ],
+      "sent_new": "The Bailey-Thompson House was built by Dr. J.T. in 1887."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States. It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built in 1887 by Dr. J.T.",
+      "prefix_new": "It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built by Dr. J.T. in 1887.",
+      "sent_orig": "Bailey, a prominent local physician and Civil War veteran.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bailey, a prominent local physician and Civil War veteran."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States. It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built in 1887 by Dr. J.T. Bailey, a prominent local physician and Civil War veteran.",
+      "prefix_new": "It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built by Dr. J.T. in 1887. Bailey, a prominent local physician and Civil War veteran.",
+      "sent_orig": "The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States. It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built in 1887 by Dr. J.T. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof.",
+      "prefix_new": "It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built by Dr. J.T. in 1887. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof.",
+      "sent_orig": "It has a brick foundation and wooden frame, with a slate roof.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has a brick foundation and wooden frame, with a slate roof."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States. It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built in 1887 by Dr. J.T. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof. It has a brick foundation and wooden frame, with a slate roof.",
+      "prefix_new": "It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built by Dr. J.T. in 1887. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof. It has a brick foundation and wooden frame, with a slate roof.",
+      "sent_orig": "The house was later occupied by several other families, including the Thompsons, for whom it is named.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house was later occupied by several other families, including the Thompsons, for whom it is named."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States. It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built in 1887 by Dr. J.T. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof. It has a brick foundation and wooden frame, with a slate roof. The house was later occupied by several other families, including the Thompsons, for whom it is named.",
+      "prefix_new": "It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built by Dr. J.T. in 1887. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof. It has a brick foundation and wooden frame, with a slate roof. The house was later occupied by several other families, including the Thompsons, for whom it is named.",
+      "sent_orig": "In the early 1900s, the house was converted into a boardinghouse, and later served as a funeral home.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the early 1900s, the house was converted into a boardinghouse, and later served as a funeral home."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States. It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built in 1887 by Dr. J.T. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof. It has a brick foundation and wooden frame, with a slate roof. The house was later occupied by several other families, including the Thompsons, for whom it is named. In the early 1900s, the house was converted into a boardinghouse, and later served as a funeral home.",
+      "prefix_new": "It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built by Dr. J.T. in 1887. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof. It has a brick foundation and wooden frame, with a slate roof. The house was later occupied by several other families, including the Thompsons, for whom it is named. In the early 1900s, the house was converted into a boardinghouse, and later served as a funeral home.",
+      "sent_orig": "Today, the Bailey-Thompson House is privately owned and has been restored to its original Victorian-Italianate style.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the Bailey-Thompson House",
+            "is",
+            "privately"
+          ],
+          "the Bailey-Thompson House is a historic site and museum that is open to the public for tours.",
+          "The Bailey-Thompson House has been restored to its original Victorian-Italianate style."
+        ]
+      ],
+      "sent_new": "The Bailey-Thompson House has been restored to its original Victorian-Italianate style."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House, also known as the Bailey House, is a historic home located at St. Augustine, St. Johns County, Florida, United States. It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built in 1887 by Dr. J.T. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof. It has a brick foundation and wooden frame, with a slate roof. The house was later occupied by several other families, including the Thompsons, for whom it is named. In the early 1900s, the house was converted into a boardinghouse, and later served as a funeral home. Today, the Bailey-Thompson House is privately owned and has been restored to its original Victorian-Italianate style.",
+      "prefix_new": "It is noted for its distinctive architecture and historic significance. The Bailey-Thompson House was built by Dr. J.T. in 1887. Bailey, a prominent local physician and Civil War veteran. The house was designed in the popular Victorian-Italianate style and features a symmetrical fa\u00e7ade with a central entrance, arched windows, and a bracketed roof. It has a brick foundation and wooden frame, with a slate roof. The house was later occupied by several other families, including the Thompsons, for whom it is named. In the early 1900s, the house was converted into a boardinghouse, and later served as a funeral home. The Bailey-Thompson House has been restored to its original Victorian-Italianate style.",
+      "sent_orig": "It is a popular tourist destination in St. Augustine and is listed on the National Register of Historic Places.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a popular tourist destination in St. Augustine and is listed on the National Register of Historic Places."
+    }
+  ]
+}

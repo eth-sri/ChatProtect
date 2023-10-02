@@ -1,0 +1,105 @@
+{
+  "prompt": "Please tell me about Hellwegb\u00f6rden",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a region in the eastern part of the German state of North Rhine-Westphalia,",
+            "located",
+            "between the rivers Weser and Elbe."
+          ],
+          " The region is located in the eastern part of the German state of North Rhine-Westphalia, surrounded by the rivers Lippe and Weser.",
+          "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia."
+        ]
+      ],
+      "sent_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia.",
+      "sent_orig": "The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German.",
+      "sent_orig": "The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage.",
+      "sent_orig": "Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians.",
+      "sent_orig": "The region played an important role in the Holy Roman Empire and was a center of trade and commerce.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The region played an important role in the Holy Roman Empire and was a center of trade and commerce."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce.",
+      "sent_orig": "Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce. Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce. Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine.",
+      "sent_orig": "Hellwegb\u00f6rden is also home to several museums, castles, and cultural institutions, such as the Paderborn/Lippstadt Airport, which is an important transportation hub in the region.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Hellwegb\u00f6rden",
+            "home",
+            "to several museums, castles, and cultural institutions,"
+          ],
+          " Hellwegb\u00f6rden is home to the Paderborn/Lippstadt International Airport.",
+          "Hellwegb\u00f6rden is home to several museums, castles, and cultural institutions."
+        ]
+      ],
+      "sent_new": "Hellwegb\u00f6rden is home to several museums, castles, and cultural institutions."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce. Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine. Hellwegb\u00f6rden is also home to several museums, castles, and cultural institutions, such as the Paderborn/Lippstadt Airport, which is an important transportation hub in the region.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce. Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine. Hellwegb\u00f6rden is home to several museums, castles, and cultural institutions.",
+      "sent_orig": "The region is also home to several universities and research institutions, such as the University of Paderborn and the Paderborn Institute for Computer Science, which are renowned for their work in technology and innovation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The region is also home to several universities and research institutions, such as the University of Paderborn and the Paderborn Institute for Computer Science, which are renowned for their work in technology and innovation."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce. Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine. Hellwegb\u00f6rden is also home to several museums, castles, and cultural institutions, such as the Paderborn/Lippstadt Airport, which is an important transportation hub in the region. The region is also home to several universities and research institutions, such as the University of Paderborn and the Paderborn Institute for Computer Science, which are renowned for their work in technology and innovation.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce. Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine. Hellwegb\u00f6rden is home to several museums, castles, and cultural institutions. The region is also home to several universities and research institutions, such as the University of Paderborn and the Paderborn Institute for Computer Science, which are renowned for their work in technology and innovation.",
+      "sent_orig": "Overall, Hellwegb\u00f6rden is a charming and historic region in eastern North Rhine-Westphalia, known for its natural beauty, cultural heritage, and modern infrastructure.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Hellwegb\u00f6rden is a charming and historic region in eastern North Rhine-Westphalia, known for its natural beauty, cultural heritage, and modern infrastructure."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a region in the eastern part of the German state of North Rhine-Westphalia, located between the rivers Weser and Elbe. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce. Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine. Hellwegb\u00f6rden is also home to several museums, castles, and cultural institutions, such as the Paderborn/Lippstadt Airport, which is an important transportation hub in the region. The region is also home to several universities and research institutions, such as the University of Paderborn and the Paderborn Institute for Computer Science, which are renowned for their work in technology and innovation. Overall, Hellwegb\u00f6rden is a charming and historic region in eastern North Rhine-Westphalia, known for its natural beauty, cultural heritage, and modern infrastructure.",
+      "prefix_new": "Hellwegb\u00f6rden is a region located between the rivers Weser and Elbe in the German state of North Rhine-Westphalia. The name \"Hellweg\" refers to an ancient trading route that ran through the area, and \"B\u00f6rden\" means \"borders\" in German. The region is characterized by a diverse landscape of forests, hills, and rivers, and has a rich cultural and historical heritage. Hellwegb\u00f6rden has been inhabited since the Stone Age, and over the centuries it has been home to various tribes and civilizations, including the Saxons, Franks, and Carolingians. The region played an important role in the Holy Roman Empire and was a center of trade and commerce. Today, the region is known for its picturesque towns and villages, such as Paderborn, Detmold, and Lippstadt, which are famous for their traditional architecture, festivals, and cuisine. Hellwegb\u00f6rden is home to several museums, castles, and cultural institutions. The region is also home to several universities and research institutions, such as the University of Paderborn and the Paderborn Institute for Computer Science, which are renowned for their work in technology and innovation. Overall, Hellwegb\u00f6rden is a charming and historic region in eastern North Rhine-Westphalia, known for its natural beauty, cultural heritage, and modern infrastructure.",
+      "sent_orig": "It offers visitors a unique blend of tradition and innovation, and is a great destination for those interested in history, culture, and technology.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It offers visitors a unique blend of tradition and innovation, and is a great destination for those interested in history, culture, and technology."
+    }
+  ]
+}

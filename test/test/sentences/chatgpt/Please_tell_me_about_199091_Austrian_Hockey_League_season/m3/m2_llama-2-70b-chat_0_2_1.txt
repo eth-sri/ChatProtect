@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about 1990\u201391 Austrian Hockey League season",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria.",
+  "alt": "However, there is conflicting information about which team finished in last place that season, and no official record preserves the answer.",
+  "prefix": " The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. Eight teams participated in the league with EC Graz winning their first championship.",
+  "triple": [
+    [
+      "the conflicting information",
+      "preserves",
+      "as much valid information as possible:"
+    ],
+    "compactie",
+    510
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided do not contain contradictory information.\n\nStatement 1 provides a factual statement about the 1990-91 Austrian Hockey League season, including the number of teams that participated and the winner of the championship.\n\nStatement 2 mentions that there is conflicting information about which team finished in last place that season, but it does not contradict the information provided in Statement 1. It simply notes that there is no official record of the team that finished in last place, which does not invalidate the information provided in Statement 1.\n\nTherefore, the statements are not contradictory, and they can both be considered valid and accurate."
+}

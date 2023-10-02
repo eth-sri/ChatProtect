@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about 1968\u201369 FA Cup qualifying rounds",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament."
+    },
+    {
+      "prefix_original": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament.",
+      "prefix_new": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament.",
+      "sent_orig": "A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales."
+    },
+    {
+      "prefix_original": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales.",
+      "prefix_new": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales.",
+      "sent_orig": "The qualifying rounds were split into six rounds, with the winners of each round progressing to the next.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The qualifying rounds were split into six rounds, with the winners of each round progressing to the next."
+    },
+    {
+      "prefix_original": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next.",
+      "prefix_new": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next.",
+      "sent_orig": "The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds."
+    },
+    {
+      "prefix_original": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next. The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds.",
+      "prefix_new": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next. The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds.",
+      "sent_orig": "Some notable teams that progressed through the qualifying rounds included Telford United, who reached the third round proper, and West Bromwich Albion, who were knocked out in the first round by non-league team Wealdstone.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some notable teams that progressed through the qualifying rounds included Telford United, who reached the third round proper, and West Bromwich Albion, who were knocked out in the first round by non-league team Wealdstone."
+    },
+    {
+      "prefix_original": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next. The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds. Some notable teams that progressed through the qualifying rounds included Telford United, who reached the third round proper, and West Bromwich Albion, who were knocked out in the first round by non-league team Wealdstone.",
+      "prefix_new": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next. The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds. Some notable teams that progressed through the qualifying rounds included Telford United, who reached the third round proper, and West Bromwich Albion, who were knocked out in the first round by non-league team Wealdstone.",
+      "sent_orig": "The final qualifying round saw 40 teams competing for the final 16 spots in the first round proper, with the ties taking place over the weekend of November 16, 1968.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The final qualifying round",
+            "saw",
+            "40 teams"
+          ],
+          "The final qualifying round saw 44 teams compete for a place in the first round proper of the FA Cup.",
+          "The final qualifying round saw 40 teams competing for the final 16 spots in the first round proper, with the ties taking place over the weekend of November 16, 1968."
+        ]
+      ],
+      "sent_new": "The final qualifying round saw 40 teams competing for the final 16 spots in the first round proper, with the ties taking place over the weekend of November 16, 1968."
+    },
+    {
+      "prefix_original": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next. The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds. Some notable teams that progressed through the qualifying rounds included Telford United, who reached the third round proper, and West Bromwich Albion, who were knocked out in the first round by non-league team Wealdstone. The final qualifying round saw 40 teams competing for the final 16 spots in the first round proper, with the ties taking place over the weekend of November 16, 1968.",
+      "prefix_new": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next. The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds. Some notable teams that progressed through the qualifying rounds included Telford United, who reached the third round proper, and West Bromwich Albion, who were knocked out in the first round by non-league team Wealdstone. The final qualifying round saw 40 teams competing for the final 16 spots in the first round proper, with the ties taking place over the weekend of November 16, 1968.",
+      "sent_orig": "Among the teams to progress were Crewe Alexandra, Torquay United, and Hereford United.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Among the teams to progress were Crewe Alexandra, Torquay United, and Hereford United."
+    },
+    {
+      "prefix_original": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next. The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds. Some notable teams that progressed through the qualifying rounds included Telford United, who reached the third round proper, and West Bromwich Albion, who were knocked out in the first round by non-league team Wealdstone. The final qualifying round saw 40 teams competing for the final 16 spots in the first round proper, with the ties taking place over the weekend of November 16, 1968. Among the teams to progress were Crewe Alexandra, Torquay United, and Hereford United.",
+      "prefix_new": "The 1968\u201369 FA Cup qualifying rounds were a series of knockout competitions held before the first round of the main tournament. A total of 557 teams entered the qualifying rounds, consisting mostly of amateur and semi-professional teams from across England and Wales. The qualifying rounds were split into six rounds, with the winners of each round progressing to the next. The first qualifying round saw the entry of teams from the lower levels of the football pyramid, with teams from the higher regional leagues entering in the subsequent rounds. Some notable teams that progressed through the qualifying rounds included Telford United, who reached the third round proper, and West Bromwich Albion, who were knocked out in the first round by non-league team Wealdstone. The final qualifying round saw 40 teams competing for the final 16 spots in the first round proper, with the ties taking place over the weekend of November 16, 1968. Among the teams to progress were Crewe Alexandra, Torquay United, and Hereford United.",
+      "sent_orig": "Overall, the 1968\u201369 FA Cup qualifying rounds were a challenging series of knockout competitions for the lower league and non-league teams hoping to progress to the main tournament.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the 1968\u201369 FA Cup qualifying rounds were a challenging series of knockout competitions for the lower league and non-league teams hoping to progress to the main tournament."
+    }
+  ]
+}

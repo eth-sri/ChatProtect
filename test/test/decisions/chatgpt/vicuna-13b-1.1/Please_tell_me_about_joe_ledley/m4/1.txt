@@ -1,0 +1,55 @@
+{
+  "prompt": "Please tell me about joe ledley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006."
+    },
+    {
+      "prefix_original": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006.",
+      "prefix_new": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006.",
+      "sent_orig": "Ledley joined Crystal Palace in 2010.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Ledley",
+            "joined",
+            ""
+          ],
+          "Ledley joined Celtic F.C. in 2010.",
+          "Ledley joined Celtic F.C."
+        ]
+      ],
+      "sent_new": "Ledley joined Celtic F.C."
+    },
+    {
+      "prefix_original": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006. Ledley joined Crystal Palace in 2010.",
+      "prefix_new": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006. Ledley joined Celtic F.C.",
+      "sent_orig": "In the summer of 2019, Ledley joined Crystal Palace on a free transfer, signing a three-year contract.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the summer of 2019, Ledley joined Crystal Palace on a free transfer, signing a three-year contract."
+    },
+    {
+      "prefix_original": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006. Ledley joined Crystal Palace in 2010. In the summer of 2019, Ledley joined Crystal Palace on a free transfer, signing a three-year contract.",
+      "prefix_new": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006. Ledley joined Celtic F.C. In the summer of 2019, Ledley joined Crystal Palace on a free transfer, signing a three-year contract.",
+      "sent_orig": "He made his debut for the Eagles in the opening match of the 2019-20 season against Aston Villa and scored his first goal for the club in a 1-1 draw with Everton in February 2020.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He made his debut for the Eagles in the opening match of the 2019-20 season against Aston Villa and scored his first goal for the club in a 1-1 draw with Everton in February 2020."
+    },
+    {
+      "prefix_original": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006. Ledley joined Crystal Palace in 2010. In the summer of 2019, Ledley joined Crystal Palace on a free transfer, signing a three-year contract. He made his debut for the Eagles in the opening match of the 2019-20 season against Aston Villa and scored his first goal for the club in a 1-1 draw with Everton in February 2020.",
+      "prefix_new": "Joe Ledley began his professional career with his hometown club, Cardiff City, in 2006. Ledley joined Celtic F.C. In the summer of 2019, Ledley joined Crystal Palace on a free transfer, signing a three-year contract. He made his debut for the Eagles in the opening match of the 2019-20 season against Aston Villa and scored his first goal for the club in a 1-1 draw with Everton in February 2020.",
+      "sent_orig": "Internationally, Ledley has represented Wales at the U-17, U-19, and U-21 levels, and he made his senior debut for the national team in 2008.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Internationally, Ledley has represented Wales at the U-17, U-19, and U-21 levels, and he made his senior debut for the national team in 2008."
+    }
+  ]
+}

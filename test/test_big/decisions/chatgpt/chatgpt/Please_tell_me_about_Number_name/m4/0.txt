@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about Number name",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Number names are the names given to different numbers in a specific language.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Number names are the names given to different numbers in a specific language."
+    },
+    {
+      "prefix_original": "Number names are the names given to different numbers in a specific language.",
+      "prefix_new": "Number names are the names given to different numbers in a specific language.",
+      "sent_orig": "For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\"."
+    },
+    {
+      "prefix_original": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\".",
+      "prefix_new": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\".",
+      "sent_orig": "These names are used to identify and represent the numbers in a particular language.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These names are used to identify and represent the numbers in a particular language."
+    },
+    {
+      "prefix_original": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language.",
+      "prefix_new": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language.",
+      "sent_orig": "Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division."
+    },
+    {
+      "prefix_original": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language. Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division.",
+      "prefix_new": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language. Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division.",
+      "sent_orig": "They are also used in counting and measuring the different quantities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are also used in counting and measuring the different quantities."
+    },
+    {
+      "prefix_original": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language. Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division. They are also used in counting and measuring the different quantities.",
+      "prefix_new": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language. Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division. They are also used in counting and measuring the different quantities.",
+      "sent_orig": "In some languages, number names can be complex and have different rules for counting different types of objects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In some languages, number names can be complex and have different rules for counting different types of objects."
+    },
+    {
+      "prefix_original": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language. Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division. They are also used in counting and measuring the different quantities. In some languages, number names can be complex and have different rules for counting different types of objects.",
+      "prefix_new": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language. Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division. They are also used in counting and measuring the different quantities. In some languages, number names can be complex and have different rules for counting different types of objects.",
+      "sent_orig": "For example, in Japanese, there are different ways of counting for different objects like people, flat objects, cylindrical objects, etc.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For example, in Japanese, there are different ways of counting for different objects like people, flat objects, cylindrical objects, etc."
+    },
+    {
+      "prefix_original": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language. Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division. They are also used in counting and measuring the different quantities. In some languages, number names can be complex and have different rules for counting different types of objects. For example, in Japanese, there are different ways of counting for different objects like people, flat objects, cylindrical objects, etc.",
+      "prefix_new": "Number names are the names given to different numbers in a specific language. For example, in English, the number \"1\" is called \"one\", and the number \"2\" is called \"two\". These names are used to identify and represent the numbers in a particular language. Number names are an essential part of learning mathematics and are used in various types of numerical operations such as addition, subtraction, multiplication, and division. They are also used in counting and measuring the different quantities. In some languages, number names can be complex and have different rules for counting different types of objects. For example, in Japanese, there are different ways of counting for different objects like people, flat objects, cylindrical objects, etc.",
+      "sent_orig": "The use of number names varies from language to language, and it is essential to understand them while learning or communicating in a particular language.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The use of number names varies from language to language, and it is essential to understand them while learning or communicating in a particular language."
+    }
+  ]
+}

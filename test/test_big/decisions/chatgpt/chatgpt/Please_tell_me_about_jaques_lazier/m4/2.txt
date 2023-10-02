@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about jaques lazier",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Jacques Lazier is a retired American racing driver.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Jacques Lazier is a retired American racing driver."
+    },
+    {
+      "prefix_original": "Jacques Lazier is a retired American racing driver.",
+      "prefix_new": "Jacques Lazier is a retired American racing driver.",
+      "sent_orig": "He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier."
+    },
+    {
+      "prefix_original": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier.",
+      "prefix_new": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier.",
+      "sent_orig": "Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing."
+    },
+    {
+      "prefix_original": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing.",
+      "prefix_new": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing.",
+      "sent_orig": "During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series."
+    },
+    {
+      "prefix_original": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series.",
+      "prefix_new": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series.",
+      "sent_orig": "He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001."
+    },
+    {
+      "prefix_original": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series. He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001.",
+      "prefix_new": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series. He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001.",
+      "sent_orig": "He also competed in the 2002 and 2003 Indianapolis 500.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also competed in the 2002 and 2003 Indianapolis 500."
+    },
+    {
+      "prefix_original": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series. He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001. He also competed in the 2002 and 2003 Indianapolis 500.",
+      "prefix_new": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series. He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001. He also competed in the 2002 and 2003 Indianapolis 500.",
+      "sent_orig": "Jacques Lazier founded the Lazier Racing team.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Jacques Lazier founded the Lazier Racing team."
+    },
+    {
+      "prefix_original": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series. He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001. He also competed in the 2002 and 2003 Indianapolis 500. Jacques Lazier founded the Lazier Racing team.",
+      "prefix_new": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series. He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001. He also competed in the 2002 and 2003 Indianapolis 500. Jacques Lazier founded the Lazier Racing team.",
+      "sent_orig": "He is also involved in various charitable organizations including the National Ability Center which provides sports and recreational activities to individuals with disabilities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is also involved in various charitable organizations including the National Ability Center which provides sports and recreational activities to individuals with disabilities."
+    },
+    {
+      "prefix_original": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series. He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001. He also competed in the 2002 and 2003 Indianapolis 500. Jacques Lazier founded the Lazier Racing team. He is also involved in various charitable organizations including the National Ability Center which provides sports and recreational activities to individuals with disabilities.",
+      "prefix_new": "Jacques Lazier is a retired American racing driver. He is the younger brother of 1996 Indianapolis 500 winner Buddy Lazier. Jacques started his racing career in go-karts at the age of 9 and progressed through different levels of racing. During his career, Jacques Lazier competed in several racing series including Indy Lights, CART, and IndyCar Series. He made his debut in the IndyCar Series in 2000 and earned one win at the Chicagoland Speedway in 2001. He also competed in the 2002 and 2003 Indianapolis 500. Jacques Lazier founded the Lazier Racing team. He is also involved in various charitable organizations including the National Ability Center which provides sports and recreational activities to individuals with disabilities.",
+      "sent_orig": "Overall, Jacques Lazier had a successful racing career and is recognized as a respected figure in the motorsport industry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Jacques Lazier had a successful racing career and is recognized as a respected figure in the motorsport industry."
+    }
+  ]
+}

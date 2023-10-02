@@ -1,0 +1,135 @@
+{
+  "prompt": "Please tell me about Love, Inc. (TV Series)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "sent_orig": "Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Love, Inc. is an American television sitcom that aired from 2005 to 2006."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006.",
+      "sent_orig": "The show is set in New York City.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The show",
+            "is set",
+            "in New York City."
+          ],
+          " The show is set in New York City.",
+          "The show takes place in a bustling city."
+        ]
+      ],
+      "sent_new": "The show takes place in a bustling city."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city.",
+      "sent_orig": "The show follows a group of professional matchmakers working at a dating agency in New York City.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show follows a group of professional matchmakers working at a dating agency in New York City."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City.",
+      "sent_orig": "* Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "* Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend.",
+      "sent_orig": "* Scott (Donnie Keshawarz), a woodworker and Fran's confidant.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "* Scott (Donnie Keshawarz), a woodworker and Fran's confidant."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant.",
+      "sent_orig": "* Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "* Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend.",
+      "sent_orig": "* Arthur (Eden Sher), Fran's eccentric and geeky assistant.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "* Arthur (Eden Sher), Fran's eccentric and geeky assistant."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant.",
+      "sent_orig": "* and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "* and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble.",
+      "sent_orig": "The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life.",
+      "sent_orig": "Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life. Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life. Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results.",
+      "sent_orig": "Throughout the series, Fran also struggles with her own relationships, particularly her on-again, off-again romance with Paul.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout the series, Fran also struggles with her own relationships, particularly her on-again, off-again romance with Paul."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life. Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results. Throughout the series, Fran also struggles with her own relationships, particularly her on-again, off-again romance with Paul.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life. Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results. Throughout the series, Fran also struggles with her own relationships, particularly her on-again, off-again romance with Paul.",
+      "sent_orig": "Love, Inc. struggled to find an audience and was ultimately canceled after one season.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Love, Inc. struggled to find an audience and was ultimately canceled after one season."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life. Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results. Throughout the series, Fran also struggles with her own relationships, particularly her on-again, off-again romance with Paul. Love, Inc. struggled to find an audience and was ultimately canceled after one season.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life. Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results. Throughout the series, Fran also struggles with her own relationships, particularly her on-again, off-again romance with Paul. Love, Inc. struggled to find an audience and was ultimately canceled after one season.",
+      "sent_orig": "The show's poor ratings were likely due to its poor time-slot, weak marketing, and competition from other popular shows at the time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show's poor ratings were likely due to its poor time-slot, weak marketing, and competition from other popular shows at the time."
+    },
+    {
+      "prefix_original": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show is set in New York City. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life. Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results. Throughout the series, Fran also struggles with her own relationships, particularly her on-again, off-again romance with Paul. Love, Inc. struggled to find an audience and was ultimately canceled after one season. The show's poor ratings were likely due to its poor time-slot, weak marketing, and competition from other popular shows at the time.",
+      "prefix_new": " Love, Inc. is an American television sitcom that aired from 2005 to 2006. Love, Inc. is an American television sitcom that aired from 2005 to 2006. The show takes place in a bustling city. The show follows a group of professional matchmakers working at a dating agency in New York City. * Paul (Josh Hopkins), a lawyer and Fran's on-again, off-again boyfriend. * Scott (Donnie Keshawarz), a woodworker and Fran's confidant. * Emily (Busy Philipps), a receptionist at Love, Inc. and Fran's best friend. * Arthur (Eden Sher), Fran's eccentric and geeky assistant. * and Parker (Christian Borle), a womanizing, narcissistic bartender who often gets into trouble. The show's main premise revolves around Fran's attempts to find love for her clients while also navigating her own dating life. Each episode features a new match for one of Fran's clients, often with comedic and sometimes disastrous results. Throughout the series, Fran also struggles with her own relationships, particularly her on-again, off-again romance with Paul. Love, Inc. struggled to find an audience and was ultimately canceled after one season. The show's poor ratings were likely due to its poor time-slot, weak marketing, and competition from other popular shows at the time.",
+      "sent_orig": "Despite this, Love, Inc. has developed a small cult following in the years since its cancellation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite this, Love, Inc. has developed a small cult following in the years since its cancellation."
+    }
+  ]
+}

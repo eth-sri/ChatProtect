@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about boys like girls",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005."
+    },
+    {
+      "prefix_original": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005.",
+      "prefix_new": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005.",
+      "sent_orig": "The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The band",
+            "consists",
+            "of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe."
+          ],
+          "The band consists of lead vocalist Martin Johnson, drummer John Keefe, lead guitarist Paul DiGiovanni, and bassist Morgan Dorr.",
+          "The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe."
+        ]
+      ],
+      "sent_new": "The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe."
+    },
+    {
+      "prefix_original": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe.",
+      "prefix_new": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe.",
+      "sent_orig": "Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\""
+    },
+    {
+      "prefix_original": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe. Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\"",
+      "prefix_new": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe. Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\"",
+      "sent_orig": "They followed up with their second album, \"Love Drunk,\" in 2009, which included the title track as well as hit singles like \"Two Is Better Than One\" featuring Taylor Swift.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They followed up with their second album, \"Love Drunk,\" in 2009, which included the title track as well as hit singles like \"Two Is Better Than One\" featuring Taylor Swift."
+    },
+    {
+      "prefix_original": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe. Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\" They followed up with their second album, \"Love Drunk,\" in 2009, which included the title track as well as hit singles like \"Two Is Better Than One\" featuring Taylor Swift.",
+      "prefix_new": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe. Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\" They followed up with their second album, \"Love Drunk,\" in 2009, which included the title track as well as hit singles like \"Two Is Better Than One\" featuring Taylor Swift.",
+      "sent_orig": "Boys Like Girls has toured extensively throughout their career, performing at music festivals and headlining their own tours.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Boys Like Girls has toured extensively throughout their career, performing at music festivals and headlining their own tours."
+    },
+    {
+      "prefix_original": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe. Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\" They followed up with their second album, \"Love Drunk,\" in 2009, which included the title track as well as hit singles like \"Two Is Better Than One\" featuring Taylor Swift. Boys Like Girls has toured extensively throughout their career, performing at music festivals and headlining their own tours.",
+      "prefix_new": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe. Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\" They followed up with their second album, \"Love Drunk,\" in 2009, which included the title track as well as hit singles like \"Two Is Better Than One\" featuring Taylor Swift. Boys Like Girls has toured extensively throughout their career, performing at music festivals and headlining their own tours.",
+      "sent_orig": "The band has also collaborated with other artists such as Taylor Swift, who co-wrote and provided guest vocals on \"Two Is Better Than One.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The band has also collaborated with other artists such as Taylor Swift, who co-wrote and provided guest vocals on \"Two Is Better Than One.\""
+    },
+    {
+      "prefix_original": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe. Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\" They followed up with their second album, \"Love Drunk,\" in 2009, which included the title track as well as hit singles like \"Two Is Better Than One\" featuring Taylor Swift. Boys Like Girls has toured extensively throughout their career, performing at music festivals and headlining their own tours. The band has also collaborated with other artists such as Taylor Swift, who co-wrote and provided guest vocals on \"Two Is Better Than One.\"",
+      "prefix_new": "Boys Like Girls is an American pop rock band formed in Boston, Massachusetts in 2005. The band consists of lead vocalist Martin Johnson, lead guitarist Paul DiGiovanni, bassist Bryan Donahue, and drummer John Keefe. Their self-titled debut album was released in 2006 and featured hit songs like \"The Great Escape\" and \"Hero/Heroine.\" They followed up with their second album, \"Love Drunk,\" in 2009, which included the title track as well as hit singles like \"Two Is Better Than One\" featuring Taylor Swift. Boys Like Girls has toured extensively throughout their career, performing at music festivals and headlining their own tours. The band has also collaborated with other artists such as Taylor Swift, who co-wrote and provided guest vocals on \"Two Is Better Than One.\"",
+      "sent_orig": "Overall, Boys Like Girls has become a well-known name in the pop rock genre, with catchy, upbeat songs and a loyal fan base.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Boys Like Girls has become a well-known name in the pop rock genre, with catchy, upbeat songs and a loyal fan base."
+    }
+  ]
+}

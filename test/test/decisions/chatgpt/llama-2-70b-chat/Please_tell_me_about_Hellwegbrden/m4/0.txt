@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about Hellwegb\u00f6rden",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Hellwegb\u00f6rden is a type of German bread.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hellwegb\u00f6rden is a type of German bread."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread.",
+      "sent_orig": "It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "is",
+            "a dense, dark bread"
+          ],
+          " It is made with a combination of rye and wheat flour.",
+          "It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape."
+        ]
+      ],
+      "sent_new": "It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape.",
+      "sent_orig": "The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma.",
+      "sent_orig": "Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region.",
+      "sent_orig": "It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups.",
+      "sent_orig": "The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups. The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups. The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams.",
+      "sent_orig": "Today, Hellwegb\u00f6rden is still produced in many bakeries throughout Germany, and is enjoyed by people of all ages.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Hellwegb\u00f6rden is still produced in many bakeries throughout Germany, and is enjoyed by people of all ages."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups. The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams. Today, Hellwegb\u00f6rden is still produced in many bakeries throughout Germany, and is enjoyed by people of all ages.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups. The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams. Today, Hellwegb\u00f6rden is still produced in many bakeries throughout Germany, and is enjoyed by people of all ages.",
+      "sent_orig": "It is often served as a snack or side dish, and is particularly popular during the winter months.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is often served as a snack or side dish, and is particularly popular during the winter months."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups. The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams. Today, Hellwegb\u00f6rden is still produced in many bakeries throughout Germany, and is enjoyed by people of all ages. It is often served as a snack or side dish, and is particularly popular during the winter months.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups. The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams. Today, Hellwegb\u00f6rden is still produced in many bakeries throughout Germany, and is enjoyed by people of all ages. It is often served as a snack or side dish, and is particularly popular during the winter months.",
+      "sent_orig": "Some variations of the bread include adding different grains, such as sunflower seeds or pumpkin seeds, to the dough for added flavor and texture.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some variations of the bread include adding different grains, such as sunflower seeds or pumpkin seeds, to the dough for added flavor and texture."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups. The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams. Today, Hellwegb\u00f6rden is still produced in many bakeries throughout Germany, and is enjoyed by people of all ages. It is often served as a snack or side dish, and is particularly popular during the winter months. Some variations of the bread include adding different grains, such as sunflower seeds or pumpkin seeds, to the dough for added flavor and texture.",
+      "prefix_new": "Hellwegb\u00f6rden is a type of German bread. It is a dense, dark bread made from rye flour, water, and salt, and is traditionally baked in a flat, round shape. The dough is often mixed with caraway seeds, giving the bread a distinctive flavor and aroma. Hellwegb\u00f6rden has a long history, dating back to the Middle Ages, and was once a staple food for peasants in the region. It was traditionally baked in a wood-fired oven and was often served with hearty stews or soups. The bread was also used as a base for various savory and sweet toppings, such as cheese, meats, and jams. Today, Hellwegb\u00f6rden is still produced in many bakeries throughout Germany, and is enjoyed by people of all ages. It is often served as a snack or side dish, and is particularly popular during the winter months. Some variations of the bread include adding different grains, such as sunflower seeds or pumpkin seeds, to the dough for added flavor and texture.",
+      "sent_orig": "Overall, Hellwegb\u00f6rden is a beloved bread in German cuisine, known for its dense and flavorful texture, and its rich history and cultural significance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Hellwegb\u00f6rden is a beloved bread in German cuisine, known for its dense and flavorful texture, and its rich history and cultural significance."
+    }
+  ]
+}

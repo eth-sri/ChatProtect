@@ -1,0 +1,104 @@
+test/test/sentences/chatgpt/1990–91_austrian_hockey_league_season/m3/m3_2_2_0.txt
+label: ok
+score: 0
+cost: 0
+test/test/sentences/chatgpt/1990–91_austrian_hockey_league_season/m3/m3_1_6_0.txt
+Q: I give you the beginning of a description about 1990–91 Austrian Hockey League season.
+Then follow two statements.
+
+Description:
+The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top level of ice hockey in Austria. The 1990-91 Austrian Hockey League season ended on March 17, 1991, with the playoff rounds taking place from March 22 to April 14, 1991. The playoff rounds began on March 22 and ended on April 14, 1991. The season saw a total of eight teams competing in the league, with the top six advancing to the playoffs. In the playoffs, Klagenfurt AC, EC VSV, and Wiener EV all advanced to the semifinals. The top six teams advanced to the playoffs, with Klagenfurt AC, EC VSV, and Wiener EV making it to the semifinals.
+
+Statement 1:
+The playoffs were highly competitive, with several close matches and upsets along the way.
+
+Statement 2:
+The playoffs were won by Klagenfurt AC, who defeated EC VSV in the finals to win their second consecutive championship.
+
+Please explain whether the statements about 1990–91 Austrian Hockey League season are contradictory.
+Provide your explanation only.
+
+A: The statements about the 1990-91 Austrian Hockey League season are not contradictory. Statement 2 provides information about the eventual winner of the playoffs, while Statement 1 describes the overall competitiveness of the playoff rounds. It is possible for the playoffs to be highly competitive with close matches and upsets, while still resulting in a clear winner. Therefore, the statements do not contradict each other.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 748
+test/test/sentences/chatgpt/1990–91_austrian_hockey_league_season/m3/m3_2_1_1.txt
+Q: I give you the beginning of a description about 1990–91 Austrian Hockey League season.
+Then follow two statements.
+
+Description:
+The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria.
+
+Statement 1:
+The regular season saw VEU Feldkirch finish in the top ranks.
+
+Statement 2:
+VEU Feldkirch finished the regular season in first place.
+
+Please explain whether the statements about 1990–91 Austrian Hockey League season are contradictory.
+Provide your explanation only.
+
+A: The statements about the 1990-91 Austrian Hockey League season are not contradictory. Statement 1 indicates that VEU Feldkirch finished in the top ranks, which could mean they finished anywhere from first to fourth place. Statement 2 clarifies that VEU Feldkirch actually finished in first place during the regular season. Therefore, both statements provide additional information about VEU Feldkirch's performance in the season.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 460
+test/test/sentences/chatgpt/1990–91_austrian_hockey_league_season/m3/m3_2_1_0.txt
+Q: I give you the beginning of a description about 1990–91 Austrian Hockey League season.
+Then follow two statements.
+
+Description:
+The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the highest level of ice hockey in Austria.
+
+Statement 1:
+The regular season saw VEU Feldkirch finish in the top ranks.
+
+Statement 2:
+The regular season saw EC KAC finish in first place with 54 points.
+
+Please explain whether the statements about 1990–91 Austrian Hockey League season are contradictory.
+Provide your explanation only.
+
+A: Yes, the statements about the 1990-91 Austrian Hockey League season are contradictory. Statement 1 suggests that VEU Feldkirch finished in the top ranks during the regular season, while Statement 2 suggests that EC KAC finished in first place with 54 points. It is not possible for both teams to have finished in the top ranks or first place simultaneously.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes.
+A: Yes.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes.
+label: ok
+score: 1.0
+cost: 481
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=272, completion_tokens=78), Usage(prompt_tokens=372, completion_tokens=26), Usage(prompt_tokens=124, completion_tokens=85), Usage(prompt_tokens=231, completion_tokens=20), Usage(prompt_tokens=127, completion_tokens=75), Usage(prompt_tokens=224, completion_tokens=55)]
+1350
+339
+1689
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

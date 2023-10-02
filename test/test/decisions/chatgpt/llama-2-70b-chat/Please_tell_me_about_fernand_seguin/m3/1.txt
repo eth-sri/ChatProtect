@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about fernand seguin",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Fernand Seguin",
+            "was",
+            "a French-Canadian biochemist and science communicator."
+          ],
+          " Fernand Seguin was a French-Canadian botanist and academic.",
+          "Fernand Seguin (1922-1988) was a French-Canadian biochemist."
+        ]
+      ],
+      "sent_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist."
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator.",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist.",
+      "sent_orig": "He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry."
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry.",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry.",
+      "sent_orig": "Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge."
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge.",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge.",
+      "sent_orig": "Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain."
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain.",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain.",
+      "sent_orig": "He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase."
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase.",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase.",
+      "sent_orig": "In addition to his research, Seguin was a dedicated science communicator.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his research, Seguin was a dedicated science communicator."
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator.",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator.",
+      "sent_orig": "He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\""
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator. He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\"",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator. He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\"",
+      "sent_orig": "He also produced a number of educational films and television programs, including the award-winningseries \"The World of Chemistry.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also produced a number of educational films and television programs, including the award-winningseries \"The World of Chemistry.\""
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator. He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\" He also produced a number of educational films and television programs, including the award-winningseries \"The World of Chemistry.\"",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator. He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\" He also produced a number of educational films and television programs, including the award-winningseries \"The World of Chemistry.\"",
+      "sent_orig": "Seguin received numerous honors and awards for his contributions to science and education, including the Albert Lasker Award for Basic Medical Research and the National Medal of Science.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Seguin received numerous honors and awards for his contributions to science and education, including the Albert Lasker Award for Basic Medical Research and the National Medal of Science."
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator. He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\" He also produced a number of educational films and television programs, including the award-winningseries \"The World of Chemistry.\" Seguin received numerous honors and awards for his contributions to science and education, including the Albert Lasker Award for Basic Medical Research and the National Medal of Science.",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator. He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\" He also produced a number of educational films and television programs, including the award-winningseries \"The World of Chemistry.\" Seguin received numerous honors and awards for his contributions to science and education, including the Albert Lasker Award for Basic Medical Research and the National Medal of Science.",
+      "sent_orig": "He was also a member of several prestigious scientific organizations, including the National Academy of Sciences and the Royal Society of London.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a member of several prestigious scientific organizations, including the National Academy of Sciences and the Royal Society of London."
+    },
+    {
+      "prefix_original": "Fernand Seguin (1922-1988) was a French-Canadian biochemist and science communicator. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator. He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\" He also produced a number of educational films and television programs, including the award-winningseries \"The World of Chemistry.\" Seguin received numerous honors and awards for his contributions to science and education, including the Albert Lasker Award for Basic Medical Research and the National Medal of Science. He was also a member of several prestigious scientific organizations, including the National Academy of Sciences and the Royal Society of London.",
+      "prefix_new": "Fernand Seguin (1922-1988) was a French-Canadian biochemist. He is best known for his work on the metabolism of amino acids and his contributions to the field of biochemistry. Seguin was born in Montreal, Quebec, and received his education at the Universit\u00e9 de Montr\u00e9al and the University of Cambridge. Seguin's research focused on the metabolism of amino acids, particularly the breakdown of glutamate, which is an important neurotransmitter in the brain. He discovered several enzymes involved in this process, including glutamate dehydrogenase and glutamate-1-semialdehyde dehydrogenase. In addition to his research, Seguin was a dedicated science communicator. He wrote several books on biochemistry and science, including \"Biochemistry: An Introduction\" and \"The Chemistry of Life.\" He also produced a number of educational films and television programs, including the award-winningseries \"The World of Chemistry.\" Seguin received numerous honors and awards for his contributions to science and education, including the Albert Lasker Award for Basic Medical Research and the National Medal of Science. He was also a member of several prestigious scientific organizations, including the National Academy of Sciences and the Royal Society of London.",
+      "sent_orig": "Seguin's legacy continues to be felt in the field of biochemistry, and his work has paved the way for further research into the metabolism of amino acids and its role in human health and disease.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Seguin's legacy continues to be felt in the field of biochemistry, and his work has paved the way for further research into the metabolism of amino acids and its role in human health and disease."
+    }
+  ]
+}

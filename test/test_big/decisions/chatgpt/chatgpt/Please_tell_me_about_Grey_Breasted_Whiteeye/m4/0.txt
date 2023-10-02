@@ -1,0 +1,119 @@
+{
+  "prompt": "Please tell me about Grey Breasted Whiteeye",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia.",
+      "sent_orig": "It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name.",
+      "sent_orig": "The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams.",
+      "sent_orig": "Its plumage is mostly green, with a greyish breast and a prominent white eye-ring.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Its plumage",
+            "is",
+            "mostly green, with a greyish breast and a prominent white eye-ring."
+          ],
+          "Its plumage is mostly olive-green, with a yellowish-green belly and a greyish-brown back.",
+          "Its plumage is mostly green, with a greyish breast and a prominent white eye-ring."
+        ]
+      ],
+      "sent_new": "Its plumage is mostly green, with a greyish breast and a prominent white eye-ring."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring.",
+      "sent_orig": "The bill and legs are black, and the eyes are reddish-brown.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The bill and legs are black, and the eyes are reddish-brown."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown.",
+      "sent_orig": "Males and females look alike.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Males and females look alike."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike.",
+      "sent_orig": "These birds are found in forests, plantations, and other wooded areas.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These birds are found in forests, plantations, and other wooded areas."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas.",
+      "sent_orig": "They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls.",
+      "sent_orig": "They feed on insects, nectar, and fruits.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They feed on insects, nectar, and fruits."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls. They feed on insects, nectar, and fruits.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls. They feed on insects, nectar, and fruits.",
+      "sent_orig": "The Grey Breasted Whiteeye is widespread in Southeast Asia, ranging from Myanmar and Thailand to Malaysia and Indonesia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Grey Breasted Whiteeye is widespread in Southeast Asia, ranging from Myanmar and Thailand to Malaysia and Indonesia."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls. They feed on insects, nectar, and fruits. The Grey Breasted Whiteeye is widespread in Southeast Asia, ranging from Myanmar and Thailand to Malaysia and Indonesia.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls. They feed on insects, nectar, and fruits. The Grey Breasted Whiteeye is widespread in Southeast Asia, ranging from Myanmar and Thailand to Malaysia and Indonesia.",
+      "sent_orig": "They are common in their range and are not considered endangered.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are common in their range and are not considered endangered."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls. They feed on insects, nectar, and fruits. The Grey Breasted Whiteeye is widespread in Southeast Asia, ranging from Myanmar and Thailand to Malaysia and Indonesia. They are common in their range and are not considered endangered.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls. They feed on insects, nectar, and fruits. The Grey Breasted Whiteeye is widespread in Southeast Asia, ranging from Myanmar and Thailand to Malaysia and Indonesia. They are common in their range and are not considered endangered.",
+      "sent_orig": "Overall, the Grey Breasted Whiteeye is a cute and attractive bird that is well-known for its white eye-ring.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the Grey Breasted Whiteeye is a cute and attractive bird that is well-known for its white eye-ring."
+    },
+    {
+      "prefix_original": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls. They feed on insects, nectar, and fruits. The Grey Breasted Whiteeye is widespread in Southeast Asia, ranging from Myanmar and Thailand to Malaysia and Indonesia. They are common in their range and are not considered endangered. Overall, the Grey Breasted Whiteeye is a cute and attractive bird that is well-known for its white eye-ring.",
+      "prefix_new": "The Grey Breasted Whiteeye, also known as Zosterops cinereus, is a small passerine bird that is found in Southeast Asia. It belongs to the family of birds called Zosteropidae and is known for its distinctive grey breast and white eye-ring, which gives it its name. The Grey Breasted Whiteeye is around 9-10 cm long and weighs about 6-8 grams. Its plumage is mostly green, with a greyish breast and a prominent white eye-ring. The bill and legs are black, and the eyes are reddish-brown. Males and females look alike. These birds are found in forests, plantations, and other wooded areas. They are generally found in pairs or small groups and are very vocal, with a variety of chirps, songs, and calls. They feed on insects, nectar, and fruits. The Grey Breasted Whiteeye is widespread in Southeast Asia, ranging from Myanmar and Thailand to Malaysia and Indonesia. They are common in their range and are not considered endangered. Overall, the Grey Breasted Whiteeye is a cute and attractive bird that is well-known for its white eye-ring.",
+      "sent_orig": "These birds are a joy to watch and listen to, and are an important part of the ecosystem in Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These birds are a joy to watch and listen to, and are an important part of the ecosystem in Southeast Asia."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "prompt": "Please tell me about charles magnette",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a Belgian politician and",
+            "served",
+            "as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934."
+          ],
+          "Charles Magnette, a Belgian politician, served as the mayor of the city of Charleroi from 2001 to 2018.",
+          "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934."
+        ]
+      ],
+      "sent_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934.",
+      "sent_orig": "He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on March 8, 1863, in Liege,"
+          ],
+          "He was born on 7 September 1884 in Li\u00e8ge, Belgium.",
+          "He was born on March 8, 1863, in Liege, Belgium."
+        ]
+      ],
+      "sent_new": "He was born on March 8, 1863, in Liege, Belgium."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium.",
+      "sent_orig": "Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937.",
+      "sent_orig": "He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium.",
+      "sent_orig": "As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe.",
+      "sent_orig": "He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending.",
+      "sent_orig": "Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending. Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending. Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations.",
+      "sent_orig": "He also served as the president of the League of Nations from 1932 to 1933.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also served as the president of the League of Nations from 1932 to 1933."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending. Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations. He also served as the president of the League of Nations from 1932 to 1933.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending. Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations. He also served as the president of the League of Nations from 1932 to 1933.",
+      "sent_orig": "In addition to his political career, Magnette was a prominent lawyer and a professor of law at the University of Liege.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his political career, Magnette was a prominent lawyer and a professor of law at the University of Liege."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending. Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations. He also served as the president of the League of Nations from 1932 to 1933. In addition to his political career, Magnette was a prominent lawyer and a professor of law at the University of Liege.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending. Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations. He also served as the president of the League of Nations from 1932 to 1933. In addition to his political career, Magnette was a prominent lawyer and a professor of law at the University of Liege.",
+      "sent_orig": "He wrote several books on legal theory and was known for his expertise in constitutional law.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He wrote several books on legal theory and was known for his expertise in constitutional law."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian politician and lawyer who served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium, and died on June 7, 1937, in Elsene, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending. Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations. He also served as the president of the League of Nations from 1932 to 1933. In addition to his political career, Magnette was a prominent lawyer and a professor of law at the University of Liege. He wrote several books on legal theory and was known for his expertise in constitutional law.",
+      "prefix_new": "Charles Magnette served as the Prime Minister of Belgium from August 17, 1932, to November 13, 1934. He was born on March 8, 1863, in Liege, Belgium. Magnette was a member of the Belgian Socialist Party and served as a member of parliament from 1900 until his death in 1937. He was a strong supporter of workers' rights and played a prominent role in the labor movement in Belgium. As Prime Minister, Magnette faced several challenges, including the economic crisis caused by the Great Depression and the rise of fascist movements in Europe. He implemented measures to address the economic crisis, such as the devaluation of the franc and the reduction of public spending. Magnette was a strong advocate of international cooperation and played an important role in the creation of the League of Nations. He also served as the president of the League of Nations from 1932 to 1933. In addition to his political career, Magnette was a prominent lawyer and a professor of law at the University of Liege. He wrote several books on legal theory and was known for his expertise in constitutional law.",
+      "sent_orig": "Overall, Charles Magnette was a prominent figure in Belgian politics and played an important role in the country's history during a time of significant social and economic changes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Charles Magnette was a prominent figure in Belgian politics and played an important role in the country's history during a time of significant social and economic changes."
+    }
+  ]
+}

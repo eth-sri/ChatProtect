@@ -1,0 +1,120 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe.",
+      "sent_orig": "He was born in Vienna and joined the Austrian military at an early age.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            ""
+          ],
+          "He was born in the town of Graz, Austria.",
+          "He joined the Austrian military at an early age."
+        ]
+      ],
+      "sent_new": "He joined the Austrian military at an early age."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age.",
+      "sent_orig": "When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gollob",
+            "underwent",
+            "flight training."
+          ],
+          "Gollob underwent pilot training in the mid-1930s and became a fighter pilot in the Austrian Air Force.",
+          "Gollob transferred to the German Air Force (Luftwaffe) in 1938."
+        ]
+      ],
+      "sent_new": "Gollob transferred to the German Air Force (Luftwaffe) in 1938."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938.",
+      "sent_orig": "During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot.",
+      "sent_orig": "He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe.",
+      "sent_orig": "He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross)."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross).",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross).",
+      "sent_orig": "Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe.",
+      "sent_orig": "In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe. In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe. In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization.",
+      "sent_orig": "After the war, Gollob was briefly interned by the Allies and later released.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the war, Gollob was briefly interned by the Allies and later released."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe. In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization. After the war, Gollob was briefly interned by the Allies and later released.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe. In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization. After the war, Gollob was briefly interned by the Allies and later released.",
+      "sent_orig": "Due to his military status, he was not able to have a part in the rebuilding of the Austrian Air Force post-war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Due to his military status, he was not able to have a part in the rebuilding of the Austrian Air Force post-war."
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe. In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization. After the war, Gollob was briefly interned by the Allies and later released. Due to his military status, he was not able to have a part in the rebuilding of the Austrian Air Force post-war.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe. In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization. After the war, Gollob was briefly interned by the Allies and later released. Due to his military status, he was not able to have a part in the rebuilding of the Austrian Air Force post-war.",
+      "sent_orig": "Instead, he found work in various industrial sectors and became a successful businessman in Vienna.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He was born in Vienna and joined the Austrian military at an early age. When Nazi Germany annexed Austria in 1938, Gollob transferred to the German Air Force (Luftwaffe) and underwent flight training. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe. In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization. After the war, Gollob was briefly interned by the Allies and later released. Due to his military status, he was not able to have a part in the rebuilding of the Austrian Air Force post-war. Instead, he found work in various industrial sectors and became a successful businessman in Vienna.",
+      "prefix_new": "Gordon Gollob (5 June 1912 \u2013 7 September 1987) was an Austrian World War II flying ace and high-ranking officer in the Luftwaffe. He joined the Austrian military at an early age. Gollob transferred to the German Air Force (Luftwaffe) in 1938. During World War II, Gollob rose quickly through the ranks and acquired a reputation as an exceptional pilot. He notably scored 150 aerial victories in 340 combat missions, making him the 17th most successful fighter pilot in the history of the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves, Swords, and Diamonds for his extraordinary achievements, becoming the first fighter pilot ever to be awarded the Diamonds (the highest grade of the Knight's Cross). Gollob was promoted several times during the war, ultimately reaching the rank of Generalleutnant (Major General) and was placed in charge of special functions, including training and promotions within the Luftwaffe. In this role, he was responsible for many innovations to improve fighter pilot training, tactics, and organization. After the war, Gollob was briefly interned by the Allies and later released. Due to his military status, he was not able to have a part in the rebuilding of the Austrian Air Force post-war.",
+      "sent_orig": "He passed away in 1987, leaving behind a legacy as one of the most accomplished fighter pilots of World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He passed away in 1987, leaving behind a legacy as one of the most accomplished fighter pilots of World War II."
+    }
+  ]
+}

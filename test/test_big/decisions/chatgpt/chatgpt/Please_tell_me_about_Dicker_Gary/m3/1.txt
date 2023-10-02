@@ -1,0 +1,97 @@
+{
+  "prompt": "Please tell me about Dicker, Gary",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gary Dicker is a professional footballer from Ireland.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gary Dicker is a professional footballer from Ireland."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland.",
+      "sent_orig": "He was born on October 31, 1986, in Dublin.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            ""
+          ],
+          "He was born on April 31, 1986 in Dublin, Ireland.",
+          "He was born on October 31, 1986, in Dublin."
+        ]
+      ],
+      "sent_new": "He was born on October 31, 1986, in Dublin."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin.",
+      "sent_orig": "He played for UCD for three seasons before moving to Stockport County in 2007.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He played for UCD for three seasons before moving to Stockport County in 2007."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007.",
+      "sent_orig": "Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town.",
+      "sent_orig": "He signed for League One side Rochdale in 2014.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He signed for League One side Rochdale in 2014."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014.",
+      "sent_orig": "Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Dicker",
+            "joined",
+            "Notts County in"
+          ],
+          "Dicker joined Kilmarnock in 2016 and has been a regular player for the Scottish club ever since.",
+          "Dicker signed for Crawley Town in 2015."
+        ]
+      ],
+      "sent_new": "Dicker signed for Crawley Town in 2015."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015.",
+      "sent_orig": "He signed for Forest Green Rovers in 2018.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He signed for Forest Green Rovers in 2018."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017. He signed for Forest Green Rovers in 2018.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015. He signed for Forest Green Rovers in 2018.",
+      "sent_orig": "Dicker is known for his versatility and can play as a defensive midfielder or a central midfielder.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dicker is known for his versatility and can play as a defensive midfielder or a central midfielder."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017. He signed for Forest Green Rovers in 2018. Dicker is known for his versatility and can play as a defensive midfielder or a central midfielder.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015. He signed for Forest Green Rovers in 2018. Dicker is known for his versatility and can play as a defensive midfielder or a central midfielder.",
+      "sent_orig": "He has played over 500 professional matches and has scored 27 goals in his career so far.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has played over 500 professional matches and has scored 27 goals in his career so far."
+    }
+  ]
+}

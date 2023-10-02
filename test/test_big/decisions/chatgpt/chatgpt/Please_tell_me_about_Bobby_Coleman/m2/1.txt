@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Bobby Coleman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California."
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California.",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California.",
+      "sent_orig": "He started acting at a young age and landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "started",
+            "acting at a young age"
+          ],
+          "He started his acting career at the age of six, appearing in a commercial for Kraft Cheese.",
+          "Bobby Coleman landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old."
+        ]
+      ],
+      "sent_new": "Bobby Coleman landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old."
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He started acting at a young age and landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old.",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. Bobby Coleman landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old.",
+      "sent_orig": "Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\""
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He started acting at a young age and landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old. Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\"",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. Bobby Coleman landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old. Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\"",
+      "sent_orig": "He has also starred in several television series, including \"Surface,\" \"Medium,\" and \"Raising Hope.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also starred in several television series, including \"Surface,\" \"Medium,\" and \"Raising Hope.\""
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He started acting at a young age and landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old. Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\" He has also starred in several television series, including \"Surface,\" \"Medium,\" and \"Raising Hope.\"",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. Bobby Coleman landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old. Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\" He has also starred in several television series, including \"Surface,\" \"Medium,\" and \"Raising Hope.\"",
+      "sent_orig": "In addition to his acting career, Coleman is also involved in charity work.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his acting career, Coleman is also involved in charity work."
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He started acting at a young age and landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old. Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\" He has also starred in several television series, including \"Surface,\" \"Medium,\" and \"Raising Hope.\" In addition to his acting career, Coleman is also involved in charity work.",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. Bobby Coleman landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old. Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\" He has also starred in several television series, including \"Surface,\" \"Medium,\" and \"Raising Hope.\" In addition to his acting career, Coleman is also involved in charity work.",
+      "sent_orig": "He has done work for organizations such as Alex's Lemonade Stand Foundation, a non-profit organization that raises funds for childhood cancer research, and DoSomething.org, a non-profit organization that promotes social change among young people.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has done work for organizations such as Alex's Lemonade Stand Foundation, a non-profit organization that raises funds for childhood cancer research, and DoSomething.org, a non-profit organization that promotes social change among young people."
+    },
+    {
+      "prefix_original": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. He started acting at a young age and landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old. Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\" He has also starred in several television series, including \"Surface,\" \"Medium,\" and \"Raising Hope.\" In addition to his acting career, Coleman is also involved in charity work. He has done work for organizations such as Alex's Lemonade Stand Foundation, a non-profit organization that raises funds for childhood cancer research, and DoSomething.org, a non-profit organization that promotes social change among young people.",
+      "prefix_new": "Bobby Coleman is an American actor who was born on May 5, 1997, in Pasadena, California. Bobby Coleman landed his first role in the 2001 film \"One Hour Photo\" when he was just four years old. Throughout his career, Coleman has appeared in a variety of films and television shows, including \"Must Love Dogs,\" \"Friends with Money,\" \"The Last Song,\" \"The Amazing Spider-Man,\" and \"The 5th Wave.\" He has also starred in several television series, including \"Surface,\" \"Medium,\" and \"Raising Hope.\" In addition to his acting career, Coleman is also involved in charity work. He has done work for organizations such as Alex's Lemonade Stand Foundation, a non-profit organization that raises funds for childhood cancer research, and DoSomething.org, a non-profit organization that promotes social change among young people.",
+      "sent_orig": "Overall, Bobby Coleman is a talented actor with a bright future ahead of him.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Bobby Coleman is a talented actor with a bright future ahead of him."
+    }
+  ]
+}

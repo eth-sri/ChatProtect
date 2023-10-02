@@ -1,0 +1,84 @@
+{
+  "prompt": "Please tell me about diane arkenstone",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Diane Arkenstone is an American musician, composer, and singer-songwriter.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter.",
+      "sent_orig": "She was born on May 3, 1959, in Nebraska, USA.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter.",
+      "sent_orig": "Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music.",
+      "sent_orig": "She later went on to release solo albums that incorporated elements of world music, folk, and electronic music.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She later went on to release solo albums that incorporated elements of world music, folk, and electronic music."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music.",
+      "sent_orig": "Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\""
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\"",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\"",
+      "sent_orig": "She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\" She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\" She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden.",
+      "sent_orig": "Arkenstone's music has been featured in several films, TV shows, and video games, including \"The Oprah Winfrey Show,\" \"The Sopranos,\" \"The Apprentice,\" and \"The Sims.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Arkenstone's music has been featured in several films, TV shows, and video games, including \"The Oprah Winfrey Show,\" \"The Sopranos,\" \"The Apprentice,\" and \"The Sims.\""
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\" She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden. Arkenstone's music has been featured in several films, TV shows, and video games, including \"The Oprah Winfrey Show,\" \"The Sopranos,\" \"The Apprentice,\" and \"The Sims.\"",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\" She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden. Arkenstone's music has been featured in several films, TV shows, and video games, including \"The Oprah Winfrey Show,\" \"The Sopranos,\" \"The Apprentice,\" and \"The Sims.\"",
+      "sent_orig": "She has won several awards for her music, including the COVR Visionary Award and the New Age Reporter Lifestyle Music Award.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has won several awards for her music, including the COVR Visionary Award and the New Age Reporter Lifestyle Music Award."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\" She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden. Arkenstone's music has been featured in several films, TV shows, and video games, including \"The Oprah Winfrey Show,\" \"The Sopranos,\" \"The Apprentice,\" and \"The Sims.\" She has won several awards for her music, including the COVR Visionary Award and the New Age Reporter Lifestyle Music Award.",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\" She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden. Arkenstone's music has been featured in several films, TV shows, and video games, including \"The Oprah Winfrey Show,\" \"The Sopranos,\" \"The Apprentice,\" and \"The Sims.\" She has won several awards for her music, including the COVR Visionary Award and the New Age Reporter Lifestyle Music Award.",
+      "sent_orig": "In addition to her music career, Arkenstone is also an author and has written several books, including \"The Angel's Trilogy\" and \"The Mystic Trilogy.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to her music career, Arkenstone is also an author and has written several books, including \"The Angel's Trilogy\" and \"The Mystic Trilogy.\""
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American musician, composer, and singer-songwriter. She was born on May 3, 1959, in Nebraska, USA. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\" She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden. Arkenstone's music has been featured in several films, TV shows, and video games, including \"The Oprah Winfrey Show,\" \"The Sopranos,\" \"The Apprentice,\" and \"The Sims.\" She has won several awards for her music, including the COVR Visionary Award and the New Age Reporter Lifestyle Music Award. In addition to her music career, Arkenstone is also an author and has written several books, including \"The Angel's Trilogy\" and \"The Mystic Trilogy.\"",
+      "prefix_new": "Diane Arkenstone is an American musician, composer, and singer-songwriter. Arkenstone started her music career in the 1980s as a member of the duo Enaid & Einalem, which focused on New Age music. She later went on to release solo albums that incorporated elements of world music, folk, and electronic music. Arkenstone has released over 20 solo albums, including \"Echoes of Egypt,\" \"The Best of Diane Arkenstone,\" and \"The Healing Spirit.\" She has also collaborated with other musicians, including David Arkenstone (her former husband), Kitaro, and Secret Garden. Arkenstone's music has been featured in several films, TV shows, and video games, including \"The Oprah Winfrey Show,\" \"The Sopranos,\" \"The Apprentice,\" and \"The Sims.\" She has won several awards for her music, including the COVR Visionary Award and the New Age Reporter Lifestyle Music Award. In addition to her music career, Arkenstone is also an author and has written several books, including \"The Angel's Trilogy\" and \"The Mystic Trilogy.\"",
+      "sent_orig": "She is also a philanthropist and supports various charities, including the American Red Cross and the Humane Society.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is also a philanthropist and supports various charities, including the American Red Cross and the Humane Society."
+    }
+  ]
+}

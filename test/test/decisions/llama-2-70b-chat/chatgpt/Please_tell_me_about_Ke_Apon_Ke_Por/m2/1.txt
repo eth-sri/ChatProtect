@@ -1,0 +1,96 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha.",
+      "sent_orig": "The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers.",
+      "sent_orig": "The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family.",
+      "sent_orig": "She married a man named Surya, who is from a wealthy family.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "She",
+            "married",
+            "a man"
+          ],
+          "She is married to the character of Param, who is a supportive husband and helps her in her struggles.",
+          "She is a strong and independent woman who is the only breadwinner of her family."
+        ],
+        [
+          [
+            "a man",
+            "named",
+            "Surya,"
+          ],
+          "A man named Param is Joba's husband in the show.",
+          "She is a strong and independent woman."
+        ]
+      ],
+      "sent_new": "She is a strong and independent woman."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She married a man named Surya, who is from a wealthy family.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She is a strong and independent woman.",
+      "sent_orig": "However, their marriage is not a happy one, and they constantly face challenges and obstacles.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, their marriage is not a happy one, and they constantly face challenges and obstacles."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She married a man named Surya, who is from a wealthy family. However, their marriage is not a happy one, and they constantly face challenges and obstacles.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She is a strong and independent woman. However, their marriage is not a happy one, and they constantly face challenges and obstacles.",
+      "sent_orig": "The show explores various themes such as family values, relationships, social issues, and women empowerment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show explores various themes such as family values, relationships, social issues, and women empowerment."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She married a man named Surya, who is from a wealthy family. However, their marriage is not a happy one, and they constantly face challenges and obstacles. The show explores various themes such as family values, relationships, social issues, and women empowerment.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She is a strong and independent woman. However, their marriage is not a happy one, and they constantly face challenges and obstacles. The show explores various themes such as family values, relationships, social issues, and women empowerment.",
+      "sent_orig": "It has a talented ensemble cast that includes Biswajit Ghosh as Tandra, Pallavi Sharma as Joba, Indranil Chatterjee as Surya, and others.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has a talented ensemble cast that includes Biswajit Ghosh as Tandra, Pallavi Sharma as Joba, Indranil Chatterjee as Surya, and others."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She married a man named Surya, who is from a wealthy family. However, their marriage is not a happy one, and they constantly face challenges and obstacles. The show explores various themes such as family values, relationships, social issues, and women empowerment. It has a talented ensemble cast that includes Biswajit Ghosh as Tandra, Pallavi Sharma as Joba, Indranil Chatterjee as Surya, and others.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She is a strong and independent woman. However, their marriage is not a happy one, and they constantly face challenges and obstacles. The show explores various themes such as family values, relationships, social issues, and women empowerment. It has a talented ensemble cast that includes Biswajit Ghosh as Tandra, Pallavi Sharma as Joba, Indranil Chatterjee as Surya, and others.",
+      "sent_orig": "Ke Apon Ke Por has won several awards and nominations, including Best Actress at the 2020 Zee Bangla Sonar Sansar Awards for Pallavi Sharma.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ke Apon Ke Por has won several awards and nominations, including Best Actress at the 2020 Zee Bangla Sonar Sansar Awards for Pallavi Sharma."
+    },
+    {
+      "prefix_original": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She married a man named Surya, who is from a wealthy family. However, their marriage is not a happy one, and they constantly face challenges and obstacles. The show explores various themes such as family values, relationships, social issues, and women empowerment. It has a talented ensemble cast that includes Biswajit Ghosh as Tandra, Pallavi Sharma as Joba, Indranil Chatterjee as Surya, and others. Ke Apon Ke Por has won several awards and nominations, including Best Actress at the 2020 Zee Bangla Sonar Sansar Awards for Pallavi Sharma.",
+      "prefix_new": "Ke Apon Ke Por is a popular Bengali television drama series that airs on Star Jalsha. The show premiered on 25 July 2016 and has since become a huge hit among Bengali viewers. The show revolves around the character of Joba, a strong and independent woman who is the only breadwinner of her family. She is a strong and independent woman. However, their marriage is not a happy one, and they constantly face challenges and obstacles. The show explores various themes such as family values, relationships, social issues, and women empowerment. It has a talented ensemble cast that includes Biswajit Ghosh as Tandra, Pallavi Sharma as Joba, Indranil Chatterjee as Surya, and others. Ke Apon Ke Por has won several awards and nominations, including Best Actress at the 2020 Zee Bangla Sonar Sansar Awards for Pallavi Sharma.",
+      "sent_orig": "The show has a huge fan base, and its popularity continues to grow with each passing day.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The show has a huge fan base, and its popularity continues to grow with each passing day."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "prompt": "Please tell me about fiona shackleton",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Fiona Shackleton is a prominent British lawyer who specializes in family law.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent British lawyer who specializes in family law.",
+      "prefix_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law.",
+      "sent_orig": "She was born on April 1, 1956, in Lancashire, England.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was born on April 1, 1956, in Lancashire, England."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England.",
+      "prefix_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England.",
+      "sent_orig": "Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana.",
+      "prefix_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana.",
+      "sent_orig": "Shackleton studied law at the University of Buckingham and qualified as a solicitor in 1980.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Shackleton",
+            "studied",
+            "law at the University of Buckingham"
+          ],
+          "Shackleton studied law at the University of London.",
+          "Shackleton qualified as a solicitor in 1980."
+        ]
+      ],
+      "sent_new": "Shackleton qualified as a solicitor in 1980."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton studied law at the University of Buckingham and qualified as a solicitor in 1980.",
+      "prefix_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton qualified as a solicitor in 1980.",
+      "sent_orig": "She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton studied law at the University of Buckingham and qualified as a solicitor in 1980. She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years.",
+      "prefix_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton qualified as a solicitor in 1980. She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years.",
+      "sent_orig": "She eventually became a partner in the firm and led their family law department.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a partner in the firm",
+            "led",
+            "their family law department."
+          ],
+          "In 2011, Shackleton became a partner in the firm Payne Hicks Beach and led their family law department.",
+          "She became a partner in a law firm and led their family law department."
+        ]
+      ],
+      "sent_new": "She became a partner in a law firm and led their family law department."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton studied law at the University of Buckingham and qualified as a solicitor in 1980. She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years. She eventually became a partner in the firm and led their family law department.",
+      "prefix_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton qualified as a solicitor in 1980. She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years. She became a partner in a law firm and led their family law department.",
+      "sent_orig": "In addition to representing Prince Charles, Shackleton has also represented other members of the British royal family, including Prince Andrew in his divorce from Sarah Ferguson, and Prince William and Prince Harry in their parents' divorce.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to representing Prince Charles, Shackleton has also represented other members of the British royal family, including Prince Andrew in his divorce from Sarah Ferguson, and Prince William and Prince Harry in their parents' divorce."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton studied law at the University of Buckingham and qualified as a solicitor in 1980. She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years. She eventually became a partner in the firm and led their family law department. In addition to representing Prince Charles, Shackleton has also represented other members of the British royal family, including Prince Andrew in his divorce from Sarah Ferguson, and Prince William and Prince Harry in their parents' divorce.",
+      "prefix_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton qualified as a solicitor in 1980. She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years. She became a partner in a law firm and led their family law department. In addition to representing Prince Charles, Shackleton has also represented other members of the British royal family, including Prince Andrew in his divorce from Sarah Ferguson, and Prince William and Prince Harry in their parents' divorce.",
+      "sent_orig": "Shackleton was awarded a CBE (Commander of the Order of the British Empire) in 2006 for her services to family law.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Shackleton",
+            "was awarded",
+            "a CBE"
+          ],
+          "Shackleton was awarded a CBE (Commander of the Order of the British Empire) in 2016 for her services to family law.",
+          "Shackleton was awarded a CBE in recognition of her services to family law."
+        ]
+      ],
+      "sent_new": "Shackleton was awarded a CBE in recognition of her services to family law."
+    },
+    {
+      "prefix_original": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton studied law at the University of Buckingham and qualified as a solicitor in 1980. She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years. She eventually became a partner in the firm and led their family law department. In addition to representing Prince Charles, Shackleton has also represented other members of the British royal family, including Prince Andrew in his divorce from Sarah Ferguson, and Prince William and Prince Harry in their parents' divorce. Shackleton was awarded a CBE (Commander of the Order of the British Empire) in 2006 for her services to family law.",
+      "prefix_new": "Fiona Shackleton is a prominent British lawyer who specializes in family law. She was born on April 1, 1956, in Lancashire, England. Shackleton is known for representing several high-profile clients in divorce cases, including Prince Charles in his divorce from Princess Diana. Shackleton qualified as a solicitor in 1980. She began her career as a family lawyer in the London law firm Farrer & Co, where she worked for over 30 years. She became a partner in a law firm and led their family law department. In addition to representing Prince Charles, Shackleton has also represented other members of the British royal family, including Prince Andrew in his divorce from Sarah Ferguson, and Prince William and Prince Harry in their parents' divorce. Shackleton was awarded a CBE in recognition of her services to family law.",
+      "sent_orig": "She has written several books on family law and is widely respected in the legal community for her expertise and professionalism.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has written several books on family law and is widely respected in the legal community for her expertise and professionalism."
+    }
+  ]
+}

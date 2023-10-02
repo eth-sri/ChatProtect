@@ -1,0 +1,37 @@
+{
+  "prompt": "Please tell me about Homer Simpson",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\" created by Matt Groening.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\" created by Matt Groening."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\" created by Matt Groening.",
+      "prefix_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\" created by Matt Groening.",
+      "sent_orig": "He is the father of the Simpson family and is portrayed as a bumbling, laid-back, and overweight husband to Marge Simpson and father to Bart, Lisa, and Maggie Simpson.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is the father of the Simpson family and is portrayed as a bumbling, laid-back, and overweight husband to Marge Simpson and father to Bart, Lisa, and Maggie Simpson."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\" created by Matt Groening. He is the father of the Simpson family and is portrayed as a bumbling, laid-back, and overweight husband to Marge Simpson and father to Bart, Lisa, and Maggie Simpson.",
+      "prefix_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\" created by Matt Groening. He is the father of the Simpson family and is portrayed as a bumbling, laid-back, and overweight husband to Marge Simpson and father to Bart, Lisa, and Maggie Simpson.",
+      "sent_orig": "Homer is a \u201cSaver\u201d at the Springfield Nuclear Power Plant and is known for his love of donuts, beer, and his catchphrase \u201cD\u2019oh!\u201d which he often says when realizing he has made a mistake.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Homer is a \u201cSaver\u201d at the Springfield Nuclear Power Plant and is known for his love of donuts, beer, and his catchphrase \u201cD\u2019oh!\u201d which he often says when realizing he has made a mistake."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\" created by Matt Groening. He is the father of the Simpson family and is portrayed as a bumbling, laid-back, and overweight husband to Marge Simpson and father to Bart, Lisa, and Maggie Simpson. Homer is a \u201cSaver\u201d at the Springfield Nuclear Power Plant and is known for his love of donuts, beer, and his catchphrase \u201cD\u2019oh!\u201d which he often says when realizing he has made a mistake.",
+      "prefix_new": "Homer Simpson is a fictional character in the animated television series \"The Simpsons\" created by Matt Groening. He is the father of the Simpson family and is portrayed as a bumbling, laid-back, and overweight husband to Marge Simpson and father to Bart, Lisa, and Maggie Simpson. Homer is a \u201cSaver\u201d at the Springfield Nuclear Power Plant and is known for his love of donuts, beer, and his catchphrase \u201cD\u2019oh!\u201d which he often says when realizing he has made a mistake.",
+      "sent_orig": "Despite his flaws, Homer is a loving and devoted father and he is often shown as the protagonist of the show\u2019s comedic situations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite his flaws, Homer is a loving and devoted father and he is often shown as the protagonist of the show\u2019s comedic situations."
+    }
+  ]
+}

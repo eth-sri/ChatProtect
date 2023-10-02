@@ -1,0 +1,115 @@
+{
+  "prompt": "Please tell me about Hellwegb\u00f6rden",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages.",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages.",
+      "sent_orig": "The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The term \"Hellwegb\u00f6rden\"",
+            "translates",
+            "to \"parish boundaries\" in English,"
+          ],
+          "The term \"Hellwegb\u00f6rden\" translates as \"boundaries on the hellweg\" in English.",
+          "The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes."
+        ]
+      ],
+      "sent_new": "The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes.",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes.",
+      "sent_orig": "In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems.",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems.",
+      "sent_orig": "As a result, different systems of territorial division were used in different regions of the empire.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As a result, different systems of territorial division were used in different regions of the empire."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire.",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire.",
+      "sent_orig": "One such system was the Hellwegb\u00f6rden system, which was used in the Lower Rhine region and the neighboring areas.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the Hellwegb\u00f6rden system,",
+            "was",
+            "in the Lower Rhine region and the neighboring areas."
+          ],
+          "the Hellwegb\u00f6rden system, was widely used in central and northern Germany, particularly in the regions of Westphalia, Pomerania, and Mecklenburg.",
+          "The Hellwegb\u00f6rden system was used in the Lower Rhine region and neighboring areas."
+        ]
+      ],
+      "sent_new": "The Hellwegb\u00f6rden system was used in the Lower Rhine region and neighboring areas."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. One such system was the Hellwegb\u00f6rden system, which was used in the Lower Rhine region and the neighboring areas.",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. The Hellwegb\u00f6rden system was used in the Lower Rhine region and neighboring areas.",
+      "sent_orig": "The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. One such system was the Hellwegb\u00f6rden system, which was used in the Lower Rhine region and the neighboring areas. The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes.",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. The Hellwegb\u00f6rden system was used in the Lower Rhine region and neighboring areas. The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes.",
+      "sent_orig": "These units were typically based on the boundaries of local parishes, and were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "These units",
+            "were typically",
+            "on the boundaries of local parishes,"
+          ],
+          "These units were typically referred to as \"chantries\".",
+          "These units were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\""
+        ]
+      ],
+      "sent_new": "These units were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\""
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. One such system was the Hellwegb\u00f6rden system, which was used in the Lower Rhine region and the neighboring areas. The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes. These units were typically based on the boundaries of local parishes, and were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\"",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. The Hellwegb\u00f6rden system was used in the Lower Rhine region and neighboring areas. The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes. These units were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\"",
+      "sent_orig": "The system was used in various forms throughout the Middle Ages, and was eventually replaced by other systems of territorial division in the early modern period.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The system was used in various forms throughout the Middle Ages, and was eventually replaced by other systems of territorial division in the early modern period."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. One such system was the Hellwegb\u00f6rden system, which was used in the Lower Rhine region and the neighboring areas. The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes. These units were typically based on the boundaries of local parishes, and were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\" The system was used in various forms throughout the Middle Ages, and was eventually replaced by other systems of territorial division in the early modern period.",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. The Hellwegb\u00f6rden system was used in the Lower Rhine region and neighboring areas. The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes. These units were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\" The system was used in various forms throughout the Middle Ages, and was eventually replaced by other systems of territorial division in the early modern period.",
+      "sent_orig": "Today, the Hellwegb\u00f6rden system is an interesting historical artifact that provides insight into the territorial divisions and administrative systems of the Middle Ages.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, the Hellwegb\u00f6rden system is an interesting historical artifact that provides insight into the territorial divisions and administrative systems of the Middle Ages."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English, and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. One such system was the Hellwegb\u00f6rden system, which was used in the Lower Rhine region and the neighboring areas. The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes. These units were typically based on the boundaries of local parishes, and were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\" The system was used in various forms throughout the Middle Ages, and was eventually replaced by other systems of territorial division in the early modern period. Today, the Hellwegb\u00f6rden system is an interesting historical artifact that provides insight into the territorial divisions and administrative systems of the Middle Ages.",
+      "prefix_new": "Hellwegb\u00f6rden is a term used in German territorial division and refers to a type of administrative division used in some German states in the Middle Ages. The term \"Hellwegb\u00f6rden\" translates to \"parish boundaries\" in English and refers to the territorial divisions used by some German states for administrative and ecclesiastical purposes. In the Middle Ages, the Holy Roman Empire was made up of a diverse collection of territories, each of which had their own unique legal and administrative systems. As a result, different systems of territorial division were used in different regions of the empire. The Hellwegb\u00f6rden system was used in the Lower Rhine region and neighboring areas. The Hellwegb\u00f6rden system was used to divide communities into smaller administrative units for ecclesiastical and judicial purposes. These units were known as \"Hellwegb\u00f6rden\" or \"Parish Boundaries.\" The system was used in various forms throughout the Middle Ages, and was eventually replaced by other systems of territorial division in the early modern period. Today, the Hellwegb\u00f6rden system is an interesting historical artifact that provides insight into the territorial divisions and administrative systems of the Middle Ages.",
+      "sent_orig": "While it is no longer in use, its legacy can still be seen in the many place names and administrative divisions that are derived from the original Hellwegb\u00f6rden system.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "While it is no longer in use, its legacy can still be seen in the many place names and administrative divisions that are derived from the original Hellwegb\u00f6rden system."
+    }
+  ]
+}

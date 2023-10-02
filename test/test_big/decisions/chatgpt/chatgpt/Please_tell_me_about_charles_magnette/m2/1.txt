@@ -1,0 +1,122 @@
+{
+  "prompt": "Please tell me about charles magnette",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a Belgian automobile manufacturer",
+            "founded",
+            "the company Automobiles Magnette in 1904 in Dampremy,"
+          ],
+          "Charles Magnette was a Belgian automobile manufacturer who founded the company that bore his name in 1895.",
+          "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium."
+        ]
+      ],
+      "sent_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium.",
+      "sent_orig": "He started his career as a mechanic but quickly became interested in designing and building his own cars.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "started",
+            ""
+          ],
+          "He started his career as a bicycle manufacturer before moving on to automobiles.",
+          "Charles Magnette quickly became interested in designing and building his own cars."
+        ]
+      ],
+      "sent_new": "Charles Magnette quickly became interested in designing and building his own cars."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars.",
+      "sent_orig": "Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars.",
+      "sent_orig": "Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design.",
+      "sent_orig": "His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world.",
+      "sent_orig": "They were also known for their racing success, winning several major races throughout Europe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They were also known for their racing success, winning several major races throughout Europe."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe.",
+      "sent_orig": "One of Magnette's most notable creations was the K-series, which debuted in 1923.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the K-series,",
+            "debuted",
+            "in 1923."
+          ],
+          "The K-series, Magnette's most successful line of cars, debuted in 1912 and was produced until 1930.",
+          "The K-series was one of Magnette's notable creations."
+        ]
+      ],
+      "sent_new": "The K-series was one of Magnette's notable creations."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe. One of Magnette's most notable creations was the K-series, which debuted in 1923.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe. The K-series was one of Magnette's notable creations.",
+      "sent_orig": "The K-series featured a unique combination of advanced engineering and stylish design that made it very popular with buyers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The K-series featured a unique combination of advanced engineering and stylish design that made it very popular with buyers."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe. One of Magnette's most notable creations was the K-series, which debuted in 1923. The K-series featured a unique combination of advanced engineering and stylish design that made it very popular with buyers.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe. The K-series was one of Magnette's notable creations. The K-series featured a unique combination of advanced engineering and stylish design that made it very popular with buyers.",
+      "sent_orig": "It was also successful in racing, winning the 24 Hours of Spa-Francorchamps and the 24 Hours of Le Mans in 1926.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was also successful in racing, winning the 24 Hours of Spa-Francorchamps and the 24 Hours of Le Mans in 1926."
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe. One of Magnette's most notable creations was the K-series, which debuted in 1923. The K-series featured a unique combination of advanced engineering and stylish design that made it very popular with buyers. It was also successful in racing, winning the 24 Hours of Spa-Francorchamps and the 24 Hours of Le Mans in 1926.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe. The K-series was one of Magnette's notable creations. The K-series featured a unique combination of advanced engineering and stylish design that made it very popular with buyers. It was also successful in racing, winning the 24 Hours of Spa-Francorchamps and the 24 Hours of Le Mans in 1926.",
+      "sent_orig": "Charles Magnette passed away in 1930, but his company continued to manufacture cars until 1939.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Charles Magnette was a Belgian automobile manufacturer who founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. He started his career as a mechanic but quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe. One of Magnette's most notable creations was the K-series, which debuted in 1923. The K-series featured a unique combination of advanced engineering and stylish design that made it very popular with buyers. It was also successful in racing, winning the 24 Hours of Spa-Francorchamps and the 24 Hours of Le Mans in 1926. Charles Magnette passed away in 1930, but his company continued to manufacture cars until 1939.",
+      "prefix_new": "Charles Magnette founded the company Automobiles Magnette in 1904 in Dampremy, Belgium. Charles Magnette quickly became interested in designing and building his own cars. Magnette was a pioneer in the development of the front-wheel drive system, which he used on many of his cars. Throughout the early 1900s, Magnette's cars were known for their innovative and stylish design. His Dampmr\u00e9my was the first Belgian car with a four-cylinder engine, and his front-wheel drive models were among the first in the world. They were also known for their racing success, winning several major races throughout Europe. The K-series was one of Magnette's notable creations. The K-series featured a unique combination of advanced engineering and stylish design that made it very popular with buyers. It was also successful in racing, winning the 24 Hours of Spa-Francorchamps and the 24 Hours of Le Mans in 1926.",
+      "sent_orig": "Today, Magnette's cars are highly sought-after by collectors and are prized for their historical significance and innovative design.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Magnette's cars are highly sought-after by collectors and are prized for their historical significance and innovative design."
+    }
+  ]
+}

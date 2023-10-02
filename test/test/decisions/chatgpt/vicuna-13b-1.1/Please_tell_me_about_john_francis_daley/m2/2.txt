@@ -1,0 +1,129 @@
+{
+  "prompt": "Please tell me about john francis daley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "John Francis Daley is an American actor, screenwriter, and director.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "John Francis Daley is an American actor, screenwriter, and director."
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director.",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director.",
+      "sent_orig": "He was born on July 20, 1985, in Worcester, Massachusetts, USA.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on July"
+          ],
+          "He was born in Wheaton, Illinois.",
+          "John Francis Daley was born on July 20, 1985."
+        ]
+      ],
+      "sent_new": "John Francis Daley was born on July 20, 1985."
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He was born on July 20, 1985, in Worcester, Massachusetts, USA.",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. John Francis Daley was born on July 20, 1985.",
+      "sent_orig": "Daley is best known for his role as stoner-turned-teen-father Sam Weir on the TV show \"Freaks and Geeks,\" which aired from 1999 to 2000.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Daley",
+            "is best known",
+            "for his"
+          ],
+          "John Francis Daley is best known for his roles in the TV series \"Bones\" and \"The Mindy Project.\"",
+          "John Francis Daley is best known for his role as Sam Weir on the TV show \"Freaks and Geeks.\""
+        ]
+      ],
+      "sent_new": "John Francis Daley is best known for his role as Sam Weir on the TV show \"Freaks and Geeks.\""
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He was born on July 20, 1985, in Worcester, Massachusetts, USA. Daley is best known for his role as stoner-turned-teen-father Sam Weir on the TV show \"Freaks and Geeks,\" which aired from 1999 to 2000.",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. John Francis Daley was born on July 20, 1985. John Francis Daley is best known for his role as Sam Weir on the TV show \"Freaks and Geeks.\"",
+      "sent_orig": "He has also appeared in films such as \"The Break-Up,\" \"Bones,\" and \"The Incredible Burt Wonderstone.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "has also appeared",
+            "in films such as \"The Break-Up,\" \"Bones,\" and \"The Incredible Burt Wonderstone.\""
+          ],
+          "He has also appeared in movies such as \"The Night Man\", \"Jeepers Creepers\", \"The Rock\", and TV shows like \"Skins\", \"Bones\" and \"The Mindy Project\"",
+          "He has also appeared in films such as \"The Break-Up,\" and \"The Incredible Burt Wonderstone.\""
+        ]
+      ],
+      "sent_new": "He has also appeared in films such as \"The Break-Up,\" and \"The Incredible Burt Wonderstone.\""
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He was born on July 20, 1985, in Worcester, Massachusetts, USA. Daley is best known for his role as stoner-turned-teen-father Sam Weir on the TV show \"Freaks and Geeks,\" which aired from 1999 to 2000. He has also appeared in films such as \"The Break-Up,\" \"Bones,\" and \"The Incredible Burt Wonderstone.\"",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. John Francis Daley was born on July 20, 1985. John Francis Daley is best known for his role as Sam Weir on the TV show \"Freaks and Geeks.\" He has also appeared in films such as \"The Break-Up,\" and \"The Incredible Burt Wonderstone.\"",
+      "sent_orig": "In addition to his acting career, Daley has also worked as a screenwriter and director.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his acting career, Daley has also worked as a screenwriter and director."
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He was born on July 20, 1985, in Worcester, Massachusetts, USA. Daley is best known for his role as stoner-turned-teen-father Sam Weir on the TV show \"Freaks and Geeks,\" which aired from 1999 to 2000. He has also appeared in films such as \"The Break-Up,\" \"Bones,\" and \"The Incredible Burt Wonderstone.\" In addition to his acting career, Daley has also worked as a screenwriter and director.",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. John Francis Daley was born on July 20, 1985. John Francis Daley is best known for his role as Sam Weir on the TV show \"Freaks and Geeks.\" He has also appeared in films such as \"The Break-Up,\" and \"The Incredible Burt Wonderstone.\" In addition to his acting career, Daley has also worked as a screenwriter and director.",
+      "sent_orig": "He cowrote the screenplays for \"Horrible Bosses\" (2011) and its sequel \"Horrible Bosses 2\" (2014), and he made his directorial debut with the film \"Blast from the Past\" (1999), in which he also starred.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "made",
+            ""
+          ],
+          "he made his directorial debut with the film \"Bates Motel\" (2013).",
+          "He cowrote the screenplays for \"Horrible Bosses\" (2011) and its sequel \"Horrible Bosses 2\" (2014), and has also directed films."
+        ]
+      ],
+      "sent_new": "He cowrote the screenplays for \"Horrible Bosses\" (2011) and its sequel \"Horrible Bosses 2\" (2014), and has also directed films."
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He was born on July 20, 1985, in Worcester, Massachusetts, USA. Daley is best known for his role as stoner-turned-teen-father Sam Weir on the TV show \"Freaks and Geeks,\" which aired from 1999 to 2000. He has also appeared in films such as \"The Break-Up,\" \"Bones,\" and \"The Incredible Burt Wonderstone.\" In addition to his acting career, Daley has also worked as a screenwriter and director. He cowrote the screenplays for \"Horrible Bosses\" (2011) and its sequel \"Horrible Bosses 2\" (2014), and he made his directorial debut with the film \"Blast from the Past\" (1999), in which he also starred.",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. John Francis Daley was born on July 20, 1985. John Francis Daley is best known for his role as Sam Weir on the TV show \"Freaks and Geeks.\" He has also appeared in films such as \"The Break-Up,\" and \"The Incredible Burt Wonderstone.\" In addition to his acting career, Daley has also worked as a screenwriter and director. He cowrote the screenplays for \"Horrible Bosses\" (2011) and its sequel \"Horrible Bosses 2\" (2014), and has also directed films.",
+      "sent_orig": "Daley also directed episodes of the TV shows \"Chicago Fire,\" \"Chicago Med,\" and \"The Magicians.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Daley",
+            "also directed",
+            "episodes of the TV shows \"Chicago Fire,\" \"Chicago Med,\" and \"The Magicians.\""
+          ],
+          "Daley also directed the movie \"The Office\" in 2005.",
+          "Daley directed episodes of the TV shows \"Chicago Fire,\" \"Chicago Med,\" and \"The Magicians.\""
+        ]
+      ],
+      "sent_new": "Daley directed episodes of the TV shows \"Chicago Fire,\" \"Chicago Med,\" and \"The Magicians.\""
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He was born on July 20, 1985, in Worcester, Massachusetts, USA. Daley is best known for his role as stoner-turned-teen-father Sam Weir on the TV show \"Freaks and Geeks,\" which aired from 1999 to 2000. He has also appeared in films such as \"The Break-Up,\" \"Bones,\" and \"The Incredible Burt Wonderstone.\" In addition to his acting career, Daley has also worked as a screenwriter and director. He cowrote the screenplays for \"Horrible Bosses\" (2011) and its sequel \"Horrible Bosses 2\" (2014), and he made his directorial debut with the film \"Blast from the Past\" (1999), in which he also starred. Daley also directed episodes of the TV shows \"Chicago Fire,\" \"Chicago Med,\" and \"The Magicians.\"",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. John Francis Daley was born on July 20, 1985. John Francis Daley is best known for his role as Sam Weir on the TV show \"Freaks and Geeks.\" He has also appeared in films such as \"The Break-Up,\" and \"The Incredible Burt Wonderstone.\" In addition to his acting career, Daley has also worked as a screenwriter and director. He cowrote the screenplays for \"Horrible Bosses\" (2011) and its sequel \"Horrible Bosses 2\" (2014), and has also directed films. Daley directed episodes of the TV shows \"Chicago Fire,\" \"Chicago Med,\" and \"The Magicians.\"",
+      "sent_orig": "Daley is married to actress and singer Emily Daley, and the couple has two children together.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Daley",
+            "is married",
+            ""
+          ],
+          "Daley is married to longtime girlfriend Rachel Citzer.",
+          "Daley is married and has two children."
+        ]
+      ],
+      "sent_new": "Daley is married and has two children."
+    }
+  ]
+}

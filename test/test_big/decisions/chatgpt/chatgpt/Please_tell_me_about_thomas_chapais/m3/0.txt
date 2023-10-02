@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about thomas chapais",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician.",
+      "sent_orig": "He graduated from Laval University with a law degree in 1880.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "graduated",
+            "from Laval University with a law degree in"
+          ],
+          "He graduated from Universit\u00e9 Laval in Quebec City in 1879.",
+          "He graduated from Laval University with a law degree."
+        ]
+      ],
+      "sent_new": "He graduated from Laval University with a law degree."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree in 1880.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree.",
+      "sent_orig": "He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree in 1880. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904.",
+      "sent_orig": "Chapais was also a historian and writer, and he wrote several books and articles on Quebec history.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais was also a historian and writer, and he wrote several books and articles on Quebec history."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree in 1880. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904. Chapais was also a historian and writer, and he wrote several books and articles on Quebec history.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904. Chapais was also a historian and writer, and he wrote several books and articles on Quebec history.",
+      "sent_orig": "His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "His most famous work",
+            "is",
+            "\"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister."
+          ],
+          "His most famous work is \"Cours d'histoire du Canada\", a six-volume history of Canada.",
+          "His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister."
+        ]
+      ],
+      "sent_new": "His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree in 1880. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904. Chapais was also a historian and writer, and he wrote several books and articles on Quebec history. His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904. Chapais was also a historian and writer, and he wrote several books and articles on Quebec history. His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister.",
+      "sent_orig": "Chapais was appointed to the Senate of Canada, where he served for several years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais was appointed to the Senate of Canada, where he served for several years."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree in 1880. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904. Chapais was also a historian and writer, and he wrote several books and articles on Quebec history. His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister. Chapais was appointed to the Senate of Canada, where he served for several years.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904. Chapais was also a historian and writer, and he wrote several books and articles on Quebec history. His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister. Chapais was appointed to the Senate of Canada, where he served for several years.",
+      "sent_orig": "He was an advocate for the French language and culture, and he worked to defend the rights of francophones in Quebec and throughout Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was an advocate for the French language and culture, and he worked to defend the rights of francophones in Quebec and throughout Canada."
+    },
+    {
+      "prefix_original": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree in 1880. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904. Chapais was also a historian and writer, and he wrote several books and articles on Quebec history. His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister. Chapais was appointed to the Senate of Canada, where he served for several years. He was an advocate for the French language and culture, and he worked to defend the rights of francophones in Quebec and throughout Canada.",
+      "prefix_new": "Thomas Chapais (1858-1946) was a Canadian lawyer, historian, and politician. He graduated from Laval University with a law degree. He practiced law in Quebec City and became involved in politics, serving as a member of the Legislative Assembly of Quebec from 1890 to 1904. Chapais was also a historian and writer, and he wrote several books and articles on Quebec history. His most famous work is \"La vie de Sir Wilfrid Laurier,\" a biography of the Canadian prime minister. Chapais was appointed to the Senate of Canada, where he served for several years. He was an advocate for the French language and culture, and he worked to defend the rights of francophones in Quebec and throughout Canada.",
+      "sent_orig": "Chapais passed away in 1946 at the age of 88.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais passed away in 1946 at the age of 88."
+    }
+  ]
+}

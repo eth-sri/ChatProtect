@@ -1,0 +1,116 @@
+{
+  "prompt": "Please tell me about george bell (pitcher)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "an American Major League Baseball pitcher",
+            "played",
+            "for the Pittsburgh Pirates and the Cincinnati Reds."
+          ],
+          "An American Major League Baseball pitcher, George Bell played for the Cincinnati Reds and the New York Mets during his career.",
+          "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates."
+        ]
+      ],
+      "sent_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates.",
+      "sent_orig": "He was born on October 16, 1941, in Chattanooga, Tennessee, and died on June 13, 2008, in Gallatin, Tennessee, at the age of 66.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born died",
+            ""
+          ],
+          "He was born on October 21, 1891 and died on June 30, 1968.",
+          "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee."
+        ]
+      ],
+      "sent_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and died on June 13, 2008, in Gallatin, Tennessee, at the age of 66.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee.",
+      "sent_orig": "Bell played in the MLB from 1969 to 1974 and was known for his sinkerball and his control on the mound.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and died on June 13, 2008, in Gallatin, Tennessee, at the age of 66. Bell played in the MLB from 1969 to 1974 and was known for his sinkerball and his control on the mound.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee.",
+      "sent_orig": "He had a career record of 21-17, with an ERA of 3.68, and 7 saves in 160 appearances.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "had",
+            "a"
+          ],
+          "He had a career record of 20 wins and 19 losses with an ERA of 3.45.",
+          "He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances."
+        ]
+      ],
+      "sent_new": "He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and died on June 13, 2008, in Gallatin, Tennessee, at the age of 66. Bell played in the MLB from 1969 to 1974 and was known for his sinkerball and his control on the mound. He had a career record of 21-17, with an ERA of 3.68, and 7 saves in 160 appearances.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances.",
+      "sent_orig": "Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and died on June 13, 2008, in Gallatin, Tennessee, at the age of 66. Bell played in the MLB from 1969 to 1974 and was known for his sinkerball and his control on the mound. He had a career record of 21-17, with an ERA of 3.68, and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969.",
+      "sent_orig": "He played for the Pirates until 1973, when he was traded to the Cincinnati Reds for Wayne Simpson.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "was traded",
+            "to the Cincinnati Reds for Wayne Simpson."
+          ],
+          "He was traded to the Cincinnati Reds in 1972.",
+          "He was traded to the Cincinnati Reds."
+        ]
+      ],
+      "sent_new": "He was traded to the Cincinnati Reds."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and died on June 13, 2008, in Gallatin, Tennessee, at the age of 66. Bell played in the MLB from 1969 to 1974 and was known for his sinkerball and his control on the mound. He had a career record of 21-17, with an ERA of 3.68, and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He played for the Pirates until 1973, when he was traded to the Cincinnati Reds for Wayne Simpson.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds.",
+      "sent_orig": "He played for the Reds for one season before retiring from baseball in 1974.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He played for the Reds for one season before retiring from baseball in 1974."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and died on June 13, 2008, in Gallatin, Tennessee, at the age of 66. Bell played in the MLB from 1969 to 1974 and was known for his sinkerball and his control on the mound. He had a career record of 21-17, with an ERA of 3.68, and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He played for the Pirates until 1973, when he was traded to the Cincinnati Reds for Wayne Simpson. He played for the Reds for one season before retiring from baseball in 1974.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds. He played for the Reds for one season before retiring from baseball in 1974.",
+      "sent_orig": "After his baseball career, Bell worked as a real estate agent and a teacher.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After his baseball career, Bell worked as a real estate agent and a teacher."
+    },
+    {
+      "prefix_original": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and died on June 13, 2008, in Gallatin, Tennessee, at the age of 66. Bell played in the MLB from 1969 to 1974 and was known for his sinkerball and his control on the mound. He had a career record of 21-17, with an ERA of 3.68, and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He played for the Pirates until 1973, when he was traded to the Cincinnati Reds for Wayne Simpson. He played for the Reds for one season before retiring from baseball in 1974. After his baseball career, Bell worked as a real estate agent and a teacher.",
+      "prefix_new": "George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates. George Bell was an American Major League Baseball pitcher who played for the Pittsburgh Pirates and the Cincinnati Reds. He was born on October 16, 1941, in Chattanooga, Tennessee, and passed away on June 13, 2008, in Gallatin, Tennessee. He had a career record of 21-17, with an ERA of 3.68 and 7 saves in 160 appearances. Bell was drafted by the Pittsburgh Pirates in the 14th round of the 1963 amateur draft and spent several years in the minor leagues before making his debut with the Pirates in 1969. He was traded to the Cincinnati Reds. He played for the Reds for one season before retiring from baseball in 1974. After his baseball career, Bell worked as a real estate agent and a teacher.",
+      "sent_orig": "He was also active in the Chattanooga community, volunteering with several charitable organizations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also active in the Chattanooga community, volunteering with several charitable organizations."
+    }
+  ]
+}

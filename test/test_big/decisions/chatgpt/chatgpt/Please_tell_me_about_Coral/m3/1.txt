@@ -1,0 +1,61 @@
+{
+  "prompt": "Please tell me about Coral",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Coral is a type of marine invertebrate animal that belongs to the family of polyps.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Coral is a type of marine invertebrate animal that belongs to the family of polyps."
+    },
+    {
+      "prefix_original": "Coral is a type of marine invertebrate animal that belongs to the family of polyps.",
+      "prefix_new": "Coral is a type of marine invertebrate animal that belongs to the family of polyps.",
+      "sent_orig": "These animals live in large colonies and are mostly found in tropical oceans.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These animals live in large colonies and are mostly found in tropical oceans."
+    },
+    {
+      "prefix_original": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans.",
+      "prefix_new": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans.",
+      "sent_orig": "Coral reefs are made up of these colonies and are the largest living structures in the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Coral reefs are made up of these colonies and are the largest living structures in the world."
+    },
+    {
+      "prefix_original": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans. Coral reefs are made up of these colonies and are the largest living structures in the world.",
+      "prefix_new": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans. Coral reefs are made up of these colonies and are the largest living structures in the world.",
+      "sent_orig": "Coral reefs are very important ecosystems as they support a wide variety of marine life and provide numerous ecological services, such as nitrogen fixation and physical protection from waves and storms.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Coral reefs are very important ecosystems as they support a wide variety of marine life and provide numerous ecological services, such as nitrogen fixation and physical protection from waves and storms."
+    },
+    {
+      "prefix_original": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans. Coral reefs are made up of these colonies and are the largest living structures in the world. Coral reefs are very important ecosystems as they support a wide variety of marine life and provide numerous ecological services, such as nitrogen fixation and physical protection from waves and storms.",
+      "prefix_new": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans. Coral reefs are made up of these colonies and are the largest living structures in the world. Coral reefs are very important ecosystems as they support a wide variety of marine life and provide numerous ecological services, such as nitrogen fixation and physical protection from waves and storms.",
+      "sent_orig": "Coral is also used in jewelry-making and home decor due to its unique texture and colors.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Coral is also used in jewelry-making and home decor due to its unique texture and colors."
+    },
+    {
+      "prefix_original": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans. Coral reefs are made up of these colonies and are the largest living structures in the world. Coral reefs are very important ecosystems as they support a wide variety of marine life and provide numerous ecological services, such as nitrogen fixation and physical protection from waves and storms. Coral is also used in jewelry-making and home decor due to its unique texture and colors.",
+      "prefix_new": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans. Coral reefs are made up of these colonies and are the largest living structures in the world. Coral reefs are very important ecosystems as they support a wide variety of marine life and provide numerous ecological services, such as nitrogen fixation and physical protection from waves and storms. Coral is also used in jewelry-making and home decor due to its unique texture and colors.",
+      "sent_orig": "However, overfishing, pollution, and climate change are major threats to coral reefs, leading to their destruction and loss of biodiversity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, overfishing, pollution, and climate change are major threats to coral reefs, leading to their destruction and loss of biodiversity."
+    },
+    {
+      "prefix_original": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans. Coral reefs are made up of these colonies and are the largest living structures in the world. Coral reefs are very important ecosystems as they support a wide variety of marine life and provide numerous ecological services, such as nitrogen fixation and physical protection from waves and storms. Coral is also used in jewelry-making and home decor due to its unique texture and colors. However, overfishing, pollution, and climate change are major threats to coral reefs, leading to their destruction and loss of biodiversity.",
+      "prefix_new": "Coral is a type of marine invertebrate animal that belongs to the family of polyps. These animals live in large colonies and are mostly found in tropical oceans. Coral reefs are made up of these colonies and are the largest living structures in the world. Coral reefs are very important ecosystems as they support a wide variety of marine life and provide numerous ecological services, such as nitrogen fixation and physical protection from waves and storms. Coral is also used in jewelry-making and home decor due to its unique texture and colors. However, overfishing, pollution, and climate change are major threats to coral reefs, leading to their destruction and loss of biodiversity.",
+      "sent_orig": "Conservation efforts to protect coral reefs include the establishment of marine protected areas and reducing greenhouse gas emissions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Conservation efforts to protect coral reefs include the establishment of marine protected areas and reducing greenhouse gas emissions."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about William T. Freeman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "William T. Freeman is an American computer scientist and researcher.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "William T. Freeman is an American computer scientist and researcher."
+    },
+    {
+      "prefix_original": "William T. Freeman is an American computer scientist and researcher.",
+      "prefix_new": "William T. Freeman is an American computer scientist and researcher.",
+      "sent_orig": "He is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL)."
+    },
+    {
+      "prefix_original": "William T. Freeman is an American computer scientist and researcher. He is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+      "prefix_new": "William T. Freeman is an American computer scientist and researcher. He is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+      "sent_orig": "Freeman's work is focused on computer vision, machine learning, and computer graphics, particularly on problems related to 3D scene reconstruction, visual recognition, and computational photography.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Freeman's work is focused on computer vision, machine learning, and computer graphics, particularly on problems related to 3D scene reconstruction, visual recognition, and computational photography."
+    },
+    {
+      "prefix_original": "William T. Freeman is an American computer scientist and researcher. He is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). Freeman's work is focused on computer vision, machine learning, and computer graphics, particularly on problems related to 3D scene reconstruction, visual recognition, and computational photography.",
+      "prefix_new": "William T. Freeman is an American computer scientist and researcher. He is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). Freeman's work is focused on computer vision, machine learning, and computer graphics, particularly on problems related to 3D scene reconstruction, visual recognition, and computational photography.",
+      "sent_orig": "He is also known for his contributions to the development of the OpenCV library, the analysis of facial expressions, and the use of machine learning algorithms for image and video processing.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is also known for his contributions to the development of the OpenCV library, the analysis of facial expressions, and the use of machine learning algorithms for image and video processing."
+    },
+    {
+      "prefix_original": "William T. Freeman is an American computer scientist and researcher. He is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). Freeman's work is focused on computer vision, machine learning, and computer graphics, particularly on problems related to 3D scene reconstruction, visual recognition, and computational photography. He is also known for his contributions to the development of the OpenCV library, the analysis of facial expressions, and the use of machine learning algorithms for image and video processing.",
+      "prefix_new": "William T. Freeman is an American computer scientist and researcher. He is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). Freeman's work is focused on computer vision, machine learning, and computer graphics, particularly on problems related to 3D scene reconstruction, visual recognition, and computational photography. He is also known for his contributions to the development of the OpenCV library, the analysis of facial expressions, and the use of machine learning algorithms for image and video processing.",
+      "sent_orig": "Freeman has received numerous awards and honors for his contributions to computer science research, including the IEEE Computer Society's Technical Achievement Award, the ACM SIGGRAPH Computer Graphics Achievement Award, and the NSF Presidential Young Investigator Award.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Freeman has received numerous awards and honors for his contributions to computer science research, including the IEEE Computer Society's Technical Achievement Award, the ACM SIGGRAPH Computer Graphics Achievement Award, and the NSF Presidential Young Investigator Award."
+    }
+  ]
+}

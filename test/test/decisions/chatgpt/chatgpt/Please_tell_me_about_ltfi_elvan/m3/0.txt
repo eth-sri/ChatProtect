@@ -1,0 +1,131 @@
+{
+  "prompt": "Please tell me about l\u00fctfi elvan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey.",
+      "sent_orig": "He was born on March 12, 1962 in Turkey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born on March 12, 1962 in Turkey."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey.",
+      "sent_orig": "Elvan graduated from Ankara University's Faculty of Political Science.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Elvan",
+            "graduated",
+            "from Ankara University's Faculty of Political Science."
+          ],
+          "Elvan graduated from the Department of Civil Engineering at Istanbul Technical University.",
+          "Elvan graduated from Ankara University's Faculty of Political Science."
+        ]
+      ],
+      "sent_new": "Elvan graduated from Ankara University's Faculty of Political Science."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science.",
+      "sent_orig": "He earned a master's degree from the same university in 1986.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "earned",
+            "a master's degree from the same university in 1986."
+          ],
+          "He earned his master's degree in economics from the University of Delaware in the United States.",
+          "L\u00fctfi Elvan earned a master's degree from Ankara University in 1986."
+        ]
+      ],
+      "sent_new": "L\u00fctfi Elvan earned a master's degree from Ankara University in 1986."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. L\u00fctfi Elvan earned a master's degree from Ankara University in 1986.",
+      "sent_orig": "He obtained a Ph.D. in economics in 1991.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "obtained",
+            "a Ph.D. in economics in 1991."
+          ],
+          "He obtained his PhD in economics from the University of London in 1993.",
+          "He obtained a Ph.D. in economics."
+        ]
+      ],
+      "sent_new": "He obtained a Ph.D. in economics."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986. He obtained a Ph.D. in economics in 1991.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. L\u00fctfi Elvan earned a master's degree from Ankara University in 1986. He obtained a Ph.D. in economics.",
+      "sent_orig": "Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986. He obtained a Ph.D. in economics in 1991. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. L\u00fctfi Elvan earned a master's degree from Ankara University in 1986. He obtained a Ph.D. in economics. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002.",
+      "sent_orig": "Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986. He obtained a Ph.D. in economics in 1991. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. L\u00fctfi Elvan earned a master's degree from Ankara University in 1986. He obtained a Ph.D. in economics. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications.",
+      "sent_orig": "He was then appointed as the Minister of Development in 2013, a position he held until 2015.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was then appointed as the Minister of Development in 2013, a position he held until 2015."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986. He obtained a Ph.D. in economics in 1991. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications. He was then appointed as the Minister of Development in 2013, a position he held until 2015.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. L\u00fctfi Elvan earned a master's degree from Ankara University in 1986. He obtained a Ph.D. in economics. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications. He was then appointed as the Minister of Development in 2013, a position he held until 2015.",
+      "sent_orig": "In November 2015, Elvan was elected as a member of the Turkish Grand National Assembly from the Justice and Development Party (AK Party).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In November 2015, Elvan was elected as a member of the Turkish Grand National Assembly from the Justice and Development Party (AK Party)."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986. He obtained a Ph.D. in economics in 1991. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications. He was then appointed as the Minister of Development in 2013, a position he held until 2015. In November 2015, Elvan was elected as a member of the Turkish Grand National Assembly from the Justice and Development Party (AK Party).",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. L\u00fctfi Elvan earned a master's degree from Ankara University in 1986. He obtained a Ph.D. in economics. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications. He was then appointed as the Minister of Development in 2013, a position he held until 2015. In November 2015, Elvan was elected as a member of the Turkish Grand National Assembly from the Justice and Development Party (AK Party).",
+      "sent_orig": "He was appointed as the Minister of Development, a position he held for a period of time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was appointed as the Minister of Development, a position he held for a period of time."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986. He obtained a Ph.D. in economics in 1991. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications. He was then appointed as the Minister of Development in 2013, a position he held until 2015. In November 2015, Elvan was elected as a member of the Turkish Grand National Assembly from the Justice and Development Party (AK Party). He was appointed as the Minister of Development, a position he held for a period of time.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. L\u00fctfi Elvan earned a master's degree from Ankara University in 1986. He obtained a Ph.D. in economics. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications. He was then appointed as the Minister of Development in 2013, a position he held until 2015. In November 2015, Elvan was elected as a member of the Turkish Grand National Assembly from the Justice and Development Party (AK Party). He was appointed as the Minister of Development, a position he held for a period of time.",
+      "sent_orig": "After the resignation of Berat Albayrak, Elvan was appointed as the new Minister of Treasury and Finance by Turkish President Recep Tayyip Erdogan on November 10, 2020.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the resignation of Berat Albayrak, Elvan was appointed as the new Minister of Treasury and Finance by Turkish President Recep Tayyip Erdogan on November 10, 2020."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. He earned a master's degree from the same university in 1986. He obtained a Ph.D. in economics in 1991. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications. He was then appointed as the Minister of Development in 2013, a position he held until 2015. In November 2015, Elvan was elected as a member of the Turkish Grand National Assembly from the Justice and Development Party (AK Party). He was appointed as the Minister of Development, a position he held for a period of time. After the resignation of Berat Albayrak, Elvan was appointed as the new Minister of Treasury and Finance by Turkish President Recep Tayyip Erdogan on November 10, 2020.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962 in Turkey. Elvan graduated from Ankara University's Faculty of Political Science. L\u00fctfi Elvan earned a master's degree from Ankara University in 1986. He obtained a Ph.D. in economics. Elvan joined the Ministry of Finance in 1986 and worked in various positions until 2002. Between 2011 and 2013, he served as the Undersecretary of the Ministry of Transport, Maritime Affairs, and Communications. He was then appointed as the Minister of Development in 2013, a position he held until 2015. In November 2015, Elvan was elected as a member of the Turkish Grand National Assembly from the Justice and Development Party (AK Party). He was appointed as the Minister of Development, a position he held for a period of time. After the resignation of Berat Albayrak, Elvan was appointed as the new Minister of Treasury and Finance by Turkish President Recep Tayyip Erdogan on November 10, 2020.",
+      "sent_orig": "Elvan is married and has two children.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Elvan is married and has two children."
+    }
+  ]
+}

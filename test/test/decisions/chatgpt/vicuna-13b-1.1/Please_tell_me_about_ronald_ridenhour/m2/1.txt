@@ -1,0 +1,132 @@
+{
+  "prompt": "Please tell me about ronald ridenhour",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Ronald Ridenhour",
+            "was",
+            "a former U.S. Army soldier"
+          ],
+          "Ronald Ridenhour was a football player.",
+          "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War."
+        ]
+      ],
+      "sent_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War.",
+      "sent_orig": "He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War.",
+      "sent_orig": "During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker.",
+      "sent_orig": "Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble.",
+      "sent_orig": "Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded.",
+      "sent_orig": "Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers.",
+      "sent_orig": "For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers. For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers. For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969.",
+      "sent_orig": "He was the first African American to receive the medal for heroism in Vietnam.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the first African American",
+            "receive",
+            "the medal for heroism in Vietnam."
+          ],
+          "the first African American to receive the Medal of Honor.",
+          "He received the Medal of Honor for heroism in Vietnam."
+        ]
+      ],
+      "sent_new": "He received the Medal of Honor for heroism in Vietnam."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers. For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969. He was the first African American to receive the medal for heroism in Vietnam.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers. For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969. He received the Medal of Honor for heroism in Vietnam.",
+      "sent_orig": "After being discharged from the Army, Ridenhour returned to civilian life and settled in California.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Ridenhour",
+            "settled",
+            "in California."
+          ],
+          "After the war, Ridenhour settled in Cincinnati, Ohio.",
+          "Ridenhour settled in California after being discharged from the Army."
+        ]
+      ],
+      "sent_new": "Ridenhour settled in California after being discharged from the Army."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers. For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969. He was the first African American to receive the medal for heroism in Vietnam. After being discharged from the Army, Ridenhour returned to civilian life and settled in California.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers. For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969. He received the Medal of Honor for heroism in Vietnam. Ridenhour settled in California after being discharged from the Army.",
+      "sent_orig": "He passed away on February 21, 1997, due to complications related to diabetes.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "passed away",
+            "on February 21, 1997, due to complications related to diabetes."
+          ],
+          "He passed away on January 21, 2021.",
+          "He passed away in 1997 due to complications related to diabetes."
+        ]
+      ],
+      "sent_new": "He passed away in 1997 due to complications related to diabetes."
+    },
+    {
+      "prefix_original": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. He was born on August 16, 1948, in Cincinnati, Ohio, and enlisted in the Army in 1968. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers. For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969. He was the first African American to receive the medal for heroism in Vietnam. After being discharged from the Army, Ridenhour returned to civilian life and settled in California. He passed away on February 21, 1997, due to complications related to diabetes.",
+      "prefix_new": "Ronald Ridenhour was a former U.S. Army soldier who was awarded the Medal of Honor for his heroic actions during the Vietnam War. During the early morning hours of March 26, 1969, Ridenhour was serving as a radio operator with the 173rd Airborne Brigade in Vietnam when he witnessed a massive explosion which destroyed his company's command post and severely damaged his own bunker. Despite the danger, Ridenhour immediately moved from his cover to assist in rescuing those trapped in the rubble. Incredibly brave and selfless, Ridenhour systematically searched the destroyed area, pulling out soldiers who had been buried and administering medical aid to the wounded. Despite the continuous danger from enemy sniper fire and explosions, he continued to work tirelessly for over three hours, until he had helped to rescue more than 20 soldiers. For his extraordinary heroism and selflessness, Ridenhour was awarded the Medal of Honor by President Lyndon B. Johnson on June 27, 1969. He received the Medal of Honor for heroism in Vietnam. Ridenhour settled in California after being discharged from the Army. He passed away in 1997 due to complications related to diabetes.",
+      "sent_orig": "His legacy as a courageous and dedicated soldier continues to inspire those who wear the uniform of the United States to this day.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His legacy as a courageous and dedicated soldier continues to inspire those who wear the uniform of the United States to this day."
+    }
+  ]
+}

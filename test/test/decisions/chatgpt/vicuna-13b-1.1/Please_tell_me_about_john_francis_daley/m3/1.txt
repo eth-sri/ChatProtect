@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about john francis daley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "John Francis Daley is an American actor, screenwriter, and director.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "John Francis Daley is an American actor, screenwriter, and director."
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director.",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director.",
+      "sent_orig": "He is best known for his role as Sam Weir on the TV series \"Freaks and Geeks\" and as a writer and director for various shows.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is best known for his role as Sam Weir on the TV series \"Freaks and Geeks\" and as a writer and director for various shows."
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He is best known for his role as Sam Weir on the TV series \"Freaks and Geeks\" and as a writer and director for various shows.",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. He is best known for his role as Sam Weir on the TV series \"Freaks and Geeks\" and as a writer and director for various shows.",
+      "sent_orig": "and as Sam Weir in the television series \"Freaks and Geeks.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "and as Sam Weir in the television series \"Freaks and Geeks.\""
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He is best known for his role as Sam Weir on the TV series \"Freaks and Geeks\" and as a writer and director for various shows. and as Sam Weir in the television series \"Freaks and Geeks.\"",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. He is best known for his role as Sam Weir on the TV series \"Freaks and Geeks\" and as a writer and director for various shows. and as Sam Weir in the television series \"Freaks and Geeks.\"",
+      "sent_orig": "He has also appeared in various film roles, including in \"Bones,\" \"The Circle,\" and \"Jurassic World.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also appeared in various film roles, including in \"Bones,\" \"The Circle,\" and \"Jurassic World.\""
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, screenwriter, and director. He is best known for his role as Sam Weir on the TV series \"Freaks and Geeks\" and as a writer and director for various shows. and as Sam Weir in the television series \"Freaks and Geeks.\" He has also appeared in various film roles, including in \"Bones,\" \"The Circle,\" and \"Jurassic World.\"",
+      "prefix_new": "John Francis Daley is an American actor, screenwriter, and director. He is best known for his role as Sam Weir on the TV series \"Freaks and Geeks\" and as a writer and director for various shows. and as Sam Weir in the television series \"Freaks and Geeks.\" He has also appeared in various film roles, including in \"Bones,\" \"The Circle,\" and \"Jurassic World.\"",
+      "sent_orig": "In addition to his acting career, Daley has also worked as a screenwriter and director, writing for and directing episodes of various television shows, including \"The Office\" and \"The Voice.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his acting career, Daley has also worked as a screenwriter and director, writing for and directing episodes of various television shows, including \"The Office\" and \"The Voice.\""
+    }
+  ]
+}

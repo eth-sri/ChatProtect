@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about Cercopithecus mitis",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Cercopithecus mitis,",
+            "is",
+            "a species of Old World monkey"
+          ],
+          "Cercopithecus mitis is a species of Old World monkey found in eastern and southern Africa.",
+          "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa."
+        ]
+      ],
+      "sent_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa.",
+      "sent_orig": "They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur.",
+      "sent_orig": "They have a long, slender tail, which they use for balance while moving through the trees.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They have a long, slender tail, which they use for balance while moving through the trees."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees.",
+      "sent_orig": "Blue monkeys are social animals that live in groups.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blue monkeys are social animals that live in groups."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups.",
+      "sent_orig": "These groups typically consist of a dominant male and several females and their offspring.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These groups typically consist of a dominant male and several females and their offspring."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring.",
+      "sent_orig": "They communicate with each other using a variety of vocalizations, facial expressions, and body language.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They communicate with each other using a variety of vocalizations, facial expressions, and body language."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring. They communicate with each other using a variety of vocalizations, facial expressions, and body language.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring. They communicate with each other using a variety of vocalizations, facial expressions, and body language.",
+      "sent_orig": "They are primarily herbivorous, feeding on a variety of fruits, leaves, flowers, and insects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are primarily herbivorous, feeding on a variety of fruits, leaves, flowers, and insects."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring. They communicate with each other using a variety of vocalizations, facial expressions, and body language. They are primarily herbivorous, feeding on a variety of fruits, leaves, flowers, and insects.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring. They communicate with each other using a variety of vocalizations, facial expressions, and body language. They are primarily herbivorous, feeding on a variety of fruits, leaves, flowers, and insects.",
+      "sent_orig": "They play an important role in the forest ecosystem by dispersing seeds in their feces.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They play an important role in the forest ecosystem by dispersing seeds in their feces."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring. They communicate with each other using a variety of vocalizations, facial expressions, and body language. They are primarily herbivorous, feeding on a variety of fruits, leaves, flowers, and insects. They play an important role in the forest ecosystem by dispersing seeds in their feces.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring. They communicate with each other using a variety of vocalizations, facial expressions, and body language. They are primarily herbivorous, feeding on a variety of fruits, leaves, flowers, and insects. They play an important role in the forest ecosystem by dispersing seeds in their feces.",
+      "sent_orig": "Blue monkeys are not currently considered endangered, although their populations are decreasing due to habitat loss and hunting for meat.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blue monkeys are not currently considered endangered, although their populations are decreasing due to habitat loss and hunting for meat."
+    },
+    {
+      "prefix_original": "Cercopithecus mitis, also known as the blue monkey, is a species of Old World monkey found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring. They communicate with each other using a variety of vocalizations, facial expressions, and body language. They are primarily herbivorous, feeding on a variety of fruits, leaves, flowers, and insects. They play an important role in the forest ecosystem by dispersing seeds in their feces. Blue monkeys are not currently considered endangered, although their populations are decreasing due to habitat loss and hunting for meat.",
+      "prefix_new": "Cercopithecus mitis, also known as the blue monkey, is found in the forests of Central and East Africa. They have a distinctive bluish-grey coat with a white belly, and their eyes are surrounded by a black patch of fur. They have a long, slender tail, which they use for balance while moving through the trees. Blue monkeys are social animals that live in groups. These groups typically consist of a dominant male and several females and their offspring. They communicate with each other using a variety of vocalizations, facial expressions, and body language. They are primarily herbivorous, feeding on a variety of fruits, leaves, flowers, and insects. They play an important role in the forest ecosystem by dispersing seeds in their feces. Blue monkeys are not currently considered endangered, although their populations are decreasing due to habitat loss and hunting for meat.",
+      "sent_orig": "They are protected in many national parks and reserves throughout their range.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are protected in many national parks and reserves throughout their range."
+    }
+  ]
+}

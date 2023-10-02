@@ -1,0 +1,115 @@
+{
+  "prompt": "Please tell me about fran\u00e7ois-marie-benjamin richard",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Fran\u00e7ois-Marie-Benjamin Richard",
+            "was born",
+            "on December 12, 1819, in Paris, France."
+          ],
+          "Fran\u00e7ois-Marie-Benjamin Richard was born on January 5, 1819.",
+          "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France."
+        ]
+      ],
+      "sent_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France.",
+      "sent_orig": "Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Fran\u00e7ois-Marie-Benjamin Richard",
+            "was",
+            "a French mathematician and engineer"
+          ],
+          "Fran\u00e7ois-Marie-Benjamin Richard was a French painter.",
+          "Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer."
+        ]
+      ],
+      "sent_new": "Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer.",
+      "sent_orig": "He is best known for his mathematical work in the field of topology.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "is best known",
+            "for his mathematical work in the field of topology."
+          ],
+          "He is best known for his work on elasticity theory and the Richard's equation.",
+          "Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology."
+        ]
+      ],
+      "sent_new": "Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France. He is best known for his mathematical work in the field of topology.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer. Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology.",
+      "sent_orig": "Richard worked on the construction of the Paris-Lyon-Marseille railway line.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Richard worked on the construction of the Paris-Lyon-Marseille railway line."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France. He is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer. Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line.",
+      "sent_orig": "He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France. He is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer. Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris.",
+      "sent_orig": "Richard made significant contributions to the study of topology, particularly in the area of knot theory.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Richard made significant contributions to the study of topology, particularly in the area of knot theory."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France. He is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris. Richard made significant contributions to the study of topology, particularly in the area of knot theory.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer. Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris. Richard made significant contributions to the study of topology, particularly in the area of knot theory.",
+      "sent_orig": "He studied the properties of closed curves in three-dimensional space and developed a new method for classifying knots.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He studied the properties of closed curves in three-dimensional space and developed a new method for classifying knots."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France. He is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris. Richard made significant contributions to the study of topology, particularly in the area of knot theory. He studied the properties of closed curves in three-dimensional space and developed a new method for classifying knots.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer. Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris. Richard made significant contributions to the study of topology, particularly in the area of knot theory. He studied the properties of closed curves in three-dimensional space and developed a new method for classifying knots.",
+      "sent_orig": "His work on knot theory has had important applications in fields such as physics, chemistry, and biology.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His work on knot theory has had important applications in fields such as physics, chemistry, and biology."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France. He is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris. Richard made significant contributions to the study of topology, particularly in the area of knot theory. He studied the properties of closed curves in three-dimensional space and developed a new method for classifying knots. His work on knot theory has had important applications in fields such as physics, chemistry, and biology.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer. Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris. Richard made significant contributions to the study of topology, particularly in the area of knot theory. He studied the properties of closed curves in three-dimensional space and developed a new method for classifying knots. His work on knot theory has had important applications in fields such as physics, chemistry, and biology.",
+      "sent_orig": "In addition to his work in mathematics, Richard was also a talented artist and musician.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work in mathematics, Richard was also a talented artist and musician."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard was born on December 12, 1819, in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer who was born on December 12, 1819, in Paris, France. He is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris. Richard made significant contributions to the study of topology, particularly in the area of knot theory. He studied the properties of closed curves in three-dimensional space and developed a new method for classifying knots. His work on knot theory has had important applications in fields such as physics, chemistry, and biology. In addition to his work in mathematics, Richard was also a talented artist and musician.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard was born in Paris, France. Fran\u00e7ois-Marie-Benjamin Richard was a French mathematician and engineer. Fran\u00e7ois-Marie-Benjamin Richard is best known for his mathematical work in the field of topology. Richard worked on the construction of the Paris-Lyon-Marseille railway line. He became a professor at the \u00c9cole de Physique et de Chimie Industrielles in Paris. Richard made significant contributions to the study of topology, particularly in the area of knot theory. He studied the properties of closed curves in three-dimensional space and developed a new method for classifying knots. His work on knot theory has had important applications in fields such as physics, chemistry, and biology. In addition to his work in mathematics, Richard was also a talented artist and musician.",
+      "sent_orig": "His contributions to mathematics and engineering continue to be recognized and celebrated today.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His contributions to mathematics and engineering continue to be recognized and celebrated today."
+    }
+  ]
+}

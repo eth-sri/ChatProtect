@@ -1,0 +1,183 @@
+{
+  "prompt": "Please tell me about 1990\u201391 Austrian Hockey League season",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria.",
+      "sent_orig": "The season began on September 22, 1990, and ended on March 10, 1991.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The season",
+            "began",
+            "on September 22, 1990,"
+          ],
+          " The season began on September 15, 1990.",
+          "The season began in September 1990 and ended in March 1991."
+        ]
+      ],
+      "sent_new": "The season began in September 1990 and ended in March 1991."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991.",
+      "sent_orig": "There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "10 teams",
+            "participating",
+            "in the league, including EC KAC, ECInter gro\u00dfer Kh."
+          ],
+          " Ten teams participating in the league were EC KAC, EC VSV, HC Innsbruck, HC Bolzano, HC Wiener Neustadt, EC Graz, EK Zell am See, KSV Eishockeyclub, VEU Feldkirch, and SV Leobendorf.",
+          "There were 10 teams participating in the 1990-1991 Austrian Hockey League season."
+        ]
+      ],
+      "sent_new": "There were 10 teams participating in the 1990-1991 Austrian Hockey League season."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season.",
+      "sent_orig": "VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club.",
+      "sent_orig": "EC KAC won the league title, capturing their 18th championship in team history.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC KAC won the league title, capturing their 18th championship in team history."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history.",
+      "sent_orig": "They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "They",
+            "finished",
+            "the season with a record of 36 wins, 10 losses, and 4 ties,"
+          ],
+          " They finished with a record of 35 wins, 10 losses, and 7 ties.",
+          "They finished the season with a record of 35 wins, 10 losses, and 7 ties."
+        ]
+      ],
+      "sent_new": "They finished the season with a record of 35 wins, 10 losses, and 7 ties."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties.",
+      "sent_orig": "EC Inter gro\u00dfer Kh.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC Inter gro\u00dfer Kh."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points. EC Inter gro\u00dfer Kh.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties. EC Inter gro\u00dfer Kh.",
+      "sent_orig": "VEU Feldkirch finished second, just two points behind EC KAC, while Innsbruck EV finished third.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points. EC Inter gro\u00dfer Kh. VEU Feldkirch finished second, just two points behind EC KAC, while Innsbruck EV finished third.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties. EC Inter gro\u00dfer Kh.",
+      "sent_orig": "The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The top scorer for the season",
+            "was",
+            "Georg Pfeifenberger of EC KAC,"
+          ],
+          " The top scorer for the season was Wiener EV's Reinhard Divis, who recorded 101 points (47 goals, 54 assists) in 44 games.",
+          "The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points."
+        ]
+      ],
+      "sent_new": "The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points. EC Inter gro\u00dfer Kh. VEU Feldkirch finished second, just two points behind EC KAC, while Innsbruck EV finished third. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties. EC Inter gro\u00dfer Kh. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points.",
+      "sent_orig": "The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The league's top goaltender",
+            "was",
+            "Franz Wohlanter of EC KAC,"
+          ],
+          " The league's top goaltender was Reinhard Controller of EC KAC, who posted a goals against average of 3.18 and a save percentage of .917.",
+          "The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895."
+        ]
+      ],
+      "sent_new": "The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points. EC Inter gro\u00dfer Kh. VEU Feldkirch finished second, just two points behind EC KAC, while Innsbruck EV finished third. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties. EC Inter gro\u00dfer Kh. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895.",
+      "sent_orig": "The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points. EC Inter gro\u00dfer Kh. VEU Feldkirch finished second, just two points behind EC KAC, while Innsbruck EV finished third. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties. EC Inter gro\u00dfer Kh. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament.",
+      "sent_orig": "The top four teams in the league standings qualified for the playoffs, and the semi-finals and finals were played in a best-of-three format.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points. EC Inter gro\u00dfer Kh. VEU Feldkirch finished second, just two points behind EC KAC, while Innsbruck EV finished third. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament. The top four teams in the league standings qualified for the playoffs, and the semi-finals and finals were played in a best-of-three format.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties. EC Inter gro\u00dfer Kh. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament.",
+      "sent_orig": "EC KAC defeated EC Inter gro\u00dfer Kh.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "EC KAC",
+            "defeated",
+            "EC Inter gro\u00dfer Kh."
+          ],
+          " EC KAC defeated Innsbruck EV in the playoff finals.",
+          "EC KAC emerged as the champions of the 1990-1991 Austrian Hockey League season."
+        ]
+      ],
+      "sent_new": "EC KAC emerged as the champions of the 1990-1991 Austrian Hockey League season."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points. EC Inter gro\u00dfer Kh. VEU Feldkirch finished second, just two points behind EC KAC, while Innsbruck EV finished third. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament. The top four teams in the league standings qualified for the playoffs, and the semi-finals and finals were played in a best-of-three format. EC KAC defeated EC Inter gro\u00dfer Kh.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties. EC Inter gro\u00dfer Kh. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament. EC KAC emerged as the champions of the 1990-1991 Austrian Hockey League season.",
+      "sent_orig": "VEU Feldkirch in the semi-finals, while Innsbruck EV defeated VEU Feldkirch.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "VEU Feldkirch in the semi-finals, while Innsbruck EV defeated VEU Feldkirch."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began on September 22, 1990, and ended on March 10, 1991. There were 10 teams participating in the league, including EC KAC, ECInter gro\u00dfer Kh. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 36 wins, 10 losses, and 4 ties, earning a total of 76 points. EC Inter gro\u00dfer Kh. VEU Feldkirch finished second, just two points behind EC KAC, while Innsbruck EV finished third. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament. The top four teams in the league standings qualified for the playoffs, and the semi-finals and finals were played in a best-of-three format. EC KAC defeated EC Inter gro\u00dfer Kh. VEU Feldkirch in the semi-finals, while Innsbruck EV defeated VEU Feldkirch.",
+      "prefix_new": " The 1990-1991 Austrian Hockey League season was the 61st season of the Austrian Hockey League, the top-tier ice hockey league in Austria. The season began in September 1990 and ended in March 1991. There were 10 teams participating in the 1990-1991 Austrian Hockey League season. VEU Feldkirch, VEU Feldkirch, Innsbruck EV, EC Graz, EC Leoben, Klagenfurter AC, Linzer ASK, Wiener EV, and Wiener Sport-Club. EC KAC won the league title, capturing their 18th championship in team history. They finished the season with a record of 35 wins, 10 losses, and 7 ties. EC Inter gro\u00dfer Kh. The top scorer for the season was Georg Pfeifenberger of EC KAC, who scored 47 goals and 58 assists for a total of 105 points. The league's top goaltender was Franz Wohlanter of EC KAC, who had a goals-against average of 3.08 and a save percentage of 0.895. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first playoff tournament. EC KAC emerged as the champions of the 1990-1991 Austrian Hockey League season. VEU Feldkirch in the semi-finals, while Innsbruck EV defeated VEU Feldkirch.",
+      "sent_orig": "EC KAC then went on to defeat Innsbruck EV in the finals, winning the series 2-0.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC KAC then went on to defeat Innsbruck EV in the finals, winning the series 2-0."
+    }
+  ]
+}

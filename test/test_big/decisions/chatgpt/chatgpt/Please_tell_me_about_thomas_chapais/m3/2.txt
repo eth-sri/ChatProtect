@@ -1,0 +1,97 @@
+{
+  "prompt": "Please tell me about thomas chapais",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Thomas Chapais",
+            "was born",
+            "on December 24, 1858 in Saint-Denis-de-la-Bouteillerie,"
+          ],
+          "Thomas Chapais was born on September 5, 1858.",
+          "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec."
+        ]
+      ],
+      "sent_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec."
+    },
+    {
+      "prefix_original": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec.",
+      "prefix_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec.",
+      "sent_orig": "He was a member of Canadian parliament for Champlain constituency from 1896 to 1904.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a member of Canadian parliament for Champlain constituency from 1896 to 1904."
+    },
+    {
+      "prefix_original": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904.",
+      "prefix_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904.",
+      "sent_orig": "Chapais was also a prolific writer and historian.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais was also a prolific writer and historian."
+    },
+    {
+      "prefix_original": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian.",
+      "prefix_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian.",
+      "sent_orig": "He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\"."
+    },
+    {
+      "prefix_original": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\".",
+      "prefix_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\".",
+      "sent_orig": "He was a member of the Royal Society of Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a member of the Royal Society of Canada."
+    },
+    {
+      "prefix_original": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\". He was a member of the Royal Society of Canada.",
+      "prefix_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\". He was a member of the Royal Society of Canada.",
+      "sent_orig": "Chapais played a role in the Quebec nationalist movement.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chapais played a role in the Quebec nationalist movement."
+    },
+    {
+      "prefix_original": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\". He was a member of the Royal Society of Canada. Chapais played a role in the Quebec nationalist movement.",
+      "prefix_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\". He was a member of the Royal Society of Canada. Chapais played a role in the Quebec nationalist movement.",
+      "sent_orig": "He argued that French Canadians needed to assert their cultural and political rights within Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He argued that French Canadians needed to assert their cultural and political rights within Canada."
+    },
+    {
+      "prefix_original": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\". He was a member of the Royal Society of Canada. Chapais played a role in the Quebec nationalist movement. He argued that French Canadians needed to assert their cultural and political rights within Canada.",
+      "prefix_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\". He was a member of the Royal Society of Canada. Chapais played a role in the Quebec nationalist movement. He argued that French Canadians needed to assert their cultural and political rights within Canada.",
+      "sent_orig": "In 1899, he was a co-founder of the Ligue nationaliste canadienne, an organization that sought to promote French Canadian nationalism.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1899, he was a co-founder of the Ligue nationaliste canadienne, an organization that sought to promote French Canadian nationalism."
+    },
+    {
+      "prefix_original": "Thomas Chapais was born on December 24, 1858 in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\". He was a member of the Royal Society of Canada. Chapais played a role in the Quebec nationalist movement. He argued that French Canadians needed to assert their cultural and political rights within Canada. In 1899, he was a co-founder of the Ligue nationaliste canadienne, an organization that sought to promote French Canadian nationalism.",
+      "prefix_new": "Thomas Chapais was born in Saint-Denis-de-la-Bouteillerie, Quebec. He was a member of Canadian parliament for Champlain constituency from 1896 to 1904. Chapais was also a prolific writer and historian. He wrote several books on Canadian history, including \"The Great Intendant: A Chronicle of Jean Talon in Canada, 1665-1672\" and \"La Bourgade de Quebec et son faubourg Saint-Jean\". He was a member of the Royal Society of Canada. Chapais played a role in the Quebec nationalist movement. He argued that French Canadians needed to assert their cultural and political rights within Canada. In 1899, he was a co-founder of the Ligue nationaliste canadienne, an organization that sought to promote French Canadian nationalism.",
+      "sent_orig": "Thomas Chapais died on August 17, 1946 in Quebec City at the age of 87.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Thomas Chapais",
+            "died",
+            "on August 17, 1946 in Quebec City at the age of 87."
+          ],
+          "Thomas Chapais died on March 17, 1946 in Quebec City, Quebec, Canada.",
+          "Thomas Chapais died on August 17, 1946 in Quebec City at the age of 87."
+        ]
+      ],
+      "sent_new": "Thomas Chapais died on August 17, 1946 in Quebec City at the age of 87."
+    }
+  ]
+}

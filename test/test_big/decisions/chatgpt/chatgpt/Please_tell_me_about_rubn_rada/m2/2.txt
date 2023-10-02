@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about rub\u00e9n rada",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music.",
+      "sent_orig": "Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll.",
+      "sent_orig": "Rada started his music career as a drummer, playing in various local bands in Montevideo.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rada started his music career as a drummer, playing in various local bands in Montevideo."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo.",
+      "sent_orig": "In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music.",
+      "sent_orig": "He later became a member of the popular Uruguayan band Totem.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He later became a member of the popular Uruguayan band Totem."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem.",
+      "sent_orig": "In the 1970s, Rada moved to Argentina and eventually to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Rada",
+            "moved",
+            "to Argentina and eventually to Brazil,"
+          ],
+          "Rada moved to Argentina in the 1980s, where he continued to perform and record music.",
+          "Rada moved to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians."
+        ]
+      ],
+      "sent_new": "Rada moved to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. In the 1970s, Rada moved to Argentina and eventually to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. Rada moved to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians.",
+      "sent_orig": "He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. In the 1970s, Rada moved to Argentina and eventually to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians. He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. Rada moved to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians. He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own.",
+      "sent_orig": "Rada's music is characterized by its mix of African, Brazilian, and Uruguayan rhythms, as well as his soulful vocals and innovative approach to instrumentation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rada's music is characterized by its mix of African, Brazilian, and Uruguayan rhythms, as well as his soulful vocals and innovative approach to instrumentation."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. In the 1970s, Rada moved to Argentina and eventually to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians. He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own. Rada's music is characterized by its mix of African, Brazilian, and Uruguayan rhythms, as well as his soulful vocals and innovative approach to instrumentation.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. Rada moved to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians. He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own. Rada's music is characterized by its mix of African, Brazilian, and Uruguayan rhythms, as well as his soulful vocals and innovative approach to instrumentation.",
+      "sent_orig": "His blend of candombe, rock, and jazz influenced many other Latin American musicians and helped to create the Afro-Latin genre.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His blend of candombe, rock, and jazz influenced many other Latin American musicians and helped to create the Afro-Latin genre."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. In the 1970s, Rada moved to Argentina and eventually to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians. He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own. Rada's music is characterized by its mix of African, Brazilian, and Uruguayan rhythms, as well as his soulful vocals and innovative approach to instrumentation. His blend of candombe, rock, and jazz influenced many other Latin American musicians and helped to create the Afro-Latin genre.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. Rada moved to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians. He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own. Rada's music is characterized by its mix of African, Brazilian, and Uruguayan rhythms, as well as his soulful vocals and innovative approach to instrumentation. His blend of candombe, rock, and jazz influenced many other Latin American musicians and helped to create the Afro-Latin genre.",
+      "sent_orig": "Today, Rada continues to perform and record music, and is recognized as one of the most important figures in the history of Latin American music.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Rada continues to perform and record music, and is recognized as one of the most important figures in the history of Latin American music."
+    },
+    {
+      "prefix_original": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. In the 1970s, Rada moved to Argentina and eventually to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians. He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own. Rada's music is characterized by its mix of African, Brazilian, and Uruguayan rhythms, as well as his soulful vocals and innovative approach to instrumentation. His blend of candombe, rock, and jazz influenced many other Latin American musicians and helped to create the Afro-Latin genre. Today, Rada continues to perform and record music, and is recognized as one of the most important figures in the history of Latin American music.",
+      "prefix_new": "Rub\u00e9n Rada is a Uruguayan musician and composer known for his contributions to the world of Latin and Afro-Uruguayan music. Born in 1943 in Montevideo, Rada gained fame in the 1970s and 1980s with his innovative blend of Afro-Uruguayan candombe rhythms, jazz, and rock and roll. Rada started his music career as a drummer, playing in various local bands in Montevideo. In 1963, he joined the Afro-Uruguayan group Hot Blowers, which played a fusion of jazz and candombe music. He later became a member of the popular Uruguayan band Totem. Rada moved to Brazil, where he continued to develop his unique musical style and worked with prominent Brazilian musicians. He played with musicians such as Jorge Ben Jor, Gilberto Gil, and Caetano Veloso, and recorded several albums of his own. Rada's music is characterized by its mix of African, Brazilian, and Uruguayan rhythms, as well as his soulful vocals and innovative approach to instrumentation. His blend of candombe, rock, and jazz influenced many other Latin American musicians and helped to create the Afro-Latin genre. Today, Rada continues to perform and record music, and is recognized as one of the most important figures in the history of Latin American music.",
+      "sent_orig": "He has received many awards and honors throughout his career, including the Order of Cultural Merit from the Uruguayan government.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has received many awards and honors throughout his career, including the Order of Cultural Merit from the Uruguayan government."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "prompt": "Please tell me about john francis daley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "John Francis Daley",
+            "is",
+            "a Canadian-American actor, voice actor, and screenwriter."
+          ],
+          " John Francis Daley is an American actor and screenwriter.",
+          "John Francis Daley is a screenwriter and actor."
+        ]
+      ],
+      "sent_new": "John Francis Daley is a screenwriter and actor."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter.",
+      "prefix_new": "John Francis Daley is a screenwriter and actor.",
+      "sent_orig": "He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\"",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\"",
+      "sent_orig": "Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada.",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada.",
+      "sent_orig": "He began his acting career at a young age, appearing in various television shows and films throughout his childhood.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He began his acting career at a young age, appearing in various television shows and films throughout his childhood."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood.",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood.",
+      "sent_orig": "He gained widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "gained",
+            "widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\""
+          ],
+          " He gained widespread recognition for his portrayal of Sam Wieselbuff in the hit TV series \"Bones.\"",
+          "He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\""
+        ]
+      ],
+      "sent_new": "He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\"",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\"",
+      "sent_orig": "In addition to his acting career, Daley is also a skilled screenwriter.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his acting career, Daley is also a skilled screenwriter."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter.",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter.",
+      "sent_orig": "He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\"",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\"",
+      "sent_orig": "He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\" He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\"",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\" He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\"",
+      "sent_orig": "Daley has received numerous awards and nominations for his work, including a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Daley",
+            "has received",
+            "numerous awards and nominations for his work,"
+          ],
+          " Daley has received critical acclaim for his performances, including a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Comedy Series for his work on \"Freaks and Geeks.\"",
+          "Daley has received a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\""
+        ]
+      ],
+      "sent_new": "Daley has received a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\" He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\" Daley has received numerous awards and nominations for his work, including a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\"",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\" He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\" Daley has received a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\"",
+      "sent_orig": "Outside of acting and writing, Daley is also a musician and has released several albums with his band, Dayplayer.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a musician",
+            "has released",
+            ""
+          ],
+          " John Francis Daley has released several albums as a musician, including \"Bloodstore\" and \"Soft Swells.\"",
+          "John Francis Daley is also a musician and has released several albums with his band, Dayplayer."
+        ]
+      ],
+      "sent_new": "John Francis Daley is also a musician and has released several albums with his band, Dayplayer."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\" He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\" Daley has received numerous awards and nominations for his work, including a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\" Outside of acting and writing, Daley is also a musician and has released several albums with his band, Dayplayer.",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\" He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\" Daley has received a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\" John Francis Daley is also a musician and has released several albums with his band, Dayplayer.",
+      "sent_orig": "He is also known for his poker skills, having competed in several high-profile tournaments.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "competed",
+            "in several high-profile tournaments."
+          ],
+          " He competed on the reality television show \"Celebrity Poker Showdown.\"",
+          "He is known for his poker skills and has competed in several high-profile tournaments."
+        ]
+      ],
+      "sent_new": "He is known for his poker skills and has competed in several high-profile tournaments."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, voice actor, and screenwriter. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained widespread recognition for his portrayal of Sam Weir on the cult classic television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\" He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\" Daley has received numerous awards and nominations for his work, including a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\" Outside of acting and writing, Daley is also a musician and has released several albums with his band, Dayplayer. He is also known for his poker skills, having competed in several high-profile tournaments.",
+      "prefix_new": "John Francis Daley is a screenwriter and actor. He is known for his roles in several popular television shows and movies, including \"Breaking Bad,\" \"Bones,\" and \"CTRL.\" Daley was born on February 20, 1985, in Winnipeg, Manitoba, Canada. He began his acting career at a young age, appearing in various television shows and films throughout his childhood. He gained recognition for his portrayal of Sam Weir on the television series \"Freaks and Geeks.\" In addition to his acting career, Daley is also a skilled screenwriter. He has written several episodes of television shows, including \"Breaking Bad\" and \"The Sopranos.\" He has also written screenplays for films such as \"The Skeleton Twins\" and \"Game Night.\" Daley has received a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Drama Series for his role in \"Breaking Bad.\" John Francis Daley is also a musician and has released several albums with his band, Dayplayer. He is known for his poker skills and has competed in several high-profile tournaments.",
+      "sent_orig": "Overall, John Francis Daley is a talented actor, writer, and musician who has made a significant impact in the entertainment industry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, John Francis Daley is a talented actor, writer, and musician who has made a significant impact in the entertainment industry."
+    }
+  ]
+}

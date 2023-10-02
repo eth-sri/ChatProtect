@@ -1,0 +1,48 @@
+{
+  "prompt": "Please tell me about wen tianxiang",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Wen Tianxiang, also known as Wen Chou, was a Chinese politician who served as the Foreign Minister of the Republic of China during the 1920s and early 1930s.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Wen Tianxiang, also known as Wen Chou, was a Chinese politician who served as the Foreign Minister of the Republic of China during the 1920s and early 1930s.",
+      "prefix_new": "",
+      "sent_orig": "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was known",
+            "conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia."
+          ],
+          "He was known for his strong stance against Japanese expansionism and his efforts to promote the interests of the Republic of China on the international stage.",
+          "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia."
+        ]
+      ],
+      "sent_new": "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia."
+    },
+    {
+      "prefix_original": "Wen Tianxiang, also known as Wen Chou, was a Chinese politician who served as the Foreign Minister of the Republic of China during the 1920s and early 1930s. He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia.",
+      "prefix_new": "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia.",
+      "sent_orig": "However, his policies were ultimately unsuccessful, and he resigned from his position in 1932 following a series of political and military setbacks.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "resigned",
+            "from his position in 1932 following a series of political and military setbacks."
+          ],
+          "Wen Tianxiang resigned as Foreign Minister in 1932 after a disagreement with the leader of the Republic of China over foreign policy.",
+          "He resigned from his position in 1932 following a series of political and military setbacks."
+        ]
+      ],
+      "sent_new": "He resigned from his position in 1932 following a series of political and military setbacks."
+    }
+  ]
+}

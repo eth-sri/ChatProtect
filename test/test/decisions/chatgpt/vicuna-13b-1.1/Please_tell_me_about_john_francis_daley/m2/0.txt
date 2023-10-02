@@ -1,0 +1,63 @@
+{
+  "prompt": "Please tell me about john francis daley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "John Francis Daley is an American actor, writer, and director.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "John Francis Daley is an American actor, writer, and director."
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, writer, and director.",
+      "prefix_new": "John Francis Daley is an American actor, writer, and director.",
+      "sent_orig": "He was born on July 20, 1985, in Silver Spring, Maryland, USA.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on July"
+          ],
+          "He was born in Wheaton, Illinois.",
+          "John Francis Daley was born on July 20, 1985."
+        ]
+      ],
+      "sent_new": "John Francis Daley was born on July 20, 1985."
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, writer, and director. He was born on July 20, 1985, in Silver Spring, Maryland, USA.",
+      "prefix_new": "John Francis Daley is an American actor, writer, and director. John Francis Daley was born on July 20, 1985.",
+      "sent_orig": "He is best known for his roles in the TV shows \"Freaks and Geeks,\" \"Bones,\" and \"The Office.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is best known for his roles in the TV shows \"Freaks and Geeks,\" \"Bones,\" and \"The Office.\""
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, writer, and director. He was born on July 20, 1985, in Silver Spring, Maryland, USA. He is best known for his roles in the TV shows \"Freaks and Geeks,\" \"Bones,\" and \"The Office.\"",
+      "prefix_new": "John Francis Daley is an American actor, writer, and director. John Francis Daley was born on July 20, 1985. He is best known for his roles in the TV shows \"Freaks and Geeks,\" \"Bones,\" and \"The Office.\"",
+      "sent_orig": "He has also appeared in films such as \"Waiting...,\" \"The Break-Up,\" and \"Horrible Bosses.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also appeared in films such as \"Waiting...,\" \"The Break-Up,\" and \"Horrible Bosses.\""
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, writer, and director. He was born on July 20, 1985, in Silver Spring, Maryland, USA. He is best known for his roles in the TV shows \"Freaks and Geeks,\" \"Bones,\" and \"The Office.\" He has also appeared in films such as \"Waiting...,\" \"The Break-Up,\" and \"Horrible Bosses.\"",
+      "prefix_new": "John Francis Daley is an American actor, writer, and director. John Francis Daley was born on July 20, 1985. He is best known for his roles in the TV shows \"Freaks and Geeks,\" \"Bones,\" and \"The Office.\" He has also appeared in films such as \"Waiting...,\" \"The Break-Up,\" and \"Horrible Bosses.\"",
+      "sent_orig": "In addition to his acting career, Daley has also worked as a writer and director, writing for shows such as \"The Simpsons\" and \"The Goldbergs,\" and directing episodes of \"Jessica Jones,\" \"The Good Place,\" and \"Fargo.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his acting career, Daley has also worked as a writer and director, writing for shows such as \"The Simpsons\" and \"The Goldbergs,\" and directing episodes of \"Jessica Jones,\" \"The Good Place,\" and \"Fargo.\""
+    },
+    {
+      "prefix_original": "John Francis Daley is an American actor, writer, and director. He was born on July 20, 1985, in Silver Spring, Maryland, USA. He is best known for his roles in the TV shows \"Freaks and Geeks,\" \"Bones,\" and \"The Office.\" He has also appeared in films such as \"Waiting...,\" \"The Break-Up,\" and \"Horrible Bosses.\" In addition to his acting career, Daley has also worked as a writer and director, writing for shows such as \"The Simpsons\" and \"The Goldbergs,\" and directing episodes of \"Jessica Jones,\" \"The Good Place,\" and \"Fargo.\"",
+      "prefix_new": "John Francis Daley is an American actor, writer, and director. John Francis Daley was born on July 20, 1985. He is best known for his roles in the TV shows \"Freaks and Geeks,\" \"Bones,\" and \"The Office.\" He has also appeared in films such as \"Waiting...,\" \"The Break-Up,\" and \"Horrible Bosses.\" In addition to his acting career, Daley has also worked as a writer and director, writing for shows such as \"The Simpsons\" and \"The Goldbergs,\" and directing episodes of \"Jessica Jones,\" \"The Good Place,\" and \"Fargo.\"",
+      "sent_orig": "He is currently the showrunner for the hit ABC show \"Modern Family.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is currently the showrunner for the hit ABC show \"Modern Family.\""
+    }
+  ]
+}

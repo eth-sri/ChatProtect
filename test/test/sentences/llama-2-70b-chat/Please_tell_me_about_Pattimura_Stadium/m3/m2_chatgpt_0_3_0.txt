@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Pattimura Stadium",
+  "orig": "Pattimura Stadium has a seating capacity of approximately 20,000.",
+  "alt": " Pattimura Stadium has a seating capacity of approximately 15,000 spectators.",
+  "prefix": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954.",
+  "triple": [
+    [
+      "Pattimura Stadium",
+      "has",
+      "a seating capacity of approximately"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Pattimura Stadium are contradictory. Statement 1 claims that the stadium has a seating capacity of approximately 20,000, while statement 2 claims that the seating capacity is approximately 15,000. These two statements cannot both be true at the same time, as they provide different information about the same aspect of the stadium. Therefore, they are contradictory."
+}

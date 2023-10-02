@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about Thirty-First Army (Japan)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II.",
+      "sent_orig": "It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was created",
+            "on October 16, 1944,"
+          ],
+          "It was created on April 6, 1944, in Burma.",
+          "It was primarily composed of remnants from the disbanded Eighteenth Army."
+        ]
+      ],
+      "sent_new": "It was primarily composed of remnants from the disbanded Eighteenth Army."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was primarily composed of remnants from the disbanded Eighteenth Army.",
+      "sent_orig": "The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces.",
+      "sent_orig": "The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands.",
+      "sent_orig": "The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines.",
+      "sent_orig": "In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines. In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines. In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific.",
+      "sent_orig": "The Thirty-First Army continued to resist the Allies in the mountains of northern Luzon until the end of the war in August 1945.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army continued to resist the Allies in the mountains of northern Luzon until the end of the war in August 1945."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines. In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific. The Thirty-First Army continued to resist the Allies in the mountains of northern Luzon until the end of the war in August 1945.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines. In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific. The Thirty-First Army continued to resist the Allies in the mountains of northern Luzon until the end of the war in August 1945.",
+      "sent_orig": "Despite its limited success in the Philippines, the Thirty-First Army was criticized for its poor performance and lack of discipline.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite its limited success in the Philippines, the Thirty-First Army was criticized for its poor performance and lack of discipline."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines. In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific. The Thirty-First Army continued to resist the Allies in the mountains of northern Luzon until the end of the war in August 1945. Despite its limited success in the Philippines, the Thirty-First Army was criticized for its poor performance and lack of discipline.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines. In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific. The Thirty-First Army continued to resist the Allies in the mountains of northern Luzon until the end of the war in August 1945. Despite its limited success in the Philippines, the Thirty-First Army was criticized for its poor performance and lack of discipline.",
+      "sent_orig": "Many soldiers in the army were poorly trained, poorly equipped, and lacked motivation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Many soldiers in the army were poorly trained, poorly equipped, and lacked motivation."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was created on October 16, 1944, and was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines. In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific. The Thirty-First Army continued to resist the Allies in the mountains of northern Luzon until the end of the war in August 1945. Despite its limited success in the Philippines, the Thirty-First Army was criticized for its poor performance and lack of discipline. Many soldiers in the army were poorly trained, poorly equipped, and lacked motivation.",
+      "prefix_new": "The Thirty-First Army was a field army of the Imperial Japanese Army during World War II. It was primarily composed of remnants from the disbanded Eighteenth Army. The Thirty-First Army was stationed in the Philippines, where it engaged in several battles with American and Filipino forces. The Thirty-First Army's mission was to defend the Philippines against the Allies, but by the time the army was established, the Allies had already regained control of most of the islands. The army was unable to push back the Allies and was forced to retreat to the mountains of the northern Philippines. In December 1944, the army suffered a devastating defeat in the Battle of Leyte Gulf, which effectively ended the Japanese Navy's ability to conduct large-scale operations in the Pacific. The Thirty-First Army continued to resist the Allies in the mountains of northern Luzon until the end of the war in August 1945. Despite its limited success in the Philippines, the Thirty-First Army was criticized for its poor performance and lack of discipline. Many soldiers in the army were poorly trained, poorly equipped, and lacked motivation.",
+      "sent_orig": "The Thirty-First Army was one of the last field armies to be established by the Imperial Japanese Army and is an example of the army's desperate attempts to defend its territories in the final stages of the war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army was one of the last field armies to be established by the Imperial Japanese Army and is an example of the army's desperate attempts to defend its territories in the final stages of the war."
+    }
+  ]
+}

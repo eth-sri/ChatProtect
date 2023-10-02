@@ -1,0 +1,61 @@
+{
+  "prompt": "Please tell me about The Minneapolis Convention Center",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota.",
+      "sent_orig": "The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes.",
+      "sent_orig": "The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes. The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes. The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events.",
+      "sent_orig": "Its location in downtown Minneapolis makes it easily accessible by car, public transportation, and foot.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Its location in downtown Minneapolis makes it easily accessible by car, public transportation, and foot."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes. The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events. Its location in downtown Minneapolis makes it easily accessible by car, public transportation, and foot.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes. The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events. Its location in downtown Minneapolis makes it easily accessible by car, public transportation, and foot.",
+      "sent_orig": "The center also features state-of-the-art technology and amenities, including free Wi-Fi throughout the facility, advanced audio and visual equipment, and a range of catering services.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The center also features state-of-the-art technology and amenities, including free Wi-Fi throughout the facility, advanced audio and visual equipment, and a range of catering services."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes. The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events. Its location in downtown Minneapolis makes it easily accessible by car, public transportation, and foot. The center also features state-of-the-art technology and amenities, including free Wi-Fi throughout the facility, advanced audio and visual equipment, and a range of catering services.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes. The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events. Its location in downtown Minneapolis makes it easily accessible by car, public transportation, and foot. The center also features state-of-the-art technology and amenities, including free Wi-Fi throughout the facility, advanced audio and visual equipment, and a range of catering services.",
+      "sent_orig": "In addition, the convention center is committed to sustainable practices, and has implemented a number of eco-friendly initiatives.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition, the convention center is committed to sustainable practices, and has implemented a number of eco-friendly initiatives."
+    },
+    {
+      "prefix_original": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes. The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events. Its location in downtown Minneapolis makes it easily accessible by car, public transportation, and foot. The center also features state-of-the-art technology and amenities, including free Wi-Fi throughout the facility, advanced audio and visual equipment, and a range of catering services. In addition, the convention center is committed to sustainable practices, and has implemented a number of eco-friendly initiatives.",
+      "prefix_new": "The Minneapolis Convention Center is a large event venue located in downtown Minneapolis, Minnesota. The Minneapolis Convention Center features a variety of exhibition halls, conference rooms, and ballrooms that can be configured to accommodate events of all sizes. The convention center has hosted a wide variety of events, including trade shows, conferences, concerts, and sporting events. Its location in downtown Minneapolis makes it easily accessible by car, public transportation, and foot. The center also features state-of-the-art technology and amenities, including free Wi-Fi throughout the facility, advanced audio and visual equipment, and a range of catering services. In addition, the convention center is committed to sustainable practices, and has implemented a number of eco-friendly initiatives.",
+      "sent_orig": "Overall, the Minneapolis Convention Center is a premier event venue in the Midwest that offers a range of services and amenities to help make any event a success.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the Minneapolis Convention Center is a premier event venue in the Midwest that offers a range of services and amenities to help make any event a success."
+    }
+  ]
+}

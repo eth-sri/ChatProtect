@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about Bastille",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Bastille is a British indie pop band formed in 2010 in London.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bastille is a British indie pop band formed in 2010 in London."
+    },
+    {
+      "prefix_original": "Bastille is a British indie pop band formed in 2010 in London.",
+      "prefix_new": "Bastille is a British indie pop band formed in 2010 in London.",
+      "sent_orig": "The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer)."
+    },
+    {
+      "prefix_original": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer).",
+      "prefix_new": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer).",
+      "sent_orig": "Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries."
+    },
+    {
+      "prefix_original": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries.",
+      "prefix_new": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries.",
+      "sent_orig": "The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well."
+    },
+    {
+      "prefix_original": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries. The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well.",
+      "prefix_new": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries. The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well.",
+      "sent_orig": "Since then, Bastille has released three more albums: \"Wild World\" (2016), \"Doom Days\" (2019), and \"Goosebumps\" (2021).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Since then, Bastille has released three more albums: \"Wild World\" (2016), \"Doom Days\" (2019), and \"Goosebumps\" (2021)."
+    },
+    {
+      "prefix_original": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries. The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well. Since then, Bastille has released three more albums: \"Wild World\" (2016), \"Doom Days\" (2019), and \"Goosebumps\" (2021).",
+      "prefix_new": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries. The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well. Since then, Bastille has released three more albums: \"Wild World\" (2016), \"Doom Days\" (2019), and \"Goosebumps\" (2021).",
+      "sent_orig": "Their music is characterized by a unique blend of indie rock, pop, and electronic music.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Their music is characterized by a unique blend of indie rock, pop, and electronic music."
+    },
+    {
+      "prefix_original": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries. The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well. Since then, Bastille has released three more albums: \"Wild World\" (2016), \"Doom Days\" (2019), and \"Goosebumps\" (2021). Their music is characterized by a unique blend of indie rock, pop, and electronic music.",
+      "prefix_new": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries. The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well. Since then, Bastille has released three more albums: \"Wild World\" (2016), \"Doom Days\" (2019), and \"Goosebumps\" (2021). Their music is characterized by a unique blend of indie rock, pop, and electronic music.",
+      "sent_orig": "Aside from music, Bastille has also been involved in various charitable causes, including raising funds for mental health organizations and environmental causes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Aside from music, Bastille has also been involved in various charitable causes, including raising funds for mental health organizations and environmental causes."
+    },
+    {
+      "prefix_original": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries. The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well. Since then, Bastille has released three more albums: \"Wild World\" (2016), \"Doom Days\" (2019), and \"Goosebumps\" (2021). Their music is characterized by a unique blend of indie rock, pop, and electronic music. Aside from music, Bastille has also been involved in various charitable causes, including raising funds for mental health organizations and environmental causes.",
+      "prefix_new": "Bastille is a British indie pop band formed in 2010 in London. The band consists of four members: Dan Smith (lead vocalist), Kyle Simmons (keyboardist), Will Farquarson (guitarist), and Chris Wood (drummer). Bastille first gained recognition with their single \"Pompeii\" in 2013, which became a massive hit and reached the top ten in multiple countries. The song's success helped the band's debut album, \"Bad Blood,\" become a commercial success as well. Since then, Bastille has released three more albums: \"Wild World\" (2016), \"Doom Days\" (2019), and \"Goosebumps\" (2021). Their music is characterized by a unique blend of indie rock, pop, and electronic music. Aside from music, Bastille has also been involved in various charitable causes, including raising funds for mental health organizations and environmental causes.",
+      "sent_orig": "With their catchy and danceable tunes, the band has amassed a large fan base worldwide and continues to be a prominent force in the indie pop scene.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "With their catchy and danceable tunes, the band has amassed a large fan base worldwide and continues to be a prominent force in the indie pop scene."
+    }
+  ]
+}

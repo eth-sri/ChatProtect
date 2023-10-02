@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Pattimura Stadium is a multi-purpose stadium located in Makassar, Indonesia.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Makassar, Indonesia.",
+      "prefix_new": "",
+      "sent_orig": "It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Makassar, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century.",
+      "prefix_new": "It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century.",
+      "sent_orig": "The stadium was built in 1967 and has a seating capacity of approximately 20,000 spectators.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Makassar, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century. The stadium was built in 1967 and has a seating capacity of approximately 20,000 spectators.",
+      "prefix_new": "It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century.",
+      "sent_orig": "Pattimura Stadium is primarily used for football matches, and it has hosted numerous domestic and international football tournaments.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is primarily used for football matches, and it has hosted numerous domestic and international football tournaments."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Makassar, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century. The stadium was built in 1967 and has a seating capacity of approximately 20,000 spectators. Pattimura Stadium is primarily used for football matches, and it has hosted numerous domestic and international football tournaments.",
+      "prefix_new": "It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century. Pattimura Stadium is primarily used for football matches, and it has hosted numerous domestic and international football tournaments.",
+      "sent_orig": "The stadium is home to the Indonesia national football team and has also hosted concerts, festivals, and other events.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "home to the",
+            "has also hosted",
+            "concerts, festivals, and other events."
+          ],
+          " Pattimura Stadium is home to the Makassar football club and has also hosted several international concerts and events.",
+          "The stadium has also hosted concerts, festivals, and other events."
+        ]
+      ],
+      "sent_new": "The stadium has also hosted concerts, festivals, and other events."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Makassar, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century. The stadium was built in 1967 and has a seating capacity of approximately 20,000 spectators. Pattimura Stadium is primarily used for football matches, and it has hosted numerous domestic and international football tournaments. The stadium is home to the Indonesia national football team and has also hosted concerts, festivals, and other events.",
+      "prefix_new": "It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century. Pattimura Stadium is primarily used for football matches, and it has hosted numerous domestic and international football tournaments. The stadium has also hosted concerts, festivals, and other events.",
+      "sent_orig": "The stadium has undergone several renovations over the years, including a major renovation in 2011, which improved the facilities and increased the seating capacity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The stadium has undergone several renovations over the years, including a major renovation in 2011, which improved the facilities and increased the seating capacity."
+    },
+    {
+      "prefix_original": " Pattimura Stadium is a multi-purpose stadium located in Makassar, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century. The stadium was built in 1967 and has a seating capacity of approximately 20,000 spectators. Pattimura Stadium is primarily used for football matches, and it has hosted numerous domestic and international football tournaments. The stadium is home to the Indonesia national football team and has also hosted concerts, festivals, and other events. The stadium has undergone several renovations over the years, including a major renovation in 2011, which improved the facilities and increased the seating capacity.",
+      "prefix_new": "It is named after Pattimura, a National Hero of Indonesia who fought against the Dutch colonial rule in the 19th century. Pattimura Stadium is primarily used for football matches, and it has hosted numerous domestic and international football tournaments. The stadium has also hosted concerts, festivals, and other events. The stadium has undergone several renovations over the years, including a major renovation in 2011, which improved the facilities and increased the seating capacity.",
+      "sent_orig": "Pattimura Stadium is considered one of the most iconic and historic stadiums in Indonesia, and it continues to be an important venue for sports and entertainment events in the country.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is considered one of the most iconic and historic stadiums in Indonesia, and it continues to be an important venue for sports and entertainment events in the country."
+    }
+  ]
+}

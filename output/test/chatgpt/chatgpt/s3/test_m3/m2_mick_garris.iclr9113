@@ -1,0 +1,72 @@
+test/test/sentences/chatgpt/mick_garris/m3/m2_2_3_0.txt
+Q: I give you the beginning of a description about mick garris.
+Then follow two statements.
+
+Description:
+Mick Garris is an American filmmaker, screenwriter, and producer. He was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written several horror films and TV shows.
+
+Statement 1:
+Garris worked on projects like "Critters 2: The Main Course" and "Hocus Pocus" as a screenwriter in the 1980s.
+
+Statement 2:
+Garris has worked on several Stephen King adaptations, including directing the TV miniseries "The Stand" and "The Shining".
+
+Please explain whether the statements about mick garris are contradictory.
+Provide your explanation only.
+
+A: The statements about Mick Garris are not contradictory. Statement 1 mentions his work as a screenwriter in the 1980s on projects like "Critters 2: The Main Course" and "Hocus Pocus", while statement 2 mentions his work on Stephen King adaptations, including directing the TV miniseries "The Stand" and "The Shining". Both statements are true and do not contradict each other.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+Rate limit reached for default-gpt-3.5-turbo in organization org-AxwZqiUO1Nyw0AjHVDWrIehL on tokens per min. Limit: 90000 / min. Current: 88014 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 558
+test/test/sentences/chatgpt/mick_garris/m3/m2_0_2_0.txt
+Q: I give you the beginning of a description about mick garris.
+Then follow two statements.
+
+Description:
+Mick Garris is an American filmmaker and screenwriter who was born on December 4, 1951, in Santa Monica, California. He is best known for his work in the horror genre, having directed and written numerous horror films and television shows.
+
+Statement 1:
+Garris transitioned to screenwriting and directing.
+
+Statement 2:
+Garris transitioned from directing horror films to hosting a horror-themed interview series called "Post Mortem with Mick Garris".
+
+Please explain whether the statements about mick garris are contradictory.
+Provide your explanation only.
+
+A: The statements about Mick Garris are not contradictory. The first statement describes his transition from an unknown filmmaker to a screenwriter and director, while the second statement describes his transition from directing horror films to hosting a horror-themed interview series. Both statements are true and do not contradict each other.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+Rate limit reached for default-gpt-3.5-turbo in organization org-AxwZqiUO1Nyw0AjHVDWrIehL on tokens per min. Limit: 90000 / min. Current: 89636 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+Rate limit reached for default-gpt-3.5-turbo in organization org-AxwZqiUO1Nyw0AjHVDWrIehL on tokens per min. Limit: 90000 / min. Current: 87902 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 452
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=172, completion_tokens=86), Usage(prompt_tokens=280, completion_tokens=20), Usage(prompt_tokens=142, completion_tokens=57), Usage(prompt_tokens=221, completion_tokens=32)]
+815
+195
+1010
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

@@ -1,0 +1,55 @@
+{
+  "prompt": "Please tell me about Homer Simpson",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\""
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\"",
+      "prefix_new": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\"",
+      "sent_orig": "He is a blundering, overweight, and often absente-minded father of three who works as a nuclear power plant safety inspector.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a blundering, overweight,",
+            "works",
+            "as a nuclear power plant safety inspector."
+          ],
+          "He is a blundering, overweight, beer-loving father and husband who works as a male nurse at the Springfield Nuclear Power Plant.",
+          "Homer Simpson works as a nuclear power plant safety inspector."
+        ]
+      ],
+      "sent_new": "Homer Simpson works as a nuclear power plant safety inspector."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\" He is a blundering, overweight, and often absente-minded father of three who works as a nuclear power plant safety inspector.",
+      "prefix_new": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\" Homer Simpson works as a nuclear power plant safety inspector.",
+      "sent_orig": "Homer is known for his love of beer, donuts, and his catchphrase \"D'oh!\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Homer is known for his love of beer, donuts, and his catchphrase \"D'oh!\""
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\" He is a blundering, overweight, and often absente-minded father of three who works as a nuclear power plant safety inspector. Homer is known for his love of beer, donuts, and his catchphrase \"D'oh!\"",
+      "prefix_new": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\" Homer Simpson works as a nuclear power plant safety inspector. Homer is known for his love of beer, donuts, and his catchphrase \"D'oh!\"",
+      "sent_orig": "He often finds himself in humorous and precarious situations as a result of his laziness and lack of intelligence, but he is also fiercely loyal to his family and can be quite heroic at times.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He often finds himself in humorous and precarious situations as a result of his laziness and lack of intelligence, but he is also fiercely loyal to his family and can be quite heroic at times."
+    },
+    {
+      "prefix_original": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\" He is a blundering, overweight, and often absente-minded father of three who works as a nuclear power plant safety inspector. Homer is known for his love of beer, donuts, and his catchphrase \"D'oh!\" He often finds himself in humorous and precarious situations as a result of his laziness and lack of intelligence, but he is also fiercely loyal to his family and can be quite heroic at times.",
+      "prefix_new": "Homer Simpson is a fictional character from the animated television series \"The Simpsons.\" Homer Simpson works as a nuclear power plant safety inspector. Homer is known for his love of beer, donuts, and his catchphrase \"D'oh!\" He often finds himself in humorous and precarious situations as a result of his laziness and lack of intelligence, but he is also fiercely loyal to his family and can be quite heroic at times.",
+      "sent_orig": "Homer has become an iconic character in pop culture and is widelyrecognized as one of the greatest TV characters of all time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Homer has become an iconic character in pop culture and is widelyrecognized as one of the greatest TV characters of all time."
+    }
+  ]
+}

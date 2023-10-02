@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about Ke Apon Ke Por",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\""
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\"",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\"",
+      "sent_orig": "in English.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "in English."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English.",
+      "sent_orig": "It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning.",
+      "sent_orig": "The phrase is often used in a philosophical context to describe the search for meaning and connection in life.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The phrase is often used in a philosophical context to describe the search for meaning and connection in life."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life.",
+      "sent_orig": "It implies that true fulfillment and happiness can only be found when we are able to connect with something greater than ourselves, and that this connection is not limited to material possessions or worldly desires.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "true fulfillment and happiness",
+            "can only be found are",
+            ""
+          ],
+          " True fulfillment and happiness can only be found within oneself.",
+          "True happiness can be found through a connection with something greater than oneself."
+        ]
+      ],
+      "sent_new": "True happiness can be found through a connection with something greater than oneself."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. It implies that true fulfillment and happiness can only be found when we are able to connect with something greater than ourselves, and that this connection is not limited to material possessions or worldly desires.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. True happiness can be found through a connection with something greater than oneself.",
+      "sent_orig": "The phrase has been used in various contexts, including literature, music, and film.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The phrase has been used in various contexts, including literature, music, and film."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. It implies that true fulfillment and happiness can only be found when we are able to connect with something greater than ourselves, and that this connection is not limited to material possessions or worldly desires. The phrase has been used in various contexts, including literature, music, and film.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. True happiness can be found through a connection with something greater than oneself. The phrase has been used in various contexts, including literature, music, and film.",
+      "sent_orig": "In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. It implies that true fulfillment and happiness can only be found when we are able to connect with something greater than ourselves, and that this connection is not limited to material possessions or worldly desires. The phrase has been used in various contexts, including literature, music, and film. In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. True happiness can be found through a connection with something greater than oneself. The phrase has been used in various contexts, including literature, music, and film. In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society.",
+      "sent_orig": "In music, it has been used in songs that express feelings of longing and melancholy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In music, it has been used in songs that express feelings of longing and melancholy."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. It implies that true fulfillment and happiness can only be found when we are able to connect with something greater than ourselves, and that this connection is not limited to material possessions or worldly desires. The phrase has been used in various contexts, including literature, music, and film. In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society. In music, it has been used in songs that express feelings of longing and melancholy.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. True happiness can be found through a connection with something greater than oneself. The phrase has been used in various contexts, including literature, music, and film. In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society. In music, it has been used in songs that express feelings of longing and melancholy.",
+      "sent_orig": "In film, it has been used in titles and dialogues to convey the theme of longing and search for meaning.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In film, it has been used in titles and dialogues to convey the theme of longing and search for meaning."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. It implies that true fulfillment and happiness can only be found when we are able to connect with something greater than ourselves, and that this connection is not limited to material possessions or worldly desires. The phrase has been used in various contexts, including literature, music, and film. In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society. In music, it has been used in songs that express feelings of longing and melancholy. In film, it has been used in titles and dialogues to convey the theme of longing and search for meaning.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. True happiness can be found through a connection with something greater than oneself. The phrase has been used in various contexts, including literature, music, and film. In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society. In music, it has been used in songs that express feelings of longing and melancholy. In film, it has been used in titles and dialogues to convey the theme of longing and search for meaning.",
+      "sent_orig": "Overall, Ke Apon Ke Por is a powerful and evocative phrase that has become an integral part of Bengali culture and literature.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Ke Apon Ke Por is a powerful and evocative phrase that has become an integral part of Bengali culture and literature."
+    },
+    {
+      "prefix_original": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. It implies that true fulfillment and happiness can only be found when we are able to connect with something greater than ourselves, and that this connection is not limited to material possessions or worldly desires. The phrase has been used in various contexts, including literature, music, and film. In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society. In music, it has been used in songs that express feelings of longing and melancholy. In film, it has been used in titles and dialogues to convey the theme of longing and search for meaning. Overall, Ke Apon Ke Por is a powerful and evocative phrase that has become an integral part of Bengali culture and literature.",
+      "prefix_new": " Ke Apon Ke Por (Bengali: \u0995\u09c7 \u0986\u09aa\u09a8 \u0995\u09c7 \u09aa\u09b0) is a popular Bengali phrase that roughly translates to \"Who is yours, and who is mine?\" in English. It is a famous quote from the celebrated Bengali poet and philosopher, Rabindranath Tagore, and is often used to describe a deep sense of longing or yearning. The phrase is often used in a philosophical context to describe the search for meaning and connection in life. True happiness can be found through a connection with something greater than oneself. The phrase has been used in various contexts, including literature, music, and film. In Bengali literature, it is often used to describe the longing for a lost love or a sense of disconnection from society. In music, it has been used in songs that express feelings of longing and melancholy. In film, it has been used in titles and dialogues to convey the theme of longing and search for meaning. Overall, Ke Apon Ke Por is a powerful and evocative phrase that has become an integral part of Bengali culture and literature.",
+      "sent_orig": "It is a reminder that true fulfillment and happiness can only be found when we look beyond the material world and connect with something greater than ourselves.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a reminder that true fulfillment and happiness can only be found when we look beyond the material world and connect with something greater than ourselves."
+    }
+  ]
+}

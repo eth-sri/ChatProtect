@@ -1,0 +1,81 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "prefix_new": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "sent_orig": "It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century."
+    },
+    {
+      "prefix_original": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century.",
+      "prefix_new": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century.",
+      "sent_orig": "The stadium is mostly used for football matches and is home to a professional football club that competes in the Liga 3 Indonesia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "home to a professional football club",
+            "competes",
+            "in the Liga 3 Indonesia."
+          ],
+          "The stadium is home to a professional football club, Persipura Ambon, which competes in the Liga 3.",
+          "The stadium is mostly used for football matches."
+        ]
+      ],
+      "sent_new": "The stadium is mostly used for football matches."
+    },
+    {
+      "prefix_original": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century. The stadium is mostly used for football matches and is home to a professional football club that competes in the Liga 3 Indonesia.",
+      "prefix_new": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century. The stadium is mostly used for football matches.",
+      "sent_orig": "The stadium has a seating capacity of approximately 10,000-15,000 spectators.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The stadium",
+            "has",
+            "a seating capacity of approximately"
+          ],
+          "The stadium has a seating capacity of 25,000 spectators.",
+          "The stadium has a seating capacity of approximately 10,000-15,000 spectators."
+        ]
+      ],
+      "sent_new": "The stadium has a seating capacity of approximately 10,000-15,000 spectators."
+    },
+    {
+      "prefix_original": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century. The stadium is mostly used for football matches and is home to a professional football club that competes in the Liga 3 Indonesia. The stadium has a seating capacity of approximately 10,000-15,000 spectators.",
+      "prefix_new": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century. The stadium is mostly used for football matches. The stadium has a seating capacity of approximately 10,000-15,000 spectators.",
+      "sent_orig": "It features a natural grass surface, a running track around the football pitch, and it hosts various sporting events, such as athletics meets and other competitions, apart from football.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It features a natural grass surface, a running track around the football pitch, and it hosts various sporting events, such as athletics meets and other competitions, apart from football."
+    },
+    {
+      "prefix_original": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century. The stadium is mostly used for football matches and is home to a professional football club that competes in the Liga 3 Indonesia. The stadium has a seating capacity of approximately 10,000-15,000 spectators. It features a natural grass surface, a running track around the football pitch, and it hosts various sporting events, such as athletics meets and other competitions, apart from football.",
+      "prefix_new": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century. The stadium is mostly used for football matches. The stadium has a seating capacity of approximately 10,000-15,000 spectators. It features a natural grass surface, a running track around the football pitch, and it hosts various sporting events, such as athletics meets and other competitions, apart from football.",
+      "sent_orig": "Additionally, the venue is also used for local and national cultural events, ceremonies, and concerts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Additionally, the venue is also used for local and national cultural events, ceremonies, and concerts."
+    },
+    {
+      "prefix_original": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century. The stadium is mostly used for football matches and is home to a professional football club that competes in the Liga 3 Indonesia. The stadium has a seating capacity of approximately 10,000-15,000 spectators. It features a natural grass surface, a running track around the football pitch, and it hosts various sporting events, such as athletics meets and other competitions, apart from football. Additionally, the venue is also used for local and national cultural events, ceremonies, and concerts.",
+      "prefix_new": "Pattimura Stadium, also known as Stadion Pattimura or Stadion Merdeka, is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Thomas Matulessy, who was also known as Pattimura, a national hero who fought against Dutch colonial rule in the 19th century. The stadium is mostly used for football matches. The stadium has a seating capacity of approximately 10,000-15,000 spectators. It features a natural grass surface, a running track around the football pitch, and it hosts various sporting events, such as athletics meets and other competitions, apart from football. Additionally, the venue is also used for local and national cultural events, ceremonies, and concerts.",
+      "sent_orig": "Given its historical significance and central location in Ambon, Pattimura Stadium holds a special place in the hearts of the locals and is an important symbol of pride and identity for the people of Maluku.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Given its historical significance and central location in Ambon, Pattimura Stadium holds a special place in the hearts of the locals and is an important symbol of pride and identity for the people of Maluku."
+    }
+  ]
+}

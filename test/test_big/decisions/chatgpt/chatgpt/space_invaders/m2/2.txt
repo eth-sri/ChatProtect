@@ -1,0 +1,100 @@
+[
+  {
+    "prefix_original": "",
+    "prefix_new": "",
+    "sent_orig": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito.",
+    "sent_orig": "It was designed by Tomohiro Nishikado and was one of the first successful video games ever made.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "It was designed by Tomohiro Nishikado and was one of the first successful video games ever made."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made.",
+    "sent_orig": "The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen.",
+    "decision": "redact",
+    "changes": [
+      [
+        [
+          "a player-controlled spaceship",
+          "coming",
+          "from the top of the screen."
+        ],
+        "A player-controlled spaceship moves horizontally across the bottom of the screen, coming under attack from rows of aliens above.",
+        "The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen."
+      ]
+    ],
+    "sent_new": "The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen.",
+    "sent_orig": "The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire.",
+    "sent_orig": "As the game progresses, the alien waves become faster, with more aliens attacking at once.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "As the game progresses, the alien waves become faster, with more aliens attacking at once."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once.",
+    "sent_orig": "The game was a massive success, both in Japan and internationally.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "The game was a massive success, both in Japan and internationally."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally.",
+    "sent_orig": "It is credited with helping to popularize video games and making them into a mainstream entertainment medium.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "It is credited with helping to popularize video games and making them into a mainstream entertainment medium."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally. It is credited with helping to popularize video games and making them into a mainstream entertainment medium.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally. It is credited with helping to popularize video games and making them into a mainstream entertainment medium.",
+    "sent_orig": "Space Invaders was so successful that it has been remade numerous times on different platforms, and it is still played and enjoyed by retro gamers and new generations of players alike.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "Space Invaders was so successful that it has been remade numerous times on different platforms, and it is still played and enjoyed by retro gamers and new generations of players alike."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally. It is credited with helping to popularize video games and making them into a mainstream entertainment medium. Space Invaders was so successful that it has been remade numerous times on different platforms, and it is still played and enjoyed by retro gamers and new generations of players alike.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally. It is credited with helping to popularize video games and making them into a mainstream entertainment medium. Space Invaders was so successful that it has been remade numerous times on different platforms, and it is still played and enjoyed by retro gamers and new generations of players alike.",
+    "sent_orig": "The game's iconic pixelated graphics, simple but addictive gameplay, and memorable sound effects have all contributed to its lasting popularity.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "The game's iconic pixelated graphics, simple but addictive gameplay, and memorable sound effects have all contributed to its lasting popularity."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally. It is credited with helping to popularize video games and making them into a mainstream entertainment medium. Space Invaders was so successful that it has been remade numerous times on different platforms, and it is still played and enjoyed by retro gamers and new generations of players alike. The game's iconic pixelated graphics, simple but addictive gameplay, and memorable sound effects have all contributed to its lasting popularity.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally. It is credited with helping to popularize video games and making them into a mainstream entertainment medium. Space Invaders was so successful that it has been remade numerous times on different platforms, and it is still played and enjoyed by retro gamers and new generations of players alike. The game's iconic pixelated graphics, simple but addictive gameplay, and memorable sound effects have all contributed to its lasting popularity.",
+    "sent_orig": "Space Invaders has become a cultural touchstone, appearing in films, TV shows, and other forms of media.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "Space Invaders has become a cultural touchstone, appearing in films, TV shows, and other forms of media."
+  },
+  {
+    "prefix_original": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game consists of a player-controlled spaceship fighting against enemy alien invaders coming from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally. It is credited with helping to popularize video games and making them into a mainstream entertainment medium. Space Invaders was so successful that it has been remade numerous times on different platforms, and it is still played and enjoyed by retro gamers and new generations of players alike. The game's iconic pixelated graphics, simple but addictive gameplay, and memorable sound effects have all contributed to its lasting popularity. Space Invaders has become a cultural touchstone, appearing in films, TV shows, and other forms of media.",
+    "prefix_new": "Space Invaders is a classic arcade video game released in 1978 by Japanese game developer Taito. It was designed by Tomohiro Nishikado and was one of the first successful video games ever made. The game involves a player-controlled spaceship fighting against alien invaders from the top of the screen. The player can move their spaceship horizontally across the bottom of the screen to shoot down the alien waves and avoid their incoming fire. As the game progresses, the alien waves become faster, with more aliens attacking at once. The game was a massive success, both in Japan and internationally. It is credited with helping to popularize video games and making them into a mainstream entertainment medium. Space Invaders was so successful that it has been remade numerous times on different platforms, and it is still played and enjoyed by retro gamers and new generations of players alike. The game's iconic pixelated graphics, simple but addictive gameplay, and memorable sound effects have all contributed to its lasting popularity. Space Invaders has become a cultural touchstone, appearing in films, TV shows, and other forms of media.",
+    "sent_orig": "It is widely regarded as a classic and a pioneering piece of video game history.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "It is widely regarded as a classic and a pioneering piece of video game history."
+  }
+]

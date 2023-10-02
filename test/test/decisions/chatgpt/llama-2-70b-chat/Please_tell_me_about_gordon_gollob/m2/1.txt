@@ -1,0 +1,151 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Gordon Gollob was a German field marshal during World War II.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gordon Gollob",
+            "was",
+            "a German field marshal during World War II."
+          ],
+          " Gordon Gollob was a Canadian software engineer and entrepreneur.",
+          "Gordon Gollob was a German field marshal during World War II."
+        ]
+      ],
+      "sent_new": "Gordon Gollob was a German field marshal during World War II."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II.",
+      "sent_orig": "He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II.",
+      "sent_orig": "Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II.",
+      "sent_orig": "Gollob is best known for his leadership during the Battle of Stalingrad, where he served as the commander of the German Sixth Army.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gollob",
+            "is best known",
+            "for his leadership during the Battle of Stalingrad,"
+          ],
+          " Gollob is best known for his leadership of the German Luftwaffe during World War II.",
+          "Gollob served as the commander of the German Sixth Army during World War II."
+        ]
+      ],
+      "sent_new": "Gollob served as the commander of the German Sixth Army during World War II."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob is best known for his leadership during the Battle of Stalingrad, where he served as the commander of the German Sixth Army.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob served as the commander of the German Sixth Army during World War II.",
+      "sent_orig": "Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob is best known for his leadership during the Battle of Stalingrad, where he served as the commander of the German Sixth Army. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob served as the commander of the German Sixth Army during World War II. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties.",
+      "sent_orig": "Gollob was criticized for his leadership during the battle and was eventually relieved of his command.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was criticized for his leadership during the battle and was eventually relieved of his command."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob is best known for his leadership during the Battle of Stalingrad, where he served as the commander of the German Sixth Army. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob served as the commander of the German Sixth Army during World War II. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command.",
+      "sent_orig": "After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob is best known for his leadership during the Battle of Stalingrad, where he served as the commander of the German Sixth Army. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command. After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob served as the commander of the German Sixth Army during World War II. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command. After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions.",
+      "sent_orig": "He died on May 18, 1945, in Czechoslovakia, shortly before the end of the war.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "died",
+            "on"
+          ],
+          " He died on April 18, 1945, in a plane crash in Austria.",
+          "He died on April 18, 1945, in a plane crash in Austria."
+        ]
+      ],
+      "sent_new": "He died on April 18, 1945, in a plane crash in Austria."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob is best known for his leadership during the Battle of Stalingrad, where he served as the commander of the German Sixth Army. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command. After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions. He died on May 18, 1945, in Czechoslovakia, shortly before the end of the war.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob served as the commander of the German Sixth Army during World War II. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command. After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions. He died on April 18, 1945, in a plane crash in Austria.",
+      "sent_orig": "Gollob was known for his tactical ability and his willingness to take risks, but his leadership during the Battle of Stalingrad remains a controversial topic among military historians.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gollob",
+            "was known",
+            "tactical ability and his willingness to take risks,"
+          ],
+          " Gollob was known for his tactical genius and leadership skills.",
+          "Gollob's leadership during the Battle of Stalingrad remains a controversial topic among military historians."
+        ]
+      ],
+      "sent_new": "Gollob's leadership during the Battle of Stalingrad remains a controversial topic among military historians."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob is best known for his leadership during the Battle of Stalingrad, where he served as the commander of the German Sixth Army. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command. After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions. He died on May 18, 1945, in Czechoslovakia, shortly before the end of the war. Gollob was known for his tactical ability and his willingness to take risks, but his leadership during the Battle of Stalingrad remains a controversial topic among military historians.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob served as the commander of the German Sixth Army during World War II. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command. After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions. He died on April 18, 1945, in a plane crash in Austria. Gollob's leadership during the Battle of Stalingrad remains a controversial topic among military historians.",
+      "sent_orig": "Some view him as a talented commander who was unfairly scapegoated for the German defeat, while others see him as a reckless leader who made costly mistakes during the battle.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Some",
+            "view",
+            "as a talented commander"
+          ],
+          " Some historians view Gollob's leadership during the Battle of Stalingrad as a critical failure that led to the German defeat.",
+          "Some view him as a talented commander who was unfairly scapegoated for the German defeat."
+        ],
+        [
+          [
+            "him",
+            "made",
+            "costly mistakes during the battle."
+          ],
+          " Him, Gollob, made several crucial mistakes during the Battle of Stalingrad, including underestimating the strength of the Soviet forces and failing to properly supply and reinforce his troops.",
+          "Some view him as a talented commander."
+        ]
+      ],
+      "sent_new": "Some view him as a talented commander."
+    },
+    {
+      "prefix_original": " Gordon Gollob was a German field marshal during World War II. He was born on December 12, 1887, in Gnesen, Prussia (now Gniezno, Poland) and joined the German Imperial Army in 1907. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob is best known for his leadership during the Battle of Stalingrad, where he served as the commander of the German Sixth Army. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command. After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions. He died on May 18, 1945, in Czechoslovakia, shortly before the end of the war. Gollob was known for his tactical ability and his willingness to take risks, but his leadership during the Battle of Stalingrad remains a controversial topic among military historians. Some view him as a talented commander who was unfairly scapegoated for the German defeat, while others see him as a reckless leader who made costly mistakes during the battle.",
+      "prefix_new": "Gordon Gollob was a German field marshal during World War II. Gollob saw service in World War I and remained in the army after the war, rising through the ranks to become a general during World War II. Gollob served as the commander of the German Sixth Army during World War II. Under his leadership, the Sixth Army played a key role in the initial German successes in the battle, but ultimately the army became trapped in the city and suffered heavy casualties. Gollob was criticized for his leadership during the battle and was eventually relieved of his command. After the battle, Gollob was placed in command of several other armies, but his reputation was tarnished and he was not considered for high-level command positions. He died on April 18, 1945, in a plane crash in Austria. Gollob's leadership during the Battle of Stalingrad remains a controversial topic among military historians. Some view him as a talented commander.",
+      "sent_orig": "Regardless, Gollob's legacy is a reminder of the complexities and challenges of military leadership during times of war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Regardless, Gollob's legacy is a reminder of the complexities and challenges of military leadership during times of war."
+    }
+  ]
+}

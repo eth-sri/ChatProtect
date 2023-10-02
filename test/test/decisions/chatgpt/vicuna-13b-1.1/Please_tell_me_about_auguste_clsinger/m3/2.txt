@@ -1,0 +1,113 @@
+{
+  "prompt": "Please tell me about auguste cl\u00e9singer",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Auguste Cl\u00e9singer",
+            "was",
+            "a French sculptor and medallist"
+          ],
+          "Auguste Cl\u00e9singer was a French sculptor and medallist known for his work in the Neoclassical style.",
+          "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works."
+        ]
+      ],
+      "sent_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works.",
+      "sent_orig": "Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Auguste Cl\u00e9singer",
+            "trained",
+            "at the \u00c9cole des Beaux-Arts in Paris."
+          ],
+          "Auguste Cl\u00e9singer trained as a sculptor under the guidance of Antoine-Denis Chaudet.",
+          "Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris."
+        ]
+      ],
+      "sent_new": "Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris.",
+      "sent_orig": "Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843.",
+      "sent_orig": "This sculpture was designed as a medallion and was intended to be a decorative element for a building.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This sculpture was designed as a medallion and was intended to be a decorative element for a building."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building.",
+      "sent_orig": "It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style.",
+      "sent_orig": "Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\""
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\"",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\"",
+      "sent_orig": "He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\" He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\" He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work.",
+      "sent_orig": "In addition to his sculpture, Cl\u00e9singer was also a medallist and created many medals and coins.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his sculpture, Cl\u00e9singer was also a medallist and created many medals and coins."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\" He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work. In addition to his sculpture, Cl\u00e9singer was also a medallist and created many medals and coins.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\" He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work. In addition to his sculpture, Cl\u00e9singer was also a medallist and created many medals and coins.",
+      "sent_orig": "He was known for his attention to detail and his ability to capture the essence of his subjects in his works.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his attention to detail and his ability to capture the essence of his subjects in his works."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\" He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work. In addition to his sculpture, Cl\u00e9singer was also a medallist and created many medals and coins. He was known for his attention to detail and his ability to capture the essence of his subjects in his works.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\" He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work. In addition to his sculpture, Cl\u00e9singer was also a medallist and created many medals and coins. He was known for his attention to detail and his ability to capture the essence of his subjects in his works.",
+      "sent_orig": "Cl\u00e9singer's work was influential in the Arts and Crafts movement and his style was popular in France and abroad in the mid-19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cl\u00e9singer's work was influential in the Arts and Crafts movement and his style was popular in France and abroad in the mid-19th century."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\" He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work. In addition to his sculpture, Cl\u00e9singer was also a medallist and created many medals and coins. He was known for his attention to detail and his ability to capture the essence of his subjects in his works. Cl\u00e9singer's work was influential in the Arts and Crafts movement and his style was popular in France and abroad in the mid-19th century.",
+      "prefix_new": "Auguste Cl\u00e9singer (1812-1883) was a French sculptor and medallist known for his Rococo-inspired works. Auguste Cl\u00e9singer trained at the \u00c9cole des Beaux-Arts in Paris. Cl\u00e9singer is known for his sculpture of a nymph, \"La Jeune Fille \u00e0 la Loutre,\" which was created in 1843. This sculpture was designed as a medallion and was intended to be a decorative element for a building. It was inspired by the Rococo movement, which was popular in France in the 18th century and was characterized by its ornate and decorative style. Cl\u00e9singer was a prolific artist and created many other works in a similar style to \"La Jeune Fille \u00e0 la Loutre.\" He was a member of the Acad\u00e9mie des Beaux-Arts and received several awards for his work. In addition to his sculpture, Cl\u00e9singer was also a medallist and created many medals and coins. He was known for his attention to detail and his ability to capture the essence of his subjects in his works. Cl\u00e9singer's work was influential in the Arts and Crafts movement and his style was popular in France and abroad in the mid-19th century.",
+      "sent_orig": "Despite his success during his lifetime, his work was later eclipsed by the emergence of newer art movements and styles.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite his success during his lifetime, his work was later eclipsed by the emergence of newer art movements and styles."
+    }
+  ]
+}

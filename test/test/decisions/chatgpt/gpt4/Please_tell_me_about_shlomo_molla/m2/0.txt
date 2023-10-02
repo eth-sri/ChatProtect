@@ -1,0 +1,121 @@
+{
+  "prompt": "Please tell me about shlomo molla",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia.",
+      "sent_orig": "Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984.",
+      "sent_orig": "Upon his arrival, he was granted asylum by the Jewish Agency.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Upon his arrival, he was granted asylum by the Jewish Agency."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency.",
+      "sent_orig": "In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism.",
+      "sent_orig": "Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel.",
+      "sent_orig": "He studied Political Science and Public Administration at Bar-Ilan University, and later on pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "studied",
+            "Political Science and Public Administration at Bar-Ilan University,"
+          ],
+          "He studied political science and international relations at Bar-Ilan University.",
+          "He pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem."
+        ]
+      ],
+      "sent_new": "He pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He studied Political Science and Public Administration at Bar-Ilan University, and later on pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem.",
+      "sent_orig": "His political career began in the early 2000s when he joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "His political career",
+            "began",
+            "in the early 2000s"
+          ],
+          "His political career began in 2008 when he was elected to the Knesset as a member of the Kadima party.",
+          "He joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing."
+        ]
+      ],
+      "sent_new": "He joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He studied Political Science and Public Administration at Bar-Ilan University, and later on pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. His political career began in the early 2000s when he joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. He joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing.",
+      "sent_orig": "He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He studied Political Science and Public Administration at Bar-Ilan University, and later on pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. His political career began in the early 2000s when he joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing. He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. He joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing. He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013.",
+      "sent_orig": "As a legislator, Molla championed issues related to minority rights, immigrant absorption, religious pluralism, and social justice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As a legislator, Molla championed issues related to minority rights, immigrant absorption, religious pluralism, and social justice."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He studied Political Science and Public Administration at Bar-Ilan University, and later on pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. His political career began in the early 2000s when he joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing. He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013. As a legislator, Molla championed issues related to minority rights, immigrant absorption, religious pluralism, and social justice.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. He joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing. He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013. As a legislator, Molla championed issues related to minority rights, immigrant absorption, religious pluralism, and social justice.",
+      "sent_orig": "Molla left the Kadima Party in 2013 and joined the Hatnuah Party, led by Tzipi Livni.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Molla left the Kadima Party in 2013 and joined the Hatnuah Party, led by Tzipi Livni."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He studied Political Science and Public Administration at Bar-Ilan University, and later on pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. His political career began in the early 2000s when he joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing. He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013. As a legislator, Molla championed issues related to minority rights, immigrant absorption, religious pluralism, and social justice. Molla left the Kadima Party in 2013 and joined the Hatnuah Party, led by Tzipi Livni.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. He joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing. He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013. As a legislator, Molla championed issues related to minority rights, immigrant absorption, religious pluralism, and social justice. Molla left the Kadima Party in 2013 and joined the Hatnuah Party, led by Tzipi Livni.",
+      "sent_orig": "While a member of the party, he continued his work on social and economic issues, particularly ones that affected the Ethiopian community in Israel.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "While a member of the party, he continued his work on social and economic issues, particularly ones that affected the Ethiopian community in Israel."
+    },
+    {
+      "prefix_original": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He studied Political Science and Public Administration at Bar-Ilan University, and later on pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. His political career began in the early 2000s when he joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing. He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013. As a legislator, Molla championed issues related to minority rights, immigrant absorption, religious pluralism, and social justice. Molla left the Kadima Party in 2013 and joined the Hatnuah Party, led by Tzipi Livni. While a member of the party, he continued his work on social and economic issues, particularly ones that affected the Ethiopian community in Israel.",
+      "prefix_new": "Shlomo Molla (born 1971) is an Israeli politician and social activist, originally from Ethiopia. Born in a small village in the Gondar region, Molla underwent a dangerous journey with a group of other Ethiopian Jews, walking for two months through Sudan to reach Israel in 1984. Upon his arrival, he was granted asylum by the Jewish Agency. In Israel, Molla faced many challenges, including integration into a new society, language barriers, and racism. Despite these hardships, he became an advocate for Ethiopian Jews and worked towards improving their situation in Israel. He pursued his Master's degree in non-profit management from The Hebrew University of Jerusalem. He joined the Jewish Agency's Board of Governors, advocating for Ethiopian Jews and working on issues such as education, employment, and housing. He later joined the Israeli Kadima Party, serving as a member of the Knesset (Israeli parliament) between 2008 and 2013. As a legislator, Molla championed issues related to minority rights, immigrant absorption, religious pluralism, and social justice. Molla left the Kadima Party in 2013 and joined the Hatnuah Party, led by Tzipi Livni. While a member of the party, he continued his work on social and economic issues, particularly ones that affected the Ethiopian community in Israel.",
+      "sent_orig": "Despite not getting re-elected to the Knesset in 2015, Molla remains an influential figure in Israeli politics and a vocal advocate for social justice and minority rights.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite not getting re-elected to the Knesset in 2015, Molla remains an influential figure in Israeli politics and a vocal advocate for social justice and minority rights."
+    }
+  ]
+}

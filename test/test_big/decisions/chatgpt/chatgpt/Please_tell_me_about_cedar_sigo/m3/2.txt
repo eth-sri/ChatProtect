@@ -1,0 +1,61 @@
+{
+  "prompt": "Please tell me about cedar sigo",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Cedar Sigo is an American poet.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cedar Sigo is an American poet."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet.",
+      "prefix_new": "Cedar Sigo is an American poet.",
+      "sent_orig": "Cedar Sigo grew up in the Pacific Northwest.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cedar Sigo grew up in the Pacific Northwest."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest.",
+      "prefix_new": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest.",
+      "sent_orig": "He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018)."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest. He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018).",
+      "prefix_new": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest. He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018).",
+      "sent_orig": "Sigo has been influenced by the Beat poets, as well as by the work of poets such as Jack Spicer and Robert Duncan.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sigo has been influenced by the Beat poets, as well as by the work of poets such as Jack Spicer and Robert Duncan."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest. He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018). Sigo has been influenced by the Beat poets, as well as by the work of poets such as Jack Spicer and Robert Duncan.",
+      "prefix_new": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest. He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018). Sigo has been influenced by the Beat poets, as well as by the work of poets such as Jack Spicer and Robert Duncan.",
+      "sent_orig": "His poetry often deals with themes of sexuality, identity, and the natural world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His poetry often deals with themes of sexuality, identity, and the natural world."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest. He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018). Sigo has been influenced by the Beat poets, as well as by the work of poets such as Jack Spicer and Robert Duncan. His poetry often deals with themes of sexuality, identity, and the natural world.",
+      "prefix_new": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest. He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018). Sigo has been influenced by the Beat poets, as well as by the work of poets such as Jack Spicer and Robert Duncan. His poetry often deals with themes of sexuality, identity, and the natural world.",
+      "sent_orig": "Sigo has also worked as an editor and publisher, including work with the press Ugly Duckling Presse.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Sigo has also worked as an editor and publisher, including work with the press Ugly Duckling Presse."
+    },
+    {
+      "prefix_original": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest. He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018). Sigo has been influenced by the Beat poets, as well as by the work of poets such as Jack Spicer and Robert Duncan. His poetry often deals with themes of sexuality, identity, and the natural world. Sigo has also worked as an editor and publisher, including work with the press Ugly Duckling Presse.",
+      "prefix_new": "Cedar Sigo is an American poet. Cedar Sigo grew up in the Pacific Northwest. He has published several poetry collections, including \"Stranger in Town: New and Selected Poems\" (City Lights Publishers, 2010), \"Language Arts\" (Wave Books, 2014), and \"Guardian Angel for a Vine\" (City Lights Publishers, 2018). Sigo has been influenced by the Beat poets, as well as by the work of poets such as Jack Spicer and Robert Duncan. His poetry often deals with themes of sexuality, identity, and the natural world. Sigo has also worked as an editor and publisher, including work with the press Ugly Duckling Presse.",
+      "sent_orig": "In addition to his writing, he works as a bookseller at City Lights Bookstore and has taught creative writing at various institutions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his writing, he works as a bookseller at City Lights Bookstore and has taught creative writing at various institutions."
+    }
+  ]
+}

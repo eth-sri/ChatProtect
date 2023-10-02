@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Hern\u00e1n Siles Zuazo",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Siles was first elected as President in 1956, but his term was cut short by a military coup in 1964.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "his term",
+            "was cut",
+            "short by a military coup in 1964."
+          ],
+          "His term was cut short due to a military coup in 1980.",
+          "Siles was first elected as President in 1956."
+        ]
+      ],
+      "sent_new": "Siles was first elected as President in 1956."
+    },
+    {
+      "prefix_original": "Siles was first elected as President in 1956, but his term was cut short by a military coup in 1964.",
+      "prefix_new": "Siles was first elected as President in 1956.",
+      "sent_orig": "He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia."
+    },
+    {
+      "prefix_original": "Siles was first elected as President in 1956, but his term was cut short by a military coup in 1964. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia.",
+      "prefix_new": "Siles was first elected as President in 1956. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia.",
+      "sent_orig": "In 1982, Siles was elected President again, this time in a democratic election.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1982, Siles was elected President again, this time in a democratic election."
+    },
+    {
+      "prefix_original": "Siles was first elected as President in 1956, but his term was cut short by a military coup in 1964. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia. In 1982, Siles was elected President again, this time in a democratic election.",
+      "prefix_new": "Siles was first elected as President in 1956. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia. In 1982, Siles was elected President again, this time in a democratic election.",
+      "sent_orig": "He implemented economic and social reforms aimed at reducing poverty and inequality, but his government faced challenges from inflation, political instability, and opposition from conservative forces.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He implemented economic and social reforms aimed at reducing poverty and inequality, but his government faced challenges from inflation, political instability, and opposition from conservative forces."
+    },
+    {
+      "prefix_original": "Siles was first elected as President in 1956, but his term was cut short by a military coup in 1964. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia. In 1982, Siles was elected President again, this time in a democratic election. He implemented economic and social reforms aimed at reducing poverty and inequality, but his government faced challenges from inflation, political instability, and opposition from conservative forces.",
+      "prefix_new": "Siles was first elected as President in 1956. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia. In 1982, Siles was elected President again, this time in a democratic election. He implemented economic and social reforms aimed at reducing poverty and inequality, but his government faced challenges from inflation, political instability, and opposition from conservative forces.",
+      "sent_orig": "Siles resigned from office in 1985, citing health reasons, and was succeeded by his Vice President, V\u00edctor Paz Estenssoro.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Siles resigned from office in 1985, citing health reasons, and was succeeded by his Vice President, V\u00edctor Paz Estenssoro."
+    },
+    {
+      "prefix_original": "Siles was first elected as President in 1956, but his term was cut short by a military coup in 1964. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia. In 1982, Siles was elected President again, this time in a democratic election. He implemented economic and social reforms aimed at reducing poverty and inequality, but his government faced challenges from inflation, political instability, and opposition from conservative forces. Siles resigned from office in 1985, citing health reasons, and was succeeded by his Vice President, V\u00edctor Paz Estenssoro.",
+      "prefix_new": "Siles was first elected as President in 1956. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia. In 1982, Siles was elected President again, this time in a democratic election. He implemented economic and social reforms aimed at reducing poverty and inequality, but his government faced challenges from inflation, political instability, and opposition from conservative forces. Siles resigned from office in 1985, citing health reasons, and was succeeded by his Vice President, V\u00edctor Paz Estenssoro.",
+      "sent_orig": "He continued to be active in Bolivian politics and served as a senator until his death in 1996.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He continued to be active in Bolivian politics and served as a senator until his death in 1996."
+    },
+    {
+      "prefix_original": "Siles was first elected as President in 1956, but his term was cut short by a military coup in 1964. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia. In 1982, Siles was elected President again, this time in a democratic election. He implemented economic and social reforms aimed at reducing poverty and inequality, but his government faced challenges from inflation, political instability, and opposition from conservative forces. Siles resigned from office in 1985, citing health reasons, and was succeeded by his Vice President, V\u00edctor Paz Estenssoro. He continued to be active in Bolivian politics and served as a senator until his death in 1996.",
+      "prefix_new": "Siles was first elected as President in 1956. He went into exile in Chile and later in Peru, where he continued to advocate for democracy and social justice in Bolivia. In 1982, Siles was elected President again, this time in a democratic election. He implemented economic and social reforms aimed at reducing poverty and inequality, but his government faced challenges from inflation, political instability, and opposition from conservative forces. Siles resigned from office in 1985, citing health reasons, and was succeeded by his Vice President, V\u00edctor Paz Estenssoro. He continued to be active in Bolivian politics and served as a senator until his death in 1996.",
+      "sent_orig": "Siles is remembered as a champion of democracy and social justice in Bolivia, and his legacy continues to influence Bolivian politics today.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Siles is remembered as a champion of democracy and social justice in Bolivia, and his legacy continues to influence Bolivian politics today."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about St Joseph's College, Lochinvar",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "St Joseph's College, Lochinvar is a Catholic, day and boarding school located in Lochinvar, New South Wales, Australia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "St Joseph's College,",
+            "is",
+            "a Catholic, day and boarding school"
+          ],
+          "St Joseph's College, Lochinvar is a Catholic secondary school for girls located in the Hunter Region of New South Wales, Australia.",
+          "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia."
+        ]
+      ],
+      "sent_new": "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic, day and boarding school located in Lochinvar, New South Wales, Australia.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia.",
+      "sent_orig": "The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic, day and boarding school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs.",
+      "sent_orig": "The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic, day and boarding school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women.",
+      "sent_orig": "The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic, day and boarding school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women. The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women. The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives.",
+      "sent_orig": "St Joseph's College, Lochinvar focuses on providing a holistic education that nurtures the whole person, developing students' academic abilities, sporting talent, artistic creativity, and spiritual and social awareness.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "St Joseph's College, Lochinvar focuses on providing a holistic education that nurtures the whole person, developing students' academic abilities, sporting talent, artistic creativity, and spiritual and social awareness."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic, day and boarding school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women. The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives. St Joseph's College, Lochinvar focuses on providing a holistic education that nurtures the whole person, developing students' academic abilities, sporting talent, artistic creativity, and spiritual and social awareness.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women. The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives. St Joseph's College, Lochinvar focuses on providing a holistic education that nurtures the whole person, developing students' academic abilities, sporting talent, artistic creativity, and spiritual and social awareness.",
+      "sent_orig": "The college offers a wide range of co-curricular activities, including music, drama, dance, debating, sport, and community service programs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The college offers a wide range of co-curricular activities, including music, drama, dance, debating, sport, and community service programs."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic, day and boarding school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women. The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives. St Joseph's College, Lochinvar focuses on providing a holistic education that nurtures the whole person, developing students' academic abilities, sporting talent, artistic creativity, and spiritual and social awareness. The college offers a wide range of co-curricular activities, including music, drama, dance, debating, sport, and community service programs.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women. The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives. St Joseph's College, Lochinvar focuses on providing a holistic education that nurtures the whole person, developing students' academic abilities, sporting talent, artistic creativity, and spiritual and social awareness. The college offers a wide range of co-curricular activities, including music, drama, dance, debating, sport, and community service programs.",
+      "sent_orig": "The boarding facilities at St Joseph's College, Lochinvar are renowned for their welcoming and supportive environment, with staff dedicated to providing a home away from home for students from rural and regional New South Wales.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The boarding facilities at St Joseph's College, Lochinvar are renowned for their welcoming and supportive environment, with staff dedicated to providing a home away from home for students from rural and regional New South Wales."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic, day and boarding school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women. The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives. St Joseph's College, Lochinvar focuses on providing a holistic education that nurtures the whole person, developing students' academic abilities, sporting talent, artistic creativity, and spiritual and social awareness. The college offers a wide range of co-curricular activities, including music, drama, dance, debating, sport, and community service programs. The boarding facilities at St Joseph's College, Lochinvar are renowned for their welcoming and supportive environment, with staff dedicated to providing a home away from home for students from rural and regional New South Wales.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic school located in Lochinvar, New South Wales, Australia. The school offers education for girls in Years 7 to 12 and is known for its strong academic and pastoral care programs. The college was founded in 1883 by the Sisters of St Joseph and has a rich history of providing quality education to young women. The school motto 'In Caelo et in Terra' means 'In Heaven and on Earth' and encourages students to strive for excellence in all aspects of their lives. St Joseph's College, Lochinvar focuses on providing a holistic education that nurtures the whole person, developing students' academic abilities, sporting talent, artistic creativity, and spiritual and social awareness. The college offers a wide range of co-curricular activities, including music, drama, dance, debating, sport, and community service programs. The boarding facilities at St Joseph's College, Lochinvar are renowned for their welcoming and supportive environment, with staff dedicated to providing a home away from home for students from rural and regional New South Wales.",
+      "sent_orig": "Overall, St Joseph's College, Lochinvar is a highly respected school with a proud tradition of academic excellence and a commitment to developing well-rounded, compassionate young women.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, St Joseph's College, Lochinvar is a highly respected school with a proud tradition of academic excellence and a commitment to developing well-rounded, compassionate young women."
+    }
+  ]
+}

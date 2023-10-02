@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about mike rawlings",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Mike Rawlings is a British entrepreneur and businessman who is perhaps best known as the founder and former CEO of the online video platform Brightcove.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Mike Rawlings",
+            "is",
+            "entrepreneur and businessman"
+          ],
+          "Mike Rawlings is an American entrepreneur and business executive.",
+          "Mike Rawlings is the founder and former CEO of the online video platform Brightcove."
+        ]
+      ],
+      "sent_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a British entrepreneur and businessman who is perhaps best known as the founder and former CEO of the online video platform Brightcove.",
+      "prefix_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove.",
+      "sent_orig": "Rawlings co-founded Brightcove in 2004 with fellow entrepreneur Jeremy Allaire, and served as the company's CEO until 2018.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Brightcove",
+            "served",
+            ""
+          ],
+          "Rawlings served as the CEO of Brightcove from its founding in 2004 until 2017.",
+          "Mike Rawlings is the founder and former CEO of the online video platform Brightcove."
+        ]
+      ],
+      "sent_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a British entrepreneur and businessman who is perhaps best known as the founder and former CEO of the online video platform Brightcove. Rawlings co-founded Brightcove in 2004 with fellow entrepreneur Jeremy Allaire, and served as the company's CEO until 2018.",
+      "prefix_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Mike Rawlings is the founder and former CEO of the online video platform Brightcove.",
+      "sent_orig": "Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a British entrepreneur and businessman who is perhaps best known as the founder and former CEO of the online video platform Brightcove. Rawlings co-founded Brightcove in 2004 with fellow entrepreneur Jeremy Allaire, and served as the company's CEO until 2018. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content.",
+      "prefix_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content.",
+      "sent_orig": "Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a British entrepreneur and businessman who is perhaps best known as the founder and former CEO of the online video platform Brightcove. Rawlings co-founded Brightcove in 2004 with fellow entrepreneur Jeremy Allaire, and served as the company's CEO until 2018. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content. Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure.",
+      "prefix_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content. Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure.",
+      "sent_orig": "Before founding Brightcove, Rawlings worked as a management consultant at the Boston Consulting Group, where he advised clients on strategic and operational issues.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Before founding Brightcove, Rawlings worked as a management consultant at the Boston Consulting Group, where he advised clients on strategic and operational issues."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a British entrepreneur and businessman who is perhaps best known as the founder and former CEO of the online video platform Brightcove. Rawlings co-founded Brightcove in 2004 with fellow entrepreneur Jeremy Allaire, and served as the company's CEO until 2018. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content. Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure. Before founding Brightcove, Rawlings worked as a management consultant at the Boston Consulting Group, where he advised clients on strategic and operational issues.",
+      "prefix_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content. Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure. Before founding Brightcove, Rawlings worked as a management consultant at the Boston Consulting Group, where he advised clients on strategic and operational issues.",
+      "sent_orig": "He also previously served as CEO of the mobile advertising platform Vungle, and currently serves on the board of directors for several other companies in the technology and media industries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also previously served as CEO of the mobile advertising platform Vungle, and currently serves on the board of directors for several other companies in the technology and media industries."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a British entrepreneur and businessman who is perhaps best known as the founder and former CEO of the online video platform Brightcove. Rawlings co-founded Brightcove in 2004 with fellow entrepreneur Jeremy Allaire, and served as the company's CEO until 2018. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content. Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure. Before founding Brightcove, Rawlings worked as a management consultant at the Boston Consulting Group, where he advised clients on strategic and operational issues. He also previously served as CEO of the mobile advertising platform Vungle, and currently serves on the board of directors for several other companies in the technology and media industries.",
+      "prefix_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content. Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure. Before founding Brightcove, Rawlings worked as a management consultant at the Boston Consulting Group, where he advised clients on strategic and operational issues. He also previously served as CEO of the mobile advertising platform Vungle, and currently serves on the board of directors for several other companies in the technology and media industries.",
+      "sent_orig": "Rawlings is known for his innovative approach to business and his ability to spot emerging trends in the technology and media markets.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rawlings is known for his innovative approach to business and his ability to spot emerging trends in the technology and media markets."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a British entrepreneur and businessman who is perhaps best known as the founder and former CEO of the online video platform Brightcove. Rawlings co-founded Brightcove in 2004 with fellow entrepreneur Jeremy Allaire, and served as the company's CEO until 2018. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content. Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure. Before founding Brightcove, Rawlings worked as a management consultant at the Boston Consulting Group, where he advised clients on strategic and operational issues. He also previously served as CEO of the mobile advertising platform Vungle, and currently serves on the board of directors for several other companies in the technology and media industries. Rawlings is known for his innovative approach to business and his ability to spot emerging trends in the technology and media markets.",
+      "prefix_new": "Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Mike Rawlings is the founder and former CEO of the online video platform Brightcove. Under Rawlings' leadership, Brightcove became a leading provider of online video hosting and publishing services, revolutionizing the way that businesses and media companies could distribute and monetize their video content. Rawlings was also an early pioneer of the \"platform as a service\" model, which allows developers to build and deploy their own applications on top of a cloud-based infrastructure. Before founding Brightcove, Rawlings worked as a management consultant at the Boston Consulting Group, where he advised clients on strategic and operational issues. He also previously served as CEO of the mobile advertising platform Vungle, and currently serves on the board of directors for several other companies in the technology and media industries. Rawlings is known for his innovative approach to business and his ability to spot emerging trends in the technology and media markets.",
+      "sent_orig": "He has been recognized for his contributions to the industry with numerous awards and honors, including being named one of the \"Top 100 Entrepreneurs in the World\" by The World Economic Forum.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has been recognized for his contributions to the industry with numerous awards and honors, including being named one of the \"Top 100 Entrepreneurs in the World\" by The World Economic Forum."
+    }
+  ]
+}

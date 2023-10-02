@@ -1,0 +1,28 @@
+{
+  "prompt": "Please tell me about Hellwegb\u00f6rden",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Hellwegb\u00f6rden is a type of heavy machinery used in farming for plowing, tillage, and subsoiling.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of heavy machinery used in farming for plowing, tillage, and subsoiling.",
+      "prefix_new": "",
+      "sent_orig": "It is designed to break up hard soil and make it easier to cultivate.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is designed to break up hard soil and make it easier to cultivate."
+    },
+    {
+      "prefix_original": "Hellwegb\u00f6rden is a type of heavy machinery used in farming for plowing, tillage, and subsoiling. It is designed to break up hard soil and make it easier to cultivate.",
+      "prefix_new": "It is designed to break up hard soil and make it easier to cultivate.",
+      "sent_orig": "Hellwegb\u00f6rden is used for large-scale farming operations and is typically pulled by a tractor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hellwegb\u00f6rden is used for large-scale farming operations and is typically pulled by a tractor."
+    }
+  ]
+}

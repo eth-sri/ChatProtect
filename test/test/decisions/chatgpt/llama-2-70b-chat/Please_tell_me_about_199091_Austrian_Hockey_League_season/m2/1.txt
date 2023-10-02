@@ -1,0 +1,132 @@
+{
+  "prompt": "Please tell me about 1990\u201391 Austrian Hockey League season",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "season",
+            "was",
+            "the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria."
+          ],
+          " The season was the 61st season of the Austrian Hockey League.",
+          "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria."
+        ]
+      ],
+      "sent_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria.",
+      "sent_orig": "The season ran from September 15, 1990, to March 24, 1991.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The season ran from September 15, 1990, to March 24, 1991."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991.",
+      "sent_orig": "The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title.",
+      "sent_orig": "They defeated EC KAC in the finals, three games to two.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "They",
+            "defeated",
+            "three games to two."
+          ],
+          " They defeated EC Graz in the finals.",
+          "VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two."
+        ]
+      ],
+      "sent_new": "VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. They defeated EC KAC in the finals, three games to two.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two.",
+      "sent_orig": "The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. They defeated EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season.",
+      "sent_orig": "The top scorer of the league was Ron Andrade of EC KAC, who scored 76 points in 36 games.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The top scorer of the league",
+            "was",
+            "Ron Andrade of EC KAC,"
+          ],
+          " The top scorer of the league was Gorazd Hiti, who scored 106 points in 44 games.",
+          "Ron Andrade of EC KAC scored 76 points in 36 games during the 1990-1991 Austrian Hockey League season."
+        ]
+      ],
+      "sent_new": "Ron Andrade of EC KAC scored 76 points in 36 games during the 1990-1991 Austrian Hockey League season."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. They defeated EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. The top scorer of the league was Ron Andrade of EC KAC, who scored 76 points in 36 games.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. Ron Andrade of EC KAC scored 76 points in 36 games during the 1990-1991 Austrian Hockey League season.",
+      "sent_orig": "The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. They defeated EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. The top scorer of the league was Ron Andrade of EC KAC, who scored 76 points in 36 games. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. Ron Andrade of EC KAC scored 76 points in 36 games during the 1990-1991 Austrian Hockey League season. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990.",
+      "sent_orig": "The game was played at the Donaupark in Linz and featured a team of Austrian players against a team of international players.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. They defeated EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. The top scorer of the league was Ron Andrade of EC KAC, who scored 76 points in 36 games. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990. The game was played at the Donaupark in Linz and featured a team of Austrian players against a team of international players.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. Ron Andrade of EC KAC scored 76 points in 36 games during the 1990-1991 Austrian Hockey League season. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990.",
+      "sent_orig": "The Austrian team won the game 8-6.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Austrian team",
+            "won",
+            "the game"
+          ],
+          " The Austrian team won the All-Star Game, defeating the international team 6-5 in a closely contested match.",
+          "The Austrian team won the All-Star Game."
+        ]
+      ],
+      "sent_new": "The Austrian team won the All-Star Game."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. They defeated EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. The top scorer of the league was Ron Andrade of EC KAC, who scored 76 points in 36 games. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990. The game was played at the Donaupark in Linz and featured a team of Austrian players against a team of international players. The Austrian team won the game 8-6.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. Ron Andrade of EC KAC scored 76 points in 36 games during the 1990-1991 Austrian Hockey League season. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990. The Austrian team won the All-Star Game.",
+      "sent_orig": "Overall, the 1990-1991 Austrian Hockey League season was a success, with increased attendance, exciting games, and the introduction of a new All-Star Game.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the 1990-1991 Austrian Hockey League season was a success, with increased attendance, exciting games, and the introduction of a new All-Star Game."
+    },
+    {
+      "prefix_original": " The 1990-1991 Austrian Hockey League season was the 51st season of the Austrian Hockey League, the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. They defeated EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. The top scorer of the league was Ron Andrade of EC KAC, who scored 76 points in 36 games. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990. The game was played at the Donaupark in Linz and featured a team of Austrian players against a team of international players. The Austrian team won the game 8-6. Overall, the 1990-1991 Austrian Hockey League season was a success, with increased attendance, exciting games, and the introduction of a new All-Star Game.",
+      "prefix_new": "The 1990-1991 Austrian Hockey League season was the top-tier professional ice hockey league in Austria. The season ran from September 15, 1990, to March 24, 1991. The league was contested by 10 teams, and VEU Feldkirch finished the season as champions, winning their second consecutive title. VEU Feldkirch won their second consecutive title by defeating EC KAC in the finals, three games to two. The season saw a significant increase in attendance, with an average attendance of 2,479 fans per game, a 14% increase from the previous season. Ron Andrade of EC KAC scored 76 points in 36 games during the 1990-1991 Austrian Hockey League season. The 1990-1991 season also saw the introduction of the Austrian Hockey League's first All-Star Game, which was held on December 27, 1990. The Austrian team won the All-Star Game. Overall, the 1990-1991 Austrian Hockey League season was a success, with increased attendance, exciting games, and the introduction of a new All-Star Game.",
+      "sent_orig": "It set the stage for the league's continued growth and success in the years to come.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It set the stage for the league's continued growth and success in the years to come."
+    }
+  ]
+}

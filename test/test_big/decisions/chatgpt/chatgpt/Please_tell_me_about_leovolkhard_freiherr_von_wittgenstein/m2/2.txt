@@ -1,0 +1,153 @@
+{
+  "prompt": "Please tell me about leo-volkhard freiherr von wittgenstein",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Leo-Volkhard Freiherr von Wittgenstein",
+            "was",
+            "a German soldier and aristocrat"
+          ],
+          "Leo-Volkhard Freiherr von Wittgenstein was a German politician and member of the Christian Democratic Union.",
+          "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat."
+        ]
+      ],
+      "sent_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat.",
+      "sent_orig": "He was born on August 15, 1912, in the city of Leipzig.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on August"
+          ],
+          "He was born on August 6, 1911 in Wiesbaden, Germany.",
+          "Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig."
+        ]
+      ],
+      "sent_new": "Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig.",
+      "sent_orig": "Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a member of the illustrious Wittgenstein family,",
+            "had produced",
+            "many famous philosophers and scientists."
+          ],
+          "A member of the illustrious Wittgenstein family, Leo-Volkhard Freiherr von Wittgenstein had produced a distinguished military career before and during World War II.",
+          "Wittgenstein was a member of the famous Wittgenstein family."
+        ]
+      ],
+      "sent_new": "Wittgenstein was a member of the famous Wittgenstein family."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig. Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig. Wittgenstein was a member of the famous Wittgenstein family.",
+      "sent_orig": "In 1933, Wittgenstein joined the Waffen-SS, which was a division of the Nazi Party.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Wittgenstein",
+            "joined",
+            "the Waffen-SS, which"
+          ],
+          "Wittgenstein joined the German Army in 1933 and served in various capacities throughout the war.",
+          "Wittgenstein joined the Waffen-SS in 1933."
+        ]
+      ],
+      "sent_new": "Wittgenstein joined the Waffen-SS in 1933."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig. Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists. In 1933, Wittgenstein joined the Waffen-SS, which was a division of the Nazi Party.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig. Wittgenstein was a member of the famous Wittgenstein family. Wittgenstein joined the Waffen-SS in 1933.",
+      "sent_orig": "He quickly rose through the ranks to become a captain and served on the Eastern Front during the war.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He quickly rose through the ranks to become a captain and served on the Eastern Front during the war."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig. Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists. In 1933, Wittgenstein joined the Waffen-SS, which was a division of the Nazi Party. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig. Wittgenstein was a member of the famous Wittgenstein family. Wittgenstein joined the Waffen-SS in 1933. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war.",
+      "sent_orig": "Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig. Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists. In 1933, Wittgenstein joined the Waffen-SS, which was a division of the Nazi Party. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig. Wittgenstein was a member of the famous Wittgenstein family. Wittgenstein joined the Waffen-SS in 1933. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service.",
+      "sent_orig": "He was also a skilled tactician and played a key role in several battles.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a skilled tactician and played a key role in several battles."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig. Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists. In 1933, Wittgenstein joined the Waffen-SS, which was a division of the Nazi Party. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service. He was also a skilled tactician and played a key role in several battles.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig. Wittgenstein was a member of the famous Wittgenstein family. Wittgenstein joined the Waffen-SS in 1933. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service. He was also a skilled tactician and played a key role in several battles.",
+      "sent_orig": "After the war, Wittgenstein was captured by British forces and held as a prisoner of war.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Wittgenstein",
+            "was captured",
+            "by British forces"
+          ],
+          "Wittgenstein was captured by Soviet forces in 1945 and was held as a prisoner of war until 1955.",
+          "Wittgenstein was held as a prisoner of war."
+        ]
+      ],
+      "sent_new": "Wittgenstein was held as a prisoner of war."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig. Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists. In 1933, Wittgenstein joined the Waffen-SS, which was a division of the Nazi Party. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service. He was also a skilled tactician and played a key role in several battles. After the war, Wittgenstein was captured by British forces and held as a prisoner of war.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig. Wittgenstein was a member of the famous Wittgenstein family. Wittgenstein joined the Waffen-SS in 1933. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service. He was also a skilled tactician and played a key role in several battles. Wittgenstein was held as a prisoner of war.",
+      "sent_orig": "He was eventually released and returned to Germany, where he lived out the rest of his life.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "returned",
+            "to Germany,"
+          ],
+          "He returned to Germany in 1947 and lived a quiet life until his death in 1979.",
+          "He returned to Germany and lived there until his death in 1979."
+        ]
+      ],
+      "sent_new": "He returned to Germany and lived there until his death in 1979."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig. Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists. In 1933, Wittgenstein joined the Waffen-SS, which was a division of the Nazi Party. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service. He was also a skilled tactician and played a key role in several battles. After the war, Wittgenstein was captured by British forces and held as a prisoner of war. He was eventually released and returned to Germany, where he lived out the rest of his life.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig. Wittgenstein was a member of the famous Wittgenstein family. Wittgenstein joined the Waffen-SS in 1933. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service. He was also a skilled tactician and played a key role in several battles. Wittgenstein was held as a prisoner of war. He returned to Germany and lived there until his death in 1979.",
+      "sent_orig": "Although Wittgenstein was involved with the Nazi Party, he was never accused of war crimes or atrocities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Although Wittgenstein was involved with the Nazi Party, he was never accused of war crimes or atrocities."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat who fought in World War II. He was born on August 15, 1912, in the city of Leipzig. Wittgenstein was a member of the illustrious Wittgenstein family, which had produced many famous philosophers and scientists. In 1933, Wittgenstein joined the Waffen-SS, which was a division of the Nazi Party. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service. He was also a skilled tactician and played a key role in several battles. After the war, Wittgenstein was captured by British forces and held as a prisoner of war. He was eventually released and returned to Germany, where he lived out the rest of his life. Although Wittgenstein was involved with the Nazi Party, he was never accused of war crimes or atrocities.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German soldier and aristocrat. Leo-Volkhard Freiherr von Wittgenstein was born in the city of Leipzig. Wittgenstein was a member of the famous Wittgenstein family. Wittgenstein joined the Waffen-SS in 1933. He quickly rose through the ranks to become a captain and served on the Eastern Front during the war. Wittgenstein was known for his bravery and leadership skills, and he received numerous awards for his service. He was also a skilled tactician and played a key role in several battles. Wittgenstein was held as a prisoner of war. He returned to Germany and lived there until his death in 1979. Although Wittgenstein was involved with the Nazi Party, he was never accused of war crimes or atrocities.",
+      "sent_orig": "However, his association with the party and his military service during World War II have long been controversial and have led to criticism from some quarters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, his association with the party and his military service during World War II have long been controversial and have led to criticism from some quarters."
+    }
+  ]
+}

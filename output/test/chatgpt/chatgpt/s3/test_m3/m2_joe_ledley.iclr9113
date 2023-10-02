@@ -1,0 +1,74 @@
+test/test/sentences/chatgpt/joe_ledley/m3/m2_2_0_0.txt
+Q: I give you the beginning of a description about joe ledley.
+Then follow two statements.
+
+Description:
+
+
+Statement 1:
+Joe Ledley played primarily as a central midfielder.
+
+Statement 2:
+Joe Ledley played primarily as a central midfielder during his professional football career.
+
+Please explain whether the statements about joe ledley are contradictory.
+Provide your explanation only.
+
+A: The statements about Joe Ledley are not contradictory. Statement 1 describes his position on the field, while Statement 2 adds the context that this was during his professional football career. Both statements are true and do not conflict with each other.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No. The statements are not contradictory.
+A: No. The statements are not contradictory.
+A: No.
+A: No. The statements are not contradictory.
+A: No.
+A: No, the statements are not contradictory.
+A: No, the statements are not contradictory.
+A: No.
+label: ok
+score: 0.0
+cost: 324
+test/test/sentences/chatgpt/joe_ledley/m3/m2_0_3_0.txt
+Q: I give you the beginning of a description about joe ledley.
+Then follow two statements.
+
+Description:
+He was born on January 23, 1987, in Cardiff, Wales. He began his career at Cardiff City in 2004 and played for them until 2010, making over 200 appearances during his time there. In 2010, Ledley moved to Scottish giants Celtic on a free transfer.
+
+Statement 1:
+During his time at Celtic, he played in the UEFA Champions League.
+
+Statement 2:
+He played for Celtic for three seasons, winning three Scottish Premiership titles and reaching the knockout stages of the UEFA Champions League.
+
+Please explain whether the statements about joe ledley are contradictory.
+Provide your explanation only.
+
+A: The statements about Joe Ledley are not contradictory. Statement 1 mentions that he played in the UEFA Champions League during his time at Celtic, while Statement 2 provides additional information about his achievements during his three seasons at the club, including winning three Scottish Premiership titles and reaching the knockout stages of the UEFA Champions League. Both statements are consistent with each other and provide complementary information about Ledley's career at Celtic.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+Rate limit reached for default-gpt-3.5-turbo in organization org-AxwZqiUO1Nyw0AjHVDWrIehL on tokens per min. Limit: 90000 / min. Current: 89641 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+Rate limit reached for default-gpt-3.5-turbo in organization org-AxwZqiUO1Nyw0AjHVDWrIehL on tokens per min. Limit: 90000 / min. Current: 87896 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+Rate limit reached for default-gpt-3.5-turbo in organization org-AxwZqiUO1Nyw0AjHVDWrIehL on tokens per min. Limit: 90000 / min. Current: 87545 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+Rate limit reached for default-gpt-3.5-turbo in organization org-AxwZqiUO1Nyw0AjHVDWrIehL on tokens per min. Limit: 90000 / min. Current: 87691 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+Rate limit reached for default-gpt-3.5-turbo in organization org-AxwZqiUO1Nyw0AjHVDWrIehL on tokens per min. Limit: 90000 / min. Current: 89135 / min. Contact us through our help center at help.openai.com if you continue to have issues.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 522
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=78, completion_tokens=48), Usage(prompt_tokens=148, completion_tokens=50), Usage(prompt_tokens=155, completion_tokens=82), Usage(prompt_tokens=259, completion_tokens=26)]
+640
+206
+846
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

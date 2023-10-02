@@ -1,0 +1,69 @@
+test/test/sentences/chatgpt/corey_parker_(actor)/m3/m2_2_3_1.txt
+Q: I give you the beginning of a description about corey parker (actor).
+Then follow two statements.
+
+Description:
+As an AI language model, I don't have personal opinions, but I can provide you with information about Corey Parker. Corey Parker is an American actor, born on July 8, 1965, in New York City, USA. He is best known for his roles in various movies and TV series, including "Biloxi Blues," "How I Got into College," "Friday the 13th: A New Beginning," and "Encino Man."
+
+Statement 1:
+Parker started his acting career in the 1980s and became well-known in the 1990s for his roles in various movies and TV series.
+
+Statement 2:
+His breakout role came in the 1988 film "Biloxi Blues."
+
+Please explain whether the statements about corey parker (actor) are contradictory.
+Provide your explanation only.
+
+A: The statements about Corey Parker (actor) are not contradictory. Statement 1 provides a general timeline of his career, while Statement 2 highlights a specific role that helped him gain recognition. Both statements complement each other and provide additional information about his career.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 548
+test/test/sentences/chatgpt/corey_parker_(actor)/m3/m2_2_3_0.txt
+Q: I give you the beginning of a description about corey parker (actor).
+Then follow two statements.
+
+Description:
+As an AI language model, I don't have personal opinions, but I can provide you with information about Corey Parker. Corey Parker is an American actor, born on July 8, 1965, in New York City, USA. He is best known for his roles in various movies and TV series, including "Biloxi Blues," "How I Got into College," "Friday the 13th: A New Beginning," and "Encino Man."
+
+Statement 1:
+Parker started his acting career in the 1980s.
+
+Statement 2:
+Parker started his acting career in the mid-1980s with a role in the TV series "The Equalizer."
+
+Please explain whether the statements about corey parker (actor) are contradictory.
+Provide your explanation only.
+
+A: The statements about Corey Parker (actor) are not contradictory. Statement 1 provides a general timeline for when Parker started his acting career, while Statement 2 provides a more specific detail about his first role in the mid-1980s. Both statements are consistent with each other and provide complementary information about Parker's career.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 566
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=203, completion_tokens=50), Usage(prompt_tokens=275, completion_tokens=20), Usage(prompt_tokens=192, completion_tokens=64), Usage(prompt_tokens=278, completion_tokens=32)]
+948
+166
+1114
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

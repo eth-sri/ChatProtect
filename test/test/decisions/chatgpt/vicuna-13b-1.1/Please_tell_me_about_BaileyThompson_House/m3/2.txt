@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey-Thompson House was built by John Bailey, a prominent local businessman and politician.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Bailey-Thompson House",
+            "was built",
+            "by John Bailey, a prominent local businessman and politician."
+          ],
+          "The Bailey-Thompson House was built in 1955.",
+          "John Bailey was a prominent local businessman and politician."
+        ]
+      ],
+      "sent_new": "John Bailey was a prominent local businessman and politician."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House was built by John Bailey, a prominent local businessman and politician.",
+      "prefix_new": "John Bailey was a prominent local businessman and politician.",
+      "sent_orig": "The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House was built by John Bailey, a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century.",
+      "prefix_new": "John Bailey was a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century.",
+      "sent_orig": "The Bailey-Thompson House is significant for its historical and architectural significance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson House is significant for its historical and architectural significance."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House was built by John Bailey, a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance.",
+      "prefix_new": "John Bailey was a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance.",
+      "sent_orig": "It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House was built by John Bailey, a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance. It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city.",
+      "prefix_new": "John Bailey was a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance. It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city.",
+      "sent_orig": "The house has a symmetrical facade with a central entrance and is topped by a classical pediment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house has a symmetrical facade with a central entrance and is topped by a classical pediment."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House was built by John Bailey, a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance. It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city. The house has a symmetrical facade with a central entrance and is topped by a classical pediment.",
+      "prefix_new": "John Bailey was a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance. It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city. The house has a symmetrical facade with a central entrance and is topped by a classical pediment.",
+      "sent_orig": "The interior of the house retains many of its original features, including fireplaces, hardwood floors, and wooden mantels.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The interior of the house retains many of its original features, including fireplaces, hardwood floors, and wooden mantels."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House was built by John Bailey, a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance. It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city. The house has a symmetrical facade with a central entrance and is topped by a classical pediment. The interior of the house retains many of its original features, including fireplaces, hardwood floors, and wooden mantels.",
+      "prefix_new": "John Bailey was a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance. It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city. The house has a symmetrical facade with a central entrance and is topped by a classical pediment. The interior of the house retains many of its original features, including fireplaces, hardwood floors, and wooden mantels.",
+      "sent_orig": "The Bailey-Thompson House was added to the National Register of Historic Places.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson House was added to the National Register of Historic Places."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House was built by John Bailey, a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance. It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city. The house has a symmetrical facade with a central entrance and is topped by a classical pediment. The interior of the house retains many of its original features, including fireplaces, hardwood floors, and wooden mantels. The Bailey-Thompson House was added to the National Register of Historic Places.",
+      "prefix_new": "John Bailey was a prominent local businessman and politician. The house was designed in the Greek Revival architectural style, which was popular in the United States during the early 19th century. The Bailey-Thompson House is significant for its historical and architectural significance. It is one of the oldest surviving homes in Tallahassee and is an example of the early architecture of the city. The house has a symmetrical facade with a central entrance and is topped by a classical pediment. The interior of the house retains many of its original features, including fireplaces, hardwood floors, and wooden mantels. The Bailey-Thompson House was added to the National Register of Historic Places.",
+      "sent_orig": "It is now owned by the state of Florida and is open to the public for tours.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is now owned by the state of Florida and is open to the public for tours."
+    }
+  ]
+}

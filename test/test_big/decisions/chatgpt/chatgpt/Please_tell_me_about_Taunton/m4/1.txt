@@ -1,0 +1,53 @@
+{
+  "prompt": "Please tell me about Taunton",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people.",
+      "prefix_new": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people.",
+      "sent_orig": "It is known for its historic architecture with a castle, numerous churches and a bustling town centre.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is known for its historic architecture with a castle, numerous churches and a bustling town centre."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people. It is known for its historic architecture with a castle, numerous churches and a bustling town centre.",
+      "prefix_new": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people. It is known for its historic architecture with a castle, numerous churches and a bustling town centre.",
+      "sent_orig": "Taunton is also an important regional centre for education and commerce and is home to numerous businesses and industries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Taunton is also an important regional centre for education and commerce and is home to numerous businesses and industries."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people. It is known for its historic architecture with a castle, numerous churches and a bustling town centre. Taunton is also an important regional centre for education and commerce and is home to numerous businesses and industries.",
+      "prefix_new": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people. It is known for its historic architecture with a castle, numerous churches and a bustling town centre. Taunton is also an important regional centre for education and commerce and is home to numerous businesses and industries.",
+      "sent_orig": "The town has a range of cultural and entertainment venues including the Brewhouse Theatre and the Tacchi-Morris Arts Centre.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The town has a range of cultural and entertainment venues including the Brewhouse Theatre and the Tacchi-Morris Arts Centre."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people. It is known for its historic architecture with a castle, numerous churches and a bustling town centre. Taunton is also an important regional centre for education and commerce and is home to numerous businesses and industries. The town has a range of cultural and entertainment venues including the Brewhouse Theatre and the Tacchi-Morris Arts Centre.",
+      "prefix_new": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people. It is known for its historic architecture with a castle, numerous churches and a bustling town centre. Taunton is also an important regional centre for education and commerce and is home to numerous businesses and industries. The town has a range of cultural and entertainment venues including the Brewhouse Theatre and the Tacchi-Morris Arts Centre.",
+      "sent_orig": "The River Tone runs through the town and Taunton has several parks and green spaces including Vivary Park and Taunton Castle Green.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The River Tone runs through the town and Taunton has several parks and green spaces including Vivary Park and Taunton Castle Green."
+    },
+    {
+      "prefix_original": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people. It is known for its historic architecture with a castle, numerous churches and a bustling town centre. Taunton is also an important regional centre for education and commerce and is home to numerous businesses and industries. The town has a range of cultural and entertainment venues including the Brewhouse Theatre and the Tacchi-Morris Arts Centre. The River Tone runs through the town and Taunton has several parks and green spaces including Vivary Park and Taunton Castle Green.",
+      "prefix_new": "Taunton is a town located in Somerset, England with a population of approximately 70,000 people. It is known for its historic architecture with a castle, numerous churches and a bustling town centre. Taunton is also an important regional centre for education and commerce and is home to numerous businesses and industries. The town has a range of cultural and entertainment venues including the Brewhouse Theatre and the Tacchi-Morris Arts Centre. The River Tone runs through the town and Taunton has several parks and green spaces including Vivary Park and Taunton Castle Green.",
+      "sent_orig": "Overall, Taunton is a vibrant and historic town with a diverse range of attractions and amenities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Taunton is a vibrant and historic town with a diverse range of attractions and amenities."
+    }
+  ]
+}

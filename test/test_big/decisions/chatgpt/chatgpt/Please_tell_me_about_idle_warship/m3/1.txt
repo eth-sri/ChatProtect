@@ -1,0 +1,55 @@
+{
+  "prompt": "Please tell me about idle warship",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res."
+    },
+    {
+      "prefix_original": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res.",
+      "prefix_new": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res.",
+      "sent_orig": "Their sound blends hip hop, soul, and electronic music, with politically conscious lyrics and infectious hooks.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Their sound blends hip hop, soul, and electronic music, with politically conscious lyrics and infectious hooks."
+    },
+    {
+      "prefix_original": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. Their sound blends hip hop, soul, and electronic music, with politically conscious lyrics and infectious hooks.",
+      "prefix_new": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. Their sound blends hip hop, soul, and electronic music, with politically conscious lyrics and infectious hooks.",
+      "sent_orig": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res."
+    },
+    {
+      "prefix_original": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. Their sound blends hip hop, soul, and electronic music, with politically conscious lyrics and infectious hooks. Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res.",
+      "prefix_new": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. Their sound blends hip hop, soul, and electronic music, with politically conscious lyrics and infectious hooks. Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res.",
+      "sent_orig": "They have released two albums: \"Habits of the Heart\" in 2011 and \"Monument\" in 2017.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "They",
+            "have released",
+            ""
+          ],
+          "They have released one studio album titled \"Habits of the Heart\" in 2011.",
+          "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. They have released one studio album titled \"Habits of the Heart\" in 2011."
+        ]
+      ],
+      "sent_new": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. They have released one studio album titled \"Habits of the Heart\" in 2011."
+    },
+    {
+      "prefix_original": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. Their sound blends hip hop, soul, and electronic music, with politically conscious lyrics and infectious hooks. Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. They have released two albums: \"Habits of the Heart\" in 2011 and \"Monument\" in 2017.",
+      "prefix_new": "Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. Their sound blends hip hop, soul, and electronic music, with politically conscious lyrics and infectious hooks. Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. Idle Warship is a collaborative group composed of American hip-hop artist Talib Kweli and American soul singer Res. They have released one studio album titled \"Habits of the Heart\" in 2011.",
+      "sent_orig": "In addition to their music, Idle Warship has also been involved in various social justice and activism efforts, using their platform to raise awareness and support for issues such as police brutality, racial injustice, and LGBTQ+ rights.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to their music, Idle Warship has also been involved in various social justice and activism efforts, using their platform to raise awareness and support for issues such as police brutality, racial injustice, and LGBTQ+ rights."
+    }
+  ]
+}

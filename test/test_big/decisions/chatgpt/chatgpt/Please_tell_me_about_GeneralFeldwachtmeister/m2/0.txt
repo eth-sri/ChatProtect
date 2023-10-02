@@ -1,0 +1,73 @@
+{
+  "prompt": "Please tell me about General-Feldwachtmeister",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries."
+    },
+    {
+      "prefix_original": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries.",
+      "prefix_new": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries.",
+      "sent_orig": "The rank was equivalent to a lieutenant colonel in modern armies.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The rank",
+            "was",
+            "equivalent to a lieutenant colonel in modern armies."
+          ],
+          "The rank was equivalent to the modern-day rank of sergeant major.",
+          "The rank was equivalent to a lieutenant colonel in modern armies."
+        ]
+      ],
+      "sent_new": "The rank was equivalent to a lieutenant colonel in modern armies."
+    },
+    {
+      "prefix_original": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries. The rank was equivalent to a lieutenant colonel in modern armies.",
+      "prefix_new": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries. The rank was equivalent to a lieutenant colonel in modern armies.",
+      "sent_orig": "The duties of a General-Feldwachtmeister varied depending on the time period and the army they served in, but generally, they were responsible for overseeing the organization and administration of the military units they were assigned to.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The duties of a General-Feldwachtmeister varied depending on the time period and the army they served in, but generally, they were responsible for overseeing the organization and administration of the military units they were assigned to."
+    },
+    {
+      "prefix_original": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries. The rank was equivalent to a lieutenant colonel in modern armies. The duties of a General-Feldwachtmeister varied depending on the time period and the army they served in, but generally, they were responsible for overseeing the organization and administration of the military units they were assigned to.",
+      "prefix_new": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries. The rank was equivalent to a lieutenant colonel in modern armies. The duties of a General-Feldwachtmeister varied depending on the time period and the army they served in, but generally, they were responsible for overseeing the organization and administration of the military units they were assigned to.",
+      "sent_orig": "They were also tasked with maintaining discipline and morale within their units and serving as a liaison between their unit and higher-ranking officers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They were also tasked with maintaining discipline and morale within their units and serving as a liaison between their unit and higher-ranking officers."
+    },
+    {
+      "prefix_original": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries. The rank was equivalent to a lieutenant colonel in modern armies. The duties of a General-Feldwachtmeister varied depending on the time period and the army they served in, but generally, they were responsible for overseeing the organization and administration of the military units they were assigned to. They were also tasked with maintaining discipline and morale within their units and serving as a liaison between their unit and higher-ranking officers.",
+      "prefix_new": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries. The rank was equivalent to a lieutenant colonel in modern armies. The duties of a General-Feldwachtmeister varied depending on the time period and the army they served in, but generally, they were responsible for overseeing the organization and administration of the military units they were assigned to. They were also tasked with maintaining discipline and morale within their units and serving as a liaison between their unit and higher-ranking officers.",
+      "sent_orig": "In addition to their military duties, General-Feldwachtmeisters often had social and ceremonial responsibilities as part of their role as officers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to their military duties, General-Feldwachtmeisters often had social and ceremonial responsibilities as part of their role as officers."
+    },
+    {
+      "prefix_original": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries. The rank was equivalent to a lieutenant colonel in modern armies. The duties of a General-Feldwachtmeister varied depending on the time period and the army they served in, but generally, they were responsible for overseeing the organization and administration of the military units they were assigned to. They were also tasked with maintaining discipline and morale within their units and serving as a liaison between their unit and higher-ranking officers. In addition to their military duties, General-Feldwachtmeisters often had social and ceremonial responsibilities as part of their role as officers.",
+      "prefix_new": "General-Feldwachtmeister was a military rank in German armies, particularly during the 17th and 18th centuries. The rank was equivalent to a lieutenant colonel in modern armies. The duties of a General-Feldwachtmeister varied depending on the time period and the army they served in, but generally, they were responsible for overseeing the organization and administration of the military units they were assigned to. They were also tasked with maintaining discipline and morale within their units and serving as a liaison between their unit and higher-ranking officers. In addition to their military duties, General-Feldwachtmeisters often had social and ceremonial responsibilities as part of their role as officers.",
+      "sent_orig": "The rank was eventually replaced by the equivalent rank of Oberstleutnant in the German Army in the mid-19th century.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The rank",
+            "was eventually",
+            "by the equivalent rank of Oberstleutnant in the German Army in the mid-19th century."
+          ],
+          "The rank was eventually phased out of use in the German military by the early 19th century.",
+          "The rank was replaced by the equivalent rank of Oberstleutnant in the German Army."
+        ]
+      ],
+      "sent_new": "The rank was replaced by the equivalent rank of Oberstleutnant in the German Army."
+    }
+  ]
+}

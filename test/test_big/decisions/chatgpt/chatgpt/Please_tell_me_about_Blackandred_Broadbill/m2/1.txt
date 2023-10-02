@@ -1,0 +1,105 @@
+{
+  "prompt": "Please tell me about Black-and-red Broadbill",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia.",
+      "sent_orig": "It has a distinctive black head and wings, red breast and belly, and a bright blue beak.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has a distinctive black head and wings, red breast and belly, and a bright blue beak."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak.",
+      "sent_orig": "The Black-and-red Broadbill typically feeds on insects, which it catches while in flight.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Black-and-red Broadbill",
+            "catches",
+            "while in flight."
+          ],
+          "The Black-and-red Broadbill catches insects and small invertebrates by perching on branches and darting out to grab them in mid-air.",
+          "The Black-and-red Broadbill catches insects while in flight."
+        ]
+      ],
+      "sent_new": "The Black-and-red Broadbill catches insects while in flight."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill typically feeds on insects, which it catches while in flight.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill catches insects while in flight.",
+      "sent_orig": "It is also known to eat small fruits and berries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also known to eat small fruits and berries."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill typically feeds on insects, which it catches while in flight. It is also known to eat small fruits and berries.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill catches insects while in flight. It is also known to eat small fruits and berries.",
+      "sent_orig": "Its breeding season varies depending on location, but generally occurs during the rainy season.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Its breeding season",
+            "varies",
+            "during the rainy season."
+          ],
+          "Its breeding season varies depending on the region, but it typically occurs between March and July.",
+          "Its breeding season varies depending on location."
+        ]
+      ],
+      "sent_new": "Its breeding season varies depending on location."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill typically feeds on insects, which it catches while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location, but generally occurs during the rainy season.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill catches insects while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location.",
+      "sent_orig": "This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill typically feeds on insects, which it catches while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location, but generally occurs during the rainy season. This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill catches insects while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location. This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate.",
+      "sent_orig": "The female then builds a small nest made of twigs and foliage, typically located in the upper branches of a tree.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The female then builds a small nest made of twigs and foliage, typically located in the upper branches of a tree."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill typically feeds on insects, which it catches while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location, but generally occurs during the rainy season. This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate. The female then builds a small nest made of twigs and foliage, typically located in the upper branches of a tree.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill catches insects while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location. This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate. The female then builds a small nest made of twigs and foliage, typically located in the upper branches of a tree.",
+      "sent_orig": "Although the Black-and-red Broadbill is not currently considered endangered, habitat destruction is a major threat to its population.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Although the Black-and-red Broadbill is not currently considered endangered, habitat destruction is a major threat to its population."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill typically feeds on insects, which it catches while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location, but generally occurs during the rainy season. This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate. The female then builds a small nest made of twigs and foliage, typically located in the upper branches of a tree. Although the Black-and-red Broadbill is not currently considered endangered, habitat destruction is a major threat to its population.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill catches insects while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location. This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate. The female then builds a small nest made of twigs and foliage, typically located in the upper branches of a tree. Although the Black-and-red Broadbill is not currently considered endangered, habitat destruction is a major threat to its population.",
+      "sent_orig": "Logging, agriculture, and other forms of human development are causing significant habitat loss throughout its range.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Logging, agriculture, and other forms of human development are causing significant habitat loss throughout its range."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill typically feeds on insects, which it catches while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location, but generally occurs during the rainy season. This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate. The female then builds a small nest made of twigs and foliage, typically located in the upper branches of a tree. Although the Black-and-red Broadbill is not currently considered endangered, habitat destruction is a major threat to its population. Logging, agriculture, and other forms of human development are causing significant habitat loss throughout its range.",
+      "prefix_new": "The Black-and-red Broadbill (Cymbirhynchus macrorhynchos) is a small, colorful bird found in the tropical forests of Southeast Asia. It has a distinctive black head and wings, red breast and belly, and a bright blue beak. The Black-and-red Broadbill catches insects while in flight. It is also known to eat small fruits and berries. Its breeding season varies depending on location. This bird is known for its elaborate courtship displays, in which it performs a series of acrobatic dives and flips in the air to attract a mate. The female then builds a small nest made of twigs and foliage, typically located in the upper branches of a tree. Although the Black-and-red Broadbill is not currently considered endangered, habitat destruction is a major threat to its population. Logging, agriculture, and other forms of human development are causing significant habitat loss throughout its range.",
+      "sent_orig": "Conservation efforts, including protected areas and reforestation projects, are aimed at preserving this species for future generations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Conservation efforts, including protected areas and reforestation projects, are aimed at preserving this species for future generations."
+    }
+  ]
+}

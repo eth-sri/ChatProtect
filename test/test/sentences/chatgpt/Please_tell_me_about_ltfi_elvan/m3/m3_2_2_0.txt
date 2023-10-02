@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about l\u00fctfi elvan",
+  "orig": "He obtained his Master's degree in civil engineering.",
+  "alt": "He obtained his master's degree in civil engineering from the University of Birmingham in the UK.",
+  "prefix": " He previously held various positions in the government, including Minister of Development, Minister of Transport, Maritime Affairs and Communications, and Chairman of the Parliamentary Budget Commission. Elvan was born in Nazilli, Ayd\u0131n in 1962 and studied Civil Engineering at Middle East Technical University in Ankara.",
+  "triple": [
+    [
+      "He",
+      "obtained",
+      "his Master's degree in civil engineering."
+    ],
+    "compactie",
+    512
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about L\u00fctfi Elvan are contradictory. The text states that he studied Civil Engineering at Middle East Technical University in Ankara, but statement 2 claims that he obtained his Master's degree in civil engineering from the University of Birmingham in the UK. These two statements cannot both be true at the same time, as they provide different information about his educational background."
+}

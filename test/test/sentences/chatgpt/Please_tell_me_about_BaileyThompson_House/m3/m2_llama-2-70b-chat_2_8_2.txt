@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "Here is a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey family sold the home to the Thompson family in 1928, and it was subsequently donated to the Tallahassee Junior Museum.",
+  "alt": "There is no gap to fill in this case, as the conflicting information has already been revised and preserved as much as possible.",
+  "prefix": " Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. Here is a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home remained in the possession of the Bailey-Thompson family for over a century. During their ownership, they added a two-story wing to the rear of the home, doubling its size.",
+  "triple": [
+    [
+      "the conflicting information",
+      "preserves",
+      "as much valid information as possible:"
+    ],
+    "compactie",
+    668
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided do not contain conflicting information. Statement 1 mentions the Bailey family selling the home to the Thompson family in 1928, while Statement 2 states that the home was donated to the Tallahassee Junior Museum. It is possible that the Thompson family donated the home to the museum, so there is no contradiction between the two statements."
+}

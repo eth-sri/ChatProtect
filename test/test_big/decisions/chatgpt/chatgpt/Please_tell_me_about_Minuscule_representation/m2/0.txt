@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about Minuscule representation",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy."
+    },
+    {
+      "prefix_original": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy.",
+      "prefix_new": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy.",
+      "sent_orig": "Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish."
+    },
+    {
+      "prefix_original": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish.",
+      "prefix_new": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish.",
+      "sent_orig": "These letters evolved from the ancient Roman cursive script, which was a handwriting style used in the Roman Empire around the 1st century BC.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "These letters",
+            "evolved",
+            "from the ancient Roman cursive script,"
+          ],
+          "These letters evolved from the cursive writing style used in medieval Europe.",
+          "These letters evolved from the ancient Roman cursive script."
+        ]
+      ],
+      "sent_new": "These letters evolved from the ancient Roman cursive script."
+    },
+    {
+      "prefix_original": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script, which was a handwriting style used in the Roman Empire around the 1st century BC.",
+      "prefix_new": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script.",
+      "sent_orig": "Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters."
+    },
+    {
+      "prefix_original": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script, which was a handwriting style used in the Roman Empire around the 1st century BC. Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters.",
+      "prefix_new": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script. Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters.",
+      "sent_orig": "It was during the Carolingian period (8th \u2013 10th centuries) that the minuscule script became highly standardized and greatly enhanced the legibility of written texts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was during the Carolingian period (8th \u2013 10th centuries) that the minuscule script became highly standardized and greatly enhanced the legibility of written texts."
+    },
+    {
+      "prefix_original": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script, which was a handwriting style used in the Roman Empire around the 1st century BC. Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters. It was during the Carolingian period (8th \u2013 10th centuries) that the minuscule script became highly standardized and greatly enhanced the legibility of written texts.",
+      "prefix_new": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script. Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters. It was during the Carolingian period (8th \u2013 10th centuries) that the minuscule script became highly standardized and greatly enhanced the legibility of written texts.",
+      "sent_orig": "The use of minuscule script spread throughout Europe, and it was the basis of medieval handwritten books.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The use of minuscule script spread throughout Europe, and it was the basis of medieval handwritten books."
+    },
+    {
+      "prefix_original": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script, which was a handwriting style used in the Roman Empire around the 1st century BC. Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters. It was during the Carolingian period (8th \u2013 10th centuries) that the minuscule script became highly standardized and greatly enhanced the legibility of written texts. The use of minuscule script spread throughout Europe, and it was the basis of medieval handwritten books.",
+      "prefix_new": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script. Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters. It was during the Carolingian period (8th \u2013 10th centuries) that the minuscule script became highly standardized and greatly enhanced the legibility of written texts. The use of minuscule script spread throughout Europe, and it was the basis of medieval handwritten books.",
+      "sent_orig": "Even in the age of printing, minuscule script continued to be used as it was faster to write by hand than capital letters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Even in the age of printing, minuscule script continued to be used as it was faster to write by hand than capital letters."
+    },
+    {
+      "prefix_original": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script, which was a handwriting style used in the Roman Empire around the 1st century BC. Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters. It was during the Carolingian period (8th \u2013 10th centuries) that the minuscule script became highly standardized and greatly enhanced the legibility of written texts. The use of minuscule script spread throughout Europe, and it was the basis of medieval handwritten books. Even in the age of printing, minuscule script continued to be used as it was faster to write by hand than capital letters.",
+      "prefix_new": "As an AI language model, I assume you are talking about the minuscule representation of letters in handwriting or calligraphy. Minuscule letters refer to the small letters that are used in European languages such as English, French, German, and Spanish. These letters evolved from the ancient Roman cursive script. Minuscule script is characterized by its rounded and curved shapes that are easier to write quickly than the straight lines of the earlier majuscule or capital letters. It was during the Carolingian period (8th \u2013 10th centuries) that the minuscule script became highly standardized and greatly enhanced the legibility of written texts. The use of minuscule script spread throughout Europe, and it was the basis of medieval handwritten books. Even in the age of printing, minuscule script continued to be used as it was faster to write by hand than capital letters.",
+      "sent_orig": "In modern times, minuscule letters are still used in handwriting and calligraphy, as they are considered more aesthetically pleasing and easier to read than capital letters in long written texts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In modern times, minuscule letters are still used in handwriting and calligraphy, as they are considered more aesthetically pleasing and easier to read than capital letters in long written texts."
+    }
+  ]
+}

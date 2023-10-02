@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003.",
+      "sent_orig": "The tournament saw the participation of 62 judokas from different countries.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The tournament",
+            "saw",
+            "the participation of 62 judokas from different countries."
+          ],
+          "The tournament saw the participation of 47 athletes from 47 nations.",
+          "The tournament saw the participation of 62 judokas from different countries."
+        ]
+      ],
+      "sent_new": "The tournament saw the participation of 62 judokas from different countries."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries.",
+      "sent_orig": "Nomura was a seven-time world champion in judo.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Nomura was a seven-time world champion in judo."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries. Nomura was a seven-time world champion in judo.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries. Nomura was a seven-time world champion in judo.",
+      "sent_orig": "Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries. Nomura was a seven-time world champion in judo. Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries. Nomura was a seven-time world champion in judo. Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance.",
+      "sent_orig": "The bronze medals were secured by two other judokas.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The bronze medals were secured by two other judokas."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries. Nomura was a seven-time world champion in judo. Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance. The bronze medals were secured by two other judokas.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries. Nomura was a seven-time world champion in judo. Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance. The bronze medals were secured by two other judokas.",
+      "sent_orig": "The 2003 World Judo Championships was a significant event, as it was the first major international competition after the International Judo Federation (IJF) had implemented new rules to make the sport more spectator-friendly.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships was a significant event, as it was the first major international competition after the International Judo Federation (IJF) had implemented new rules to make the sport more spectator-friendly."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries. Nomura was a seven-time world champion in judo. Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance. The bronze medals were secured by two other judokas. The 2003 World Judo Championships was a significant event, as it was the first major international competition after the International Judo Federation (IJF) had implemented new rules to make the sport more spectator-friendly.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held in Osaka, Japan from September 12 to September 14, 2003. The tournament saw the participation of 62 judokas from different countries. Nomura was a seven-time world champion in judo. Choi Min-Ho won the silver medal, making it his second consecutive world championships final appearance. The bronze medals were secured by two other judokas. The 2003 World Judo Championships was a significant event, as it was the first major international competition after the International Judo Federation (IJF) had implemented new rules to make the sport more spectator-friendly.",
+      "sent_orig": "The new rules included reducing the duration of the matches, making them more fast-paced, and introducing a sudden-death golden score rule in case of a tie.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The new rules included reducing the duration of the matches, making them more fast-paced, and introducing a sudden-death golden score rule in case of a tie."
+    }
+  ]
+}

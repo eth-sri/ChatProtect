@@ -1,0 +1,18 @@
+{
+  "target": "Please tell me about Angela Merkel",
+  "orig": "She joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991.",
+  "alt": "Merkel joined the Christian Democratic Union (CDU) party in 1990 and was appointed as the Federal Minister for Women and Youth in 1991.",
+  "prefix": "Merkel is a trained physicist and worked as a research scientist before entering politics.",
+  "triple": [
+    [
+      "party",
+      "was appointed",
+      "as the Minister for Women and Youth in the government of Chancellor Helmut Kohl in 1991."
+    ],
+    "compactie",
+    196
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "explanation": "The statements about Angela Merkel are not contradictory. They both mention that she joined the CDU party in 1990 and was appointed as a minister in the government of Chancellor Helmut Kohl in 1991. The only difference is that statement 2 specifies that she was appointed as the Federal Minister for Women and Youth, while statement 1 does not mention the word \"federal\". However, this difference in wording does not change the overall meaning of the statements."
+}

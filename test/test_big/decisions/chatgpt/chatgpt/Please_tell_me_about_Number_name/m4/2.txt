@@ -1,0 +1,85 @@
+{
+  "prompt": "Please tell me about Number name",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Number names are the words used to refer to a numerical value.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Number names are the words used to refer to a numerical value."
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value.",
+      "prefix_new": "Number names are the words used to refer to a numerical value.",
+      "sent_orig": "For example, the number \"5\" can be called \"five\" in English.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For example, the number \"5\" can be called \"five\" in English."
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English.",
+      "prefix_new": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English.",
+      "sent_orig": "The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way."
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way.",
+      "prefix_new": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way.",
+      "sent_orig": "In different languages, numeral naming systems can vary widely.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In different languages, numeral naming systems can vary widely."
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely.",
+      "prefix_new": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely.",
+      "sent_orig": "For instance, the Indian numeral system has different names for numerals such as lakh and crore.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For instance, the Indian numeral system has different names for numerals such as lakh and crore."
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore.",
+      "prefix_new": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore.",
+      "sent_orig": "However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish."
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore. However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish.",
+      "prefix_new": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore. However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish.",
+      "sent_orig": "One thing to note is that number names can also be used to represent fractions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "One thing to note is that number names can also be used to represent fractions."
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore. However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish. One thing to note is that number names can also be used to represent fractions.",
+      "prefix_new": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore. However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish. One thing to note is that number names can also be used to represent fractions.",
+      "sent_orig": "For instance, the fraction \"1/2\" can be called \"a half.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For instance, the fraction \"1/2\" can be called \"a half.\""
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore. However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish. One thing to note is that number names can also be used to represent fractions. For instance, the fraction \"1/2\" can be called \"a half.\"",
+      "prefix_new": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore. However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish. One thing to note is that number names can also be used to represent fractions. For instance, the fraction \"1/2\" can be called \"a half.\"",
+      "sent_orig": "Similarly, the fraction \"3/4\" can be called \"three-quarters.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Similarly, the fraction \"3/4\" can be called \"three-quarters.\""
+    },
+    {
+      "prefix_original": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore. However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish. One thing to note is that number names can also be used to represent fractions. For instance, the fraction \"1/2\" can be called \"a half.\" Similarly, the fraction \"3/4\" can be called \"three-quarters.\"",
+      "prefix_new": "Number names are the words used to refer to a numerical value. For example, the number \"5\" can be called \"five\" in English. The use of number names is important in everyday life, as it helps in conveying numerical information easily and in a more understandable way. In different languages, numeral naming systems can vary widely. For instance, the Indian numeral system has different names for numerals such as lakh and crore. However, the most widely used names are in the form of Western numerical systems, such as English, French and Spanish. One thing to note is that number names can also be used to represent fractions. For instance, the fraction \"1/2\" can be called \"a half.\" Similarly, the fraction \"3/4\" can be called \"three-quarters.\"",
+      "sent_orig": "Overall, number names serve as an essential tool for communicating numerical information effectively in different languages and cultures.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, number names serve as an essential tool for communicating numerical information effectively in different languages and cultures."
+    }
+  ]
+}

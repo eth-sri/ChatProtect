@@ -1,0 +1,80 @@
+{
+  "prompt": "Please tell me about Hern\u00e1n Siles Zuazo",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century."
+    },
+    {
+      "prefix_original": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century.",
+      "prefix_new": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century.",
+      "sent_orig": "He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines."
+    },
+    {
+      "prefix_original": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines.",
+      "prefix_new": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines.",
+      "sent_orig": "After a military coup ousted him from power in 1960, Siles Zuazo went into exile in Chile and later in Peru.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Siles Zuazo",
+            "went",
+            "into exile in Chile and later in Peru."
+          ],
+          "The statements about Hern\u00e1n Siles Zuazo are contradictory. Statement 1 says that he went into exile in 1960 after a military coup ousted him from power, while statement 2 says that he went into exile following a military coup in 1964 but returned to Bolivia in 1971 and served as President once again from 1982 to 1985. The two statements cannot both be true, as they provide different information about when Siles Zuazo went into exile and why.\n",
+          "Siles Zuazo went into exile following a military coup in 1964, but returned to Bolivia in 1971 and served as President once again from 1982 to 1985.",
+          "After a military coup ousted him from power, Siles Zuazo went into exile."
+        ]
+      ],
+      "sent_new": "After a military coup ousted him from power, Siles Zuazo went into exile."
+    },
+    {
+      "prefix_original": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power in 1960, Siles Zuazo went into exile in Chile and later in Peru.",
+      "prefix_new": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power, Siles Zuazo went into exile.",
+      "sent_orig": "He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985."
+    },
+    {
+      "prefix_original": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power in 1960, Siles Zuazo went into exile in Chile and later in Peru. He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985.",
+      "prefix_new": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power, Siles Zuazo went into exile. He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985.",
+      "sent_orig": "During his second term, Siles Zuazo faced several challenges, including a severe economic crisis and social unrest.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his second term, Siles Zuazo faced several challenges, including a severe economic crisis and social unrest."
+    },
+    {
+      "prefix_original": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power in 1960, Siles Zuazo went into exile in Chile and later in Peru. He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985. During his second term, Siles Zuazo faced several challenges, including a severe economic crisis and social unrest.",
+      "prefix_new": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power, Siles Zuazo went into exile. He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985. During his second term, Siles Zuazo faced several challenges, including a severe economic crisis and social unrest.",
+      "sent_orig": "He implemented austerity measures and sought to stabilize the country's economy, but these efforts were met with widespread protests and strikes.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He implemented austerity measures and sought to stabilize the country's economy, but these efforts were met with widespread protests and strikes."
+    },
+    {
+      "prefix_original": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power in 1960, Siles Zuazo went into exile in Chile and later in Peru. He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985. During his second term, Siles Zuazo faced several challenges, including a severe economic crisis and social unrest. He implemented austerity measures and sought to stabilize the country's economy, but these efforts were met with widespread protests and strikes.",
+      "prefix_new": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power, Siles Zuazo went into exile. He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985. During his second term, Siles Zuazo faced several challenges, including a severe economic crisis and social unrest. He implemented austerity measures and sought to stabilize the country's economy, but these efforts were met with widespread protests and strikes.",
+      "sent_orig": "Despite these challenges, Siles Zuazo is remembered for his commitment to democracy and social justice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite these challenges, Siles Zuazo is remembered for his commitment to democracy and social justice."
+    },
+    {
+      "prefix_original": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power in 1960, Siles Zuazo went into exile in Chile and later in Peru. He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985. During his second term, Siles Zuazo faced several challenges, including a severe economic crisis and social unrest. He implemented austerity measures and sought to stabilize the country's economy, but these efforts were met with widespread protests and strikes. Despite these challenges, Siles Zuazo is remembered for his commitment to democracy and social justice.",
+      "prefix_new": "Siles Zuazo was a member of the Revolutionary Nationalist Movement (MNR) party and played a significant role in the Bolivian political scene during the mid-20th century. He first served as the President of Bolivia from 1956 to 1960, during which he implemented several progressive reforms, including land reform and the nationalization of Bolivia's tin mines. After a military coup ousted him from power, Siles Zuazo went into exile. He returned to Bolivia in 1979 and was elected President once again in 1982, serving until 1985. During his second term, Siles Zuazo faced several challenges, including a severe economic crisis and social unrest. He implemented austerity measures and sought to stabilize the country's economy, but these efforts were met with widespread protests and strikes. Despite these challenges, Siles Zuazo is remembered for his commitment to democracy and social justice.",
+      "sent_orig": "He was a vocal advocate for the rights of indigenous people and sought to promote greater equality and inclusion in Bolivian society.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a vocal advocate for the rights of indigenous people and sought to promote greater equality and inclusion in Bolivian society."
+    }
+  ]
+}

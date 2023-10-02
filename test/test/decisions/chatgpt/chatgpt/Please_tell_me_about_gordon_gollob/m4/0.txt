@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II.",
+      "prefix_new": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II.",
+      "sent_orig": "Gordon Gollob was a fighter pilot and ace during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gordon Gollob was a fighter pilot and ace during World War II."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II.",
+      "prefix_new": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II.",
+      "sent_orig": "He joined the Luftwaffe in 1937.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "joined",
+            "the Luftwaffe in 1937."
+          ],
+          "He joined the Austrian Air Force in 1933.",
+          "Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937."
+        ]
+      ],
+      "sent_new": "Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937.",
+      "prefix_new": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937.",
+      "sent_orig": "During World War II, he served on the Eastern Front and became one of the highest-scoring fighter pilots in the Luftwaffe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During World War II, he served on the Eastern Front and became one of the highest-scoring fighter pilots in the Luftwaffe."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937. During World War II, he served on the Eastern Front and became one of the highest-scoring fighter pilots in the Luftwaffe.",
+      "prefix_new": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937. During World War II, he served on the Eastern Front and became one of the highest-scoring fighter pilots in the Luftwaffe.",
+      "sent_orig": "He was awarded the Knight's Cross of the Iron Cross with Oak Leaves and Swords, one of the highest military honors in Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was awarded the Knight's Cross of the Iron Cross with Oak Leaves and Swords, one of the highest military honors in Germany."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937. During World War II, he served on the Eastern Front and became one of the highest-scoring fighter pilots in the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves and Swords, one of the highest military honors in Germany.",
+      "prefix_new": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937. During World War II, he served on the Eastern Front and became one of the highest-scoring fighter pilots in the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves and Swords, one of the highest military honors in Germany.",
+      "sent_orig": "After the war, Gollob was held as a prisoner of war by the Soviet Union until 1955.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the war, Gollob was held as a prisoner of war by the Soviet Union until 1955."
+    },
+    {
+      "prefix_original": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937. During World War II, he served on the Eastern Front and became one of the highest-scoring fighter pilots in the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves and Swords, one of the highest military honors in Germany. After the war, Gollob was held as a prisoner of war by the Soviet Union until 1955.",
+      "prefix_new": "Gordon Gollob (1912-1987) was an Austrian fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. Gordon Gollob was a fighter pilot and ace during World War II. He joined the Luftwaffe in 1937. During World War II, he served on the Eastern Front and became one of the highest-scoring fighter pilots in the Luftwaffe. He was awarded the Knight's Cross of the Iron Cross with Oak Leaves and Swords, one of the highest military honors in Germany. After the war, Gollob was held as a prisoner of war by the Soviet Union until 1955.",
+      "sent_orig": "Gollob was also known for his controversial statements about the war and the Nazi regime, which led to criticism and controversy in Austria and Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was also known for his controversial statements about the war and the Nazi regime, which led to criticism and controversy in Austria and Germany."
+    }
+  ]
+}

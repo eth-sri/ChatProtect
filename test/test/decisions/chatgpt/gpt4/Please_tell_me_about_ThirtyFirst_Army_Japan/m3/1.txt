@@ -1,0 +1,115 @@
+{
+  "prompt": "Please tell me about Thirty-First Army (Japan)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II.",
+      "sent_orig": "The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific.",
+      "sent_orig": "The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war, with the main objective of protecting and defending Japanese interests and territories in the region.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Thirty-First Army",
+            "was stationed",
+            "in Burma"
+          ],
+          "The Thirty-First Army was stationed in the Philippines.",
+          "The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war."
+        ]
+      ],
+      "sent_new": "The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war, with the main objective of protecting and defending Japanese interests and territories in the region.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war.",
+      "sent_orig": "It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war, with the main objective of protecting and defending Japanese interests and territories in the region. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces.",
+      "sent_orig": "The most notable commander of the Thirty-First Army was General Renya Mutaguchi.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The most notable commander of the Thirty-First Army",
+            "was",
+            "General Renya Mutaguchi."
+          ],
+          "The most notable commander of the Thirty-First Army was General Heitaro Kimura.",
+          "The most notable commander of the Thirty-First Army was General Renya Mutaguchi."
+        ]
+      ],
+      "sent_new": "The most notable commander of the Thirty-First Army was General Renya Mutaguchi."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war, with the main objective of protecting and defending Japanese interests and territories in the region. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi.",
+      "sent_orig": "In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war, with the main objective of protecting and defending Japanese interests and territories in the region. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi. In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi. In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance.",
+      "sent_orig": "The defeat at Imphal and Kohima was considered one of the turning points of the Burma Campaign, forcing the Japanese to retreat and ultimately changing the course of the war in Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The defeat at Imphal and Kohima was considered one of the turning points of the Burma Campaign, forcing the Japanese to retreat and ultimately changing the course of the war in Southeast Asia."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war, with the main objective of protecting and defending Japanese interests and territories in the region. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi. In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance. The defeat at Imphal and Kohima was considered one of the turning points of the Burma Campaign, forcing the Japanese to retreat and ultimately changing the course of the war in Southeast Asia.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi. In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance. The defeat at Imphal and Kohima was considered one of the turning points of the Burma Campaign, forcing the Japanese to retreat and ultimately changing the course of the war in Southeast Asia.",
+      "sent_orig": "The Thirty-First Army continued to engage in guerrilla warfare and defensive operations against Allied forces.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Thirty-First Army",
+            "continued to",
+            "in guerrilla warfare and defensive operations against Allied forces."
+          ],
+          "The Thirty-First Army continued to fight until the end of World War II.",
+          "The Thirty-First Army engaged in guerrilla warfare and defensive operations against Allied forces."
+        ]
+      ],
+      "sent_new": "The Thirty-First Army engaged in guerrilla warfare and defensive operations against Allied forces."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war, with the main objective of protecting and defending Japanese interests and territories in the region. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi. In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance. The defeat at Imphal and Kohima was considered one of the turning points of the Burma Campaign, forcing the Japanese to retreat and ultimately changing the course of the war in Southeast Asia. The Thirty-First Army continued to engage in guerrilla warfare and defensive operations against Allied forces.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi. In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance. The defeat at Imphal and Kohima was considered one of the turning points of the Burma Campaign, forcing the Japanese to retreat and ultimately changing the course of the war in Southeast Asia. The Thirty-First Army engaged in guerrilla warfare and defensive operations against Allied forces.",
+      "sent_orig": "As the situation worsened for Japan, the Thirty-First Army struggled with a lack of supplies, food, and reinforcements.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As the situation worsened for Japan, the Thirty-First Army struggled with a lack of supplies, food, and reinforcements."
+    },
+    {
+      "prefix_original": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war, with the main objective of protecting and defending Japanese interests and territories in the region. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi. In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance. The defeat at Imphal and Kohima was considered one of the turning points of the Burma Campaign, forcing the Japanese to retreat and ultimately changing the course of the war in Southeast Asia. The Thirty-First Army continued to engage in guerrilla warfare and defensive operations against Allied forces. As the situation worsened for Japan, the Thirty-First Army struggled with a lack of supplies, food, and reinforcements.",
+      "prefix_new": "The Thirty-First Army (Japan) was a strategic formation of the Imperial Japanese Army during World War II. The Thirty-First Army (Japan) was formed as part of the Japan's Southern Expeditionary Army Group responsible for the military operations in Southeast Asia and the South West Pacific. The Thirty-First Army was stationed in Burma (present-day Myanmar) during the war. It was involved in multiple military campaigns, including the Burma Campaign against British, Commonwealth, and Chinese forces. The most notable commander of the Thirty-First Army was General Renya Mutaguchi. In these battles, the Japanese forces attempted to invade India and destroy British positions, but instead suffered significant losses due to poor logistics, harsh terrain, and stiff enemy resistance. The defeat at Imphal and Kohima was considered one of the turning points of the Burma Campaign, forcing the Japanese to retreat and ultimately changing the course of the war in Southeast Asia. The Thirty-First Army engaged in guerrilla warfare and defensive operations against Allied forces. As the situation worsened for Japan, the Thirty-First Army struggled with a lack of supplies, food, and reinforcements.",
+      "sent_orig": "With the end of World War II in August 1945, the Thirty-First Army was disbanded, and its remaining troops were taken as prisoners by the victorious Allies.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "With the end of World War II in August 1945, the Thirty-First Army was disbanded, and its remaining troops were taken as prisoners by the victorious Allies."
+    }
+  ]
+}

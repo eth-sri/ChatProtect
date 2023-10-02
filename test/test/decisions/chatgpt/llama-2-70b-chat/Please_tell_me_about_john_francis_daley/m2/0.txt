@@ -1,0 +1,55 @@
+{
+  "prompt": "Please tell me about john francis daley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " John Francis Daley is a Canadian-American actor, writer, and musician.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "John Francis Daley",
+            "is",
+            "a Canadian-American actor, writer, and musician."
+          ],
+          " John Francis Daley is an American actor and writer.",
+          "John Francis Daley is an actor and writer."
+        ]
+      ],
+      "sent_new": "John Francis Daley is an actor and writer."
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, writer, and musician.",
+      "prefix_new": "John Francis Daley is an actor and writer.",
+      "sent_orig": "He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as Dr. Lance Sweets on the television series \"Bones.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as Dr. Lance Sweets on the television series \"Bones.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, writer, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as Dr. Lance Sweets on the television series \"Bones.\"",
+      "prefix_new": "John Francis Daley is an actor and writer. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as Dr. Lance Sweets on the television series \"Bones.\"",
+      "sent_orig": "Daley has also appeared in a number of other television shows and films, including \"Breaking Bad,\" \"The Killing,\" and \"Twin Peaks.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Daley has also appeared in a number of other television shows and films, including \"Breaking Bad,\" \"The Killing,\" and \"Twin Peaks.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, writer, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as Dr. Lance Sweets on the television series \"Bones.\" Daley has also appeared in a number of other television shows and films, including \"Breaking Bad,\" \"The Killing,\" and \"Twin Peaks.\"",
+      "prefix_new": "John Francis Daley is an actor and writer. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as Dr. Lance Sweets on the television series \"Bones.\" Daley has also appeared in a number of other television shows and films, including \"Breaking Bad,\" \"The Killing,\" and \"Twin Peaks.\"",
+      "sent_orig": "In addition to his acting career, Daley is also a writer and producer, and has written episodes for several television shows, including \"Bones\" and \"Breaking Bad.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his acting career, Daley is also a writer and producer, and has written episodes for several television shows, including \"Bones\" and \"Breaking Bad.\""
+    },
+    {
+      "prefix_original": " John Francis Daley is a Canadian-American actor, writer, and musician. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as Dr. Lance Sweets on the television series \"Bones.\" Daley has also appeared in a number of other television shows and films, including \"Breaking Bad,\" \"The Killing,\" and \"Twin Peaks.\" In addition to his acting career, Daley is also a writer and producer, and has written episodes for several television shows, including \"Bones\" and \"Breaking Bad.\"",
+      "prefix_new": "John Francis Daley is an actor and writer. He is best known for his role as Sam Weir on the television series \"Freaks and Geeks\" and as Dr. Lance Sweets on the television series \"Bones.\" Daley has also appeared in a number of other television shows and films, including \"Breaking Bad,\" \"The Killing,\" and \"Twin Peaks.\" In addition to his acting career, Daley is also a writer and producer, and has written episodes for several television shows, including \"Bones\" and \"Breaking Bad.\"",
+      "sent_orig": "He has also been a member of the band Dayplayer since 2003.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also been a member of the band Dayplayer since 2003."
+    }
+  ]
+}

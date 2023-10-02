@@ -1,0 +1,110 @@
+{
+  "prompt": "Please tell me about shlomo molla",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah).",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Shlomo Molla",
+            "is",
+            "an Ethiopian-born Israeli politician, social activist, and member of the Knesset"
+          ],
+          "Shlomo Molla is an Israeli politician and former member of the Knesset.",
+          "Shlomo Molla is a member of the Knesset for the Zionist Union."
+        ]
+      ],
+      "sent_new": "Shlomo Molla is a member of the Knesset for the Zionist Union."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah).",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union.",
+      "sent_orig": "Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s.",
+      "sent_orig": "He faced many challenges on this dangerous escape, including the tragic death of a close friend.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He faced many challenges on this dangerous escape, including the tragic death of a close friend."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend.",
+      "sent_orig": "After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel.",
+      "sent_orig": "In Israel, Molla completed high school, learned Hebrew, and eventually continued his education at the University of Haifa, where he graduated with a degree in social work.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. In Israel, Molla completed high school, learned Hebrew, and eventually continued his education at the University of Haifa, where he graduated with a degree in social work.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel.",
+      "sent_orig": "He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. In Israel, Molla completed high school, learned Hebrew, and eventually continued his education at the University of Haifa, where he graduated with a degree in social work. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews.",
+      "sent_orig": "Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. In Israel, Molla completed high school, learned Hebrew, and eventually continued his education at the University of Haifa, where he graduated with a degree in social work. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset.",
+      "sent_orig": "He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. In Israel, Molla completed high school, learned Hebrew, and eventually continued his education at the University of Haifa, where he graduated with a degree in social work. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset. He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset. He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009.",
+      "sent_orig": "As a lawmaker, Molla focused on social justice issues, including education, housing, and employment, and advocated for the integration of Ethiopian Jews into Israeli society.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As a lawmaker, Molla focused on social justice issues, including education, housing, and employment, and advocated for the integration of Ethiopian Jews into Israeli society."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. In Israel, Molla completed high school, learned Hebrew, and eventually continued his education at the University of Haifa, where he graduated with a degree in social work. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset. He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009. As a lawmaker, Molla focused on social justice issues, including education, housing, and employment, and advocated for the integration of Ethiopian Jews into Israeli society.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset. He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009. As a lawmaker, Molla focused on social justice issues, including education, housing, and employment, and advocated for the integration of Ethiopian Jews into Israeli society.",
+      "sent_orig": "Molla is also a champion for African refugees, and he has been outspoken about their rights, needs, and treatment in Israel.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Molla is also a champion for African refugees, and he has been outspoken about their rights, needs, and treatment in Israel."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. In Israel, Molla completed high school, learned Hebrew, and eventually continued his education at the University of Haifa, where he graduated with a degree in social work. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset. He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009. As a lawmaker, Molla focused on social justice issues, including education, housing, and employment, and advocated for the integration of Ethiopian Jews into Israeli society. Molla is also a champion for African refugees, and he has been outspoken about their rights, needs, and treatment in Israel.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset. He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009. As a lawmaker, Molla focused on social justice issues, including education, housing, and employment, and advocated for the integration of Ethiopian Jews into Israeli society. Molla is also a champion for African refugees, and he has been outspoken about their rights, needs, and treatment in Israel.",
+      "sent_orig": "He has emphasized the importance of tolerance, acceptance, and support for immigrants and refugees, both within Israel and on the global stage.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has emphasized the importance of tolerance, acceptance, and support for immigrants and refugees, both within Israel and on the global stage."
+    },
+    {
+      "prefix_original": "Shlomo Molla is an Ethiopian-born Israeli politician, social activist, and member of the Knesset (Israeli parliament) for the Zionist Union (an alliance between the Israeli Labor Party and Hatnuah). Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. In Israel, Molla completed high school, learned Hebrew, and eventually continued his education at the University of Haifa, where he graduated with a degree in social work. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset. He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009. As a lawmaker, Molla focused on social justice issues, including education, housing, and employment, and advocated for the integration of Ethiopian Jews into Israeli society. Molla is also a champion for African refugees, and he has been outspoken about their rights, needs, and treatment in Israel. He has emphasized the importance of tolerance, acceptance, and support for immigrants and refugees, both within Israel and on the global stage.",
+      "prefix_new": "Shlomo Molla is a member of the Knesset for the Zionist Union. Born in the rural village of Gondar, Ethiopia, Molla began his journey to Israel as a teenager in the 1980s. He faced many challenges on this dangerous escape, including the tragic death of a close friend. After walking for hundreds of miles through Sudan, he was eventually airlifted to Israel as part of Operation Moses, a covert operation to bring Ethiopian Jews to Israel. He began his career as a social worker, quickly becoming an advocate for better education and social services for disadvantaged communities, especially Ethiopian Jews. Molla entered politics by joining the Israel Labor Party, and in 2008, he was elected to the Knesset. He was the first Ethiopian Jew to be elected deputy speaker of the Knesset in 2009. As a lawmaker, Molla focused on social justice issues, including education, housing, and employment, and advocated for the integration of Ethiopian Jews into Israeli society. Molla is also a champion for African refugees, and he has been outspoken about their rights, needs, and treatment in Israel. He has emphasized the importance of tolerance, acceptance, and support for immigrants and refugees, both within Israel and on the global stage.",
+      "sent_orig": "In addition to his political roles, Molla has served on the boards of various non-profit organizations, including the Ethiopian National Project, the Buchmann-Projekt, and the Ethiopian Educational Project.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his political roles, Molla has served on the boards of various non-profit organizations, including the Ethiopian National Project, the Buchmann-Projekt, and the Ethiopian Educational Project."
+    }
+  ]
+}

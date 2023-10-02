@@ -1,0 +1,109 @@
+{
+  "prompt": "Please tell me about Cleopatra",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness.",
+      "sent_orig": "She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty.",
+      "sent_orig": "She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII.",
+      "sent_orig": "Cleopatra was known for her strong personality and was described by many as charming and charismatic.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra was known for her strong personality and was described by many as charming and charismatic."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic.",
+      "sent_orig": "She was fluent in several languages, including Greek and Egyptian.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She was fluent in several languages, including Greek and Egyptian."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian.",
+      "sent_orig": "Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC.",
+      "sent_orig": "After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony.",
+      "sent_orig": "They became lovers and had three children together.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They became lovers and had three children together."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together.",
+      "sent_orig": "However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together. However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together. However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC.",
+      "sent_orig": "Following the battle, Cleopatra chose to commit suicide rather than become a captive of Rome.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Following the battle, Cleopatra chose to commit suicide rather than become a captive of Rome."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together. However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC. Following the battle, Cleopatra chose to commit suicide rather than become a captive of Rome.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together. However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC. Following the battle, Cleopatra chose to commit suicide rather than become a captive of Rome.",
+      "sent_orig": "She is said to have died from an asp bite, although the exact circumstances around her death remain a subject of debate.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is said to have died from an asp bite, although the exact circumstances around her death remain a subject of debate."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together. However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC. Following the battle, Cleopatra chose to commit suicide rather than become a captive of Rome. She is said to have died from an asp bite, although the exact circumstances around her death remain a subject of debate.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together. However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC. Following the battle, Cleopatra chose to commit suicide rather than become a captive of Rome. She is said to have died from an asp bite, although the exact circumstances around her death remain a subject of debate.",
+      "sent_orig": "Cleopatra\u2019s legacy has endured for thousands of years, and she is celebrated for her contributions to ancient Egypt and her political achievements during her reign.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cleopatra\u2019s legacy has endured for thousands of years, and she is celebrated for her contributions to ancient Egypt and her political achievements during her reign."
+    },
+    {
+      "prefix_original": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together. However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC. Following the battle, Cleopatra chose to commit suicide rather than become a captive of Rome. She is said to have died from an asp bite, although the exact circumstances around her death remain a subject of debate. Cleopatra\u2019s legacy has endured for thousands of years, and she is celebrated for her contributions to ancient Egypt and her political achievements during her reign.",
+      "prefix_new": "Cleopatra was an Egyptian queen who is known for her beauty, intelligence, and political savviness. She was born in Alexandria, Egypt in 69 BC to the ruling Ptolemaic dynasty. She ascended to the throne of Egypt at the age of 18 after the death of her father, Ptolemy XII. Cleopatra was known for her strong personality and was described by many as charming and charismatic. She was fluent in several languages, including Greek and Egyptian. Cleopatra is most famously known for her relationship with Julius Caesar, who she met in 48 BC. After Caesar\u2019s assassination, Cleopatra aligned herself with Julius Caesar\u2019s successor, Mark Antony. They became lovers and had three children together. However, their relationship was ultimately doomed as their forces were defeated by the armies of Rome in the Battle of Actium in 31 BC. Following the battle, Cleopatra chose to commit suicide rather than become a captive of Rome. She is said to have died from an asp bite, although the exact circumstances around her death remain a subject of debate. Cleopatra\u2019s legacy has endured for thousands of years, and she is celebrated for her contributions to ancient Egypt and her political achievements during her reign.",
+      "sent_orig": "She is also remembered for her beauty and intelligence, which are still idealized to this day.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She is also remembered for her beauty and intelligence, which are still idealized to this day."
+    }
+  ]
+}

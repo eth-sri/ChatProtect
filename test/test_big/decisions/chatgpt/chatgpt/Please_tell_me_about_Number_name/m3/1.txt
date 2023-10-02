@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about Number name",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Number name refers to the name given to a particular number.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Number name refers to the name given to a particular number."
+    },
+    {
+      "prefix_original": "Number name refers to the name given to a particular number.",
+      "prefix_new": "Number name refers to the name given to a particular number.",
+      "sent_orig": "In English, we use a number system based on ten, with the use of digits (0-9) to represent numbers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In English, we use a number system based on ten, with the use of digits (0-9) to represent numbers."
+    },
+    {
+      "prefix_original": "Number name refers to the name given to a particular number. In English, we use a number system based on ten, with the use of digits (0-9) to represent numbers.",
+      "prefix_new": "Number name refers to the name given to a particular number. In English, we use a number system based on ten, with the use of digits (0-9) to represent numbers.",
+      "sent_orig": "However, we also assign names to many of the numbers we use frequently, especially ones that are formed by combining digits in various ways.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, we also assign names to many of the numbers we use frequently, especially ones that are formed by combining digits in various ways."
+    },
+    {
+      "prefix_original": "Number name refers to the name given to a particular number. In English, we use a number system based on ten, with the use of digits (0-9) to represent numbers. However, we also assign names to many of the numbers we use frequently, especially ones that are formed by combining digits in various ways.",
+      "prefix_new": "Number name refers to the name given to a particular number. In English, we use a number system based on ten, with the use of digits (0-9) to represent numbers. However, we also assign names to many of the numbers we use frequently, especially ones that are formed by combining digits in various ways.",
+      "sent_orig": "Examples of number names include \"thirteen,\" \"twenty-five,\" and \"one hundred.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Examples of number names include \"thirteen,\" \"twenty-five,\" and \"one hundred.\""
+    },
+    {
+      "prefix_original": "Number name refers to the name given to a particular number. In English, we use a number system based on ten, with the use of digits (0-9) to represent numbers. However, we also assign names to many of the numbers we use frequently, especially ones that are formed by combining digits in various ways. Examples of number names include \"thirteen,\" \"twenty-five,\" and \"one hundred.\"",
+      "prefix_new": "Number name refers to the name given to a particular number. In English, we use a number system based on ten, with the use of digits (0-9) to represent numbers. However, we also assign names to many of the numbers we use frequently, especially ones that are formed by combining digits in various ways. Examples of number names include \"thirteen,\" \"twenty-five,\" and \"one hundred.\"",
+      "sent_orig": "These names help us to easily communicate and think about numbers, particularly when dealing with larger numbers that would be difficult to express using digits alone.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These names help us to easily communicate and think about numbers, particularly when dealing with larger numbers that would be difficult to express using digits alone."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "prompt": "Please tell me about Thirty-First Army (Japan)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II.",
+      "prefix_new": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II.",
+      "sent_orig": "It was formed in July 1942 and was active throughout the war until its dissolution in August 1945.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was formed was",
+            "throughout the war until its dissolution in August 1945."
+          ],
+          "It was formed in 1943.",
+          "It was active throughout the war until its dissolution in August 1945."
+        ]
+      ],
+      "sent_new": "It was active throughout the war until its dissolution in August 1945."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II. It was formed in July 1942 and was active throughout the war until its dissolution in August 1945.",
+      "prefix_new": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II. It was active throughout the war until its dissolution in August 1945.",
+      "sent_orig": "The army was responsible for defending various areas of the Japanese home islands, including the Kyushu and Shikoku regions, as well as parts of China and the Philippines.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The army was responsible for defending various areas of the Japanese home islands, including the Kyushu and Shikoku regions, as well as parts of China and the Philippines."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II. It was formed in July 1942 and was active throughout the war until its dissolution in August 1945. The army was responsible for defending various areas of the Japanese home islands, including the Kyushu and Shikoku regions, as well as parts of China and the Philippines.",
+      "prefix_new": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II. It was active throughout the war until its dissolution in August 1945. The army was responsible for defending various areas of the Japanese home islands, including the Kyushu and Shikoku regions, as well as parts of China and the Philippines.",
+      "sent_orig": "The Thirty-First Army was involved in several significant battles during the war, including the Battle of Okinawa and the Battle of the Philippine Sea.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Thirty-First Army was involved in several significant battles during the war, including the Battle of Okinawa and the Battle of the Philippine Sea."
+    },
+    {
+      "prefix_original": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II. It was formed in July 1942 and was active throughout the war until its dissolution in August 1945. The army was responsible for defending various areas of the Japanese home islands, including the Kyushu and Shikoku regions, as well as parts of China and the Philippines. The Thirty-First Army was involved in several significant battles during the war, including the Battle of Okinawa and the Battle of the Philippine Sea.",
+      "prefix_new": "The Thirty-First Army was a military unit of the Imperial Japanese Army (IJA) during World War II. It was active throughout the war until its dissolution in August 1945. The army was responsible for defending various areas of the Japanese home islands, including the Kyushu and Shikoku regions, as well as parts of China and the Philippines. The Thirty-First Army was involved in several significant battles during the war, including the Battle of Okinawa and the Battle of the Philippine Sea.",
+      "sent_orig": "The army was dissolved following the surrender of Japan to the Allied Powers in August 1945.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The army was dissolved following the surrender of Japan to the Allied Powers in August 1945."
+    }
+  ]
+}

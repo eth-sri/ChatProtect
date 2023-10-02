@@ -1,0 +1,113 @@
+{
+  "prompt": "Please tell me about mike rawlings",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers.",
+      "sent_orig": "He was born on July 15, 1946, in Baltimore, Maryland.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on July"
+          ],
+          "He was born in Corpus Christi, Texas.",
+          "He was born on July 15, 1946."
+        ]
+      ],
+      "sent_new": "He was born on July 15, 1946."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946, in Baltimore, Maryland.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946.",
+      "sent_orig": "Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team from 1965 to 1968.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "was",
+            "a standout quarterback for the Maryland Terrapins football team from"
+          ],
+          "He was a two-time Super Bowl champion with the Miami Dolphins.",
+          "Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team."
+        ]
+      ],
+      "sent_new": "Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946, in Baltimore, Maryland. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team from 1965 to 1968.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team.",
+      "sent_orig": "He led the Terrapins to a 29-7 record during his four years as a starter, and was named the team's most valuable player in 1968.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946, in Baltimore, Maryland. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team from 1965 to 1968. He led the Terrapins to a 29-7 record during his four years as a starter, and was named the team's most valuable player in 1968.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team.",
+      "sent_orig": "Rawlings was selected by the Miami Dolphins in the second round of the 1969 NFL Draft, and he played for the team from 1969 to 1977.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946, in Baltimore, Maryland. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team from 1965 to 1968. He led the Terrapins to a 29-7 record during his four years as a starter, and was named the team's most valuable player in 1968. Rawlings was selected by the Miami Dolphins in the second round of the 1969 NFL Draft, and he played for the team from 1969 to 1977.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team.",
+      "sent_orig": "During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946, in Baltimore, Maryland. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team from 1965 to 1968. He led the Terrapins to a 29-7 record during his four years as a starter, and was named the team's most valuable player in 1968. Rawlings was selected by the Miami Dolphins in the second round of the 1969 NFL Draft, and he played for the team from 1969 to 1977. During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team. During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973.",
+      "sent_orig": "He also earned Pro Bowl honors in 1970 and 1971.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also earned Pro Bowl honors in 1970 and 1971."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946, in Baltimore, Maryland. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team from 1965 to 1968. He led the Terrapins to a 29-7 record during his four years as a starter, and was named the team's most valuable player in 1968. Rawlings was selected by the Miami Dolphins in the second round of the 1969 NFL Draft, and he played for the team from 1969 to 1977. During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973. He also earned Pro Bowl honors in 1970 and 1971.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team. During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973. He also earned Pro Bowl honors in 1970 and 1971.",
+      "sent_orig": "After his time with the Dolphins, Rawlings played for the San Francisco 49ers and Green Bay Packers before retiring from football in 1979.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After his time with the Dolphins, Rawlings played for the San Francisco 49ers and Green Bay Packers before retiring from football in 1979."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946, in Baltimore, Maryland. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team from 1965 to 1968. He led the Terrapins to a 29-7 record during his four years as a starter, and was named the team's most valuable player in 1968. Rawlings was selected by the Miami Dolphins in the second round of the 1969 NFL Draft, and he played for the team from 1969 to 1977. During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973. He also earned Pro Bowl honors in 1970 and 1971. After his time with the Dolphins, Rawlings played for the San Francisco 49ers and Green Bay Packers before retiring from football in 1979.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team. During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973. He also earned Pro Bowl honors in 1970 and 1971. After his time with the Dolphins, Rawlings played for the San Francisco 49ers and Green Bay Packers before retiring from football in 1979.",
+      "sent_orig": "After his retirement from football, Rawlings worked as a sports commentator and analyst for CBS and ESPN.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Rawlings",
+            "worked",
+            "as a sports commentator and analyst for CBS and ESPN."
+          ],
+          "Rawlings worked as a football coach after retiring from playing football.",
+          "After his retirement from football, Rawlings worked as a sports commentator and analyst."
+        ]
+      ],
+      "sent_new": "After his retirement from football, Rawlings worked as a sports commentator and analyst."
+    },
+    {
+      "prefix_original": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946, in Baltimore, Maryland. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team from 1965 to 1968. He led the Terrapins to a 29-7 record during his four years as a starter, and was named the team's most valuable player in 1968. Rawlings was selected by the Miami Dolphins in the second round of the 1969 NFL Draft, and he played for the team from 1969 to 1977. During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973. He also earned Pro Bowl honors in 1970 and 1971. After his time with the Dolphins, Rawlings played for the San Francisco 49ers and Green Bay Packers before retiring from football in 1979. After his retirement from football, Rawlings worked as a sports commentator and analyst for CBS and ESPN.",
+      "prefix_new": "Mike Rawlings is a former professional American football player who played as a quarterback in the National Football League (NFL) for the Miami Dolphins, San Francisco 49ers, and Green Bay Packers. He was born on July 15, 1946. Rawlings played college football at the University of Maryland, where he was a standout quarterback for the Maryland Terrapins football team. During his time with the Dolphins, Rawlings served as the team's starting quarterback and helped lead the team to Super Bowl victories in 1972 and 1973. He also earned Pro Bowl honors in 1970 and 1971. After his time with the Dolphins, Rawlings played for the San Francisco 49ers and Green Bay Packers before retiring from football in 1979. After his retirement from football, Rawlings worked as a sports commentator and analyst.",
+      "sent_orig": "He is currently a member of the Maryland Athletics Hall of Fame.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is currently a member of the Maryland Athletics Hall of Fame."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about corey parker (actor)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s.",
+      "sent_orig": "Born on July 8, 1965, in New York City, Corey began his acting career in the early 1980s with appearances on TV shows like \"Fame\" and \"Family Ties.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Corey",
+            "began",
+            "his acting career in the early 1980s with appearances on TV shows like \"Fame\" and \"Family Ties.\""
+          ],
+          "Corey began his acting career in the mid-1980s with a role in the film \"Biloxi Blues\".",
+          "Born on July 8, 1965, in New York City, Corey is best known for his roles in various television series and films in the 1980s and 1990s, including appearances on TV shows like \"Fame\" and \"Family Ties.\""
+        ]
+      ],
+      "sent_new": "Born on July 8, 1965, in New York City, Corey is best known for his roles in various television series and films in the 1980s and 1990s, including appearances on TV shows like \"Fame\" and \"Family Ties.\""
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey began his acting career in the early 1980s with appearances on TV shows like \"Fame\" and \"Family Ties.\"",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey is best known for his roles in various television series and films in the 1980s and 1990s, including appearances on TV shows like \"Fame\" and \"Family Ties.\"",
+      "sent_orig": "He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey began his acting career in the early 1980s with appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey is best known for his roles in various television series and films in the 1980s and 1990s, including appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens.",
+      "sent_orig": "In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989)."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey began his acting career in the early 1980s with appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens. In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989).",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey is best known for his roles in various television series and films in the 1980s and 1990s, including appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens. In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989).",
+      "sent_orig": "Throughout his career, he made guest appearances on popular shows like \"Law & Order,\" \"Blue Bloods,\" and \"ER.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout his career, he made guest appearances on popular shows like \"Law & Order,\" \"Blue Bloods,\" and \"ER.\""
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey began his acting career in the early 1980s with appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens. In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989). Throughout his career, he made guest appearances on popular shows like \"Law & Order,\" \"Blue Bloods,\" and \"ER.\"",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey is best known for his roles in various television series and films in the 1980s and 1990s, including appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens. In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989). Throughout his career, he made guest appearances on popular shows like \"Law & Order,\" \"Blue Bloods,\" and \"ER.\"",
+      "sent_orig": "Corey Parker worked as an adjunct professor at the University of Memphis, where he taught acting.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "taught",
+            "acting."
+          ],
+          "He taught acting at the New York Film Academy.",
+          "Corey Parker worked as an adjunct professor, teaching acting."
+        ]
+      ],
+      "sent_new": "Corey Parker worked as an adjunct professor, teaching acting."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey began his acting career in the early 1980s with appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens. In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989). Throughout his career, he made guest appearances on popular shows like \"Law & Order,\" \"Blue Bloods,\" and \"ER.\" Corey Parker worked as an adjunct professor at the University of Memphis, where he taught acting.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey is best known for his roles in various television series and films in the 1980s and 1990s, including appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens. In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989). Throughout his career, he made guest appearances on popular shows like \"Law & Order,\" \"Blue Bloods,\" and \"ER.\" Corey Parker worked as an adjunct professor, teaching acting.",
+      "sent_orig": "He later opened Corey Parker Acting Coaching in Memphis, providing coaching and mentoring for aspiring actors.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He later opened Corey Parker Acting Coaching in Memphis, providing coaching and mentoring for aspiring actors."
+    },
+    {
+      "prefix_original": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey began his acting career in the early 1980s with appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens. In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989). Throughout his career, he made guest appearances on popular shows like \"Law & Order,\" \"Blue Bloods,\" and \"ER.\" Corey Parker worked as an adjunct professor at the University of Memphis, where he taught acting. He later opened Corey Parker Acting Coaching in Memphis, providing coaching and mentoring for aspiring actors.",
+      "prefix_new": "Corey Parker is an American actor who is best known for his roles in various television series and films in the 1980s and 1990s. Born on July 8, 1965, in New York City, Corey is best known for his roles in various television series and films in the 1980s and 1990s, including appearances on TV shows like \"Fame\" and \"Family Ties.\" He gained recognition after featuring in the hit series \"thirtysomething\" from 1987 to 1991, where he played the role of Lee Owens. In addition to his work in television, Parker also appeared in films such as \"Willy/Milly\" (1986), \"Biloxi Blues\" (1988), and \"How I Got into College\" (1989). Throughout his career, he made guest appearances on popular shows like \"Law & Order,\" \"Blue Bloods,\" and \"ER.\" Corey Parker worked as an adjunct professor, teaching acting. He later opened Corey Parker Acting Coaching in Memphis, providing coaching and mentoring for aspiring actors.",
+      "sent_orig": "Though his acting career has slowed down since the 1990s, Corey Parker continues to work in the entertainment industry as an actor, teacher, and mentor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Though his acting career has slowed down since the 1990s, Corey Parker continues to work in the entertainment industry as an actor, teacher, and mentor."
+    }
+  ]
+}

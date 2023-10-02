@@ -1,0 +1,52 @@
+{
+  "prompt": "Please tell me about los natas",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Los Natas was a psychedelic rock band from Argentina that was formed in 1994.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Los Natas was a psychedelic rock band from Argentina that was formed in 1994.",
+      "prefix_new": "",
+      "sent_orig": "The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums."
+    },
+    {
+      "prefix_original": "Los Natas was a psychedelic rock band from Argentina that was formed in 1994. The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums.",
+      "prefix_new": "The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums.",
+      "sent_orig": "Los Natas gained a reputation for their live performances, which were characterized by their energetic and improvisational style.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Los Natas gained a reputation for their live performances, which were characterized by their energetic and improvisational style."
+    },
+    {
+      "prefix_original": "Los Natas was a psychedelic rock band from Argentina that was formed in 1994. The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums. Los Natas gained a reputation for their live performances, which were characterized by their energetic and improvisational style.",
+      "prefix_new": "The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums. Los Natas gained a reputation for their live performances, which were characterized by their energetic and improvisational style.",
+      "sent_orig": "They were also known for their use of stoner rock and doom metal elements in their music.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They were also known for their use of stoner rock and doom metal elements in their music."
+    },
+    {
+      "prefix_original": "Los Natas was a psychedelic rock band from Argentina that was formed in 1994. The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums. Los Natas gained a reputation for their live performances, which were characterized by their energetic and improvisational style. They were also known for their use of stoner rock and doom metal elements in their music.",
+      "prefix_new": "The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums. Los Natas gained a reputation for their live performances, which were characterized by their energetic and improvisational style. They were also known for their use of stoner rock and doom metal elements in their music.",
+      "sent_orig": "Over the course of their career, Los Natas released several albums, including \"Delmar\" (1998), \"Munchen Sessions\" (2001), \"Toba Trance\" (2009), and \"Nuevo Orden de la Libertad\" (2015).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Over the course of their career, Los Natas released several albums, including \"Delmar\" (1998), \"Munchen Sessions\" (2001), \"Toba Trance\" (2009), and \"Nuevo Orden de la Libertad\" (2015)."
+    },
+    {
+      "prefix_original": "Los Natas was a psychedelic rock band from Argentina that was formed in 1994. The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums. Los Natas gained a reputation for their live performances, which were characterized by their energetic and improvisational style. They were also known for their use of stoner rock and doom metal elements in their music. Over the course of their career, Los Natas released several albums, including \"Delmar\" (1998), \"Munchen Sessions\" (2001), \"Toba Trance\" (2009), and \"Nuevo Orden de la Libertad\" (2015).",
+      "prefix_new": "The band consisted of Sergio Chotsourian on vocals and guitar, Walter Broide on bass, and Gonzalo Villagra on drums. Los Natas gained a reputation for their live performances, which were characterized by their energetic and improvisational style. They were also known for their use of stoner rock and doom metal elements in their music. Over the course of their career, Los Natas released several albums, including \"Delmar\" (1998), \"Munchen Sessions\" (2001), \"Toba Trance\" (2009), and \"Nuevo Orden de la Libertad\" (2015).",
+      "sent_orig": "They disbanded in 2012, but their influence can still be heard in the psychedelic and stoner rock scenes in Argentina and around the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They disbanded in 2012, but their influence can still be heard in the psychedelic and stoner rock scenes in Argentina and around the world."
+    }
+  ]
+}

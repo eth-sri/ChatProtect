@@ -1,0 +1,41 @@
+{
+  "prompt": "Please tell me about wen tianxiang",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was known",
+            "conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia."
+          ],
+          "He was known for his strong stance against Japanese expansionism and his efforts to promote the interests of the Republic of China on the international stage.",
+          "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia."
+        ]
+      ],
+      "sent_new": "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia."
+    },
+    {
+      "prefix_original": "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia.",
+      "prefix_new": "He was known for his conciliatory approach to foreign relations and his efforts to promote peace and stability in East Asia.",
+      "sent_orig": "He resigned from his position in 1932 following a series of political and military setbacks.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "resigned",
+            "from his position in 1932 following a series of political and military setbacks."
+          ],
+          "He resigned in 2018 following a corruption scandal.",
+          "He resigned from his position in 1932."
+        ]
+      ],
+      "sent_new": "He resigned from his position in 1932."
+    }
+  ]
+}

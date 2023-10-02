@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about diane arkenstone",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres.",
+      "prefix_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres.",
+      "sent_orig": "She was born on May 3, 1959, in Nebraska.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "She",
+            "was born",
+            ""
+          ],
+          "She was born in California.",
+          "She was born in California."
+        ]
+      ],
+      "sent_new": "She was born in California."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born on May 3, 1959, in Nebraska.",
+      "prefix_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born in California.",
+      "sent_orig": "Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born on May 3, 1959, in Nebraska. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music.",
+      "prefix_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born in California. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music.",
+      "sent_orig": "In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born on May 3, 1959, in Nebraska. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990.",
+      "prefix_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born in California. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990.",
+      "sent_orig": "She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016)."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born on May 3, 1959, in Nebraska. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990. She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016).",
+      "prefix_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born in California. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990. She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016).",
+      "sent_orig": "Her music is characterized by its fusion of world music styles, including Celtic, Middle Eastern, and Native American influences.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Her music is characterized by its fusion of world music styles, including Celtic, Middle Eastern, and Native American influences."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born on May 3, 1959, in Nebraska. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990. She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016). Her music is characterized by its fusion of world music styles, including Celtic, Middle Eastern, and Native American influences.",
+      "prefix_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born in California. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990. She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016). Her music is characterized by its fusion of world music styles, including Celtic, Middle Eastern, and Native American influences.",
+      "sent_orig": "Arkenstone has been nominated for several Grammy Awards for her work in the New Age genre.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Arkenstone has been nominated for several Grammy Awards for her work in the New Age genre."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born on May 3, 1959, in Nebraska. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990. She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016). Her music is characterized by its fusion of world music styles, including Celtic, Middle Eastern, and Native American influences. Arkenstone has been nominated for several Grammy Awards for her work in the New Age genre.",
+      "prefix_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born in California. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990. She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016). Her music is characterized by its fusion of world music styles, including Celtic, Middle Eastern, and Native American influences. Arkenstone has been nominated for several Grammy Awards for her work in the New Age genre.",
+      "sent_orig": "She has also collaborated with other musicians, including David Arkenstone (her ex-husband), Kitaro, and Enigma.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has also collaborated with other musicians, including David Arkenstone (her ex-husband), Kitaro, and Enigma."
+    },
+    {
+      "prefix_original": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born on May 3, 1959, in Nebraska. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990. She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016). Her music is characterized by its fusion of world music styles, including Celtic, Middle Eastern, and Native American influences. Arkenstone has been nominated for several Grammy Awards for her work in the New Age genre. She has also collaborated with other musicians, including David Arkenstone (her ex-husband), Kitaro, and Enigma.",
+      "prefix_new": "Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres. She was born in California. Arkenstone began her music career in the 1980s as a member of the duo Enaid & Einalem, which released several albums of Celtic-inspired music. In the 1990s, Arkenstone embarked on a solo career, releasing her debut album \"The Healing Spirit\" in 1990. She has since released over 20 albums, including \"Echoes of Egypt\" (1995), \"Aquaria\" (1998), \"The Best of Diane Arkenstone\" (2002), and \"Union Road\" (2016). Her music is characterized by its fusion of world music styles, including Celtic, Middle Eastern, and Native American influences. Arkenstone has been nominated for several Grammy Awards for her work in the New Age genre. She has also collaborated with other musicians, including David Arkenstone (her ex-husband), Kitaro, and Enigma.",
+      "sent_orig": "In addition to her music career, Arkenstone is also a visual artist and has created artwork for many of her album covers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to her music career, Arkenstone is also a visual artist and has created artwork for many of her album covers."
+    }
+  ]
+}

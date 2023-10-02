@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about 1968\u201369 FA Cup qualifying rounds",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1968-69 FA Cup was the 88th edition of the football competition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1968-69 FA Cup was the 88th edition of the football competition."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup was the 88th edition of the football competition.",
+      "prefix_new": "The 1968-69 FA Cup was the 88th edition of the football competition.",
+      "sent_orig": "The qualifying rounds of the competition ended on November 16, 1968.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The qualifying rounds of the competition",
+            "ended",
+            "on November 16, 1968."
+          ],
+          "The qualifying rounds of the competition ended with the fourth round.",
+          "The qualifying rounds of the 1968-69 FA Cup took place before the fourth round."
+        ]
+      ],
+      "sent_new": "The qualifying rounds of the 1968-69 FA Cup took place before the fourth round."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the competition ended on November 16, 1968.",
+      "prefix_new": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the 1968-69 FA Cup took place before the fourth round.",
+      "sent_orig": "The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the competition ended on November 16, 1968. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition.",
+      "prefix_new": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the 1968-69 FA Cup took place before the fourth round. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition.",
+      "sent_orig": "The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the competition ended on November 16, 1968. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition. The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round.",
+      "prefix_new": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the 1968-69 FA Cup took place before the fourth round. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition. The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round.",
+      "sent_orig": "Chelmsford City, who played in the Southern League, won the match 3-2 to become one of only four non-league teams to progress to the first round proper of the competition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chelmsford City, who played in the Southern League, won the match 3-2 to become one of only four non-league teams to progress to the first round proper of the competition."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the competition ended on November 16, 1968. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition. The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round. Chelmsford City, who played in the Southern League, won the match 3-2 to become one of only four non-league teams to progress to the first round proper of the competition.",
+      "prefix_new": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the 1968-69 FA Cup took place before the fourth round. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition. The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round. Chelmsford City, who played in the Southern League, won the match 3-2 to become one of only four non-league teams to progress to the first round proper of the competition.",
+      "sent_orig": "Other notable results included Hereford United's 9-0 victory over Bath City in the third qualifying round and the 7-0 victory of Boston United over Gainsborough Trinity in the fourth qualifying round.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Other notable results included Hereford United's 9-0 victory over Bath City in the third qualifying round and the 7-0 victory of Boston United over Gainsborough Trinity in the fourth qualifying round."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the competition ended on November 16, 1968. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition. The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round. Chelmsford City, who played in the Southern League, won the match 3-2 to become one of only four non-league teams to progress to the first round proper of the competition. Other notable results included Hereford United's 9-0 victory over Bath City in the third qualifying round and the 7-0 victory of Boston United over Gainsborough Trinity in the fourth qualifying round.",
+      "prefix_new": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the 1968-69 FA Cup took place before the fourth round. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition. The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round. Chelmsford City, who played in the Southern League, won the match 3-2 to become one of only four non-league teams to progress to the first round proper of the competition. Other notable results included Hereford United's 9-0 victory over Bath City in the third qualifying round and the 7-0 victory of Boston United over Gainsborough Trinity in the fourth qualifying round.",
+      "sent_orig": "The qualifying rounds concluded on November 16, 1968, with 67 teams progressing to the first round proper of the competition.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The qualifying rounds",
+            "concluded",
+            "on November 16, 1968,"
+          ],
+          "The qualifying rounds concluded on November 16, 1968, with the 100 teams that progressed to the first round proper of the competition.",
+          "The qualifying rounds concluded on November 16, 1968, with 67 teams progressing to the first round proper of the competition."
+        ]
+      ],
+      "sent_new": "The qualifying rounds concluded on November 16, 1968, with 67 teams progressing to the first round proper of the competition."
+    },
+    {
+      "prefix_original": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the competition ended on November 16, 1968. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition. The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round. Chelmsford City, who played in the Southern League, won the match 3-2 to become one of only four non-league teams to progress to the first round proper of the competition. Other notable results included Hereford United's 9-0 victory over Bath City in the third qualifying round and the 7-0 victory of Boston United over Gainsborough Trinity in the fourth qualifying round. The qualifying rounds concluded on November 16, 1968, with 67 teams progressing to the first round proper of the competition.",
+      "prefix_new": "The 1968-69 FA Cup was the 88th edition of the football competition. The qualifying rounds of the 1968-69 FA Cup took place before the fourth round. The teams were divided into 25 regional sections and played knockout matches to determine their progression in the competition. The most notable result of the qualifying rounds was the victory of Chelmsford City over Football League team Oxford United in the fourth qualifying round. Chelmsford City, who played in the Southern League, won the match 3-2 to become one of only four non-league teams to progress to the first round proper of the competition. Other notable results included Hereford United's 9-0 victory over Bath City in the third qualifying round and the 7-0 victory of Boston United over Gainsborough Trinity in the fourth qualifying round. The qualifying rounds concluded on November 16, 1968, with 67 teams progressing to the first round proper of the competition.",
+      "sent_orig": "These teams were joined by the 23 teams from the Football League Second Division and 14 teams from the Football League Third Division, who received byes to the first round proper.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These teams were joined by the 23 teams from the Football League Second Division and 14 teams from the Football League Third Division, who received byes to the first round proper."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "prompt": "Please tell me about gordon gollob",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gordon Gollob was a German field marshal during World War II.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gordon Gollob",
+            "was",
+            "a German field marshal during World War II."
+          ],
+          " Gordon Gollob was a Canadian architect.",
+          "Gordon Gollob was a field marshal during World War II."
+        ]
+      ],
+      "sent_new": "Gordon Gollob was a field marshal during World War II."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II.",
+      "sent_orig": "He rose through the ranks to become a general during World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He rose through the ranks to become a general during World War II."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II. He rose through the ranks to become a general during World War II.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II. He rose through the ranks to become a general during World War II.",
+      "sent_orig": "Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group.",
+      "sent_orig": "He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross.",
+      "sent_orig": "Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues.",
+      "sent_orig": "He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues. He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues. He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination.",
+      "sent_orig": "Despite this, he continued to serve in the army and was later reinstated.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite this, he continued to serve in the army and was later reinstated."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues. He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination. Despite this, he continued to serve in the army and was later reinstated.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues. He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination. Despite this, he continued to serve in the army and was later reinstated.",
+      "sent_orig": "After the war, Gollob was imprisoned by the Allies and later released.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the war, Gollob was imprisoned by the Allies and later released."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues. He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination. Despite this, he continued to serve in the army and was later reinstated. After the war, Gollob was imprisoned by the Allies and later released.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues. He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination. Despite this, he continued to serve in the army and was later reinstated. After the war, Gollob was imprisoned by the Allies and later released.",
+      "sent_orig": "He died on January 17, 1945, in Salzburg, Austria.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "died",
+            "on"
+          ],
+          " He died on August 24, 1977, in presenta, West Germany.",
+          "He died in West Germany."
+        ]
+      ],
+      "sent_new": "He died in West Germany."
+    },
+    {
+      "prefix_original": "Gordon Gollob was a German field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues. He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination. Despite this, he continued to serve in the army and was later reinstated. After the war, Gollob was imprisoned by the Allies and later released. He died on January 17, 1945, in Salzburg, Austria.",
+      "prefix_new": "Gordon Gollob was a field marshal during World War II. He rose through the ranks to become a general during World War II. Gollob served in several key roles during the war, including as commander of the 10th Panzer Division, the 4th Panzer Army, and the 6th Army Group. He was known for his tactical ability and leadership, and was awarded several high honors for his service, including the Knight's Cross of the Iron Cross. Gollob was also known for his controversial personality and was often at odds with his superiors and colleagues. He was critical of Hitler's leadership and was once arrested and relieved of his command for insubordination. Despite this, he continued to serve in the army and was later reinstated. After the war, Gollob was imprisoned by the Allies and later released. He died in West Germany.",
+      "sent_orig": "Despite his controversial legacy, Gollob is remembered as a skilled military commander who played a significant role in some of the key battles of World War II.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite his controversial legacy, Gollob is remembered as a skilled military commander who played a significant role in some of the key battles of World War II."
+    }
+  ]
+}

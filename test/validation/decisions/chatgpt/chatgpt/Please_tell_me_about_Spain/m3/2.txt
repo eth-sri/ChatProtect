@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about Spain",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state."
+    },
+    {
+      "prefix_original": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state.",
+      "prefix_new": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state.",
+      "sent_orig": "The country is divided into 17 autonomous regions, each with its own distinct culture and traditions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The country is divided into 17 autonomous regions, each with its own distinct culture and traditions."
+    },
+    {
+      "prefix_original": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions.",
+      "prefix_new": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions.",
+      "sent_orig": "The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician."
+    },
+    {
+      "prefix_original": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician.",
+      "prefix_new": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician.",
+      "sent_orig": "Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing."
+    },
+    {
+      "prefix_original": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician. Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing.",
+      "prefix_new": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician. Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing.",
+      "sent_orig": "It is known for its delicious cuisine, which includes dishes such as paella, tapas, and churros.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is known for its delicious cuisine, which includes dishes such as paella, tapas, and churros."
+    },
+    {
+      "prefix_original": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician. Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing. It is known for its delicious cuisine, which includes dishes such as paella, tapas, and churros.",
+      "prefix_new": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician. Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing. It is known for its delicious cuisine, which includes dishes such as paella, tapas, and churros.",
+      "sent_orig": "Spain is also famous for its art and architecture, with landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Spain is also famous for its art and architecture, with landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid."
+    },
+    {
+      "prefix_original": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician. Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing. It is known for its delicious cuisine, which includes dishes such as paella, tapas, and churros. Spain is also famous for its art and architecture, with landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid.",
+      "prefix_new": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician. Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing. It is known for its delicious cuisine, which includes dishes such as paella, tapas, and churros. Spain is also famous for its art and architecture, with landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid.",
+      "sent_orig": "It is also home to famous artists such as Pablo Picasso and Salvador Dali.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also home to famous artists such as Pablo Picasso and Salvador Dali."
+    },
+    {
+      "prefix_original": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician. Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing. It is known for its delicious cuisine, which includes dishes such as paella, tapas, and churros. Spain is also famous for its art and architecture, with landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid. It is also home to famous artists such as Pablo Picasso and Salvador Dali.",
+      "prefix_new": "Spain has a constitutional monarchy form of government, with King Felipe VI as the head of state. The country is divided into 17 autonomous regions, each with its own distinct culture and traditions. The official language is Spanish, but there are also several regional languages such as Catalan, Basque, and Galician. Spain has a diverse economy, with industries such as tourism, agriculture, and manufacturing. It is known for its delicious cuisine, which includes dishes such as paella, tapas, and churros. Spain is also famous for its art and architecture, with landmarks such as the Sagrada Familia in Barcelona, the Alhambra in Granada, and the Prado Museum in Madrid. It is also home to famous artists such as Pablo Picasso and Salvador Dali.",
+      "sent_orig": "Overall, Spain is a vibrant and beautiful country with a rich history and culture.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Spain is a vibrant and beautiful country with a rich history and culture."
+    }
+  ]
+}

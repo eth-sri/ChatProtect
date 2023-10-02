@@ -1,0 +1,52 @@
+{
+  "prompt": "Please tell me about Eike von Repgow",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom."
+    },
+    {
+      "prefix_original": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom.",
+      "prefix_new": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom.",
+      "sent_orig": "It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language."
+    },
+    {
+      "prefix_original": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom. It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language.",
+      "prefix_new": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom. It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language.",
+      "sent_orig": "Eike von Repgow was likely a member of the nobility in the region of Saxony and was probably involved in legal affairs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Eike von Repgow was likely a member of the nobility in the region of Saxony and was probably involved in legal affairs."
+    },
+    {
+      "prefix_original": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom. It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language. Eike von Repgow was likely a member of the nobility in the region of Saxony and was probably involved in legal affairs.",
+      "prefix_new": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom. It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language. Eike von Repgow was likely a member of the nobility in the region of Saxony and was probably involved in legal affairs.",
+      "sent_orig": "He is believed to have been a judge or a legal advisor to the local ruler.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom. It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language. Eike von Repgow was likely a member of the nobility in the region of Saxony and was probably involved in legal affairs. He is believed to have been a judge or a legal advisor to the local ruler.",
+      "prefix_new": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom. It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language. Eike von Repgow was likely a member of the nobility in the region of Saxony and was probably involved in legal affairs.",
+      "sent_orig": "Although little is known about Eike von Repgow's life, his legacy is significant.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Although little is known about Eike von Repgow's life, his legacy is significant."
+    },
+    {
+      "prefix_original": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom. It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language. Eike von Repgow was likely a member of the nobility in the region of Saxony and was probably involved in legal affairs. He is believed to have been a judge or a legal advisor to the local ruler. Although little is known about Eike von Repgow's life, his legacy is significant.",
+      "prefix_new": "The Sachsenspiegel is one of the most important legal works of the Middle Ages and is still considered a valuable source of information on medieval law and custom. It is particularly notable for its detailed descriptions of the legal and social systems of the time, as well as for its use of vernacular language. Eike von Repgow was likely a member of the nobility in the region of Saxony and was probably involved in legal affairs. Although little is known about Eike von Repgow's life, his legacy is significant.",
+      "sent_orig": "The Sachsenspiegel had a profound influence on the development of German law and legal culture, and it continues to be studied and referenced by legal scholars today.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Sachsenspiegel had a profound influence on the development of German law and legal culture, and it continues to be studied and referenced by legal scholars today."
+    }
+  ]
+}

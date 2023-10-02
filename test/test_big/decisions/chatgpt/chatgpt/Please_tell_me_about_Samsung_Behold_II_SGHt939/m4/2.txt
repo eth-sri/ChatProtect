@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Samsung Behold II (SGH-t939)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009."
+    },
+    {
+      "prefix_original": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009.",
+      "prefix_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009.",
+      "sent_orig": "It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels."
+    },
+    {
+      "prefix_original": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels.",
+      "prefix_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels.",
+      "sent_orig": "The Behold II is powered by a 600MHz processor.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Behold II",
+            "is powered",
+            "by a 600MHz processor."
+          ],
+          "The Behold II is powered by a 528 MHz ARM11 processor.",
+          "The Behold II is powered by a 600MHz processor."
+        ]
+      ],
+      "sent_new": "The Behold II is powered by a 600MHz processor."
+    },
+    {
+      "prefix_original": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor.",
+      "prefix_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor.",
+      "sent_orig": "It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling."
+    },
+    {
+      "prefix_original": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling.",
+      "prefix_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling.",
+      "sent_orig": "Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage."
+    },
+    {
+      "prefix_original": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling. Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage.",
+      "prefix_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling. Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage.",
+      "sent_orig": "It also has access to the Android Marketplace for downloading apps and games.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It also has access to the Android Marketplace for downloading apps and games."
+    },
+    {
+      "prefix_original": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling. Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage. It also has access to the Android Marketplace for downloading apps and games.",
+      "prefix_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling. Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage. It also has access to the Android Marketplace for downloading apps and games.",
+      "sent_orig": "However, the Behold II received mixed reviews, with some critics praising its camera and design, while others criticized its slow performance and outdated version of Android.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, the Behold II received mixed reviews, with some critics praising its camera and design, while others criticized its slow performance and outdated version of Android."
+    },
+    {
+      "prefix_original": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling. Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage. It also has access to the Android Marketplace for downloading apps and games. However, the Behold II received mixed reviews, with some critics praising its camera and design, while others criticized its slow performance and outdated version of Android.",
+      "prefix_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling. Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage. It also has access to the Android Marketplace for downloading apps and games. However, the Behold II received mixed reviews, with some critics praising its camera and design, while others criticized its slow performance and outdated version of Android.",
+      "sent_orig": "Samsung also did not provide software updates beyond Android 1.6 Donut, which limited the device's compatibility with newer apps and features.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Samsung also did not provide software updates beyond Android 1.6 Donut, which limited the device's compatibility with newer apps and features."
+    },
+    {
+      "prefix_original": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling. Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage. It also has access to the Android Marketplace for downloading apps and games. However, the Behold II received mixed reviews, with some critics praising its camera and design, while others criticized its slow performance and outdated version of Android. Samsung also did not provide software updates beyond Android 1.6 Donut, which limited the device's compatibility with newer apps and features.",
+      "prefix_new": "The Samsung Behold II (SGH-t939) is a smartphone that was released by Samsung in 2009. It runs on the Android operating system and has a 3.2-inch touch screen display with a resolution of 320x480 pixels. The Behold II is powered by a 600MHz processor. It also has a 5-megapixel camera with autofocus and LED flash, as well as a front-facing camera for video calling. Other features of the Behold II include GPS, Wi-Fi, Bluetooth, and a microSD card slot for additional storage. It also has access to the Android Marketplace for downloading apps and games. However, the Behold II received mixed reviews, with some critics praising its camera and design, while others criticized its slow performance and outdated version of Android. Samsung also did not provide software updates beyond Android 1.6 Donut, which limited the device's compatibility with newer apps and features.",
+      "sent_orig": "As a result, the Behold II was ultimately discontinued a few years after its release.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As a result, the Behold II was ultimately discontinued a few years after its release."
+    }
+  ]
+}

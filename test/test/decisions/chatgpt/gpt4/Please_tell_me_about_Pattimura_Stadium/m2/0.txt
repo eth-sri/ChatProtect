@@ -1,0 +1,78 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia.",
+      "sent_orig": "It is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "is primarily used serves",
+            "as the home venue for several local clubs, including Persiwa Wamena"
+          ],
+          "It is primarily used serves as the home stadium for the football club Persatuan Sepakbola Maluku United.",
+          "Pattimura Stadium is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division."
+        ]
+      ],
+      "sent_new": "Pattimura Stadium is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. Pattimura Stadium is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division.",
+      "sent_orig": "Opened in the 1980s, the stadium has a seating capacity of approximately 10,000 spectators, although it can be expanded to accommodate a larger crowd.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. Opened in the 1980s, the stadium has a seating capacity of approximately 10,000 spectators, although it can be expanded to accommodate a larger crowd.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. Pattimura Stadium is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division.",
+      "sent_orig": "It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. Opened in the 1980s, the stadium has a seating capacity of approximately 10,000 spectators, although it can be expanded to accommodate a larger crowd. It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. Pattimura Stadium is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches.",
+      "sent_orig": "Pattimura Stadium is named in honor of Thomas Matulessy, also known as Pattimura, an Indonesian national hero who led a rebellion against the Dutch colonial rule in Maluku in the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is named in honor of Thomas Matulessy, also known as Pattimura, an Indonesian national hero who led a rebellion against the Dutch colonial rule in Maluku in the 19th century."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. Opened in the 1980s, the stadium has a seating capacity of approximately 10,000 spectators, although it can be expanded to accommodate a larger crowd. It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches. Pattimura Stadium is named in honor of Thomas Matulessy, also known as Pattimura, an Indonesian national hero who led a rebellion against the Dutch colonial rule in Maluku in the 19th century.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. Pattimura Stadium is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches. Pattimura Stadium is named in honor of Thomas Matulessy, also known as Pattimura, an Indonesian national hero who led a rebellion against the Dutch colonial rule in Maluku in the 19th century.",
+      "sent_orig": "The stadium's location contributes to its significance, as the Maluku region is known for its rich history and the role it played in the Indonesian struggle for independence.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The stadium's location contributes to its significance, as the Maluku region is known for its rich history and the role it played in the Indonesian struggle for independence."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. Opened in the 1980s, the stadium has a seating capacity of approximately 10,000 spectators, although it can be expanded to accommodate a larger crowd. It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches. Pattimura Stadium is named in honor of Thomas Matulessy, also known as Pattimura, an Indonesian national hero who led a rebellion against the Dutch colonial rule in Maluku in the 19th century. The stadium's location contributes to its significance, as the Maluku region is known for its rich history and the role it played in the Indonesian struggle for independence.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. Pattimura Stadium is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches. Pattimura Stadium is named in honor of Thomas Matulessy, also known as Pattimura, an Indonesian national hero who led a rebellion against the Dutch colonial rule in Maluku in the 19th century. The stadium's location contributes to its significance, as the Maluku region is known for its rich history and the role it played in the Indonesian struggle for independence.",
+      "sent_orig": "Over the years, the stadium has played host to numerous local and regional level matches, as well as being a center for training and practice for various sports in the area.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Over the years, the stadium has played host to numerous local and regional level matches, as well as being a center for training and practice for various sports in the area."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. Opened in the 1980s, the stadium has a seating capacity of approximately 10,000 spectators, although it can be expanded to accommodate a larger crowd. It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches. Pattimura Stadium is named in honor of Thomas Matulessy, also known as Pattimura, an Indonesian national hero who led a rebellion against the Dutch colonial rule in Maluku in the 19th century. The stadium's location contributes to its significance, as the Maluku region is known for its rich history and the role it played in the Indonesian struggle for independence. Over the years, the stadium has played host to numerous local and regional level matches, as well as being a center for training and practice for various sports in the area.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. Pattimura Stadium is primarily used for football and serves as the home venue for several local clubs, including Persiwa Wamena and PS Ambon, which both compete in the Liga Indonesia Premier Division. It is owned by the provincial government of Maluku and is used for various sports events and competitions, besides football matches. Pattimura Stadium is named in honor of Thomas Matulessy, also known as Pattimura, an Indonesian national hero who led a rebellion against the Dutch colonial rule in Maluku in the 19th century. The stadium's location contributes to its significance, as the Maluku region is known for its rich history and the role it played in the Indonesian struggle for independence. Over the years, the stadium has played host to numerous local and regional level matches, as well as being a center for training and practice for various sports in the area.",
+      "sent_orig": "While the stadium's facilities and infrastructure might be basic compared to other larger stadiums in Indonesia, it remains an important landmark and staging ground for local sports in the region.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "While the stadium's facilities and infrastructure might be basic compared to other larger stadiums in Indonesia, it remains an important landmark and staging ground for local sports in the region."
+    }
+  ]
+}

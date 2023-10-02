@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about scott bloomquist",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee.",
+      "sent_orig": "He was born on November 14, 1963.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born on November 14, 1963."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963.",
+      "sent_orig": "He has been racing since 1980, and since then has won numerous racing titles and awards.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has been racing since 1980, and since then has won numerous racing titles and awards."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards.",
+      "sent_orig": "Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time.",
+      "sent_orig": "Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series.",
+      "sent_orig": "He has won six Dirt Track World Championships, four Show-Me 100 titles, and 13 national touring series championships.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "has won",
+            "six Dirt Track World Championships, four Show-Me 100 titles, and 13 national touring series championships."
+          ],
+          "He has won the Dirt Track World Championship eight times.",
+          "He has won four Show-Me 100 titles and 13 national touring series championships."
+        ]
+      ],
+      "sent_new": "He has won four Show-Me 100 titles and 13 national touring series championships."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series. He has won six Dirt Track World Championships, four Show-Me 100 titles, and 13 national touring series championships.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series. He has won four Show-Me 100 titles and 13 national touring series championships.",
+      "sent_orig": "He has been inducted into several halls of fame, including the National Dirt Late Model Hall of Fame, the North Carolina Auto Racing Hall of Fame, and the East Tennessee Racing Hall of Fame.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has been inducted into several halls of fame, including the National Dirt Late Model Hall of Fame, the North Carolina Auto Racing Hall of Fame, and the East Tennessee Racing Hall of Fame."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series. He has won six Dirt Track World Championships, four Show-Me 100 titles, and 13 national touring series championships. He has been inducted into several halls of fame, including the National Dirt Late Model Hall of Fame, the North Carolina Auto Racing Hall of Fame, and the East Tennessee Racing Hall of Fame.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series. He has won four Show-Me 100 titles and 13 national touring series championships. He has been inducted into several halls of fame, including the National Dirt Late Model Hall of Fame, the North Carolina Auto Racing Hall of Fame, and the East Tennessee Racing Hall of Fame.",
+      "sent_orig": "In addition to his racing success, Bloomquist is also known for his innovative car design and engineering.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his racing success, Bloomquist is also known for his innovative car design and engineering."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series. He has won six Dirt Track World Championships, four Show-Me 100 titles, and 13 national touring series championships. He has been inducted into several halls of fame, including the National Dirt Late Model Hall of Fame, the North Carolina Auto Racing Hall of Fame, and the East Tennessee Racing Hall of Fame. In addition to his racing success, Bloomquist is also known for his innovative car design and engineering.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series. He has won four Show-Me 100 titles and 13 national touring series championships. He has been inducted into several halls of fame, including the National Dirt Late Model Hall of Fame, the North Carolina Auto Racing Hall of Fame, and the East Tennessee Racing Hall of Fame. In addition to his racing success, Bloomquist is also known for his innovative car design and engineering.",
+      "sent_orig": "He has developed several advanced suspension systems and other technologies that have revolutionized the sport.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has developed several advanced suspension systems and other technologies that have revolutionized the sport."
+    },
+    {
+      "prefix_original": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series. He has won six Dirt Track World Championships, four Show-Me 100 titles, and 13 national touring series championships. He has been inducted into several halls of fame, including the National Dirt Late Model Hall of Fame, the North Carolina Auto Racing Hall of Fame, and the East Tennessee Racing Hall of Fame. In addition to his racing success, Bloomquist is also known for his innovative car design and engineering. He has developed several advanced suspension systems and other technologies that have revolutionized the sport.",
+      "prefix_new": "Scott Bloomquist is an American professional stock car racing driver from Mooreburg, Tennessee. He was born on November 14, 1963. He has been racing since 1980, and since then has won numerous racing titles and awards. Bloomquist is widely regarded as one of the greatest Dirt Late Model drivers of all time. Over the course of his career, he has won over 500 races, including multiple championships in the Lucas Oil Late Model Dirt Series and World of Outlaws Late Model Series. He has won four Show-Me 100 titles and 13 national touring series championships. He has been inducted into several halls of fame, including the National Dirt Late Model Hall of Fame, the North Carolina Auto Racing Hall of Fame, and the East Tennessee Racing Hall of Fame. In addition to his racing success, Bloomquist is also known for his innovative car design and engineering. He has developed several advanced suspension systems and other technologies that have revolutionized the sport.",
+      "sent_orig": "Overall, Scott Bloomquist is one of the most respected and accomplished drivers in stock car racing history, and continues to be a dominant force in Dirt Late Model racing to this day.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Scott Bloomquist is one of the most respected and accomplished drivers in stock car racing history, and continues to be a dominant force in Dirt Late Model racing to this day."
+    }
+  ]
+}

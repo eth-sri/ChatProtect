@@ -1,0 +1,49 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Men's 60 kg",
+            "was held",
+            "at the Palais des Sports in Paris, France, in September 2003."
+          ],
+          " Men's 60 kg was held in Osaka, Japan.",
+          "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003."
+        ]
+      ],
+      "sent_new": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003.",
+      "sent_orig": "Joachim Bottieau of Germany and Kenichi Uemura of Japan won bronze medals.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Joachim Bottieau of Germany and",
+            "won",
+            ""
+          ],
+          " Joachim Bottieau of Germany and Brazil's Celso \"P\u85e4\" Jos\u00e9 Peixoto met in the final.",
+          "Joachim Bottieau of Germany won a bronze medal."
+        ]
+      ],
+      "sent_new": "Joachim Bottieau of Germany won a bronze medal."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003. Joachim Bottieau of Germany and Kenichi Uemura of Japan won bronze medals.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003. Joachim Bottieau of Germany won a bronze medal.",
+      "sent_orig": "A total of 54 athletes from 47 countries participated in the event.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "A total of 54 athletes from 47 countries participated in the event."
+    }
+  ]
+}

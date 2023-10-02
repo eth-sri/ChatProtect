@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about auguste cl\u00e9singer",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France.",
+      "sent_orig": "He studied at the \u00c9cole des Beaux-Arts in Paris and became well known for his realistic and expressive sculptures.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "studied",
+            "at the \u00c9cole des Beaux-Arts in Paris"
+          ],
+          "He studied under the famous sculptor Jean-Baptiste-Jules Klagmann.",
+          "Auguste Cl\u00e9singer became well known for his realistic and expressive sculptures."
+        ]
+      ],
+      "sent_new": "Auguste Cl\u00e9singer became well known for his realistic and expressive sculptures."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. He studied at the \u00c9cole des Beaux-Arts in Paris and became well known for his realistic and expressive sculptures.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. Auguste Cl\u00e9singer became well known for his realistic and expressive sculptures.",
+      "sent_orig": "One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. He studied at the \u00c9cole des Beaux-Arts in Paris and became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. Auguste Cl\u00e9singer became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847.",
+      "sent_orig": "The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. He studied at the \u00c9cole des Beaux-Arts in Paris and became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847. The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. Auguste Cl\u00e9singer became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847. The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter.",
+      "sent_orig": "Cl\u00e9singer was also known for his portraits and busts, including a portrait of his wife, the writer George Sand.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Cl\u00e9singer",
+            "was also",
+            "for his portraits and busts, including a portrait of his wife,"
+          ],
+          "Cl\u00e9singer was also the son-in-law of the famous French writer George Sand.",
+          "Cl\u00e9singer was known for his portraits and busts, including a portrait of his wife."
+        ]
+      ],
+      "sent_new": "Cl\u00e9singer was known for his portraits and busts, including a portrait of his wife."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. He studied at the \u00c9cole des Beaux-Arts in Paris and became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847. The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter. Cl\u00e9singer was also known for his portraits and busts, including a portrait of his wife, the writer George Sand.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. Auguste Cl\u00e9singer became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847. The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter. Cl\u00e9singer was known for his portraits and busts, including a portrait of his wife.",
+      "sent_orig": "He was a member of the French Academy of Fine Arts and was awarded the Legion of Honor in 1861.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a member of the French Academy of Fine Arts and was awarded the Legion of Honor in 1861."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. He studied at the \u00c9cole des Beaux-Arts in Paris and became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847. The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter. Cl\u00e9singer was also known for his portraits and busts, including a portrait of his wife, the writer George Sand. He was a member of the French Academy of Fine Arts and was awarded the Legion of Honor in 1861.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. Auguste Cl\u00e9singer became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847. The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter. Cl\u00e9singer was known for his portraits and busts, including a portrait of his wife. He was a member of the French Academy of Fine Arts and was awarded the Legion of Honor in 1861.",
+      "sent_orig": "In addition to his work as a sculptor, Cl\u00e9singer was also a painter and illustrator.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work as a sculptor, Cl\u00e9singer was also a painter and illustrator."
+    },
+    {
+      "prefix_original": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. He studied at the \u00c9cole des Beaux-Arts in Paris and became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847. The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter. Cl\u00e9singer was also known for his portraits and busts, including a portrait of his wife, the writer George Sand. He was a member of the French Academy of Fine Arts and was awarded the Legion of Honor in 1861. In addition to his work as a sculptor, Cl\u00e9singer was also a painter and illustrator.",
+      "prefix_new": "Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France. Auguste Cl\u00e9singer became well known for his realistic and expressive sculptures. One of Cl\u00e9singer's most famous works is the sculpture \"Woman Bitten by a Snake,\" which was exhibited at the Paris Salon in 1847. The sculpture depicts a woman in agony as a snake bites her breast, and it caused controversy due to its erotic subject matter. Cl\u00e9singer was known for his portraits and busts, including a portrait of his wife. He was a member of the French Academy of Fine Arts and was awarded the Legion of Honor in 1861. In addition to his work as a sculptor, Cl\u00e9singer was also a painter and illustrator.",
+      "sent_orig": "He died in Paris in 1883.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He died in Paris in 1883."
+    }
+  ]
+}

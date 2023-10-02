@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about leo-volkhard freiherr von wittgenstein",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family.",
+      "sent_orig": "Leo-Volkhard Freiherr von Wittgenstein was born in Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Leo-Volkhard Freiherr von Wittgenstein was born in Germany."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany.",
+      "sent_orig": "Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front.",
+      "sent_orig": "He studied law and economics at the University of Heidelberg and the University of Munich.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "studied",
+            "law and economics at the University of Heidelberg and the University of Munich."
+          ],
+          "He studied law and economics at the University of Frankfurt.",
+          "He studied law and economics at the University of Heidelberg and the University of Munich."
+        ]
+      ],
+      "sent_new": "He studied law and economics at the University of Heidelberg and the University of Munich."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich.",
+      "sent_orig": "In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986.",
+      "sent_orig": "He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986. He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986. He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe.",
+      "sent_orig": "In addition to his work in business, Wittgenstein was a philanthropist who supported various cultural and educational institutions in Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work in business, Wittgenstein was a philanthropist who supported various cultural and educational institutions in Germany."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986. He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe. In addition to his work in business, Wittgenstein was a philanthropist who supported various cultural and educational institutions in Germany.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986. He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe. In addition to his work in business, Wittgenstein was a philanthropist who supported various cultural and educational institutions in Germany.",
+      "sent_orig": "He was a major donor to the Bavarian State Opera and supported the Munich Philharmonic Orchestra, among others.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a major donor to the Bavarian State Opera and supported the Munich Philharmonic Orchestra, among others."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986. He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe. In addition to his work in business, Wittgenstein was a philanthropist who supported various cultural and educational institutions in Germany. He was a major donor to the Bavarian State Opera and supported the Munich Philharmonic Orchestra, among others.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986. He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe. In addition to his work in business, Wittgenstein was a philanthropist who supported various cultural and educational institutions in Germany. He was a major donor to the Bavarian State Opera and supported the Munich Philharmonic Orchestra, among others.",
+      "sent_orig": "Wittgenstein died in Munich, Germany.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Wittgenstein died in Munich, Germany."
+    },
+    {
+      "prefix_original": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986. He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe. In addition to his work in business, Wittgenstein was a philanthropist who supported various cultural and educational institutions in Germany. He was a major donor to the Bavarian State Opera and supported the Munich Philharmonic Orchestra, among others. Wittgenstein died in Munich, Germany.",
+      "prefix_new": "Leo-Volkhard Freiherr von Wittgenstein was a German lawyer, businessman, philanthropist, and member of the prominent Wittgenstein family. Leo-Volkhard Freiherr von Wittgenstein was born in Germany. Wittgenstein was a member of the German Army during World War II, serving on the Eastern Front. He studied law and economics at the University of Heidelberg and the University of Munich. In 1956, Wittgenstein joined the board of directors of the chemical company Wacker Chemie AG, where he worked until his retirement in 1986. He was instrumental in the company's growth and expansion, helping it become one of the leading chemical manufacturers in Europe. In addition to his work in business, Wittgenstein was a philanthropist who supported various cultural and educational institutions in Germany. He was a major donor to the Bavarian State Opera and supported the Munich Philharmonic Orchestra, among others. Wittgenstein died in Munich, Germany.",
+      "sent_orig": "His legacy lives on through his contributions to both the business world and the arts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His legacy lives on through his contributions to both the business world and the arts."
+    }
+  ]
+}

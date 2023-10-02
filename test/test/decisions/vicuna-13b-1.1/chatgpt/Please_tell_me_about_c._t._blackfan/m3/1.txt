@@ -1,0 +1,93 @@
+{
+  "prompt": "Please tell me about c. t. blackfan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "C.T."
+    },
+    {
+      "prefix_original": "C.T.",
+      "prefix_new": "C.T.",
+      "sent_orig": "Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia.",
+      "sent_orig": "C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "C.T."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T.",
+      "sent_orig": "Blackfan received his medical training at Harvard Medical School.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan received his medical training at Harvard Medical School."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School.",
+      "sent_orig": "Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant.",
+      "sent_orig": "He also collaborated with other researchers to develop better methods for preserving and storing blood.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also collaborated with other researchers to develop better methods for preserving and storing blood."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood.",
+      "sent_orig": "In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood. In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood. In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children.",
+      "sent_orig": "He was also a founding member of the Society for Pediatric Research.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also a founding member of the Society for Pediatric Research."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood. In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children. He was also a founding member of the Society for Pediatric Research.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood. In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children. He was also a founding member of the Society for Pediatric Research.",
+      "sent_orig": "Blackfan passed away on August 17, 1941, but his contributions to the field of medicine continue to be recognized and celebrated to this day.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan passed away on August 17, 1941, but his contributions to the field of medicine continue to be recognized and celebrated to this day."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood. In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children. He was also a founding member of the Society for Pediatric Research. Blackfan passed away on August 17, 1941, but his contributions to the field of medicine continue to be recognized and celebrated to this day.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood. In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children. He was also a founding member of the Society for Pediatric Research. Blackfan passed away on August 17, 1941, but his contributions to the field of medicine continue to be recognized and celebrated to this day.",
+      "sent_orig": "The C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The C.T."
+    },
+    {
+      "prefix_original": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood. In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children. He was also a founding member of the Society for Pediatric Research. Blackfan passed away on August 17, 1941, but his contributions to the field of medicine continue to be recognized and celebrated to this day. The C.T.",
+      "prefix_new": "C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia. C.T. Blackfan received his medical training at Harvard Medical School. Blackfan conducted extensive research into the pathophysiology of anemia and developed new techniques for blood transfusion, including the use of citrate as an anticoagulant. He also collaborated with other researchers to develop better methods for preserving and storing blood. In addition to his work on blood transfusion, Blackfan was a prominent researcher in the field of pediatrics, conducting studies on a variety of topics including neonatal jaundice and respiratory diseases in children. He was also a founding member of the Society for Pediatric Research. Blackfan passed away on August 17, 1941, but his contributions to the field of medicine continue to be recognized and celebrated to this day. The C.T.",
+      "sent_orig": "Blackfan Medal, awarded annually by the Society for Pediatric Research, honors outstanding contributions to research in pediatrics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan Medal, awarded annually by the Society for Pediatric Research, honors outstanding contributions to research in pediatrics."
+    }
+  ]
+}

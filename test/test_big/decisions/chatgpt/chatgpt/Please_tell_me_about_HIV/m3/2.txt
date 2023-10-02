@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about HIV",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases.",
+      "sent_orig": "It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk.",
+      "sent_orig": "The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs.",
+      "sent_orig": "HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection.",
+      "sent_orig": "AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection. AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection. AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers.",
+      "sent_orig": "There is currently no cure for HIV or AIDS, but antiretroviral medication can help manage the virus and prevent it from progressing to AIDS.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "There is currently no cure for HIV or AIDS, but antiretroviral medication can help manage the virus and prevent it from progressing to AIDS."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection. AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers. There is currently no cure for HIV or AIDS, but antiretroviral medication can help manage the virus and prevent it from progressing to AIDS.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection. AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers. There is currently no cure for HIV or AIDS, but antiretroviral medication can help manage the virus and prevent it from progressing to AIDS.",
+      "sent_orig": "Preventing HIV involves avoiding risky behaviors such as unprotected sex and sharing needles.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Preventing HIV involves avoiding risky behaviors such as unprotected sex and sharing needles."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection. AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers. There is currently no cure for HIV or AIDS, but antiretroviral medication can help manage the virus and prevent it from progressing to AIDS. Preventing HIV involves avoiding risky behaviors such as unprotected sex and sharing needles.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection. AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers. There is currently no cure for HIV or AIDS, but antiretroviral medication can help manage the virus and prevent it from progressing to AIDS. Preventing HIV involves avoiding risky behaviors such as unprotected sex and sharing needles.",
+      "sent_orig": "It is also recommended to get regular HIV testing and to take medication to prevent HIV if at high risk (such as pre-exposure prophylaxis or PrEP).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also recommended to get regular HIV testing and to take medication to prevent HIV if at high risk (such as pre-exposure prophylaxis or PrEP)."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection. AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers. There is currently no cure for HIV or AIDS, but antiretroviral medication can help manage the virus and prevent it from progressing to AIDS. Preventing HIV involves avoiding risky behaviors such as unprotected sex and sharing needles. It is also recommended to get regular HIV testing and to take medication to prevent HIV if at high risk (such as pre-exposure prophylaxis or PrEP).",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks and weakens the immune system, making it difficult for the body to fight off infections and diseases. It is transmitted through contact with bodily fluids, such as blood, semen, vaginal fluids, and breast milk. The most common mode of transmission is through unprotected sexual contact with an infected person or through sharing needles, syringes or other injection equipment used to inject drugs. HIV can lead to AIDS (Acquired Immune Deficiency Syndrome), which is the final stage of the infection. AIDS is a condition that weakens the immune system and makes it more susceptible to life-threatening infections and cancers. There is currently no cure for HIV or AIDS, but antiretroviral medication can help manage the virus and prevent it from progressing to AIDS. Preventing HIV involves avoiding risky behaviors such as unprotected sex and sharing needles. It is also recommended to get regular HIV testing and to take medication to prevent HIV if at high risk (such as pre-exposure prophylaxis or PrEP).",
+      "sent_orig": "Education and advocacy can also help reduce the stigma associated with HIV/AIDS and encourage individuals to seek testing and treatment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Education and advocacy can also help reduce the stigma associated with HIV/AIDS and encourage individuals to seek testing and treatment."
+    }
+  ]
+}

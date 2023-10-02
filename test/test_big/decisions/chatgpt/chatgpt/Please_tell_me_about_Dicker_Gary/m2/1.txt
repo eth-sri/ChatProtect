@@ -1,0 +1,137 @@
+{
+  "prompt": "Please tell me about Dicker, Gary",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Gary Dicker is a professional footballer from Ireland.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gary Dicker is a professional footballer from Ireland."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland.",
+      "sent_orig": "He was born on October 31, 1986, in Dublin.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            ""
+          ],
+          "He was born on April 31, 1986 in Dublin, Ireland.",
+          "He was born on October 31, 1986, in Dublin."
+        ]
+      ],
+      "sent_new": "He was born on October 31, 1986, in Dublin."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin.",
+      "sent_orig": "He started his career with UCD in 2004 and played for the club for three seasons before moving to Stockport County in 2007.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "started",
+            "his career with UCD in 2004"
+          ],
+          "He started his professional career at UCD in 2005.",
+          "He played for UCD for three seasons before moving to Stockport County in 2007."
+        ]
+      ],
+      "sent_new": "He played for UCD for three seasons before moving to Stockport County in 2007."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He started his career with UCD in 2004 and played for the club for three seasons before moving to Stockport County in 2007.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007.",
+      "sent_orig": "Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town before joining League Two club Carlisle United in 2012.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Dicker",
+            "had",
+            "short stints with Brighton & Hove Albion, Rochdale, and Crawley Town before joining League Two club Carlisle United in"
+          ],
+          "Dicker had also played for Brighton & Hove Albion, Rochdale, and Carlisle United before joining his current club, Crawley Town.",
+          "Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town."
+        ]
+      ],
+      "sent_new": "Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He started his career with UCD in 2004 and played for the club for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town before joining League Two club Carlisle United in 2012.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town.",
+      "sent_orig": "He spent two seasons with Carlisle before signing for League One side Rochdale in 2014.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "spent",
+            "before signing for League One side Rochdale in 2014."
+          ],
+          "He spent two seasons with Carlisle United before signing with League of Ireland Premier Division club Dundalk in 2014.",
+          "He signed for League One side Rochdale in 2014."
+        ]
+      ],
+      "sent_new": "He signed for League One side Rochdale in 2014."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He started his career with UCD in 2004 and played for the club for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town before joining League Two club Carlisle United in 2012. He spent two seasons with Carlisle before signing for League One side Rochdale in 2014.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014.",
+      "sent_orig": "In 2015, Dicker signed for League Two side Crawley Town, where he played for two seasons before joining League Two club Notts County in 2017.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "played",
+            ""
+          ],
+          "He played as a midfielder for all the clubs he has been a part of.",
+          "Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017."
+        ]
+      ],
+      "sent_new": "Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He started his career with UCD in 2004 and played for the club for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town before joining League Two club Carlisle United in 2012. He spent two seasons with Carlisle before signing for League One side Rochdale in 2014. In 2015, Dicker signed for League Two side Crawley Town, where he played for two seasons before joining League Two club Notts County in 2017.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017.",
+      "sent_orig": "After spending one season with Notts County, he signed for League Two club Forest Green Rovers in 2018.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "he",
+            "signed",
+            "for League Two club Forest Green Rovers in 2018."
+          ],
+          "He signed for League Two club Cambridge United in 2020.",
+          "He signed for Forest Green Rovers in 2018."
+        ]
+      ],
+      "sent_new": "He signed for Forest Green Rovers in 2018."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He started his career with UCD in 2004 and played for the club for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town before joining League Two club Carlisle United in 2012. He spent two seasons with Carlisle before signing for League One side Rochdale in 2014. In 2015, Dicker signed for League Two side Crawley Town, where he played for two seasons before joining League Two club Notts County in 2017. After spending one season with Notts County, he signed for League Two club Forest Green Rovers in 2018.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017. He signed for Forest Green Rovers in 2018.",
+      "sent_orig": "Dicker is known for his versatility and can play as a defensive midfielder or a central midfielder.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dicker is known for his versatility and can play as a defensive midfielder or a central midfielder."
+    },
+    {
+      "prefix_original": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He started his career with UCD in 2004 and played for the club for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town before joining League Two club Carlisle United in 2012. He spent two seasons with Carlisle before signing for League One side Rochdale in 2014. In 2015, Dicker signed for League Two side Crawley Town, where he played for two seasons before joining League Two club Notts County in 2017. After spending one season with Notts County, he signed for League Two club Forest Green Rovers in 2018. Dicker is known for his versatility and can play as a defensive midfielder or a central midfielder.",
+      "prefix_new": "Gary Dicker is a professional footballer from Ireland. He was born on October 31, 1986, in Dublin. He played for UCD for three seasons before moving to Stockport County in 2007. Dicker had short stints with Brighton & Hove Albion, Rochdale, and Crawley Town. He signed for League One side Rochdale in 2014. Dicker signed for Crawley Town in 2015 and later joined Notts County in 2017. He signed for Forest Green Rovers in 2018. Dicker is known for his versatility and can play as a defensive midfielder or a central midfielder.",
+      "sent_orig": "He has played over 500 professional matches and has scored 27 goals in his career so far.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has played over 500 professional matches and has scored 27 goals in his career so far."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+test/test/sentences/chatgpt/fernand_seguin/m3/m4_2_2_0.txt
+Q: I give you the beginning of a description about fernand seguin.
+Then follow two statements.
+
+Description:
+Fernand Seguin was a Canadian scientist, filmmaker, and environmentalist. He was born on May 26, 1922, in Montreal, Quebec, and died on October 14, 1988, in Sainte-Adèle, Quebec.
+
+Statement 1:
+He is best known for his work in environmental education.
+
+Statement 2:
+He is best known for his work in popularizing science through television and film.
+
+Please explain whether the statements about fernand seguin are contradictory.
+Provide your explanation only.
+
+A: The statements about Fernand Seguin are not necessarily contradictory, but they do highlight different aspects of his career. Statement 1 emphasizes his contributions to environmental education, while statement 2 emphasizes his work in popularizing science through television and film. Both statements can be true at the same time, as Seguin was involved in both areas during his career.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 458
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=135, completion_tokens=70), Usage(prompt_tokens=227, completion_tokens=26)]
+362
+96
+458
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

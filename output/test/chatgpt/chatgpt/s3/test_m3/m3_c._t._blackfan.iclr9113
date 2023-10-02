@@ -1,0 +1,38 @@
+test/test/sentences/chatgpt/c._t._blackfan/m3/m3_2_7_0.txt
+Q: I give you the beginning of a description about c. t. blackfan.
+Then follow two statements.
+
+Description:
+C. T. Blackfan, also known as Charles Townsend Blackfan, was a prominent American pediatric hematologist who made significant contributions to the field of blood transfusion and the treatment of anemia in children. Blackfan spent most of his career at the Children's Hospital in Boston, where he worked as a physician and researcher. He specialized in the study of blood disorders in children, particularly anemia, and developed new techniques for blood transfusion and the treatment of iron-deficiency anemia. One of Blackfan's most notable discoveries was the identification of a new type of anemia that he named "hypoplastic anemia." He determined that this type of anemia was caused by a failure of the bone marrow to produce enough red blood cells, and he developed new treatments using blood transfusions and steroids to stimulate the bone marrow and increase the production of red blood cells. Blackfan was also a pioneer in the field of blood transfusion, developing new methods for preserving and storing blood and developing a technique for cross-matching blood types to prevent transfusion reactions. Throughout his career, Blackfan received numerous honors and awards for his contributions to the field of pediatric hematology.
+
+Statement 1:
+He died in Boston.
+
+Statement 2:
+He died in 1941 at the age of 60.
+
+Please explain whether the statements about c. t. blackfan are contradictory.
+Provide your explanation only.
+
+A: The statements about C. T. Blackfan are not contradictory. Statement 2 provides additional information about his death, including the year and age at which he died, while Statement 1 simply states the location of his death. Both statements are consistent with the information provided in the description.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No. The statements are not contradictory.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 788
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=313, completion_tokens=57), Usage(prompt_tokens=392, completion_tokens=26)]
+705
+83
+788
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

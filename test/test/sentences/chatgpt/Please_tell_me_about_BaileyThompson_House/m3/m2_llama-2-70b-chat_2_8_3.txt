@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "Here is a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey family sold the home to the Thompson family in 1928, and it was subsequently donated to the Tallahassee Junior Museum.",
+  "alt": "The Bailey-Thompson House was eventually sold to the state of Florida in 1978 and is now open to the public as a museum.",
+  "prefix": " Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. Here is a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nThe Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. The home remained in the possession of the Bailey-Thompson family for over a century. During their ownership, they added a two-story wing to the rear of the home, doubling its size.",
+  "triple": [
+    [
+      "The Bailey family",
+      "sold",
+      "the home to the Thompson family in 1928,"
+    ],
+    "compactie",
+    671
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": " The two statements provided do not contain conflicting information, and they can both be true.\n\nStatement 1 states that the Bailey family sold the home to the Thompson family in 1928, and it was subsequently donated to the Tallahassee Junior Museum. This means that the Thompson family owned the home for a period of time before donating it to the museum.\n\nStatement 2 states that the Bailey-Thompson House was eventually sold to the state of Florida in 1978 and is now open to the public as a museum. This statement does not contradict the previous statement, as it simply provides additional information about the home's ownership history. It is possible that the Thompson family sold the home to the state of Florida in 1978, after owning it for 50 years.\n\nTherefore, the statements are not contradictory, and they both provide valid information about the history of the Bailey-Thompson House."
+}

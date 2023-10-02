@@ -1,0 +1,122 @@
+{
+  "prompt": "Please tell me about Black-and-red Broadbill",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia.",
+      "sent_orig": "It belongs to the broadbill family Eurylaimidae.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It belongs to the broadbill family Eurylaimidae."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae.",
+      "sent_orig": "This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "This species",
+            "typically measures",
+            "around 17 cm in length"
+          ],
+          "This species typically measures around 20 cm in length and weighs about 30 grams.",
+          "This species typically weighs around 33 g."
+        ],
+        [
+          [
+            "around 17 cm",
+            "weighs",
+            "around 33 g."
+          ],
+          "The Black-and-red Broadbill measures around 17 cm and weighs about 25-30 grams.",
+          "This species typically measures around 17 cm in length."
+        ]
+      ],
+      "sent_new": "This species typically measures around 17 cm in length."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length.",
+      "sent_orig": "It has a short blue or turquoise bill and a small white patch on its forehead.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has a short blue or turquoise bill and a small white patch on its forehead."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts. It has a short blue or turquoise bill and a small white patch on its forehead.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length. It has a short blue or turquoise bill and a small white patch on its forehead.",
+      "sent_orig": "The wings are blue-green in color and show black markings on the primaries, whereas the tail is black with a broad white tip.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The wings",
+            "are",
+            "blue-green in color"
+          ],
+          "The wings are black with a white patch on the tips of the primary feathers.",
+          "The tail is black with a broad white tip."
+        ]
+      ],
+      "sent_new": "The tail is black with a broad white tip."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts. It has a short blue or turquoise bill and a small white patch on its forehead. The wings are blue-green in color and show black markings on the primaries, whereas the tail is black with a broad white tip.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length. It has a short blue or turquoise bill and a small white patch on its forehead. The tail is black with a broad white tip.",
+      "sent_orig": "These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts. It has a short blue or turquoise bill and a small white patch on its forehead. The wings are blue-green in color and show black markings on the primaries, whereas the tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length. It has a short blue or turquoise bill and a small white patch on its forehead. The tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments.",
+      "sent_orig": "They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts. It has a short blue or turquoise bill and a small white patch on its forehead. The wings are blue-green in color and show black markings on the primaries, whereas the tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments. They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length. It has a short blue or turquoise bill and a small white patch on its forehead. The tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments. They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds.",
+      "sent_orig": "Black-and-red Broadbills are usually seen in pairs or small groups, and they are known to sing duets.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Black-and-red Broadbills are usually seen in pairs or small groups, and they are known to sing duets."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts. It has a short blue or turquoise bill and a small white patch on its forehead. The wings are blue-green in color and show black markings on the primaries, whereas the tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments. They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds. Black-and-red Broadbills are usually seen in pairs or small groups, and they are known to sing duets.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length. It has a short blue or turquoise bill and a small white patch on its forehead. The tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments. They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds. Black-and-red Broadbills are usually seen in pairs or small groups, and they are known to sing duets.",
+      "sent_orig": "The males and females have similar appearances, and both take part in building and maintaining the nest.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The males and females have similar appearances, and both take part in building and maintaining the nest."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts. It has a short blue or turquoise bill and a small white patch on its forehead. The wings are blue-green in color and show black markings on the primaries, whereas the tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments. They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds. Black-and-red Broadbills are usually seen in pairs or small groups, and they are known to sing duets. The males and females have similar appearances, and both take part in building and maintaining the nest.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length. It has a short blue or turquoise bill and a small white patch on its forehead. The tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments. They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds. Black-and-red Broadbills are usually seen in pairs or small groups, and they are known to sing duets. The males and females have similar appearances, and both take part in building and maintaining the nest.",
+      "sent_orig": "The nest is usually placed on a forked branch, and the female lays two to three eggs, which are incubated by both parents.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The nest is usually placed on a forked branch, and the female lays two to three eggs, which are incubated by both parents."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length and weighs around 33 g.\n\nThe Black-and-red Broadbill is recognized by its glossy black upperparts and bright red underparts. It has a short blue or turquoise bill and a small white patch on its forehead. The wings are blue-green in color and show black markings on the primaries, whereas the tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments. They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds. Black-and-red Broadbills are usually seen in pairs or small groups, and they are known to sing duets. The males and females have similar appearances, and both take part in building and maintaining the nest. The nest is usually placed on a forked branch, and the female lays two to three eggs, which are incubated by both parents.",
+      "prefix_new": "The Black-and-red Broadbill is a medium-sized bird species found in South and Southeast Asia. It belongs to the broadbill family Eurylaimidae. This species typically measures around 17 cm in length. It has a short blue or turquoise bill and a small white patch on its forehead. The tail is black with a broad white tip. These birds inhabit dense forests, especially in the lowland areas, and seem to prefer humid and shaded environments. They feed on small invertebrates, such as insects, spiders, and mollusks, but they also consume some fruits and seeds. Black-and-red Broadbills are usually seen in pairs or small groups, and they are known to sing duets. The males and females have similar appearances, and both take part in building and maintaining the nest. The nest is usually placed on a forked branch, and the female lays two to three eggs, which are incubated by both parents.",
+      "sent_orig": "Overall, the Black-and-red Broadbill is a colorful and interesting bird species that adds beauty and diversity to the tropical forests where it lives.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the Black-and-red Broadbill is a colorful and interesting bird species that adds beauty and diversity to the tropical forests where it lives."
+    }
+  ]
+}

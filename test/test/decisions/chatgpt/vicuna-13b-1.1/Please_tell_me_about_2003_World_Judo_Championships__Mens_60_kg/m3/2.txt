@@ -1,0 +1,37 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships were held in Osaka, Japan from November 24 to December 5, 2003.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 24 to December 5, 2003."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 24 to December 5, 2003.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 24 to December 5, 2003.",
+      "sent_orig": "Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships held in Osaka, Japan.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships held in Osaka, Japan."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 24 to December 5, 2003. Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships held in Osaka, Japan.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 24 to December 5, 2003. Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships held in Osaka, Japan.",
+      "sent_orig": "Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships by defeating his opponent in the final to win the gold medal.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships by defeating his opponent in the final to win the gold medal."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships were held in Osaka, Japan from November 24 to December 5, 2003. Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships held in Osaka, Japan. Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships by defeating his opponent in the final to win the gold medal.",
+      "prefix_new": "The 2003 World Judo Championships were held in Osaka, Japan from November 24 to December 5, 2003. Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships held in Osaka, Japan. Kim Jae-gyun of South Korea won the men's 60 kg event at the 2003 World Judo Championships by defeating his opponent in the final to win the gold medal.",
+      "sent_orig": "It was South Korea's first gold medal in the World Judo Championships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was South Korea's first gold medal in the World Judo Championships."
+    }
+  ]
+}

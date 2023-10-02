@@ -1,0 +1,38 @@
+test/test/sentences/chatgpt/prince_albert_of_saxe-altenburg/m3/m3_1_4_0.txt
+Q: I give you the beginning of a description about prince albert of saxe-altenburg.
+Then follow two statements.
+
+Description:
+Prince Albert of Saxe-Altenburg (1819-1902) was a member of the German aristocracy and the younger brother of Ernst I, Duke of Saxe-Coburg and Gotha. He was educated at the University of Bonn. In 1843, Prince Albert married Princess Marie of Prussia, a daughter of Prince Karl of Prussia and a niece of King Friedrich Wilhelm III of Prussia. The couple had three children: Princess Alexandra of Saxe-Altenburg, Princess Marie of Saxe-Altenburg, and Prince Ernst II of Saxe-Altenburg.
+
+Statement 1:
+Prince Albert served as a captain.
+
+Statement 2:
+Prince Albert served as a general in the Prussian army.
+
+Please explain whether the statements about prince albert of saxe-altenburg are contradictory.
+Provide your explanation only.
+
+A: The statements about Prince Albert of Saxe-Altenburg are contradictory. The description does not mention any military career for Prince Albert, so it is unclear whether he served in the army at all. However, statement 1 suggests that he did serve as a captain, while statement 2 suggests that he rose to the rank of general. These two statements cannot both be true, as they describe very different levels of military achievement.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements about Prince Albert of Saxe-Altenburg are contradictory.
+A: Yes, the statements about Prince Albert of Saxe-Altenburg are contradictory.
+A: Yes.
+A: Yes, the statements about Prince Albert of Saxe-Altenburg are contradictory.
+A: Yes, the statements about Prince Albert of Saxe-Altenburg are contradictory.
+A: Yes.
+A: Yes.
+A: Yes, the statements about Prince Albert of Saxe-Altenburg are contradictory.
+label: strong
+score: 1.0
+cost: 702
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=205, completion_tokens=85), Usage(prompt_tokens=312, completion_tokens=100)]
+517
+185
+702
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

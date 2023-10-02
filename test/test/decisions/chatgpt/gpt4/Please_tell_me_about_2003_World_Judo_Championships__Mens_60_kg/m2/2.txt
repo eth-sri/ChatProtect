@@ -1,0 +1,116 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14.",
+      "prefix_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14.",
+      "sent_orig": "In the Men's 60 kg category, judokas from several countries competed for the world title.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the Men's 60 kg category, judokas from several countries competed for the world title."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title.",
+      "prefix_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title.",
+      "sent_orig": "The gold medal winner in the Men's 60 kg category was Tadahiro Nomura from Japan.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "kg category",
+            "was",
+            "Tadahiro Nomura from Japan."
+          ],
+          "The Men's 60 kg category was won by Hiroshi Izumi of Japan.",
+          "The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan."
+        ]
+      ],
+      "sent_new": "The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal winner in the Men's 60 kg category was Tadahiro Nomura from Japan.",
+      "prefix_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan.",
+      "sent_orig": "Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal winner in the Men's 60 kg category was Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo.",
+      "prefix_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo.",
+      "sent_orig": "He won his first world championship in this event, defeating Nestor Khergiani of Georgia in the final.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "won",
+            "his first world championship"
+          ],
+          "He defeated Georgi Georgiev from Bulgaria in the final to win the gold medal.",
+          "Tadahiro Nomura won the gold medal in the Men's 60 kg category, defeating Nestor Khergiani of Georgia in the final."
+        ]
+      ],
+      "sent_new": "Tadahiro Nomura won the gold medal in the Men's 60 kg category, defeating Nestor Khergiani of Georgia in the final."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal winner in the Men's 60 kg category was Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo. He won his first world championship in this event, defeating Nestor Khergiani of Georgia in the final.",
+      "prefix_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo. Tadahiro Nomura won the gold medal in the Men's 60 kg category, defeating Nestor Khergiani of Georgia in the final.",
+      "sent_orig": "The bronze medals in this category were jointly awarded to two judokas.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal winner in the Men's 60 kg category was Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo. He won his first world championship in this event, defeating Nestor Khergiani of Georgia in the final. The bronze medals in this category were jointly awarded to two judokas.",
+      "prefix_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo. Tadahiro Nomura won the gold medal in the Men's 60 kg category, defeating Nestor Khergiani of Georgia in the final.",
+      "sent_orig": "One of them was Choi Min-Ho from South Korea, who went on to become an Olympic gold medalist and a multiple-time world champion in the later years.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "One of them",
+            "was",
+            "Choi Min-Ho from South Korea,"
+          ],
+          "One of them was Yordanis Arencibia of Cuba.",
+          "One of them was Choi Min-Ho from South Korea, who became a successful judoka in the later years."
+        ]
+      ],
+      "sent_new": "One of them was Choi Min-Ho from South Korea, who became a successful judoka in the later years."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal winner in the Men's 60 kg category was Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo. He won his first world championship in this event, defeating Nestor Khergiani of Georgia in the final. The bronze medals in this category were jointly awarded to two judokas. One of them was Choi Min-Ho from South Korea, who went on to become an Olympic gold medalist and a multiple-time world champion in the later years.",
+      "prefix_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo. Tadahiro Nomura won the gold medal in the Men's 60 kg category, defeating Nestor Khergiani of Georgia in the final. One of them was Choi Min-Ho from South Korea, who became a successful judoka in the later years.",
+      "sent_orig": "The other bronze medalist was Jeroen Mooren from the Netherlands.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The other bronze medalist",
+            "was",
+            "Jeroen Mooren from the Netherlands."
+          ],
+          "The other bronze medalist was Yordanis Arencibia from Cuba.",
+          "The other bronze medalist was from the Netherlands."
+        ]
+      ],
+      "sent_new": "The other bronze medalist was from the Netherlands."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal winner in the Men's 60 kg category was Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo. He won his first world championship in this event, defeating Nestor Khergiani of Georgia in the final. The bronze medals in this category were jointly awarded to two judokas. One of them was Choi Min-Ho from South Korea, who went on to become an Olympic gold medalist and a multiple-time world champion in the later years. The other bronze medalist was Jeroen Mooren from the Netherlands.",
+      "prefix_new": "The 2003 World Judo Championships was held in Osaka, Japan, from September 11 to 14. In the Men's 60 kg category, judokas from several countries competed for the world title. The gold medal in the Men's 60 kg category was won by Tadahiro Nomura from Japan. Nomura was already a two-time Olympic champion and a seasoned veteran in the world of judo. Tadahiro Nomura won the gold medal in the Men's 60 kg category, defeating Nestor Khergiani of Georgia in the final. One of them was Choi Min-Ho from South Korea, who became a successful judoka in the later years. The other bronze medalist was from the Netherlands.",
+      "sent_orig": "The 2003 World Judo Championships in the Men's 60 kg category showcased high-level athletic performances from judokas from around the world, with Tadahiro Nomura emerging as the world champion in this weight class.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships in the Men's 60 kg category showcased high-level athletic performances from judokas from around the world, with Tadahiro Nomura emerging as the world champion in this weight class."
+    }
+  ]
+}

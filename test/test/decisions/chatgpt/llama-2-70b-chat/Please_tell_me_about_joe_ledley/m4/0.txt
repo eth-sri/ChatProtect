@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about joe ledley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team.",
+      "sent_orig": "Born on January 23, 1987, in Cardiff, Wales, he began his career with Cardiff City before moving to Celtic in 2010.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Born on January 23, 1987, in Cardiff, Wales, he began his career with Cardiff City before moving to Celtic in 2010."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, he began his career with Cardiff City before moving to Celtic in 2010.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, he began his career with Cardiff City before moving to Celtic in 2010.",
+      "sent_orig": "Ledley has also played for Crystal Palace and Derby County, and has been capped over 70 times for Wales, scoring 7 goals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ledley has also played for Crystal Palace and Derby County, and has been capped over 70 times for Wales, scoring 7 goals."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, he began his career with Cardiff City before moving to Celtic in 2010. Ledley has also played for Crystal Palace and Derby County, and has been capped over 70 times for Wales, scoring 7 goals.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, he began his career with Cardiff City before moving to Celtic in 2010. Ledley has also played for Crystal Palace and Derby County, and has been capped over 70 times for Wales, scoring 7 goals.",
+      "sent_orig": "He has represented his country at two European Championships and was named Welsh Footballer of the Year in 2011.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has represented his country at two European Championships and was named Welsh Footballer of the Year in 2011."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, he began his career with Cardiff City before moving to Celtic in 2010. Ledley has also played for Crystal Palace and Derby County, and has been capped over 70 times for Wales, scoring 7 goals. He has represented his country at two European Championships and was named Welsh Footballer of the Year in 2011.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, he began his career with Cardiff City before moving to Celtic in 2010. Ledley has also played for Crystal Palace and Derby County, and has been capped over 70 times for Wales, scoring 7 goals. He has represented his country at two European Championships and was named Welsh Footballer of the Year in 2011.",
+      "sent_orig": "Known for his energetic and box-to-box style of play, Ledley is highly regarded for his passing ability, vision, and leadership on the pitch.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Known for his energetic and box-to-box style of play, Ledley is highly regarded for his passing ability, vision, and leadership on the pitch."
+    }
+  ]
+}

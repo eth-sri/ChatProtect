@@ -1,0 +1,86 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida.",
+      "prefix_new": "",
+      "sent_orig": "It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "was built",
+            "in 1847 by William G. Ponder, a prominent contractor in the area, for his family."
+          ],
+          "It was built in 1885 for attorney Charles H. Bailey.",
+          "It was built in 1847 by William G. Ponder, a prominent contractor in the area."
+        ]
+      ],
+      "sent_new": "It was built in 1847 by William G. Ponder, a prominent contractor in the area."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family.",
+      "prefix_new": "It was built in 1847 by William G. Ponder, a prominent contractor in the area.",
+      "sent_orig": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "prefix_new": "It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor.",
+      "sent_orig": "In 1891, the home was purchased by the Bailey family, who lived there for many years.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1891, the home was purchased by the Bailey family, who lived there for many years."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years.",
+      "prefix_new": "It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years.",
+      "sent_orig": "During their ownership, they added a two-story wing to the rear of the home, doubling its size.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During their ownership, they added a two-story wing to the rear of the home, doubling its size."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home, doubling its size.",
+      "prefix_new": "It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home, doubling its size.",
+      "sent_orig": "In 1959, the Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1959, the Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home, doubling its size. In 1959, the Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum.",
+      "prefix_new": "It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home, doubling its size. In 1959, the Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum.",
+      "sent_orig": "The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home, doubling its size. In 1959, the Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "prefix_new": "It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home, doubling its size. In 1959, the Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida.",
+      "sent_orig": "Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Visitors can tour the home and see original furnishings and artifacts from the mid-19th century."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson House is a historic home located in Tallahassee, Florida. It was built in 1847 by William G. Ponder, a prominent contractor in the area, for his family. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home, doubling its size. In 1959, the Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida. Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "prefix_new": "It was built in 1847 by William G. Ponder, a prominent contractor in the area. The home is a two-story, Greek Revival-style building with a large central hall and six rooms on each floor. In 1891, the home was purchased by the Bailey family, who lived there for many years. During their ownership, they added a two-story wing to the rear of the home, doubling its size. In 1959, the Bailey family sold the home to the Thompson family, who subsequently donated it to the Tallahassee Junior Museum. The Bailey-Thompson House is now used as a historic house museum, showcasing the life and culture of the antebellum period in Florida. Visitors can tour the home and see original furnishings and artifacts from the mid-19th century.",
+      "sent_orig": "The museum also hosts special events and educational programs throughout the year.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The museum also hosts special events and educational programs throughout the year."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "prompt": "Please tell me about joe ledley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "in the English Championship.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "in the English Championship."
+    },
+    {
+      "prefix_original": "in the English Championship.",
+      "prefix_new": "in the English Championship.",
+      "sent_orig": "He has previously played for several other clubs in England and Wales, including Crystal Palace, Liverpool, and Celtic.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has previously played for several other clubs in England and Wales, including Crystal Palace, Liverpool, and Celtic."
+    },
+    {
+      "prefix_original": "in the English Championship. He has previously played for several other clubs in England and Wales, including Crystal Palace, Liverpool, and Celtic.",
+      "prefix_new": "in the English Championship. He has previously played for several other clubs in England and Wales, including Crystal Palace, Liverpool, and Celtic.",
+      "sent_orig": "Joe Ledley has represented the Wales national team, scoring 5 goals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Joe Ledley has represented the Wales national team, scoring 5 goals."
+    },
+    {
+      "prefix_original": "in the English Championship. He has previously played for several other clubs in England and Wales, including Crystal Palace, Liverpool, and Celtic. Joe Ledley has represented the Wales national team, scoring 5 goals.",
+      "prefix_new": "in the English Championship. He has previously played for several other clubs in England and Wales, including Crystal Palace, Liverpool, and Celtic. Joe Ledley has represented the Wales national team, scoring 5 goals.",
+      "sent_orig": "He is known for his technical skill and ability to control the midfield, as well as his work rate and versatility.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is known for his technical skill and ability to control the midfield, as well as his work rate and versatility."
+    }
+  ]
+}

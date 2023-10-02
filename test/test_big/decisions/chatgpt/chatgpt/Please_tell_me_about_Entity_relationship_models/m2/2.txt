@@ -1,0 +1,85 @@
+{
+  "prompt": "Please tell me about Entity relationship models",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations.",
+      "sent_orig": "In short, an ER model is used to define the relationships between various entities in a database.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In short, an ER model is used to define the relationships between various entities in a database."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database.",
+      "sent_orig": "In an ER model, entities are used to describe the data objects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In an ER model, entities are used to describe the data objects."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects.",
+      "sent_orig": "For example, a customer, employee, or product can be considered as entities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For example, a customer, employee, or product can be considered as entities."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities.",
+      "sent_orig": "Relationships are used to describe how the entities are connected to each other.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Relationships are used to describe how the entities are connected to each other."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other.",
+      "sent_orig": "For instance, the relationship between an employee and a department would describe that an employee works in a department.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "For instance, the relationship between an employee and a department would describe that an employee works in a department."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department.",
+      "sent_orig": "An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department. An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department. An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds.",
+      "sent_orig": "Rectangles represent entities, ovals represent attributes, and diamonds represent relationships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rectangles represent entities, ovals represent attributes, and diamonds represent relationships."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department. An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds. Rectangles represent entities, ovals represent attributes, and diamonds represent relationships.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department. An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds. Rectangles represent entities, ovals represent attributes, and diamonds represent relationships.",
+      "sent_orig": "The ER model is essential for the design of a relational database system as it provides a way to visualize the data objects and their relationships, which are critical to ensure data integrity and consistency.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The ER model is essential for the design of a relational database system as it provides a way to visualize the data objects and their relationships, which are critical to ensure data integrity and consistency."
+    },
+    {
+      "prefix_original": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department. An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds. Rectangles represent entities, ovals represent attributes, and diamonds represent relationships. The ER model is essential for the design of a relational database system as it provides a way to visualize the data objects and their relationships, which are critical to ensure data integrity and consistency.",
+      "prefix_new": "An entity-relationship model (ER model) is a conceptual representation of data objects, their associations to each other, and the rules governing these associations. In short, an ER model is used to define the relationships between various entities in a database. In an ER model, entities are used to describe the data objects. For example, a customer, employee, or product can be considered as entities. Relationships are used to describe how the entities are connected to each other. For instance, the relationship between an employee and a department would describe that an employee works in a department. An entity-relationship model uses various symbols to represent different objects, such as rectangles, ovals, and diamonds. Rectangles represent entities, ovals represent attributes, and diamonds represent relationships. The ER model is essential for the design of a relational database system as it provides a way to visualize the data objects and their relationships, which are critical to ensure data integrity and consistency.",
+      "sent_orig": "Additionally, the ER model also helps to identify potential problems in the database design before implementation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Additionally, the ER model also helps to identify potential problems in the database design before implementation."
+    }
+  ]
+}

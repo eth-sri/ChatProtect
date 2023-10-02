@@ -1,0 +1,69 @@
+{
+  "prompt": "Please tell me about HIV",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection.",
+      "sent_orig": "HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk.",
+      "sent_orig": "The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy.",
+      "sent_orig": "HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy. HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy. HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections.",
+      "sent_orig": "There is currently no cure for HIV, but antiretroviral therapy (ART) can help control the virus and prevent progression to AIDS (Acquired Immunodeficiency Syndrome), a condition that develops as a result of advanced stages of HIV infection.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "There is currently no cure for HIV, but antiretroviral therapy (ART) can help control the virus and prevent progression to AIDS (Acquired Immunodeficiency Syndrome), a condition that develops as a result of advanced stages of HIV infection."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy. HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections. There is currently no cure for HIV, but antiretroviral therapy (ART) can help control the virus and prevent progression to AIDS (Acquired Immunodeficiency Syndrome), a condition that develops as a result of advanced stages of HIV infection.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy. HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections. There is currently no cure for HIV, but antiretroviral therapy (ART) can help control the virus and prevent progression to AIDS (Acquired Immunodeficiency Syndrome), a condition that develops as a result of advanced stages of HIV infection.",
+      "sent_orig": "Prevention of HIV includes practicing safe sex, using barrier methods such as condoms, and avoiding sharing needles or injecting equipment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prevention of HIV includes practicing safe sex, using barrier methods such as condoms, and avoiding sharing needles or injecting equipment."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy. HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections. There is currently no cure for HIV, but antiretroviral therapy (ART) can help control the virus and prevent progression to AIDS (Acquired Immunodeficiency Syndrome), a condition that develops as a result of advanced stages of HIV infection. Prevention of HIV includes practicing safe sex, using barrier methods such as condoms, and avoiding sharing needles or injecting equipment.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy. HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections. There is currently no cure for HIV, but antiretroviral therapy (ART) can help control the virus and prevent progression to AIDS (Acquired Immunodeficiency Syndrome), a condition that develops as a result of advanced stages of HIV infection. Prevention of HIV includes practicing safe sex, using barrier methods such as condoms, and avoiding sharing needles or injecting equipment.",
+      "sent_orig": "Regular testing and early diagnosis can also help to control the spread of the virus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Regular testing and early diagnosis can also help to control the spread of the virus."
+    },
+    {
+      "prefix_original": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy. HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections. There is currently no cure for HIV, but antiretroviral therapy (ART) can help control the virus and prevent progression to AIDS (Acquired Immunodeficiency Syndrome), a condition that develops as a result of advanced stages of HIV infection. Prevention of HIV includes practicing safe sex, using barrier methods such as condoms, and avoiding sharing needles or injecting equipment. Regular testing and early diagnosis can also help to control the spread of the virus.",
+      "prefix_new": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically the CD4 cells which are responsible for fighting infection. HIV is spread through certain body fluids such as blood, semen, vaginal fluids, and breast milk. The most common ways of transmission are through unprotected sexual intercourse, sharing needles or other injecting equipment with someone who is infected, and mother-to-child transmission during childbirth, breastfeeding or pregnancy. HIV weakens the immune system over time, which can lead to an increased risk of developing other infections and illnesses known as opportunistic infections. There is currently no cure for HIV, but antiretroviral therapy (ART) can help control the virus and prevent progression to AIDS (Acquired Immunodeficiency Syndrome), a condition that develops as a result of advanced stages of HIV infection. Prevention of HIV includes practicing safe sex, using barrier methods such as condoms, and avoiding sharing needles or injecting equipment. Regular testing and early diagnosis can also help to control the spread of the virus.",
+      "sent_orig": "People living with HIV can lead healthy lives with proper medication, regular medical care, and a healthy lifestyle.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "People living with HIV can lead healthy lives with proper medication, regular medical care, and a healthy lifestyle."
+    }
+  ]
+}

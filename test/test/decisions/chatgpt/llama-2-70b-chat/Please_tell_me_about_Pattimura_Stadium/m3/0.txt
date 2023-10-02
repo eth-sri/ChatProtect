@@ -1,0 +1,140 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a multi-purpose stadium",
+            "located",
+            "in Ambon, Maluku, Indonesia."
+          ],
+          " Pattimura Stadium is located in Jakarta, Indonesia.",
+          "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia."
+        ],
+        [
+          [
+            "a multi-purpose stadium",
+            "located",
+            "in Ambon, Maluku, Indonesia."
+          ],
+          " Pattimura Stadium is located in Jayapura, Papua, Indonesia.",
+          "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia."
+        ]
+      ],
+      "sent_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia.",
+      "sent_orig": "It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century.",
+      "sent_orig": "The stadium was originally built in 1954.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The stadium was originally built in 1954."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954.",
+      "sent_orig": "Pattimura Stadium has a seating capacity of approximately 20,000 spectators.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Pattimura Stadium",
+            "has",
+            "a seating capacity of approximately"
+          ],
+          " Pattimura Stadium has a seating capacity of 15,000 spectators.",
+          "Pattimura Stadium has a seating capacity of 15,000 spectators."
+        ]
+      ],
+      "sent_new": "Pattimura Stadium has a seating capacity of 15,000 spectators."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of approximately 20,000 spectators.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of 15,000 spectators.",
+      "sent_orig": "It is also used for cultural events, concerts, and religious gatherings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also used for cultural events, concerts, and religious gatherings."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of approximately 20,000 spectators. It is also used for cultural events, concerts, and religious gatherings.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of 15,000 spectators. It is also used for cultural events, concerts, and religious gatherings.",
+      "sent_orig": "The stadium is managed by the Ministry of Youth and Sports of Indonesia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The stadium",
+            "is managed",
+            "by the Ministry of Youth and Sports of Indonesia."
+          ],
+          " The stadium is managed by the Ambon City Government.",
+          "The stadium is managed by the Ambon City Government."
+        ]
+      ],
+      "sent_new": "The stadium is managed by the Ambon City Government."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of approximately 20,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ministry of Youth and Sports of Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of 15,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ambon City Government.",
+      "sent_orig": "The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of approximately 20,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ministry of Youth and Sports of Indonesia. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of 15,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ambon City Government. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games.",
+      "sent_orig": "It is also a home venue for the Indonesia national football team and has hosted several international football matches.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also a home venue for the Indonesia national football team and has hosted several international football matches."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of approximately 20,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ministry of Youth and Sports of Indonesia. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games. It is also a home venue for the Indonesia national football team and has hosted several international football matches.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of 15,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ambon City Government. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games. It is also a home venue for the Indonesia national football team and has hosted several international football matches.",
+      "sent_orig": "Pattimura Stadium is considered a national landmark and a symbol of sporting excellence in Indonesia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is considered a national landmark and a symbol of sporting excellence in Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of approximately 20,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ministry of Youth and Sports of Indonesia. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games. It is also a home venue for the Indonesia national football team and has hosted several international football matches. Pattimura Stadium is considered a national landmark and a symbol of sporting excellence in Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of 15,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ambon City Government. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games. It is also a home venue for the Indonesia national football team and has hosted several international football matches. Pattimura Stadium is considered a national landmark and a symbol of sporting excellence in Indonesia.",
+      "sent_orig": "It has undergone several renovations to improve its facilities and ensure that it meets international standards for sports and events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has undergone several renovations to improve its facilities and ensure that it meets international standards for sports and events."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of approximately 20,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ministry of Youth and Sports of Indonesia. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games. It is also a home venue for the Indonesia national football team and has hosted several international football matches. Pattimura Stadium is considered a national landmark and a symbol of sporting excellence in Indonesia. It has undergone several renovations to improve its facilities and ensure that it meets international standards for sports and events.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of 15,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ambon City Government. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games. It is also a home venue for the Indonesia national football team and has hosted several international football matches. Pattimura Stadium is considered a national landmark and a symbol of sporting excellence in Indonesia. It has undergone several renovations to improve its facilities and ensure that it meets international standards for sports and events.",
+      "sent_orig": "The stadium is well-equipped with modern facilities, including a state-of-the-art scoreboard, electronic displays, and floodlights for night events.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The stadium is well-equipped with modern facilities, including a state-of-the-art scoreboard, electronic displays, and floodlights for night events."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of approximately 20,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ministry of Youth and Sports of Indonesia. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games. It is also a home venue for the Indonesia national football team and has hosted several international football matches. Pattimura Stadium is considered a national landmark and a symbol of sporting excellence in Indonesia. It has undergone several renovations to improve its facilities and ensure that it meets international standards for sports and events. The stadium is well-equipped with modern facilities, including a state-of-the-art scoreboard, electronic displays, and floodlights for night events.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a National Hero of Indonesia who fought against Dutch colonization in the 19th century. The stadium was originally built in 1954. Pattimura Stadium has a seating capacity of 15,000 spectators. It is also used for cultural events, concerts, and religious gatherings. The stadium is managed by the Ambon City Government. The stadium has hosted several notable events, including the 1954 Asian Games, the 1979 Southeast Asian Games, and the 2011 Southeast Asian Games. It is also a home venue for the Indonesia national football team and has hosted several international football matches. Pattimura Stadium is considered a national landmark and a symbol of sporting excellence in Indonesia. It has undergone several renovations to improve its facilities and ensure that it meets international standards for sports and events. The stadium is well-equipped with modern facilities, including a state-of-the-art scoreboard, electronic displays, and floodlights for night events.",
+      "sent_orig": "Overall, Pattimura Stadium is an important sports and cultural venue in Indonesia, hosting various events that promote sports, culture, and entertainment for the people of Indonesia and beyond.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Pattimura Stadium is an important sports and cultural venue in Indonesia, hosting various events that promote sports, culture, and entertainment for the people of Indonesia and beyond."
+    }
+  ]
+}

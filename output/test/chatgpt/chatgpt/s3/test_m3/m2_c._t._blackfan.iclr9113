@@ -1,0 +1,100 @@
+test/test/sentences/chatgpt/c._t._blackfan/m3/m2_2_1_0.txt
+Q: I give you the beginning of a description about c. t. blackfan.
+Then follow two statements.
+
+Description:
+C. T. Blackfan, also known as Charles Townsend Blackfan, was a prominent American pediatric hematologist who made significant contributions to the field of blood transfusion and the treatment of anemia in children.
+
+Statement 1:
+Blackfan spent most of his career at the Children's Hospital in Boston, where he worked as a physician and researcher.
+
+Statement 2:
+Blackfan spent most of his career at Boston Children's Hospital.
+
+Please explain whether the statements about c. t. blackfan are contradictory.
+Provide your explanation only.
+
+A: The statements about C. T. Blackfan are not contradictory. They both convey the same information that Blackfan spent most of his career at the Children's Hospital in Boston, but the second statement specifies the hospital's full name.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 410
+test/test/sentences/chatgpt/c._t._blackfan/m3/m2_2_1_1.txt
+Q: I give you the beginning of a description about c. t. blackfan.
+Then follow two statements.
+
+Description:
+C. T. Blackfan, also known as Charles Townsend Blackfan, was a prominent American pediatric hematologist who made significant contributions to the field of blood transfusion and the treatment of anemia in children.
+
+Statement 1:
+Blackfan spent most of his career at the Children's Hospital in Boston, where he worked as a physician and researcher.
+
+Statement 2:
+He worked at the Boston Children's Hospital for over 40 years.
+
+Please explain whether the statements about c. t. blackfan are contradictory.
+Provide your explanation only.
+
+A: The statements about C. T. Blackfan are not contradictory. Statement 1 provides information about Blackfan's career as a physician and researcher at the Children's Hospital in Boston, while Statement 2 adds that he worked there for over 40 years. Both statements are consistent with each other and provide complementary information about Blackfan's career.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 456
+test/test/sentences/chatgpt/c._t._blackfan/m3/m2_1_2_0.txt
+Q: I give you the beginning of a description about c. t. blackfan.
+Then follow two statements.
+
+Description:
+C.T. Blackfan was an American physician and researcher who is best known for his pioneering work in the field of blood transfusion and the treatment of anemia.
+
+Statement 1:
+Blackfan received his medical training at Harvard Medical School.
+
+Statement 2:
+Blackfan received his medical degree from Harvard Medical School in 1906.
+
+Please explain whether the statements about c. t. blackfan are contradictory.
+Provide your explanation only.
+
+A: The statements about C.T. Blackfan are not contradictory. Statement 1 provides information about where Blackfan received his medical training, while statement 2 specifies that he received his medical degree from Harvard Medical School in a particular year. Both statements are consistent with the description of Blackfan as an American physician and researcher known for his work in blood transfusion and anemia treatment.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 428
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=138, completion_tokens=46), Usage(prompt_tokens=206, completion_tokens=20), Usage(prompt_tokens=139, completion_tokens=68), Usage(prompt_tokens=229, completion_tokens=20), Usage(prompt_tokens=118, completion_tokens=75), Usage(prompt_tokens=215, completion_tokens=20)]
+1045
+249
+1294
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

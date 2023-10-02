@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about jacques rouvier",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Jacques Rouvier is a French pianist born in Marseille in 1947.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Jacques Rouvier is a French pianist born in Marseille in 1947."
+    },
+    {
+      "prefix_original": "Jacques Rouvier is a French pianist born in Marseille in 1947.",
+      "prefix_new": "Jacques Rouvier is a French pianist born in Marseille in 1947.",
+      "sent_orig": "Jacques Rouvier won first prize in piano at the Paris Conservatory.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Jacques Rouvier won first prize in piano at the Paris Conservatory."
+    },
+    {
+      "prefix_original": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory.",
+      "prefix_new": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory.",
+      "sent_orig": "Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic."
+    },
+    {
+      "prefix_original": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory. Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic.",
+      "prefix_new": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory. Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic.",
+      "sent_orig": "He has also been a regular performer at major music festivals such as the Salzburg Festival and the Edinburgh Festival.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also been a regular performer at major music festivals such as the Salzburg Festival and the Edinburgh Festival."
+    },
+    {
+      "prefix_original": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory. Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic. He has also been a regular performer at major music festivals such as the Salzburg Festival and the Edinburgh Festival.",
+      "prefix_new": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory. Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic. He has also been a regular performer at major music festivals such as the Salzburg Festival and the Edinburgh Festival.",
+      "sent_orig": "Rouvier teaches at the Marseille Conservatory and the Mozarteum University of Salzburg.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Rouvier",
+            "teaches",
+            "at the Marseille Conservatory and the Mozarteum University of Salzburg."
+          ],
+          "Rouvier teaches at the Conservatoire de Paris.",
+          "Jacques Rouvier teaches at the Mozarteum University of Salzburg and the Marseille Conservatory."
+        ]
+      ],
+      "sent_new": "Jacques Rouvier teaches at the Mozarteum University of Salzburg and the Marseille Conservatory."
+    },
+    {
+      "prefix_original": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory. Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic. He has also been a regular performer at major music festivals such as the Salzburg Festival and the Edinburgh Festival. Rouvier teaches at the Marseille Conservatory and the Mozarteum University of Salzburg.",
+      "prefix_new": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory. Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic. He has also been a regular performer at major music festivals such as the Salzburg Festival and the Edinburgh Festival. Jacques Rouvier teaches at the Mozarteum University of Salzburg and the Marseille Conservatory.",
+      "sent_orig": "He has also been a jury member of several international piano competitions, including the Van Cliburn International Piano Competition and the Tchaikovsky International Piano Competition.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also been a jury member of several international piano competitions, including the Van Cliburn International Piano Competition and the Tchaikovsky International Piano Competition."
+    },
+    {
+      "prefix_original": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory. Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic. He has also been a regular performer at major music festivals such as the Salzburg Festival and the Edinburgh Festival. Rouvier teaches at the Marseille Conservatory and the Mozarteum University of Salzburg. He has also been a jury member of several international piano competitions, including the Van Cliburn International Piano Competition and the Tchaikovsky International Piano Competition.",
+      "prefix_new": "Jacques Rouvier is a French pianist born in Marseille in 1947. Jacques Rouvier won first prize in piano at the Paris Conservatory. Rouvier has had a successful career as a concert pianist, performing with orchestras such as the Berlin Philharmonic, London Symphony Orchestra, and Tokyo Philharmonic. He has also been a regular performer at major music festivals such as the Salzburg Festival and the Edinburgh Festival. Jacques Rouvier teaches at the Mozarteum University of Salzburg and the Marseille Conservatory. He has also been a jury member of several international piano competitions, including the Van Cliburn International Piano Competition and the Tchaikovsky International Piano Competition.",
+      "sent_orig": "Rouvier has recorded extensively, including the complete piano works of Ravel and Mozart, and his recordings have been awarded numerous accolades, including several Diapason d'Or and Gramophone Awards.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Rouvier has recorded extensively, including the complete piano works of Ravel and Mozart, and his recordings have been awarded numerous accolades, including several Diapason d'Or and Gramophone Awards."
+    }
+  ]
+}

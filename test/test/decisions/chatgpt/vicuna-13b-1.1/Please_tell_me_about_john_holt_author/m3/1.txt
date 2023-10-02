@@ -1,0 +1,45 @@
+{
+  "prompt": "Please tell me about john holt (author)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning."
+    },
+    {
+      "prefix_original": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning.",
+      "prefix_new": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning.",
+      "sent_orig": "Holt is widely regarded as one of the foremost influences in the field of child-centered education and multimedia learning.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Holt is widely regarded as one of the foremost influences in the field of child-centered education and multimedia learning."
+    },
+    {
+      "prefix_original": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning. Holt is widely regarded as one of the foremost influences in the field of child-centered education and multimedia learning.",
+      "prefix_new": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning. Holt is widely regarded as one of the foremost influences in the field of child-centered education and multimedia learning.",
+      "sent_orig": "He wrote several books, including \"How Children Learn,\" \"The Power of Afferent Illumination,\" and \"Learning Out Loud.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He wrote several books, including \"How Children Learn,\" \"The Power of Afferent Illumination,\" and \"Learning Out Loud.\""
+    },
+    {
+      "prefix_original": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning. Holt is widely regarded as one of the foremost influences in the field of child-centered education and multimedia learning. He wrote several books, including \"How Children Learn,\" \"The Power of Afferent Illumination,\" and \"Learning Out Loud.\"",
+      "prefix_new": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning. Holt is widely regarded as one of the foremost influences in the field of child-centered education and multimedia learning. He wrote several books, including \"How Children Learn,\" \"The Power of Afferent Illumination,\" and \"Learning Out Loud.\"",
+      "sent_orig": "Holt's work emphasized the importance of allowing children to learn at their own pace and in their own way, without the need for coercion or formal instruction.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Holt's work emphasized the importance of allowing children to learn at their own pace and in their own way, without the need for coercion or formal instruction."
+    },
+    {
+      "prefix_original": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning. Holt is widely regarded as one of the foremost influences in the field of child-centered education and multimedia learning. He wrote several books, including \"How Children Learn,\" \"The Power of Afferent Illumination,\" and \"Learning Out Loud.\" Holt's work emphasized the importance of allowing children to learn at their own pace and in their own way, without the need for coercion or formal instruction.",
+      "prefix_new": "John Holt (1927-1985) was an American author and educator who was best known for his books on child development and learning. Holt is widely regarded as one of the foremost influences in the field of child-centered education and multimedia learning. He wrote several books, including \"How Children Learn,\" \"The Power of Afferent Illumination,\" and \"Learning Out Loud.\" Holt's work emphasized the importance of allowing children to learn at their own pace and in their own way, without the need for coercion or formal instruction.",
+      "sent_orig": "His ideas have had a significant impact on the field of education and continue to be influential today.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His ideas have had a significant impact on the field of education and continue to be influential today."
+    }
+  ]
+}

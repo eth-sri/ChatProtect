@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Pattimura Stadium",
+  "orig": "Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nPattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia.",
+  "alt": "There is no conflicting information about the stadium's preservation.",
+  "prefix": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Indonesia. It is primarily used for football matches and is the home stadium of Persiram Raja Ampat.",
+  "triple": [
+    [
+      "the conflicting information",
+      "preserves",
+      "as much valid information as possible:"
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "orig_tag": "ok",
+  "explanation": " The two statements provided do not contain conflicting information. Statement 1 removes the information about the stadium being the home stadium of Persiram Raja Ampat, which is not necessarily conflicting with the original statement. Statement 2 states that there is no conflicting information about the stadium's preservation, which is not related to the original statement. Therefore, the statements are not contradictory."
+}

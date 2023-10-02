@@ -1,0 +1,167 @@
+{
+  "prompt": "Please tell me about 1990\u201391 Austrian Hockey League season",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe.",
+      "sent_orig": "This season involved eight participating teams competing to determine the overall champion.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "This season",
+            "involved",
+            "eight participating teams"
+          ],
+          "This season involved ten teams competing for the championship.",
+          "This season involved eight participating teams."
+        ]
+      ],
+      "sent_new": "This season involved eight participating teams."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams.",
+      "sent_orig": "The teams that participated in the 1990-91 season were:\n1.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The teams that participated in the 1990-91 season were:\n1."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1.",
+      "sent_orig": "VEU Feldkirch\n2.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "VEU Feldkirch\n2."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2.",
+      "sent_orig": "EC KAC (Klagenfurter AC)\n3.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC KAC (Klagenfurter AC)\n3."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3.",
+      "sent_orig": "EC Graz 99ers\n4.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EC Graz 99ers\n4."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4.",
+      "sent_orig": "Innsbrucker EV\n5.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Innsbrucker EV\n5."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5.",
+      "sent_orig": "Wiener EV\n6.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Wiener EV\n6."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6.",
+      "sent_orig": "EK Zell am See\n7.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EK Zell am See\n7."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7.",
+      "sent_orig": "EHC Salzburg\n8.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EHC Salzburg\n8."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8.",
+      "sent_orig": "EHC Lustenau\n\nThe competition was organized into two phases.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "EHC Lustenau\n\nThe competition was organized into two phases."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases.",
+      "sent_orig": "The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times.",
+      "sent_orig": "The second phase was the playoff stage, which determined the final rankings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The second phase was the playoff stage, which determined the final rankings."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings.",
+      "sent_orig": "Points were awarded after each game in the regular season.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Points were awarded after each game in the regular season."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season.",
+      "sent_orig": "After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season. After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season. After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV.",
+      "sent_orig": "In the playoff stage, the semifinals pitted VEU Feldkirch against Innsbrucker EV and EC KAC against EC Graz 99ers.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the playoff stage, the semifinals pitted VEU Feldkirch against Innsbrucker EV and EC KAC against EC Graz 99ers."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season. After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV. In the playoff stage, the semifinals pitted VEU Feldkirch against Innsbrucker EV and EC KAC against EC Graz 99ers.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season. After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV. In the playoff stage, the semifinals pitted VEU Feldkirch against Innsbrucker EV and EC KAC against EC Graz 99ers.",
+      "sent_orig": "VEU Feldkirch and EC KAC reached the finals to determine the league champion.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "VEU Feldkirch and EC KAC reached the finals to determine the league champion."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season. After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV. In the playoff stage, the semifinals pitted VEU Feldkirch against Innsbrucker EV and EC KAC against EC Graz 99ers. VEU Feldkirch and EC KAC reached the finals to determine the league champion.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season. After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV. In the playoff stage, the semifinals pitted VEU Feldkirch against Innsbrucker EV and EC KAC against EC Graz 99ers. VEU Feldkirch and EC KAC reached the finals to determine the league champion.",
+      "sent_orig": "VEU Feldkirch emerged victorious as the champions of the 1990-91 Austrian Hockey League season, defeating EC KAC in the playoff finals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "VEU Feldkirch emerged victorious as the champions of the 1990-91 Austrian Hockey League season, defeating EC KAC in the playoff finals."
+    },
+    {
+      "prefix_original": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams competing to determine the overall champion. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season. After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV. In the playoff stage, the semifinals pitted VEU Feldkirch against Innsbrucker EV and EC KAC against EC Graz 99ers. VEU Feldkirch and EC KAC reached the finals to determine the league champion. VEU Feldkirch emerged victorious as the champions of the 1990-91 Austrian Hockey League season, defeating EC KAC in the playoff finals.",
+      "prefix_new": "The 1990-91 Austrian Hockey League season was the 61st season of the Austrian Hockey League (also known as the Erste Bank Eishockey Liga or EBEL), the top professional ice hockey league in Austria, Central Europe. This season involved eight participating teams. The teams that participated in the 1990-91 season were:\n1. VEU Feldkirch\n2. EC KAC (Klagenfurter AC)\n3. EC Graz 99ers\n4. Innsbrucker EV\n5. Wiener EV\n6. EK Zell am See\n7. EHC Salzburg\n8. EHC Lustenau\n\nThe competition was organized into two phases. The first phase was a regular season, also known as the round-robin stage, where teams played each other multiple times. The second phase was the playoff stage, which determined the final rankings. Points were awarded after each game in the regular season. After the completion of the regular season, the top four teams advanced to the playoff stage: VEU Feldkirch, EC KAC, EC Graz 99ers, and Innsbrucker EV. In the playoff stage, the semifinals pitted VEU Feldkirch against Innsbrucker EV and EC KAC against EC Graz 99ers. VEU Feldkirch and EC KAC reached the finals to determine the league champion. VEU Feldkirch emerged victorious as the champions of the 1990-91 Austrian Hockey League season, defeating EC KAC in the playoff finals.",
+      "sent_orig": "This title marked their first-ever Austrian Hockey League championship.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This title marked their first-ever Austrian Hockey League championship."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "prompt": "Please tell me about Brazil \u2013 Angola relations",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Brazil and Angola",
+            "have had",
+            "diplomatic relations since 1976"
+          ],
+          "Brazil and Angola have had diplomatic relations since Angola gained independence from Portugal in 1975.",
+          "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976."
+        ]
+      ],
+      "sent_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976."
+    },
+    {
+      "prefix_original": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then.",
+      "prefix_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976.",
+      "sent_orig": "Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "bilateral trade",
+            "estimated",
+            "at $3.5 billion in 2019."
+          ],
+          "Bilateral trade between Brazil and Angola is estimated to be around $3 billion per year.",
+          "Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019."
+        ]
+      ],
+      "sent_new": "Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019."
+    },
+    {
+      "prefix_original": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019.",
+      "prefix_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019.",
+      "sent_orig": "Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil."
+    },
+    {
+      "prefix_original": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil.",
+      "prefix_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil.",
+      "sent_orig": "Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002."
+    },
+    {
+      "prefix_original": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002.",
+      "prefix_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002.",
+      "sent_orig": "Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure."
+    },
+    {
+      "prefix_original": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002. Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure.",
+      "prefix_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002. Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure.",
+      "sent_orig": "Brazil has also trained Angolan military personnel and provided military equipment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Brazil has also trained Angolan military personnel and provided military equipment."
+    },
+    {
+      "prefix_original": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002. Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure. Brazil has also trained Angolan military personnel and provided military equipment.",
+      "prefix_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002. Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure. Brazil has also trained Angolan military personnel and provided military equipment.",
+      "sent_orig": "The exchange of visits between the two countries has intensified in recent years, with Brazilian presidents visiting Angola in 2009 and 2019, and Angola's president visiting Brazil in 2019.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The exchange of visits between the two countries has intensified in recent years, with Brazilian presidents visiting Angola in 2009 and 2019, and Angola's president visiting Brazil in 2019."
+    },
+    {
+      "prefix_original": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002. Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure. Brazil has also trained Angolan military personnel and provided military equipment. The exchange of visits between the two countries has intensified in recent years, with Brazilian presidents visiting Angola in 2009 and 2019, and Angola's president visiting Brazil in 2019.",
+      "prefix_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002. Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure. Brazil has also trained Angolan military personnel and provided military equipment. The exchange of visits between the two countries has intensified in recent years, with Brazilian presidents visiting Angola in 2009 and 2019, and Angola's president visiting Brazil in 2019.",
+      "sent_orig": "Cultural exchange has also been significant, with Brazil providing scholarships and exchange programs for Angolan students and promoting Brazilian culture in Angola.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cultural exchange has also been significant, with Brazil providing scholarships and exchange programs for Angolan students and promoting Brazilian culture in Angola."
+    },
+    {
+      "prefix_original": "Brazil and Angola have had diplomatic relations since 1976 and have maintained a cordial relationship since then. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002. Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure. Brazil has also trained Angolan military personnel and provided military equipment. The exchange of visits between the two countries has intensified in recent years, with Brazilian presidents visiting Angola in 2009 and 2019, and Angola's president visiting Brazil in 2019. Cultural exchange has also been significant, with Brazil providing scholarships and exchange programs for Angolan students and promoting Brazilian culture in Angola.",
+      "prefix_new": "Brazil and Angola have maintained a cordial relationship since establishing diplomatic relations in 1976. Angola is Brazil's largest trade partner in Africa, with bilateral trade estimated at $3.5 billion in 2019. Brazil exports to Angola include food, machinery, and vehicles, while Angola exports oil, diamonds, and fish to Brazil. Brazil has played an important role in Angola's reconstruction process after the end of its civil war in 2002. Brazil has provided technical and financial support in several areas, including agriculture, healthcare, education, and infrastructure. Brazil has also trained Angolan military personnel and provided military equipment. The exchange of visits between the two countries has intensified in recent years, with Brazilian presidents visiting Angola in 2009 and 2019, and Angola's president visiting Brazil in 2019. Cultural exchange has also been significant, with Brazil providing scholarships and exchange programs for Angolan students and promoting Brazilian culture in Angola.",
+      "sent_orig": "Overall, Brazil and Angola have maintained a strong partnership, with mutual interests in economic development and cooperation on regional and global issues.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Brazil and Angola have maintained a strong partnership, with mutual interests in economic development and cooperation on regional and global issues."
+    }
+  ]
+}

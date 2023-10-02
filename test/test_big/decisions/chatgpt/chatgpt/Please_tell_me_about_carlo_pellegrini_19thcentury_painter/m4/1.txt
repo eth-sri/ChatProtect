@@ -1,0 +1,63 @@
+{
+  "prompt": "Please tell me about carlo pellegrini (19th-century painter)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century.",
+      "sent_orig": "He later moved to Florence, where he participated in many exhibitions throughout Europe.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He later moved to Florence, where he participated in many exhibitions throughout Europe."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century. He later moved to Florence, where he participated in many exhibitions throughout Europe.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century. He later moved to Florence, where he participated in many exhibitions throughout Europe.",
+      "sent_orig": "Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Among his most famous paintings",
+            "are",
+            "\"The Death of Cato of Utica\""
+          ],
+          "Among his most famous paintings are \"The Death of Leonardo da Vinci\" and \"The Death of Raphael\".",
+          "Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\""
+        ]
+      ],
+      "sent_new": "Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\""
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century. He later moved to Florence, where he participated in many exhibitions throughout Europe. Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\"",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century. He later moved to Florence, where he participated in many exhibitions throughout Europe. Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\"",
+      "sent_orig": "Pellegrini was also a skilled engraver, and his illustrations were published in many Italian and European magazines.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pellegrini was also a skilled engraver, and his illustrations were published in many Italian and European magazines."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century. He later moved to Florence, where he participated in many exhibitions throughout Europe. Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\" Pellegrini was also a skilled engraver, and his illustrations were published in many Italian and European magazines.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century. He later moved to Florence, where he participated in many exhibitions throughout Europe. Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\" Pellegrini was also a skilled engraver, and his illustrations were published in many Italian and European magazines.",
+      "sent_orig": "He was a member of the Academy of Fine Arts in Florence and received numerous awards in recognition of his artistic achievements.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a member of the Academy of Fine Arts in Florence and received numerous awards in recognition of his artistic achievements."
+    },
+    {
+      "prefix_original": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century. He later moved to Florence, where he participated in many exhibitions throughout Europe. Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\" Pellegrini was also a skilled engraver, and his illustrations were published in many Italian and European magazines. He was a member of the Academy of Fine Arts in Florence and received numerous awards in recognition of his artistic achievements.",
+      "prefix_new": "Carlo Pellegrini (1839-1889) was an Italian painter of the late 19th century. He later moved to Florence, where he participated in many exhibitions throughout Europe. Among his most famous paintings are \"The Death of Cato of Utica\" and \"The Assassination of Julius Caesar.\" Pellegrini was also a skilled engraver, and his illustrations were published in many Italian and European magazines. He was a member of the Academy of Fine Arts in Florence and received numerous awards in recognition of his artistic achievements.",
+      "sent_orig": "Although he died young, Carlo Pellegrini left a lasting legacy as one of the most important painters of the 19th century in Italy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Although he died young, Carlo Pellegrini left a lasting legacy as one of the most important painters of the 19th century in Italy."
+    }
+  ]
+}

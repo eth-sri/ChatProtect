@@ -1,0 +1,38 @@
+test/test/sentences/chatgpt/wen_tianxiang/m3/m4_1_4_0.txt
+Q: I give you the beginning of a description about wen tianxiang.
+Then follow two statements.
+
+Description:
+Wen Tianxiang (1236-1283) was a Chinese scholar, poet, and military general during the late Song Dynasty. He is famed for his patriotism, loyalty, and integrity in the face of adversity. Wen Tianxiang was born in Haining, Zhejiang Province, China. He passed the imperial examination, a qualification for high-ranking government officials, at the age of 26.
+
+Statement 1:
+He held government positions throughout his career.
+
+Statement 2:
+He held various government positions throughout his career.
+
+Please explain whether the statements about wen tianxiang are contradictory.
+Provide your explanation only.
+
+A: The statements about Wen Tianxiang are not contradictory. Statement 1 implies that he held government positions consistently throughout his career, while statement 2 suggests that he held different government positions at different times. Both statements are consistent with the fact that Wen Tianxiang was a high-ranking government official who passed the imperial examination.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No. The statements are not contradictory.
+A: No.
+A: No, the statements are not contradictory.
+A: No, the statements are not contradictory.
+A: No.
+label: ok
+score: 0.0
+cost: 508
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=157, completion_tokens=64), Usage(prompt_tokens=243, completion_tokens=44)]
+400
+108
+508
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

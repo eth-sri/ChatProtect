@@ -1,0 +1,79 @@
+{
+  "prompt": "Please tell me about Amman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Amman is the capital city of Jordan, located in the northwest region of the country.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Amman is the capital city of Jordan, located in the northwest region of the country."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwest region of the country.",
+      "prefix_new": "Amman is the capital city of Jordan, located in the northwest region of the country.",
+      "sent_orig": "It has a population of approximately 4 million people, making it the most populated city in Jordan.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "has",
+            ""
+          ],
+          "It has a population of over 4 million people.",
+          "Amman is the most populated city in Jordan with a population of approximately 4 million people."
+        ]
+      ],
+      "sent_new": "Amman is the most populated city in Jordan with a population of approximately 4 million people."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwest region of the country. It has a population of approximately 4 million people, making it the most populated city in Jordan.",
+      "prefix_new": "Amman is the capital city of Jordan, located in the northwest region of the country. Amman is the most populated city in Jordan with a population of approximately 4 million people.",
+      "sent_orig": "The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwest region of the country. It has a population of approximately 4 million people, making it the most populated city in Jordan. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas.",
+      "prefix_new": "Amman is the capital city of Jordan, located in the northwest region of the country. Amman is the most populated city in Jordan with a population of approximately 4 million people. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas.",
+      "sent_orig": "Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwest region of the country. It has a population of approximately 4 million people, making it the most populated city in Jordan. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas. Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city.",
+      "prefix_new": "Amman is the capital city of Jordan, located in the northwest region of the country. Amman is the most populated city in Jordan with a population of approximately 4 million people. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas. Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city.",
+      "sent_orig": "The Roman Amphitheater is also a popular attraction, with a capacity of 6,000 people and used for various performances such as concerts and plays.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Roman Amphitheater is also a popular attraction, with a capacity of 6,000 people and used for various performances such as concerts and plays."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwest region of the country. It has a population of approximately 4 million people, making it the most populated city in Jordan. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas. Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city. The Roman Amphitheater is also a popular attraction, with a capacity of 6,000 people and used for various performances such as concerts and plays.",
+      "prefix_new": "Amman is the capital city of Jordan, located in the northwest region of the country. Amman is the most populated city in Jordan with a population of approximately 4 million people. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas. Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city. The Roman Amphitheater is also a popular attraction, with a capacity of 6,000 people and used for various performances such as concerts and plays.",
+      "sent_orig": "In addition to its rich history, Amman is a bustling metropolis with modern amenities such as shopping centers, hotels, and restaurants.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to its rich history, Amman is a bustling metropolis with modern amenities such as shopping centers, hotels, and restaurants."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwest region of the country. It has a population of approximately 4 million people, making it the most populated city in Jordan. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas. Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city. The Roman Amphitheater is also a popular attraction, with a capacity of 6,000 people and used for various performances such as concerts and plays. In addition to its rich history, Amman is a bustling metropolis with modern amenities such as shopping centers, hotels, and restaurants.",
+      "prefix_new": "Amman is the capital city of Jordan, located in the northwest region of the country. Amman is the most populated city in Jordan with a population of approximately 4 million people. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas. Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city. The Roman Amphitheater is also a popular attraction, with a capacity of 6,000 people and used for various performances such as concerts and plays. In addition to its rich history, Amman is a bustling metropolis with modern amenities such as shopping centers, hotels, and restaurants.",
+      "sent_orig": "The city is known for its local cuisine, with traditional dishes such as Mansaf (a lamb dish), Falafel, and Hummus being popular among tourists and locals alike.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The city is known for its local cuisine, with traditional dishes such as Mansaf (a lamb dish), Falafel, and Hummus being popular among tourists and locals alike."
+    },
+    {
+      "prefix_original": "Amman is the capital city of Jordan, located in the northwest region of the country. It has a population of approximately 4 million people, making it the most populated city in Jordan. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas. Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city. The Roman Amphitheater is also a popular attraction, with a capacity of 6,000 people and used for various performances such as concerts and plays. In addition to its rich history, Amman is a bustling metropolis with modern amenities such as shopping centers, hotels, and restaurants. The city is known for its local cuisine, with traditional dishes such as Mansaf (a lamb dish), Falafel, and Hummus being popular among tourists and locals alike.",
+      "prefix_new": "Amman is the capital city of Jordan, located in the northwest region of the country. Amman is the most populated city in Jordan with a population of approximately 4 million people. The city is located in a hilly and rocky area, which gives it a unique charm and beautiful vistas. Amman is home to historical sites such as the Citadel, which dates back to Roman times and sits atop a hill with stunning views of the city. The Roman Amphitheater is also a popular attraction, with a capacity of 6,000 people and used for various performances such as concerts and plays. In addition to its rich history, Amman is a bustling metropolis with modern amenities such as shopping centers, hotels, and restaurants. The city is known for its local cuisine, with traditional dishes such as Mansaf (a lamb dish), Falafel, and Hummus being popular among tourists and locals alike.",
+      "sent_orig": "Overall, Amman is a vibrant city with a mixture of modern and ancient culture, making it an ideal destination for travelers who want to experience the best of both worlds.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Amman is a vibrant city with a mixture of modern and ancient culture, making it an ideal destination for travelers who want to experience the best of both worlds."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "prompt": "Please tell me about Chris Paul",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Chris Paul played as a point guard in the NBA.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chris Paul played as a point guard in the NBA."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA.",
+      "sent_orig": "Chris Paul was born in Winston-Salem, North Carolina.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Chris Paul was born in Winston-Salem, North Carolina."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina.",
+      "sent_orig": "Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005.",
+      "sent_orig": "During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder.",
+      "sent_orig": "He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates.",
+      "sent_orig": "Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times.",
+      "sent_orig": "He has also won two Olympic gold medals as a member of the United States men's basketball team.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also won two Olympic gold medals as a member of the United States men's basketball team."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times. He has also won two Olympic gold medals as a member of the United States men's basketball team.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times. He has also won two Olympic gold medals as a member of the United States men's basketball team.",
+      "sent_orig": "Off the court, Paul is known for his philanthropic work, particularly in his hometown of Winston-Salem.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Off the court, Paul is known for his philanthropic work, particularly in his hometown of Winston-Salem."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times. He has also won two Olympic gold medals as a member of the United States men's basketball team. Off the court, Paul is known for his philanthropic work, particularly in his hometown of Winston-Salem.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times. He has also won two Olympic gold medals as a member of the United States men's basketball team. Off the court, Paul is known for his philanthropic work, particularly in his hometown of Winston-Salem.",
+      "sent_orig": "He has worked to provide scholarships, improve education, and support community initiatives for young people in need.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has worked to provide scholarships, improve education, and support community initiatives for young people in need."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times. He has also won two Olympic gold medals as a member of the United States men's basketball team. Off the court, Paul is known for his philanthropic work, particularly in his hometown of Winston-Salem. He has worked to provide scholarships, improve education, and support community initiatives for young people in need.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times. He has also won two Olympic gold medals as a member of the United States men's basketball team. Off the court, Paul is known for his philanthropic work, particularly in his hometown of Winston-Salem. He has worked to provide scholarships, improve education, and support community initiatives for young people in need.",
+      "sent_orig": "Paul retired from the NBA in 2021 after a 16-year career in the league.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Paul retired from the NBA in 2021 after a 16-year career in the league."
+    },
+    {
+      "prefix_original": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times. He has also won two Olympic gold medals as a member of the United States men's basketball team. Off the court, Paul is known for his philanthropic work, particularly in his hometown of Winston-Salem. He has worked to provide scholarships, improve education, and support community initiatives for young people in need. Paul retired from the NBA in 2021 after a 16-year career in the league.",
+      "prefix_new": "Chris Paul played as a point guard in the NBA. Chris Paul was born in Winston-Salem, North Carolina. Paul played college basketball at Wake Forest University and was drafted fourth overall by the New Orleans Hornets in 2005. During his career, Paul has played for several teams including the New Orleans Hornets, Los Angeles Clippers, Houston Rockets, and Oklahoma City Thunder. He was known for his exceptional ball-handling skills, court vision, and ability to create scoring opportunities for himself and his teammates. Paul is a ten-time NBA All-Star and has been named to the All-NBA First Team four times. He has also won two Olympic gold medals as a member of the United States men's basketball team. Off the court, Paul is known for his philanthropic work, particularly in his hometown of Winston-Salem. He has worked to provide scholarships, improve education, and support community initiatives for young people in need. Paul retired from the NBA in 2021 after a 16-year career in the league.",
+      "sent_orig": "He is considered one of the greatest point guards of all time and will likely be remembered as a legend of the sport.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is considered one of the greatest point guards of all time and will likely be remembered as a legend of the sport."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Hellwegb\u00f6rden",
+  "orig": "It is a dense, dark bread made from rye flour, water, and salt, traditionally baked in a flat, round shape.",
+  "alt": " It is located in the eastern part of the state.",
+  "prefix": " Hellwegb\u00f6rden is a region in North Rhine-Westphalia, Germany.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a dense, dark bread"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory because the first statement describes a type of bread, while the prompt is asking about a region in Germany. The second statement provides some information about the location of the region, but it does not relate to the first statement about the bread. Therefore, the statements do not provide consistent information about Hellwegb\u00f6rden."
+}

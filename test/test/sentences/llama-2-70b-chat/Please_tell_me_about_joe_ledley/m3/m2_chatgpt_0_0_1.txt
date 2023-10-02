@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about joe ledley",
+  "orig": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Derby County and the Wales national team.",
+  "alt": " Joe Ledley plays for Derby County.",
+  "prefix": "",
+  "triple": [
+    [
+      "a Welsh professional footballer",
+      "plays",
+      "as a central midfielder for Derby County and the Wales national team."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Joe Ledley are not contradictory. Statement 1 provides general information about Joe Ledley, including his profession and national team, while Statement 2 specifically mentions the club he currently plays for. Both statements are true and do not conflict with each other."
+}

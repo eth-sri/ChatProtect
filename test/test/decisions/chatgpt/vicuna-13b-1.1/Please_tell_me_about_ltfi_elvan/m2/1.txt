@@ -1,0 +1,55 @@
+{
+  "prompt": "Please tell me about l\u00fctfi elvan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "L\u00fctfi Elvan is a Turkish actor, best known for his roles in various Turkish dramas and films.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a Turkish actor,",
+            "best known",
+            "for his roles in various Turkish dramas and films."
+          ],
+          "L\u00fctfi Elvan is a Turkish actor best known for his role in the TV series \"Kaan\u0131n \u015eirkes\", where he played the character \"Hayri\".",
+          "L\u00fctfi Elvan is a Turkish actor, known for his roles in various Turkish dramas and films."
+        ]
+      ],
+      "sent_new": "L\u00fctfi Elvan is a Turkish actor, known for his roles in various Turkish dramas and films."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish actor, best known for his roles in various Turkish dramas and films.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish actor, known for his roles in various Turkish dramas and films.",
+      "sent_orig": "He was born on March 2, 1976, in Istanbul, Turkey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born on March 2, 1976, in Istanbul, Turkey."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish actor, best known for his roles in various Turkish dramas and films. He was born on March 2, 1976, in Istanbul, Turkey.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish actor, known for his roles in various Turkish dramas and films. He was born on March 2, 1976, in Istanbul, Turkey.",
+      "sent_orig": "He is known for his roles in \"Asi\", \"Ezel\", \"Fatmag\u00fcl'\u00fcn Su\u00e7u Ne?",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is known for his roles in \"Asi\", \"Ezel\", \"Fatmag\u00fcl'\u00fcn Su\u00e7u Ne?"
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish actor, best known for his roles in various Turkish dramas and films. He was born on March 2, 1976, in Istanbul, Turkey. He is known for his roles in \"Asi\", \"Ezel\", \"Fatmag\u00fcl'\u00fcn Su\u00e7u Ne?",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish actor, known for his roles in various Turkish dramas and films. He was born on March 2, 1976, in Istanbul, Turkey. He is known for his roles in \"Asi\", \"Ezel\", \"Fatmag\u00fcl'\u00fcn Su\u00e7u Ne?",
+      "sent_orig": "\", \"Kuzey G\u00fcney\", and \"Seninki Ge\u00e7mi\u015f Gelen\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "\", \"Kuzey G\u00fcney\", and \"Seninki Ge\u00e7mi\u015f Gelen\"."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish actor, best known for his roles in various Turkish dramas and films. He was born on March 2, 1976, in Istanbul, Turkey. He is known for his roles in \"Asi\", \"Ezel\", \"Fatmag\u00fcl'\u00fcn Su\u00e7u Ne? \", \"Kuzey G\u00fcney\", and \"Seninki Ge\u00e7mi\u015f Gelen\".",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish actor, known for his roles in various Turkish dramas and films. He was born on March 2, 1976, in Istanbul, Turkey. He is known for his roles in \"Asi\", \"Ezel\", \"Fatmag\u00fcl'\u00fcn Su\u00e7u Ne? \", \"Kuzey G\u00fcney\", and \"Seninki Ge\u00e7mi\u015f Gelen\".",
+      "sent_orig": "Elvan has also won several awards for his acting, including the Golden Butterfly award for Best Actor at the International Bosphorus Film Festival.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Elvan has also won several awards for his acting, including the Golden Butterfly award for Best Actor at the International Bosphorus Film Festival."
+    }
+  ]
+}

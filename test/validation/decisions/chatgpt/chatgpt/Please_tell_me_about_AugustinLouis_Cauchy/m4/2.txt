@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about Augustin-Louis Cauchy",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique.",
+      "prefix_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique.",
+      "sent_orig": "Cauchy later focused on pure mathematics.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cauchy later focused on pure mathematics."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics.",
+      "prefix_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics.",
+      "sent_orig": "He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable.",
+      "prefix_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable.",
+      "sent_orig": "Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations.",
+      "prefix_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations.",
+      "sent_orig": "He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations. He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series.",
+      "prefix_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations. He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series.",
+      "sent_orig": "In addition to his work in mathematics, Cauchy was also a prolific writer and published over 800 papers and books during his lifetime.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work in mathematics, Cauchy was also a prolific writer and published over 800 papers and books during his lifetime."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations. He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series. In addition to his work in mathematics, Cauchy was also a prolific writer and published over 800 papers and books during his lifetime.",
+      "prefix_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations. He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series. In addition to his work in mathematics, Cauchy was also a prolific writer and published over 800 papers and books during his lifetime.",
+      "sent_orig": "He was a member of the French Academy of Sciences and was awarded the Copley Medal by the Royal Society of London.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a member of the French Academy of Sciences and was awarded the Copley Medal by the Royal Society of London."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations. He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series. In addition to his work in mathematics, Cauchy was also a prolific writer and published over 800 papers and books during his lifetime. He was a member of the French Academy of Sciences and was awarded the Copley Medal by the Royal Society of London.",
+      "prefix_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations. He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series. In addition to his work in mathematics, Cauchy was also a prolific writer and published over 800 papers and books during his lifetime. He was a member of the French Academy of Sciences and was awarded the Copley Medal by the Royal Society of London.",
+      "sent_orig": "Today, Cauchy's work is still studied and applied in many areas of mathematics, including analysis, topology, and algebra.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, Cauchy's work is still studied and applied in many areas of mathematics, including analysis, topology, and algebra."
+    },
+    {
+      "prefix_original": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations. He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series. In addition to his work in mathematics, Cauchy was also a prolific writer and published over 800 papers and books during his lifetime. He was a member of the French Academy of Sciences and was awarded the Copley Medal by the Royal Society of London. Today, Cauchy's work is still studied and applied in many areas of mathematics, including analysis, topology, and algebra.",
+      "prefix_new": "Cauchy was born in Paris, France, and was educated at the \u00c9cole Polytechnique. Cauchy later focused on pure mathematics. He made important contributions to the theory of functions of a complex variable, including the Cauchy-Riemann equations, which are fundamental to the modern theory of functions of a complex variable. Cauchy also made important contributions to the theory of differential equations, including the Cauchy-Lipschitz theorem, which is a fundamental result in the theory of ordinary differential equations. He also made important contributions to the theory of series, including the Cauchy convergence criterion, which is a fundamental result in the theory of infinite series. In addition to his work in mathematics, Cauchy was also a prolific writer and published over 800 papers and books during his lifetime. He was a member of the French Academy of Sciences and was awarded the Copley Medal by the Royal Society of London. Today, Cauchy's work is still studied and applied in many areas of mathematics, including analysis, topology, and algebra.",
+      "sent_orig": "His contributions to the development of modern mathematics have been recognized as some of the most important in the field.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His contributions to the development of modern mathematics have been recognized as some of the most important in the field."
+    }
+  ]
+}

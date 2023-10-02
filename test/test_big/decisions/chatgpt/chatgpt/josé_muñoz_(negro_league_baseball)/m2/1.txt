@@ -1,0 +1,157 @@
+[
+  {
+    "prefix_original": "",
+    "prefix_new": "",
+    "sent_orig": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century.",
+    "sent_orig": "He was born in 1920 in Havana, Cuba.",
+    "decision": "redact",
+    "changes": [
+      [
+        [
+          "He",
+          "was born",
+          ""
+        ],
+        "He was born on January 28, 1920, in Monterrey, Mexico.",
+        "Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba."
+      ]
+    ],
+    "sent_new": "Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba.",
+    "sent_orig": "Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League.",
+    "decision": "redact",
+    "changes": [
+      [
+        [
+          "Mu\u00f1oz",
+          "began",
+          "his"
+        ],
+        "Mu\u00f1oz began his professional baseball career in 1945 with the New York Cubans.",
+        "Mu\u00f1oz played for the New York Cubans of the Negro National League."
+      ]
+    ],
+    "sent_new": "Mu\u00f1oz played for the New York Cubans of the Negro National League."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League.",
+    "sent_orig": "He played outfield and first base for the team, and quickly became known as a skilled hitter.",
+    "decision": "redact",
+    "changes": [
+      [
+        [
+          "He",
+          "became",
+          "known as a skilled hitter."
+        ],
+        "He became known for his speed and defensive skills in the outfield.",
+        "He quickly became known as a skilled hitter."
+      ]
+    ],
+    "sent_new": "He quickly became known as a skilled hitter."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League. He played outfield and first base for the team, and quickly became known as a skilled hitter.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League. He quickly became known as a skilled hitter.",
+    "sent_orig": "In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League. He played outfield and first base for the team, and quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League. He quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues.",
+    "sent_orig": "He played with the Grays until the team disbanded in 1951, appearing in three Negro League World Series.",
+    "decision": "drop",
+    "sent_new": ""
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League. He played outfield and first base for the team, and quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. He played with the Grays until the team disbanded in 1951, appearing in three Negro League World Series.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League. He quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues.",
+    "sent_orig": "Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League. He played outfield and first base for the team, and quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. He played with the Grays until the team disbanded in 1951, appearing in three Negro League World Series. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League. He quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield.",
+    "sent_orig": "He was also a skilled hitter, with a career batting average of .294.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "He was also a skilled hitter, with a career batting average of .294."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League. He played outfield and first base for the team, and quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. He played with the Grays until the team disbanded in 1951, appearing in three Negro League World Series. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield. He was also a skilled hitter, with a career batting average of .294.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League. He quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield. He was also a skilled hitter, with a career batting average of .294.",
+    "sent_orig": "After the Negro Leagues disbanded, Mu\u00f1oz continued to play baseball in the minor leagues, mostly in the Pacific Coast League.",
+    "decision": "keep",
+    "changes": [],
+    "sent_new": "After the Negro Leagues disbanded, Mu\u00f1oz continued to play baseball in the minor leagues, mostly in the Pacific Coast League."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League. He played outfield and first base for the team, and quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. He played with the Grays until the team disbanded in 1951, appearing in three Negro League World Series. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield. He was also a skilled hitter, with a career batting average of .294. After the Negro Leagues disbanded, Mu\u00f1oz continued to play baseball in the minor leagues, mostly in the Pacific Coast League.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League. He quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield. He was also a skilled hitter, with a career batting average of .294. After the Negro Leagues disbanded, Mu\u00f1oz continued to play baseball in the minor leagues, mostly in the Pacific Coast League.",
+    "sent_orig": "He retired from professional baseball in 1958.",
+    "decision": "redact",
+    "changes": [
+      [
+        [
+          "He",
+          "retired",
+          "from professional baseball in 1958."
+        ],
+        "He retired from professional baseball in 1957.",
+        "He retired from professional baseball."
+      ]
+    ],
+    "sent_new": "He retired from professional baseball."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League. He played outfield and first base for the team, and quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. He played with the Grays until the team disbanded in 1951, appearing in three Negro League World Series. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield. He was also a skilled hitter, with a career batting average of .294. After the Negro Leagues disbanded, Mu\u00f1oz continued to play baseball in the minor leagues, mostly in the Pacific Coast League. He retired from professional baseball in 1958.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League. He quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield. He was also a skilled hitter, with a career batting average of .294. After the Negro Leagues disbanded, Mu\u00f1oz continued to play baseball in the minor leagues, mostly in the Pacific Coast League. He retired from professional baseball.",
+    "sent_orig": "Jos\u00e9 Mu\u00f1oz was inducted into the Cuban Baseball Hall of Fame in 1987, and the Latino Baseball Hall of Fame in 1993.",
+    "decision": "redact",
+    "changes": [
+      [
+        [
+          "Jos\u00e9 Mu\u00f1oz",
+          "was inducted",
+          "into the Cuban Baseball Hall of Fame in 1987, and the Latino Baseball Hall of Fame in 1993."
+        ],
+        "Jos\u00e9 Mu\u00f1oz was inducted into the Cuban Baseball Hall of Fame in 1969.",
+        "Jos\u00e9 Mu\u00f1oz was inducted into the Latino Baseball Hall of Fame in 1993."
+      ]
+    ],
+    "sent_new": "Jos\u00e9 Mu\u00f1oz was inducted into the Latino Baseball Hall of Fame in 1993."
+  },
+  {
+    "prefix_original": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. He was born in 1920 in Havana, Cuba. Mu\u00f1oz began his professional baseball career in 1946, playing for the New York Cubans of the Negro National League. He played outfield and first base for the team, and quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. He played with the Grays until the team disbanded in 1951, appearing in three Negro League World Series. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield. He was also a skilled hitter, with a career batting average of .294. After the Negro Leagues disbanded, Mu\u00f1oz continued to play baseball in the minor leagues, mostly in the Pacific Coast League. He retired from professional baseball in 1958. Jos\u00e9 Mu\u00f1oz was inducted into the Cuban Baseball Hall of Fame in 1987, and the Latino Baseball Hall of Fame in 1993.",
+    "prefix_new": "Jos\u00e9 Mu\u00f1oz was a baseball player who played in the Negro Leagues during the mid-20th century. Jos\u00e9 Mu\u00f1oz was born in Havana, Cuba. Mu\u00f1oz played for the New York Cubans of the Negro National League. He quickly became known as a skilled hitter. In 1948, Mu\u00f1oz moved to the Homestead Grays, one of the most successful teams in the Negro Leagues. Mu\u00f1oz was known for his speed and agility on the basepaths, as well as his strong arm in the outfield. He was also a skilled hitter, with a career batting average of .294. After the Negro Leagues disbanded, Mu\u00f1oz continued to play baseball in the minor leagues, mostly in the Pacific Coast League. He retired from professional baseball. Jos\u00e9 Mu\u00f1oz was inducted into the Latino Baseball Hall of Fame in 1993.",
+    "sent_orig": "He passed away in 1986 at the age of 65.",
+    "decision": "redact",
+    "changes": [
+      [
+        [
+          "He",
+          "passed away",
+          "in 1986 at the age of 65."
+        ],
+        "He passed away on December 17, 1989, in Havana, Cuba.",
+        "He passed away in 1986."
+      ]
+    ],
+    "sent_new": "He passed away in 1986."
+  }
+]

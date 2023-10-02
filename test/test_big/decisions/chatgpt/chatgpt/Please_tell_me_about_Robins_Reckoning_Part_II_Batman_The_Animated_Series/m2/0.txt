@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about Robin's Reckoning: Part II (Batman: The Animated Series)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "\"Robin's Reckoning: Part II\"",
+            "is",
+            "the 18th episode of the first season of the popular animated television series, \"Batman:"
+          ],
+          "\"Robin's Reckoning: Part II\" is the 32nd and 33rd episodes of the second season of Batman: The Animated Series.",
+          "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\""
+        ]
+      ],
+      "sent_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\""
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\"",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\"",
+      "sent_orig": "It originally aired on February 14, 1993.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It originally aired on February 14, 1993."
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\" It originally aired on February 14, 1993.",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\" It originally aired on February 14, 1993.",
+      "sent_orig": "The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss."
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss.",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss.",
+      "sent_orig": "In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means."
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means.",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means.",
+      "sent_orig": "As they track down Zucco, Batman and Robin have several confrontations and disagreements.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As they track down Zucco, Batman and Robin have several confrontations and disagreements."
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements.",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements.",
+      "sent_orig": "However, they eventually reconcile and successfully capture Zucco.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, they eventually reconcile and successfully capture Zucco."
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements. However, they eventually reconcile and successfully capture Zucco.",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements. However, they eventually reconcile and successfully capture Zucco.",
+      "sent_orig": "Along the way, we get several flashbacks to Robin's origin story and his initial meeting with Batman.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Along the way, we get several flashbacks to Robin's origin story and his initial meeting with Batman."
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements. However, they eventually reconcile and successfully capture Zucco. Along the way, we get several flashbacks to Robin's origin story and his initial meeting with Batman.",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements. However, they eventually reconcile and successfully capture Zucco. Along the way, we get several flashbacks to Robin's origin story and his initial meeting with Batman.",
+      "sent_orig": "The episode is notable for its strong characterization of both Batman and Robin, with their differing ideologies and interpersonal conflicts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The episode is notable for its strong characterization of both Batman and Robin, with their differing ideologies and interpersonal conflicts."
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements. However, they eventually reconcile and successfully capture Zucco. Along the way, we get several flashbacks to Robin's origin story and his initial meeting with Batman. The episode is notable for its strong characterization of both Batman and Robin, with their differing ideologies and interpersonal conflicts.",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements. However, they eventually reconcile and successfully capture Zucco. Along the way, we get several flashbacks to Robin's origin story and his initial meeting with Batman. The episode is notable for its strong characterization of both Batman and Robin, with their differing ideologies and interpersonal conflicts.",
+      "sent_orig": "It's also widely regarded as one of the best episodes of the series, due to its emotional depth and tight storytelling.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It's also widely regarded as one of the best episodes of the series, due to its emotional depth and tight storytelling."
+    },
+    {
+      "prefix_original": "\"Robin's Reckoning: Part II\" is the 18th episode of the first season of the popular animated television series, \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements. However, they eventually reconcile and successfully capture Zucco. Along the way, we get several flashbacks to Robin's origin story and his initial meeting with Batman. The episode is notable for its strong characterization of both Batman and Robin, with their differing ideologies and interpersonal conflicts. It's also widely regarded as one of the best episodes of the series, due to its emotional depth and tight storytelling.",
+      "prefix_new": "\"Robin's Reckoning: Part II\" is an episode of \"Batman: The Animated Series.\" It originally aired on February 14, 1993. The episode continues the story arc that began in \"Robin's Reckoning: Part I,\" where Batman's sidekick, Robin, discovers that the man who killed his parents was actually Tony Zucco, a mob boss. In this episode, Robin seeks revenge on Zucco and clashes with Batman, who wants to bring him to justice through legal means. As they track down Zucco, Batman and Robin have several confrontations and disagreements. However, they eventually reconcile and successfully capture Zucco. Along the way, we get several flashbacks to Robin's origin story and his initial meeting with Batman. The episode is notable for its strong characterization of both Batman and Robin, with their differing ideologies and interpersonal conflicts. It's also widely regarded as one of the best episodes of the series, due to its emotional depth and tight storytelling.",
+      "sent_orig": "Overall, \"Robin's Reckoning: Part II\" is a standout example of the high-quality writing and animation that made \"Batman: The Animated Series\" such a beloved and influential show.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, \"Robin's Reckoning: Part II\" is a standout example of the high-quality writing and animation that made \"Batman: The Animated Series\" such a beloved and influential show."
+    }
+  ]
+}

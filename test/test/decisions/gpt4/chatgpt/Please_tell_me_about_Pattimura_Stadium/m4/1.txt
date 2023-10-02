@@ -1,0 +1,71 @@
+{
+  "prompt": "Please tell me about Pattimura Stadium",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia.",
+      "sent_orig": "It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century.",
+      "sent_orig": "The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities.",
+      "sent_orig": "Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Pattimura Stadium",
+            "is",
+            "the home ground of a professional Indonesian football club."
+          ],
+          "Pattimura Stadium is the home stadium of Persiram Raja Ampat, a football club that plays in the Liga 3, the fourth tier of the Indonesian football league system.",
+          "Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club."
+        ]
+      ],
+      "sent_new": "Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities. Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities. Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club.",
+      "sent_orig": "It has also hosted several international matches, including the 2010 AFF Suzuki Cup qualifying round and the 2013 Indonesia Super League final.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It has also hosted several international matches, including the 2010 AFF Suzuki Cup qualifying round and the 2013 Indonesia Super League final."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities. Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club. It has also hosted several international matches, including the 2010 AFF Suzuki Cup qualifying round and the 2013 Indonesia Super League final.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities. Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club. It has also hosted several international matches, including the 2010 AFF Suzuki Cup qualifying round and the 2013 Indonesia Super League final.",
+      "sent_orig": "Apart from football matches, the stadium has also hosted major events such as music concerts, exhibitions, and cultural festivals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Apart from football matches, the stadium has also hosted major events such as music concerts, exhibitions, and cultural festivals."
+    },
+    {
+      "prefix_original": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities. Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club. It has also hosted several international matches, including the 2010 AFF Suzuki Cup qualifying round and the 2013 Indonesia Super League final. Apart from football matches, the stadium has also hosted major events such as music concerts, exhibitions, and cultural festivals.",
+      "prefix_new": "Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku province in Indonesia. It is named after Thomas Matulessy, also known as Captain Pattimura, a national hero from the Moluccas who fought against the Dutch colonial rule in the 19th century. The stadium underwent major renovations in 1997 and 2014 to increase its seating capacity and upgrade its facilities. Pattimura Stadium is primarily used for football matches and is the home ground of a professional Indonesian football club. It has also hosted several international matches, including the 2010 AFF Suzuki Cup qualifying round and the 2013 Indonesia Super League final. Apart from football matches, the stadium has also hosted major events such as music concerts, exhibitions, and cultural festivals.",
+      "sent_orig": "It is one of the biggest and most popular stadiums in the Maluku region and plays a significant role in promoting sports and culture in the area.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is one of the biggest and most popular stadiums in the Maluku region and plays a significant role in promoting sports and culture in the area."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The Bailey-Thompson house",
+            "was built",
+            "in 1922 in the Colonial Revival style."
+          ],
+          "The Bailey-Thompson House was built in 1887.",
+          "The Bailey-Thompson house was built in the Colonial Revival style."
+        ]
+      ],
+      "sent_new": "The Bailey-Thompson house was built in the Colonial Revival style."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style.",
+      "sent_orig": "The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons.",
+      "sent_orig": "The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company.",
+      "sent_orig": "J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board.",
+      "sent_orig": "The house was sold to the Memphis College of Art in 1959.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The house",
+            "was sold",
+            "to the Memphis College of Art in 1959."
+          ],
+          "The house was sold to the Thompson family in 1942.",
+          "The house was sold to the Memphis College of Art."
+        ]
+      ],
+      "sent_new": "The house was sold to the Memphis College of Art."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art in 1959.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art.",
+      "sent_orig": "The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art in 1959. The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art. The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights.",
+      "sent_orig": "The structure is a fine example of the Colonial Revival style, which was popular in the United States in the first half of the 20th century.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The structure is a fine example of the Colonial Revival style, which was popular in the United States in the first half of the 20th century."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art in 1959. The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights. The structure is a fine example of the Colonial Revival style, which was popular in the United States in the first half of the 20th century.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art. The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights. The structure is a fine example of the Colonial Revival style, which was popular in the United States in the first half of the 20th century.",
+      "sent_orig": "This architectural style drew inspiration from earlier colonial-era buildings, reflecting a newfound appreciation for America's architectural heritage.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This architectural style drew inspiration from earlier colonial-era buildings, reflecting a newfound appreciation for America's architectural heritage."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art in 1959. The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights. The structure is a fine example of the Colonial Revival style, which was popular in the United States in the first half of the 20th century. This architectural style drew inspiration from earlier colonial-era buildings, reflecting a newfound appreciation for America's architectural heritage.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art. The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights. The structure is a fine example of the Colonial Revival style, which was popular in the United States in the first half of the 20th century. This architectural style drew inspiration from earlier colonial-era buildings, reflecting a newfound appreciation for America's architectural heritage.",
+      "sent_orig": "The Bailey-Thompson house was added to the National Register of Historic Places.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson house was added to the National Register of Historic Places."
+    },
+    {
+      "prefix_original": "The Bailey-Thompson house was built in 1922 in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art in 1959. The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights. The structure is a fine example of the Colonial Revival style, which was popular in the United States in the first half of the 20th century. This architectural style drew inspiration from earlier colonial-era buildings, reflecting a newfound appreciation for America's architectural heritage. The Bailey-Thompson house was added to the National Register of Historic Places.",
+      "prefix_new": "The Bailey-Thompson house was built in the Colonial Revival style. The house is significant for its architectural design and for its association with two prominent Memphis families, the Baileys and the Thompsons. The Bailey family, led by Napoleon Hill Bailey, was a prominent banking family in Memphis, who was involved in several successful businesses such as Bailey, Inc. (a retail business), Tri-State Motors, Inc., and the Tennessee-Pueblo Development Company. J. C. Thompson, the patriarch of the Thompson family, was the founder of the Thompson Realty Company and later served as president of the Memphis Real Estate Board. The house was sold to the Memphis College of Art. The Bailey-Thompson house is a two-story red brick building, featuring various decorative elements such as dentil moldings, cornices, and an elaborate entrance with a fanlight and sidelights. The structure is a fine example of the Colonial Revival style, which was popular in the United States in the first half of the 20th century. This architectural style drew inspiration from earlier colonial-era buildings, reflecting a newfound appreciation for America's architectural heritage. The Bailey-Thompson house was added to the National Register of Historic Places.",
+      "sent_orig": "Today, the house stands as a reminder of the city's rich history and architectural legacy, preserving the stories of the prominent families who once lived there.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, the house stands as a reminder of the city's rich history and architectural legacy, preserving the stories of the prominent families who once lived there."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The house was donated.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house was donated."
+    },
+    {
+      "prefix_original": "The house was donated.",
+      "prefix_new": "The house was donated.",
+      "sent_orig": "The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof."
+    },
+    {
+      "prefix_original": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof.",
+      "prefix_new": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof.",
+      "sent_orig": "It features a wraparound porch, bay windows, and a projecting front gable.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It features a wraparound porch, bay windows, and a projecting front gable."
+    },
+    {
+      "prefix_original": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable.",
+      "prefix_new": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable.",
+      "sent_orig": "The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings."
+    },
+    {
+      "prefix_original": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings.",
+      "prefix_new": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings.",
+      "sent_orig": "The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there."
+    },
+    {
+      "prefix_original": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings. The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there.",
+      "prefix_new": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings. The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there.",
+      "sent_orig": "John G. Bailey was a pioneer settler of Kerr County and played a significant role in its development, while William H. Thompson was a prominent figure in Texas politics, serving as a state representative and senator.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "John G. Bailey was a pioneer settler of Kerr County and played a significant role in its development, while William H. Thompson was a prominent figure in Texas politics, serving as a state representative and senator."
+    },
+    {
+      "prefix_original": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings. The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there. John G. Bailey was a pioneer settler of Kerr County and played a significant role in its development, while William H. Thompson was a prominent figure in Texas politics, serving as a state representative and senator.",
+      "prefix_new": "The house was donated. The house is a two-story, Queen Anne-style Victorian mansion with a Torreyson stone exterior and a slate roof. It features a wraparound porch, bay windows, and a projecting front gable. The interior includes a grand central staircase, ornate fireplaces, and original woodwork and moldings. The Bailey-Thompson House is significant not only for its architectural style but also for its historical association with the families who lived there. John G. Bailey was a pioneer settler of Kerr County and played a significant role in its development, while William H. Thompson was a prominent figure in Texas politics, serving as a state representative and senator.",
+      "sent_orig": "The house remains a well-preserved example of late 19th-century architecture and is a popular tourist attraction in Kerrville.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house remains a well-preserved example of late 19th-century architecture and is a popular tourist attraction in Kerrville."
+    }
+  ]
+}

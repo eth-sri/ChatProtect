@@ -1,0 +1,78 @@
+{
+  "prompt": "Please tell me about On the Side of the Road",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky."
+    },
+    {
+      "prefix_original": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky.",
+      "prefix_new": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky.",
+      "sent_orig": "The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse."
+    },
+    {
+      "prefix_original": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse.",
+      "prefix_new": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse.",
+      "sent_orig": "The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The film",
+            "follows travels",
+            "across Israel"
+          ],
+          "The film follows Tarachansky's travels across Israel as she interviews Palestinians who were expelled from their homes during the 1948 Arab-Israeli War.",
+          "The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history."
+        ]
+      ],
+      "sent_new": "The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history."
+    },
+    {
+      "prefix_original": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history.",
+      "prefix_new": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history.",
+      "sent_orig": "She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins."
+    },
+    {
+      "prefix_original": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history. She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins.",
+      "prefix_new": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history. She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins.",
+      "sent_orig": "One of the key themes of the film is the way that this narrative has erased the experiences of other groups, particularly Palestinians.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "One of the key themes of the film is the way that this narrative has erased the experiences of other groups, particularly Palestinians."
+    },
+    {
+      "prefix_original": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history. She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins. One of the key themes of the film is the way that this narrative has erased the experiences of other groups, particularly Palestinians.",
+      "prefix_new": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history. She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins. One of the key themes of the film is the way that this narrative has erased the experiences of other groups, particularly Palestinians.",
+      "sent_orig": "Tarachansky argues that this erasure has made it difficult for Israelis to understand the complex reality of the conflict in the region, and has hindered efforts to find a peaceful solution.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Tarachansky argues that this erasure has made it difficult for Israelis to understand the complex reality of the conflict in the region, and has hindered efforts to find a peaceful solution."
+    },
+    {
+      "prefix_original": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history. She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins. One of the key themes of the film is the way that this narrative has erased the experiences of other groups, particularly Palestinians. Tarachansky argues that this erasure has made it difficult for Israelis to understand the complex reality of the conflict in the region, and has hindered efforts to find a peaceful solution.",
+      "prefix_new": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history. She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins. One of the key themes of the film is the way that this narrative has erased the experiences of other groups, particularly Palestinians. Tarachansky argues that this erasure has made it difficult for Israelis to understand the complex reality of the conflict in the region, and has hindered efforts to find a peaceful solution.",
+      "sent_orig": "The film has been praised for its thoughtful exploration of a complex topic, and for its willingness to confront difficult truths.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The film has been praised for its thoughtful exploration of a complex topic, and for its willingness to confront difficult truths."
+    },
+    {
+      "prefix_original": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history. She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins. One of the key themes of the film is the way that this narrative has erased the experiences of other groups, particularly Palestinians. Tarachansky argues that this erasure has made it difficult for Israelis to understand the complex reality of the conflict in the region, and has hindered efforts to find a peaceful solution. The film has been praised for its thoughtful exploration of a complex topic, and for its willingness to confront difficult truths.",
+      "prefix_new": "On the Side of the Road is a 2013 documentary film directed by Lia Tarachansky. The film deals with the complicated history of Israel and how it has been portrayed in Israeli public discourse. The film follows Tarachansky as she travels across Israel and interviews Israelis about their thoughts on the country's history. She talks to people from a variety of backgrounds, including soldiers, settlers, and refugees, and explores the way that Israeli society has constructed its own narrative about the state's origins. One of the key themes of the film is the way that this narrative has erased the experiences of other groups, particularly Palestinians. Tarachansky argues that this erasure has made it difficult for Israelis to understand the complex reality of the conflict in the region, and has hindered efforts to find a peaceful solution. The film has been praised for its thoughtful exploration of a complex topic, and for its willingness to confront difficult truths.",
+      "sent_orig": "It has also been criticized by some who feel that it is overly critical of Israel, and that it does not give enough credit to Israeli efforts to promote peace and understanding.",
+      "decision": "drop",
+      "sent_new": ""
+    }
+  ]
+}

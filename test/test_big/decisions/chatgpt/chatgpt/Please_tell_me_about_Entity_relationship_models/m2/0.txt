@@ -1,0 +1,85 @@
+{
+  "prompt": "Please tell me about Entity relationship models",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other.",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other.",
+      "sent_orig": "It is used to design and represent data in a database system.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is used to design and represent data in a database system."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system.",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system.",
+      "sent_orig": "The basic components of an ER model are entities, attributes, and relationships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The basic components of an ER model are entities, attributes, and relationships."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships.",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships.",
+      "sent_orig": "Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address)."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address).",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address).",
+      "sent_orig": "Relationships describe the connections or associations between entities (such as belonging to or being related to).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Relationships describe the connections or associations between entities (such as belonging to or being related to)."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to).",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to).",
+      "sent_orig": "ER models can be represented using various notations, such as Chen notation or Crow's foot notation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "ER models can be represented using various notations, such as Chen notation or Crow's foot notation."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to). ER models can be represented using various notations, such as Chen notation or Crow's foot notation.",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to). ER models can be represented using various notations, such as Chen notation or Crow's foot notation.",
+      "sent_orig": "They can be used for both conceptual modeling (to represent the requirements or logic of a system) and physical modeling (to design the actual database schema).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They can be used for both conceptual modeling (to represent the requirements or logic of a system) and physical modeling (to design the actual database schema)."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to). ER models can be represented using various notations, such as Chen notation or Crow's foot notation. They can be used for both conceptual modeling (to represent the requirements or logic of a system) and physical modeling (to design the actual database schema).",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to). ER models can be represented using various notations, such as Chen notation or Crow's foot notation. They can be used for both conceptual modeling (to represent the requirements or logic of a system) and physical modeling (to design the actual database schema).",
+      "sent_orig": "ER models can incorporate additional features, such as cardinality, which defines the number of occurrences of a relationship between entities (such as one-to-one or many-to-many).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "ER models can incorporate additional features, such as cardinality, which defines the number of occurrences of a relationship between entities (such as one-to-one or many-to-many)."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to). ER models can be represented using various notations, such as Chen notation or Crow's foot notation. They can be used for both conceptual modeling (to represent the requirements or logic of a system) and physical modeling (to design the actual database schema). ER models can incorporate additional features, such as cardinality, which defines the number of occurrences of a relationship between entities (such as one-to-one or many-to-many).",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to). ER models can be represented using various notations, such as Chen notation or Crow's foot notation. They can be used for both conceptual modeling (to represent the requirements or logic of a system) and physical modeling (to design the actual database schema). ER models can incorporate additional features, such as cardinality, which defines the number of occurrences of a relationship between entities (such as one-to-one or many-to-many).",
+      "sent_orig": "They can also include subtype/supertype relationships to represent inheritance and specialization in the data model.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They can also include subtype/supertype relationships to represent inheritance and specialization in the data model."
+    },
+    {
+      "prefix_original": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to). ER models can be represented using various notations, such as Chen notation or Crow's foot notation. They can be used for both conceptual modeling (to represent the requirements or logic of a system) and physical modeling (to design the actual database schema). ER models can incorporate additional features, such as cardinality, which defines the number of occurrences of a relationship between entities (such as one-to-one or many-to-many). They can also include subtype/supertype relationships to represent inheritance and specialization in the data model.",
+      "prefix_new": "An entity-relationship (ER) model is a graphical representation of entities and their relationships to each other. It is used to design and represent data in a database system. The basic components of an ER model are entities, attributes, and relationships. Entities represent objects or concepts in the real world, while attributes define the characteristics of those entities (such as name, age, or address). Relationships describe the connections or associations between entities (such as belonging to or being related to). ER models can be represented using various notations, such as Chen notation or Crow's foot notation. They can be used for both conceptual modeling (to represent the requirements or logic of a system) and physical modeling (to design the actual database schema). ER models can incorporate additional features, such as cardinality, which defines the number of occurrences of a relationship between entities (such as one-to-one or many-to-many). They can also include subtype/supertype relationships to represent inheritance and specialization in the data model.",
+      "sent_orig": "Overall, ER models are a useful tool for designing, communicating, and implementing database systems.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, ER models are a useful tool for designing, communicating, and implementing database systems."
+    }
+  ]
+}

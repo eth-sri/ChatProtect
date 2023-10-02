@@ -1,0 +1,129 @@
+{
+  "prompt": "Please tell me about l\u00fctfi elvan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government.",
+      "sent_orig": "Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "his undergraduate education at the Istanbul Technical University's Faculty of Mining,",
+            "studied",
+            "Geophysical Engineering."
+          ],
+          "During his undergraduate education at the Istanbul Technical University's Faculty of Mining, L\u00fctfi Elvan studied mining engineering.",
+          "L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering."
+        ]
+      ],
+      "sent_new": "L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering.",
+      "sent_orig": "Elvan then obtained his master's degree in Economics from the University of Delaware in the United States.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Elvan",
+            "obtained",
+            "his master's degree in Economics from the University of Delaware in the United States."
+          ],
+          "Elvan obtained his master's degree in mining geophysics from the same university.",
+          "Elvan obtained his master's degree in Economics from the University of Delaware in the United States."
+        ]
+      ],
+      "sent_new": "Elvan obtained his master's degree in Economics from the University of Delaware in the United States."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States.",
+      "sent_orig": "Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI)."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI).",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI).",
+      "sent_orig": "He later became a specialist at the State Planning Organization in 1991.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He later became a specialist at the State Planning Organization in 1991."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991.",
+      "sent_orig": "Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey.",
+      "sent_orig": "In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP)."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP).",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP).",
+      "sent_orig": "He then served as Minister of Development from 2016-2018.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He then served as Minister of Development from 2016-2018."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018.",
+      "sent_orig": "Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018. Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018. Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015.",
+      "sent_orig": "Under his tenure, Turkey embarked on significant infrastructure projects, including the Eurasia Tunnel, highways, and other transportation facilities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Under his tenure, Turkey embarked on significant infrastructure projects, including the Eurasia Tunnel, highways, and other transportation facilities."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018. Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015. Under his tenure, Turkey embarked on significant infrastructure projects, including the Eurasia Tunnel, highways, and other transportation facilities.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018. Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015. Under his tenure, Turkey embarked on significant infrastructure projects, including the Eurasia Tunnel, highways, and other transportation facilities.",
+      "sent_orig": "On November 10, 2020, L\u00fctfi Elvan was appointed as Turkey's Minister of Treasury and Finance after the resignation of Berat Albayrak.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "On November 10, 2020, L\u00fctfi Elvan was appointed as Turkey's Minister of Treasury and Finance after the resignation of Berat Albayrak."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018. Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015. Under his tenure, Turkey embarked on significant infrastructure projects, including the Eurasia Tunnel, highways, and other transportation facilities. On November 10, 2020, L\u00fctfi Elvan was appointed as Turkey's Minister of Treasury and Finance after the resignation of Berat Albayrak.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018. Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015. Under his tenure, Turkey embarked on significant infrastructure projects, including the Eurasia Tunnel, highways, and other transportation facilities. On November 10, 2020, L\u00fctfi Elvan was appointed as Turkey's Minister of Treasury and Finance after the resignation of Berat Albayrak.",
+      "sent_orig": "He now faces the critical task of managing the Turkish economy, addressing high inflation, and maintaining a volatile currency.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He now faces the critical task of managing the Turkish economy, addressing high inflation, and maintaining a volatile currency."
+    },
+    {
+      "prefix_original": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. Born on March 12, 1962, in Ermenek, Karaman, he completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan then obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018. Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015. Under his tenure, Turkey embarked on significant infrastructure projects, including the Eurasia Tunnel, highways, and other transportation facilities. On November 10, 2020, L\u00fctfi Elvan was appointed as Turkey's Minister of Treasury and Finance after the resignation of Berat Albayrak. He now faces the critical task of managing the Turkish economy, addressing high inflation, and maintaining a volatile currency.",
+      "prefix_new": "L\u00fctfi Elvan is a Turkish politician, economist, and civil servant who has held various positions in the Turkish government. L\u00fctfi Elvan completed his undergraduate education at the Istanbul Technical University's Faculty of Mining, where he studied Geophysical Engineering. Elvan obtained his master's degree in Economics from the University of Delaware in the United States. Elvan started his career as an engineer in 1985, working for the State Hydraulic Works (DSI). He later became a specialist at the State Planning Organization in 1991. Between 1996 and 2002, Elvan worked for the World Bank as a field expert and coordinator, where he managed the infrastructure and energy portfolio for Turkey. In 2007, he was elected as a Member of Parliament from the province of Karaman, representing the ruling Justice and Development Party (AKP). He then served as Minister of Development from 2016-2018. Before that, he was the Minister of Transport, Maritime Affairs and Communication, from 2013 to 2015. Under his tenure, Turkey embarked on significant infrastructure projects, including the Eurasia Tunnel, highways, and other transportation facilities. On November 10, 2020, L\u00fctfi Elvan was appointed as Turkey's Minister of Treasury and Finance after the resignation of Berat Albayrak. He now faces the critical task of managing the Turkish economy, addressing high inflation, and maintaining a volatile currency.",
+      "sent_orig": "Throughout his career, Elvan has been an influential figure in Turkish politics and has played crucial roles in shaping national economic policies and overseeing infrastructure projects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout his career, Elvan has been an influential figure in Turkish politics and has played crucial roles in shaping national economic policies and overseeing infrastructure projects."
+    }
+  ]
+}

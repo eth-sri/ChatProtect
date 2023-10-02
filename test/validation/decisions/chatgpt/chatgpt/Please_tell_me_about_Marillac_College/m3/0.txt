@@ -1,0 +1,61 @@
+{
+  "prompt": "Please tell me about Marillac College",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Marillac College was a Catholic women's college located in St. Louis, Missouri.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Marillac College was a Catholic women's college located in St. Louis, Missouri."
+    },
+    {
+      "prefix_original": "Marillac College was a Catholic women's college located in St. Louis, Missouri.",
+      "prefix_new": "Marillac College was a Catholic women's college located in St. Louis, Missouri.",
+      "sent_orig": "Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity."
+    },
+    {
+      "prefix_original": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity.",
+      "prefix_new": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity.",
+      "sent_orig": "The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business."
+    },
+    {
+      "prefix_original": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity. The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business.",
+      "prefix_new": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity. The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business.",
+      "sent_orig": "It also had a strong liberal arts program and emphasized service to others and social justice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It also had a strong liberal arts program and emphasized service to others and social justice."
+    },
+    {
+      "prefix_original": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity. The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business. It also had a strong liberal arts program and emphasized service to others and social justice.",
+      "prefix_new": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity. The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business. It also had a strong liberal arts program and emphasized service to others and social justice.",
+      "sent_orig": "Marillac College closed in 1998 due to financial difficulties and declining enrollment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Marillac College closed in 1998 due to financial difficulties and declining enrollment."
+    },
+    {
+      "prefix_original": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity. The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business. It also had a strong liberal arts program and emphasized service to others and social justice. Marillac College closed in 1998 due to financial difficulties and declining enrollment.",
+      "prefix_new": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity. The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business. It also had a strong liberal arts program and emphasized service to others and social justice. Marillac College closed in 1998 due to financial difficulties and declining enrollment.",
+      "sent_orig": "Its campus was sold to the University of Missouri-St. Louis, which now uses the space for its South Campus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Its campus was sold to the University of Missouri-St. Louis, which now uses the space for its South Campus."
+    },
+    {
+      "prefix_original": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity. The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business. It also had a strong liberal arts program and emphasized service to others and social justice. Marillac College closed in 1998 due to financial difficulties and declining enrollment. Its campus was sold to the University of Missouri-St. Louis, which now uses the space for its South Campus.",
+      "prefix_new": "Marillac College was a Catholic women's college located in St. Louis, Missouri. Marillac College was named after St. Louise de Marillac, a French nun who co-founded the Daughters of Charity. The college offered undergraduate degrees in a variety of fields, including education, nursing, social work, and business. It also had a strong liberal arts program and emphasized service to others and social justice. Marillac College closed in 1998 due to financial difficulties and declining enrollment. Its campus was sold to the University of Missouri-St. Louis, which now uses the space for its South Campus.",
+      "sent_orig": "The Daughters of Charity continue to serve in the St. Louis area through various social service organizations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Daughters of Charity continue to serve in the St. Louis area through various social service organizations."
+    }
+  ]
+}

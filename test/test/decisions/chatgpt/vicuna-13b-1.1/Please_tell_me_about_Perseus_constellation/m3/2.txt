@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Perseus (constellation)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Perseus is a constellation in the northern sky, located between Auriga and Taurus.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a constellation in the northern sky,",
+            "located",
+            "between Auriga and Taurus."
+          ],
+          "Perseus is a constellation in the northern sky, located between Coma Berenices and Hercules.",
+          "Perseus is a constellation in the northern sky."
+        ]
+      ],
+      "sent_new": "Perseus is a constellation in the northern sky."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between Auriga and Taurus.",
+      "prefix_new": "Perseus is a constellation in the northern sky.",
+      "sent_orig": "Perseus is one of the 88 modern constellations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is one of the 88 modern constellations."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between Auriga and Taurus. Perseus is one of the 88 modern constellations.",
+      "prefix_new": "Perseus is a constellation in the northern sky. Perseus is one of the 88 modern constellations.",
+      "sent_orig": "The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between Auriga and Taurus. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda.",
+      "prefix_new": "Perseus is a constellation in the northern sky. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda.",
+      "sent_orig": "Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between Auriga and Taurus. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects.",
+      "prefix_new": "Perseus is a constellation in the northern sky. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects.",
+      "sent_orig": "Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between Auriga and Taurus. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects. Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy.",
+      "prefix_new": "Perseus is a constellation in the northern sky. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects. Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy.",
+      "sent_orig": "Perseus contains several easily recognizable asterisms, such as the \"Double Perseus\" composed of two stars relatively close to each other.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus contains several easily recognizable asterisms, such as the \"Double Perseus\" composed of two stars relatively close to each other."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between Auriga and Taurus. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects. Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy. Perseus contains several easily recognizable asterisms, such as the \"Double Perseus\" composed of two stars relatively close to each other.",
+      "prefix_new": "Perseus is a constellation in the northern sky. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects. Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy. Perseus contains several easily recognizable asterisms, such as the \"Double Perseus\" composed of two stars relatively close to each other.",
+      "sent_orig": "Perseus is also home of the Perseid meteor shower which occurs every year between July 17 and August 24.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Perseus is also home of the Perseid meteor shower which occurs every year between July 17 and August 24."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between Auriga and Taurus. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects. Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy. Perseus contains several easily recognizable asterisms, such as the \"Double Perseus\" composed of two stars relatively close to each other. Perseus is also home of the Perseid meteor shower which occurs every year between July 17 and August 24.",
+      "prefix_new": "Perseus is a constellation in the northern sky. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects. Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy. Perseus contains several easily recognizable asterisms, such as the \"Double Perseus\" composed of two stars relatively close to each other. Perseus is also home of the Perseid meteor shower which occurs every year between July 17 and August 24.",
+      "sent_orig": "This meteor shower is produced by debris from the comet Swift-Tuttle and it's one of the most popular and best-known meteor showers in the world.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This meteor shower is produced by debris from the comet Swift-Tuttle and it's one of the most popular and best-known meteor showers in the world."
+    },
+    {
+      "prefix_original": "Perseus is a constellation in the northern sky, located between Auriga and Taurus. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects. Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy. Perseus contains several easily recognizable asterisms, such as the \"Double Perseus\" composed of two stars relatively close to each other. Perseus is also home of the Perseid meteor shower which occurs every year between July 17 and August 24. This meteor shower is produced by debris from the comet Swift-Tuttle and it's one of the most popular and best-known meteor showers in the world.",
+      "prefix_new": "Perseus is a constellation in the northern sky. Perseus is one of the 88 modern constellations. The constellation is named after the Greek mythological hero Perseus, who is known for killing the Medusa and rescuing Andromeda. Perseus is located within the bounds of the Milky Way, making it a great place to observe galaxies and other deep sky objects. Perseus is home to several notable astronomical objects, including the Perseus cluster, the Caldwell 65 star cluster, and the famous spiral galaxy, M31, also known as the Andromeda galaxy. Perseus contains several easily recognizable asterisms, such as the \"Double Perseus\" composed of two stars relatively close to each other. Perseus is also home of the Perseid meteor shower which occurs every year between July 17 and August 24. This meteor shower is produced by debris from the comet Swift-Tuttle and it's one of the most popular and best-known meteor showers in the world.",
+      "sent_orig": "In conclusion, Perseus is a constellation that is rich in cultural and astronomical significance, and it offers many opportunities for observation and study of celestial objects.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In conclusion, Perseus is a constellation that is rich in cultural and astronomical significance, and it offers many opportunities for observation and study of celestial objects."
+    }
+  ]
+}

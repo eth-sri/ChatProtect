@@ -1,0 +1,121 @@
+{
+  "prompt": "Please tell me about joe ledley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Joe Ledley",
+            "is",
+            "a Welsh professional footballer"
+          ],
+          "Joe Ledley is a Welsh professional footballer who currently plays as a midfielder for Newport County.",
+          "Joe Ledley is a Welsh professional footballer."
+        ]
+      ],
+      "sent_new": "Joe Ledley is a Welsh professional footballer."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer.",
+      "sent_orig": "Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back.",
+      "sent_orig": "Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball.",
+      "sent_orig": "His strong work ethic and tactical awareness make him an asset to any team.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His strong work ethic and tactical awareness make him an asset to any team."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team.",
+      "sent_orig": "In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010.",
+      "sent_orig": "During his time with Celtic, he won several domestic league titles and cup competitions in Scotland.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his time with Celtic, he won several domestic league titles and cup competitions in Scotland."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland.",
+      "sent_orig": "Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018)."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018).",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018).",
+      "sent_orig": "In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018). In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018). In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal.",
+      "sent_orig": "In international football, Ledley has represented the Welsh national team since 2005, earning over 75 caps and scoring four goals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In international football, Ledley has represented the Welsh national team since 2005, earning over 75 caps and scoring four goals."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018). In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal. In international football, Ledley has represented the Welsh national team since 2005, earning over 75 caps and scoring four goals.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018). In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal. In international football, Ledley has represented the Welsh national team since 2005, earning over 75 caps and scoring four goals.",
+      "sent_orig": "He was a crucial part of Wales' historic run to the semi-finals of the 2016 UEFA European Championships.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a crucial part of Wales' historic run to the semi-finals of the 2016 UEFA European Championships."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018). In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal. In international football, Ledley has represented the Welsh national team since 2005, earning over 75 caps and scoring four goals. He was a crucial part of Wales' historic run to the semi-finals of the 2016 UEFA European Championships.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018). In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal. In international football, Ledley has represented the Welsh national team since 2005, earning over 75 caps and scoring four goals. He was a crucial part of Wales' historic run to the semi-finals of the 2016 UEFA European Championships.",
+      "sent_orig": "Despite his successful career, Joe Ledley has struggled with injuries, which have limited his playing time in recent years.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Joe Ledley",
+            "has struggled",
+            "with injuries,"
+          ],
+          "Joe Ledley has struggled with injuries throughout his career, but has always managed to bounce back and make an impact on the pitch.",
+          "Joe Ledley has struggled with injuries, which have limited his playing time in recent years."
+        ]
+      ],
+      "sent_new": "Joe Ledley has struggled with injuries, which have limited his playing time in recent years."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh professional footballer born on January 23, 1987, in Cardiff, Wales. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018). In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal. In international football, Ledley has represented the Welsh national team since 2005, earning over 75 caps and scoring four goals. He was a crucial part of Wales' historic run to the semi-finals of the 2016 UEFA European Championships. Despite his successful career, Joe Ledley has struggled with injuries, which have limited his playing time in recent years.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer. Predominantly a central midfielder, his versatility allows him to play in various positions, including left-wing and left-back. Ledley began his football career at Cardiff City, showcasing impressive skill and technique on the ball. His strong work ethic and tactical awareness make him an asset to any team. In 2004, Ledley made his first-team debut for Cardiff City, where he played for six years before moving to Scottish side Celtic in 2010. During his time with Celtic, he won several domestic league titles and cup competitions in Scotland. Ledley also had stints with Crystal Palace in the English Premier League (2014-2017) and Derby County (2017-2018). In 2019, he joined Australian A-League side Newcastle Jets on a short-term deal. In international football, Ledley has represented the Welsh national team since 2005, earning over 75 caps and scoring four goals. He was a crucial part of Wales' historic run to the semi-finals of the 2016 UEFA European Championships. Joe Ledley has struggled with injuries, which have limited his playing time in recent years.",
+      "sent_orig": "Currently a free agent, Ledley's experience and skill set can still be valuable to teams looking for a versatile, hard-working midfielder.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Currently a free agent, Ledley's experience and skill set can still be valuable to teams looking for a versatile, hard-working midfielder."
+    }
+  ]
+}

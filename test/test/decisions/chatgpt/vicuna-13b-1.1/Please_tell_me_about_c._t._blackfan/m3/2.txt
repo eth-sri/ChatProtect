@@ -1,0 +1,131 @@
+{
+  "prompt": "Please tell me about c. t. blackfan",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "C.T."
+    },
+    {
+      "prefix_original": "C.T.",
+      "prefix_new": "C.T.",
+      "sent_orig": "C.T.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "C.T."
+    },
+    {
+      "prefix_original": "C.T. C.T.",
+      "prefix_new": "C.T. C.T.",
+      "sent_orig": "Blackfan was a scientist and engineer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan was a scientist and engineer."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer.",
+      "sent_orig": "He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was known",
+            "for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures."
+          ],
+          "He was known for his contributions to aerospace engineering, particularly in the field of aircraft design and propulsion systems.",
+          "He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures."
+        ]
+      ],
+      "sent_new": "He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures.",
+      "sent_orig": "Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924.",
+      "sent_orig": "He became a professor of metallurgical engineering at the University of Washington in Seattle.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "became",
+            "a professor of metallurgical engineering at the University of Washington in Seattle."
+          ],
+          "He became a professor at MIT.",
+          "He became a professor of metallurgical engineering."
+        ]
+      ],
+      "sent_new": "He became a professor of metallurgical engineering."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering at the University of Washington in Seattle.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering.",
+      "sent_orig": "During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering at the University of Washington in Seattle. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort.",
+      "sent_orig": "He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering at the University of Washington in Seattle. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort. He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort. He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment.",
+      "sent_orig": "Blackfan served as the head of the metallurgical engineering department at the University of California, Berkeley.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Blackfan",
+            "served",
+            "as the head of the metallurgical engineering department at the University of California, Berkeley."
+          ],
+          "Blackfan served as the chairman of the department of metallurgical engineering at the University of Washington during his tenure there.",
+          "Blackfan served as the head of the metallurgical engineering department."
+        ]
+      ],
+      "sent_new": "Blackfan served as the head of the metallurgical engineering department."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering at the University of Washington in Seattle. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort. He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment. Blackfan served as the head of the metallurgical engineering department at the University of California, Berkeley.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort. He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment. Blackfan served as the head of the metallurgical engineering department.",
+      "sent_orig": "He continued to conduct research and write papers on the properties of metals and their behavior at high temperatures until his death in 1988.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He continued to conduct research and write papers on the properties of metals and their behavior at high temperatures until his death in 1988."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering at the University of Washington in Seattle. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort. He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment. Blackfan served as the head of the metallurgical engineering department at the University of California, Berkeley. He continued to conduct research and write papers on the properties of metals and their behavior at high temperatures until his death in 1988.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort. He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment. Blackfan served as the head of the metallurgical engineering department. He continued to conduct research and write papers on the properties of metals and their behavior at high temperatures until his death in 1988.",
+      "sent_orig": "Blackfan was recognized for his contributions to the field of metallurgical engineering with numerous honors and awards, including the National Medal of Science, which he received in 1962.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Blackfan was recognized for his contributions to the field of metallurgical engineering with numerous honors and awards, including the National Medal of Science, which he received in 1962."
+    },
+    {
+      "prefix_original": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, particularly the study of the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering at the University of Washington in Seattle. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort. He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment. Blackfan served as the head of the metallurgical engineering department at the University of California, Berkeley. He continued to conduct research and write papers on the properties of metals and their behavior at high temperatures until his death in 1988. Blackfan was recognized for his contributions to the field of metallurgical engineering with numerous honors and awards, including the National Medal of Science, which he received in 1962.",
+      "prefix_new": "C.T. C.T. Blackfan was a scientist and engineer. He was known for his contributions to the field of metallurgical engineering, studying the properties and behavior of metals at high temperatures. Blackfan received his undergraduate degree from the University of Michigan in 1921, and later received a Ph.D. in metallurgical engineering from the California Institute of Technology (Caltech) in 1924. He became a professor of metallurgical engineering. During World War II, Blackfan worked as a consultant for the U.S. government, helping to develop new materials and processes for the war effort. He was particularly involved in the development of new alloys and heat-resistant materials for use in aircraft engines and other military equipment. Blackfan served as the head of the metallurgical engineering department. He continued to conduct research and write papers on the properties of metals and their behavior at high temperatures until his death in 1988. Blackfan was recognized for his contributions to the field of metallurgical engineering with numerous honors and awards, including the National Medal of Science, which he received in 1962.",
+      "sent_orig": "He was also elected to the National Academy of Sciences and the American Academy of Arts and Sciences.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also elected to the National Academy of Sciences and the American Academy of Arts and Sciences."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+test/test/sentences/chatgpt/diane_arkenstone/m3/m2_2_1_0.txt
+Q: I give you the beginning of a description about diane arkenstone.
+Then follow two statements.
+
+Description:
+Diane Arkenstone is an American singer-songwriter and composer known for her work in the New Age and world music genres.
+
+Statement 1:
+She was born on May 3, 1959, in Nebraska.
+
+Statement 2:
+She was born in California.
+
+Please explain whether the statements about diane arkenstone are contradictory.
+Provide your explanation only.
+
+A: The statements about Diane Arkenstone are contradictory as one states that she was born in Nebraska while the other states that she was born in California. Only one of these statements can be true, so they cannot both be accurate.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements about Diane Arkenstone are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements about Diane Arkenstone are contradictory.
+A: Yes, the statements are contradictory.
+A: Yes, the statements about Diane Arkenstone are contradictory.
+label: strong
+score: 1.0
+cost: 405
+test/test/sentences/chatgpt/diane_arkenstone/m3/m2_0_1_0.txt
+Q: I give you the beginning of a description about diane arkenstone.
+Then follow two statements.
+
+Description:
+Diane Arkenstone is an American musician, composer, and singer-songwriter.
+
+Statement 1:
+She was a member of the musical duo, Harpers Bizarre.
+
+Statement 2:
+She was previously married to David Arkenstone, who is also a musician and composer.
+
+Please explain whether the statements about diane arkenstone are contradictory.
+Provide your explanation only.
+
+A: The statements about Diane Arkenstone are not contradictory. While statement 1 mentions her past involvement in a musical duo, statement 2 provides information about her personal life and past marriage to another musician. These statements do not conflict with each other and can both be true.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 368
+test/test/sentences/chatgpt/diane_arkenstone/m3/m2_1_1_1.txt
+Q: I give you the beginning of a description about diane arkenstone.
+Then follow two statements.
+
+Description:
+Diane Arkenstone is an American musician, composer, and singer-songwriter.
+
+Statement 1:
+Arkenstone was a member of the duo Enaid & Einalem, which focused on New Age music.
+
+Statement 2:
+As a member of the duo Enaid & Einalem, Diane Arkenstone focused on creating new age and world music.
+
+Please explain whether the statements about diane arkenstone are contradictory.
+Provide your explanation only.
+
+A: The statements about Diane Arkenstone are not contradictory. Both statements mention her involvement in the duo Enaid & Einalem and their focus on creating New Age music. The only difference is that statement 2 adds the additional detail that they also focused on world music. However, this does not contradict statement 1 in any way.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 422
+test/test/sentences/chatgpt/diane_arkenstone/m3/m2_1_1_0.txt
+Q: I give you the beginning of a description about diane arkenstone.
+Then follow two statements.
+
+Description:
+Diane Arkenstone is an American musician, composer, and singer-songwriter.
+
+Statement 1:
+Arkenstone was a member of the duo Enaid & Einalem, which focused on New Age music.
+
+Statement 2:
+Arkenstone was previously married to David Arkenstone, a fellow musician and composer.
+
+Please explain whether the statements about diane arkenstone are contradictory.
+Provide your explanation only.
+
+A: The statements about Diane Arkenstone are not contradictory. Statement 1 provides information about her past involvement in a musical duo that focused on New Age music, while statement 2 provides information about her previous marriage to another musician and composer. These statements do not conflict with each other and can both be true.
+Q: Please conclude whether the statements are contradictory with Yes or No.
+A: No.
+A: No.
+A: No.
+A: No, the statements are not contradictory.
+A: No, the statements are not contradictory.
+A: No, the statements are not contradictory.
+A: No, the statements are not contradictory.
+A: No.
+A: No.
+A: No.
+label: ok
+score: 0.0
+cost: 416
+Usage (prompt tokens, completion tokens, total prompt, total completion)
+[Usage(prompt_tokens=104, completion_tokens=45), Usage(prompt_tokens=171, completion_tokens=85), Usage(prompt_tokens=106, completion_tokens=54), Usage(prompt_tokens=182, completion_tokens=26), Usage(prompt_tokens=121, completion_tokens=66), Usage(prompt_tokens=209, completion_tokens=26), Usage(prompt_tokens=114, completion_tokens=61), Usage(prompt_tokens=197, completion_tokens=44)]
+1204
+407
+1611
+TP (strong), FP (ok), TN (ok), FN (strong)
+0,0,0,0

@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about St Joseph's College, Lochinvar",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "St Joseph's College,",
+            "is",
+            "a Catholic secondary school"
+          ],
+          "St Joseph's College, Lochinvar is a Catholic secondary school for girls located in the Hunter Region of New South Wales, Australia.",
+          "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia."
+        ]
+      ],
+      "sent_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia.",
+      "sent_orig": "It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students.",
+      "sent_orig": "The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities.",
+      "sent_orig": "In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts.",
+      "sent_orig": "St Joseph's College is well-known for its strong sense of community and commitment to social justice.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "St Joseph's College is well-known for its strong sense of community and commitment to social justice."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts. St Joseph's College is well-known for its strong sense of community and commitment to social justice.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts. St Joseph's College is well-known for its strong sense of community and commitment to social justice.",
+      "sent_orig": "The school has a vibrant pastoral care system that includes regular mentoring and counseling sessions for students, as well as a range of support programs for students with special needs.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The school has a vibrant pastoral care system that includes regular mentoring and counseling sessions for students, as well as a range of support programs for students with special needs."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts. St Joseph's College is well-known for its strong sense of community and commitment to social justice. The school has a vibrant pastoral care system that includes regular mentoring and counseling sessions for students, as well as a range of support programs for students with special needs.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts. St Joseph's College is well-known for its strong sense of community and commitment to social justice. The school has a vibrant pastoral care system that includes regular mentoring and counseling sessions for students, as well as a range of support programs for students with special needs.",
+      "sent_orig": "The campus features modern facilities, including well-equipped classrooms, science laboratories, a performing arts center, a gymnasium, and outdoor playing fields.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The campus features modern facilities, including well-equipped classrooms, science laboratories, a performing arts center, a gymnasium, and outdoor playing fields."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts. St Joseph's College is well-known for its strong sense of community and commitment to social justice. The school has a vibrant pastoral care system that includes regular mentoring and counseling sessions for students, as well as a range of support programs for students with special needs. The campus features modern facilities, including well-equipped classrooms, science laboratories, a performing arts center, a gymnasium, and outdoor playing fields.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts. St Joseph's College is well-known for its strong sense of community and commitment to social justice. The school has a vibrant pastoral care system that includes regular mentoring and counseling sessions for students, as well as a range of support programs for students with special needs. The campus features modern facilities, including well-equipped classrooms, science laboratories, a performing arts center, a gymnasium, and outdoor playing fields.",
+      "sent_orig": "The school is dedicated to providing a safe and inclusive learning environment for all students.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The school is dedicated to providing a safe and inclusive learning environment for all students."
+    },
+    {
+      "prefix_original": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts. St Joseph's College is well-known for its strong sense of community and commitment to social justice. The school has a vibrant pastoral care system that includes regular mentoring and counseling sessions for students, as well as a range of support programs for students with special needs. The campus features modern facilities, including well-equipped classrooms, science laboratories, a performing arts center, a gymnasium, and outdoor playing fields. The school is dedicated to providing a safe and inclusive learning environment for all students.",
+      "prefix_new": "St Joseph's College, Lochinvar is a Catholic secondary school located in the Hunter Valley region of New South Wales, Australia. It was established in 1883 by the Sisters of Saint Joseph and has a rich history of providing quality education and pastoral care to students. The school caters for students from Years 7 to 12 and offers a wide range of academic, sporting, and cultural activities. In addition to the standard curriculum, St Joseph's College also offers vocational and technical education programs, as well as enrichment programs in science, technology, engineering, and mathematics (STEM) and creative arts. St Joseph's College is well-known for its strong sense of community and commitment to social justice. The school has a vibrant pastoral care system that includes regular mentoring and counseling sessions for students, as well as a range of support programs for students with special needs. The campus features modern facilities, including well-equipped classrooms, science laboratories, a performing arts center, a gymnasium, and outdoor playing fields. The school is dedicated to providing a safe and inclusive learning environment for all students.",
+      "sent_orig": "Overall, St Joseph's College, Lochinvar is a leading Catholic school that provides a high-quality education and nurturing environment for students to thrive and achieve their goals.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, St Joseph's College, Lochinvar is a leading Catholic school that provides a high-quality education and nurturing environment for students to thrive and achieve their goals."
+    }
+  ]
+}

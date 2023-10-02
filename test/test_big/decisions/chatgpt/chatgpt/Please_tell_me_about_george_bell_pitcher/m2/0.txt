@@ -1,0 +1,136 @@
+{
+  "prompt": "Please tell me about george bell (pitcher)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "George Bell",
+            "is",
+            "a retired professional baseball pitcher"
+          ],
+          "I'm sorry, but there is no famous baseball player named George Bell who was a pitcher. There was a George Bell who was an outfielder, but he was not a pitcher.",
+          "George Bell is a retired professional baseball player."
+        ]
+      ],
+      "sent_new": "George Bell is a retired professional baseball player."
+    },
+    {
+      "prefix_original": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995.",
+      "prefix_new": "George Bell is a retired professional baseball player.",
+      "sent_orig": "He was born on October 21, 1959, in Zapata, Texas.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            ""
+          ],
+          "He was born on October 21, 1959 in Los Angeles, California.",
+          "George Bell was born on October 21, 1959."
+        ]
+      ],
+      "sent_new": "George Bell was born on October 21, 1959."
+    },
+    {
+      "prefix_original": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995. He was born on October 21, 1959, in Zapata, Texas.",
+      "prefix_new": "George Bell is a retired professional baseball player. George Bell was born on October 21, 1959.",
+      "sent_orig": "Bell was drafted by the Toronto Blue Jays in the first round of the 1983 MLB draft and made his debut in the major leagues in 1987.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Bell",
+            "was drafted",
+            "by the Toronto Blue Jays in the first round of the 1983 MLB draft"
+          ],
+          "Bell was drafted by the Toronto Blue Jays in the 25th round of the 1983 Major League Baseball draft.",
+          "Bell made his debut in the major leagues in 1987."
+        ]
+      ],
+      "sent_new": "Bell made his debut in the major leagues in 1987."
+    },
+    {
+      "prefix_original": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995. He was born on October 21, 1959, in Zapata, Texas. Bell was drafted by the Toronto Blue Jays in the first round of the 1983 MLB draft and made his debut in the major leagues in 1987.",
+      "prefix_new": "George Bell is a retired professional baseball player. George Bell was born on October 21, 1959. Bell made his debut in the major leagues in 1987.",
+      "sent_orig": "During his career, Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Bell",
+            "played",
+            "for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers."
+          ],
+          "Bell played for several teams during his career, including the Toronto Blue Jays, the Montreal Expos, and the San Diego Padres.",
+          "George Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers during his career."
+        ]
+      ],
+      "sent_new": "George Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers during his career."
+    },
+    {
+      "prefix_original": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995. He was born on October 21, 1959, in Zapata, Texas. Bell was drafted by the Toronto Blue Jays in the first round of the 1983 MLB draft and made his debut in the major leagues in 1987. During his career, Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers.",
+      "prefix_new": "George Bell is a retired professional baseball player. George Bell was born on October 21, 1959. Bell made his debut in the major leagues in 1987. George Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers during his career.",
+      "sent_orig": "He was primarily a relief pitcher, but also made a few starts throughout his career.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995. He was born on October 21, 1959, in Zapata, Texas. Bell was drafted by the Toronto Blue Jays in the first round of the 1983 MLB draft and made his debut in the major leagues in 1987. During his career, Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers. He was primarily a relief pitcher, but also made a few starts throughout his career.",
+      "prefix_new": "George Bell is a retired professional baseball player. George Bell was born on October 21, 1959. Bell made his debut in the major leagues in 1987. George Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers during his career.",
+      "sent_orig": "Some of his notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Some of his notable achievements",
+            "include",
+            "the American League Cy Young Award in 1987."
+          ],
+          "Some of his notable achievements include being named an All-Star in 1989 and winning the World Series with the Toronto Blue Jays in 1992.",
+          "George Bell's notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987."
+        ]
+      ],
+      "sent_new": "George Bell's notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987."
+    },
+    {
+      "prefix_original": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995. He was born on October 21, 1959, in Zapata, Texas. Bell was drafted by the Toronto Blue Jays in the first round of the 1983 MLB draft and made his debut in the major leagues in 1987. During his career, Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers. He was primarily a relief pitcher, but also made a few starts throughout his career. Some of his notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987.",
+      "prefix_new": "George Bell is a retired professional baseball player. George Bell was born on October 21, 1959. Bell made his debut in the major leagues in 1987. George Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers during his career. George Bell's notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987.",
+      "sent_orig": "Bell was known for his excellent control and his ability to throw strikes consistently.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bell was known for his excellent control and his ability to throw strikes consistently."
+    },
+    {
+      "prefix_original": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995. He was born on October 21, 1959, in Zapata, Texas. Bell was drafted by the Toronto Blue Jays in the first round of the 1983 MLB draft and made his debut in the major leagues in 1987. During his career, Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers. He was primarily a relief pitcher, but also made a few starts throughout his career. Some of his notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987. Bell was known for his excellent control and his ability to throw strikes consistently.",
+      "prefix_new": "George Bell is a retired professional baseball player. George Bell was born on October 21, 1959. Bell made his debut in the major leagues in 1987. George Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers during his career. George Bell's notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987. Bell was known for his excellent control and his ability to throw strikes consistently.",
+      "sent_orig": "He had a career record of 38 wins and 31 losses, and a career ERA of 3.30.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "had",
+            "a career record of 38 wins and 31 losses,"
+          ],
+          "He had a career record of 29-28 with a 3.87 ERA and 29 saves.",
+          "He had a career record of 38 wins and 31 losses, and a career ERA of 3.30."
+        ]
+      ],
+      "sent_new": "He had a career record of 38 wins and 31 losses, and a career ERA of 3.30."
+    },
+    {
+      "prefix_original": "George Bell is a retired professional baseball pitcher who played in the major leagues from 1987 to 1995. He was born on October 21, 1959, in Zapata, Texas. Bell was drafted by the Toronto Blue Jays in the first round of the 1983 MLB draft and made his debut in the major leagues in 1987. During his career, Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers. He was primarily a relief pitcher, but also made a few starts throughout his career. Some of his notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987. Bell was known for his excellent control and his ability to throw strikes consistently. He had a career record of 38 wins and 31 losses, and a career ERA of 3.30.",
+      "prefix_new": "George Bell is a retired professional baseball player. George Bell was born on October 21, 1959. Bell made his debut in the major leagues in 1987. George Bell played for the Toronto Blue Jays, Chicago Cubs, and Milwaukee Brewers during his career. George Bell's notable achievements include being named an All-Star in 1987 and receiving the American League Cy Young Award in 1987. Bell was known for his excellent control and his ability to throw strikes consistently. He had a career record of 38 wins and 31 losses, and a career ERA of 3.30.",
+      "sent_orig": "Bell retired from professional baseball in 1995 and has since been inducted into the Blue Jays' Hall of Fame.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Bell retired from professional baseball in 1995 and has since been inducted into the Blue Jays' Hall of Fame."
+    }
+  ]
+}

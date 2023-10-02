@@ -1,0 +1,82 @@
+{
+  "prompt": "Please tell me about Hellwegb\u00f6rden",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Hellwegb\u00f6rden is a type of traditional German bread that originates from the region of Westphalia.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a type of traditional German bread",
+            "originates",
+            "from the region of Westphalia."
+          ],
+          " Hellwegb\u00f6rden originates from the eastern part of Westphalia.",
+          "Hellwegb\u00f6rden is a traditional German bread from the region of Westphalia."
+        ]
+      ],
+      "sent_new": "Hellwegb\u00f6rden is a traditional German bread from the region of Westphalia."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a type of traditional German bread that originates from the region of Westphalia.",
+      "prefix_new": "Hellwegb\u00f6rden is a traditional German bread from the region of Westphalia.",
+      "sent_orig": "It is a dense, dark bread made from rye flour, water, and salt, and is characterized by its distinctive sour taste and chewy texture.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "It",
+            "is",
+            "a dense, dark bread"
+          ],
+          " It is made from a mixture of rye and wheat flour.",
+          "It is a dense, dark bread made from rye flour, water, and salt, and is characterized by its distinctive sour taste and chewy texture."
+        ],
+        [
+          [
+            "a dense, dark bread",
+            "made",
+            ""
+          ],
+          " Hellwegb\u00f6rden is made with a mixture of rye and wheat flour, water, salt, and sometimes caraway seeds or other grains.",
+          "Hellwegb\u00f6rden is a dense, dark bread with a distinctive sour taste and chewy texture, made from a mixture of rye and wheat flour, water, salt, and sometimes caraway seeds or other grains."
+        ]
+      ],
+      "sent_new": "Hellwegb\u00f6rden is a dense, dark bread with a distinctive sour taste and chewy texture, made from a mixture of rye and wheat flour, water, salt, and sometimes caraway seeds or other grains."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a type of traditional German bread that originates from the region of Westphalia. It is a dense, dark bread made from rye flour, water, and salt, and is characterized by its distinctive sour taste and chewy texture.",
+      "prefix_new": "Hellwegb\u00f6rden is a traditional German bread from the region of Westphalia. Hellwegb\u00f6rden is a dense, dark bread with a distinctive sour taste and chewy texture, made from a mixture of rye and wheat flour, water, salt, and sometimes caraway seeds or other grains.",
+      "sent_orig": "The dough is typically fermented for several hours before being baked, which gives the bread its characteristic flavor and texture.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The dough is typically fermented for several hours before being baked, which gives the bread its characteristic flavor and texture."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a type of traditional German bread that originates from the region of Westphalia. It is a dense, dark bread made from rye flour, water, and salt, and is characterized by its distinctive sour taste and chewy texture. The dough is typically fermented for several hours before being baked, which gives the bread its characteristic flavor and texture.",
+      "prefix_new": "Hellwegb\u00f6rden is a traditional German bread from the region of Westphalia. Hellwegb\u00f6rden is a dense, dark bread with a distinctive sour taste and chewy texture, made from a mixture of rye and wheat flour, water, salt, and sometimes caraway seeds or other grains. The dough is typically fermented for several hours before being baked, which gives the bread its characteristic flavor and texture.",
+      "sent_orig": "Hellwegb\u00f6rden is often served with hearty stews or soups, and is a popular accompaniment to Westphalian specialties such as Pak Choi and Knipp.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hellwegb\u00f6rden is often served with hearty stews or soups, and is a popular accompaniment to Westphalian specialties such as Pak Choi and Knipp."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a type of traditional German bread that originates from the region of Westphalia. It is a dense, dark bread made from rye flour, water, and salt, and is characterized by its distinctive sour taste and chewy texture. The dough is typically fermented for several hours before being baked, which gives the bread its characteristic flavor and texture. Hellwegb\u00f6rden is often served with hearty stews or soups, and is a popular accompaniment to Westphalian specialties such as Pak Choi and Knipp.",
+      "prefix_new": "Hellwegb\u00f6rden is a traditional German bread from the region of Westphalia. Hellwegb\u00f6rden is a dense, dark bread with a distinctive sour taste and chewy texture, made from a mixture of rye and wheat flour, water, salt, and sometimes caraway seeds or other grains. The dough is typically fermented for several hours before being baked, which gives the bread its characteristic flavor and texture. Hellwegb\u00f6rden is often served with hearty stews or soups, and is a popular accompaniment to Westphalian specialties such as Pak Choi and Knipp.",
+      "sent_orig": "It is also commonly served with a variety of cheeses and cold cuts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is also commonly served with a variety of cheeses and cold cuts."
+    },
+    {
+      "prefix_original": " Hellwegb\u00f6rden is a type of traditional German bread that originates from the region of Westphalia. It is a dense, dark bread made from rye flour, water, and salt, and is characterized by its distinctive sour taste and chewy texture. The dough is typically fermented for several hours before being baked, which gives the bread its characteristic flavor and texture. Hellwegb\u00f6rden is often served with hearty stews or soups, and is a popular accompaniment to Westphalian specialties such as Pak Choi and Knipp. It is also commonly served with a variety of cheeses and cold cuts.",
+      "prefix_new": "Hellwegb\u00f6rden is a traditional German bread from the region of Westphalia. Hellwegb\u00f6rden is a dense, dark bread with a distinctive sour taste and chewy texture, made from a mixture of rye and wheat flour, water, salt, and sometimes caraway seeds or other grains. The dough is typically fermented for several hours before being baked, which gives the bread its characteristic flavor and texture. Hellwegb\u00f6rden is often served with hearty stews or soups, and is a popular accompaniment to Westphalian specialties such as Pak Choi and Knipp. It is also commonly served with a variety of cheeses and cold cuts.",
+      "sent_orig": "The bread is named after the Hellweg, a historic trade route that runs through the region where it is made.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The bread is named after the Hellweg, a historic trade route that runs through the region where it is made."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "prompt": "Please tell me about joe ledley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Joe Ledley",
+            "is",
+            "a Welsh former professional footballer"
+          ],
+          "Joe Ledley is a Welsh professional footballer.",
+          "Joe Ledley played primarily as a central midfielder during his professional football career."
+        ]
+      ],
+      "sent_new": "Joe Ledley played primarily as a central midfielder during his professional football career."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career.",
+      "sent_orig": "Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Joe Ledley",
+            "is best known",
+            "for his time with Cardiff City, Crystal Palace, and the Welsh national team."
+          ],
+          "Joe Ledley is best known for his time at Celtic and Crystal Palace.",
+          "Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team."
+        ]
+      ],
+      "sent_new": "Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team.",
+      "sent_orig": "Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances.",
+      "sent_orig": "During his time at Cardiff, he helped the team reach the FA Cup Final in 2008.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his time at Cardiff, he helped the team reach the FA Cup Final in 2008."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008.",
+      "sent_orig": "In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions.",
+      "sent_orig": "Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances.",
+      "sent_orig": "Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances. Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances. Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005.",
+      "sent_orig": "He played a significant role in Wales' historic run to the UEFA Euro 2016 semi-finals, where they were eventually defeated by Portugal.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He played a significant role in Wales' historic run to the UEFA Euro 2016 semi-finals, where they were eventually defeated by Portugal."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances. Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005. He played a significant role in Wales' historic run to the UEFA Euro 2016 semi-finals, where they were eventually defeated by Portugal.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances. Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005. He played a significant role in Wales' historic run to the UEFA Euro 2016 semi-finals, where they were eventually defeated by Portugal.",
+      "sent_orig": "Ledley also had short stints with Derby County, Reading, and Newcastle Jets before hanging up his boots in 2020.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ledley also had short stints with Derby County, Reading, and Newcastle Jets before hanging up his boots in 2020."
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances. Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005. He played a significant role in Wales' historic run to the UEFA Euro 2016 semi-finals, where they were eventually defeated by Portugal. Ledley also had short stints with Derby County, Reading, and Newcastle Jets before hanging up his boots in 2020.",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances. Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005. He played a significant role in Wales' historic run to the UEFA Euro 2016 semi-finals, where they were eventually defeated by Portugal. Ledley also had short stints with Derby County, Reading, and Newcastle Jets before hanging up his boots in 2020.",
+      "sent_orig": "Post-retirement, Ledley appeared in the reality TV show, \"I'm a Celebrity... Get Me Out of Here!\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Post-retirement, Ledley appeared in the reality TV show, \"I'm a Celebrity... Get Me Out of Here!\""
+    },
+    {
+      "prefix_original": "Joe Ledley is a Welsh former professional footballer who played primarily as a central midfielder. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances. Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005. He played a significant role in Wales' historic run to the UEFA Euro 2016 semi-finals, where they were eventually defeated by Portugal. Ledley also had short stints with Derby County, Reading, and Newcastle Jets before hanging up his boots in 2020. Post-retirement, Ledley appeared in the reality TV show, \"I'm a Celebrity... Get Me Out of Here!\"",
+      "prefix_new": "Joe Ledley played primarily as a central midfielder during his professional football career. Joe Ledley is best known for his time with Cardiff City, Crystal Palace, and the Welsh national team. Ledley began his professional career with Cardiff City in 2004, where he played for five years and scored 30 goals in over 250 appearances. During his time at Cardiff, he helped the team reach the FA Cup Final in 2008. In 2010, Ledley signed with Celtic FC, a move that proved successful as he contributed to the team's success both domestically and in European competitions. Ledley played for Celtic for four years before moving to Crystal Palace in 2014, where he played for three years and made almost 100 appearances. Internationally, Joe Ledley has over 70 caps for the Welsh national team, having made his debut in 2005. He played a significant role in Wales' historic run to the UEFA Euro 2016 semi-finals, where they were eventually defeated by Portugal. Ledley also had short stints with Derby County, Reading, and Newcastle Jets before hanging up his boots in 2020. Post-retirement, Ledley appeared in the reality TV show, \"I'm a Celebrity... Get Me Out of Here!\"",
+      "sent_orig": "and has also worked as a football pundit for TV and radio.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "and has also worked as a football pundit for TV and radio."
+    }
+  ]
+}

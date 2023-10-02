@@ -1,0 +1,56 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " The 2003 World Judo Championships - Men's 60 kg was a competition in the sport of judo held at the Palais des Sports in Paris, France, in September 2003.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the sport of judo",
+            "held",
+            "at the Palais des Sports in Paris, France, in September 2003."
+          ],
+          " The sport of judo was held at the 2003 World Judo Championships - Men's 60 kg in Osaka, Japan.",
+          "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003."
+        ]
+      ],
+      "sent_new": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003."
+    },
+    {
+      "prefix_original": " The 2003 World Judo Championships - Men's 60 kg was a competition in the sport of judo held at the Palais des Sports in Paris, France, in September 2003.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003.",
+      "sent_orig": "The tournament was won by Yoon Dae-Sung of South Korea, who defeated Azerbaijan's Elnur Mammadov in the final.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": " The 2003 World Judo Championships - Men's 60 kg was a competition in the sport of judo held at the Palais des Sports in Paris, France, in September 2003. The tournament was won by Yoon Dae-Sung of South Korea, who defeated Azerbaijan's Elnur Mammadov in the final.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003.",
+      "sent_orig": "The bronze medals were won by Joachim B empty of Germany and Kenichi Uemura of Japan.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The bronze medals",
+            "were won",
+            "by Joachim B empty of Germany and Kenichi Uemura of Japan."
+          ],
+          " The bronze medals were won by France's Larbi Benboudaoud and Japan's Tadahiro Nomura.",
+          "The bronze medals were won by Joachim Bottieau of Germany and Kenichi Uemura of Japan."
+        ]
+      ],
+      "sent_new": "The bronze medals were won by Joachim Bottieau of Germany and Kenichi Uemura of Japan."
+    },
+    {
+      "prefix_original": " The 2003 World Judo Championships - Men's 60 kg was a competition in the sport of judo held at the Palais des Sports in Paris, France, in September 2003. The tournament was won by Yoon Dae-Sung of South Korea, who defeated Azerbaijan's Elnur Mammadov in the final. The bronze medals were won by Joachim B empty of Germany and Kenichi Uemura of Japan.",
+      "prefix_new": "The 2003 World Judo Championships - Men's 60 kg was held at the Palais des Sports in Paris, France, in September 2003. The bronze medals were won by Joachim Bottieau of Germany and Kenichi Uemura of Japan.",
+      "sent_orig": "A total of 54 athletes from 47 countries participated in the event.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "A total of 54 athletes from 47 countries participated in the event."
+    }
+  ]
+}

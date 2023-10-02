@@ -1,0 +1,129 @@
+{
+  "prompt": "Please tell me about mick garris",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres.",
+      "sent_orig": "He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born",
+            "on January"
+          ],
+          "He was born in Stockton, California.",
+          "He began his career as an actor in the early 1970s."
+        ]
+      ],
+      "sent_new": "He began his career as an actor in the early 1970s."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s.",
+      "sent_orig": "He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P.",
+      "sent_orig": "Lovecraft.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Lovecraft."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft.",
+      "sent_orig": "In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies.",
+      "sent_orig": "He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series.",
+      "sent_orig": "Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019).",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019)."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019).",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019).",
+      "sent_orig": "He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King.",
+      "sent_orig": "In addition to his work as a filmmaker, Garris has also worked as a writer and actor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his work as a filmmaker, Garris has also worked as a writer and actor."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King. In addition to his work as a filmmaker, Garris has also worked as a writer and actor.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King. In addition to his work as a filmmaker, Garris has also worked as a writer and actor.",
+      "sent_orig": "He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\"",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "has written",
+            ""
+          ],
+          "He has written several novels, including \"Theerves\" and \"The Compartments\".",
+          "He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\""
+        ]
+      ],
+      "sent_new": "He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\""
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King. In addition to his work as a filmmaker, Garris has also worked as a writer and actor. He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\"",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King. In addition to his work as a filmmaker, Garris has also worked as a writer and actor. He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\"",
+      "sent_orig": "He has also appeared as an actor in several films and TV shows, including \"The Stand\" and \"Under the Dome.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also appeared as an actor in several films and TV shows, including \"The Stand\" and \"Under the Dome.\""
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King. In addition to his work as a filmmaker, Garris has also worked as a writer and actor. He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\" He has also appeared as an actor in several films and TV shows, including \"The Stand\" and \"Under the Dome.\"",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King. In addition to his work as a filmmaker, Garris has also worked as a writer and actor. He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\" He has also appeared as an actor in several films and TV shows, including \"The Stand\" and \"Under the Dome.\"",
+      "sent_orig": "Overall, Mick Garris is a prolific and accomplished filmmaker who has made a significant contribution to the horror, thriller, and science fiction genres.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, Mick Garris is a prolific and accomplished filmmaker who has made a significant contribution to the horror, thriller, and science fiction genres."
+    },
+    {
+      "prefix_original": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He was born on January 13, 1951, in Orange, New Jersey, and began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King. In addition to his work as a filmmaker, Garris has also worked as a writer and actor. He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\" He has also appeared as an actor in several films and TV shows, including \"The Stand\" and \"Under the Dome.\" Overall, Mick Garris is a prolific and accomplished filmmaker who has made a significant contribution to the horror, thriller, and science fiction genres.",
+      "prefix_new": "Mick Garris is an American film director, screenwriter, and actor who is best known for his work in the horror, thriller, and science fiction genres. He began his career as an actor in the early 1970s. He appeared in a number of films and TV shows during the next few years, including the cult classic film \"Re-Animator\" (1985), based on the story by H.P. Lovecraft. In the late 1980s and early 1990s, Garris began to focus on directing and writing, working on a number of low-budget horror films and TV movies. He also started working as a screenwriter, adapting Stephen King's novel \"The Stand\" into a 1994 TV mini-series. Throughout the 1990s and 2000s, Garris directed a number of feature films, including \"The Fly II\" (1989), \"Psycho IV: The Beginning\" (1990), \"Sleepwalkers\" (1992), and \"The Shining\" sequel \"Doctor Sleep\" (2019). He has also directed several TV movies and miniseries, including \"The Postman Always Rings Twice\" (1981), \"Hangover Square\" (1985), \"The Terror Within\" (1989), and \"Desperation\" (2006), based on a novel by Stephen King. In addition to his work as a filmmaker, Garris has also worked as a writer and actor. He has written several books, including a memoir called \"Spin into Darkness\" and a novella called \"The Last Day of Night.\" He has also appeared as an actor in several films and TV shows, including \"The Stand\" and \"Under the Dome.\" Overall, Mick Garris is a prolific and accomplished filmmaker who has made a significant contribution to the horror, thriller, and science fiction genres.",
+      "sent_orig": "He is known for his ability to create suspenseful and atmospheric films that often explore dark themes and ideas.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is known for his ability to create suspenseful and atmospheric films that often explore dark themes and ideas."
+    }
+  ]
+}

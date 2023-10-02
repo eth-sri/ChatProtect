@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about hamid dabashi",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author.",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author.",
+      "sent_orig": "He was born on June 15, 1951, in Ahvaz, Iran.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born on June 15, 1951, in Ahvaz, Iran."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran.",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran.",
+      "sent_orig": "Dabashi received his BA from the University of Tehran, his MA from the University of Pennsylvania, and his PhD from the University of Pennsylvania.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Dabashi",
+            "received",
+            ""
+          ],
+          "Dabashi received his PhD in Sociology from the University of Pennsylvania.",
+          "Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania."
+        ]
+      ],
+      "sent_new": "Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran, his MA from the University of Pennsylvania, and his PhD from the University of Pennsylvania.",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania.",
+      "sent_orig": "Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran, his MA from the University of Pennsylvania, and his PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990.",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990.",
+      "sent_orig": "He is also the founder of the Center for Palestine Studies at Columbia University.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is also the founder of the Center for Palestine Studies at Columbia University."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran, his MA from the University of Pennsylvania, and his PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University.",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University.",
+      "sent_orig": "Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran, his MA from the University of Pennsylvania, and his PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University. Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature.",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University. Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature.",
+      "sent_orig": "Some of his notable works include \"Islamic Fundamentalism and the Iranian Revolution\", \"Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran\", \"Dreams of a Nation: On Palestinian Cinema\", and \"Iran: A People Interrupted\".",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some of his notable works include \"Islamic Fundamentalism and the Iranian Revolution\", \"Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran\", \"Dreams of a Nation: On Palestinian Cinema\", and \"Iran: A People Interrupted\"."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran, his MA from the University of Pennsylvania, and his PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University. Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature. Some of his notable works include \"Islamic Fundamentalism and the Iranian Revolution\", \"Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran\", \"Dreams of a Nation: On Palestinian Cinema\", and \"Iran: A People Interrupted\".",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University. Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature. Some of his notable works include \"Islamic Fundamentalism and the Iranian Revolution\", \"Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran\", \"Dreams of a Nation: On Palestinian Cinema\", and \"Iran: A People Interrupted\".",
+      "sent_orig": "Dabashi is known for his critical analysis of Western imperialism and his passionate defense of oppressed peoples, including Palestinians, Iranians, and other Muslim communities.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dabashi is known for his critical analysis of Western imperialism and his passionate defense of oppressed peoples, including Palestinians, Iranians, and other Muslim communities."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran, his MA from the University of Pennsylvania, and his PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University. Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature. Some of his notable works include \"Islamic Fundamentalism and the Iranian Revolution\", \"Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran\", \"Dreams of a Nation: On Palestinian Cinema\", and \"Iran: A People Interrupted\". Dabashi is known for his critical analysis of Western imperialism and his passionate defense of oppressed peoples, including Palestinians, Iranians, and other Muslim communities.",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University. Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature. Some of his notable works include \"Islamic Fundamentalism and the Iranian Revolution\", \"Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran\", \"Dreams of a Nation: On Palestinian Cinema\", and \"Iran: A People Interrupted\". Dabashi is known for his critical analysis of Western imperialism and his passionate defense of oppressed peoples, including Palestinians, Iranians, and other Muslim communities.",
+      "sent_orig": "He has been a vocal critic of the Israeli government's treatment of Palestinians and of US foreign policy in the Middle East.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has been a vocal critic of the Israeli government's treatment of Palestinians and of US foreign policy in the Middle East."
+    },
+    {
+      "prefix_original": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran, his MA from the University of Pennsylvania, and his PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University. Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature. Some of his notable works include \"Islamic Fundamentalism and the Iranian Revolution\", \"Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran\", \"Dreams of a Nation: On Palestinian Cinema\", and \"Iran: A People Interrupted\". Dabashi is known for his critical analysis of Western imperialism and his passionate defense of oppressed peoples, including Palestinians, Iranians, and other Muslim communities. He has been a vocal critic of the Israeli government's treatment of Palestinians and of US foreign policy in the Middle East.",
+      "prefix_new": "Hamid Dabashi is an Iranian-American scholar, cultural critic, and author. He was born on June 15, 1951, in Ahvaz, Iran. Dabashi received his BA from the University of Tehran and his MA and PhD from the University of Pennsylvania. Dabashi is currently an Professor of Iranian Studies and Comparative Literature at Columbia University in New York City, where he has taught since 1990. He is also the founder of the Center for Palestine Studies at Columbia University. Dabashi has published over 20 books and numerous articles on topics such as Iranian culture, Islamic philosophy, cinema, and literature. Some of his notable works include \"Islamic Fundamentalism and the Iranian Revolution\", \"Theology of Discontent: The Ideological Foundation of the Islamic Revolution in Iran\", \"Dreams of a Nation: On Palestinian Cinema\", and \"Iran: A People Interrupted\". Dabashi is known for his critical analysis of Western imperialism and his passionate defense of oppressed peoples, including Palestinians, Iranians, and other Muslim communities. He has been a vocal critic of the Israeli government's treatment of Palestinians and of US foreign policy in the Middle East.",
+      "sent_orig": "Dabashi has received numerous awards for his scholarship and activism, including the Lifetime Achievement Award from the Association for Iranian Studies in 2014.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Dabashi has received numerous awards for his scholarship and activism, including the Lifetime Achievement Award from the Association for Iranian Studies in 2014."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "prompt": "Please tell me about john holt (author)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "John Holt (1927-1985) was an American educational philosopher and author, best known for his influential book \"How Children Learn,\" published in 1967.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "John Holt (1927-1985) was an American educational philosopher and author, best known for his influential book \"How Children Learn,\" published in 1967."
+    },
+    {
+      "prefix_original": "John Holt (1927-1985) was an American educational philosopher and author, best known for his influential book \"How Children Learn,\" published in 1967.",
+      "prefix_new": "John Holt (1927-1985) was an American educational philosopher and author, best known for his influential book \"How Children Learn,\" published in 1967.",
+      "sent_orig": "He was a proponent of experiential learning and critical thinking and was critical of traditional teaching methods that relied heavily on rote learning and standardized tests.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a proponent of experiential learning and critical thinking and was critical of traditional teaching methods that relied heavily on rote learning and standardized tests."
+    },
+    {
+      "prefix_original": "John Holt (1927-1985) was an American educational philosopher and author, best known for his influential book \"How Children Learn,\" published in 1967. He was a proponent of experiential learning and critical thinking and was critical of traditional teaching methods that relied heavily on rote learning and standardized tests.",
+      "prefix_new": "John Holt (1927-1985) was an American educational philosopher and author, best known for his influential book \"How Children Learn,\" published in 1967. He was a proponent of experiential learning and critical thinking and was critical of traditional teaching methods that relied heavily on rote learning and standardized tests.",
+      "sent_orig": "He believed that children learn best through hands-on experiences and through interacting with their environment.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He believed that children learn best through hands-on experiences and through interacting with their environment."
+    },
+    {
+      "prefix_original": "John Holt (1927-1985) was an American educational philosopher and author, best known for his influential book \"How Children Learn,\" published in 1967. He was a proponent of experiential learning and critical thinking and was critical of traditional teaching methods that relied heavily on rote learning and standardized tests. He believed that children learn best through hands-on experiences and through interacting with their environment.",
+      "prefix_new": "John Holt (1927-1985) was an American educational philosopher and author, best known for his influential book \"How Children Learn,\" published in 1967. He was a proponent of experiential learning and critical thinking and was critical of traditional teaching methods that relied heavily on rote learning and standardized tests. He believed that children learn best through hands-on experiences and through interacting with their environment.",
+      "sent_orig": "He also wrote other books on education like \"Teach Your Own,\" \"The Schools We Need,\" and \"Escape from Childhood.\"",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also wrote other books on education like \"Teach Your Own,\" \"The Schools We Need,\" and \"Escape from Childhood.\""
+    }
+  ]
+}

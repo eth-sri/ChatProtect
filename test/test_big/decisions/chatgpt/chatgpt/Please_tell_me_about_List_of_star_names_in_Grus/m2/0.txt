@@ -1,0 +1,259 @@
+{
+  "prompt": "Please tell me about List of star names in Grus",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Here is a list of some star names in the constellation Grus:\n\n1.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Here is a list of some star names in the constellation Grus:\n\n1."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1.",
+      "sent_orig": "Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth.",
+      "sent_orig": "2.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "2."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2.",
+      "sent_orig": "Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Beta Gruis",
+            "known",
+            ""
+          ],
+          "Beta Gruis is known as a red giant star and is located approximately 170 light-years away from Earth.",
+          "Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away."
+        ]
+      ],
+      "sent_new": "Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away.",
+      "sent_orig": "3.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "3."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3.",
+      "sent_orig": "Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gamma Gruis",
+            "known",
+            ""
+          ],
+          "Gamma Gruis is known as a red giant star located about 190 light-years away from Earth.",
+          "Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away."
+        ]
+      ],
+      "sent_new": "Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away.",
+      "sent_orig": "4.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "4."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4.",
+      "sent_orig": "Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Delta Gruis",
+            "is",
+            "a yellow-white giant star"
+          ],
+          "Delta Gruis is a binary star system located about 170 light-years away from Earth.",
+          "Delta Gruis is also known as Kitalpha."
+        ],
+        [
+          [
+            "a yellow-white giant star",
+            "located",
+            ""
+          ],
+          "A yellow-white giant star, Delta Gruis, is located about 530 light-years away from Earth.",
+          "Delta Gruis is also known as Kitalpha."
+        ]
+      ],
+      "sent_new": "Delta Gruis is also known as Kitalpha."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha.",
+      "sent_orig": "5.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "5."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5.",
+      "sent_orig": "Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5.",
+      "sent_orig": "6.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "6."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6.",
+      "sent_orig": "Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a white giant star",
+            "located",
+            ""
+          ],
+          "Zeta Gruis is a white giant star located about 109 light-years away from Earth.",
+          "Zeta Gruis - also known as Ducima or Gienah, it is a white giant star."
+        ]
+      ],
+      "sent_new": "Zeta Gruis - also known as Ducima or Gienah, it is a white giant star."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star.",
+      "sent_orig": "7.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "7."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away. 7.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star. 7.",
+      "sent_orig": "Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Mu Gruis",
+            "known",
+            ""
+          ],
+          "Mu Gruis is known as a red giant star located about 420 light-years away from Earth.",
+          "Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away."
+        ],
+        [
+          [
+            "Mu Gruis",
+            "is",
+            "a yellow giant star"
+          ],
+          "Mu Gruis is a red giant star located about 170 light-years away from Earth.",
+          "Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away."
+        ]
+      ],
+      "sent_new": "Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away.",
+      "sent_orig": "8.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "8."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8.",
+      "sent_orig": "Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away.",
+      "sent_orig": "9.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "9."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away. 9.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away. 9.",
+      "sent_orig": "Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Pi Gruis",
+            "known",
+            ""
+          ],
+          "Pi Gruis is known as a red giant star located about 530 light-years away from Earth.",
+          "Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away."
+        ],
+        [
+          [
+            "Pi Gruis",
+            "is",
+            "an orange giant star"
+          ],
+          "Pi Gruis is a binary star system located about 530 light-years away from Earth.",
+          "Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away."
+        ]
+      ],
+      "sent_new": "Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away. 9. Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away. 9. Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away.",
+      "sent_orig": "10.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "10."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away. 9. Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away. 10.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away. 9. Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away. 10.",
+      "sent_orig": "R Gruis - it is a red giant star located about 360 light-years away.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "R Gruis - it is a red giant star located about 360 light-years away."
+    },
+    {
+      "prefix_original": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is an orange giant star located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis - also known as Kitalpha, it is a yellow-white giant star located about 92 light-years away. 5. Epsilon Gruis - also known as Minkar, it is a blue-white giant star located about 110 light-years away. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star located about 180 light-years away. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away. 9. Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away. 10. R Gruis - it is a red giant star located about 360 light-years away.",
+      "prefix_new": "Here is a list of some star names in the constellation Grus:\n\n1. Alpha Gruis - also known as Alnair, it is a blue-white giant star located about 101 light-years away from Earth. 2. Beta Gruis - also known as Kitsu or Tianguan, it is located about 170 light-years away. 3. Gamma Gruis - also known as Al Dhanab or Tarazed, it is a blue giant star located about 460 light-years away. 4. Delta Gruis is also known as Kitalpha. 5. 6. Zeta Gruis - also known as Ducima or Gienah, it is a white giant star. 7. Mu Gruis - also known as Musica, it is a yellow giant star located about 410 light-years away. 8. Nu Gruis - also known as Koo She or Soheil, it is a red giant star located about 275 light-years away. 9. Pi Gruis - also known as Polis or Phecda, it is an orange giant star located about 245 light-years away. 10. R Gruis - it is a red giant star located about 360 light-years away.",
+      "sent_orig": "There are many other star names in the constellation Grus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "There are many other star names in the constellation Grus."
+    }
+  ]
+}

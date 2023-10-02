@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about walter de cantilupe",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator.",
+      "prefix_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator.",
+      "sent_orig": "He served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "served",
+            "as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death."
+          ],
+          "He served as Bishop of Worcester from 1236 until his death in 1266.",
+          "Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death."
+        ]
+      ],
+      "sent_new": "Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. He served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death.",
+      "prefix_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death.",
+      "sent_orig": "As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. He served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity.",
+      "prefix_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity.",
+      "sent_orig": "He was involved in many charitable works, including the foundation of hospitals and almshouses.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was involved in many charitable works, including the foundation of hospitals and almshouses."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. He served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses.",
+      "prefix_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses.",
+      "sent_orig": "As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. He served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses. As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales.",
+      "prefix_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses. As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales.",
+      "sent_orig": "However, he also clashed with the king over issues of jurisdiction and taxation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, he also clashed with the king over issues of jurisdiction and taxation."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. He served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses. As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales. However, he also clashed with the king over issues of jurisdiction and taxation.",
+      "prefix_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses. As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales. However, he also clashed with the king over issues of jurisdiction and taxation.",
+      "sent_orig": "Cantilupe was also involved in the politics of the period, serving as a mediator between the king and the barons during the Constitutional Crisis of 1297-1298.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Cantilupe was also involved in the politics of the period, serving as a mediator between the king and the barons during the Constitutional Crisis of 1297-1298."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. He served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses. As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales. However, he also clashed with the king over issues of jurisdiction and taxation. Cantilupe was also involved in the politics of the period, serving as a mediator between the king and the barons during the Constitutional Crisis of 1297-1298.",
+      "prefix_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses. As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales. However, he also clashed with the king over issues of jurisdiction and taxation. Cantilupe was also involved in the politics of the period, serving as a mediator between the king and the barons during the Constitutional Crisis of 1297-1298.",
+      "sent_orig": "After his death, Cantilupe was venerated as a saint by many in the English Church.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "After his death, Cantilupe was venerated as a saint by many in the English Church."
+    },
+    {
+      "prefix_original": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. He served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses. As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales. However, he also clashed with the king over issues of jurisdiction and taxation. Cantilupe was also involved in the politics of the period, serving as a mediator between the king and the barons during the Constitutional Crisis of 1297-1298. After his death, Cantilupe was venerated as a saint by many in the English Church.",
+      "prefix_new": "Walter de Cantilupe (c. 1262 \u2013 7 January 1308) was a medieval English bishop and administrator. Walter de Cantilupe served as Bishop of Worcester from 1275 to 1296 and Bishop of Hereford from 1297 until his death. As Bishop of Worcester, Cantilupe was renowned for his piety, generosity, and charity. He was involved in many charitable works, including the foundation of hospitals and almshouses. As Bishop of Hereford, Cantilupe supported King Edward I in his wars against Scotland and Wales. However, he also clashed with the king over issues of jurisdiction and taxation. Cantilupe was also involved in the politics of the period, serving as a mediator between the king and the barons during the Constitutional Crisis of 1297-1298. After his death, Cantilupe was venerated as a saint by many in the English Church.",
+      "sent_orig": "He was canonized by Pope John XXII in 1320, becoming one of only two English bishops to be canonized in the Middle Ages.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was canonized by Pope John XXII in 1320, becoming one of only two English bishops to be canonized in the Middle Ages."
+    }
+  ]
+}

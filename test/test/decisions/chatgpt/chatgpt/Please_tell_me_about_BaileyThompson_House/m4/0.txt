@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S."
+    },
+    {
+      "prefix_original": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S.",
+      "sent_orig": "Congressman.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Congressman."
+    },
+    {
+      "prefix_original": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman.",
+      "sent_orig": "The house features a central pavilion with a pedimented portico supported by columns.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house features a central pavilion with a pedimented portico supported by columns."
+    },
+    {
+      "prefix_original": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns.",
+      "sent_orig": "The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters."
+    },
+    {
+      "prefix_original": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters.",
+      "sent_orig": "The house is topped by a hip roof with chimneys placed on either side of the building.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house is topped by a hip roof with chimneys placed on either side of the building."
+    },
+    {
+      "prefix_original": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building.",
+      "sent_orig": "In 1907, George L. Thompson made modifications to the house.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "George L. Thompson",
+            "made",
+            "modifications to the house."
+          ],
+          "George L. Thompson made significant renovations to the Bailey-Thompson House in the 1850s, adding a two-story rear wing and a new front entrance with a cast-iron balcony.",
+          "In 1907, modifications were made to the Bailey-Thompson House."
+        ]
+      ],
+      "sent_new": "In 1907, modifications were made to the Bailey-Thompson House."
+    },
+    {
+      "prefix_original": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, George L. Thompson made modifications to the house.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, modifications were made to the Bailey-Thompson House.",
+      "sent_orig": "His descendants occupied the house until 1968.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "His descendants occupied the house until 1968."
+    },
+    {
+      "prefix_original": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, George L. Thompson made modifications to the house. His descendants occupied the house until 1968.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, modifications were made to the Bailey-Thompson House. His descendants occupied the house until 1968.",
+      "sent_orig": "The Bailey-Thompson House was listed on the National Register of Historic Places for its architectural and historical significance.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Bailey-Thompson House was listed on the National Register of Historic Places for its architectural and historical significance."
+    },
+    {
+      "prefix_original": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, George L. Thompson made modifications to the house. His descendants occupied the house until 1968. The Bailey-Thompson House was listed on the National Register of Historic Places for its architectural and historical significance.",
+      "prefix_new": "This two-story, Federal-style brick house was built in 1820 for Gabriel Bailey, a prominent member of the community who served as a state delegate, senator, and U.S. Congressman. The house features a central pavilion with a pedimented portico supported by columns. The fa\u00e7ade features a fanlight over the entrance, sash windows with molded surrounds, and false shutters. The house is topped by a hip roof with chimneys placed on either side of the building. In 1907, modifications were made to the Bailey-Thompson House. His descendants occupied the house until 1968. The Bailey-Thompson House was listed on the National Register of Historic Places for its architectural and historical significance.",
+      "sent_orig": "The house is privately owned.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house is privately owned."
+    }
+  ]
+}

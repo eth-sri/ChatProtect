@@ -1,0 +1,103 @@
+{
+  "prompt": "Please tell me about Ryan Gosling",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Ryan Gosling is a Canadian actor, musician, and film producer.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ryan Gosling is a Canadian actor, musician, and film producer."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer.",
+      "sent_orig": "He was born on November 12, 1980, in London, Ontario, Canada.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born on November 12, 1980, in London, Ontario, Canada."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada.",
+      "sent_orig": "Gosling began his acting career as a child actor, appearing in various television shows and movies.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gosling began his acting career as a child actor, appearing in various television shows and movies."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies.",
+      "sent_orig": "He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Believer'",
+            "earned",
+            "him an Independent Spirit Award nomination for Best Male Lead."
+          ],
+          "\"Believer\" earned Ryan Gosling a nomination for the Academy Award for Best Original Song.",
+          "He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead."
+        ]
+      ],
+      "sent_new": "He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead.",
+      "sent_orig": "Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor.",
+      "sent_orig": "Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'.",
+      "sent_orig": "Gosling has also received several award nominations, including two Academy Award nominations.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gosling has also received several award nominations, including two Academy Award nominations."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'. Gosling has also received several award nominations, including two Academy Award nominations.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'. Gosling has also received several award nominations, including two Academy Award nominations.",
+      "sent_orig": "Apart from acting, Gosling is also a musician and has been a part of the bands Dead Man's Bones and The Blades.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Apart from acting, Gosling is also a musician and has been a part of the bands Dead Man's Bones and The Blades."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'. Gosling has also received several award nominations, including two Academy Award nominations. Apart from acting, Gosling is also a musician and has been a part of the bands Dead Man's Bones and The Blades.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'. Gosling has also received several award nominations, including two Academy Award nominations. Apart from acting, Gosling is also a musician and has been a part of the bands Dead Man's Bones and The Blades.",
+      "sent_orig": "He has also directed and written a few short films.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also directed and written a few short films."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'. Gosling has also received several award nominations, including two Academy Award nominations. Apart from acting, Gosling is also a musician and has been a part of the bands Dead Man's Bones and The Blades. He has also directed and written a few short films.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'. Gosling has also received several award nominations, including two Academy Award nominations. Apart from acting, Gosling is also a musician and has been a part of the bands Dead Man's Bones and The Blades. He has also directed and written a few short films.",
+      "sent_orig": "Gosling is known for his intense and emotional performances and is considered one of the most talented actors of his generation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Gosling is known for his intense and emotional performances and is considered one of the most talented actors of his generation."
+    },
+    {
+      "prefix_original": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'. Gosling has also received several award nominations, including two Academy Award nominations. Apart from acting, Gosling is also a musician and has been a part of the bands Dead Man's Bones and The Blades. He has also directed and written a few short films. Gosling is known for his intense and emotional performances and is considered one of the most talented actors of his generation.",
+      "prefix_new": "Ryan Gosling is a Canadian actor, musician, and film producer. He was born on November 12, 1980, in London, Ontario, Canada. Gosling began his acting career as a child actor, appearing in various television shows and movies. He gained critical acclaim for his role in the independent film 'The Believer' (2001), which earned him an Independent Spirit Award nomination for Best Male Lead. Gosling's breakthrough role came in 2004's 'The Notebook', which became a commercial success and established him as a leading Hollywood actor. Some of his notable film roles include 'Half Nelson', 'Blue Valentine', 'Drive', 'La La Land', and 'Blade Runner 2049'. Gosling has also received several award nominations, including two Academy Award nominations. Apart from acting, Gosling is also a musician and has been a part of the bands Dead Man's Bones and The Blades. He has also directed and written a few short films. Gosling is known for his intense and emotional performances and is considered one of the most talented actors of his generation.",
+      "sent_orig": "He continues to make movies and is recognized for his contribution to the film industry.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He continues to make movies and is recognized for his contribution to the film industry."
+    }
+  ]
+}

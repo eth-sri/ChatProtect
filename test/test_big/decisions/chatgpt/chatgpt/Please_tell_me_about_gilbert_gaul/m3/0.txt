@@ -1,0 +1,47 @@
+{
+  "prompt": "Please tell me about gilbert gaul",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "I'm sorry, as an AI language model, I don't have personal information about specific individuals unless it's a publicly known information or provided to me.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "I'm sorry, as an AI language model, I don't have personal information about specific individuals unless it's a publicly known information or provided to me."
+    },
+    {
+      "prefix_original": "I'm sorry, as an AI language model, I don't have personal information about specific individuals unless it's a publicly known information or provided to me.",
+      "prefix_new": "I'm sorry, as an AI language model, I don't have personal information about specific individuals unless it's a publicly known information or provided to me.",
+      "sent_orig": "However, as per my research, Gilbert Gaul is an investigative journalist and the author of several books, including \"Billion-Dollar Ball: A Journey Through the Big-Money Culture of College Football,\" which won the 2016 Pulitzer Prize for Explanatory Reporting.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "However, as per my research, Gilbert Gaul is an investigative journalist and the author of several books, including \"Billion-Dollar Ball: A Journey Through the Big-Money Culture of College Football,\" which won the 2016 Pulitzer Prize for Explanatory Reporting."
+    },
+    {
+      "prefix_original": "I'm sorry, as an AI language model, I don't have personal information about specific individuals unless it's a publicly known information or provided to me. However, as per my research, Gilbert Gaul is an investigative journalist and the author of several books, including \"Billion-Dollar Ball: A Journey Through the Big-Money Culture of College Football,\" which won the 2016 Pulitzer Prize for Explanatory Reporting.",
+      "prefix_new": "I'm sorry, as an AI language model, I don't have personal information about specific individuals unless it's a publicly known information or provided to me. However, as per my research, Gilbert Gaul is an investigative journalist and the author of several books, including \"Billion-Dollar Ball: A Journey Through the Big-Money Culture of College Football,\" which won the 2016 Pulitzer Prize for Explanatory Reporting.",
+      "sent_orig": "He is a two-time Pulitzer finalist.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is a two-time Pulitzer finalist."
+    },
+    {
+      "prefix_original": "I'm sorry, as an AI language model, I don't have personal information about specific individuals unless it's a publicly known information or provided to me. However, as per my research, Gilbert Gaul is an investigative journalist and the author of several books, including \"Billion-Dollar Ball: A Journey Through the Big-Money Culture of College Football,\" which won the 2016 Pulitzer Prize for Explanatory Reporting. He is a two-time Pulitzer finalist.",
+      "prefix_new": "I'm sorry, as an AI language model, I don't have personal information about specific individuals unless it's a publicly known information or provided to me. However, as per my research, Gilbert Gaul is an investigative journalist and the author of several books, including \"Billion-Dollar Ball: A Journey Through the Big-Money Culture of College Football,\" which won the 2016 Pulitzer Prize for Explanatory Reporting. He is a two-time Pulitzer finalist.",
+      "sent_orig": "Gaul currently works as a contributing writer for The New Yorker.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Gaul",
+            "works",
+            "as a contributing writer for The New Yorker."
+          ],
+          "Gaul works as a contributing editor at large for Politico Magazine.",
+          "Gaul is a contributing writer for The New Yorker."
+        ]
+      ],
+      "sent_new": "Gaul is a contributing writer for The New Yorker."
+    }
+  ]
+}

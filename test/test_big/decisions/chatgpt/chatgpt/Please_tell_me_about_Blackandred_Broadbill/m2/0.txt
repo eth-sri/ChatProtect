@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Black-and-red Broadbill",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia.",
+      "prefix_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia.",
+      "sent_orig": "It is a colorful bird with a black head, neck, wings, and tail.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is a colorful bird with a black head, neck, wings, and tail."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail.",
+      "prefix_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail.",
+      "sent_orig": "The rest of the body is bright red, and the bill and legs are black.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "the bill and legs",
+            "are",
+            "black."
+          ],
+          "The bill and legs of the Black-and-red Broadbill are bright red, providing a striking contrast to its black feathers.",
+          "The rest of the body is bright red."
+        ]
+      ],
+      "sent_new": "The rest of the body is bright red."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red, and the bill and legs are black.",
+      "prefix_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red.",
+      "sent_orig": "Their diet consists primarily of insects, fruit, and seeds.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Their diet consists primarily of insects, fruit, and seeds."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red, and the bill and legs are black. Their diet consists primarily of insects, fruit, and seeds.",
+      "prefix_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red. Their diet consists primarily of insects, fruit, and seeds.",
+      "sent_orig": "They live in tropical forests and are typically found in the lower and middle canopy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They live in tropical forests and are typically found in the lower and middle canopy."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red, and the bill and legs are black. Their diet consists primarily of insects, fruit, and seeds. They live in tropical forests and are typically found in the lower and middle canopy.",
+      "prefix_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red. Their diet consists primarily of insects, fruit, and seeds. They live in tropical forests and are typically found in the lower and middle canopy.",
+      "sent_orig": "They are known for their distinctive call and are sometimes kept as pets.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They are known for their distinctive call and are sometimes kept as pets."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red, and the bill and legs are black. Their diet consists primarily of insects, fruit, and seeds. They live in tropical forests and are typically found in the lower and middle canopy. They are known for their distinctive call and are sometimes kept as pets.",
+      "prefix_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red. Their diet consists primarily of insects, fruit, and seeds. They live in tropical forests and are typically found in the lower and middle canopy. They are known for their distinctive call and are sometimes kept as pets.",
+      "sent_orig": "Black-and-red Broadbills are monogamous and build nests out of moss and spider webs, which are typically placed on a tree branch.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Black-and-red Broadbills are monogamous and build nests out of moss and spider webs, which are typically placed on a tree branch."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red, and the bill and legs are black. Their diet consists primarily of insects, fruit, and seeds. They live in tropical forests and are typically found in the lower and middle canopy. They are known for their distinctive call and are sometimes kept as pets. Black-and-red Broadbills are monogamous and build nests out of moss and spider webs, which are typically placed on a tree branch.",
+      "prefix_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red. Their diet consists primarily of insects, fruit, and seeds. They live in tropical forests and are typically found in the lower and middle canopy. They are known for their distinctive call and are sometimes kept as pets. Black-and-red Broadbills are monogamous and build nests out of moss and spider webs, which are typically placed on a tree branch.",
+      "sent_orig": "They lay 2-3 eggs in each clutch, and both parents take turns incubating them for 14-16 days.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "They lay 2-3 eggs in each clutch, and both parents take turns incubating them for 14-16 days."
+    },
+    {
+      "prefix_original": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red, and the bill and legs are black. Their diet consists primarily of insects, fruit, and seeds. They live in tropical forests and are typically found in the lower and middle canopy. They are known for their distinctive call and are sometimes kept as pets. Black-and-red Broadbills are monogamous and build nests out of moss and spider webs, which are typically placed on a tree branch. They lay 2-3 eggs in each clutch, and both parents take turns incubating them for 14-16 days.",
+      "prefix_new": "The Black-and-red Broadbill is a passerine bird found in Southeast Asia. It is a colorful bird with a black head, neck, wings, and tail. The rest of the body is bright red. Their diet consists primarily of insects, fruit, and seeds. They live in tropical forests and are typically found in the lower and middle canopy. They are known for their distinctive call and are sometimes kept as pets. Black-and-red Broadbills are monogamous and build nests out of moss and spider webs, which are typically placed on a tree branch. They lay 2-3 eggs in each clutch, and both parents take turns incubating them for 14-16 days.",
+      "sent_orig": "Overall, the Black-and-red Broadbill is a beautiful and charismatic bird found in Southeast Asia.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the Black-and-red Broadbill is a beautiful and charismatic bird found in Southeast Asia."
+    }
+  ]
+}

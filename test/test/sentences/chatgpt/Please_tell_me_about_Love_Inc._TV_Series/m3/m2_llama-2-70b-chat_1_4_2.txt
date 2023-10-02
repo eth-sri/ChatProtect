@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Love, Inc. (TV Series)",
+  "orig": "This sentence fits well after the given description and only contains information from the original sentence.",
+  "alt": "This sentence contains information about the cast of Love, Inc.",
+  "prefix": " Love, Inc. is a sitcom television series that aired on the UPN network from September 2005 to May 2006. The show follows a group of dating consultants at a company called \"Love, Inc.\" who help their clients find their perfect matches. Their clients are often quirky or flawed, but the consultants always find a way to help them find love. Sure, here's a revised sentence that removes the conflicting information and fits well after the given description:\n\nThe show stars Holly Robinson Peete as Clea Lavoy, the owner of Love, Inc. Sure, here's a revised sentence that removes the conflicting information and preserves as much valid information as possible:\n\nShe is joined by a cast of talented actors, including Reagan Gomez-Preston as Francine, an optimistic and romantic consultant, and Ion Overman as Clea, a bold and sassy consultant.",
+  "triple": [
+    [
+      "This sentence",
+      "contains",
+      "information from the original sentence."
+    ],
+    "compactie",
+    626
+  ],
+  "tag": "ok",
+  "wrong": "none",
+  "orig_tag": "ok",
+  "explanation": " The two statements provided do not contain contradictory information. Statement 1 mentions the show's premise and the character Clea Lavoy, while Statement 2 mentions the cast of the show, including Reagan Gomez-Preston and Ion Overman. The information in Statement 2 builds upon the information provided in Statement 1 by adding details about the cast, and does not contradict it. Therefore, the statements are not contradictory."
+}

@@ -1,0 +1,77 @@
+{
+  "prompt": "Please tell me about Natalie Portman",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Natalie Portman is an Israeli-American actress and filmmaker.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Natalie Portman is an Israeli-American actress and filmmaker."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress and filmmaker.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress and filmmaker.",
+      "sent_orig": "Born in Israel in 1981, Portman moved with her family to the United States when she was three years old.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Born in Israel in 1981, Portman moved with her family to the United States when she was three years old."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old.",
+      "sent_orig": "As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City.",
+      "sent_orig": "Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy.",
+      "sent_orig": "She has since appeared in a wide variety of films, from drama and comedy to science fiction and action.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has since appeared in a wide variety of films, from drama and comedy to science fiction and action."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy. She has since appeared in a wide variety of films, from drama and comedy to science fiction and action.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy. She has since appeared in a wide variety of films, from drama and comedy to science fiction and action.",
+      "sent_orig": "Some of her most notable roles include the lead in the psychological thriller Black Swan, for which she won an Academy Award, and roles in V for Vendetta, Thor, and Annihilation.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Some of her most notable roles include the lead in the psychological thriller Black Swan, for which she won an Academy Award, and roles in V for Vendetta, Thor, and Annihilation."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy. She has since appeared in a wide variety of films, from drama and comedy to science fiction and action. Some of her most notable roles include the lead in the psychological thriller Black Swan, for which she won an Academy Award, and roles in V for Vendetta, Thor, and Annihilation.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy. She has since appeared in a wide variety of films, from drama and comedy to science fiction and action. Some of her most notable roles include the lead in the psychological thriller Black Swan, for which she won an Academy Award, and roles in V for Vendetta, Thor, and Annihilation.",
+      "sent_orig": "In addition to her work as an actress, Portman is also a filmmaker.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to her work as an actress, Portman is also a filmmaker."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy. She has since appeared in a wide variety of films, from drama and comedy to science fiction and action. Some of her most notable roles include the lead in the psychological thriller Black Swan, for which she won an Academy Award, and roles in V for Vendetta, Thor, and Annihilation. In addition to her work as an actress, Portman is also a filmmaker.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy. She has since appeared in a wide variety of films, from drama and comedy to science fiction and action. Some of her most notable roles include the lead in the psychological thriller Black Swan, for which she won an Academy Award, and roles in V for Vendetta, Thor, and Annihilation. In addition to her work as an actress, Portman is also a filmmaker.",
+      "sent_orig": "She has directed several short films and the 2015 feature film A Tale of Love and Darkness, based on the memoir by Israeli author Amos Oz.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "She has directed several short films and the 2015 feature film A Tale of Love and Darkness, based on the memoir by Israeli author Amos Oz."
+    },
+    {
+      "prefix_original": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy. She has since appeared in a wide variety of films, from drama and comedy to science fiction and action. Some of her most notable roles include the lead in the psychological thriller Black Swan, for which she won an Academy Award, and roles in V for Vendetta, Thor, and Annihilation. In addition to her work as an actress, Portman is also a filmmaker. She has directed several short films and the 2015 feature film A Tale of Love and Darkness, based on the memoir by Israeli author Amos Oz.",
+      "prefix_new": "Natalie Portman is an Israeli-American actress and filmmaker. Born in Israel in 1981, Portman moved with her family to the United States when she was three years old. As a child, she began acting in community theater, and later attended the prestigious Performing Arts High School in New York City. Portman's breakout role came in 1999, when she played Padm\u00e9 Amidala in the Star Wars prequel trilogy. She has since appeared in a wide variety of films, from drama and comedy to science fiction and action. Some of her most notable roles include the lead in the psychological thriller Black Swan, for which she won an Academy Award, and roles in V for Vendetta, Thor, and Annihilation. In addition to her work as an actress, Portman is also a filmmaker. She has directed several short films and the 2015 feature film A Tale of Love and Darkness, based on the memoir by Israeli author Amos Oz.",
+      "sent_orig": "Portman is also known for her activism, particularly in support of animal rights, environmental causes, and women's rights.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Portman is also known for her activism, particularly in support of animal rights, environmental causes, and women's rights."
+    }
+  ]
+}

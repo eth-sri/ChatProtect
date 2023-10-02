@@ -1,0 +1,95 @@
+{
+  "prompt": "Please tell me about prince albert of saxe-altenburg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom.",
+      "sent_orig": "He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg.",
+      "sent_orig": "In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom.",
+      "sent_orig": "During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country.",
+      "sent_orig": "He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "helped organize",
+            "the Great Exhibition of 1851,"
+          ],
+          "He helped organize the Great Exhibition of 1851, which was a showcase of British industry and culture.",
+          "He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world."
+        ]
+      ],
+      "sent_new": "He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world.",
+      "sent_orig": "He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world. He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world. He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts.",
+      "sent_orig": "Albert was also involved in politics and often advised Victoria on matters of state.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Albert was also involved in politics and often advised Victoria on matters of state."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world. He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts. Albert was also involved in politics and often advised Victoria on matters of state.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world. He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts. Albert was also involved in politics and often advised Victoria on matters of state.",
+      "sent_orig": "He was a strong advocate for the abolition of slavery and worked behind the scenes to support the cause.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a strong advocate for the abolition of slavery and worked behind the scenes to support the cause."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world. He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts. Albert was also involved in politics and often advised Victoria on matters of state. He was a strong advocate for the abolition of slavery and worked behind the scenes to support the cause.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world. He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts. Albert was also involved in politics and often advised Victoria on matters of state. He was a strong advocate for the abolition of slavery and worked behind the scenes to support the cause.",
+      "sent_orig": "Despite his numerous contributions to British society, Albert faced criticism from some quarters for his German background and influence over the Queen.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Despite his numerous contributions to British society, Albert faced criticism from some quarters for his German background and influence over the Queen."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world. He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts. Albert was also involved in politics and often advised Victoria on matters of state. He was a strong advocate for the abolition of slavery and worked behind the scenes to support the cause. Despite his numerous contributions to British society, Albert faced criticism from some quarters for his German background and influence over the Queen.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1819-1902) was a German prince who was the husband of Queen Victoria of the United Kingdom. He was born in Germany and was the second son of Duke Joseph of Saxe-Altenburg. In 1840, he married Queen Victoria, making him the Prince Consort of the United Kingdom. During his time as Prince Consort, Albert was highly involved in the cultural and scientific development of the country. He helped organize the Great Exhibition of 1851, which showcased the best in industry, technology, and culture from around the world. He also helped to found the Victoria and Albert Museum, which is dedicated to the decorative arts. Albert was also involved in politics and often advised Victoria on matters of state. He was a strong advocate for the abolition of slavery and worked behind the scenes to support the cause. Despite his numerous contributions to British society, Albert faced criticism from some quarters for his German background and influence over the Queen.",
+      "sent_orig": "He died in 1861 at the age of 42, leaving behind a widow who was devastated by his loss.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He died in 1861 at the age of 42, leaving behind a widow who was devastated by his loss."
+    }
+  ]
+}

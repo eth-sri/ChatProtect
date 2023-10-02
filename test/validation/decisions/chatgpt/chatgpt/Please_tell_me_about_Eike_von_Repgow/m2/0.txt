@@ -1,0 +1,87 @@
+{
+  "prompt": "Please tell me about Eike von Repgow",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries."
+    },
+    {
+      "prefix_original": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries.",
+      "prefix_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries.",
+      "sent_orig": "It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law."
+    },
+    {
+      "prefix_original": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law.",
+      "prefix_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law.",
+      "sent_orig": "The work was written in Middle Low German, which was the language of the common people at the time.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The work was written in Middle Low German, which was the language of the common people at the time."
+    },
+    {
+      "prefix_original": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time.",
+      "prefix_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time.",
+      "sent_orig": "Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg, in the early 13th century.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Eike von Repgow",
+            "is believed to have been born",
+            "in the town of Repgow, near Magdeburg, in the early 13th century."
+          ],
+          "Eike von Repgow is believed to have been born in the late 12th century.",
+          "Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg."
+        ]
+      ],
+      "sent_new": "Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg."
+    },
+    {
+      "prefix_original": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg, in the early 13th century.",
+      "prefix_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg.",
+      "sent_orig": "He was a member of the local nobility and had a good education, which included training in law.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a member of the local nobility and had a good education, which included training in law."
+    },
+    {
+      "prefix_original": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg, in the early 13th century. He was a member of the local nobility and had a good education, which included training in law.",
+      "prefix_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg. He was a member of the local nobility and had a good education, which included training in law.",
+      "sent_orig": "He is thought to have written the \"Sachsenspiegel\" between 1220 and 1235, with the help of other legal scholars.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He is thought to have written the \"Sachsenspiegel\" between 1220 and 1235, with the help of other legal scholars."
+    },
+    {
+      "prefix_original": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg, in the early 13th century. He was a member of the local nobility and had a good education, which included training in law. He is thought to have written the \"Sachsenspiegel\" between 1220 and 1235, with the help of other legal scholars.",
+      "prefix_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg. He was a member of the local nobility and had a good education, which included training in law. He is thought to have written the \"Sachsenspiegel\" between 1220 and 1235, with the help of other legal scholars.",
+      "sent_orig": "The \"Sachsenspiegel\" was widely used in Germany for centuries and had a significant influence on the development of German law.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The \"Sachsenspiegel\" was widely used in Germany for centuries and had a significant influence on the development of German law."
+    },
+    {
+      "prefix_original": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg, in the early 13th century. He was a member of the local nobility and had a good education, which included training in law. He is thought to have written the \"Sachsenspiegel\" between 1220 and 1235, with the help of other legal scholars. The \"Sachsenspiegel\" was widely used in Germany for centuries and had a significant influence on the development of German law.",
+      "prefix_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg. He was a member of the local nobility and had a good education, which included training in law. He is thought to have written the \"Sachsenspiegel\" between 1220 and 1235, with the help of other legal scholars. The \"Sachsenspiegel\" was widely used in Germany for centuries and had a significant influence on the development of German law.",
+      "sent_orig": "It was also translated into other languages, including Dutch and Danish.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was also translated into other languages, including Dutch and Danish."
+    },
+    {
+      "prefix_original": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg, in the early 13th century. He was a member of the local nobility and had a good education, which included training in law. He is thought to have written the \"Sachsenspiegel\" between 1220 and 1235, with the help of other legal scholars. The \"Sachsenspiegel\" was widely used in Germany for centuries and had a significant influence on the development of German law. It was also translated into other languages, including Dutch and Danish.",
+      "prefix_new": "The \"Sachsenspiegel\" is a collection of laws and customs that were in use in the Saxony region of Germany during the 12th and 13th centuries. It covers a wide range of topics, including property rights, inheritance, marriage, and criminal law. The work was written in Middle Low German, which was the language of the common people at the time. Eike von Repgow is believed to have been born in the town of Repgow, near Magdeburg. He was a member of the local nobility and had a good education, which included training in law. He is thought to have written the \"Sachsenspiegel\" between 1220 and 1235, with the help of other legal scholars. The \"Sachsenspiegel\" was widely used in Germany for centuries and had a significant influence on the development of German law. It was also translated into other languages, including Dutch and Danish.",
+      "sent_orig": "Today, it is considered an important historical document and is still studied by legal scholars and historians.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, it is considered an important historical document and is still studied by legal scholars and historians."
+    }
+  ]
+}

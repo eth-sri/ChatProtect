@@ -1,0 +1,76 @@
+{
+  "prompt": "Please tell me about Bailey\u2013Thompson House",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state.",
+      "prefix_new": "",
+      "sent_orig": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state. The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns.",
+      "prefix_new": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns.",
+      "sent_orig": "The windows are adorned with pediments and shutters.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The windows are adorned with pediments and shutters."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state. The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters.",
+      "prefix_new": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters.",
+      "sent_orig": "The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state. The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels.",
+      "prefix_new": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels.",
+      "sent_orig": "Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state. The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels. Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house.",
+      "prefix_new": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels. Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house.",
+      "sent_orig": "Today, the Bailey-Thompson House is listed on the National Register of Historic Places and is open to the public as a museum.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Today, the Bailey-Thompson House is listed on the National Register of Historic Places and is open to the public as a museum."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state. The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels. Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house. Today, the Bailey-Thompson House is listed on the National Register of Historic Places and is open to the public as a museum.",
+      "prefix_new": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels. Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house. Today, the Bailey-Thompson House is listed on the National Register of Historic Places and is open to the public as a museum.",
+      "sent_orig": "It is operated by the Quitman Historic Preservation Society and offers tours of the house and its gardens.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It is operated by the Quitman Historic Preservation Society and offers tours of the house and its gardens."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state. The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels. Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house. Today, the Bailey-Thompson House is listed on the National Register of Historic Places and is open to the public as a museum. It is operated by the Quitman Historic Preservation Society and offers tours of the house and its gardens.",
+      "prefix_new": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels. Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house. Today, the Bailey-Thompson House is listed on the National Register of Historic Places and is open to the public as a museum. It is operated by the Quitman Historic Preservation Society and offers tours of the house and its gardens.",
+      "sent_orig": "The house is also available for events such as weddings and corporate functions.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The house is also available for events such as weddings and corporate functions."
+    },
+    {
+      "prefix_original": "Bailey-Thompson House was built in 1852 by Dr. William H. Bailey, a prominent local physician, and is considered one of the finest examples of Greek Revival architecture in the state. The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels. Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house. Today, the Bailey-Thompson House is listed on the National Register of Historic Places and is open to the public as a museum. It is operated by the Quitman Historic Preservation Society and offers tours of the house and its gardens. The house is also available for events such as weddings and corporate functions.",
+      "prefix_new": "The house is characterized by its symmetrical fa\u00e7ade, which features a grand portico with four Doric columns. The windows are adorned with pediments and shutters. The interior features a central hallway with a sweeping staircase, and the rooms are decorated with elaborate moldings and mantels. Thompson made significant changes to the property, including adding a carriage house and a large Victorian-style addition to the rear of the house. Today, the Bailey-Thompson House is listed on the National Register of Historic Places and is open to the public as a museum. It is operated by the Quitman Historic Preservation Society and offers tours of the house and its gardens. The house is also available for events such as weddings and corporate functions.",
+      "sent_orig": "Overall, the Bailey-Thompson House is an important historic resource that provides insight into the lives of the wealthy elite in the antebellum South, and its preservation and restoration serve as a testament to the region's rich cultural heritage.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the Bailey-Thompson House is an important historic resource that provides insight into the lives of the wealthy elite in the antebellum South, and its preservation and restoration serve as a testament to the region's rich cultural heritage."
+    }
+  ]
+}

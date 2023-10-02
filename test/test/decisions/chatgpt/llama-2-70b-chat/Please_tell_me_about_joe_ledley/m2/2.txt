@@ -1,0 +1,65 @@
+{
+  "prompt": "Please tell me about joe ledley",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": " Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "a Welsh professional footballer",
+            "plays",
+            "as a central midfielder for Crystal Palace and the Wales national team."
+          ],
+          " Joe Ledley plays for Championship club Cardiff City.",
+          "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team."
+        ]
+      ],
+      "sent_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team."
+    },
+    {
+      "prefix_original": " Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team.",
+      "sent_orig": "Born on January 23, 1987, in Cardiff, Wales, Ledley began his career with Cardiff City before joining Celtic in 2010.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Ledley",
+            "began",
+            ""
+          ],
+          " Joe Ledley began his professional career with Cardiff City in 2008.",
+          "Ledley began his career with Cardiff City before joining Celtic in 2010."
+        ]
+      ],
+      "sent_new": "Ledley began his career with Cardiff City before joining Celtic in 2010."
+    },
+    {
+      "prefix_original": " Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, Ledley began his career with Cardiff City before joining Celtic in 2010.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team. Ledley began his career with Cardiff City before joining Celtic in 2010.",
+      "sent_orig": "He has since established himself as a key player for both club and country, known for his tireless work rate, excellent passing ability, and goalscoring threat from midfield.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has since established himself as a key player for both club and country, known for his tireless work rate, excellent passing ability, and goalscoring threat from midfield."
+    },
+    {
+      "prefix_original": " Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, Ledley began his career with Cardiff City before joining Celtic in 2010. He has since established himself as a key player for both club and country, known for his tireless work rate, excellent passing ability, and goalscoring threat from midfield.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team. Ledley began his career with Cardiff City before joining Celtic in 2010. He has since established himself as a key player for both club and country, known for his tireless work rate, excellent passing ability, and goalscoring threat from midfield.",
+      "sent_orig": "Ledley has earned over 70 caps for Wales, scoring 10 goals, and was a member of the team that reached the semifinals of UEFA Euro 2016.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Ledley has earned over 70 caps for Wales, scoring 10 goals, and was a member of the team that reached the semifinals of UEFA Euro 2016."
+    },
+    {
+      "prefix_original": " Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team. Born on January 23, 1987, in Cardiff, Wales, Ledley began his career with Cardiff City before joining Celtic in 2010. He has since established himself as a key player for both club and country, known for his tireless work rate, excellent passing ability, and goalscoring threat from midfield. Ledley has earned over 70 caps for Wales, scoring 10 goals, and was a member of the team that reached the semifinals of UEFA Euro 2016.",
+      "prefix_new": "Joe Ledley is a Welsh professional footballer who plays as a central midfielder for Crystal Palace and the Wales national team. Ledley began his career with Cardiff City before joining Celtic in 2010. He has since established himself as a key player for both club and country, known for his tireless work rate, excellent passing ability, and goalscoring threat from midfield. Ledley has earned over 70 caps for Wales, scoring 10 goals, and was a member of the team that reached the semifinals of UEFA Euro 2016.",
+      "sent_orig": "He has also won multiple honors at the club level, including two Scottish Premiership titles and a Scottish Cup with Celtic.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He has also won multiple honors at the club level, including two Scottish Premiership titles and a Scottish Cup with Celtic."
+    }
+  ]
+}

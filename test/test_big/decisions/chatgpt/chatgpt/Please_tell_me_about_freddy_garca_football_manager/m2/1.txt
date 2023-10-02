@@ -1,0 +1,39 @@
+{
+  "prompt": "Please tell me about freddy garc\u00eda (football manager)",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Unfortunately, as an AI language model, I do not have information on a person named Freddy Garc\u00eda who is a football manager.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Freddy Garc\u00eda",
+            "is",
+            "a football manager."
+          ],
+          "Freddy Garc\u00eda is a football manager.",
+          "I do not have information on a person named Freddy Garc\u00eda who is a football manager."
+        ]
+      ],
+      "sent_new": "I do not have information on a person named Freddy Garc\u00eda who is a football manager."
+    },
+    {
+      "prefix_original": "Unfortunately, as an AI language model, I do not have information on a person named Freddy Garc\u00eda who is a football manager.",
+      "prefix_new": "I do not have information on a person named Freddy Garc\u00eda who is a football manager.",
+      "sent_orig": "There could be multiple individuals with this name, and without further details, I cannot provide any details or information that could be helpful.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "There could be multiple individuals with this name, and without further details, I cannot provide any details or information that could be helpful."
+    },
+    {
+      "prefix_original": "Unfortunately, as an AI language model, I do not have information on a person named Freddy Garc\u00eda who is a football manager. There could be multiple individuals with this name, and without further details, I cannot provide any details or information that could be helpful.",
+      "prefix_new": "I do not have information on a person named Freddy Garc\u00eda who is a football manager. There could be multiple individuals with this name, and without further details, I cannot provide any details or information that could be helpful.",
+      "sent_orig": "Please provide me with more context, and I would love to help you out.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Please provide me with more context, and I would love to help you out."
+    }
+  ]
+}

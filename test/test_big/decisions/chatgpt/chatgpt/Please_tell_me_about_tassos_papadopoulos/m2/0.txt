@@ -1,0 +1,89 @@
+{
+  "prompt": "Please tell me about tassos papadopoulos",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008.",
+      "prefix_new": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008.",
+      "sent_orig": "He was born in the city of Nicosia and studied law in the UK.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "He",
+            "was born studied",
+            "law in the UK."
+          ],
+          "He was born and studied law in Nicosia, Cyprus.",
+          "Tassos Papadopoulos studied law in the UK."
+        ]
+      ],
+      "sent_new": "Tassos Papadopoulos studied law in the UK."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. He was born in the city of Nicosia and studied law in the UK.",
+      "prefix_new": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. Tassos Papadopoulos studied law in the UK.",
+      "sent_orig": "He played an important role in the independence struggle of Cyprus from British colonial rule.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He played an important role in the independence struggle of Cyprus from British colonial rule."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. He was born in the city of Nicosia and studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule.",
+      "prefix_new": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. Tassos Papadopoulos studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule.",
+      "sent_orig": "Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. He was born in the city of Nicosia and studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule. Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election.",
+      "prefix_new": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. Tassos Papadopoulos studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule. Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election.",
+      "sent_orig": "During his presidency, he took a tough stance on the country's negotiations with the Turkish Cypriot community, believing that a solution to the Cyprus problem must respect the Greek-Cypriot majority.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "During his presidency, he took a tough stance on the country's negotiations with the Turkish Cypriot community, believing that a solution to the Cyprus problem must respect the Greek-Cypriot majority."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. He was born in the city of Nicosia and studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule. Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election. During his presidency, he took a tough stance on the country's negotiations with the Turkish Cypriot community, believing that a solution to the Cyprus problem must respect the Greek-Cypriot majority.",
+      "prefix_new": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. Tassos Papadopoulos studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule. Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election. During his presidency, he took a tough stance on the country's negotiations with the Turkish Cypriot community, believing that a solution to the Cyprus problem must respect the Greek-Cypriot majority.",
+      "sent_orig": "He was also known for his efforts to strengthen Cyprus' economy, reduce unemployment, and promote sustainable development.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was also known for his efforts to strengthen Cyprus' economy, reduce unemployment, and promote sustainable development."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. He was born in the city of Nicosia and studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule. Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election. During his presidency, he took a tough stance on the country's negotiations with the Turkish Cypriot community, believing that a solution to the Cyprus problem must respect the Greek-Cypriot majority. He was also known for his efforts to strengthen Cyprus' economy, reduce unemployment, and promote sustainable development.",
+      "prefix_new": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. Tassos Papadopoulos studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule. Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election. During his presidency, he took a tough stance on the country's negotiations with the Turkish Cypriot community, believing that a solution to the Cyprus problem must respect the Greek-Cypriot majority. He was also known for his efforts to strengthen Cyprus' economy, reduce unemployment, and promote sustainable development.",
+      "sent_orig": "However, Papadopoulos was criticized for his handling of the 2003 Pan-European Games, which was hosted in Cyprus and incurred significant financial losses.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "for his handling of the 2003 Pan-European Games,",
+            "was hosted",
+            ""
+          ],
+          "Tassos Papadopoulos was also praised for his handling of the 2003 Pan-European Games, which were hosted in Cyprus during his presidency.",
+          "Papadopoulos was criticized for his handling of the 2003 Pan-European Games, which incurred significant financial losses."
+        ]
+      ],
+      "sent_new": "Papadopoulos was criticized for his handling of the 2003 Pan-European Games, which incurred significant financial losses."
+    },
+    {
+      "prefix_original": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. He was born in the city of Nicosia and studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule. Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election. During his presidency, he took a tough stance on the country's negotiations with the Turkish Cypriot community, believing that a solution to the Cyprus problem must respect the Greek-Cypriot majority. He was also known for his efforts to strengthen Cyprus' economy, reduce unemployment, and promote sustainable development. However, Papadopoulos was criticized for his handling of the 2003 Pan-European Games, which was hosted in Cyprus and incurred significant financial losses.",
+      "prefix_new": "Tassos Papadopoulos (1934-2008) was a Cypriot politician who served as the President of Cyprus from 2003 to 2008. Tassos Papadopoulos studied law in the UK. He played an important role in the independence struggle of Cyprus from British colonial rule. Papadopoulos served as the President of the House of Representatives of Cyprus from 1996 to 2003 and became President of Cyprus in 2003 after winning a run-off election. During his presidency, he took a tough stance on the country's negotiations with the Turkish Cypriot community, believing that a solution to the Cyprus problem must respect the Greek-Cypriot majority. He was also known for his efforts to strengthen Cyprus' economy, reduce unemployment, and promote sustainable development. Papadopoulos was criticized for his handling of the 2003 Pan-European Games, which incurred significant financial losses.",
+      "sent_orig": "Papadopoulos died in 2008 due to lung cancer, leaving behind a legacy of a passionate proponent of a united and independent Cyprus.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Papadopoulos died in 2008 due to lung cancer, leaving behind a legacy of a passionate proponent of a united and independent Cyprus."
+    }
+  ]
+}

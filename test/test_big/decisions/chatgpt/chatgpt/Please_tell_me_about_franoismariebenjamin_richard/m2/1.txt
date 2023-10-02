@@ -1,0 +1,63 @@
+{
+  "prompt": "Please tell me about fran\u00e7ois-marie-benjamin richard",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Fran\u00e7ois-Marie-Benjamin Richard",
+            "was",
+            "a French inventor and mathematician"
+          ],
+          "Fran\u00e7ois-Marie-Benjamin Richard was a French painter.",
+          "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics."
+        ]
+      ],
+      "sent_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics.",
+      "sent_orig": "He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics. He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics. He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens.",
+      "sent_orig": "Richard also invented the piezometer, a device that measures pressure in fluids.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Richard also invented the piezometer, a device that measures pressure in fluids."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics. He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens. Richard also invented the piezometer, a device that measures pressure in fluids.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics. He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens. Richard also invented the piezometer, a device that measures pressure in fluids.",
+      "sent_orig": "He was a professor at the \u00c9cole Polytechnique in France, where he taught ballistics and artillery.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was a professor at the \u00c9cole Polytechnique in France, where he taught ballistics and artillery."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics. He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens. Richard also invented the piezometer, a device that measures pressure in fluids. He was a professor at the \u00c9cole Polytechnique in France, where he taught ballistics and artillery.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics. He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens. Richard also invented the piezometer, a device that measures pressure in fluids. He was a professor at the \u00c9cole Polytechnique in France, where he taught ballistics and artillery.",
+      "sent_orig": "In addition to his scientific work, Richard was a member of the French Academy of Sciences and received numerous awards for his contributions to science.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In addition to his scientific work, Richard was a member of the French Academy of Sciences and received numerous awards for his contributions to science."
+    },
+    {
+      "prefix_original": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics. He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens. Richard also invented the piezometer, a device that measures pressure in fluids. He was a professor at the \u00c9cole Polytechnique in France, where he taught ballistics and artillery. In addition to his scientific work, Richard was a member of the French Academy of Sciences and received numerous awards for his contributions to science.",
+      "prefix_new": "Fran\u00e7ois-Marie-Benjamin Richard (1819-1908) was a French inventor and mathematician known for his work in the field of ballistics. He was the first to develop the Richard chronograph, which calculated the velocity of a bullet by timing its passage between two screens. Richard also invented the piezometer, a device that measures pressure in fluids. He was a professor at the \u00c9cole Polytechnique in France, where he taught ballistics and artillery. In addition to his scientific work, Richard was a member of the French Academy of Sciences and received numerous awards for his contributions to science.",
+      "sent_orig": "He died in Paris in 1908.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He died in Paris in 1908."
+    }
+  ]
+}

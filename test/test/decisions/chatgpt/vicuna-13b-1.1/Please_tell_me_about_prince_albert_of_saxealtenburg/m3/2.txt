@@ -1,0 +1,46 @@
+{
+  "prompt": "Please tell me about prince albert of saxe-altenburg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "Prince Albert of Saxe-Altenburg (1843-1902) was a Prince of Saxe-Altenburg, a German duchy, and a member of the royal House of Wettin.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Prince Albert of Saxe-Altenburg (1843-1902) was a Prince of Saxe-Altenburg, a German duchy, and a member of the royal House of Wettin."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1843-1902) was a Prince of Saxe-Altenburg, a German duchy, and a member of the royal House of Wettin.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1843-1902) was a Prince of Saxe-Altenburg, a German duchy, and a member of the royal House of Wettin.",
+      "sent_orig": "He was known for his military career, in which he served as the General of the Infantry in the German Empire's army.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "He was known for his military career, in which he served as the General of the Infantry in the German Empire's army."
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1843-1902) was a Prince of Saxe-Altenburg, a German duchy, and a member of the royal House of Wettin. He was known for his military career, in which he served as the General of the Infantry in the German Empire's army.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1843-1902) was a Prince of Saxe-Altenburg, a German duchy, and a member of the royal House of Wettin. He was known for his military career, in which he served as the General of the Infantry in the German Empire's army.",
+      "sent_orig": "Prince Albert of Saxe-Altenburg was known for his role in the First World War, where he commanded the German Eighth Army on the Western Front.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "Prince Albert of Saxe-Altenburg (1843-1902) was a Prince of Saxe-Altenburg, a German duchy, and a member of the royal House of Wettin. He was known for his military career, in which he served as the General of the Infantry in the German Empire's army. Prince Albert of Saxe-Altenburg was known for his role in the First World War, where he commanded the German Eighth Army on the Western Front.",
+      "prefix_new": "Prince Albert of Saxe-Altenburg (1843-1902) was a Prince of Saxe-Altenburg, a German duchy, and a member of the royal House of Wettin. He was known for his military career, in which he served as the General of the Infantry in the German Empire's army.",
+      "sent_orig": "Prince Albert was killed in action during the war.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "Prince Albert",
+            "was killed",
+            "in action during the war."
+          ],
+          "He was killed in action during the Battle of the Marne in 1914.",
+          "Prince Albert was killed in action."
+        ]
+      ],
+      "sent_new": "Prince Albert was killed in action."
+    }
+  ]
+}

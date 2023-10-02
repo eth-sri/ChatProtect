@@ -1,0 +1,96 @@
+{
+  "prompt": "Please tell me about 2003 World Judo Championships - Men's 60 kg",
+  "decisions": [
+    {
+      "prefix_original": "",
+      "prefix_new": "",
+      "sent_orig": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan.",
+      "prefix_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan.",
+      "sent_orig": "The competition featured 53 judokas from 53 different countries, competing for the world championship title.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The competition",
+            "featured",
+            "53 judokas from 53 different countries,"
+          ],
+          "The competition featured judokas from 57 countries.",
+          "The competition featured 53 judokas competing for the world championship title."
+        ]
+      ],
+      "sent_new": "The competition featured 53 judokas competing for the world championship title."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas from 53 different countries, competing for the world championship title.",
+      "prefix_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas competing for the world championship title.",
+      "sent_orig": "The gold medal was won by Georgi Georgiev of Bulgaria, who defeated Hiroaki Hiraoka of Japan in the final.",
+      "decision": "drop",
+      "sent_new": ""
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas from 53 different countries, competing for the world championship title. The gold medal was won by Georgi Georgiev of Bulgaria, who defeated Hiroaki Hiraoka of Japan in the final.",
+      "prefix_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas competing for the world championship title.",
+      "sent_orig": "The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon.",
+      "decision": "redact",
+      "changes": [
+        [
+          [
+            "The bronze medals",
+            "were awarded",
+            "to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon."
+          ],
+          "The bronze medals were awarded to Nestor Khergiani of Georgia and Ludwig Paischer of Austria.",
+          "The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon."
+        ]
+      ],
+      "sent_new": "The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas from 53 different countries, competing for the world championship title. The gold medal was won by Georgi Georgiev of Bulgaria, who defeated Hiroaki Hiraoka of Japan in the final. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon.",
+      "prefix_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas competing for the world championship title. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon.",
+      "sent_orig": "Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas from 53 different countries, competing for the world championship title. The gold medal was won by Georgi Georgiev of Bulgaria, who defeated Hiroaki Hiraoka of Japan in the final. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon. Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon.",
+      "prefix_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas competing for the world championship title. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon. Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon.",
+      "sent_orig": "In the final, he defeated Hiraoka, who was the top seed and a strong favorite to win the gold medal.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "In the final, he defeated Hiraoka, who was the top seed and a strong favorite to win the gold medal."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas from 53 different countries, competing for the world championship title. The gold medal was won by Georgi Georgiev of Bulgaria, who defeated Hiroaki Hiraoka of Japan in the final. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon. Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon. In the final, he defeated Hiraoka, who was the top seed and a strong favorite to win the gold medal.",
+      "prefix_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas competing for the world championship title. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon. Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon. In the final, he defeated Hiraoka, who was the top seed and a strong favorite to win the gold medal.",
+      "sent_orig": "The win was a significant achievement for Georgiev, who had previously won two bronze medals at the world championships, in 1999 and 2001.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "The win was a significant achievement for Georgiev, who had previously won two bronze medals at the world championships, in 1999 and 2001."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas from 53 different countries, competing for the world championship title. The gold medal was won by Georgi Georgiev of Bulgaria, who defeated Hiroaki Hiraoka of Japan in the final. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon. Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon. In the final, he defeated Hiraoka, who was the top seed and a strong favorite to win the gold medal. The win was a significant achievement for Georgiev, who had previously won two bronze medals at the world championships, in 1999 and 2001.",
+      "prefix_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas competing for the world championship title. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon. Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon. In the final, he defeated Hiraoka, who was the top seed and a strong favorite to win the gold medal. The win was a significant achievement for Georgiev, who had previously won two bronze medals at the world championships, in 1999 and 2001.",
+      "sent_orig": "It was also a historic moment for Bulgarian judo, as Georgiev became the first male judoka from his country to win a world championship gold medal.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "It was also a historic moment for Bulgarian judo, as Georgiev became the first male judoka from his country to win a world championship gold medal."
+    },
+    {
+      "prefix_original": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas from 53 different countries, competing for the world championship title. The gold medal was won by Georgi Georgiev of Bulgaria, who defeated Hiroaki Hiraoka of Japan in the final. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon. Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon. In the final, he defeated Hiraoka, who was the top seed and a strong favorite to win the gold medal. The win was a significant achievement for Georgiev, who had previously won two bronze medals at the world championships, in 1999 and 2001. It was also a historic moment for Bulgarian judo, as Georgiev became the first male judoka from his country to win a world championship gold medal.",
+      "prefix_new": "The 2003 World Judo Championships Men's 60 kg was held from September 12 to 14 in Osaka, Japan. The competition featured 53 judokas competing for the world championship title. The bronze medals were awarded to Choi Min-ho of South Korea and Tchoungui Eric of Cameroon. Georgiev, who was seeded third in the tournament, put on an impressive performance throughout the competition, winning all of his matches by ippon. In the final, he defeated Hiraoka, who was the top seed and a strong favorite to win the gold medal. The win was a significant achievement for Georgiev, who had previously won two bronze medals at the world championships, in 1999 and 2001. It was also a historic moment for Bulgarian judo, as Georgiev became the first male judoka from his country to win a world championship gold medal.",
+      "sent_orig": "Overall, the 2003 World Judo Championships Men's 60 kg was a highly competitive and exciting event, showcasing the skills and athleticism of some of the world's top judokas.",
+      "decision": "keep",
+      "changes": [],
+      "sent_new": "Overall, the 2003 World Judo Championships Men's 60 kg was a highly competitive and exciting event, showcasing the skills and athleticism of some of the world's top judokas."
+    }
+  ]
+}
