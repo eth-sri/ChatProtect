@@ -1,0 +1,19 @@
+{
+  "target": "What is Naval the capital of?",
+  "orig": "It is a city located in the state of Punjab, India.",
+  "alt": "It is a major port city in the state of New Jersey.",
+  "prefix": " Naval is not the capital of any country or territory.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is Naval the capital of?\" are contradictory. The first statement clearly states that Naval is not the capital of any country or territory, while the second and third statements provide conflicting information about its location. One states that it is located in the state of Punjab, India, while the other states that it is a major port city in the state of New Jersey. Since both statements cannot be true at the same time, they are contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Adore?",
+  "orig": "Adore is a subgenre of pop music that originated in the 2010s.",
+  "alt": "Adore is a subgenre of pop music that originated in the 1990s.",
+  "prefix": "",
+  "triple": [
+    [
+      "a subgenre of pop music",
+      "originated",
+      "in the 2010s."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is Adore? are contradictory. Statement 1 claims that Adore is a subgenre of pop music that originated in the 2010s, while Statement 2 claims that Adore is a subgenre of pop music that originated in the 1990s. These two statements cannot both be true at the same time, as they provide conflicting information about the origin of Adore."
+}

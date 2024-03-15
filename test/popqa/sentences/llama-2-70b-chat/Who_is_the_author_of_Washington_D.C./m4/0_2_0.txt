@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Washington, D.C.?",
+  "orig": "L'Enfant's plan for the city included a central park, a grid system of streets, and a variety of monuments and public buildings.",
+  "alt": "L'Enfant's plan included a grid system of streets and avenues, as well as a central public space known as the National Mall.",
+  "prefix": " Washington, D.C. is a city, not a book, so it doesn't have an author. It was designed by a French engineer and architect named Pierre Charles L'Enfant, who was commissioned by George Washington to plan the layout of the city in the late 18th century.",
+  "triple": [
+    [
+      "L'Enfant's plan",
+      "included",
+      "a central park, a grid system of streets, and a variety of monuments and public buildings."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Washington, D.C.? are not contradictory. While the city itself does not have an author, the first statement provides information about the person who designed the layout of the city, Pierre Charles L'Enfant. The second statement expands on L'Enfant's plan by providing specific details about the grid system of streets and avenues, as well as the central public space known as the National Mall. Both statements are consistent with the fact that L'Enfant was the designer of the city's layout."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Secret Diaries of Miss Miranda Cheever?",
+  "orig": "The author of The Secret Diaries of Miss Miranda Cheever is Julia London.",
+  "alt": "The author of The Secret Diaries of Miss Miranda Cheever is Julia Quinn.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Secret Diaries of Miss Miranda",
+      "is",
+      "Julia London."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Secret Diaries of Miss Miranda Cheever? are contradictory. \n\nStatement 1 claims that the author is Julia London, while statement 2 claims that the author is Julia Quinn. Since these are two different names, they cannot both be correct. Therefore, the statements contradict each other."
+}

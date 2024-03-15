@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Burning Man?",
+  "orig": "It is directed by a team of individuals who work together to plan and execute the event.",
+  "alt": "It is directed by a team of volunteers and staff, led by a CEO and a board of directors.",
+  "prefix": " Burning Man is a week-long annual event held in the Black Rock Desert in Nevada, USA, that celebrates art, music, self-expression, and community.",
+  "triple": [
+    [
+      "It",
+      "is directed",
+      "by a team of individuals"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Burning Man are not contradictory. Statement 1 acknowledges that the event is directed by a team of individuals, while Statement 2 provides more specific information about the composition of that team, including volunteers, staff, a CEO, and a board of directors. Both statements are consistent with the idea that Burning Man is not directed by a single individual, but rather by a group of people working together."
+}

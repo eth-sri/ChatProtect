@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Inside?",
+  "orig": "The album is a mix of rock, jazz, funk, and electronic music, and is often classified as jam band or experimental rock.",
+  "alt": "The album is a blend of rock, funk, and folk elements.",
+  "prefix": " Inside is a solo album by Mike Gordon, the bassist for the band Phish.",
+  "triple": [
+    [
+      "The album",
+      "is",
+      "a mix of rock, jazz, funk, and electronic music,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the genre of Inside are contradictory. Statement 1 includes jazz and electronic music as genres present in the album, while statement 2 does not mention jazz and instead includes folk elements. Additionally, statement 1 classifies the album as jam band or experimental rock, while statement 2 does not mention either of these genres."
+}

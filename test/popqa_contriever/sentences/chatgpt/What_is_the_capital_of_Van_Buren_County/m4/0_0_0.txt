@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Van Buren County?",
+  "orig": "The county seat of Van Buren County is Clinton.",
+  "alt": "The county seat of Van Buren County is Clinton.",
+  "prefix": "",
+  "triple": [
+    [
+      "The county seat of Van",
+      "is",
+      "Clinton."
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they do not directly answer the prompt. The prompt asks for the capital of Van Buren County, but the statements only provide information about the county seat, which is Clinton. While the county seat is often the location of the county government and considered the administrative center, it is not necessarily the same as the capital. Some states have designated capitals for their counties, while others do not. In the case of Van Buren County, it is unclear whether there is a designated capital or if Clinton serves as both the county seat and de facto capital."
+}

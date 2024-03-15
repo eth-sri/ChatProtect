@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Rusyn?",
+  "orig": "Rusyn is a minority language spoken in several countries, including Poland, Slovakia, Ukraine, and Russia.",
+  "alt": "Rusyn is a language spoken in Slovakia.",
+  "prefix": "",
+  "triple": [
+    [
+      "Rusyn",
+      "is",
+      "a minority language"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"In what country is Rusyn?\" are contradictory. \n\nStatement 1 suggests that Rusyn is spoken in several countries, including Poland, Slovakia, Ukraine, and Russia, while Statement 2 specifically mentions Slovakia as the country where Rusyn is spoken. Therefore, Statement 2 contradicts the broader claim made in Statement 1."
+}

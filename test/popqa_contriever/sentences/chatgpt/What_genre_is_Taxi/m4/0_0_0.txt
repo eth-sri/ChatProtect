@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Taxi?",
+  "orig": "Taxi is a video game, not a movie or a book, so it doesn't have a traditional genre classification.",
+  "alt": "Taxi is a video game that belongs to the racing genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "Taxi",
+      "is",
+      "a video game, not a movie or a book,"
+    ],
+    "compactie",
+    587
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Taxi? are contradictory. Statement 1 claims that Taxi doesn't have a traditional genre classification because it is a video game, while Statement 2 categorizes Taxi as a racing game."
+}

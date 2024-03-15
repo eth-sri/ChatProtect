@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Cocktail?",
+  "orig": "The screenwriter for Cocktail was Heywood Gould, who based his screenplay on his own book of the same name.",
+  "alt": "Heywood Gould based the screenplay on his book of the same name.",
+  "prefix": "",
+  "triple": [
+    [
+      "Heywood Gould,",
+      "based",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Cocktail are not contradictory. Both statements provide the same information that Heywood Gould was the screenwriter for the film and that he based his screenplay on his book of the same name. The only difference is that statement 2 is a more concise version of statement 1."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kabul?",
+  "orig": "Kabul is not a country, it is a city and the capital of Afghanistan.",
+  "alt": "Kabul is not a country, but rather the capital city of Afghanistan.",
+  "prefix": "",
+  "triple": [
+    [
+      "Kabul",
+      "is not",
+      "a country, it"
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements clarify that Kabul is not a country, but rather a city that serves as the capital of Afghanistan. They provide the same information in slightly different wording."
+}

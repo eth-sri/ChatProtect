@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Fascinating Rhythm?",
+  "orig": "It was written in 1924 and is one of Gershwin's most famous compositions.",
+  "alt": "It was written in 1924.",
+  "prefix": " The composer of Fascinating Rhythm is George Gershwin.",
+  "triple": [
+    [
+      "It",
+      "was written",
+      "in 1924"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Fascinating Rhythm are not contradictory. Both statements provide additional information about the composition and its composer, with statement 1 emphasizing its fame and statement 2 providing the specific year it was written."
+}

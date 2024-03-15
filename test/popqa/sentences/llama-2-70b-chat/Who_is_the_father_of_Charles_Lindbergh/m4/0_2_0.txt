@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Charles Lindbergh?",
+  "orig": "He was born in 1859 and died in 1924.",
+  "alt": "He was born in Stockholm, Sweden on March 20, 1859.",
+  "prefix": " Charles Lindbergh's father was Charles August Lindbergh, Sr. He was a Swedish immigrant who came to the United States in 1882 and became a successful businessman and politician.",
+  "triple": [
+    [
+      "He",
+      "was born",
+      "in 1859"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the father of Charles Lindbergh are not contradictory. Statement 1 provides information about his birth and death dates, while Statement 2 provides information about his birthplace. Both statements are consistent with the fact that Charles August Lindbergh, Sr. was the father of Charles Lindbergh."
+}

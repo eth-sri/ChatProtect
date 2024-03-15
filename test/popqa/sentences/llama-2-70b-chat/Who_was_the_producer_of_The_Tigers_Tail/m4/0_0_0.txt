@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Tiger's Tail?",
+  "orig": "The producer of The Tiger's Tail is not explicitly stated.",
+  "alt": "The producer of The Tiger's Tail is not explicitly stated.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of The Tiger's Tail",
+      "is not explicitly stated.",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. Both statements say that the producer of The Tiger's Tail is not explicitly stated, but they cannot both be true. If the producer is not explicitly stated, then there should only be one statement saying so. Therefore, the two statements contradict each other."
+}

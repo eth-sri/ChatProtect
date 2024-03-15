@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of \u00c8ve?",
+  "orig": "The composer of \u00c8ve is Jules Massenet.",
+  "alt": "The composer of \u00c8ve is Michel Legrand.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \u00c8ve",
+      "is",
+      "Jules Massenet."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of \u00c8ve? are contradictory. Statement 1 claims that Jules Massenet is the composer of \u00c8ve, while statement 2 claims that Michel Legrand is the composer of \u00c8ve. Since they are two different composers, the statements cannot both be true at the same time."
+}

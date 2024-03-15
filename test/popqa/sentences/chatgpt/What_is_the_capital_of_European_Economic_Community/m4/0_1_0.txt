@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of European Economic Community?",
+  "orig": "The EEC was established in 1957 and was replaced by the European Union (EU) in 1993.",
+  "alt": "The EEC was established by the Treaty of Rome in 1957.",
+  "prefix": " There is no capital of European Economic Community (EEC) as it no longer exists.",
+  "triple": [
+    [
+      "The EEC",
+      "was established",
+      "in 1957"
+    ],
+    "compactie",
+    496
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement explains that there is no capital of the EEC because it no longer exists. The second statement provides additional information about the establishment of the EEC, stating that it was established by the Treaty of Rome in 1957. The two statements do not address the same aspect of the prompt, so they are not contradictory."
+}

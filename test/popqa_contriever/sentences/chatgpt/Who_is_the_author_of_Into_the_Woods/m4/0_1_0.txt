@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Into the Woods?",
+  "orig": "However, the music and lyrics were written by Stephen Sondheim.",
+  "alt": "The music and lyrics of Into the Woods were written by Stephen Sondheim.",
+  "prefix": " The author of Into the Woods is James Lapine.",
+  "triple": [
+    [
+      "the music and lyrics",
+      "were written",
+      "by Stephen Sondheim."
+    ],
+    "compactie",
+    619
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Into the Woods are not contradictory. While James Lapine wrote the book for the musical, Stephen Sondheim wrote the music and lyrics. Therefore, both statements are correct and provide different information about the creative team behind the production."
+}

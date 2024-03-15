@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Pulp Fiction?",
+  "orig": "He not only wrote the screenplay but also directed the film and acted in it as well.",
+  "alt": "The film and acted as a major comeback for John Travolta's career.",
+  "prefix": " The screenwriter for Pulp Fiction was Quentin Tarantino.",
+  "triple": [
+    [
+      "the film and",
+      "acted",
+      "in it as well."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement provides information about the screenwriter and his multiple roles in the film, the second statement is about the impact of the film on John Travolta's career. Both statements are independent of each other and do not contradict the fact that Quentin Tarantino was the screenwriter for Pulp Fiction."
+}

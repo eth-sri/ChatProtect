@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Hotel?",
+  "orig": "The TV series \"Hotel\" was produced by Aaron Spelling and his production company Spelling-Goldberg Productions.",
+  "alt": "The TV series \"Hotel\" was produced by Aaron Spelling.",
+  "prefix": "",
+  "triple": [
+    [
+      "The TV series \"Hotel\"",
+      "was produced",
+      "by Aaron Spelling and his production company Spelling-Goldberg Productions."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Hotel are not contradictory. Both statements identify Aaron Spelling as the producer of the TV series \"Hotel.\" The only difference is that the first statement provides additional information about Spelling's production company, while the second statement only mentions Spelling himself. Therefore, both statements are consistent with each other and do not contradict each other."
+}

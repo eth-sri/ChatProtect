@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of I Miss You?",
+  "orig": "\"I Miss You\" is a song by American R&B singer Aaliyah.",
+  "alt": "I Miss You was composed by Luis Fonsi.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"I",
+      "Miss is",
+      "a song by American R&B singer Aaliyah."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"I Miss You\" are contradictory. Statement 1 states that the song was performed by Aaliyah, but does not mention the composer. Statement 2, on the other hand, claims that Luis Fonsi composed the song. Since the two statements provide different information about the composer of the song, they cannot both be true at the same time."
+}

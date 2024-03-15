@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Taxi?",
+  "orig": "It is a television show that features a group of characters who are taxi drivers working for a fictional taxi company in New York City.",
+  "alt": "It is a classic American sitcom that aired from 1978 to 1983.",
+  "prefix": " Taxi is a sitcom, which is a subgenre of comedy.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a television show"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Taxi? are not contradictory. Statement 1 provides a brief summary of the plot and setting of the show, while Statement 2 provides additional information about its history and popularity. Both statements are consistent with the initial assertion that Taxi is a sitcom."
+}

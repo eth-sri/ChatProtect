@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Chittenden County?",
+  "orig": "The capital of Chittenden County, Vermont is Burlington.",
+  "alt": "The capital of Chittenden County, Vermont, is Burlington.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Chittenden County, Vermont",
+      "is",
+      "Burlington."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. They both provide the same answer to the prompt and only differ in the use of a comma before the state name. The presence or absence of a comma does not change the fact that Burlington is the capital of Chittenden County."
+}

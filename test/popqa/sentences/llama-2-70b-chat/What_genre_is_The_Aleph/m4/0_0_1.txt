@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Aleph?",
+  "orig": "The Aleph is a short story written by Jorge Luis Borges, and it belongs to the genre of magical realism.",
+  "alt": "The Aleph is a short story written by Jorge Luis Borges.",
+  "prefix": "",
+  "triple": [
+    [
+      "a short story",
+      "written",
+      "by Jorge Luis Borges,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Aleph are not contradictory. Statement 1 provides a specific genre classification for the story, while Statement 2 simply identifies the work and does not make any claims about its genre. Therefore, both statements can coexist without contradiction."
+}

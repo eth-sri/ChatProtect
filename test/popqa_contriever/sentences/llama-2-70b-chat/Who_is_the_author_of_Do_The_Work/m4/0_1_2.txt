@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Do The Work?",
+  "orig": "It seems like you've provided information about Mark Forster, who is a different author, coach, and retired army officer.",
+  "alt": "The information about Mark Forster is that he is a British author best known for his books on time management.",
+  "prefix": " The author of \"Do The Work\" is Steven Pressfield.",
+  "triple": [
+    [
+      "information about Mark Forster,",
+      "is",
+      "a different author, coach, and retired army officer."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The first statement points out that the author mentioned in the beginning of the text is Mark Forster, while the second statement provides additional information about Mark Forster's background and expertise. However, the prompt asks about the author of \"Do The Work,\" which is Steven Pressfield, not Mark Forster. Therefore, the information provided in the text is incorrect and contradictory to the prompt."
+}

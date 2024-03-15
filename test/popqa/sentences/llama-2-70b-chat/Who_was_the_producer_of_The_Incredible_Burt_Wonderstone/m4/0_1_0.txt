@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Incredible Burt Wonderstone?",
+  "orig": "The movie was released in 2013 and was produced by Bender untertainment, a production company founded by Chris Bender.",
+  "alt": "The movie was released in 2013.",
+  "prefix": " The producer of The Incredible Burt Wonderstone was Chris Bender.",
+  "triple": [
+    [
+      "The movie",
+      "was released",
+      "in 2013"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Incredible Burt Wonderstone are not contradictory. Statement 1 provides additional information about Chris Bender, who founded the production company that produced the movie. Statement 2 simply states the year of the movie's release. Both statements are true and do not contradict each other."
+}

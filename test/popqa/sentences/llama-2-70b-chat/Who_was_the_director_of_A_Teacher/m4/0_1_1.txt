@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of A Teacher?",
+  "orig": "The film was produced by HBO and was released in 2020.",
+  "alt": "HBO released A Teacher in 2013.",
+  "prefix": " The director of A Teacher is not explicitly stated.",
+  "triple": [
+    [
+      "HBO",
+      "was released",
+      "in 2020."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of A Teacher? are contradictory. The first statement says that the director is not explicitly stated, while the second statement claims that HBO released the film in 2013. However, the film was actually released in 2020, as stated in the third sentence of the prompt. Therefore, the second statement is incorrect and contradicts the correct information provided in the prompt."
+}

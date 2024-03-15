@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Casino?",
+  "orig": "Pileggi had already written the book \"Casino: Love and Avarice in Las Vegas\" and wanted it published before the film version, but Scorsese persuaded him to release the book after the film.",
+  "alt": "It was published after the film's release.",
+  "prefix": " The screenwriter for the film \"Casino\" (1995) was Nicholas Pileggi and Martin Scorsese.",
+  "triple": [
+    [
+      "it",
+      "published",
+      "before the film version,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides additional information about Pileggi's involvement in the creation of the film and the book, while the second statement simply states when the book was published. Both statements are true and do not contradict each other."
+}

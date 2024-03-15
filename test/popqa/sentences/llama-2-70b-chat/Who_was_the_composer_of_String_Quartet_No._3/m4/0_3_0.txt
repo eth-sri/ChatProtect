@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of String Quartet No. 3?",
+  "orig": "Brahms wrote three string quartets, and his String Quartet No.",
+  "alt": "Brahms wrote the String Quartet No. 3 in B-flat major, Op. 67.",
+  "prefix": " The composer of String Quartet No. 3 is not explicitly stated in the information provided. However, based on the mention of the piece being composed in 1876 and the stylistic characteristics described, it is likely that the composer was Johannes Brahms.",
+  "triple": [
+    [
+      "Brahms",
+      "wrote",
+      "three string quartets,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of String Quartet No. 3 are not contradictory. Statement 1 provides information about Brahms' output of string quartets, while Statement 2 specifically identifies the key and opus number of the String Quartet No. 3 composed by Brahms. Both statements support the likelihood that Brahms was the composer of the String Quartet No. 3 mentioned in the text."
+}

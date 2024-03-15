@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Cable?",
+  "orig": "The passage only mentions that Cable has a wife and a daughter, and that the wife has a secret that she has kept hidden from her husband.",
+  "alt": "Cable has a devoted father who is described as an engineer on the railroad.",
+  "prefix": " The mother of Cable is not explicitly mentioned in the passage.",
+  "triple": [
+    [
+      "Cable",
+      "has",
+      "a wife and a daughter,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the mother of Cable? are not contradictory. Statement 1 correctly states that the mother of Cable is not explicitly mentioned in the passage, while Statement 2 correctly describes Cable's father as an engineer on the railroad. However, neither statement provides any information about the identity or whereabouts of Cable's mother."
+}

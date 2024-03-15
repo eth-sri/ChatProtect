@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ely?",
+  "orig": "Ely is a city located in the state of Minnesota in the United States.",
+  "alt": "Ely is in Cambridgeshire, England.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ely",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"In what country is Ely?\" are contradictory. \n\nStatement 1 claims that Ely is located in the state of Minnesota in the United States, while Statement 2 claims that Ely is in Cambridgeshire, England. These two statements cannot both be true at the same time, as Ely cannot be in two different countries simultaneously. Therefore, the statements contradict each other."
+}

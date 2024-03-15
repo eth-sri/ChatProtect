@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wizard in Wonderland?",
+  "orig": "He was a British author, mathematician, and photographer, and is best known for his children's books, including \"Alice's Adventures in Wonderland\" and its sequel \"Through the Looking-Glass\".",
+  "alt": "He was a mathematics lecturer at Oxford University.",
+  "prefix": " The author of \"The Wizard in Wonderland\" is Lewis Carroll, whose real name was Charles Lutwidge Dodgson.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "a"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"The Wizard in Wonderland\" are not contradictory. Statement 1 provides additional information about Lewis Carroll's career as a writer and mentions his most famous works, while Statement 2 provides information about his profession as a mathematics lecturer. Both statements are true and do not contradict each other."
+}

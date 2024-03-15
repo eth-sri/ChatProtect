@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Firm?",
+  "orig": "The genre of The Firm is legal thriller.",
+  "alt": "The genre of The Firm is a legal thriller.",
+  "prefix": "",
+  "triple": [
+    [
+      "The genre of The Firm",
+      "is",
+      "legal thriller."
+    ],
+    "compactie",
+    577
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Firm are not contradictory. They both identify the genre as a legal thriller, with the only difference being the inclusion or exclusion of the article \"a\"."
+}

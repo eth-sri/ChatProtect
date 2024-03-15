@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Episodes?",
+  "orig": "It is unclear which specific show or episodes the question is referring to.",
+  "alt": "I'm sorry, I cannot generate the next sentence without knowing the specific show or episodes the question is referring to. Please provide more context or a specific prompt.",
+  "prefix": " John Wells was the executive producer of \"ER\" season 15, and many other producers worked on the season as well.",
+  "triple": [
+    [
+      "specific show or episodes the question",
+      "is referring",
+      "to."
+    ],
+    "compactie",
+    648
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides general information about John Wells being the executive producer of \"ER\" season 15 and other producers working on the season. The second statement simply asks for more specific information or context about the show or episodes in question."
+}

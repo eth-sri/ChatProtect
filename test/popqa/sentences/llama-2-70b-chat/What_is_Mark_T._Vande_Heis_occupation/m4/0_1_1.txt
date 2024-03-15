@@ -1,0 +1,19 @@
+{
+  "target": "What is Mark T. Vande Hei's occupation?",
+  "orig": "He has spent over 197 days in space and has flown on two space shuttle missions, STS-116 and STS-129.",
+  "alt": "Mark T. Vande Hei has flown on four space missions.",
+  "prefix": " Mark T. Vande Hei is an American engineer and a retired NASA astronaut.",
+  "triple": [
+    [
+      "over 197 days in space",
+      "has flown",
+      "on two space shuttle missions, STS-116 and STS-129."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Mark T. Vande Hei's occupation are contradictory. The first statement mentions that he is a retired NASA astronaut who has flown on two space shuttle missions, while the second statement claims that he has flown on four space missions. Since the two statements provide conflicting information about the number of space missions he has flown on, they cannot both be true."
+}

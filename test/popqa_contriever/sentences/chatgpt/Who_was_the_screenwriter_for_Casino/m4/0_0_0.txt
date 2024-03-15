@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Casino?",
+  "orig": "The screenwriter for Casino was Nicholas Pileggi and Martin Scorsese.",
+  "alt": "The screenwriter for Casino was Nicholas Pileggi.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for Casino",
+      "was",
+      "Nicholas Pileggi and Martin Scorsese."
+    ],
+    "compactie",
+    596
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Casino are not contradictory. Both statements mention Nicholas Pileggi as the screenwriter for Casino, but statement 1 adds that Martin Scorsese also worked on the screenplay. Therefore, statement 1 provides more information than statement 2, but they both agree on the main point."
+}

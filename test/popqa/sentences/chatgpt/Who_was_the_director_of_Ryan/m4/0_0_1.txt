@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Ryan?",
+  "orig": "The director of Ryan, a short film produced by the United States government, was John J. Valadez.",
+  "alt": "The director of Ryan was Steven Spielberg.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of Ryan,",
+      "was",
+      "John J. Valadez."
+    ],
+    "compactie",
+    476
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the director of Ryan? are contradictory. \n\nStatement 1 claims that the director of Ryan was John J. Valadez, while Statement 2 claims that the director of Ryan was Steven Spielberg. Since they provide different names for the director, they cannot both be true at the same time. Therefore, the statements contradict each other."
+}

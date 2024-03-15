@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Restless?",
+  "orig": "The producer of the 2011 film \"Restless\" was pillow, milk, and windows.",
+  "alt": "The producer of the 2011 film \"Restless\" was Gus Van Sant.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2011 film \"Restless\"",
+      "was",
+      "pillow, milk, and windows."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Restless\" are contradictory. Statement 1 lists three unrelated items that have no connection to film production, while Statement 2 provides the correct answer that Gus Van Sant was the producer of the film. Therefore, the two statements cannot both be true."
+}

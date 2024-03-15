@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Doomwatch?",
+  "orig": "The text only mentions the actors and the production companies involved in the series and film adaptation.",
+  "alt": "The text only mentions the producer of the TV series, Tigon British Film Productions, but does not specify a director.",
+  "prefix": " The director of Doomwatch was not specifically mentioned in the provided text.",
+  "triple": [
+    [
+      "The text",
+      "only mentions",
+      "the actors and the production companies involved in the series and film adaptation."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both agree that the text does not provide information about the director of Doomwatch. While statement 1 highlights that the text only mentions the actors and production companies, statement 2 adds that the producer of the TV series is mentioned but not the director. Both statements support the fact that the director of Doomwatch is not mentioned in the provided text."
+}

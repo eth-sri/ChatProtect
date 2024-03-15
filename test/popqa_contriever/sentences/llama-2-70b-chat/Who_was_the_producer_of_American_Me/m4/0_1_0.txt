@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of American Me?",
+  "orig": "He also directed the film and starred as the protagonist, Montoya Santana.",
+  "alt": "He directed and starred in the film as Montoya Santana.",
+  "prefix": " The producer of American Me was Edward James Olmos.",
+  "triple": [
+    [
+      "He",
+      "directed starred",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of American Me are not contradictory. Both statements correctly identify Edward James Olmos as the producer of the film. The only difference is that statement 2 combines the information that Olmos directed and starred in the film, while statement 1 separates those facts into two statements."
+}

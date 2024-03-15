@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Coventry City F.C. play?",
+  "orig": "is a professional football club based in Coventry, England.",
+  "alt": "based in Coventry, England. ol",
+  "prefix": " Coventry City F.C.",
+  "triple": [
+    [
+      "a professional football club",
+      "based",
+      "in Coventry, England."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about Coventry City F.C., with the first statement specifically answering the prompt by stating that the club plays professional football. The second statement simply adds that the club is based in Coventry, England."
+}

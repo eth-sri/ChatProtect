@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The River?",
+  "orig": "The text mentions that Carl Carmer wrote a well-received volume in the Rivers of America Series called \"The Hudson River\" in 1939, but it does not mention him as the author of \"The River.\"",
+  "alt": "Sure! Here is a possible next sentence:\n\na well-received volume in the Rivers of America Series, called \"The Hudson River.\"",
+  "prefix": " The author of \"The River\" is not specified in the text.",
+  "triple": [
+    [
+      "a well-received volume in the Rivers of America Series",
+      "called",
+      "\"The Hudson River\" in 1939,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of \"The River\" are not contradictory. The first statement clarifies that the text does not provide information about the author of \"The River.\" The second statement provides additional information about Carl Carmer's involvement in the Rivers of America Series, including his authorship of \"The Hudson River,\" but does not claim that he is the author of \"The River.\""
+}

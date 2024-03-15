@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Transit?",
+  "orig": "The Director of Public Transport was the head of the Public Transport Division (PTD) of the Victorian Department of Transport.",
+  "alt": "The Director of Public Transport was Susan Kuentz.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Director of Public Transport",
+      "was",
+      "the head of the Public Transport Division"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Transit? are not contradictory, but only the first statement is relevant to answering the prompt. The second statement provides a specific name for the Director of Public Transport, but it is not necessary to answer the question."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Carnival of Souls?",
+  "orig": "It was first published in 2012 and is the first book in The Carnival of Souls series.",
+  "alt": "It was first published in 2000.",
+  "prefix": " Carnival of Souls is a novel written by Melissa Marr.",
+  "triple": [
+    [
+      "It",
+      "was first published",
+      "in 2012"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Carnival of Souls are contradictory. Statement 1 indicates that the novel was first published in 2012, while Statement 2 indicates that it was first published in 2000. Since the two statements provide different information about the publication date of the novel, they cannot both be true at the same time."
+}

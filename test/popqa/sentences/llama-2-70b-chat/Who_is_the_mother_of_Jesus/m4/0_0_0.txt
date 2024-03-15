@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Jesus?",
+  "orig": "The mother of Jesus is Mary.",
+  "alt": "The mother of Jesus is Mary.",
+  "prefix": "",
+  "triple": [
+    [
+      "The mother of Jesus",
+      "is",
+      "Mary."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. While they both answer the prompt correctly, they are identical and do not provide any additional information or clarification. Therefore, they cannot both be true if they are the same statement."
+}

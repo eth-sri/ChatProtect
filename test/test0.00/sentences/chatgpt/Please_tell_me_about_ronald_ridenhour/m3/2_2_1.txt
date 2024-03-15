@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about ronald ridenhour",
+  "orig": "Ridenhour was not present at the massacre, but he heard about it from fellow soldiers who had been involved.",
+  "alt": "Ridenhour heard rumors about the massacre from fellow soldiers who had been involved.",
+  "prefix": " Ronald Ridenhour was an American soldier who served in the Vietnam War. He is best known for his role in exposing the My Lai Massacre, a war crime committed by US soldiers in which hundreds of unarmed Vietnamese civilians were killed.",
+  "triple": [
+    [
+      "Ridenhour",
+      "heard had been involved.",
+      ""
+    ],
+    "compactie",
+    504
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Ronald Ridenhour are not contradictory, but they do have a slight difference in wording. Statement 1 states that Ridenhour heard about the My Lai Massacre from fellow soldiers who had been involved, while Statement 2 says that he heard rumors about it from fellow soldiers who had been involved. Both statements agree that Ridenhour was not present at the massacre, but Statement 1 implies that he heard about it directly from soldiers who were there, while Statement 2 suggests that he heard about it indirectly through rumors. Overall, both statements provide additional information about Ridenhour's role in exposing the My Lai Massacre."
+}

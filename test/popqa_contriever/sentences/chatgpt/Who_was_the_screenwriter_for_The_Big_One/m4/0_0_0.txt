@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Big One?",
+  "orig": "There are multiple films titled \"The Big One,\" so without further context it is unclear which \"The Big One\" the question is referring to.",
+  "alt": "He has written multiple films, titled \"Dave\", \"The American President\", \"The Big One\", and \"Charlie Wilson's War\".",
+  "prefix": "",
+  "triple": [
+    [
+      "multiple films",
+      "titled",
+      "\"The Big One,\""
+    ],
+    "compactie",
+    603
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement simply acknowledges that there are multiple films with the title \"The Big One,\" which could cause confusion without additional context. The second statement provides information about the screenwriter in question, including that they have written a film with that title, along with several others."
+}

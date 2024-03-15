@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Prince Lasha?",
+  "orig": "Prince Lasha was a jazz musician known for his contributions to the avant-garde jazz and free jazz movements, thus he is typically regarded as a jazz artist.",
+  "alt": "He is typically regarded as a jazz musician.",
+  "prefix": "",
+  "triple": [
+    [
+      "he",
+      "is typically regarded",
+      "as a jazz artist."
+    ],
+    "compactie",
+    475
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Prince Lasha are not contradictory. Both statements agree that Prince Lasha is typically regarded as a jazz musician. The first statement provides additional information about the specific sub-genres of jazz that he contributed to, but it does not contradict the second statement."
+}

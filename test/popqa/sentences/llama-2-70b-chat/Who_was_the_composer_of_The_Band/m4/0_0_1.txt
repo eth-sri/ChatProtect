@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Band?",
+  "orig": "The Band was a Canadian-American rock group that was formed in 1967.",
+  "alt": "The Canadian-American rock group was formed in 1965.",
+  "prefix": "",
+  "triple": [
+    [
+      "a Canadian-American rock group",
+      "was formed",
+      "in 1967."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but the first statement is more accurate. The Band was formed in 1967, not 1965 as stated in the second statement. However, neither statement directly answers the prompt about the composer of The Band."
+}

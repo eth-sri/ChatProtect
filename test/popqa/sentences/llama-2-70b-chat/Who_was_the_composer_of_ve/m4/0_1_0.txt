@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of \u00c8ve?",
+  "orig": "However, the opera was composed by Jules Massenet, a French composer known for his operas, oratorios, and orchestral works.",
+  "alt": "The opera was composed by Jules Massenet.",
+  "prefix": " The composer of \u00c8ve is not explicitly stated.",
+  "triple": [
+    [
+      "the opera",
+      "was composed",
+      "by Jules Massenet,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \u00c8ve are not contradictory. Both statements identify Jules Massenet as the composer of the opera, with the second statement being a more direct and concise answer to the prompt. The first statement simply provides additional information about Massenet's background and body of work."
+}

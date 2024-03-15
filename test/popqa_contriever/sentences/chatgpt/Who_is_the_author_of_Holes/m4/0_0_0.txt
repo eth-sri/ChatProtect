@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Holes?",
+  "orig": "Louis Sachar is the author of Holes.",
+  "alt": "Louis Sachar is an American author.",
+  "prefix": "",
+  "triple": [
+    [
+      "Louis Sachar",
+      "is",
+      "the author of Holes."
+    ],
+    "compactie",
+    597
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Holes are not contradictory. Statement 1 identifies Louis Sachar as the author of Holes, while Statement 2 provides additional information about Sachar's nationality, stating that he is an American author. These statements do not conflict with each other and can both be true at the same time."
+}

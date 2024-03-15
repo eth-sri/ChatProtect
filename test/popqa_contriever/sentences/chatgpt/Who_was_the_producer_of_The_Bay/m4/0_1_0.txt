@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Bay?",
+  "orig": "The 2012 found footage horror film was produced by Jason Blum and directed by Barry Levinson.",
+  "alt": "The 2012 found footage horror film \"The Bay\" was produced by Jason Blum and Oren Peli.",
+  "prefix": " Michael Bay was not the producer of \"The Bay.\"",
+  "triple": [
+    [
+      "The 2012 found footage horror film",
+      "was produced",
+      ""
+    ],
+    "compactie",
+    642
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that Michael Bay was not the producer of \"The Bay,\" while the second statement provides the correct information about who actually produced the film, which was Jason Blum and Oren Peli."
+}

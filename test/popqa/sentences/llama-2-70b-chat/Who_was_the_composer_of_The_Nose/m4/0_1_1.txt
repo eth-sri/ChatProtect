@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Nose?",
+  "orig": "The opera, which was completed in 1930, was based on a story by Nikolai Gogol and tells the tale of a man whose nose disappears and causes chaos in St. Petersburg society.",
+  "alt": "The opera was based on a story by Nikolai Gogol.",
+  "prefix": " The composer of The Nose, a satirical opera in three acts, was Dmitri Shostakovich.",
+  "triple": [
+    [
+      "The opera,",
+      "was based",
+      "on a story by Nikolai Gogol"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement identifies Dmitri Shostakovich as the composer of The Nose, while the second statement provides additional information about the opera's source material, which was a story by Nikolai Gogol. Both statements are true and do not conflict with each other."
+}

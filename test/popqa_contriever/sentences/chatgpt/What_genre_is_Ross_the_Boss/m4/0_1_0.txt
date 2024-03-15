@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Ross the Boss?",
+  "orig": "\"The Boss\" is a song by rapper Rick Ross.",
+  "alt": "\"The Boss\" is a hip-hop song by Rick Ross.",
+  "prefix": " Ross the Boss is not a genre of music.",
+  "triple": [
+    [
+      "\"The Boss\"",
+      "is",
+      "a song by rapper Rick Ross."
+    ],
+    "compactie",
+    606
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that \"Ross the Boss\" is not a genre of music, while the second statement specifies that \"The Boss\" is a hip-hop song by Rick Ross. The two statements provide different information and do not contradict each other."
+}

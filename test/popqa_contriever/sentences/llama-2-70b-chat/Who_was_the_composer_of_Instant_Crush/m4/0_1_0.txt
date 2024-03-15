@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Instant Crush?",
+  "orig": "Daft Punk is a French electronic music duo composed of Guy-Manuel de Homem-Christo and Thomas Bangalter.",
+  "alt": "Daft Punk is a French electronic music duo.",
+  "prefix": " The composer of Instant Crush was Daft Punk and Julian Casablancas.",
+  "triple": [
+    [
+      "Daft Punk",
+      "is",
+      "a French electronic music duo"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about Daft Punk, the composer of Instant Crush. Statement 1 specifies the names of the two members of the duo, while statement 2 simply identifies them as a French electronic music duo."
+}

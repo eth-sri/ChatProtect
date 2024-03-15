@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The American President?",
+  "orig": "If the question is referring to the presidential anthem, there is no specific piece by that title.",
+  "alt": "The question is referring to a piece called \"The President's March\" or \"Hail Columbia\".",
+  "prefix": " It is unclear which piece is referred to as \"The American President\". If the question is referring to the movie score, it was composed by Marc Shaiman.",
+  "triple": [
+    [
+      "the question",
+      "is referring",
+      "to the presidential anthem,"
+    ],
+    "compactie",
+    656
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of \"The American President\" are not contradictory. The first statement clarifies that if the question is referring to the movie score, it was composed by Marc Shaiman. The second statement provides information about a piece called \"The President's March\" or \"Hail Columbia\", which is sometimes referred to as the presidential anthem. Therefore, the two statements are providing information about different pieces and are not contradictory."
+}

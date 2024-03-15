@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Rocky?",
+  "orig": "The score for the movie Rocky (1976) was composed by Bill Conti.",
+  "alt": "The score for the movie Rocky was composed by Bill Conti.",
+  "prefix": "",
+  "triple": [
+    [
+      "The score for the movie Rocky",
+      "was composed",
+      "by Bill Conti."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory as they both provide the same answer to the prompt \"Who was the composer of Rocky?\". They simply differ in their wording."
+}

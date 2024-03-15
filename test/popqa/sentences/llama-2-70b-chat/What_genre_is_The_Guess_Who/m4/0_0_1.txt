@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Guess Who?",
+  "orig": "The Guess Who is a Canadian rock band that was formed in 1962.",
+  "alt": "The Guess Who was formed in Winnipeg, Manitoba in 1965.",
+  "prefix": "",
+  "triple": [
+    [
+      "a Canadian rock band",
+      "was formed",
+      "in 1962."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Guess Who do not provide any information that is contradictory. While the first statement provides the information that the band is a Canadian rock band formed in 1962, the second statement adds that the band was formed in Winnipeg, Manitoba in 1965. However, neither statement provides any information that contradicts the other or suggests a different genre for the band. Therefore, the statements are not contradictory."
+}

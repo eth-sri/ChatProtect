@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Amazing Mr Blunden?",
+  "orig": "Jeffries was a British actor, playwright, and director who was known for his work in the theatre and on screen.",
+  "alt": "Lionel Jeffries was a British actor, playwright, and screenwriter.",
+  "prefix": " The director of The Amazing Mr Blunden was Lionel Jeffries.",
+  "triple": [
+    [
+      "Jeffries",
+      "was",
+      "a British actor, playwright, and director"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Amazing Mr Blunden? are not contradictory. While statement 1 mentions Jeffries' work in both theatre and on screen, statement 2 specifies that he was also a screenwriter. However, both statements agree that Lionel Jeffries was the director of The Amazing Mr Blunden."
+}

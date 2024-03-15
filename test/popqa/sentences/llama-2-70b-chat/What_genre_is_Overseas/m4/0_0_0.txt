@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Overseas?",
+  "orig": "Overseas is a jazz album by the Pat Metheny Group, released in 1980.",
+  "alt": "Overseas is a rock band.",
+  "prefix": "",
+  "triple": [
+    [
+      "Overseas",
+      "is",
+      "a jazz album by the Pat Metheny Group,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is Overseas? are contradictory. \n\nStatement 1 identifies Overseas as a jazz album, while Statement 2 identifies it as a rock band. These two genres are distinct and different from each other, with jazz being characterized by improvisation, swing rhythms, and complex harmonies, while rock is characterized by amplified instruments, a strong beat, and often distorted guitar sounds. Therefore, it is not possible for Overseas to be both a jazz album and a rock band at the same time."
+}

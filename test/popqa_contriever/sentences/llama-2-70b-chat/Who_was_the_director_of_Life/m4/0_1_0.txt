@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Life?",
+  "orig": "The original script was written and narrated by David Attenborough, but the director's name was not mentioned.",
+  "alt": "The original script was written by David Attenborough.",
+  "prefix": " The director of the BBC series \"Life\" was not specified in the provided information.",
+  "triple": [
+    [
+      "The original script",
+      "was written",
+      "and narrated by David Attenborough,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While statement 1 acknowledges that the director was not specified in the provided information, statement 2 provides additional information about the involvement of David Attenborough in the series as the writer of the original script."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Perth?",
+  "orig": "Perth is a city located in the country of Australia.",
+  "alt": "Perth is in Australia.",
+  "prefix": "",
+  "triple": [
+    [
+      "Perth",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about \"In what country is Perth?\" are not contradictory. Both statements convey the same information that Perth is located in the country of Australia. The only difference is in the phrasing of the sentence. Statement 1 provides additional information that Perth is a city, while Statement 2 is a more concise way of stating the same fact. Therefore, both statements are consistent and not contradictory."
+}

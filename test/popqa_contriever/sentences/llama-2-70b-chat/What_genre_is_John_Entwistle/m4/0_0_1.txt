@@ -1,0 +1,19 @@
+{
+  "target": "What genre is John Entwistle?",
+  "orig": "John Entwistle was a rock musician, specifically a bass guitarist and singer, and was known for his work in the English rock band The Who.",
+  "alt": "was known for his work in the rock genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "a bass guitarist and singer,",
+      "was known",
+      "for his work in the English rock band The Who."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of John Entwistle are not contradictory. Both statements identify him as a rock musician, with statement 1 specifying that he was a bass guitarist and singer in The Who, and statement 2 simply stating that he was known for his work in the rock genre. Therefore, both statements are consistent with each other and provide complementary information about John Entwistle's musical career."
+}

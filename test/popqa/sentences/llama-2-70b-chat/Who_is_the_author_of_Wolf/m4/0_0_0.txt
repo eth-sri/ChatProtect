@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wolf?",
+  "orig": "The author of \"Wolf\" is not explicitly stated in the text.",
+  "alt": "The author of \"Wolf\" is not explicitly stated in the given prompt.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Wolf\"",
+      "is not explicitly stated",
+      "in the text."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement simply states that the author of \"Wolf\" is not explicitly stated in the text, while the second statement clarifies that the given prompt also does not explicitly state the author. Both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Pulaski County?",
+  "orig": "I'm not sure what you're referring to, as Pulaski County is a county in several different states, including Arkansas, Georgia, Illinois, Indiana, Kentucky, Missouri, New York, Tennessee, Texas, and Virginia.",
+  "alt": "Pulaski County is in the state of Arkansas.",
+  "prefix": "",
+  "triple": [
+    [
+      "Pulaski County",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that Pulaski County exists in multiple states and therefore the question is ambiguous. The second statement clarifies that the question is referring to Pulaski County in Arkansas and provides the answer to the question."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Journey?",
+  "orig": "The Journey was a video game developed by Thatgamecompany, an independent game development studio founded by Jenova Chen and Kellee Santiago in 2006.",
+  "alt": "The Journey was a critically acclaimed video game.",
+  "prefix": " The producer of The Journey was Thatgamecompany.",
+  "triple": [
+    [
+      "The Journey",
+      "was",
+      "a video game"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Journey are not contradictory. The first statement simply provides the answer to the prompt, while the second statement provides additional information about the game itself, specifically its critical reception. Both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Sugar?",
+  "orig": "The director of the film \"Sugar\" is Anna Boden and Ryan Fleck.",
+  "alt": "The director of the film \"Sugar\" is Anna Boden.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the film \"Sugar\"",
+      "is",
+      "Anna Boden and Ryan Fleck."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the director of Sugar? are contradictory. \n\nStatement 1 claims that the film \"Sugar\" was directed by both Anna Boden and Ryan Fleck, while Statement 2 claims that the film was directed solely by Anna Boden. These two statements cannot both be true at the same time, as they present different information about the director(s) of the film."
+}

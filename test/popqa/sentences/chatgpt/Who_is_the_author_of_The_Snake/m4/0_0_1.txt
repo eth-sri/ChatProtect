@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Snake?",
+  "orig": "The author of The Snake cannot be determined as there are multiple works, stories, and poems titled \"The Snake\" written by different authors.",
+  "alt": "The author of \"The Snake\" is D.H. Lawrence, who also wrote multiple works, stories, and poems titled \"Sons and Lovers,\" \"Lady Chatterley's Lover,\" and \"The Rainbow.\"",
+  "prefix": "",
+  "triple": [
+    [
+      "multiple works, stories, and poems",
+      "titled",
+      "\"The Snake\""
+    ],
+    "compactie",
+    515
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Snake? are contradictory. \n\nStatement 1 suggests that there are multiple authors who have written works titled \"The Snake,\" making it impossible to determine the specific author of the text in question. \n\nHowever, Statement 2 claims that the author of \"The Snake\" is D.H. Lawrence, which contradicts the idea that there are multiple authors who have written works with the same title. Therefore, the two statements cannot both be true at the same time."
+}

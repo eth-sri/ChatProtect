@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Rush?",
+  "orig": "They were fans of bands such as Led Zeppelin and Cream, and these influences can be heard throughout the album.",
+  "alt": "They were influenced by British rock bands such as Led Zeppelin and Cream.",
+  "prefix": " Rush is a Canadian rock band. Their debut album, released in 1974, shows a hard rock sound typical of many popular rock bands emerging in the decade.",
+  "triple": [
+    [
+      "They",
+      "were",
+      "fans of bands such as Led Zeppelin and Cream,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements explain that Rush was influenced by bands such as Led Zeppelin and Cream, which can be heard in their debut album's hard rock sound. The second statement specifically mentions British rock bands, but this does not contradict the first statement's explanation of Rush's influences."
+}

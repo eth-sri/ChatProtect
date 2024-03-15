@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Shock Treatment?",
+  "orig": "Adler was a well-known record producer and manager who worked with many successful artists in the 1960s and 1970s.",
+  "alt": "Lou Adler worked with many famous artists, including The Mamas & the Papas and Carole King.",
+  "prefix": " The producer of Shock Treatment was Lou Adler.",
+  "triple": [
+    [
+      "a well-known record producer and manager",
+      "worked",
+      "with many successful artists in the 1960s and 1970s."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the producer of Shock Treatment are not contradictory. Statement 1 provides additional information about Lou Adler's background and experience as a producer and manager, while Statement 2 gives examples of some of the famous artists he worked with. Both statements support the fact that Lou Adler was the producer of Shock Treatment."
+}

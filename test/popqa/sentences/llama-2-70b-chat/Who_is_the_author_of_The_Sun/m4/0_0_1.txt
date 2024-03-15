@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Sun?",
+  "orig": "The author of The Sun is not a specific person, but rather a team of journalists and editors who work together to create the newspaper's content.",
+  "alt": "The author of The Sun is not a specific person, but rather a team of journalists and writers who contribute to the newspaper.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Sun",
+      "is not",
+      "a specific person,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Sun are not contradictory. Both statements agree that the author of The Sun is not a specific person, but rather a team of individuals who work together to create the newspaper's content. The only difference between the two statements is the specific roles mentioned within the team, with one including editors and the other including writers. However, both statements convey the same overall message."
+}

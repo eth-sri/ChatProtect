@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Zeni Geva?",
+  "orig": "Zeni Geva is a Japanese noise rock band, and their music can be classified under several genres, including:\n\n1.",
+  "alt": "Their music can be classified as noise rock.",
+  "prefix": "",
+  "triple": [
+    [
+      "their music",
+      "can be classified",
+      "under several genres, including:"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Zeni Geva are not contradictory. Statement 1 acknowledges that the band's music can be classified under multiple genres, while statement 2 specifically identifies noise rock as one of those genres. Therefore, statement 2 is a subset of statement 1 and does not contradict it."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Aunt Jane's Nieces Abroad?",
+  "orig": "It was first published in 1906 and is considered one of the earliest examples of young adult literature.",
+  "alt": "It was first published in 1904.",
+  "prefix": " Aunt Jane's Nieces Abroad is a novel written by Edith van Dyne.",
+  "triple": [
+    [
+      "It",
+      "was first published",
+      "in 1906"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the publication date of Aunt Jane's Nieces Abroad are contradictory. Statement 1 claims that it was first published in 1906, while statement 2 claims that it was first published in 1904. Since they cannot both be true, one of the statements must be incorrect."
+}

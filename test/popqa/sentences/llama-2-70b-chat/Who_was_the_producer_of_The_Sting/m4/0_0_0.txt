@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Sting?",
+  "orig": "The producer of the 1973 film The Sting was Tony Bill.",
+  "alt": "The producer of the 1973 film \"The Sting\" was Julius J. Epstein.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 1973 film",
+      "was",
+      "Tony Bill."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about who was the producer of The Sting are contradictory. Statement 1 claims that Tony Bill was the producer, while statement 2 claims that Julius J. Epstein was the producer. These are two different individuals, and only one of them can be the actual producer of the film. Therefore, the statements cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Mark T. Vande Hei's occupation?",
+  "orig": "Mark T. Vande Hei is an American engineer and a retired NASA astronaut.",
+  "alt": "Mark T. Vande Hei is an astronaut.",
+  "prefix": "",
+  "triple": [
+    [
+      "Mark T. Vande Hei",
+      "is",
+      "an American engineer and a retired NASA astronaut."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Mark T. Vande Hei's occupation are not contradictory. Both statements correctly identify him as an astronaut, but the first statement provides additional information that he is also an engineer and has retired from NASA. Therefore, the two statements complement each other rather than contradicting each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Alice?",
+  "orig": "They were signed by Dimension Films in February 2002 to write the screenplay, and they announced the completion of the script in July 2003.",
+  "alt": "They were signed by Dimension Films in February 2002 to write the screenplay for the film adaptation.",
+  "prefix": " The screenwriters for the film adaptation of \"Alice\" were Jon and Erich Hoeber.",
+  "triple": [
+    [
+      "They",
+      "were signed",
+      "by Dimension Films in February 2002 to write the screenplay,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Alice\" are not contradictory. Both statements confirm that Jon and Erich Hoeber were signed by Dimension Films in February 2002 to write the screenplay for the film adaptation of \"Alice\". The second statement simply provides a more concise summary of the same information as the first statement, which also includes additional details about the Hoeber brothers announcing the completion of the script in July 2003."
+}

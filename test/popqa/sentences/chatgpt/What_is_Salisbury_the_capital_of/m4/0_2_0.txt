@@ -1,0 +1,19 @@
+{
+  "target": "What is Salisbury the capital of?",
+  "orig": "- Salisbury is the county seat of Wicomico County, Maryland in the United States, but it is not the capital of Maryland.",
+  "alt": "This question is ambiguous and can have multiple answers depending on the context. Here are some possibilities:\n\n- Salisbury is a cathedral city in Wiltshire, England.\n- Salisbury is a town in Maryland, United States.\n- Salisbury is a village in Litchfield County, Connecticut, United States.\n- Salisbury is a town in Herkimer County, New York, United States.",
+  "prefix": " This question is ambiguous and can have multiple answers depending on the context. Here are some possibilities:\n\n- Salisbury is the former name of Harare, the capital city of Zimbabwe.",
+  "triple": [
+    [
+      "Salisbury",
+      "is",
+      "the county seat of Wicomico County, Maryland in the United States,"
+    ],
+    "compactie",
+    570
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides one possible answer to the question, while the second statement acknowledges that there are multiple possible answers depending on the context. Both statements are correct and do not contradict each other."
+}

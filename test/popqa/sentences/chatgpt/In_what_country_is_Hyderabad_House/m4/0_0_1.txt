@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Hyderabad House?",
+  "orig": "Hyderabad House is a government guest house in India, located in New Delhi.",
+  "alt": "The government guest house in India, Hyderabad House, is located in New Delhi.",
+  "prefix": "",
+  "triple": [
+    [
+      "a government guest house in India,",
+      "located",
+      "in New Delhi."
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide the same information that Hyderabad House is a government guest house located in New Delhi, India. The only difference is the order of the information presented."
+}

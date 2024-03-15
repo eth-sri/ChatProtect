@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Philadelphia?",
+  "orig": "He was a film director, producer, and screenwriter who was known for his work on a variety of films, including Philadelphia, The Silence of the Lambs, and Rachel Getting Married.",
+  "alt": "He was a film director, producer, and screenwriter.",
+  "prefix": " The producer of the movie Philadelphia was Jonathan Demme.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "a film director, producer, and screenwriter"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Philadelphia are not contradictory. Both statements provide additional information about Jonathan Demme, the producer of the movie Philadelphia. Statement 1 lists some of the other films he worked on, while Statement 2 simply reiterates that he was a film director, producer, and screenwriter."
+}

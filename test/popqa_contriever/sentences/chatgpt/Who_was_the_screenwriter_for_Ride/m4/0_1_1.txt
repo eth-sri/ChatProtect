@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Ride?",
+  "orig": "However, Thomas Eidson is the author of \"The Last Ride\", which was adapted into the movie \"The Missing\".",
+  "alt": "The author of \"The Last Ride\", Thomas Eidson, was adapted for the screen by Ken Kaufman.",
+  "prefix": " There is no information provided about the screenwriter for \"Ride\".",
+  "triple": [
+    [
+      "the author of \"The Last Ride\",",
+      "was adapted",
+      ""
+    ],
+    "compactie",
+    617
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Ride\" are not contradictory. The first statement acknowledges that there is no information provided about the screenwriter, while the second statement clarifies that the author of the novel \"The Last Ride\", which was adapted into the movie \"The Missing\", was adapted for the screen by Ken Kaufman. Therefore, the two statements provide complementary information about the adaptation of the novel into a movie, without contradicting each other."
+}

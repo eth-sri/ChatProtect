@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Police?",
+  "orig": "The Police is a British rock band that was active from 1977 to 1986.",
+  "alt": "The Police is a rock band.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Police",
+      "is",
+      "a British rock band"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Police are not contradictory. Both statements identify The Police as a rock band, with the first statement providing additional information about their origin and active years. Therefore, the statements are consistent with each other."
+}

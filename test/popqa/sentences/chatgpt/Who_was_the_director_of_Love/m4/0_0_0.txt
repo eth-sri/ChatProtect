@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Love?",
+  "orig": "Gaspar No\u00e9 was the director of Love.",
+  "alt": "Gaspar No\u00e9 was the director of the movie \"Love\".",
+  "prefix": "",
+  "triple": [
+    [
+      "Gaspar No\u00e9",
+      "was",
+      "the director of Love."
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Love are not contradictory. Both statements convey the same information that Gaspar No\u00e9 directed the movie \"Love\". The only difference is that the second statement specifies that \"Love\" is a movie, which is not necessary to understand the first statement. Therefore, both statements are consistent with each other."
+}

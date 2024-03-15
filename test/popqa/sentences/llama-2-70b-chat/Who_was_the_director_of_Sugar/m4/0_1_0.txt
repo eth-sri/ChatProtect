@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Sugar?",
+  "orig": "They co-wrote and co-directed the movie, which was released in 2008.",
+  "alt": "They co-wrote the screenplay for the film with Nancy Ostertag.",
+  "prefix": " The director of the film \"Sugar\" is Anna Boden and Ryan Fleck.",
+  "triple": [
+    [
+      "They",
+      "co-wrote",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the director of \"Sugar\" are not contradictory. The first statement identifies Anna Boden and Ryan Fleck as the directors of the film, while the second statement adds that they also co-wrote the screenplay with Nancy Ostertag. Both statements provide complementary information about the creative team behind the movie."
+}

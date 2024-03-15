@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Squeeze?",
+  "orig": "The producer of Squeeze's self-titled debut album was John Cale, except for two songs (\"Take Me I'm Yours\" and \"Bang Bang\") which were produced by the band itself.",
+  "alt": "The producer of Squeeze's self-titled debut album was John Cale.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Squeeze's self-titled debut album",
+      "was",
+      "John Cale,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Squeeze are not contradictory. Statement 1 clarifies that while John Cale produced most of the album, the band produced two specific songs. Statement 2 simply states that John Cale was the producer of the album without specifying any exceptions. Both statements are true and do not contradict each other."
+}

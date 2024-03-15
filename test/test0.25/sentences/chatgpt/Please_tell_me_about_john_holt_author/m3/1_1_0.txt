@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about john holt (author)",
+  "orig": "He was born in New York City and graduated from Yale University in 1948.",
+  "alt": "He graduated from Yale University in 1943.",
+  "prefix": " John Holt (1923-1985) was an American educator and author who is best known for his advocacy of homeschooling and unschooling.",
+  "triple": [
+    [
+      "He",
+      "was born graduated",
+      "from Yale University in 1948."
+    ],
+    "compactie",
+    477
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about John Holt are contradictory. The first statement says that he graduated from Yale University in 1948, while the second statement says that he graduated from Yale University in 1943. These two statements cannot both be true at the same time."
+}

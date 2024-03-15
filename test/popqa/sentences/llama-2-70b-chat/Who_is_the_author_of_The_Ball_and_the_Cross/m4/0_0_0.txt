@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Ball and the Cross?",
+  "orig": "The author of The Ball and the Cross is Joseph Pearce.",
+  "alt": "The author of The Ball and the Cross is Guy de Maupassant.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Ball and the Cross",
+      "is",
+      "Joseph Pearce."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Ball and the Cross are contradictory. Statement 1 correctly identifies the author as Joseph Pearce, while statement 2 incorrectly identifies the author as Guy de Maupassant. Therefore, the two statements cannot both be true at the same time."
+}

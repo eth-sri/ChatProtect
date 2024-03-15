@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Greenland?",
+  "orig": "It is located on the southwest coast of Greenland and is the country's largest city.",
+  "alt": "It is located on the southwest coast of Greenland.",
+  "prefix": " The capital of Greenland is Nuuk (also known as Godth\u00e5b).",
+  "triple": [
+    [
+      "It",
+      "is",
+      "the country's largest city."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Greenland are not contradictory. Both statements mention that Nuuk is located on the southwest coast of Greenland, which is a factual statement. The first statement also adds that Nuuk is the country's largest city, which is an additional piece of information. Therefore, the statements are not contradictory but rather provide different details about the same fact."
+}

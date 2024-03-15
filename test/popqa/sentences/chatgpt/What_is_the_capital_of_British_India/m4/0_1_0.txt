@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of British India?",
+  "orig": "However, during the British control of India, the capital was shifted between different cities, including Calcutta (1773-1911) and Bombay (1911-1931) before settling on Delhi in 1931.",
+  "alt": "The capital was shifted to New Delhi in 1911 during the British rule.",
+  "prefix": " Before India gained independence in 1947, its capital was Delhi.",
+  "triple": [
+    [
+      "the capital",
+      "was shifted",
+      "between different cities, including Calcutta"
+    ],
+    "compactie",
+    491
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of British India are not contradictory. Statement 1 explains that the capital was shifted between different cities during British rule, including Calcutta and Bombay, before settling on Delhi in 1931. Statement 2 provides additional information that the capital was specifically shifted to New Delhi in 1911 during British rule. Both statements are consistent with the fact that Delhi was the capital of British India before India gained independence in 1947."
+}

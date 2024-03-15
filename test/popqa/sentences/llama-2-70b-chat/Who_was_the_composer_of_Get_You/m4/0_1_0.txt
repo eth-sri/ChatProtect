@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Get You?",
+  "orig": "\"Get You\" is a song by Daniel Caesar, a Canadian singer-songwriter, and was released in 2016.",
+  "alt": "\"Get\" is a song by American singer-songwriter Daniel Caesar.",
+  "prefix": " The composer of \"Get You\" is not explicitly stated.",
+  "triple": [
+    [
+      "\"Get",
+      "is",
+      "a song by Daniel Caesar, a Canadian singer-songwriter,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Get You\" are not contradictory. Both statements identify Daniel Caesar as the artist who created the song. However, statement 1 provides more detail by specifying that Daniel Caesar is a Canadian singer-songwriter and that the song was released in 2016. Statement 2 simply identifies Daniel Caesar as an American singer-songwriter."
+}

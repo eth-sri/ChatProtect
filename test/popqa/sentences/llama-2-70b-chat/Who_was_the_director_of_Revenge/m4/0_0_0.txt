@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Revenge?",
+  "orig": "The director of the movie \"Revenge\" is Coralie Fargeat.",
+  "alt": "The director of the movie \"Revenge\" is Tony Scott.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the movie \"Revenge\"",
+      "is",
+      "Coralie Fargeat."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Revenge? are contradictory. Statement 1 correctly identifies Coralie Fargeat as the director of the movie \"Revenge\", while statement 2 incorrectly identifies Tony Scott as the director. Therefore, the two statements cannot both be true at the same time."
+}

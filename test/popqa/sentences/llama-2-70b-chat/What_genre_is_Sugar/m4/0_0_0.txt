@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Sugar?",
+  "orig": "Sugar is a rock band from New York City, formed in 1992.",
+  "alt": "Sugar is a rock band.",
+  "prefix": "",
+  "triple": [
+    [
+      "Sugar",
+      "is",
+      "a rock band from New York City,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Sugar are not contradictory. Both statements identify Sugar as a rock band, indicating that rock is the genre of their music. The first statement provides additional information about the band's origin and formation, but does not contradict the second statement."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Postcard?",
+  "orig": "I'm not familiar with a movie called \"Postcard.\"",
+  "alt": "The director of \"Postcard\" is a mysterious figure, known only by their pseudonym, \"Z\".",
+  "prefix": "",
+  "triple": [
+    [
+      "familiar with a movie",
+      "called",
+      "\"Postcard.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the director of \"Postcard\" are not contradictory, but rather complementary. Statement 1 indicates that the person is not knowledgeable about the movie, while statement 2 provides information about the director, who is known only by a pseudonym. Therefore, the two statements do not contradict each other, but rather provide different pieces of information about the movie and its director."
+}

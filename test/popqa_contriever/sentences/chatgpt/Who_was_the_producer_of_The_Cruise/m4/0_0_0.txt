@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Cruise?",
+  "orig": "Tom Cruise was the producer of \"The Cruise\" in 1996 under his production company Cruise/Wagner Productions.",
+  "alt": "Tom Cruise was the star of the film \"The Cruise\", which was produced by Paula Wagner and Cruise/Wagner Productions.",
+  "prefix": "",
+  "triple": [
+    [
+      "Tom Cruise",
+      "was",
+      "the producer of \"The Cruise\" in 1996 under his production company"
+    ],
+    "compactie",
+    535
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"The Cruise\" are not contradictory. Statement 1 correctly states that Tom Cruise was the producer of the film under his production company, while Statement 2 correctly states that Paula Wagner and Cruise/Wagner Productions also produced the film. Both statements provide accurate information about the production of the film."
+}

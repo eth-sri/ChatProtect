@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Curtains?",
+  "orig": "The producer of the movie Curtains (1983) was Michael Audley.",
+  "alt": "The producer of the movie Curtains was Irwin Yablans.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie Curtains",
+      "was",
+      "Michael Audley."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Curtains are contradictory because they provide different names for the producer of the movie. Statement 1 claims that Michael Audley was the producer, while statement 2 claims that Irwin Yablans was the producer. Since they cannot both be true, the statements contradict each other."
+}

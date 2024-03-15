@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Noah?",
+  "orig": "The screenwriter for Noah is Darren Aronofsky, who also directed the film.",
+  "alt": "The screenwriter for Noah is Darren Aronofsky.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for Noah",
+      "is",
+      "Darren Aronofsky,"
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Noah are not contradictory. Both statements correctly identify Darren Aronofsky as the screenwriter for the film. The only difference is that statement 1 also mentions that Aronofsky directed the film, while statement 2 does not."
+}

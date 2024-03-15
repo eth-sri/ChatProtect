@@ -1,0 +1,19 @@
+{
+  "target": "What is Mamuju the capital of?",
+  "orig": "It is known for its beautiful beaches and traditional crafts, but it is not a well-known tourist destination.",
+  "alt": "It is not a popular tourist destination.",
+  "prefix": " Mamuju is not the capital of any country or region. It is a small town located in the Indonesian province of West Nusa Tenggara, on the island of Lombok.",
+  "triple": [
+    [
+      "it",
+      "is not",
+      "a well-known tourist destination."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While Mamuju is not the capital of any country or region, it is a town located in Indonesia. Statement 1 provides additional information about Mamuju's attractions and tourism status, while statement 2 simply reiterates that it is not a popular tourist destination. Both statements are consistent with the fact that Mamuju is not a capital city."
+}

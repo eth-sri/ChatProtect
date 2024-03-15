@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Frogs?",
+  "orig": "Frogs is a comedy play written by Aristophanes, a Greek playwright, in the 5th century BCE.",
+  "alt": "Frogs is a comedy play written by Aristophanes.",
+  "prefix": "",
+  "triple": [
+    [
+      "a comedy play",
+      "written",
+      "by Aristophanes, a Greek playwright, in the 5th century BCE."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Frogs are not contradictory. Both statements identify Frogs as a comedy play written by Aristophanes. The first statement provides additional information about the time period in which it was written, but does not contradict the second statement."
+}

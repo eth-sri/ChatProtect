@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Scream?",
+  "orig": "Scream is a horror/slasher film.",
+  "alt": "Scream is a horror film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Scream",
+      "is",
+      "a horror/slasher film."
+    ],
+    "compactie",
+    471
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Scream are not contradictory. Statement 1 specifies that Scream is a horror/slasher film, indicating that it belongs to both the horror and slasher subgenres. Statement 2 simply states that Scream is a horror film, which is consistent with the first statement as it falls under the broader category of horror. Therefore, both statements are complementary and not contradictory."
+}

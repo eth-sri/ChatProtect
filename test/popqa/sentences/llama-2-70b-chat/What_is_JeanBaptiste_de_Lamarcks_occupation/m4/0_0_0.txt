@@ -1,0 +1,19 @@
+{
+  "target": "What is Jean-Baptiste de Lamarck's occupation?",
+  "orig": "Jean-Baptiste de Lamarck was a French naturalist, soldier, and philosopher.",
+  "alt": "Jean-Baptiste de Lamarck was a French naturalist.",
+  "prefix": "",
+  "triple": [
+    [
+      "Jean-Baptiste de Lamarck",
+      "was",
+      "a French naturalist, soldier, and philosopher."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Jean-Baptiste de Lamarck's occupation are not contradictory. Both statements agree that he was a French naturalist, but the first statement adds that he was also a soldier and philosopher. Therefore, the first statement provides more information about Lamarck's career, while the second statement only specifies his occupation as a naturalist."
+}

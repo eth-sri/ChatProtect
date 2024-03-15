@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Halloween?",
+  "orig": "The producer of the original Halloween movie (1978) was Irwin Yablans, while the producer of the 2018 Halloween movie was Jason Blum.",
+  "alt": "The producer of the 2018 Halloween movie was Jason Blum.",
+  "prefix": "",
+  "triple": [
+    [
+      "the producer of the 2018 Halloween movie",
+      "was",
+      "Jason Blum."
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. The first statement provides information about the producers of both the original and the 2018 versions of Halloween, while the second statement only mentions the producer of the 2018 movie. Therefore, the second statement is a subset of the information provided in the first statement."
+}

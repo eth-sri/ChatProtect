@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glas?",
+  "orig": "It was first published in French in 1974, and later translated into English in 1986.",
+  "alt": "It was first published in 1974.",
+  "prefix": " Glas is a novel written by Jacques Derrida.",
+  "triple": [
+    [
+      "It",
+      "was first published",
+      "in French in 1974,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Glas? are not contradictory. Statement 1 provides additional information about the publication history of the novel, including the fact that it was translated into English in 1986. Statement 2 simply confirms that the novel was first published in 1974. Both statements support the fact that Jacques Derrida is the author of Glas."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Parikshit?",
+  "orig": "The text only mentions that Madravati is the wife of King Parikshit and the mother of King Janamejaya, but it does not provide information about Parikshit's mother.",
+  "alt": "Madravati is the mother of Parikshit.",
+  "prefix": " The mother of Parikshit is not specified in the given text.",
+  "triple": [
+    [
+      "Madravati",
+      "is",
+      "the wife of King"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the mother of Parikshit are contradictory. Statement 1 clearly states that the text does not provide information about Parikshit's mother, while statement 2 claims that Madravati is the mother of Parikshit. Therefore, one statement denies the existence of information about Parikshit's mother, while the other provides a specific answer to the question."
+}

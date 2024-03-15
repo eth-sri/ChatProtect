@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Anniversary?",
+  "orig": "Alvin Rakoff was the original director of The Anniversary, but he was replaced a week into filming due to conflicts with Bette Davis.",
+  "alt": "Alvin Rakoff was the director of The Anniversary.",
+  "prefix": "",
+  "triple": [
+    [
+      "Alvin Rakoff",
+      "was",
+      "the original director of The Anniversary,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The Anniversary are contradictory. Statement 1 says that Alvin Rakoff was the original director but was replaced due to conflicts with Bette Davis, while Statement 2 simply states that Alvin Rakoff was the director. The contradiction lies in the fact that Statement 2 does not acknowledge the fact that Rakoff was replaced during filming, which is mentioned in Statement 1."
+}

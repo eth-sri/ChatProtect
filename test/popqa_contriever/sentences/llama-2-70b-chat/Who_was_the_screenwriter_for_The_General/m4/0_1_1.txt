@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The General?",
+  "orig": "The text only mentions that William Mankiewicz wrote a first draft of the script for the film \"Batman,\" but it does not mention anything about \"The General.\"",
+  "alt": "William Mankiewicz wrote the screenplay for \"Ladyhawke\".",
+  "prefix": " The screenwriter for the film \"The General\" was not specified in the provided text.",
+  "triple": [
+    [
+      "William Mankiewicz",
+      "wrote",
+      "a first draft of the script for the film \"Batman,\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for The General? are not contradictory. Statement 1 acknowledges that the provided text does not mention anything about \"The General\" and only provides information about Mankiewicz's involvement in other films. Statement 2 provides additional information about Mankiewicz's work as a screenwriter, specifically mentioning his involvement in \"Ladyhawke.\" Therefore, both statements are true and do not contradict each other."
+}

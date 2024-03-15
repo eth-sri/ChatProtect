@@ -1,0 +1,19 @@
+{
+  "target": "What is Washington, D.C. the capital of?",
+  "orig": "The city is located on the East Coast of the United States and is named after George Washington, the first President of the United States.",
+  "alt": "The city is located on the east coast of the United States, along the Potomac River.",
+  "prefix": " Washington, D.C. is the capital of the United States of America. It is the seat of the federal government and the home of the President, Congress, and the Supreme Court.",
+  "triple": [
+    [
+      "The city",
+      "is located",
+      "on the East Coast of the United States"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What is Washington, D.C. the capital of? are not contradictory. Statement 1 provides information about the origin of the city's name and its historical significance, while Statement 2 provides information about its geographical location. Both statements complement each other and provide additional context about the capital city."
+}

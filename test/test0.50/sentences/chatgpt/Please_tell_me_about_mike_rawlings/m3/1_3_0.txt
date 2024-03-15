@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mike rawlings",
+  "orig": "He also served as the CEO of Pizza Hut, a popular pizza chain.",
+  "alt": "He also served as the CEO of Pizza Hut, a popular fast-food chain.",
+  "prefix": " Mike Rawlings is an American businessman and politician. He served as the 61st mayor of Dallas, Texas, from 2011 to 2019. Before entering politics, Rawlings worked in the advertising industry, serving as the CEO of TracyLocke, a global marketing agency.",
+  "triple": [
+    [
+      "He",
+      "served",
+      "as the CEO of Pizza Hut, a popular pizza chain."
+    ],
+    "compactie",
+    507
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Mike Rawlings are not contradictory. Both statements mention that he served as the CEO of Pizza Hut, with the only difference being the addition of the word \"fast-food\" in the second statement. However, Pizza Hut is commonly known as a fast-food chain, so both statements essentially convey the same information."
+}

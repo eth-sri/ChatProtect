@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of M?",
+  "orig": "Kazuhiko Matsumoto was the founder and first director of M's Video Group (MVG) in 1995.",
+  "alt": "Kazuhiko Matsumoto was the director of M.",
+  "prefix": "",
+  "triple": [
+    [
+      "Kazuhiko Matsumoto",
+      "was",
+      "the founder and first director of M's Video Group"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of M? are not contradictory. Both statements identify Kazuhiko Matsumoto as the director of M or M's Video Group (MVG) in 1995. Statement 1 provides additional information that Matsumoto was also the founder of MVG. Therefore, the statements are consistent with each other."
+}

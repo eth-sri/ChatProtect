@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of By the Sea?",
+  "orig": "The producer of the 2015 film \"By the Sea\" was Angelina Jolie Pitt.",
+  "alt": "The producer of the 2015 film \"By the Sea\" was Brad Pitt.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2015 film \"By",
+      "was",
+      "Angelina Jolie Pitt."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of By the Sea? are contradictory. Statement 1 claims that Angelina Jolie Pitt was the producer of the film, while statement 2 claims that Brad Pitt was the producer. Since they are two different people, they cannot both be the producer of the same film."
+}

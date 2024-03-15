@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Master?",
+  "orig": "He also wrote and directed the film.",
+  "alt": "He wrote the screenplay for the film.",
+  "prefix": " The producer of The Master was Paul Thomas Anderson.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      "and directed the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Master are not contradictory. The first statement confirms that Paul Thomas Anderson was the producer of the film, while the second statement clarifies that he also wrote the screenplay for the film. Both statements provide complementary information about Anderson's involvement in the production of The Master."
+}

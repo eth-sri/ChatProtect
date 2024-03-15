@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Silk?",
+  "orig": "Silk is a novel written by Baricco, an Italian writer and director, and was first published in Italian in 1997.",
+  "alt": "Silk was first published in Italian in 1996.",
+  "prefix": " The author of Silk is Alessandro Baricco.",
+  "triple": [
+    [
+      "a novel",
+      "was first published",
+      "in Italian in 1997."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Silk? are contradictory. Statement 1 states that Silk was first published in Italian in 1997, while Statement 2 states that it was first published in Italian in 1996. This discrepancy in the year of publication creates a contradiction between the two statements."
+}

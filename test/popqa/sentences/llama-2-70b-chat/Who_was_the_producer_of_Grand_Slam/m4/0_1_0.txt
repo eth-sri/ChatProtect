@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Grand Slam?",
+  "orig": "However, the show was produced by a company called \"Merrill Heatter Productions\" in association with \"Lifetime Television.\"",
+  "alt": "The show was produced by Mark Leveson.",
+  "prefix": " The producer of the 1990s game show \"Grand Slam\" is not explicitly stated.",
+  "triple": [
+    [
+      "the show",
+      "was produced",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Grand Slam are contradictory. Statement 1 suggests that the show was produced by Merrill Heatter Productions in association with Lifetime Television, while Statement 2 suggests that the producer was Mark Leveson. These two statements cannot both be true at the same time, so they are contradictory."
+}

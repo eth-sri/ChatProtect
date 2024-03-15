@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Guess Who?",
+  "orig": "The Guess Who is a rock band and their music falls under the categories of classic rock, psychedelic rock, and hard rock.",
+  "alt": "Their music falls under the rock genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "their music",
+      "falls",
+      "under the categories of classic rock, psychedelic rock, and hard rock."
+    ],
+    "compactie",
+    473
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is The Guess Who? are not contradictory. Statement 1 provides more specific sub-genres within the rock genre that The Guess Who's music falls under, while Statement 2 simply states that their music falls under the broader rock genre. Both statements are true and do not contradict each other."
+}

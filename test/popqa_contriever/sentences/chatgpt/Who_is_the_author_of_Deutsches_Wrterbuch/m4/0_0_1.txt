@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Deutsches W\u00f6rterbuch?",
+  "orig": "The primary author of Deutsches W\u00f6rterbuch is Jacob Grimm, with his brother Wilhelm assisting in the early stages.",
+  "alt": "His brother Wilhelm was assisting him in the creation of the Deutsches W\u00f6rterbuch.",
+  "prefix": "",
+  "triple": [
+    [
+      "his brother Wilhelm",
+      "assisting",
+      "in the early stages."
+    ],
+    "compactie",
+    608
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the authorship of Deutsches W\u00f6rterbuch are not contradictory. Both statements agree that Jacob Grimm was the primary author of the dictionary, with his brother Wilhelm assisting him in the early stages. Statement 1 simply provides more detail by specifying that Wilhelm's involvement was limited to the early stages, while Statement 2 emphasizes that Wilhelm played a role in the creation of the dictionary. Therefore, the two statements complement each other rather than contradicting each other."
+}

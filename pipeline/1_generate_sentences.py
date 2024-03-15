@@ -38,7 +38,7 @@ parser.add_argument(
     "--prompt",
     type=str,
     help="Prompt to generate alternative sentences for",
-    default="Please tell me about Thomas Chapais",
+    default="Please tell me about auguste clésinger",
 )
 parser.add_argument(
     "--test_description_dir",

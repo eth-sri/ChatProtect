@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Counter-Strike?",
+  "orig": "Counter-Strike is a first-person shooter (FPS) game, which is a subgenre of action video games.",
+  "alt": "Counter-Strike is a first-person shooter game.",
+  "prefix": "",
+  "triple": [
+    [
+      "game,",
+      "is",
+      "a subgenre of action video games."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Counter-Strike are not contradictory. Both statements identify Counter-Strike as a first-person shooter game, but the first statement provides additional information by specifying that FPS is a subgenre of action video games. Therefore, the first statement is more specific and informative, while the second statement is more general."
+}

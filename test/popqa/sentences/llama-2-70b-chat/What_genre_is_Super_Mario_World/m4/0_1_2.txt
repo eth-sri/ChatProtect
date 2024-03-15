@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Super Mario World?",
+  "orig": "It belongs to the Super Mario series, which is a popular series of platformer games developed and published by Nintendo.",
+  "alt": "The Super Mario series, developed by Nintendo, is a popular series of platformer games.",
+  "prefix": " Super Mario World is a platformer game, specifically a 2D side-scrolling platformer.",
+  "triple": [
+    [
+      "a popular series of platformer games",
+      "developed",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Super Mario World are not contradictory. Both statements provide additional information about the Super Mario series and its development and popularity, but they do not contradict the initial statement that Super Mario World is a 2D side-scrolling platformer game."
+}

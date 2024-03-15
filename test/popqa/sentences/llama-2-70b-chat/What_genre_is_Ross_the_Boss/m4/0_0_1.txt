@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Ross the Boss?",
+  "orig": "Ross the Boss is a heavy metal band from New York City, formed in 2008 by guitarist Ross Friedman, also known as Ross the Boss.",
+  "alt": "Ross the Boss is a heavy metal band from New York City, formed in 1983.",
+  "prefix": "",
+  "triple": [
+    [
+      "a heavy metal band from",
+      "formed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Ross the Boss are not contradictory, but they provide different information about the band's formation. Statement 1 indicates that Ross the Boss was formed in 2008 by guitarist Ross Friedman, while statement 2 suggests that the band was formed in 1983. However, both statements agree that Ross the Boss is a heavy metal band from New York City. Therefore, the statements do not contradict each other regarding the genre of the band."
+}

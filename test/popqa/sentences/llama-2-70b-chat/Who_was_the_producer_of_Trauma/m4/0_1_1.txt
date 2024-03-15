@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Trauma?",
+  "orig": "However, the film was produced by a production company called \"Mandate Pictures\" and was distributed by \"Screen Gems\".",
+  "alt": "The film was distributed by Screen Gems.",
+  "prefix": " The producer of the 2009 film Trauma is not explicitly stated.",
+  "triple": [
+    [
+      "the film",
+      "was distributed",
+      "by \"Screen Gems\"."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Trauma? are not contradictory. While the first statement mentions that the producer is not explicitly stated, it provides information about the production company, Mandate Pictures, which produced the film. The second statement confirms that the film was distributed by Screen Gems, but does not contradict the information provided in the first statement."
+}

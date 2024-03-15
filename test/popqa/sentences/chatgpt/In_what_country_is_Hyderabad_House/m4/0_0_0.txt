@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Hyderabad House?",
+  "orig": "Hyderabad House is a government guest house in India, located in New Delhi.",
+  "alt": "Hyderabad House is a historic building located in Delhi, India.",
+  "prefix": "",
+  "triple": [
+    [
+      "Hyderabad House",
+      "is",
+      "a government guest house in India,"
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Hyderabad House in India are not contradictory. Both statements mention that Hyderabad House is located in India, specifically in New Delhi or Delhi. The only difference is that statement 1 specifies that it is a government guest house, while statement 2 describes it as a historic building. Therefore, the statements complement each other and provide additional information about Hyderabad House's location and purpose."
+}

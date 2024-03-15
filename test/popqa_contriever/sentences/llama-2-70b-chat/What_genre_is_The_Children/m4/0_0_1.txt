@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Children?",
+  "orig": "The Children's Book is a novel that belongs to the historical fiction genre.",
+  "alt": "The Children's Book belongs to the historical fiction genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "a novel",
+      "belongs",
+      "to the historical fiction genre."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Children's Book are not contradictory. They both state that the novel belongs to the historical fiction genre, with the only difference being the inclusion or exclusion of the word \"novel\"."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Monday?",
+  "orig": "The director of Monday Monday is Sarah O'Gorman.",
+  "alt": "The director of Monday Monday is Paul Duane.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of Monday Monday",
+      "is",
+      "Sarah O'Gorman."
+    ],
+    "compactie",
+    570
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Monday? are contradictory as they provide different names for the director of the show. Statement 1 claims that Sarah O'Gorman was the director, while statement 2 claims that Paul Duane was the director. Only one of these statements can be true, so they cannot both be correct."
+}

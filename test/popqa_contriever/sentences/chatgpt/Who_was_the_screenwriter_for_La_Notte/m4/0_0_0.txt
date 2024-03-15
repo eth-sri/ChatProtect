@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for La Notte?",
+  "orig": "Michelangelo Antonioni was the screenwriter for La Notte.",
+  "alt": "Michelangelo Antonioni was the director of La Notte.",
+  "prefix": "",
+  "triple": [
+    [
+      "Michelangelo Antonioni",
+      "was",
+      "the screenwriter for La Notte."
+    ],
+    "compactie",
+    600
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for La Notte are contradictory. While statement 2 correctly identifies Michelangelo Antonioni as the director of the film, statement 1 is incorrect in stating that he was the screenwriter. In fact, Antonioni co-wrote the screenplay with Ennio Flaiano and Tonino Guerra. Therefore, the two statements cannot both be true."
+}

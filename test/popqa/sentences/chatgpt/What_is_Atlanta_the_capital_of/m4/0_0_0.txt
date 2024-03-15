@@ -1,0 +1,19 @@
+{
+  "target": "What is Atlanta the capital of?",
+  "orig": "Atlanta is not a capital of any state or country.",
+  "alt": "Atlanta is not the capital of Georgia.",
+  "prefix": "",
+  "triple": [
+    [
+      "Atlanta",
+      "is not",
+      "a capital of any state or country."
+    ],
+    "compactie",
+    473
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is Atlanta the capital of?\" are contradictory. \n\nStatement 1 claims that Atlanta is not a capital of any state or country, while Statement 2 specifically states that Atlanta is not the capital of Georgia. However, Atlanta is indeed the capital of Georgia, which contradicts both statements. Therefore, the statements cannot both be true at the same time."
+}

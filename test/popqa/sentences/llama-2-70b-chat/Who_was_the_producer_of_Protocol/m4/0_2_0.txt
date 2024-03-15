@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Protocol?",
+  "orig": "One such platform is IMDb, which lists the film's producer as David V. Picker.",
+  "alt": "One such platform is IMDb, which lists the producer of \"Protocol\" as Larry Gelman.",
+  "prefix": " The producer of the film \"Protocol\" is not explicitly mentioned in the provided information. However, the film was released in 1984, and it is possible to find the name of the producer by looking up the film's credits on various online platforms or movie databases.",
+  "triple": [
+    [
+      "One such platform",
+      "is lists",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Protocol? are contradictory. Statement 1 lists the producer as David V. Picker, while statement 2 lists the producer as Larry Gelman. Since they provide different names, they cannot both be correct."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Colorful?",
+  "orig": "The given passage does not provide information about the director of Colorful.",
+  "alt": "The given passage does not provide information about the director of the film \"Colorful\".",
+  "prefix": "",
+  "triple": [
+    [
+      "The given passage",
+      "does not provide",
+      "information about the director of Colorful."
+    ],
+    "compactie",
+    617
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Colorful? are not contradictory as the passage does not mention the director of the film \"Colorful\" at all. Therefore, both statements are true and do not conflict with each other."
+}

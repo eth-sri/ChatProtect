@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of La nave?",
+  "orig": "Zandonai was born in 1883 and died in 1944.",
+  "alt": "Riccardo Zandonai died in 1944.",
+  "prefix": " The opera \"La nave\" was composed by the Italian composer, Riccardo Zandonai.",
+  "triple": [
+    [
+      "Zandonai",
+      "died",
+      "in 1944."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of La nave? are not contradictory. Both statements provide additional information about the composer Riccardo Zandonai, but they do not contradict the initial statement that he was the composer of the opera \"La nave\". The first statement provides his birth year, while the second statement confirms his death year."
+}

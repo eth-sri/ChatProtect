@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Jakob Kaiser born?",
+  "orig": "Jakob Kaiser was born in Hernals, which is a district of Vienna, Austria.",
+  "alt": "Jakob Kaiser was born in Berlin, Germany.",
+  "prefix": "",
+  "triple": [
+    [
+      "Jakob Kaiser",
+      "was born",
+      "in Hernals,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"In what city was Jakob Kaiser born?\" are contradictory. \n\nStatement 1 claims that Jakob Kaiser was born in Hernals, a district of Vienna, Austria, while Statement 2 claims that he was born in Berlin, Germany. These two statements cannot both be true at the same time. Therefore, they are contradictory."
+}

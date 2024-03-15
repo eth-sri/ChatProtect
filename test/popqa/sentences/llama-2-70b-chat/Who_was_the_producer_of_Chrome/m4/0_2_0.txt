@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Chrome?",
+  "orig": "It was developed by Google's Chrome team, led by Sundar Pichai and Linus Upson, and was designed to be a fast, simple, and user-friendly browser.",
+  "alt": "It was developed by a team led by Sundar Pichai and Linus Upson.",
+  "prefix": " The producer of Chrome was Google. Google Chrome was first released in 2008 as a web browser for Microsoft Windows, and later for Linux and macOS.",
+  "triple": [
+    [
+      "It",
+      "was developed",
+      "by Google's Chrome team,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Chrome are not contradictory. Both statements agree that Google was the producer of Chrome and that it was developed by a team led by Sundar Pichai and Linus Upson. Statement 1 provides additional information about the characteristics of the browser, while statement 2 simply states the fact that the team was led by Pichai and Upson."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Boat?",
+  "orig": "However, the book's blurb and the press release from Simon & Schuster suggest that the author is Donald Trump.",
+  "alt": "The author is anonymous.",
+  "prefix": " The author of \"The Boat\" is not explicitly mentioned in the provided text.",
+  "triple": [
+    [
+      "the author",
+      "is",
+      "Donald Trump."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"The Boat\" are contradictory. Statement 1 suggests that the author is Donald Trump, while Statement 2 suggests that the author is anonymous. These two statements cannot both be true at the same time. Therefore, they are contradictory."
+}

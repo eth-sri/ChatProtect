@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Ring?",
+  "orig": "The text mentions Ring Lardner Jr. as the writer of several screenplays, including \"Woman of the Year,\" \"Laura,\" \"Brotherhood of Man,\" \"Forever Amber,\" and \"M*A*S*H,\" but it does not mention a screenwriter for a film called \"Ring.\"",
+  "alt": "The text mentions Ring Lardner Jr.'s work on various film scripts, including \"Woman of the Year,\" \"Laura,\" \"Brotherhood of Man,\" \"Forever Amber,\" and \"M*A*S*H.\"",
+  "prefix": " The screenwriter for \"Ring\" is not specified in the given text.",
+  "triple": [
+    [
+      "The text",
+      "mentions",
+      "Ring Lardner Jr. as the writer of several screenplays, including \"Woman of the Year,\" \"Laura,\" \"Brotherhood"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 acknowledges that the text does not mention a screenwriter for a film called \"Ring,\" while Statement 2 highlights the screenwriting work of Ring Lardner Jr. on other films. Both statements are true and do not conflict with each other."
+}

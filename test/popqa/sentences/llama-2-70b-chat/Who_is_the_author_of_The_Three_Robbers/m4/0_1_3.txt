@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Three Robbers?",
+  "orig": "It is a children's book written and illustrated by Ungerer and was first published in 1961.",
+  "alt": "The children's book was first published in 1961.",
+  "prefix": " The author of \"The Three Robbers\" is Tomi Ungerer.",
+  "triple": [
+    [
+      "a children's book",
+      "was first published",
+      "in 1961."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Three Robbers are not contradictory. Both statements provide additional information about the book, such as the fact that it is a children's book and that it was first published in 1961. The first statement also mentions that Ungerer both wrote and illustrated the book, while the second statement simply reiterates the year of its initial publication."
+}

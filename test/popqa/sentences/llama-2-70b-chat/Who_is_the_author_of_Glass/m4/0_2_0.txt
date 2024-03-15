@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glass?",
+  "orig": "The play is known for its minimalist style and its exploration of themes such as isolation, loneliness, and the human condition.",
+  "alt": "The play is known for its minimalist style and exploration of themes such as isolation and the human condition.",
+  "prefix": " Glass is a play written by Samuel Beckett. It was written in 1961 and is considered one of Beckett's most important works.",
+  "triple": [
+    [
+      "The play",
+      "is known",
+      "for its minimalist style and its exploration of themes such as isolation, loneliness, and the human condition."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Glass? are not contradictory. Both statements acknowledge that Glass is a play written by Samuel Beckett, but they focus on different aspects of the play. Statement 1 emphasizes the themes explored in the play, while Statement 2 emphasizes the minimalist style of the play."
+}

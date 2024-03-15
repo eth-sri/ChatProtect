@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Ligue Magnus play?",
+  "orig": "Therefore, the sport played by Ligue Magnus is ice hockey.",
+  "alt": "The sport played in Ligue Magnus is ice hockey.",
+  "prefix": " According to the provided information, Ligue Magnus is the top men's division of the French ice hockey pyramid.",
+  "triple": [
+    [
+      "the sport",
+      "played",
+      "by Ligue Magnus"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the sport played by Ligue Magnus are not contradictory. Both statements confirm that the sport played in Ligue Magnus is ice hockey. The only difference is in the wording, with statement 1 using the word \"therefore\" to indicate a logical conclusion based on the information provided."
+}

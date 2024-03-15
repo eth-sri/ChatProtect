@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Patience?",
+  "orig": "The composer of the opera \"Patience\" is Sir Arthur Sullivan.",
+  "alt": "The composer of the opera \"Patience\" is Gilbert and Sullivan.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of the opera \"Patience\"",
+      "is",
+      "Sir Arthur Sullivan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of Patience are not contradictory. Both statements are correct, but they provide different levels of information. Statement 1 identifies Sir Arthur Sullivan as the sole composer of the opera Patience, while Statement 2 identifies Gilbert and Sullivan as the composer duo responsible for the opera. Gilbert wrote the libretto and Sullivan composed the music, making them both the composers of Patience. Therefore, both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Bryce Harper play?",
+  "orig": "Specifically, he is a professional baseball right fielder who has played in Major League Baseball (MLB) for the Washington Nationals.",
+  "alt": "Bryce Harper has played in Major League Baseball (MLB) for the Washington Nationals.",
+  "prefix": " Bryce Harper plays baseball.",
+  "triple": [
+    [
+      "a professional baseball right fielder",
+      "has played",
+      "in Major League Baseball"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide additional information about Bryce Harper's involvement in baseball, with statement 1 specifying his position and statement 2 indicating his team affiliation."
+}

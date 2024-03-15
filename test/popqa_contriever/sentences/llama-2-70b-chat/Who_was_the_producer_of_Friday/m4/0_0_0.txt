@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Friday?",
+  "orig": "The producer of Friday was Ice Cube, who co-wrote the film with DJ Pooh.",
+  "alt": "The producer of Friday was Ice Cube.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Friday",
+      "was",
+      "Ice Cube,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Friday are contradictory. Statement 1 states that Ice Cube co-wrote the film with DJ Pooh and was also the producer, while statement 2 only mentions Ice Cube as the producer without mentioning his co-writing credit."
+}

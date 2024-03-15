@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Now and Then?",
+  "orig": "The two novels mentioned are \"The Prince\" and \"The Mandrake\" by Niccolo Machiavelli, and \"Then and Now\" by W. Somerset Maugham.",
+  "alt": "The two novels mentioned are \"The Prince\" and \"The Mandrake\" by Machiavelli.",
+  "prefix": " There is no novel by the title \"Now and Then\" mentioned in the text.",
+  "triple": [
+    [
+      "The two novels",
+      "mentioned are",
+      ""
+    ],
+    "compactie",
+    585
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Now and Then? are not contradictory. Both statements mention \"The Prince\" and \"The Mandrake\" by Machiavelli, but only statement 1 adds \"Then and Now\" by W. Somerset Maugham. Therefore, statement 1 provides more information than statement 2, but they both agree on the fact that Machiavelli wrote \"The Prince\" and \"The Mandrake\"."
+}

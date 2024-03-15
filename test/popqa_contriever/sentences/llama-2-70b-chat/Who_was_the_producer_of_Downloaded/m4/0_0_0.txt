@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Downloaded?",
+  "orig": "The producer of the documentary film \"Downloaded\" was Alex Winter.",
+  "alt": "The producer of the documentary film was Alex Winter.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the documentary film",
+      "was",
+      "Alex Winter."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Downloaded are not contradictory. Both statements identify Alex Winter as the producer of the documentary film. The only difference between the two statements is the inclusion of the phrase \"the documentary film\" in statement 2, which is unnecessary but does not contradict statement 1."
+}

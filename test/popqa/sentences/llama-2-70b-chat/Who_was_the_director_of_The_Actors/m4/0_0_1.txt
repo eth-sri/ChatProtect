@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Actors?",
+  "orig": "I'm not familiar with a movie called \"The Actors.\"",
+  "alt": "The director of The Actors was called Ben Affleck.",
+  "prefix": "",
+  "triple": [
+    [
+      "familiar with a movie",
+      "called",
+      "\"The Actors.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Actors? are not contradictory. Statement 1 simply indicates that the person is not familiar with the movie, while Statement 2 provides the answer to the question by stating that the director was Ben Affleck."
+}

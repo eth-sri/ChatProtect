@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Marathon?",
+  "orig": "Marathon is a first-person shooter video game, which falls under the genre of action.",
+  "alt": "A first-person shooter video game, Marathon falls under the science fiction genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "a first-person shooter video game,",
+      "falls",
+      "under the genre of action."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Marathon are not contradictory. The first statement identifies it as an action game, while the second statement specifies that it is also a science fiction game. These two genres can overlap, as many science fiction games involve action-packed gameplay. Therefore, both statements can be true at the same time."
+}

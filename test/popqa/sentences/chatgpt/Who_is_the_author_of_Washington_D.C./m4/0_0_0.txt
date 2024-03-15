@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Washington, D.C.?",
+  "orig": "Gore Vidal is the author of Washington, D.C.",
+  "alt": "Gore Vidal is the author of the novel \"Washington, D.C.\"",
+  "prefix": "",
+  "triple": [
+    [
+      "Gore Vidal",
+      "is",
+      "the author of Washington, D.C."
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Washington, D.C.? are not contradictory. Both statements identify Gore Vidal as the author of the book, with the second statement specifying that it is a novel. Therefore, the two statements are complementary and provide additional information about the book's genre."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Ko Wen-je born?",
+  "orig": "Ko Wen-je was born in Kaohsiung, Taiwan.",
+  "alt": "Ko Wen-je was born in Taipei, Taiwan.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ko Wen-je",
+      "was born",
+      "in Kaohsiung,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about In what city was Ko Wen-je born? are contradictory. Statement 1 claims that Ko Wen-je was born in Kaohsiung, while statement 2 claims that he was born in Taipei. Since the two statements provide different answers to the same question, they cannot both be true at the same time. Therefore, they are contradictory."
+}

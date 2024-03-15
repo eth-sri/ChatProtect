@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Italian Job?",
+  "orig": "The Italian Job is a 2003 heist film directed by F. Gary Gray and starring Mark Wahlberg, Charlize Theron, and Donald Sutherland.",
+  "alt": "The Italian Job is a 2003 heist film starring Mark Wahlberg, Charlize Theron, and Donald Sutherland.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 2003",
+      "starring",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Italian Job are not contradictory. Both statements provide the same information about the film being a heist movie, but the second statement is more concise and omits the director's name."
+}

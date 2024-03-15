@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Cagayan?",
+  "orig": "The capital of Cagayan is Tuguegarao City.",
+  "alt": "The capital of Cagayan is the city of Tuguegarao.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Cagayan",
+      "is",
+      "Tuguegarao City."
+    ],
+    "compactie",
+    487
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. They both provide the same answer to the prompt \"What is the capital of Cagayan?\" but use slightly different phrasing. Statement 1 uses \"Tuguegarao City\" as the name of the capital, while Statement 2 uses \"the city of Tuguegarao.\" However, both statements convey the same information and are therefore not contradictory."
+}

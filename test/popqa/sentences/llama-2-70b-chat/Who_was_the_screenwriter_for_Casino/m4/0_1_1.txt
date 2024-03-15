@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Casino?",
+  "orig": "Pileggi also wrote the book \"Casino: Love and Blood in Las Vegas,\" which the film was based on.",
+  "alt": "The film was based on a true story.",
+  "prefix": " The screenwriter for the movie \"Casino\" (1995) was Martin Scorsese and Nicholas Pileggi.",
+  "triple": [
+    [
+      "the film",
+      "was based",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Casino? are not contradictory. The first statement identifies Martin Scorsese and Nicholas Pileggi as the screenwriters for the movie \"Casino,\" while the second statement clarifies that the film was based on a true story, which was Pileggi's book \"Casino: Love and Blood in Las Vegas.\" Therefore, both statements provide additional information about the screenwriting process and the source material for the film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Comic?",
+  "orig": "The director of The Comic was Rajkumar Hirani.",
+  "alt": "The director of The Comic was Ron Howard.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of The Comic",
+      "was",
+      "Rajkumar Hirani."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Comic? are contradictory. Statement 1 claims that the director of The Comic was Rajkumar Hirani, while Statement 2 claims that the director was Ron Howard. Since both statements cannot be true at the same time, they contradict each other."
+}

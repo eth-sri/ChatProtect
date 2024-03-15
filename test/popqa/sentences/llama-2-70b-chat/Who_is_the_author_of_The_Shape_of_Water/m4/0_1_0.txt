@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Shape of Water?",
+  "orig": "The film was directed by del Toro and written by both del Toro and Taylor.",
+  "alt": "The film was directed by Guillermo del Toro.",
+  "prefix": " The author of The Shape of Water is Guillermo del Toro and Vanessa Taylor.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by del Toro"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Shape of Water are not contradictory. The first statement clarifies that both Guillermo del Toro and Vanessa Taylor are credited as writers for the film, while the second statement specifies that del Toro directed the film. Therefore, both statements provide complementary information about the authorship of The Shape of Water."
+}

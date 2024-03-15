@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Survivor?",
+  "orig": "The composer of \"Survivor\" is Frank Sullivan and Jim Peterik.",
+  "alt": "The composer of \"Survivor\" is Frank Sullivan.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Survivor\"",
+      "is",
+      "Frank Sullivan and Jim Peterik."
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of Survivor? are contradictory. \n\nStatement 1 claims that the composers of \"Survivor\" are Frank Sullivan and Jim Peterik, while Statement 2 only mentions Frank Sullivan as the composer. Therefore, Statement 1 includes Jim Peterik as a composer, while Statement 2 does not. This contradiction suggests that there may be some uncertainty or disagreement about who exactly composed \"Survivor.\""
+}

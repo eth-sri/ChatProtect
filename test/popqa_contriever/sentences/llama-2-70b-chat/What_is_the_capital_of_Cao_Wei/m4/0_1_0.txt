@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Cao Wei?",
+  "orig": "Cao Wei is a dukedom, not a kingdom or empire, and therefore does not have a capital.",
+  "alt": "The capital of Cao Wei is Xuchang.",
+  "prefix": " The capital of Cao Wei is not specified in the provided text.",
+  "triple": [
+    [
+      "Cao Wei",
+      "is",
+      "a dukedom, not a kingdom or empire,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Cao Wei are contradictory. Statement 1 suggests that Cao Wei does not have a capital because it is a dukedom, while Statement 2 specifies Xuchang as the capital. Therefore, one statement must be incorrect. In fact, Xuchang was the capital of Cao Wei during the Three Kingdoms period, which is not mentioned in the provided text."
+}

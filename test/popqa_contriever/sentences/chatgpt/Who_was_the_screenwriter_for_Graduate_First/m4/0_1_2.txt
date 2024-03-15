@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Graduate First?",
+  "orig": "The 1967 film based on Charles Webb's novel is called \"The Graduate,\" and the screenwriters were Buck Henry and Calder Willingham.",
+  "alt": "There is a film titled \"The Graduate,\" and the screenwriters were Buck Henry and Calder Willingham.",
+  "prefix": " There is no film titled \"Graduate First.\"",
+  "triple": [
+    [
+      "the screenwriters",
+      "were",
+      "Buck Henry and Calder Willingham."
+    ],
+    "compactie",
+    608
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Graduate First\" are not contradictory. However, the first statement is incorrect as there is no film titled \"Graduate First.\" The correct title of the film based on Charles Webb's novel is \"The Graduate,\" and the screenwriters were Buck Henry and Calder Willingham, as stated in both statements."
+}

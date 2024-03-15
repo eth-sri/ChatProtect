@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The House of God?",
+  "orig": "It is a novel written by Shem, a pseudonym for Stephen Bergman, who is a physician and author.",
+  "alt": "The House of God is a novel written by Samuel Shem.",
+  "prefix": " The author of The House of God is Samuel Shem.",
+  "triple": [
+    [
+      "a novel",
+      "written",
+      "by Shem,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The House of God are not contradictory. Both statements provide accurate information about the authorship of the novel. The first statement clarifies that Samuel Shem is a pseudonym for Stephen Bergman, who is both a physician and author. The second statement simply states that The House of God is a novel written by Samuel Shem, which is also true. Therefore, both statements complement each other and do not contradict each other."
+}

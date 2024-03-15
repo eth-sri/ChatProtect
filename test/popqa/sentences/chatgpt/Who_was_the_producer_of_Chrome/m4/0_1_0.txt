@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Chrome?",
+  "orig": "The project was managed by Sundar Pichai.",
+  "alt": "The project was managed by a team of engineers and developers at Google.",
+  "prefix": " Chrome was developed by Google and the primary contributors to the project were Google developers Sergey Brin and Larry Page.",
+  "triple": [
+    [
+      "The project",
+      "was managed",
+      "by Sundar Pichai."
+    ],
+    "compactie",
+    496
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Chrome are not contradictory. While the beginning of the text mentions the primary contributors to the project being Sergey Brin and Larry Page, it does not mention who managed the project. Statement 1 clarifies that Sundar Pichai was the manager of the project, while Statement 2 provides an alternative answer by stating that the project was managed by a team of engineers and developers at Google. Both statements provide additional information about the production of Chrome without contradicting the initial statement."
+}

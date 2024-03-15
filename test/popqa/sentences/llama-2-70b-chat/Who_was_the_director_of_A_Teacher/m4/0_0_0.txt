@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of A Teacher?",
+  "orig": "The director of A Teacher is not explicitly stated.",
+  "alt": "The director of A Teacher is not explicitly stated.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of A Teacher",
+      "is not explicitly stated.",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. Both statements claim that the director of A Teacher is not explicitly stated, but they cannot both be true. If the director is not explicitly stated, then there should only be one statement indicating this fact. Therefore, the two statements contradict each other."
+}

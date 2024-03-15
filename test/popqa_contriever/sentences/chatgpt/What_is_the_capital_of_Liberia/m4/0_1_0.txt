@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Liberia?",
+  "orig": "However, the city of Liberia mentioned in this context is not the same as the country Liberia.",
+  "alt": "The city of Liberia mentioned here is not the capital of Liberia, but rather a city in Guanacaste province, Costa Rica.",
+  "prefix": " The capital of Liberia is Monrovia.",
+  "triple": [
+    [
+      "the city of Liberia",
+      "mentioned",
+      "in this context"
+    ],
+    "compactie",
+    614
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of Liberia?\" are contradictory. The first statement states that the capital of Liberia is Monrovia, which is true. However, the second statement clarifies that the city of Liberia mentioned in the context of the text is not the capital of Liberia, but rather a city in Costa Rica. Therefore, the two statements refer to different places and are not related to each other."
+}

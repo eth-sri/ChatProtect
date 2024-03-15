@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Basel-Stadt?",
+  "orig": "Basel-Stadt does not have a capital as it is a canton in Switzerland.",
+  "alt": "It is Basel.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "is",
+      "a canton in Switzerland."
+    ],
+    "compactie",
+    470
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of Basel-Stadt?\" are contradictory. \n\nStatement 1 claims that Basel-Stadt does not have a capital, while Statement 2 states that the capital of Basel-Stadt is Basel. These two statements cannot both be true at the same time. Therefore, they are contradictory."
+}

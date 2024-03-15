@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Michael?",
+  "orig": "Ephron was a well-known screenwriter, director, and producer who was known for her romantic comedies, such as \"When Harry Met Sally\" and \"Sleepless in Seattle.\"",
+  "alt": "She was a well-known screenwriter, director, and producer in Hollywood, known for her romantic comedies such as \"When Harry Met Sally\" and \"Sleepless in Seattle.\"",
+  "prefix": " The screenwriter for the 1996 film \"Michael\" was Nora Ephron.",
+  "triple": [
+    [
+      "a well-known screenwriter, director, and producer",
+      "was",
+      "known for her romantic comedies, such as \"When Harry"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Michael\" are not contradictory. Both statements provide additional information about Nora Ephron, the screenwriter for the film, highlighting her career as a well-known screenwriter, director, and producer in Hollywood, particularly known for her romantic comedies such as \"When Harry Met Sally\" and \"Sleepless in Seattle.\""
+}

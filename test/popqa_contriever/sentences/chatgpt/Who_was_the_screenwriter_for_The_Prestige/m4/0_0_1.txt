@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Prestige?",
+  "orig": "It is not mentioned who the screenwriter for The Prestige was in the given text.",
+  "alt": "The screenwriter for The Prestige was Christopher Nolan.",
+  "prefix": "",
+  "triple": [
+    [
+      "the screenwriter for The Prestige",
+      "was",
+      "in the given text."
+    ],
+    "compactie",
+    613
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is the correct answer to the prompt, while Statement 1 is a statement of fact about the given text. Therefore, the statements are not contradictory. Statement 1 simply acknowledges that the text does not provide the answer to the prompt, while Statement 2 provides the correct answer."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Carousel?",
+  "orig": "The composer of Carousel was Rodgers.",
+  "alt": "The composer of Carousel was Richard Rodgers.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of Carousel",
+      "was",
+      "Rodgers."
+    ],
+    "compactie",
+    598
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Carousel? are not contradictory. Statement 2 provides the full name of the composer, while Statement 1 only gives the last name. Both statements refer to the same person, Richard Rodgers."
+}

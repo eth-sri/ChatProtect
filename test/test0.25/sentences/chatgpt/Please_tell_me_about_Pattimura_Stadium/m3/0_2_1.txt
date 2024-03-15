@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Pattimura Stadium",
+  "orig": "The stadium has a seating capacity of 20,000 spectators and is primarily used for football matches.",
+  "alt": "The stadium is primarily used for football matches and can hold up to 25,000 spectators.",
+  "prefix": " Pattimura Stadium is a multi-purpose stadium located in Ambon, Maluku, Indonesia. It is named after Pattimura, a national hero from Maluku who fought against Dutch colonialism in the 18th century.",
+  "triple": [
+    [
+      "spectators",
+      "is primarily used",
+      "for football matches."
+    ],
+    "compactie",
+    502
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Pattimura Stadium are contradictory. Statement 1 says that the stadium has a seating capacity of 20,000 spectators, while statement 2 says that it can hold up to 25,000 spectators. These two statements cannot both be true at the same time."
+}

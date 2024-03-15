@@ -1,0 +1,19 @@
+{
+  "target": "What is Rome the capital of?",
+  "orig": "Rome is the capital of Italy and the Lazio region.",
+  "alt": "Rome is the capital of Italy.",
+  "prefix": "",
+  "triple": [
+    [
+      "Rome",
+      "is",
+      "the capital of Italy and the Lazio region."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Rome the capital of?\" are not contradictory. Statement 1 provides additional information that Rome is also the capital of the Lazio region, while Statement 2 only mentions Italy. Both statements are correct and do not contradict each other."
+}

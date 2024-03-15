@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Artifact?",
+  "orig": "The producer of Artifact was Jared Leto and Emma Ludbrook.",
+  "alt": "The producer of Artifact was Emma Ludbrook.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Artifact",
+      "was",
+      "Jared Leto and Emma Ludbrook."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Artifact are not contradictory. Both statements mention Emma Ludbrook as a producer of the film, but the first statement also includes Jared Leto as a co-producer. Therefore, the first statement provides more information about the producers of the film than the second statement."
+}

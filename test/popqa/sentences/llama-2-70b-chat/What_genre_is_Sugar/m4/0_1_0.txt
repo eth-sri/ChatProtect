@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Sugar?",
+  "orig": "Their music style is often classified as indie rock, post-hardcore, and alternative rock.",
+  "alt": "Their music style is often classified as alternative rock.",
+  "prefix": " Sugar is a rock band from New York City, formed in 1992.",
+  "triple": [
+    [
+      "Their music style",
+      "is often classified",
+      "as indie rock, post-hardcore, and alternative rock."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Sugar are not contradictory. Statement 1 provides a more detailed description of the band's music style, including multiple subgenres, while Statement 2 provides a more general classification of alternative rock. Both statements agree that Sugar's music falls under the umbrella of alternative rock."
+}

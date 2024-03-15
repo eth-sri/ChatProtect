@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Andr\u00e9 Watts?",
+  "orig": "Andr\u00e9 Watts is a classical pianist known for his performances of works by composers such as Beethoven, Mozart, and Chopin.",
+  "alt": "As a classical pianist, Andr\u00e9 Watts is known for his interpretations of Romantic-era composers such as Chopin and Liszt.",
+  "prefix": "",
+  "triple": [
+    [
+      "a classical pianist",
+      "known",
+      "for his performances of works by composers such as Beethoven, Mozart, and Chopin."
+    ],
+    "compactie",
+    491
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Andr\u00e9 Watts? are not contradictory. Both statements describe Andr\u00e9 Watts as a classical pianist who is known for his performances of works by composers such as Beethoven, Mozart, Chopin, and Liszt. The only difference is that statement 2 specifies that he is particularly known for his interpretations of Romantic-era composers such as Chopin and Liszt. However, this does not contradict the fact that he is a classical pianist who also performs works by other composers."
+}

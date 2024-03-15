@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Need?",
+  "orig": "It was published in 2008 and is the first book in the \"Need\" series.",
+  "alt": "It was published in 2008.",
+  "prefix": " \"Need\" is a novel written by Carrie Jones.",
+  "triple": [
+    [
+      "It",
+      "was published",
+      "in 2008"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Need? are not contradictory. Both statements provide additional information about the novel \"Need\" and its publication year, but they do not contradict each other. Statement 1 specifies that \"Need\" is the first book in a series, while Statement 2 simply states the year of publication."
+}

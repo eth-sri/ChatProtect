@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Anniversary?",
+  "orig": "Additionally, the play was written by Anton Chekhov, not me, so I couldn't have directed it even if it were a movie.",
+  "alt": "tests tests It were written by Anton Chekhov.",
+  "prefix": " I'm not able to answer that question as it doesn't make sense. The Anniversary is a play, not a movie, so it doesn't have a director.",
+  "triple": [
+    [
+      "it",
+      "were",
+      "a movie."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they provide different information. The first statement clarifies that The Anniversary is a play and therefore doesn't have a director in the traditional sense. The second statement adds that the play was written by Anton Chekhov, which is relevant information but doesn't directly address the question of who directed it (since, as stated in the first statement, there was no director)."
+}

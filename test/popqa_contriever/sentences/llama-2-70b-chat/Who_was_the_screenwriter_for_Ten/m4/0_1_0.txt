@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Ten?",
+  "orig": "Berger adapted his own novel into a screenplay and directed the film, which was released in 1979.",
+  "alt": "Berger adapted the screenplay from his own novel of the same name.",
+  "prefix": " The screenwriter for the film \"Ten\" was actually the author, Thomas Berger, himself.",
+  "triple": [
+    [
+      "Berger",
+      "adapted",
+      "his own novel into a screenplay"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Ten\" are not contradictory. Both statements confirm that Thomas Berger was the screenwriter for the film, and that he adapted the screenplay from his own novel. The only difference is that statement 1 also mentions that Berger directed the film, while statement 2 does not."
+}

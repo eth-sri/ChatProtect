@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Philadelphia?",
+  "orig": "Tony Mammarella was the original producer of the \"Bandstand\" show on WFIL-TV in Philadelphia.",
+  "alt": "Tony Mammarella was the producer of the TV show \"Philadelphia\".",
+  "prefix": "",
+  "triple": [
+    [
+      "Tony Mammarella",
+      "was",
+      "the original producer of the \"Bandstand\" show on WFIL-TV in Philadelphia."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the producer of Philadelphia?\" are contradictory. The first statement correctly identifies Tony Mammarella as the original producer of the \"Bandstand\" show on WFIL-TV in Philadelphia, but the second statement incorrectly refers to \"Philadelphia\" as a TV show produced by Mammarella. There is no TV show called \"Philadelphia\" that Mammarella produced."
+}

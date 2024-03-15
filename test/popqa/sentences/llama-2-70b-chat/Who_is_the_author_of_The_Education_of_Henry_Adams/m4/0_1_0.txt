@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Education of Henry Adams?",
+  "orig": "The book is a memoir and a work of nonfiction, and it was written by Adams himself, reflecting on his life and his experiences as a journalist, historian, and educator.",
+  "alt": "The book is an autobiography.",
+  "prefix": " The author of The Education of Henry Adams is Henry Adams.",
+  "triple": [
+    [
+      "The book",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Education of Henry Adams are not contradictory. Statement 1 provides additional information about the book, including its genre and the fact that it was written by Adams himself. Statement 2 simply confirms that the book is an autobiography, which is consistent with the fact that Adams wrote about his own life experiences."
+}

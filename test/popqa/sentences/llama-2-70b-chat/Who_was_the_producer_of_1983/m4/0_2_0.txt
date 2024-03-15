@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of 1983?",
+  "orig": "The company was formed by the film's director, Terry Gilliam, and his producing partner, Jim Beach.",
+  "alt": "The company was formed in 2016 by filmmaker Terry Gilliam and producer Aron Warner.",
+  "prefix": " The producers of the 1983 film \"1983\" are not explicitly stated. However, the film was produced by a company called \"Uelm Doneu\" which is a play on the phrase \"You'll never know\" in Welsh.",
+  "triple": [
+    [
+      "The company",
+      "was formed",
+      "by the film's director,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of 1983? are contradictory. Statement 1 claims that the company \"Uelm Doneu\" was formed by Terry Gilliam and Jim Beach, while Statement 2 claims that it was formed by Terry Gilliam and Aron Warner. These two statements cannot both be true, as they provide different information about the formation of the company that produced the film."
+}

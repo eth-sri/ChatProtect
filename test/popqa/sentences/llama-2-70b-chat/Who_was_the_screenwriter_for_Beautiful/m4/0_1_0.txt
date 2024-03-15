@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Beautiful?",
+  "orig": "However, the film was directed by Sally Field, who also wrote the screenplay.",
+  "alt": "The film was directed by Sally Field.",
+  "prefix": " The screenwriter for the 2000 film \"Beautiful\" is not explicitly stated.",
+  "triple": [
+    [
+      "the film",
+      "was directed",
+      "by Sally Field,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Beautiful\" are contradictory. Statement 1 suggests that Sally Field wrote the screenplay, while statement 2 only mentions her as the director. Therefore, it is unclear who the actual screenwriter is."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glass?",
+  "orig": "Glass is a play written by Samuel Beckett.",
+  "alt": "The play was written by Tennessee Williams.",
+  "prefix": "",
+  "triple": [
+    [
+      "a play",
+      "written",
+      "by Samuel Beckett."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Glass? are contradictory. Statement 1 correctly identifies Samuel Beckett as the author of Glass, while statement 2 incorrectly attributes the play to Tennessee Williams. Therefore, the two statements cannot both be true at the same time."
+}

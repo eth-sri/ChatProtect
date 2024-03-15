@@ -1,0 +1,19 @@
+{
+  "target": "What is City of Brussels the capital of?",
+  "orig": "The Brussels-Capital Region is a federal region that includes the city of Brussels and several surrounding municipalities.",
+  "alt": "The Brussels-Capital Region is a federal state, and the capital of Belgium.",
+  "prefix": " City of Brussels is the capital of the Brussels-Capital Region, which is one of the three regions of Belgium.",
+  "triple": [
+    [
+      "The Brussels-Capital Region",
+      "is",
+      "a federal region"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 and Statement 2 are contradictory. \n\nStatement 1 correctly states that the Brussels-Capital Region includes the city of Brussels and surrounding municipalities. However, Statement 2 is incorrect in stating that the Brussels-Capital Region is a federal state and the capital of Belgium. The Brussels-Capital Region is not a federal state, but rather a federal region within Belgium. The capital of Belgium is Brussels, which is located within the Brussels-Capital Region."
+}

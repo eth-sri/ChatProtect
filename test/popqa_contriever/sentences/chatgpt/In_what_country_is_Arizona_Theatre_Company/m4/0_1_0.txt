@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Arizona Theatre Company?",
+  "orig": "More specifically, it is located in the state of Arizona, with performances taking place in both Tucson and Phoenix.",
+  "alt": "It is located in the state of Arizona.",
+  "prefix": " Arizona Theatre Company is in the United States.",
+  "triple": [
+    [
+      "it",
+      "is located",
+      "in the state of Arizona,"
+    ],
+    "compactie",
+    598
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements confirm that Arizona Theatre Company is located in the United States, specifically in the state of Arizona. The first statement provides additional information about the specific cities where the theatre company performs, while the second statement simply confirms the state where it is located."
+}

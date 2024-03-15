@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Media Elite?",
+  "orig": "The author of The Media Elite is a book written by David T. Z. Mindich and published in 2004.",
+  "alt": "The book \"The Media Elite\" was written by David Gelernter.",
+  "prefix": "",
+  "triple": [
+    [
+      "a book",
+      "written",
+      "by"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Media Elite? are contradictory. Statement 1 correctly identifies David T. Z. Mindich as the author of the book, while statement 2 incorrectly attributes the authorship to David Gelernter. Therefore, the two statements cannot both be true at the same time."
+}

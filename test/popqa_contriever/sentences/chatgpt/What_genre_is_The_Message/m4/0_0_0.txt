@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Message?",
+  "orig": "The genre of The Message is science fiction and young adult fiction.",
+  "alt": "The genre of The Message is science fiction.",
+  "prefix": "",
+  "triple": [
+    [
+      "The genre of The Message",
+      "is",
+      "science fiction and young adult fiction."
+    ],
+    "compactie",
+    598
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Message are not contradictory. Statement 1 includes both science fiction and young adult fiction as genres, while Statement 2 only includes science fiction. Therefore, Statement 2 is a subset of Statement 1."
+}

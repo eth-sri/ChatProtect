@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Boat?",
+  "orig": "The author of The Boat is Nam Le.",
+  "alt": "The author of The Boat is Ferdinand magazine.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Boat",
+      "is",
+      "Nam Le."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Boat? are contradictory. \n\nStatement 1 correctly identifies Nam Le as the author of The Boat, while Statement 2 incorrectly identifies Ferdinand magazine as the author. The Boat is a collection of short stories written by Nam Le and published in 2008, and Ferdinand magazine is not an author but rather a literary magazine that may have published some of Nam Le's work. Therefore, the two statements cannot both be true at the same time."
+}

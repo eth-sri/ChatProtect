@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of David Cassidy?",
+  "orig": "His father later remarried and had two more children.",
+  "alt": "His father remarried and had a daughter, Shaun Cassidy, who is also a singer and actor.",
+  "prefix": " David Cassidy's father was Jack Cassidy. Jack Cassidy was a singer and actor, and he was married to Evelyn Ward, David's mother. David Cassidy was born in 1950, and his parents divorced when he was young.",
+  "triple": [
+    [
+      "His father",
+      "remarried had",
+      "two more children."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of David Cassidy are contradictory. Statement 1 suggests that Jack Cassidy had two more children after divorcing David's mother, while statement 2 suggests that he had a daughter named Shaun Cassidy who is also a singer and actor. These two statements cannot both be true, as they provide conflicting information about the number and identity of Jack Cassidy's children after his divorce from David's mother."
+}

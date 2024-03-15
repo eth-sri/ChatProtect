@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about ronald ridenhour",
+  "orig": "Ridenhour wrote a letter to President Nixon, the Pentagon, and several members of Congress detailing the atrocities committed by American soldiers in My Lai.",
+  "alt": "In 1969, Ridenhour wrote a letter to President Nixon detailing the My Lai Massacre and calling for an investigation into the incident.",
+  "prefix": " Ronald Ridenhour was an American soldier and whistleblower who exposed the My Lai Massacre during the Vietnam War. He was born on April 6, 1946, in Oakland, California, and served in the United States Army from 1967 to 1968. In March 1968, Ridenhour heard rumors of a massacre of civilians by American soldiers in the village of My Lai. He was shocked by the reports and decided to investigate further. He interviewed several soldiers who had been present during the incident and obtained evidence that confirmed the massacre had indeed taken place.",
+  "triple": [
+    [
+      "a letter to President Nixon,",
+      "detailing",
+      "the atrocities"
+    ],
+    "compactie",
+    588
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Ronald Ridenhour are not contradictory. Both statements mention that Ridenhour wrote a letter to President Nixon detailing the My Lai Massacre and calling for an investigation into the incident. The only difference is that statement 1 mentions that Ridenhour also sent the letter to the Pentagon and several members of Congress, while statement 2 only mentions the letter being sent to President Nixon. However, this difference does not contradict the information provided in either statement."
+}

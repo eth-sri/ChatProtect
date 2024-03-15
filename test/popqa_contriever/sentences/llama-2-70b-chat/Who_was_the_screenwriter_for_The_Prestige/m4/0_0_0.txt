@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Prestige?",
+  "orig": "The screenwriter for the film adaptation of The Prestige was Jonathan Nolan, who collaborated with his brother Christopher Nolan, who directed the film.",
+  "alt": "The screenwriter for the film adaptation was Christopher Nolan, who also directed the film.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the film adaptation",
+      "directed",
+      "the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Prestige are contradictory. Statement 1 claims that Jonathan Nolan was the screenwriter, while statement 2 claims that Christopher Nolan was the screenwriter. However, both statements agree that Christopher Nolan directed the film. Therefore, it is unclear which statement is correct without further information."
+}

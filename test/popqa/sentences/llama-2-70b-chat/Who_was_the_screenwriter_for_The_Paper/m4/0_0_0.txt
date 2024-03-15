@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Paper?",
+  "orig": "The screenwriter for the 1994 film The Paper is Ron Hutchinson.",
+  "alt": "The screenwriter for the 1994 film The Paper is Ron Howard.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the 1994 film The Paper",
+      "is",
+      "Ron Hutchinson."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for The Paper? are contradictory. Statement 1 claims that Ron Hutchinson was the screenwriter for the film, while statement 2 claims that Ron Howard was the screenwriter. Since the two statements provide different names for the screenwriter, they cannot both be true at the same time."
+}

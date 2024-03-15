@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Host?",
+  "orig": "The Host is a 2006 South Korean monster film directed by Bong Joon-ho.",
+  "alt": "The Host is a novel written by Stephenie Meyer.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Host",
+      "is",
+      "a 2006 South Korean monster film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not relevant to the prompt about the composer of The Host. They provide information about the director of a South Korean film and a novel written by Stephenie Meyer, but neither statement addresses the composer of The Host. Therefore, they are not contradictory, but they are not helpful in answering the prompt."
+}

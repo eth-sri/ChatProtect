@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Coventry City F.C. play?",
+  "orig": "They play in League One, which is the third tier of English football.",
+  "alt": "They are a team in the football league.",
+  "prefix": " Coventry City F.C. is a professional football club based in Coventry, England.",
+  "triple": [
+    [
+      "They",
+      "is",
+      "the third tier of English football."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about Coventry City F.C.'s involvement in football. Statement 1 specifies the level at which they play, while Statement 2 clarifies that they are part of the overall football league system. Together, these statements provide a more complete picture of the team's position within English football."
+}

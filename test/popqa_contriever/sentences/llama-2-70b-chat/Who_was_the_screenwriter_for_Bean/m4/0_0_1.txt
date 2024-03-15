@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Bean?",
+  "orig": "Henry Bean wrote the screenplays for the following films:\n\n* \"Internal Affairs\"\n* \"Deep Cover\"\n* \"Venus Rising\"\n* \"The Believer\"\n* \"Basic Instinct 2\"\n* \"Noise\"\n\nTherefore, the answer to the question \"Who was the screenwriter for Bean?\"",
+  "alt": "The screenwriter for \"Bean\" was Henry Bean.",
+  "prefix": "",
+  "triple": [
+    [
+      "question",
+      "was",
+      "the screenwriter for Bean?\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory. The first statement lists the films that Henry Bean wrote the screenplays for, while the second statement suggests that there is a film called \"Bean\" and that Henry Bean was the screenwriter for it. However, there is no film called \"Bean\" and the prompt does not ask about a film called \"Bean\". Therefore, the second statement is incorrect and does not provide any relevant information to answer the prompt."
+}

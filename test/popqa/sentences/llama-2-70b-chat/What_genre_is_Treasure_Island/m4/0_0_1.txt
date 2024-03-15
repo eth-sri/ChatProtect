@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Treasure Island?",
+  "orig": "Treasure Island is a classic adventure novel, and it is classified as a work of historical fiction.",
+  "alt": "It is classified as adventure fiction.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "is classified",
+      "as a work of historical fiction."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Treasure Island are not contradictory. Both statements agree that Treasure Island is an adventure novel, but statement 1 adds that it is also classified as historical fiction. This means that the novel is set in a historical time period and includes elements of historical accuracy, such as the portrayal of pirates and their way of life. Therefore, statement 1 provides additional information about the subgenre of Treasure Island, while statement 2 simply identifies it as adventure fiction."
+}

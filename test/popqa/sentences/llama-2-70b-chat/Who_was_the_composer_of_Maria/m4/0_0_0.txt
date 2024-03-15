@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Maria?",
+  "orig": "The composer of \"Maria\" from the musical \"West Side Story\" is Leonard Bernstein.",
+  "alt": "The composer of \"Maria\" is Leonard Bernstein.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Maria\"",
+      "is",
+      "Leonard Bernstein."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of \"Maria\" are not contradictory. Both statements provide the same answer to the prompt and use the same wording, with the only difference being the inclusion of the musical title in the first statement. Therefore, both statements convey the same information and are not contradictory."
+}

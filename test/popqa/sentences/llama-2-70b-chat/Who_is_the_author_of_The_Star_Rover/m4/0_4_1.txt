@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Star Rover?",
+  "orig": "Jack London was an American novelist, journalist, and social activist who is best known for his novels The Call of the Wild and White Fang, both of which are considered classics of American literature.",
+  "alt": "Jack London is an American novelist, journalist, and social activist.",
+  "prefix": " The author of The Star Rover is Jack London. The Star Rover, also known as The Jacket, is a novel written by Jack London, published in 1915. The novel is a story of a man who is sentenced to life imprisonment on a prison ship, and through a series of events, he becomes the captain of a ship and goes on a voyage to the stars. The novel explores themes of freedom, redemption, and the human spirit.",
+  "triple": [
+    [
+      "an American novelist, journalist, and social activist",
+      "is",
+      "best known for his novels The Call of the Wild"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Star Rover are not contradictory. Both statements identify Jack London as the author of The Star Rover and provide additional information about his background as an American novelist, journalist, and social activist. The only difference between the two statements is that statement 1 specifies that London is best known for his novels The Call of the Wild and White Fang, while statement 2 does not provide this detail."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Blind Spot?",
+  "orig": "Their music style is a mix of hard rock, heavy metal, and punk, and they are often associated with the alternative rock and grunge genres.",
+  "alt": "Their music style is alternative rock.",
+  "prefix": " Blind Spot is a rock band that was formed in 1993 in Sweden.",
+  "triple": [
+    [
+      "Their music style",
+      "is",
+      "a mix of hard rock, heavy metal, and punk,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Blind Spot are contradictory. Statement 1 describes their music style as a mix of hard rock, heavy metal, punk, and associated with alternative rock and grunge genres, while statement 2 simply states that their music style is alternative rock. These descriptions do not match, as statement 1 suggests a more diverse range of influences and genres, while statement 2 is more specific."
+}

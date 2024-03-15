@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Paperboy?",
+  "orig": "The Paperboy is a crime thriller novel.",
+  "alt": "The Paperboy is a crime novel.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Paperboy",
+      "is",
+      "a crime thriller novel."
+    ],
+    "compactie",
+    607
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Paperboy are not contradictory. Both statements describe the novel as belonging to the crime genre, with the first statement adding the additional descriptor of \"thriller.\" Therefore, both statements are consistent with each other."
+}

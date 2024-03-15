@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Oil?",
+  "orig": "He adapted the first 150 pages of the novel into a screenplay and later changed the title to \"There Will Be Blood\".",
+  "alt": "The screenwriter for \"Oil,\" Paul Thomas Anderson, changed the title of the film to \"There Will Be Blood.\"",
+  "prefix": " The screenwriter for \"Oil\" was Paul Thomas Anderson.",
+  "triple": [
+    [
+      "the",
+      "changed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Oil\" are not contradictory. Both statements mention that Paul Thomas Anderson was the screenwriter for the film and that he adapted the first 150 pages of the novel into a screenplay and changed the title to \"There Will Be Blood.\" The only difference is that statement 2 specifically mentions that Anderson changed the title, while statement 1 provides more context about Anderson's process of adapting the novel."
+}

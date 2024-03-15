@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Laura?",
+  "orig": "The screenwriter for the movie \"Laura\" (1944) was Otto Preminger, who also directed the film.",
+  "alt": "The screenwriter for the movie \"Laura\" was Otto Preminger.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the movie",
+      "was",
+      "Otto Preminger,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Laura\" are not contradictory. Both statements identify Otto Preminger as the screenwriter for the movie. The only difference is that the first statement also mentions that Preminger directed the film, while the second statement does not provide that information."
+}

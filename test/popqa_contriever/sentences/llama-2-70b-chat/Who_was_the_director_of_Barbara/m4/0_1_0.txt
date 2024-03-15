@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Barbara?",
+  "orig": "The text only mentions that Frederick H. Pough became the director after Barbara's tenure, and that there were interim directors between Barbara's tenure and Pough's appointment.",
+  "alt": "Frederick H. Pough became the director of the museum in 1972.",
+  "prefix": " The director of the museum during Barbara's tenure was not specified in the provided text.",
+  "triple": [
+    [
+      "Frederick H. Pough",
+      "became",
+      "the director after Barbara's tenure,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 clarifies that the text does not provide information about the director during Barbara's tenure, but only mentions directors before and after her time. Statement 2 provides additional information about one of the directors mentioned in the text, but does not contradict the fact that the director during Barbara's tenure was not specified."
+}

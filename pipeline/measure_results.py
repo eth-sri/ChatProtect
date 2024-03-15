@@ -22,6 +22,7 @@ def get_args():
     parser.add_argument("--convo", action="store_true")
     # these settings are needed for old test sets
     parser.add_argument("--old", action="store_true")
+    parser.add_argument("--parallel", action="store_true")
     parser.add_argument("--sent-mode", type=int, default=3)
     parser.add_argument(
         "--test_sentence_dir", type=str, default="test/test/sentences/chatgpt/"
@@ -77,12 +78,20 @@ def main():
                     continue
 
     cost, scores, labels, files, convos = 0, [], [], [], []
-    for ent_path in sorted(os.listdir(test_dir)):
+    for ent_path in sorted(
+        os.listdir(test_dir)
+        if not args.parallel
+        else os.listdir(os.path.join(test_dir, "1"))
+    ):
         if any(ent_path.startswith(s) for s in ("m4", "m3", "m2")):
             continue
         local_scores, local_labels, local_files, local_convos = [], [], [], []
         local_convo = ""
-        with open(os.path.join(test_dir, ent_path)) as f:
+        with open(
+            os.path.join(test_dir, ent_path)
+            if not args.parallel
+            else os.path.join(test_dir, "1", ent_path, "stdout")
+        ) as f:
             lines = f.readlines()
         for i, line in enumerate(lines):
             line = line.strip()
@@ -124,6 +133,8 @@ def main():
     for i, (label, score, convo) in enumerate(zip(labels, scores, convos)):
         if args.old:
             sent_file = files[i]
+            if pathlib.Path(sent_file).stem.startswith("m"):
+                continue
             for rev_e, e in entities_rev_map.items():
                 sent_file = sent_file.replace(rev_e, e)
             ext_sent = sent_map[sent_file]

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Bertrand Russell?",
+  "orig": "The text only mentions that Patricia Russell, Countess Russell, was the third wife of Bertrand Russell.",
+  "alt": "Patricia Russell, Countess Russell, was the third wife of Bertrand Russell.",
+  "prefix": " The mother of Bertrand Russell is not explicitly mentioned in the provided text.",
+  "triple": [
+    [
+      "Patricia Russell, Countess Russell,",
+      "was",
+      "the third wife of Bertrand Russell."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the mother of Bertrand Russell are not contradictory. While the text does not mention the name or identity of Bertrand Russell's mother, it does provide information about his third wife, Patricia Russell, Countess Russell. Therefore, both statements are true and do not contradict each other."
+}

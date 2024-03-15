@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Tang Empire?",
+  "orig": "The capital of the Tang Empire was Chang'an, which is now known as Xi'an.",
+  "alt": "The capital of the Tang Empire was Chang'an.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of the Tang Empire",
+      "was",
+      "Chang'an,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Tang Empire are not contradictory. Both statements agree that the capital of the Tang Empire was Chang'an. The only difference is that the first statement adds that Chang'an is now known as Xi'an."
+}

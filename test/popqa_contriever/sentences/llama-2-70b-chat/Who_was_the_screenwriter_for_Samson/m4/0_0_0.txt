@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Samson?",
+  "orig": "Samson Raphaelson was a screenwriter, not a film director.",
+  "alt": "Samson Raphaelson was the screenwriter for Samson.",
+  "prefix": "",
+  "triple": [
+    [
+      "Samson Raphaelson",
+      "was",
+      "a screenwriter, not a film director."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the screenwriter for Samson?\" are contradictory. Statement 1 correctly states that Samson Raphaelson was a screenwriter, but it is not relevant to the prompt as it does not answer the question of whether he was the screenwriter for the film \"Samson\". Statement 2 directly answers the prompt by stating that Samson Raphaelson was the screenwriter for \"Samson\", but it is incorrect as there is no evidence that he wrote a screenplay for a film called \"Samson\"."
+}

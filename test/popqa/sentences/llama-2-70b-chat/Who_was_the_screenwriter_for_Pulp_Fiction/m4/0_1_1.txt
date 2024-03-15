@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Pulp Fiction?",
+  "orig": "He not only wrote the screenplay but also directed the film and acted in it as well.",
+  "alt": "He wrote the screenplay in collaboration with Roger Avary.",
+  "prefix": " The screenwriter for Pulp Fiction was Quentin Tarantino.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      "the screenplay"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Pulp Fiction are not contradictory. The first statement provides additional information about Quentin Tarantino's involvement in the film, including his roles as director and actor. The second statement clarifies that Tarantino collaborated with Roger Avary on the screenplay. Both statements are true and do not contradict each other."
+}

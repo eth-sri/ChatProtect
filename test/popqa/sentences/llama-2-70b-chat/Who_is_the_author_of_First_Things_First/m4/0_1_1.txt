@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of First Things First?",
+  "orig": "The book was first published in 1989 and has since become a bestseller.",
+  "alt": "The book has become a bestseller, selling over 25 million copies worldwide.",
+  "prefix": " First Things First is a book written by Stephen Covey, who is an American management consultant, educator, and author.",
+  "triple": [
+    [
+      "The book",
+      "has become",
+      "a bestseller."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of First Things First are not contradictory. Both statements provide additional information about the book, such as its publication date and its success as a bestseller. The first statement simply mentions that the book has become a bestseller, while the second statement provides a specific number of copies sold worldwide."
+}

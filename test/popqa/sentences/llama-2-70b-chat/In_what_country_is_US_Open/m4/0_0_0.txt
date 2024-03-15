@@ -1,0 +1,19 @@
+{
+  "target": "In what country is US Open?",
+  "orig": "The US Open is held in the United States, specifically in New York City.",
+  "alt": "The US Open is held in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "The US Open",
+      "is held",
+      "in the United States,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides a more specific answer by indicating that the US Open is held in New York City within the United States, while Statement 2 simply confirms that the tournament is held in the United States. Both statements are true and do not contradict each other."
+}

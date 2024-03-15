@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Newcastle?",
+  "orig": "The capital of New South Wales is Sydney.",
+  "alt": "The capital of New South Wales is Sydney.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of New South Wales",
+      "is",
+      "Sydney."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements provided are not relevant to the prompt about the capital of City of Newcastle. They both provide information about the capital of New South Wales, which is not the same as the City of Newcastle. Therefore, the statements are not contradictory, but they are not answering the prompt."
+}

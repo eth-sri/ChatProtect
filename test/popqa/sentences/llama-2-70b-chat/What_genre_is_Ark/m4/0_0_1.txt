@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Ark?",
+  "orig": "Ark: Survival Evolved is a survival game that belongs to the action-adventure and survival horror genres.",
+  "alt": "A survival game belongs to the genre of action-adventure games.",
+  "prefix": "",
+  "triple": [
+    [
+      "a survival game",
+      "belongs",
+      "to the action-adventure and survival horror genres."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Ark are not contradictory. Statement 1 provides a more specific categorization of Ark as belonging to both the action-adventure and survival horror genres, while Statement 2 provides a broader categorization of survival games as a subgenre of action-adventure games. Both statements are accurate and complement each other in describing the genre of Ark."
+}

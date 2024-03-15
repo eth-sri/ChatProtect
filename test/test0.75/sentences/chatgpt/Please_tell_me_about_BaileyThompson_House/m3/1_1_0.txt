@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "It was built in 1895 by James Bailey, a prominent local businessman, and later purchased by John Thompson, a successful attorney.",
+  "alt": "It was built in 1895.",
+  "prefix": " The Bailey-Thompson House is a historic home located in the town of Black Mountain, North Carolina.",
+  "triple": [
+    [
+      "It",
+      "was built",
+      "in 1895 by James Bailey, a prominent local businessman,"
+    ],
+    "compactie",
+    464
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Statement 1 provides additional information about the ownership history of the Bailey-Thompson House, while Statement 2 simply restates the year it was built."
+}

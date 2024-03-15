@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Avatar?",
+  "orig": "Avatar is a science fiction film directed by James Cameron and released in 2009.",
+  "alt": "Avatar is a science fiction film directed by James Cameron.",
+  "prefix": "",
+  "triple": [
+    [
+      "a science fiction film",
+      "directed",
+      "by James Cameron"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Avatar are not contradictory. Both statements identify Avatar as a science fiction film directed by James Cameron. The second statement is simply a more concise version of the first statement."
+}

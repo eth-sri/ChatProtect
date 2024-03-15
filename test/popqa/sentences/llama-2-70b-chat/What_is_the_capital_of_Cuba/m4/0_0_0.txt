@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Cuba?",
+  "orig": "The capital of Cuba is Havana (La Habana).",
+  "alt": "The capital of Cuba is Havana.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Cuba",
+      "is",
+      "Havana"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Cuba are not contradictory. Both statements provide the same answer to the prompt, with the second statement simply omitting the Spanish name for Havana. Therefore, both statements convey the same information and are not contradictory."
+}

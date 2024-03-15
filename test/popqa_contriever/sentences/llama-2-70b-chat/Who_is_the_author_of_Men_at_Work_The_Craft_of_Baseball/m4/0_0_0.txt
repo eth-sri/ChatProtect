@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Men at Work: The Craft of Baseball?",
+  "orig": "The author of Men at Work: The Craft of Baseball is George Will, a Pulitzer Prize-winning American author.",
+  "alt": "The author of Men at Work: The Craft of Baseball is George Will.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Men at Work:",
+      "is",
+      "George Will, a Pulitzer Prize-winning American author."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Men at Work: The Craft of Baseball are not contradictory. Statement 1 provides additional information about the author, specifically that he is a Pulitzer Prize-winning American author. Statement 2 simply states the author's name without any additional information."
+}

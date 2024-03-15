@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Pulaski County?",
+  "orig": "There are multiple counties named Pulaski in the United States.",
+  "alt": "There are multiple counties named Pulaski in the United States, so it depends on which state you are referring to.",
+  "prefix": "",
+  "triple": [
+    [
+      "multiple counties",
+      "named",
+      "Pulaski in the United States."
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement simply acknowledges that there are multiple counties with the name Pulaski in the United States, while the second statement clarifies that the answer to the question depends on which state the county is located in. Both statements are true and do not contradict each other."
+}

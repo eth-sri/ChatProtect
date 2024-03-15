@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Vagabond?",
+  "orig": "The author of Vagabond is Takehiko Inoue.",
+  "alt": "The author of Vagabond is Bernard Cornwell.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Vagabond",
+      "is",
+      "Takehiko Inoue."
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Vagabond? are contradictory. Statement 1 correctly identifies Takehiko Inoue as the author of Vagabond, while Statement 2 incorrectly identifies Bernard Cornwell as the author. Therefore, the two statements cannot both be true at the same time."
+}

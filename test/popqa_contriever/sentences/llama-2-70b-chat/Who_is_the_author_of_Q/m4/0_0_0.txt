@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Q?",
+  "orig": "The author of Q is Luther Blissett, which is a pen name used by four Italian authors: Roberto Bui, Giovanni Cattabriga, Federico Guglielmi, and Luca Di Meo.",
+  "alt": "The author of Q is Luther Blissett.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Q",
+      "is",
+      "Luther Blissett,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Q? are not contradictory. Statement 1 provides additional information about the fact that Luther Blissett is a pen name used by four Italian authors, while Statement 2 simply states that Luther Blissett is the author of Q. Both statements are true and do not contradict each other."
+}

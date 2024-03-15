@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Roads?",
+  "orig": "The author of \"Roads\" is a poem by the Portuguese poet Fernando Pessoa.",
+  "alt": "The author of \"Roads\" is Ma Jian.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Roads\"",
+      "is",
+      "a poem by the Portuguese poet Fernando Pessoa."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Roads? are contradictory. The first statement identifies the author of \"Roads\" as the Portuguese poet Fernando Pessoa, while the second statement identifies the author as Ma Jian. These are two different authors, and therefore the statements cannot both be true."
+}

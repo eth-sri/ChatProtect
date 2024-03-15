@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Comic?",
+  "orig": "According to the information provided, the director of The Comic was Kida.",
+  "alt": "The director of The Comic was Will Eisner.",
+  "prefix": "",
+  "triple": [
+    [
+      "the director of The Comic",
+      "was",
+      "Kida."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Comic? are contradictory. Statement 1 claims that the director of The Comic was Kida, while Statement 2 claims that the director of The Comic was Will Eisner. However, the prompt does not mention any specific comic called \"The Comic\", so it is unclear which statement is correct. It is possible that both Kida and Eisner were directors of different comics with similar titles."
+}

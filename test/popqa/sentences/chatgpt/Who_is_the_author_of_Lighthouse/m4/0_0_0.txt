@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Lighthouse?",
+  "orig": "Lighthouse is a general term that does not refer to a specific book or author.",
+  "alt": "\"Lighthouse\" is a novel written by Virginia Woolf.",
+  "prefix": "",
+  "triple": [
+    [
+      "Lighthouse",
+      "is",
+      "a general term"
+    ],
+    "compactie",
+    478
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Lighthouse? are contradictory. \n\nStatement 1 suggests that there is no specific author of Lighthouse, as it is a general term. However, Statement 2 directly contradicts this by stating that Virginia Woolf is the author of a novel titled Lighthouse. Therefore, the two statements cannot both be true at the same time."
+}

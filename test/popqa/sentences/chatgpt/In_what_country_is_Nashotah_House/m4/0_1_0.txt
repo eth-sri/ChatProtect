@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Nashotah House?",
+  "orig": "It is located in Nashotah, Wisconsin.",
+  "alt": "It is located in the state of Wisconsin.",
+  "prefix": " Nashotah House is in the United States.",
+  "triple": [
+    [
+      "It",
+      "is located",
+      ""
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides a more specific location within the United States, while Statement 2 provides a broader location within the state of Wisconsin. Both statements are true and complement each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Le Fils d'Amr est mort?",
+  "orig": "Therefore, he was not the screenwriter for Le Fils d'Amr est mort.",
+  "alt": "He was not the screenwriter for Le Fils d'Amr est mort.",
+  "prefix": " According to the text, Serge-Simon Held was a French science fiction author, not a screenwriter.",
+  "triple": [
+    [
+      "he",
+      "was not",
+      "the screenwriter for Le Fils d'Amr est mort."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements simply reiterate the fact that Serge-Simon Held was not the screenwriter for Le Fils d'Amr est mort, based on the information provided in the text."
+}

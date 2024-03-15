@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Carlaw Park play?",
+  "orig": "It was used to play rugby league, rugby union, soccer, and other sports.",
+  "alt": "It was used to play rugby league.",
+  "prefix": " Carlaw Park was a former sports stadium located in Auckland, New Zealand.",
+  "triple": [
+    [
+      "It",
+      "was used to play",
+      "rugby league, rugby union, soccer, and other sports."
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What sport does Carlaw Park play? are contradictory. Statement 1 suggests that Carlaw Park was used to play multiple sports including rugby league, rugby union, soccer, and others. However, statement 2 contradicts this by stating that Carlaw Park was only used to play rugby league. Therefore, the two statements cannot both be true at the same time."
+}

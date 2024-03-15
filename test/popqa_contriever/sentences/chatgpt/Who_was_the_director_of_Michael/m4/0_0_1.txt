@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Michael?",
+  "orig": "The article does not mention a director of a film or TV show called \"Michael\".",
+  "alt": "A director of the 1996 film \"Michael\" was Nora Ephron.",
+  "prefix": "",
+  "triple": [
+    [
+      "a director of a film or TV show",
+      "called",
+      "\"Michael\"."
+    ],
+    "compactie",
+    609
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Michael? are not contradictory. Statement 1 simply states that the article does not mention a director of a film or TV show called \"Michael\", while statement 2 provides information about a specific director of a film called \"Michael\" from 1996. They are not referring to the same thing, so there is no contradiction."
+}

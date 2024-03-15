@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Annie?",
+  "orig": "The musical features a range of musical styles, including jazz, pop, and classic Broadway show tunes, and is known for its catchy and memorable songs, such as \"Tomorrow\" and \"It's a Hard-Knock Life.\"",
+  "alt": "The musical styles, including jazz, pop, and classic Broadway show tunes, is known for its catchy and memorable songs, such as \"Tomorrow\" and \"It's a Hard-Knock Life.\"",
+  "prefix": " Annie is a musical comedy. It is a stage musical that combines elements of comedy, drama, and music to tell the story of a plucky young orphan named Annie who is determined to find her parents and a sense of belonging.",
+  "triple": [
+    [
+      "a range of musical styles, including jazz, pop, and classic Broadway show tunes,",
+      "is known",
+      "for its catchy and memorable songs, such as \"Tomorrow\" and \"It's"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Annie?\" are not contradictory. Both statements provide additional information about the musical style and memorable songs featured in Annie, which are consistent with the musical comedy genre. Statement 1 specifically mentions the range of musical styles, while Statement 2 focuses on the catchy and memorable songs. Both statements support the idea that Annie is a musical comedy."
+}

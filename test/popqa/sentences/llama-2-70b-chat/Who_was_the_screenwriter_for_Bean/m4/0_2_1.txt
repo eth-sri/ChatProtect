@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Bean?",
+  "orig": "In addition to \"Bean,\" he also wrote the screenplay for the 2003 film \"Mr. Bean's Holiday,\" which starred Rowan Atkinson reprising his role as the title character.",
+  "alt": "The screenplay for the 2003 film \"Bean\" starred Rowan Atkinson as the titular character.",
+  "prefix": " The screenwriter for the 1997 film \"Bean\" was Richard Curtis. Curtis is a British screenwriter, producer, and film director, known for his work on a variety of successful films and television shows, including \"Four Weddings and a Funeral,\" \"Notting Hill,\" and \"Love Actually.\"",
+  "triple": [
+    [
+      "the screenplay for the 2003 film",
+      "starred",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory because the first statement mentions that Richard Curtis wrote the screenplay for \"Mr. Bean's Holiday,\" while the second statement mentions that he wrote the screenplay for \"Bean.\" However, \"Bean\" and \"Mr. Bean's Holiday\" are two different films, and therefore, only one of the statements can be correct."
+}

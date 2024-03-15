@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Cable?",
+  "orig": "The passage only mentions that Cable has a wife and a daughter, and that the wife has a secret that she has kept hidden from her husband.",
+  "alt": "She has kept hidden the truth about her daughter's parentage.",
+  "prefix": " The mother of Cable is not explicitly mentioned in the passage.",
+  "triple": [
+    [
+      "she",
+      "has kept hidden",
+      "from her husband."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the passage does not explicitly mention the mother of Cable, it does provide information about Cable's wife and daughter, and the secret that the wife has kept hidden about the daughter's parentage. Therefore, statement 1 is accurate. Statement 2 further elaborates on the secret that Cable's wife has kept hidden, specifically that it pertains to the daughter's parentage. Both statements are consistent with the information provided in the passage."
+}

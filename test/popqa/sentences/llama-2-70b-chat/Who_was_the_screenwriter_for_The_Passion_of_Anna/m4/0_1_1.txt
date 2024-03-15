@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Passion of Anna?",
+  "orig": "Bergman was a Swedish filmmaker and screenwriter who is widely regarded as one of the greatest filmmakers of all time.",
+  "alt": "b. is widely regarded as one of the greatest directors in the history of cinema.",
+  "prefix": " The screenwriter for The Passion of Anna (1969) was Ingmar Bergman.",
+  "triple": [
+    [
+      "a",
+      "is widely regarded",
+      "as one of the greatest filmmakers of all time."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement specifically mentions Bergman's role as a screenwriter for The Passion of Anna, the second statement provides additional information about Bergman's overall reputation as a filmmaker and director. Both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Giver?",
+  "orig": "The movie was directed by Phillip Noyce and released by The Weinstein Company.",
+  "alt": "by Phillip Noyce; released; 2014.",
+  "prefix": " The producer of the 2014 film adaptation of Lois Lowry's novel \"The Giver\" was Jeff Bridges. Bridges not only produced the film but also starred in it as the character Jonas' father.",
+  "triple": [
+    [
+      "by Phillip Noyce",
+      "released",
+      "by The Weinstein Company."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Giver are not contradictory. Statement 1 provides additional information about the movie, including the director and the company that released it, while Statement 2 simply lists the director and the year of release. Both statements confirm that Jeff Bridges was the producer of the film."
+}

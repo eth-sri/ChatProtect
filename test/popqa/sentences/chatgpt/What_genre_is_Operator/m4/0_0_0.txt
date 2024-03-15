@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Operator?",
+  "orig": "Operator is a crime thriller genre film.",
+  "alt": "Operator is a thriller film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Operator",
+      "is",
+      "a crime thriller genre film."
+    ],
+    "compactie",
+    468
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Operator are not contradictory. Both statements identify Operator as a thriller film, with the first statement specifying that it falls within the crime subgenre. Therefore, the two statements complement each other and do not present conflicting information."
+}

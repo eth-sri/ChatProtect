@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Home?",
+  "orig": "The screenwriter for the movie \"Home\" (2015) was Jennifer Yuh Nelson.",
+  "alt": "The screenwriter for the movie \"Home\" was Jim Parsons.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the movie \"Home\"",
+      "was",
+      "Jennifer Yuh Nelson."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for Home? are contradictory. \n\nStatement 1 correctly identifies Jennifer Yuh Nelson as the screenwriter for the movie \"Home\" (2015), while Statement 2 incorrectly identifies Jim Parsons as the screenwriter. Jim Parsons was actually one of the voice actors in the movie, not the screenwriter. Therefore, the two statements contradict each other."
+}

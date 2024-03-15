@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Homer Simpson",
+  "orig": "Homer is known for his love of beer, donuts, and his catchphrase \"D'oh!\"",
+  "alt": "Homer is known for his love of beer and his catchphrase \"D'oh!\"",
+  "prefix": " Homer Simpson is a fictional character and the main protagonist of the American animated sitcom \"The Simpsons\". He is voiced by actor Dan Castellaneta and was created by cartoonist Matt Groening. Homer is a middle-aged, overweight, and lazy man who works as a safety inspector at the Springfield Nuclear Power Plant. He is married to Marge Simpson and has three children: Bart, Lisa, and Maggie.",
+  "triple": [
+    [
+      "Homer",
+      "is known",
+      "for his love of beer, donuts,"
+    ],
+    "compactie",
+    533
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Homer Simpson are not contradictory, but rather the second statement is a simplified version of the first statement. Both statements mention Homer's love for beer and his catchphrase \"D'oh!\", but the first statement also includes his love for donuts. Therefore, the second statement can be seen as a summary of the first statement, rather than a contradiction."
+}

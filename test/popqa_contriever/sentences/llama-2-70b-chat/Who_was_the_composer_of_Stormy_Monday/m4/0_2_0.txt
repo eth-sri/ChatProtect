@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Stormy Monday?",
+  "orig": "However, the composer of the song is not mentioned in the passage.",
+  "alt": "The composer of the song is not mentioned in the passage, and it appears that the focus is on the various artists who have recorded and interpreted the song over time.",
+  "prefix": " The composer of \"Stormy Monday\" is not explicitly stated in the passage. The song was originally recorded by Lou Rawls in 1962, and it is mentioned that Latimore recorded his own version of the song in 1973.",
+  "triple": [
+    [
+      "the composer of the song",
+      "is not mentioned",
+      "in the passage."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements acknowledge that the composer of \"Stormy Monday\" is not mentioned in the passage and that the focus is on the various artists who have recorded and interpreted the song over time."
+}

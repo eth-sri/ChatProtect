@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Do the Right Thing?",
+  "orig": "He not only wrote the screenplay but also directed and starred in the film.",
+  "alt": "The screenplay was also directed by Spike Lee.",
+  "prefix": " The screenwriter for the film \"Do the Right Thing\" was Spike Lee.",
+  "triple": [
+    [
+      "the screenplay",
+      "also directed",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Do the Right Thing are contradictory. Statement 1 suggests that Spike Lee not only wrote the screenplay but also directed and starred in the film, while Statement 2 suggests that the screenplay was also directed by Spike Lee. However, it is not possible for the screenplay to be directed as it is a written document that serves as a blueprint for the film. Therefore, Statement 2 is incorrect and contradicts Statement 1."
+}

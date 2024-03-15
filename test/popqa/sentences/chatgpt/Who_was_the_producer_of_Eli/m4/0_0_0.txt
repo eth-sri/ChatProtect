@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Eli?",
+  "orig": "The producer of Eli is John Zaozirny.",
+  "alt": "The producer of Eli is Trevor Macy.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Eli",
+      "is",
+      "John Zaozirny."
+    ],
+    "compactie",
+    475
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Eli? are contradictory because they provide different names for the producer of the movie. Statement 1 claims that John Zaozirny was the producer, while statement 2 claims that Trevor Macy was the producer. Since they cannot both be true, the statements contradict each other."
+}

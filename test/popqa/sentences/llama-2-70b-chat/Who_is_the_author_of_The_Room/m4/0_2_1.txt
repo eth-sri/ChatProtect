@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Room?",
+  "orig": "The Room was released in 2003 and has since gained a cult following, with many fans praising its unique and bizarre style.",
+  "alt": "The Room was released in 2003.",
+  "prefix": " The author of The Room is Tommy Wiseau. He is a Polish-American actor, writer, and director who is best known for creating and starring in the film.",
+  "triple": [
+    [
+      "The Room",
+      "was released has",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Room are not contradictory. Statement 1 provides additional information about the film's popularity and style, while Statement 2 simply states the year of its release. Both statements are true and do not contradict each other."
+}

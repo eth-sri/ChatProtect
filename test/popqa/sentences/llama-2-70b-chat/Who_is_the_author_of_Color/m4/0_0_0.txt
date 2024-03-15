@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Color?",
+  "orig": "The author of \"Color\" is a book written by Victoria Finlay.",
+  "alt": "The author of \"Color\" is Victoria Finlay.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Color\"",
+      "is",
+      "a book"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Color\" are not contradictory. Both statements convey the same information that Victoria Finlay is the author of the book \"Color\". The only difference is the way the information is presented, with statement 1 providing a more detailed description of the book being written by Victoria Finlay."
+}

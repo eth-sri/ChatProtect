@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of 9?",
+  "orig": "The producers of 9 include:\n\n* Jim Lemley\n* Tim Burton\n* Timur Bekmambetov\n* Dana Ginsburg",
+  "alt": "The producers of 9 include Tim Burton, Timur Bekmambetov, and Jim Lemley.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producers of 9",
+      "include:",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of 9 are not contradictory. Both statements provide the same information, listing the same producers (Jim Lemley, Tim Burton, Timur Bekmambetov, and Dana Ginsburg), but in a slightly different order. Statement 2 simply omits Dana Ginsburg from the list."
+}

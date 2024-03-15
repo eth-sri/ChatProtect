@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Texas?",
+  "orig": "The current capital of Texas is Austin.",
+  "alt": "The current capital of Texas is Austin.",
+  "prefix": "",
+  "triple": [
+    [
+      "The current capital of Texas",
+      "is",
+      "Austin."
+    ],
+    "compactie",
+    595
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Texas?\" are not contradictory. However, it seems that Statement 2 is a repetition of Statement 1, which makes it unnecessary."
+}

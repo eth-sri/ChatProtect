@@ -1,0 +1,19 @@
+{
+  "target": "What is Boston the capital of?",
+  "orig": "Boston is not the capital of any state or country.",
+  "alt": "Boston is not the capital of Massachusetts.",
+  "prefix": "",
+  "triple": [
+    [
+      "Boston",
+      "is not",
+      "the capital of any state or country."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is Boston the capital of?\" are contradictory. \n\nStatement 1 claims that Boston is not the capital of any state or country, while Statement 2 specifically states that Boston is not the capital of Massachusetts. However, Massachusetts is a state in the United States, which means that Statement 2 contradicts Statement 1. If Boston is not the capital of any state or country, then it cannot be the capital of Massachusetts, which is a state. Therefore, the two statements cannot both be true at the same time."
+}

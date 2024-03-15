@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Damian Wayne?",
+  "orig": "The father of Damian Wayne is Bruce Wayne, also known as Batman.",
+  "alt": "The father of Damian Wayne is Bruce Wayne.",
+  "prefix": "",
+  "triple": [
+    [
+      "The father of Damian Wayne",
+      "is",
+      "Bruce Wayne,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements correctly identify Bruce Wayne as the father of Damian Wayne. The only difference is that the first statement includes Bruce Wayne's alter ego, Batman, while the second statement does not."
+}

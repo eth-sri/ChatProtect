@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Americans?",
+  "orig": "The novel was published in 1963 and is considered one of Roth's most important works.",
+  "alt": "The novel was published in 1966.",
+  "prefix": " The author of The Americans is Philip Roth.",
+  "triple": [
+    [
+      "The novel",
+      "was published",
+      "in 1963"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Americans? are contradictory. The first statement correctly states that the author of The Americans is Philip Roth and provides additional information about the novel's significance. However, the second statement is incorrect as The Americans was actually published in 1958, not 1966."
+}

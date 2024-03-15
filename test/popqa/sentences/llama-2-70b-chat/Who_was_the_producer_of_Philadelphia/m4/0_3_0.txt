@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Philadelphia?",
+  "orig": "It was a critical and commercial success, and it won several awards, including two Academy Awards.",
+  "alt": "It was a critical and commercial success, winning several awards and earning Hanks an Academy Award for Best Actor.",
+  "prefix": " The producer of the movie Philadelphia was Jonathan Demme. He was a film director, producer, and screenwriter who was known for his work on a variety of films, including Philadelphia, The Silence of the Lambs, and Rachel Getting Married. Philadelphia was released in 1993 and starred Tom Hanks and Denzel Washington.",
+  "triple": [
+    [
+      "It",
+      "was",
+      "a critical and commercial success,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While Statement 1 mentions that Philadelphia won several awards, it does not specify which awards were won. Statement 2 provides more specific information by mentioning that Tom Hanks won an Academy Award for Best Actor for his role in the film. Both statements are true and complement each other."
+}

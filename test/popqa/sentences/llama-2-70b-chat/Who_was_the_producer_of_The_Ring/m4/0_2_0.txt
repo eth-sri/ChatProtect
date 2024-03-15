@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Ring?",
+  "orig": "The film was directed by Gore Verbinski and starred Naomi Watts, Martin Henderson, and David Dorfman.",
+  "alt": "The film was directed by Gore Verbinski.",
+  "prefix": " The producer of the 2002 horror film The Ring was Walter F. Parkes and Laurie MacDonald. They produced the film through their production company, Parkes/MacDonald Productions.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by Gore Verbinski"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Ring are not contradictory. Both statements provide additional information about the film, but they do not contradict each other. Statement 1 provides information about the cast of the film, while Statement 2 simply reiterates the fact that Gore Verbinski directed the film."
+}

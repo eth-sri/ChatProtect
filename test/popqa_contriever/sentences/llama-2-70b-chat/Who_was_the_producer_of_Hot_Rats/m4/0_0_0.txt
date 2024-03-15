@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Hot Rats?",
+  "orig": "The producer of Hot Rats was Frank Zappa himself.",
+  "alt": "The producer of Hot Rats was Frank Zappa.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Hot Rats",
+      "was",
+      "Frank Zappa himself."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Hot Rats are not contradictory. They both state that Frank Zappa was the producer of the album. The only difference is that statement 2 is a shorter version of statement 1, omitting the word \"himself\"."
+}

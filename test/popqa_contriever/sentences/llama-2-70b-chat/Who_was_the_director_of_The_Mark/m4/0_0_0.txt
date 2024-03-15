@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Mark?",
+  "orig": "The director of The Mark is not specified in the text.",
+  "alt": "The director of The Mark is Jon Amiel.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of The Mark",
+      "is not specified",
+      "in the text."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Mark? are contradictory. Statement 1 indicates that the director of The Mark is not specified in the text, while statement 2 specifies that the director of The Mark is Jon Amiel. Therefore, one statement denies the existence of information about the director, while the other provides a specific name for the director, creating a contradiction."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kabul?",
+  "orig": "The capital of Afghanistan is Kabul.",
+  "alt": "The capital of Afghanistan is Kabul.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Afghanistan",
+      "is",
+      "Kabul."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but there is an error in the wording of the prompt. The prompt should read \"What is the capital of Afghanistan?\" instead of \"What is the capital of Kabul?\" as Kabul is already established as the capital in the prompt. Therefore, both statements are correct in stating that the capital of Afghanistan is Kabul."
+}

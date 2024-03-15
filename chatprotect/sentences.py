@@ -10,7 +10,7 @@ from chatprotect.util import split_sentences
 
 def extract_triples_compact_ie(text: str):
     """Uses the CompactIE API to extract triples, running locally"""
-    request = {"sentences": [s for s in split_sentences(text)]}
+    request = {"sentences": [s.strip() for s in split_sentences(text)]}
     result = requests.post("http://0.0.0.0:39881/api", json=request).json()
     return [(a["subject"], a["relation"], a["object"]) for a in result]
 

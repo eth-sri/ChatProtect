@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Museum of Islamic Art?",
+  "orig": "The Museum of Islamic Art is located in Qatar.",
+  "alt": "The Museum of Islamic Art is located in Doha, Qatar.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Museum of Islamic Art",
+      "is located",
+      "in Qatar."
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of the Museum of Islamic Art are not contradictory. Both statements agree that the museum is located in Qatar, with the second statement providing additional information that specifies the city of Doha as its location. Therefore, the statements are complementary and not contradictory."
+}

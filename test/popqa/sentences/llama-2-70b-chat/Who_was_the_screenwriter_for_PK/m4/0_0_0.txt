@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for PK?",
+  "orig": "The screenwriter for the movie PK was Rajkumar Hirani, who also directed the film.",
+  "alt": "The screenwriter for the movie PK was Rajkumar Hirani.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the movie",
+      "was",
+      "Rajkumar Hirani,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements correctly identify Rajkumar Hirani as the screenwriter for the movie PK. The only difference is that statement 1 also mentions that Hirani directed the film, while statement 2 does not provide that additional information."
+}

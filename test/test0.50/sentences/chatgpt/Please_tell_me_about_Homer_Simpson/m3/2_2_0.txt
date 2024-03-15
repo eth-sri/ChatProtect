@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Homer Simpson",
+  "orig": "Homer works as a safety inspector at the Springfield Nuclear Power Plant, where he often causes accidents and mishaps due to his incompetence.",
+  "alt": "Homer works at the Springfield Nuclear Power Plant as a safety inspector.",
+  "prefix": " Homer Simpson is a fictional character and the main protagonist of the American animated sitcom, The Simpsons. He is the father of the Simpson family and is known for his lazy and often clueless personality.",
+  "triple": [
+    [
+      "Homer",
+      "works",
+      "as a safety inspector at the Springfield Nuclear Power Plant,"
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Homer Simpson are not contradictory. While Statement 1 provides additional information about Homer's incompetence at his job, Statement 2 simply states his job title. Both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Tyler Ritter?",
+  "orig": "Tyler Ritter is the son of John Ritter, an American actor and comedian known for his roles in the sitcoms \"Three's Company\" and \"8 Simple Rules.\"",
+  "alt": "Tyler Ritter is known as the son of John Ritter.",
+  "prefix": "",
+  "triple": [
+    [
+      "Tyler Ritter",
+      "is known",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Tyler Ritter are not contradictory. Both statements identify John Ritter as Tyler Ritter's father. The only difference is that statement 1 provides more context about John Ritter's career and fame, while statement 2 simply states that Tyler Ritter is known as John Ritter's son."
+}

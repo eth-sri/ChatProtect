@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Carlaw Park play?",
+  "orig": "Carlaw Park is a stadium in Auckland, New Zealand, and it is primarily used for rugby league and rugby union matches.",
+  "alt": "Carlaw Park is a rugby league stadium.",
+  "prefix": "",
+  "triple": [
+    [
+      "Carlaw Park",
+      "is",
+      "a stadium in Auckland, New Zealand,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about what sport Carlaw Park plays are not contradictory. Statement 1 indicates that the stadium is primarily used for both rugby league and rugby union matches, while statement 2 specifies that it is a rugby league stadium. Therefore, statement 2 is a more specific description of the primary use of the stadium mentioned in statement 1."
+}

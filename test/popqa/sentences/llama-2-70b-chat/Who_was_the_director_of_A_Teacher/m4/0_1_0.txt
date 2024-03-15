@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of A Teacher?",
+  "orig": "The film was produced by HBO and was released in 2020.",
+  "alt": "The film was produced by Hanan Kattan.",
+  "prefix": " The director of A Teacher is not explicitly stated.",
+  "triple": [
+    [
+      "The film",
+      "was produced",
+      "by HBO"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of A Teacher? are not contradictory. While the first statement mentions that the director is not explicitly stated, the second statement provides information about the producer of the film, Hanan Kattan. The producer and director of a film are two different roles, and it is possible for a film to have a producer without a director being explicitly stated. Therefore, the two statements do not contradict each other."
+}

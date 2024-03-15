@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Ten?",
+  "orig": "The screenwriter for the film \"Ten\" (2020) is Radu Jude.",
+  "alt": "The screenwriter for the film is Abbas Kiarostami.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the film",
+      "is",
+      "Radu Jude."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for Ten? are contradictory. Statement 1 claims that Radu Jude was the screenwriter for the film \"Ten\" (2020), while statement 2 claims that Abbas Kiarostami was the screenwriter. Since the two statements provide different answers to the same question, they cannot both be true at the same time. Therefore, they are contradictory."
+}

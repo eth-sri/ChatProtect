@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "Therefore, the company is not limited to operating in one country but has operations in multiple countries.",
+  "alt": "The company is operating in South Korea.",
+  "prefix": " According to the information provided, Korea National Oil Corporation (KNOC) operates in several countries including Vietnam, Libya, Peru, Indonesia, Nigeria, Yemen, Kazakhstan, Russia, Canada, and South Korea.",
+  "triple": [
+    [
+      "the company",
+      "operating",
+      "in one country"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 highlights that KNOC operates in multiple countries, while Statement 2 specifically mentions that the company operates in South Korea. Both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Carrie?",
+  "orig": "The musical was first performed on Broadway in 1988 and was directed by Terry Hands.",
+  "alt": "The musical was first performed on Broadway in 1988.",
+  "prefix": " The composer of the musical \"Carrie\" is Michael Gore. He wrote the music and lyrics for the show, which was based on the novel of the same name by Stephen King.",
+  "triple": [
+    [
+      "The musical",
+      "was first performed",
+      "on Broadway in 1988"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Carrie\" are not contradictory. While statement 1 provides additional information about the director of the Broadway production, it does not contradict the fact that Michael Gore was the composer of the musical. Statement 2 simply restates the year and location of the musical's first performance."
+}

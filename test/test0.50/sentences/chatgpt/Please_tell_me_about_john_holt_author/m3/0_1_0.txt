@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about john holt (author)",
+  "orig": "He was born in New York City and studied at Yale University before serving in World War II.",
+  "alt": "He was born and studied in New York City.",
+  "prefix": " John Holt (1923-1985) was an American author and educator who is best known for his advocacy of homeschooling and unschooling.",
+  "triple": [
+    [
+      "He",
+      "was born studied",
+      "at Yale University before serving in World War II."
+    ],
+    "compactie",
+    477
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. \n\nStatement 1 suggests that John Holt not only studied at Yale University but also served in World War II, while Statement 2 implies that he only studied in New York City. Therefore, the two statements cannot both be true at the same time."
+}

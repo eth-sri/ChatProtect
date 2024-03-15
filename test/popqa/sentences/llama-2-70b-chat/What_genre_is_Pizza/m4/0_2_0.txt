@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Pizza?",
+  "orig": "Pizza does not fit into any of these categories, as it is a type of culinarykon delight.",
+  "alt": "Pizza does not fit into any specific genre, as it is a type of cuisine rather than a form of artistic expression.",
+  "prefix": " Pizza is a type of food, rather than a genre. Genres are categories of artistic expression, such as music, film, or literature.",
+  "triple": [
+    [
+      "Pizza",
+      "does not fit",
+      "into any of these categories,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Pizza?\" are not contradictory. Both statements emphasize that pizza is a type of food or cuisine, and not a form of artistic expression that can be categorized into a specific genre. While statement 1 emphasizes that pizza does not fit into any artistic category, statement 2 emphasizes that pizza is a type of cuisine. Therefore, both statements complement each other and provide a clear understanding that pizza cannot be classified as a genre."
+}

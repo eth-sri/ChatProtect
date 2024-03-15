@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Moo?",
+  "orig": "The book is a collection of short essays written by 32 different well-known authors in the field of marketing, including Tom Peters, Malcolm Gladwell, Guy Kawasaki, Mark Cuban, and Dan Pink.",
+  "alt": "The book was written by 32 different authors.",
+  "prefix": " The author of \"The Big Moo\" is not identified in the text.",
+  "triple": [
+    [
+      "a",
+      "written",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Moo? are not contradictory. The first statement clarifies that the specific author of each essay in \"The Big Moo\" was not identified, while the second statement provides additional information that the book was written by 32 different authors. Therefore, both statements are true and do not contradict each other."
+}

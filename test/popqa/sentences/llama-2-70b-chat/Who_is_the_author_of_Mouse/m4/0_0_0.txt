@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Mouse?",
+  "orig": "The author of \"Mouse\" is Dr. Seuss (Theodor Geisel).",
+  "alt": "The author of \"Mouse\" is Rudyard Kipling.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Mouse\"",
+      "is",
+      "Dr. Seuss"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Mouse? are contradictory. Statement 1 claims that the author of \"Mouse\" is Dr. Seuss (Theodor Geisel), while Statement 2 claims that the author of \"Mouse\" is Rudyard Kipling. These are two different authors, and therefore the statements cannot both be true."
+}

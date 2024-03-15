@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Chrome?",
+  "orig": "Google Chrome was first released in 2008 as a web browser for Microsoft Windows, and later for Linux and macOS.",
+  "alt": "Google Chrome was first released in 2008.",
+  "prefix": " The producer of Chrome was Google.",
+  "triple": [
+    [
+      "Google Chrome",
+      "was first released",
+      "in 2008 as a web browser for Microsoft Windows, and later for Linux and macOS."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Chrome? are not contradictory. Statement 1 provides additional information about the platforms on which Google Chrome was released, while Statement 2 simply states the year of its initial release. Both statements are consistent with the fact that Google was the producer of Chrome."
+}

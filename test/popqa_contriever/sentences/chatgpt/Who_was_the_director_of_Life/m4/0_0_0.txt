@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Life?",
+  "orig": "There were multiple directors for Life, including Martha Holmes, Rupert Barrington, and Martin Williams.",
+  "alt": "There were multiple directors for the documentary series \"Life\".",
+  "prefix": "",
+  "triple": [
+    [
+      "There",
+      "were",
+      "multiple directors for Life, including Martha Holmes, Rupert Barrington, and Martin Williams."
+    ],
+    "compactie",
+    588
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but the first statement is incomplete as it only lists some of the directors for the series. The prompt specifically asks for the director, singular, of \"Life\", and the answer to that is not provided in either statement."
+}

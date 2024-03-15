@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Logan?",
+  "orig": "Logan is a city located in the state of Utah, in the United States.",
+  "alt": "Logan is in Australia.",
+  "prefix": "",
+  "triple": [
+    [
+      "Logan",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"In what country is Logan?\" are contradictory. \n\nStatement 1 states that Logan is located in the state of Utah, which is in the United States. On the other hand, statement 2 claims that Logan is in Australia, which is a completely different country located on the other side of the world. Therefore, these two statements cannot both be true at the same time, and they contradict each other."
+}

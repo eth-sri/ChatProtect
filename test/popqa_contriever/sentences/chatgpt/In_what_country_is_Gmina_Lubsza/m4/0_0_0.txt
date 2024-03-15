@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Gmina Lubsza?",
+  "orig": "Gmina Lubsza is located in Poland.",
+  "alt": "Gmina Lubsza is located in the Opole Voivodeship in south-western Poland.",
+  "prefix": "",
+  "triple": [
+    [
+      "Gmina",
+      "is located",
+      "in Poland."
+    ],
+    "compactie",
+    597
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Gmina Lubsza are not contradictory. Statement 1 provides the country where Gmina Lubsza is located, which is Poland. Statement 2 provides a more specific location within Poland, which is the Opole Voivodeship in south-western Poland. Therefore, both statements complement each other and do not contradict each other."
+}

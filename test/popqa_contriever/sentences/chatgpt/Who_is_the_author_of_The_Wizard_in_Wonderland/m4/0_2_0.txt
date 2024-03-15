@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wizard in Wonderland?",
+  "orig": "The book mentioned in the passage is called \"The Well in the Wood\" and is written by Beatrix Potter's cousin, E. M. Delafield Taylor.",
+  "alt": "There is no book titled \"The Wizard in Wonderland\" that is written by a single author.",
+  "prefix": " There is no book titled \"The Wizard in Wonderland\". It seems to be a combination of two different books by different authors - \"Alice's Adventures in Wonderland\" by Lewis Carroll and \"The Wizard of Oz\" by L. Frank Baum.",
+  "triple": [
+    [
+      "The book",
+      "is written",
+      ""
+    ],
+    "compactie",
+    625
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Wizard in Wonderland? are not contradictory. The first statement clarifies that there is no book with that exact title and explains that it appears to be a combination of two different books by different authors. The second statement further emphasizes that there is no single book with that title written by a single author. Both statements provide accurate information and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Rite?",
+  "orig": "The Rite is a supernatural thriller film that incorporates elements of horror and drama.",
+  "alt": "The Rite incorporates elements of horror and mystery.",
+  "prefix": "",
+  "triple": [
+    [
+      "a supernatural thriller film",
+      "incorporates",
+      "elements of horror and drama."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Rite are not contradictory. Both statements mention that the film incorporates elements of horror, which is a common characteristic of both thriller and mystery genres. Additionally, the first statement also includes drama as a genre element, which does not contradict the second statement. Therefore, both statements can be true simultaneously."
+}

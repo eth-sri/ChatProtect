@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "It was built in 1895 by George W. Saxon, a prominent businessman and civic leader in the city.",
+  "alt": "It was built in 1885 for attorney Charles H. Bailey.",
+  "prefix": " The Bailey-Thompson House is a historic home located in Tallahassee, Florida.",
+  "triple": [
+    [
+      "It",
+      "was built",
+      "by George W. Saxon, a prominent businessman and civic leader in the city."
+    ],
+    "compactie",
+    467
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the Bailey-Thompson House are contradictory as they provide different years for when the house was built and by whom. Statement 1 claims that the house was built in 1895 by George W. Saxon, while statement 2 claims that it was built in 1885 for attorney Charles H. Bailey. These two statements cannot both be true, so they are contradictory."
+}

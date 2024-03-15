@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Voyage d'Egypte et de Nubie?",
+  "orig": "The author of Voyage d'Egypte et de Nubie is Dominique Vivant Denon.",
+  "alt": "The author of Voyage d'Egypte et de Nubie is Dominique Vivant.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Voyage",
+      "is",
+      "Dominique Vivant Denon."
+    ],
+    "compactie",
+    495
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Voyage d'Egypte et de Nubie? are contradictory. \n\nStatement 1 provides the full name of the author as Dominique Vivant Denon, while Statement 2 only provides the first and middle name as Dominique Vivant. Therefore, Statement 2 is incomplete and does not provide the full name of the author, which contradicts Statement 1."
+}

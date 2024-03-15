@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ferrari?",
+  "orig": "Ferrari is based in Italy, in the town of Maranello.",
+  "alt": "Ferrari is based in Maranello, Italy.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ferrari",
+      "is based",
+      "in the town of Maranello."
+    ],
+    "compactie",
+    604
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide the same information that Ferrari is based in Italy, specifically in the town of Maranello. The only difference is the order in which the information is presented."
+}

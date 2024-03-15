@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Logan?",
+  "orig": "Logan is not a country, it is a city.",
+  "alt": "Logan is not a country, it is a city in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "a country, it",
+      "is",
+      "a city."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement clarifies that Logan is not a country, the second statement provides additional information about the location of Logan, specifying that it is a city in the United States. Therefore, both statements are consistent with each other and provide a complete answer to the prompt."
+}

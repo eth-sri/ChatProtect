@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Life?",
+  "orig": "The producer of the series \"Life\" is Sir David Attenborough.",
+  "alt": "The producer of the series \"Life\" is Oprah Winfrey.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the series \"Life\"",
+      "is",
+      "Sir David Attenborough."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Life? are contradictory. Statement 1 claims that Sir David Attenborough was the producer of the series \"Life\", while statement 2 claims that Oprah Winfrey was the producer. As both statements cannot be true at the same time, they contradict each other."
+}

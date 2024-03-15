@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Crash?",
+  "orig": "The screenwriter for Crash was Paul Haggis and Robert Moresco.",
+  "alt": "The screenwriter for Crash was Paul Haggis.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for Crash",
+      "was",
+      "Paul Haggis and Robert Moresco."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Crash are not contradictory. Statement 1 includes both Paul Haggis and Robert Moresco as the screenwriters, while Statement 2 only mentions Paul Haggis. This is not contradictory as it is possible to mention one or both of the screenwriters separately."
+}

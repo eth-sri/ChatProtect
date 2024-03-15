@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Symphony No. 3?",
+  "orig": "3 is Ludwig van Beethoven.",
+  "alt": "The composer of Symphony No. 3 is Ludwig van Beethoven.",
+  "prefix": " The composer of Symphony No.",
+  "triple": [
+    [
+      "3",
+      "is",
+      "Ludwig van Beethoven."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. Both statements provide the same answer to the prompt and convey the same information. Statement 2 simply restates the prompt and provides the answer, while Statement 1 provides the answer directly."
+}

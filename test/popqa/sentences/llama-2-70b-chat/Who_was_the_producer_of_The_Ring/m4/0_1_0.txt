@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Ring?",
+  "orig": "They produced the film through their production company, Parkes/MacDonald Productions.",
+  "alt": "They produced the film through their production company, DreamWorks Pictures.",
+  "prefix": " The producer of the 2002 horror film The Ring was Walter F. Parkes and Laurie MacDonald.",
+  "triple": [
+    [
+      "They",
+      "produced",
+      "the film through their production company,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Ring are not contradictory. Both statements identify Walter F. Parkes and Laurie MacDonald as the producers of the film, but statement 1 specifies that they produced it through their production company, Parkes/MacDonald Productions, while statement 2 specifies that they produced it through their production company, DreamWorks Pictures. These statements provide additional information about the production process, but do not contradict each other."
+}

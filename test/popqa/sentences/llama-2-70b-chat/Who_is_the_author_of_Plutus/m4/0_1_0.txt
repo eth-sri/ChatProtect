@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Plutus?",
+  "orig": "Plutus is one of his most famous plays, and it is a comedy that satirizes the greed and corruption of wealthy Athenians during that time.",
+  "alt": "Plutus is a play.",
+  "prefix": " The author of Plutus is Aristophanes, a Greek playwright who lived in the 5th century BCE.",
+  "triple": [
+    [
+      "Plutus",
+      "is",
+      "one of his most famous plays,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Plutus? are not contradictory. The first statement provides the answer to the question and gives additional information about the author and the play. The second statement simply restates that Plutus is a play, which is already implied in the question."
+}

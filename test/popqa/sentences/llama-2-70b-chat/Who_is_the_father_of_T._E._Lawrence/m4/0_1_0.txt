@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of T. E. Lawrence?",
+  "orig": "Lawrence, also known as Lawrence of Arabia, was born on August 16, 1888, in Tremadoc, Wales.",
+  "alt": "T.E. Lawrence was born to Thomas Chapman and Sarah Lawrence.",
+  "prefix": " T.E.",
+  "triple": [
+    [
+      "Lawrence,",
+      "was born",
+      "on August 16, 1888, in Tremadoc, Wales."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of T.E. Lawrence are not contradictory. Statement 2 directly answers the prompt by stating that T.E. Lawrence's father was Thomas Chapman. Statement 1 provides additional information about T.E. Lawrence's birthplace and famous nickname, but does not contradict the information provided in Statement 2."
+}

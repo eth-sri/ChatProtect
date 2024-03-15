@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Homer Simpson",
+  "orig": "Homer is known for his love of beer, donuts, and television, and often neglects his responsibilities as a husband and father.",
+  "alt": "Homer is known for his love of beer and his catchphrase \"D'oh!\"",
+  "prefix": " Homer Simpson is a fictional character and the main protagonist of the American animated sitcom, The Simpsons. He is the father of the Simpson family and is known for his lazy and often clueless personality. Homer works as a safety inspector at the Springfield Nuclear Power Plant, where he often causes accidents and mishaps due to his incompetence.",
+  "triple": [
+    [
+      "Homer",
+      "is known",
+      "for his love of beer, donuts, and television,"
+    ],
+    "compactie",
+    517
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Homer Simpson are not contradictory, as both mention his love for beer and his well-known catchphrase \"D'oh!\" The first statement also adds that Homer neglects his responsibilities as a husband and father, while the second statement does not mention this aspect of his character. However, this does not create a contradiction between the two statements."
+}

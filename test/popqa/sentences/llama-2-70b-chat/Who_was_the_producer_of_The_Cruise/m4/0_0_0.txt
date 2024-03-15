@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Cruise?",
+  "orig": "I'm not familiar with a movie called \"The Cruise.\"",
+  "alt": "The producer of The Cruise was called Ben Stiller.",
+  "prefix": "",
+  "triple": [
+    [
+      "familiar with a movie",
+      "called",
+      "\"The Cruise.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of The Cruise? are contradictory. \n\nStatement 1 suggests that the person is not aware of the movie \"The Cruise\" and therefore cannot provide any information about its producer. \n\nHowever, Statement 2 contradicts this by stating that the producer of \"The Cruise\" was Ben Stiller. Therefore, the two statements cannot both be true at the same time."
+}

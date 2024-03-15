@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Blind Spot?",
+  "orig": "Blind Spot is a rock band that was formed in 1993 in Sweden.",
+  "alt": "Blind Spot was formed in 2003.",
+  "prefix": "",
+  "triple": [
+    [
+      "a rock band",
+      "was formed",
+      "in 1993 in Sweden."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Blind Spot are contradictory. The first statement describes Blind Spot as a rock band formed in 1993 in Sweden, while the second statement contradicts this by stating that Blind Spot was formed in 2003 without specifying a genre. Therefore, it is unclear what genre Blind Spot belongs to based on these two statements."
+}

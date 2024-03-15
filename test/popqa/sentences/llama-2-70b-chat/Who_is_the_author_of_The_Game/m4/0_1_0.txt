@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Game?",
+  "orig": "The book was first published in 2005 and has since become a bestseller.",
+  "alt": "The book was first published in 1999.",
+  "prefix": " The author of \"The Game\" is Neil Strauss.",
+  "triple": [
+    [
+      "The book",
+      "was first published",
+      "in 2005"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Game? are contradictory. Statement 1 says that the book was first published in 2005 and has since become a bestseller, while statement 2 says that the book was first published in 1999. Since the two statements provide different information about the year of publication, they cannot both be true at the same time."
+}

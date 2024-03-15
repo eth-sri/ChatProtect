@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Voltaj?",
+  "orig": "Their music style is a blend of rock, pop, and folk elements, and they have been considered one of the most popular and influential rock bands in Romania.",
+  "alt": "Their music style is a blend of hard rock and heavy metal elements with traditional Romanian folk music.",
+  "prefix": " Voltaj is a Romanian rock band that was formed in 1982.",
+  "triple": [
+    [
+      "Their music style",
+      "is",
+      "a blend of rock, pop, and folk elements,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is Voltaj? are contradictory. \n\nStatement 1 describes Voltaj's music as a blend of rock, pop, and folk elements, while Statement 2 describes it as a blend of hard rock and heavy metal elements with traditional Romanian folk music. These two descriptions suggest different genres, with Statement 1 leaning more towards pop rock and Statement 2 leaning more towards folk metal. Therefore, the statements cannot both be true at the same time."
+}

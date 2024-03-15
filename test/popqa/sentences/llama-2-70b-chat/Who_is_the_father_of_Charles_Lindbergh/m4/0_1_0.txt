@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Charles Lindbergh?",
+  "orig": "He was a Swedish immigrant who came to the United States in 1882 and became a successful businessman and politician.",
+  "alt": "He was a U.S. Representative from Minnesota.",
+  "prefix": " Charles Lindbergh's father was Charles August Lindbergh, Sr.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "a Swedish immigrant"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Charles Lindbergh are not contradictory. The first statement provides the name and background of Charles Lindbergh's father, while the second statement adds that he was also a U.S. Representative from Minnesota. Both statements provide additional information about Charles August Lindbergh, Sr. and do not contradict each other."
+}

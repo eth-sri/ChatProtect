@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "Kno is a digital learning platform built by Intel that provides interactive and personalized learning experiences for K-12 students.",
+  "alt": "Kno was built in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "a digital learning platform",
+      "built",
+      "by Intel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Kno?\" are not contradictory. While the first statement describes Kno as a digital learning platform built by Intel that provides interactive and personalized learning experiences for K-12 students, it does not mention the country where Kno was built. The second statement clarifies that Kno was built in the United States, which answers the prompt. Therefore, both statements provide complementary information and are not contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Tim?",
+  "orig": "Tim O'Connor is a theatre director himself.",
+  "alt": "Tim O'Connor is an Australian theatre-maker known for his work as a playwright, theatre director, and theatrical producer.",
+  "prefix": " The question doesn't make sense.",
+  "triple": [
+    [
+      "Tim O'Connor",
+      "is",
+      "a theatre director himself."
+    ],
+    "compactie",
+    616
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the director of Tim?\" are not contradictory. The first statement clarifies that the question is nonsensical, as Tim O'Connor is a theatre director himself and not a production or project that would have a director. The second statement provides additional information about Tim O'Connor's career as a theatre-maker, including his work as a playwright and producer in addition to his directing work."
+}

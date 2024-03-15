@@ -1,0 +1,19 @@
+{
+  "target": "In what country is 24?",
+  "orig": "Therefore, the answer to your question is:\n\nFrance",
+  "alt": "The country where Africa 24 is available is France.",
+  "prefix": " According to the information provided, Africa 24 is a television news network that broadcasts in French to France, but is also available in Sub-Saharan Africa.",
+  "triple": [
+    [
+      "question",
+      "is:",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. Both statements confirm that Africa 24 is available in France, which is the country where it broadcasts in French. The first statement directly answers the question by stating that Africa 24 broadcasts to France, while the second statement provides additional information by specifying that France is the country where Africa 24 is available."
+}

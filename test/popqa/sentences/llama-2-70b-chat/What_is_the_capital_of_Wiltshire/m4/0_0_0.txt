@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Wiltshire?",
+  "orig": "The capital of Wiltshire is Trowbridge.",
+  "alt": "The capital of Wiltshire is Salisbury.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Wiltshire",
+      "is",
+      "Trowbridge."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the capital of Wiltshire are contradictory. Statement 1 claims that Trowbridge is the capital of Wiltshire, while Statement 2 claims that Salisbury is the capital of Wiltshire. Since they are two different cities, they cannot both be the capital of the same county. Therefore, the statements contradict each other."
+}

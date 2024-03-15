@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ely?",
+  "orig": "The article mentions that Ely is in Minnesota, and it also mentions that Ely seceded from the United States to be part of Canada, but this is revealed to be a hoax.",
+  "alt": "The article mentions a bid for hosting the 2016 Olympics.",
+  "prefix": " Ely is in the United States.",
+  "triple": [
+    [
+      "The article",
+      "mentions",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement establishes that Ely is in the United States, while the second statement provides additional information about a bid for hosting the 2016 Olympics. The fact that Ely is in the United States is not contradicted by the mention of the bid for hosting the Olympics."
+}

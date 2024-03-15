@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Miracle?",
+  "orig": "However, the text mentions a rescue adventure film titled \"Big Miracle\" directed by Ken Kwapis and starring Drew Barrymore and John Krasinski.",
+  "alt": "The text mentions that Ken Kwapis directed \"Big Miracle\".",
+  "prefix": " The director of Miracle is not specified in the text.",
+  "triple": [
+    [
+      "the text",
+      "mentions",
+      "a rescue adventure film"
+    ],
+    "compactie",
+    612
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Miracle are not contradictory. The first statement acknowledges that the text does not provide information about the director of Miracle, while the second statement clarifies that the text does mention Ken Kwapis as the director of \"Big Miracle\"."
+}

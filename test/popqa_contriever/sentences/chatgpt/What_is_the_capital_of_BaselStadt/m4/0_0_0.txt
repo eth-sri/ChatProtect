@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Basel-Stadt?",
+  "orig": "The capital of Basel-Stadt is Basel.",
+  "alt": "The capital of Basel-Stadt is the city of Basel.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Basel-Stadt",
+      "is",
+      "Basel."
+    ],
+    "compactie",
+    598
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Basel-Stadt are not contradictory. Both statements convey the same information that the capital of Basel-Stadt is Basel. The only difference is that statement 2 specifies that the capital is the city of Basel, which is already implied in statement 1. Therefore, both statements are true and do not contradict each other."
+}

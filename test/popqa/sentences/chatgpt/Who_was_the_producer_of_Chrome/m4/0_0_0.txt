@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Chrome?",
+  "orig": "Chrome was developed by Google and the primary contributors to the project were Google developers Sergey Brin and Larry Page.",
+  "alt": "Chrome was developed by Google.",
+  "prefix": "",
+  "triple": [
+    [
+      "Chrome",
+      "was developed",
+      "by Google"
+    ],
+    "compactie",
+    471
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Chrome are not contradictory. Both statements agree that Chrome was developed by Google. Statement 1 provides additional information about the primary contributors to the project, Sergey Brin and Larry Page, who were Google developers. Therefore, statement 1 is a more specific version of statement 2."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is The Bountiful Company?",
+  "orig": "The company's global headquarters is located in St. Louis, Missouri, USA.",
+  "alt": "The company's global headquarters is located in Orlando, Florida, USA.",
+  "prefix": " The Bountiful Company is a multinational consumer goods company that operates in over 100 countries worldwide.",
+  "triple": [
+    [
+      "The company's global headquarters",
+      "is located",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of The Bountiful Company's global headquarters are contradictory. Statement 1 claims that the headquarters is located in St. Louis, Missouri, while statement 2 claims that it is located in Orlando, Florida. Since both statements cannot be true at the same time, they contradict each other."
+}

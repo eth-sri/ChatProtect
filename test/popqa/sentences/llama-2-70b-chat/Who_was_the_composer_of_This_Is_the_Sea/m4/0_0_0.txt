@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of This Is the Sea?",
+  "orig": "The composer of \"This Is the Sea\" is Trevor Jones.",
+  "alt": "The composer of \"This Is the Sea\" is Penny Wolf.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"This",
+      "is",
+      "Trevor Jones."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of This Is the Sea? are contradictory. Statement 1 claims that Trevor Jones is the composer of the song, while statement 2 claims that Penny Wolf is the composer. Since they provide different names, they cannot both be true at the same time."
+}

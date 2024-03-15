@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of arrondissement of Limoges?",
+  "orig": "Instead, the country is divided into 18 administrative regions, each of which contains several departments.",
+  "alt": "The country contains several arrondissements, which are administrative divisions that are part of a larger department.",
+  "prefix": " I'm not sure what you mean by \"arrondissement of Limoges.\" Limoges is a city in France, and it is the capital of the Haute-Vienne department. However, France does not have administrative divisions called \"arrondissements\" at the national level.",
+  "triple": [
+    [
+      "the country",
+      "contains",
+      "several departments."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that France does not have administrative divisions called \"arrondissements\" at the national level, but instead is divided into regions and departments. The second statement acknowledges that arrondissements do exist within departments, which is consistent with the concept of administrative divisions within a larger area. Therefore, both statements provide additional information about the administrative structure of France without contradicting each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about ronald ridenhour",
+  "orig": "He began investigating the incident and eventually gathered evidence and testimony from witnesses, which he presented to the Pentagon and the media.",
+  "alt": "He began investigating the rumors and gathering evidence to support the claims.",
+  "prefix": " Ronald Ridenhour was a Vietnam War veteran and investigative journalist who is best known for exposing the My Lai Massacre. In 1969, Ridenhour heard rumors about the massacre of unarmed Vietnamese civilians in My Lai by American soldiers.",
+  "triple": [
+    [
+      "He",
+      "began",
+      "investigating the incident"
+    ],
+    "compactie",
+    498
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Ronald Ridenhour are not contradictory. Both statements describe how Ridenhour began investigating the My Lai Massacre and gathering evidence to support the claims of the massacre. The only difference is that statement 1 mentions that Ridenhour presented the evidence to the Pentagon and the media, while statement 2 does not mention this. However, this does not contradict the fact that Ridenhour gathered evidence and investigated the incident."
+}

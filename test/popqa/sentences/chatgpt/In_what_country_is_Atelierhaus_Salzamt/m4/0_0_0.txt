@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Atelierhaus Salzamt?",
+  "orig": "Atelierhaus Salzamt is located in Austria.",
+  "alt": "Atelierhaus Salzamt is located in Linz, Austria.",
+  "prefix": "",
+  "triple": [
+    [
+      "Atelierhaus Salzamt",
+      "is located",
+      "in Austria."
+    ],
+    "compactie",
+    488
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Atelierhaus Salzamt are not contradictory. Statement 1 provides the country where Atelierhaus Salzamt is located, which is Austria. Statement 2 provides a more specific location within Austria, which is Linz. Therefore, both statements are consistent with each other and provide complementary information about the location of Atelierhaus Salzamt."
+}

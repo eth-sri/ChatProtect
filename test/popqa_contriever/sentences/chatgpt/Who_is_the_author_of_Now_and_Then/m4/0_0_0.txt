@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Now and Then?",
+  "orig": "There is no novel by the title \"Now and Then\" mentioned in the text.",
+  "alt": "There is no author of \"Now and Then\", but there is a historical novel by W. Somerset Maugham called \"Then and Now\".",
+  "prefix": "",
+  "triple": [
+    [
+      "There",
+      "is",
+      "no novel by the title \"Now and Then\""
+    ],
+    "compactie",
+    578
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Now and Then? are not contradictory. Statement 1 clarifies that the exact title \"Now and Then\" is not mentioned in the text, while Statement 2 provides the correct information that there is a historical novel by W. Somerset Maugham called \"Then and Now\". Therefore, both statements complement each other and do not contradict each other."
+}

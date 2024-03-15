@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of All by Myself?",
+  "orig": "He wrote the song and recorded it with his band The Raspberries in 1976.",
+  "alt": "He wrote the song for his band, The Raspberries.",
+  "prefix": " The composer of \"All by Myself\" is Eric Carmen.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      "the song"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"All by Myself\" are contradictory. The first statement states that Eric Carmen wrote and recorded the song with his band The Raspberries in 1976, while the second statement claims that he wrote the song for his band, The Raspberries. The first statement implies that Carmen wrote the song for himself and later recorded it with his band, while the second statement suggests that he wrote the song specifically for The Raspberries. These two statements cannot both be true at the same time, making them contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Deutsches W\u00f6rterbuch?",
+  "orig": "However, the project was continued by other scholars after their deaths.",
+  "alt": "After Jacob Grimm's death, the project was continued by a team of scholars and lexicographers.",
+  "prefix": " The primary author of Deutsches W\u00f6rterbuch is Jacob Grimm, with his brother Wilhelm assisting in the early stages.",
+  "triple": [
+    [
+      "the project",
+      "was continued",
+      "by other scholars after their deaths."
+    ],
+    "compactie",
+    628
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that Jacob Grimm was the primary author of Deutsches W\u00f6rterbuch, but also acknowledges that his brother Wilhelm assisted in the early stages. The second statement simply adds that after Jacob Grimm's death, the project was continued by a team of scholars and lexicographers. Both statements are true and do not contradict each other."
+}

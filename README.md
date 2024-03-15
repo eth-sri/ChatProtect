@@ -80,7 +80,7 @@ $ python3 -m chatprotect --prompt "Please tell me about Thomas Chapais"
 This API provides the required streams to interact with the demo website.
 
 ```bash
-uvicorn pipeline.api:app --reload --port 9913
+uvicorn pipeline.api:app --reload --port 9113
 ```
 
 #### Running pipeline step by step

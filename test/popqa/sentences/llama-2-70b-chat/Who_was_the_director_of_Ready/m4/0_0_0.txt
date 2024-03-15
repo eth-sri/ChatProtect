@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Ready?",
+  "orig": "The director of the movie \"Ready\" is Anees Bazmee.",
+  "alt": "The director of the movie is Anees Bazmee.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the movie",
+      "is",
+      "Anees Bazmee."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Ready? are not contradictory. Both statements provide the same information that Anees Bazmee was the director of the movie \"Ready\". The only difference is the inclusion of the article \"the\" in the first statement, which is grammatically correct but does not change the meaning of the sentence."
+}

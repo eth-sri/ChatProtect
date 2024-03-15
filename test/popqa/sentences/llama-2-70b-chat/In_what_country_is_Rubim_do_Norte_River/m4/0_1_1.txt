@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Rubim do Norte River?",
+  "orig": "It is a river that flows through the states of Amazonas and Roraima in the northwestern part of the country.",
+  "alt": "The Rubim do Norte River flows through the state of Par\u00e1.",
+  "prefix": " The Rubim do Norte River is located in Brazil.",
+  "triple": [
+    [
+      "a river",
+      "flows",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"In what country is Rubim do Norte River?\" are contradictory. \n\nStatement 1 mentions that the Rubim do Norte River flows through the states of Amazonas and Roraima in the northwestern part of Brazil, while Statement 2 mentions that the same river flows through the state of Par\u00e1. These two statements cannot both be true at the same time, as Par\u00e1 is not located in the northwestern part of Brazil. Therefore, the statements contradict each other."
+}

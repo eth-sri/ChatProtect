@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Queen?",
+  "orig": "He also directed the film and co-produced it with Anurag Kashyap and UTV Motion Pictures.",
+  "alt": "He co-produced the film with Anurag Kashyap.",
+  "prefix": " The screenwriter for the movie \"Queen\" (2013) was Vikas Bahl.",
+  "triple": [
+    [
+      "He",
+      "co-produced",
+      "it with Anurag Kashyap and UTV Motion Pictures."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory because Statement 1 says that Vikas Bahl directed and co-produced the film with Anurag Kashyap and UTV Motion Pictures, while Statement 2 says that he only co-produced the film with Anurag Kashyap. The focus of the prompt is on the screenwriter, so the additional information about directing and producing creates confusion and inconsistency in the statements."
+}

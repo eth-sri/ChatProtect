@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Family?",
+  "orig": "However, it is mentioned that three screenplays co-written by Rouverol and her husband were accepted for filming by Hollywood studios, and it is possible that one of these screenplays was adapted into the film \"The Family.\"",
+  "alt": "One of these screenplays, \"The Family,\" was adapted into a film directed by Luc Besson.",
+  "prefix": " The screenwriter for the film \"The Family\" was not explicitly stated in the provided text.",
+  "triple": [
+    [
+      "one of these screenplays",
+      "was adapted",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"The Family\" are contradictory. Statement 1 suggests that it is possible that Rouverol and her husband wrote the screenplay for \"The Family,\" while Statement 2 states that the screenplay was written by someone else and adapted into a film directed by Luc Besson. Therefore, the two statements cannot both be true at the same time."
+}

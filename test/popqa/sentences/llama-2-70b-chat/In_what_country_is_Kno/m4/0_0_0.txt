@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "Kno is a digital learning platform built by Intel that provides interactive and personalized learning experiences for K-12 students.",
+  "alt": "Kno is in Italy.",
+  "prefix": "",
+  "triple": [
+    [
+      "Kno",
+      "is",
+      "a digital learning platform"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Kno?\" are contradictory. The first statement describes Kno as a digital learning platform built by Intel, while the second statement states that Kno is in Italy. The location of Kno is not relevant to its description as a digital learning platform, and therefore the two statements cannot both be true."
+}

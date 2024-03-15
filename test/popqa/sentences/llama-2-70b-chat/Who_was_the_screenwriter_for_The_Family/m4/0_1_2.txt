@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Family?",
+  "orig": "Besson is a French film director, screenwriter, and producer who has written and directed a number of successful films, including \"The Fifth Element,\" \"The Messenger,\" and \"Angel-A.\"",
+  "alt": "Luc Besson also directed the film.",
+  "prefix": " The screenwriter for the 2013 film \"The Family\" was Luc Besson.",
+  "triple": [
+    [
+      "and",
+      "directed",
+      "a number of successful films, including \"The Fifth Element,\" \"The Messenger,\" and \"Angel-A.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Family are not contradictory. The first statement identifies Luc Besson as the screenwriter for the film, while the second statement adds that he also directed it. They both provide additional information about Besson's career and involvement in the film industry, but they do not contradict each other."
+}

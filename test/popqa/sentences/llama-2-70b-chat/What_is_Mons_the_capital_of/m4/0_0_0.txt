@@ -1,0 +1,19 @@
+{
+  "target": "What is Mons the capital of?",
+  "orig": "Mons is the capital of the province of Hainaut in Belgium.",
+  "alt": "Mons is the capital of Belgium's Wallonia region.",
+  "prefix": "",
+  "triple": [
+    [
+      "Mons",
+      "is",
+      "the capital of the province of Hainaut in Belgium."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Mons the capital of?\" are not contradictory. Mons is both the capital of the province of Hainaut in Belgium and the capital of Belgium's Wallonia region. The province of Hainaut is located in the Wallonia region, and Mons serves as the administrative center for both. Therefore, both statements are true and do not contradict each other."
+}

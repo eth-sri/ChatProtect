@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Bouvet Island?",
+  "orig": "Bouvet Island is not part of any country.",
+  "alt": "Bouvet Island is not part of any country.",
+  "prefix": "",
+  "triple": [
+    [
+      "Bouvet Island",
+      "is not",
+      "part of any country."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The first statement claims that Bouvet Island is not part of any country, while the second statement repeats the same claim. However, the prompt asks for the country in which Bouvet Island is located, and both statements fail to provide an answer to that question."
+}

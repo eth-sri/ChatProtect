@@ -1,0 +1,19 @@
+{
+  "target": "What is Dallas the capital of?",
+  "orig": "The capital of Texas is Austin.",
+  "alt": "The capital of Texas is Austin.",
+  "prefix": " Dallas is not the capital of any state.",
+  "triple": [
+    [
+      "The capital of Texas",
+      "is",
+      "Austin."
+    ],
+    "compactie",
+    578
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements correctly state that Dallas is not the capital of any state, and that the capital of Texas is Austin."
+}

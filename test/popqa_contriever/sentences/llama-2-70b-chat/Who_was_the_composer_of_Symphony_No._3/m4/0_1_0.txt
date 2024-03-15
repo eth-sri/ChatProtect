@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Symphony No. 3?",
+  "orig": "3 was Aulis Sallinen.",
+  "alt": "The composer of Symphony No. 3 was Aulis Sallinen.",
+  "prefix": " The composer of Symphony No.",
+  "triple": [
+    [
+      "3",
+      "was",
+      "Aulis Sallinen."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of Symphony No. 3 are not contradictory. Both statements convey the same information that Aulis Sallinen was the composer of Symphony No. 3. The only difference is that statement 2 includes the article \"the\" before \"composer,\" which is not necessary for clarity but is grammatically correct."
+}

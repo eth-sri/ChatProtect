@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kabul?",
+  "orig": "Kabul is not a country, it is a city and the capital of Afghanistan.",
+  "alt": "I'm sorry, the prompt is incorrect. Kabul is not a country, it is the capital city of Afghanistan. Would you like me to generate an answer for \"What is the capital of Afghanistan?\"",
+  "prefix": "",
+  "triple": [
+    [
+      "a country, it",
+      "is",
+      "a city and the capital of Afghanistan."
+    ],
+    "compactie",
+    507
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Kabul?\" are not contradictory. Both statements clarify that Kabul is not a country but a city and the capital of Afghanistan. The second statement also offers to generate an answer for the correct prompt, which is \"What is the capital of Afghanistan?\" Therefore, both statements provide accurate information and do not contradict each other."
+}

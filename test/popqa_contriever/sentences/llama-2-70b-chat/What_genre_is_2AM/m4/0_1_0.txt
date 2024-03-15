@@ -1,0 +1,19 @@
+{
+  "target": "What genre is 2AM?",
+  "orig": "However, as a K-pop boy group, their music may encompass a variety of styles, including pop, R&B, hip-hop, and dance.",
+  "alt": "May encompass a range of genres, including pop, R&B, and hip-hop.",
+  "prefix": " Based on the information provided, 2AM's genre is not explicitly stated.",
+  "triple": [
+    [
+      "a K-pop boy group, their music",
+      "may encompass",
+      "a variety of styles, including pop, R&B, hip-hop, and dance."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of 2AM are not contradictory. Both statements suggest that 2AM's music may include a variety of genres, including pop, R&B, and hip-hop. The only difference is that statement 1 includes dance as a possible genre, while statement 2 does not. However, this does not contradict the overall idea that 2AM's music is not limited to a single genre."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Q?",
+  "orig": "They now write under the name Wu Ming.",
+  "alt": "They now write under the name Wu Ming.",
+  "prefix": " The author of Q is Luther Blissett, which was a \"nom de plume\" for four Italian authors who were part of the Luther Blissett Project.",
+  "triple": [
+    [
+      "They",
+      "write",
+      "under the name Wu Ming."
+    ],
+    "compactie",
+    668
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are identical. The second statement is a repetition of the first statement. Both statements explain that the authors who wrote under the name Luther Blissett now write under the name Wu Ming."
+}

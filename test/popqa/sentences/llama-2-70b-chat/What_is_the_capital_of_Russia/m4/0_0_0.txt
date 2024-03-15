@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Russia?",
+  "orig": "The capital of Russia is Moscow (\u041c\u043e\u0441\u043a\u0432\u0430).",
+  "alt": "The capital of Russia is Moscow.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Russia",
+      "is",
+      "Moscow"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. They both provide the same answer to the prompt \"What is the capital of Russia?\" and use different forms of writing it. Statement 1 includes the Russian name for Moscow in parentheses, while Statement 2 does not. However, both statements convey the same information and are not in conflict with each other."
+}

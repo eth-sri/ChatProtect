@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Province of Canada?",
+  "orig": "The capital of the Province of Canada is Ottawa.",
+  "alt": "The capital of the Province of Canada is Toronto.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of the Province of Canada",
+      "is",
+      "Ottawa."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Province of Canada are contradictory because they provide different answers to the same question. Statement 1 states that the capital is Ottawa, while statement 2 states that the capital is Toronto. Since they cannot both be true at the same time, they contradict each other."
+}

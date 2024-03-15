@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Revenge?",
+  "orig": "The producer of Revenge was Jim Harrison, who also co-wrote the script.",
+  "alt": "Jim Harrison, also co-wrote the screenplay.",
+  "prefix": "",
+  "triple": [
+    [
+      "Jim Harrison,",
+      "also co-wrote",
+      "the script."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory. The prompt specifically asks for the producer of the film, but both statements mention Jim Harrison's involvement in writing the script. While Harrison did co-write the script, he was not the producer of the film. The actual producers of Revenge were Ray Stark and Steve Tisch."
+}

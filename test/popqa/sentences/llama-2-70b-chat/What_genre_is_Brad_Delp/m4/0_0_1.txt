@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Brad Delp?",
+  "orig": "Brad Delp was a musician who was known for his work in the rock music genre, specifically in the subgenre of arena rock and pomp rock.",
+  "alt": "Brad Delp was known for his work in the rock genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "a musician",
+      "was known",
+      "for his work in the rock music genre, specifically in the subgenre of arena rock and pomp rock."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Brad Delp's genre are not contradictory. Statement 1 provides more specific information about the subgenres of rock music that Delp was known for, while Statement 2 is a more general statement that still accurately describes Delp's genre as rock. Both statements are true and complement each other."
+}

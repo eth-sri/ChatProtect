@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Weimar Republic?",
+  "orig": "The Weimar Republic was a federal republic that existed from 1919 to 1933, and Berlin was its capital throughout its existence.",
+  "alt": "The Weimar Republic was a federal parliamentary republic that existed from 1919 to 1933.",
+  "prefix": " The capital of the Weimar Republic was Berlin.",
+  "triple": [
+    [
+      "The Weimar Republic",
+      "was",
+      "a federal republic"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Weimar Republic are not contradictory. Statement 1 provides additional information about the Weimar Republic, including its federal nature and the duration of its existence, while confirming that Berlin was its capital. Statement 2 also provides information about the type of government in the Weimar Republic, but does not contradict the fact that Berlin was its capital. Both statements are consistent with the fact that Berlin was the capital of the Weimar Republic."
+}

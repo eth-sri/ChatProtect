@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of George Washington?",
+  "orig": "He was born in 1694 and was a planter and a justice of the peace who owned a plantation in Westmoreland County, Virginia.",
+  "alt": "He was a planter and a justice of the peace in Westmoreland County, Virginia.",
+  "prefix": " The father of George Washington was Augustine Washington.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "a planter and a justice of the peace"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of George Washington are not contradictory. Both statements provide additional information about Augustine Washington, who is confirmed as the father of George Washington in the initial text. Statement 1 provides more specific details about Augustine Washington's birth year and his occupation as a planter and justice of the peace, while Statement 2 simply reiterates his occupation and location. Both statements support the fact that Augustine Washington was indeed the father of George Washington."
+}

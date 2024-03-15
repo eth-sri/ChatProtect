@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kansas?",
+  "orig": "It is situated in the Midwestern region of the country, and it is one of the 50 states that make up the United States of America.",
+  "alt": "It is located in the country of the United States of America.",
+  "prefix": " Kansas is a state located in the central United States.",
+  "triple": [
+    [
+      "it",
+      "is",
+      "one of the 50 states"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Kansas?\" are not contradictory. Both statements confirm that Kansas is located within the United States of America. Statement 1 provides additional information about the region where Kansas is situated, while Statement 2 simply restates that Kansas is located in the country of the United States of America."
+}

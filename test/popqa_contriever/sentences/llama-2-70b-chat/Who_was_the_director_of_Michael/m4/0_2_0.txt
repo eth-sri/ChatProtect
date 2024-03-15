@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Michael?",
+  "orig": "They had a son named Simon together but later divorced.",
+  "alt": "They had a son, Simon.",
+  "prefix": " The director of Michael was Sandra Levy. She was a television producer and director and was married to Michael in the 1970s.",
+  "triple": [
+    [
+      "They",
+      "had",
+      "a son"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Michael? are not contradictory. Both statements mention that Michael and Sandra Levy had a son named Simon together. The only difference is that statement 1 adds that they later divorced, while statement 2 does not mention their marital status."
+}

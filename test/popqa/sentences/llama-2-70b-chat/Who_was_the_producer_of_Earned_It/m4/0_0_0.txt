@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Earned It?",
+  "orig": "The producer of \"Earned It\" is MarkProduct.",
+  "alt": "The producer of \"Earned It\" is Kanye West.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of \"Earned",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Earned It\" are contradictory. Statement 1 claims that the producer is MarkProduct, while statement 2 claims that the producer is Kanye West. Only one of these statements can be true, so they cannot both be correct."
+}

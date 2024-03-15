@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Face to Face?",
+  "orig": "He is a Canadian music producer and keyboardist, best known for his work with Alice Cooper, KISS, and Pink Floyd.",
+  "alt": "Bob Ezrin is best known for his work with major artists such as Pink Floyd, Alice Cooper, and KISS.",
+  "prefix": " The producer of Face to Face was Bob Ezrin.",
+  "triple": [
+    [
+      "a Canadian music producer and",
+      "best known",
+      "for his work with Alice Cooper, KISS, and Pink Floyd."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the producer of Face to Face are not contradictory. Both statements provide additional information about Bob Ezrin's career and the artists he has worked with, but they do not contradict the initial statement that he was the producer of Face to Face."
+}

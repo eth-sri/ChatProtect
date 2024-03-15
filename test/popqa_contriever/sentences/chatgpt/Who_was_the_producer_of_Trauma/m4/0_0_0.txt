@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Trauma?",
+  "orig": "Trauma was produced by NYT Television (owned by The New York Times) and True Entertainment.",
+  "alt": "Trauma was produced by NYT Television, which is owned by The New York Times.",
+  "prefix": "",
+  "triple": [
+    [
+      "Trauma",
+      "was produced",
+      "by NYT Television"
+    ],
+    "compactie",
+    622
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Trauma are not contradictory. Both statements mention that NYT Television, which is owned by The New York Times, was involved in producing the show. The only difference is that statement 1 also includes True Entertainment as a co-producer."
+}

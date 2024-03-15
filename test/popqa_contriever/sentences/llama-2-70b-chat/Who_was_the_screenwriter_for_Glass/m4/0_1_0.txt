@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Glass?",
+  "orig": "He also directed the film.",
+  "alt": "He also directed the film.",
+  "prefix": " The screenwriter for \"Shattered Glass\" was Billy Ray.",
+  "triple": [
+    [
+      "He",
+      "also directed",
+      "the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as they both claim that Billy Ray directed the film, while the prompt specifically asks about the screenwriter. One of the statements should have provided information about Billy Ray's role as the screenwriter for \"Shattered Glass\"."
+}

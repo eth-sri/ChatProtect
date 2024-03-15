@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Graduate First?",
+  "orig": "There is no film titled \"Graduate First.\"",
+  "alt": "There is no film titled \"Graduate First\".",
+  "prefix": "",
+  "triple": [
+    [
+      "no film",
+      "titled",
+      "\"Graduate First.\""
+    ],
+    "compactie",
+    592
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are irrelevant to the prompt. The prompt asks about the screenwriter for \"The Graduate,\" not \"Graduate First,\" which is not a known film title. Therefore, the statements do not provide any information related to the prompt."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Wall Street?",
+  "orig": "However Only the names of the persons involved in the production of \"The Wall Street Journal Report\" are mentioned.",
+  "alt": "The names of the persons mentioned in the text are Michael Connor and John Cooper.",
+  "prefix": " The producer of \"Wall Street\" was not specified in the given text. The article mentions Michael Connor, who was the head of television for \"The Wall Street Journal\" and served as a consultant and production designer for the remake of \"The Wall Street Journal Report.\"",
+  "triple": [
+    [
+      "the names of the persons",
+      "are mentioned.",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they are referring to two different productions - \"Wall Street\" and \"The Wall Street Journal Report\". The text clarifies that the producer of \"Wall Street\" was not specified, while mentioning Michael Connor's involvement in the production of \"The Wall Street Journal Report\". Statement 1 further emphasizes that only the names of the persons involved in the production of \"The Wall Street Journal Report\" are mentioned, while Statement 2 adds another name, John Cooper, who was not mentioned in relation to the production of \"Wall Street\". Therefore, the statements do not contradict each other."
+}

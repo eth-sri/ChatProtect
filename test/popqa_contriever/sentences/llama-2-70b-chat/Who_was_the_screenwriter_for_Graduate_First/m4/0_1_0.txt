@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Graduate First?",
+  "orig": "They based their screenplay on the 1963 novel of the same name by Charles Webb.",
+  "alt": "They based the screenplay on the 1963 novel of the same name by Charles Webb.",
+  "prefix": " The screenwriter for The Graduate (1967) was Buck Henry, who co-wrote the screenplay with Calder Willingham.",
+  "triple": [
+    [
+      "They",
+      "based",
+      "their screenplay on the 1963 novel of the same name by Charles Webb."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both provide the same information that the screenplay for The Graduate was based on the novel of the same name by Charles Webb. The only difference is the use of the pronoun \"they\" in statement 2, which refers to Buck Henry and Calder Willingham, the co-writers of the screenplay."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Empire?",
+  "orig": "Empire is a superhero comic book series, specifically a supervillain story.",
+  "alt": "Empire is a superhero comic book series.",
+  "prefix": "",
+  "triple": [
+    [
+      "Empire",
+      "is",
+      "a superhero comic book series, specifically a supervillain story."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Empire are not contradictory. Statement 1 provides a more specific description of the series as a supervillain story within the broader genre of superhero comics. Statement 2 simply identifies Empire as a superhero comic book series without specifying any particular subgenre."
+}

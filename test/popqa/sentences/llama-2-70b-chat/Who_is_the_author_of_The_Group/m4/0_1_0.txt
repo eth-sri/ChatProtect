@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Group?",
+  "orig": "The novel was first published in 1963 and has since become a classic of American literature.",
+  "alt": "The novel was first published in 1963.",
+  "prefix": " The author of The Group is Mary McCarthy.",
+  "triple": [
+    [
+      "The novel",
+      "was first published",
+      "in 1963"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Group? are not contradictory. Both statements provide additional information about the novel, such as its publication date and its status as a classic of American literature, but they do not contradict the initial statement that Mary McCarthy is the author of the book."
+}

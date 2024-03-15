@@ -1,0 +1,19 @@
+{
+  "target": "What is Oxford the capital of?",
+  "orig": "Oxford is not the capital of any country or region.",
+  "alt": "Oxford is not the capital of any county in England.",
+  "prefix": "",
+  "triple": [
+    [
+      "Oxford",
+      "is not",
+      "the capital of any country or region."
+    ],
+    "compactie",
+    594
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The prompt asks for the capital of a specific entity, but neither statement claims that Oxford is the capital of any entity. Therefore, both statements are true and do not contradict each other."
+}

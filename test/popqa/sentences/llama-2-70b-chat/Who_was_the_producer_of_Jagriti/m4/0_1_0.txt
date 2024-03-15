@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Jagriti?",
+  "orig": "He was a renowned Indian filmmaker, screenwriter, and author who is widely regarded as one of the greatest filmmakers of all time.",
+  "alt": "He was a renowned Indian filmmaker and director.",
+  "prefix": " The producer of Jagriti was Satyajit Ray.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "a renowned Indian filmmaker, screenwriter, and author"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Jagriti are contradictory. The first statement describes Satyajit Ray as a filmmaker, screenwriter, and author, while the second statement only describes him as a filmmaker and director. While both statements agree that Ray was a filmmaker, the first statement provides additional information about his career and accomplishments that the second statement does not."
+}

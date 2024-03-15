@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Lab?",
+  "orig": "The author of The Lab is Jack Heath.",
+  "alt": "The author of The Lab is renowned American author and journalist, Robert Cialdini.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Lab",
+      "is",
+      "Jack Heath."
+    ],
+    "compactie",
+    487
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Lab? are contradictory. Statement 1 identifies Jack Heath as the author of The Lab, while Statement 2 identifies Robert Cialdini as the author. Since the two statements provide different answers to the same question, they cannot both be true at the same time."
+}

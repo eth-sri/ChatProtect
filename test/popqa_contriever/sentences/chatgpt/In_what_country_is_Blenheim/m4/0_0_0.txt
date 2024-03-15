@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Blenheim?",
+  "orig": "Blenheim is in New Zealand.",
+  "alt": "Blenheim is a town located in the north east of the South Island of New Zealand.",
+  "prefix": "",
+  "triple": [
+    [
+      "Blenheim",
+      "is",
+      "in New Zealand."
+    ],
+    "compactie",
+    600
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides the country where Blenheim is located, which is New Zealand. Statement 2 provides additional information about the specific location of Blenheim within New Zealand, specifying that it is a town located in the north east of the South Island. Both statements are consistent and provide complementary information about the location of Blenheim."
+}

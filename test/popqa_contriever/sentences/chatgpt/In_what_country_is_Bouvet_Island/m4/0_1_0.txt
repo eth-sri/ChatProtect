@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Bouvet Island?",
+  "orig": "It is an uninhabited territory governed by Norway.",
+  "alt": "It is an uninhabited Subantarctic volcanic island located in the southern end of the Mid-Atlantic Ridge.",
+  "prefix": " Bouvet Island is not part of any country.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "an uninhabited territory"
+    ],
+    "compactie",
+    623
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. The first statement clarifies that Bouvet Island is not part of any country, meaning it is not a sovereign state or a dependent territory. However, the second statement provides additional information about the location and characteristics of the island, including the fact that it is governed by Norway as an uninhabited territory. Therefore, both statements are true and do not contradict each other."
+}

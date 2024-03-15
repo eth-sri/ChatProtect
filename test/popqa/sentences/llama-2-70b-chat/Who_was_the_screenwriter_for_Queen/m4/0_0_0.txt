@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Queen?",
+  "orig": "The screenwriter for the movie \"Queen\" (2013) was Vikas Bahl.",
+  "alt": "The screenwriter for the movie \"Queen\" was Peter Morgan.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the movie \"Queen\"",
+      "was",
+      "Vikas Bahl."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Queen\" are contradictory because they provide different names for the same role. One statement claims that Vikas Bahl was the screenwriter, while the other claims that it was Peter Morgan. As they cannot both be true, the statements contradict each other."
+}

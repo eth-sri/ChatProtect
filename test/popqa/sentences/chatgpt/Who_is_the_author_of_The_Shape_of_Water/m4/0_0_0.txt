@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Shape of Water?",
+  "orig": "The author of The Shape of Water is Guillermo del Toro and Daniel Kraus.",
+  "alt": "The author of The Shape of Water is Daniel Kraus and Guillermo del Toro.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Shape of Water",
+      "is",
+      "Guillermo del Toro and Daniel Kraus."
+    ],
+    "compactie",
+    490
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Shape of Water are not contradictory. They both mention the same two authors, Guillermo del Toro and Daniel Kraus, but in a different order. The order in which the authors are mentioned does not affect the accuracy of the information provided. Therefore, both statements are correct and not contradictory."
+}

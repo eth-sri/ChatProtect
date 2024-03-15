@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kabul?",
+  "orig": "There is no capital of Kabul, as Kabul itself is the capital city of Afghanistan.",
+  "alt": "There is a small correction needed in the prompt. The prompt should be \"What is the capital of Afghanistan?\" and not \"What is the capital of Kabul?\" as Kabul is a city and not a country. The answer to the corrected prompt would be \"The capital of Afghanistan is Kabul.\"",
+  "prefix": "",
+  "triple": [
+    [
+      "There",
+      "is",
+      "no capital of Kabul,"
+    ],
+    "compactie",
+    633
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Kabul?\" are not contradictory, but rather they address two different issues. Statement 1 clarifies that Kabul is the capital city of Afghanistan, while Statement 2 points out a mistake in the prompt and provides the correct question and answer. Therefore, both statements are correct and do not contradict each other."
+}

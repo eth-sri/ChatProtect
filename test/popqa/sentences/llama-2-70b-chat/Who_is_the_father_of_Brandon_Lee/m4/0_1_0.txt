@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Brandon Lee?",
+  "orig": "Bruce Lee was born in San Francisco, California, and rose to fame in the 1960s and 1970s due to his iconic roles in films such as \"Fist of Fury\" and \"Enter the Dragon.\"",
+  "alt": "Bruce Lee was born in San Francisco, California.",
+  "prefix": " Brandon Lee's father was Bruce Lee, a legendary martial artist, actor, and philosopher.",
+  "triple": [
+    [
+      "Bruce Lee",
+      "was born rose",
+      "to fame in the"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Brandon Lee are not contradictory. Both statements provide additional information about Bruce Lee, who is confirmed to be Brandon Lee's father in the text. Statement 1 provides information about Bruce Lee's rise to fame and his iconic roles in films, while Statement 2 simply states where Bruce Lee was born. Both statements are consistent with the fact that Bruce Lee is Brandon Lee's father."
+}

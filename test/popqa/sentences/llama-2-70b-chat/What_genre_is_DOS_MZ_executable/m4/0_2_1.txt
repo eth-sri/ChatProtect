@@ -1,0 +1,19 @@
+{
+  "target": "What genre is DOS MZ executable?",
+  "orig": "The MZ in DOS MZ executable stands for \"Memory Zero,\" which refers to the fact that the program's code and data are loaded into memory starting at address 0.",
+  "alt": "The program's code and data are loaded into memory when the program is run.",
+  "prefix": " DOS MZ executable is a type of executable file format used in DOS and compatible operating systems. It is a 16-bit executable format that was introduced in DOS 2.0 and was the standard executable format for DOS programs until the introduction of the 32-bit Windows operating system.",
+  "triple": [
+    [
+      "the program's code and data",
+      "are loaded",
+      "into memory starting at address 0."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is DOS MZ executable? are not contradictory. Statement 1 provides information about the meaning of the \"MZ\" in the name of the executable format, while Statement 2 explains how the program's code and data are loaded into memory when the program is run. Both statements provide complementary information about the characteristics of the DOS MZ executable format."
+}

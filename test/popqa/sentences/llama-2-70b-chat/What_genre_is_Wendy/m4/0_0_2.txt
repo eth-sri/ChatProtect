@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Wendy?",
+  "orig": "Wendy is a character from the Peter Pan stories, which are typically classified as children's literature or fantasy.",
+  "alt": "Wendy is typically classified as a young adult novel.",
+  "prefix": "",
+  "triple": [
+    [
+      "typically",
+      "classified",
+      "as children's literature or fantasy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is Wendy? are contradictory. \n\nStatement 1 suggests that Wendy belongs to the children's literature or fantasy genre, while Statement 2 suggests that Wendy belongs to the young adult genre. These two genres have different target audiences and themes. Children's literature and fantasy typically focus on imaginative and magical elements that appeal to younger readers, while young adult novels deal with more mature themes and are aimed at older readers. Therefore, the two statements cannot both be true at the same time."
+}

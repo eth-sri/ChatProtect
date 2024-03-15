@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Alice?",
+  "orig": "He wrote and directed the film, which starred Mia Farrow, William Hurt, and Joe Mantegna.",
+  "alt": "The film starred Mia Farrow.",
+  "prefix": " The screenwriter for the 1990 film \"Alice\" was Woody Allen.",
+  "triple": [
+    [
+      "the film,",
+      "starred",
+      "Mia Farrow, William Hurt, and Joe Mantegna."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Alice? are not contradictory. Statement 1 provides additional information about Woody Allen's involvement in the film as both the writer and director, as well as the actors who starred in it. Statement 2 simply reiterates that Mia Farrow was one of the film's stars. Both statements are consistent with the fact that Woody Allen was the screenwriter for the film."
+}

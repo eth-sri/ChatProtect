@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Captive?",
+  "orig": "However, the article states that David Oyelowo and Kate Mara joined the thriller \"Captive\" on October 15, 2013, which suggests that the movie was in production at that time.",
+  "alt": "The movie was produced by Jerry Bruckheimer.",
+  "prefix": " According to the information provided, the producer of the movie \"Captive\" was not explicitly mentioned.",
+  "triple": [
+    [
+      "the movie",
+      "was",
+      "in production at that time."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Captive\" are not contradictory. The first statement acknowledges that the producer was not explicitly mentioned in the information provided, while the second statement provides the missing information that the producer was Jerry Bruckheimer. Both statements provide different pieces of information about the producer without contradicting each other."
+}

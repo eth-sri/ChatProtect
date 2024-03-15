@@ -1,0 +1,19 @@
+{
+  "target": "In what country is National Assembly?",
+  "orig": "It is presided over by a President of the National Assembly, who is elected by the deputies.",
+  "alt": "It is presided over by the President of the National Assembly.",
+  "prefix": " The National Assembly is located in France. It is the lower house of the bicameral Parliament of France, the other house being the Senate. The National Assembly is composed of 577 deputies who are elected by the people for a five-year term.",
+  "triple": [
+    [
+      "It",
+      "is presided over",
+      "by a President of the National Assembly,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the National Assembly in France, specifically about its presiding officer. Statement 1 specifies that the President of the National Assembly is elected by the deputies, while Statement 2 simply states that the President of the National Assembly exists."
+}

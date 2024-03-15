@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Life?",
+  "orig": "The producer of the movie Life (2017) was David Ellison.",
+  "alt": "The producer of the movie Life was David Fincher.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie Life",
+      "was",
+      "David Ellison."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Life? are contradictory. Statement 1 claims that David Ellison was the producer of the movie Life, while statement 2 claims that David Fincher was the producer. Since they are two different names, only one of them can be the actual producer of the movie. Therefore, the statements cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Ancient Evenings?",
+  "orig": "The author of \"Ancient Evenings\" is Toni Morrison.",
+  "alt": "The author of \"Ancient Evenings\" is Salman Rushdie.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Ancient Evenings\"",
+      "is",
+      "Toni Morrison."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Ancient Evenings\" are contradictory. Statement 1 claims that Toni Morrison is the author, while statement 2 claims that Salman Rushdie is the author. Since they are two different authors, they cannot both be correct."
+}

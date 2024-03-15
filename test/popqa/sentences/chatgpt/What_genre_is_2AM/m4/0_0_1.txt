@@ -1,0 +1,19 @@
+{
+  "target": "What genre is 2AM?",
+  "orig": "2AM is a South Korean boy band known for their ballad and R&B songs, therefore their genre can be classified as K-Pop ballad and R&B.",
+  "alt": "Their genre can be classified as K-pop ballad.",
+  "prefix": "",
+  "triple": [
+    [
+      "their genre",
+      "can be classified",
+      "as K-Pop ballad and R&B."
+    ],
+    "compactie",
+    478
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of 2AM are not contradictory. Statement 1 provides a more detailed classification of their genre as K-Pop ballad and R&B, while statement 2 simplifies it to just K-pop ballad. Both statements agree that 2AM's genre is primarily ballad with K-pop influences."
+}

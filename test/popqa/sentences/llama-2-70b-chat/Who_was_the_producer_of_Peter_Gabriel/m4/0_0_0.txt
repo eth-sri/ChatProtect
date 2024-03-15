@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Peter Gabriel?",
+  "orig": "Peter Gabriel's self-titled solo album, also known as \"Peter Gabriel\" or \"PG1\", was produced by Bob Ezrin.",
+  "alt": "Peter Gabriel's self-titled solo album was produced by Bob Ezrin.",
+  "prefix": "",
+  "triple": [
+    [
+      "Peter Gabriel's self-titled solo album,",
+      "known",
+      "by Bob Ezrin."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory as they both provide the same answer to the prompt \"Who was the producer of Peter Gabriel?\" and state that the producer of Peter Gabriel's self-titled solo album was Bob Ezrin. The only difference is that statement 1 provides additional information about the album's alternate titles."
+}

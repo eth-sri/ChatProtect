@@ -1,0 +1,19 @@
+{
+  "target": "What is Westminster the capital of?",
+  "orig": "Westminster is a district in central London, England, and it is the capital of the United Kingdom.",
+  "alt": "Westminster is a district in London.",
+  "prefix": "",
+  "triple": [
+    [
+      "Westminster",
+      "is",
+      "a district in central London, England,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Westminster the capital of?\" are not contradictory. Statement 1 correctly identifies Westminster as the capital of the United Kingdom, while also providing additional information about its location as a district in central London. Statement 2 simply reiterates that Westminster is a district in London, which is also true. Therefore, both statements are consistent with each other and do not contradict each other."
+}

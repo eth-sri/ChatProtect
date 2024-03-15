@@ -1,0 +1,19 @@
+{
+  "target": "In what country is 24?",
+  "orig": "The TV series \"24\" is set in the United States, specifically in Los Angeles, California.",
+  "alt": "The TV series \"24\" is set in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "The TV series \"24\"",
+      "is set",
+      "in the United States,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is 24?\" are not contradictory. Statement 1 provides a more specific answer by indicating that the TV series is set in Los Angeles, California, which is located in the United States. Statement 2 provides a more general answer by simply stating that the TV series is set in the United States. Both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Nine?",
+  "orig": "The producer of the movie Nine (2009) was Marc Platt.",
+  "alt": "The producer of the movie Nine was Harvey Weinstein.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie Nine",
+      "was",
+      "Marc Platt."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Nine? are contradictory. Statement 1 claims that Marc Platt was the producer of the movie Nine, while statement 2 claims that Harvey Weinstein was the producer. Since they are two different individuals, only one of them can be the actual producer of the movie. Therefore, the statements cannot both be true at the same time."
+}

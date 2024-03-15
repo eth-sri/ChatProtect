@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Alice?",
+  "orig": "Initially, Wes Craven was the attached screenwriter for \"Alice\", but he later left the project.",
+  "alt": "There is no information in the given text to fill this gap.",
+  "prefix": "",
+  "triple": [
+    [
+      "Wes Craven",
+      "was",
+      "the attached screenwriter for \"Alice\","
+    ],
+    "compactie",
+    591
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Alice\" are not contradictory. The first statement explains that Wes Craven was initially attached to the project but later left, while the second statement simply states that there is no information in the given text to fill a specific gap."
+}

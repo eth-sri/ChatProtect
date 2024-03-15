@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of By the Sea?",
+  "orig": "She also wrote and directed the film, and starred in it alongside her husband Brad Pitt.",
+  "alt": "She also wrote and directed the film.",
+  "prefix": " The producer of the 2015 film \"By the Sea\" was Angelina Jolie Pitt.",
+  "triple": [
+    [
+      "She",
+      "also wrote directed",
+      "the film,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of By the Sea are not contradictory. Both statements acknowledge that Angelina Jolie Pitt was the producer of the film, but statement 1 adds additional information about her involvement in the film as a writer, director, and actor. Statement 2 simply focuses on her role as writer and director."
+}

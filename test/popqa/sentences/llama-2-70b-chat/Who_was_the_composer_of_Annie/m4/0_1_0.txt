@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Annie?",
+  "orig": "The lyrics were written by Martin Charnin, and the book was written by Thomas Meehan.",
+  "alt": "The lyrics were written by Martin Charnin.",
+  "prefix": " The music for the musical \"Annie\" was composed by Charles Strouse.",
+  "triple": [
+    [
+      "The lyrics",
+      "were written",
+      "by Martin Charnin,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of Annie are not contradictory. While the first statement specifies that Charles Strouse composed the music for the musical, the second statement provides additional information about the lyrics, which were written by Martin Charnin. Both statements are true and do not contradict each other."
+}

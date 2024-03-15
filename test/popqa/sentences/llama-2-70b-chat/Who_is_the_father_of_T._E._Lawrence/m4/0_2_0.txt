@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of T. E. Lawrence?",
+  "orig": "His father, Thomas Chapman, was an Anglican vicar who had previously served as a curate in the Church of Ireland.",
+  "alt": "His father, Thomas Chapman, was an Anglican vicar who had previously served in the diocese of Oxford.",
+  "prefix": " T.E. Lawrence, also known as Lawrence of Arabia, was born on August 16, 1888, in Tremadoc, Wales.",
+  "triple": [
+    [
+      "Anglican vicar",
+      "had previously served",
+      "as a curate in the Church of Ireland."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of T.E. Lawrence are not contradictory. Both statements identify Thomas Chapman as Lawrence's father and describe his previous occupation as an Anglican vicar. The only difference is that statement 1 specifies that Chapman had served as a curate in the Church of Ireland, while statement 2 specifies that he had served in the diocese of Oxford. These are simply different details about Chapman's past, but they do not contradict each other."
+}

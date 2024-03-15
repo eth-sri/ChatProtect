@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Middletown?",
+  "orig": "Middletown is a fictional town created by sociologists Robert Park and Ernest Burgess in 1929 as a typical American town.",
+  "alt": "Middletown was created by sociologist William Foote Whyte in his 1956 book \"The Organization Man.\"",
+  "prefix": "",
+  "triple": [
+    [
+      "a fictional town",
+      "created",
+      "by sociologists Robert Park and Ernest Burgess in 1929 as a typical American town."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are not directly answering the prompt. The prompt asks for the country in which Middletown is located, but the statements provide information about the origin and creation of the town. Therefore, additional information is needed to answer the prompt."
+}

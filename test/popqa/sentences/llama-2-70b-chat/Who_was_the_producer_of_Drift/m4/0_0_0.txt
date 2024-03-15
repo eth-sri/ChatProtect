@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Drift?",
+  "orig": "The producer of the 2013 film \"Drift\" was Vincent involved in the production of the film.",
+  "alt": "The producer of the 2013 film \"Drift\" was Timor Stecher.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2013 film \"Drift\"",
+      "was",
+      "Vincent involved in the production of the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Drift are contradictory. Statement 1 claims that Vincent was involved in the production of the film, while statement 2 claims that Timor Stecher was the producer. These two statements cannot both be true at the same time."
+}

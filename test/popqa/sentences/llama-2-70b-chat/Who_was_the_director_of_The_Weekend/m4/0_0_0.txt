@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Weekend?",
+  "orig": "The Weekend is a 2016 film directed by Trey Edward Shults.",
+  "alt": "The Weekend is a singer.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Weekend",
+      "is",
+      "a 2016 film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Weekend? are not contradictory. Statement 1 correctly identifies Trey Edward Shults as the director of the 2016 film The Weekend. Statement 2, on the other hand, refers to a singer named The Weekend, which is unrelated to the director of the film. Therefore, there is no contradiction between the two statements."
+}

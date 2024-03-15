@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Shion?",
+  "orig": "The game's genre is an action role-playing game (RPG) with elements of science fiction and fantasy.",
+  "alt": "The game's genre is action role-playing game (RPG).",
+  "prefix": " Shion is a character from the game \"Nier: Automata\".",
+  "triple": [
+    [
+      "The game's genre",
+      "is",
+      "an action role-playing game"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of \"Nier: Automata\" and Shion are not contradictory. Statement 1 provides additional information about the game's genre, including elements of science fiction and fantasy, while statement 2 simply identifies the game as an action RPG. Both statements are accurate and do not contradict each other."
+}

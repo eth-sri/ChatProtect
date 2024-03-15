@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Face?",
+  "orig": "However, the movie \"Face\" is a 2002 American drama film directed by Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu.",
+  "alt": "The movie \"Face\" is a 1997 crime drama film directed by Anton Corbijn.",
+  "prefix": " The director of the movie \"Face\" is not explicitly stated.",
+  "triple": [
+    [
+      "the movie \"Face\"",
+      "is",
+      "a 2002 American drama film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the director of Face? are contradictory. Statement 1 claims that the director of \"Face\" is Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu, while Statement 2 claims that the director is Anton Corbijn. Since they provide different names, they cannot both be true, making the statements contradictory."
+}

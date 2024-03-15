@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Message?",
+  "orig": "However, if you meant \"Messages\" instead of \"The Message\", the director is David Fairman.",
+  "alt": "The director of \"Messages\" is David Fairman.",
+  "prefix": " The director of The Message is not mentioned in the given text.",
+  "triple": [
+    [
+      "\"Messages\" instead of \"The Message\", the director",
+      "is",
+      "David Fairman."
+    ],
+    "compactie",
+    586
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of \"The Message\" are not contradictory. The first statement clarifies that the given text does not mention the director of \"The Message\", while the second statement provides the correct information that the director of \"Messages\" is David Fairman. Although there is a difference in the title of the film, the statements do not contradict each other as they are referring to two different films."
+}

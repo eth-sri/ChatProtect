@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Homer Simpson",
+  "orig": "Homer is a middle-aged, overweight, and lazy man who works as a safety inspector at the Springfield Nuclear Power Plant.",
+  "alt": "A middle-aged, lazy, and often ignorant man, Homer Simpson works as a safety inspector at the Springfield Nuclear Power Plant.",
+  "prefix": " Homer Simpson is a fictional character and the main protagonist of the American animated sitcom \"The Simpsons\". He is voiced by actor Dan Castellaneta and was created by cartoonist Matt Groening.",
+  "triple": [
+    [
+      "a middle-aged,",
+      "works",
+      "as a safety inspector at the Springfield Nuclear Power Plant."
+    ],
+    "compactie",
+    498
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Homer Simpson are not contradictory, as they both describe him as middle-aged, lazy, and working as a safety inspector at the Springfield Nuclear Power Plant. The only difference is that statement 1 includes the additional detail of Homer being overweight, while statement 2 adds that he is often ignorant. These are simply different aspects of his character and do not contradict each other."
+}

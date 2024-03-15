@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about john holt (author)",
+  "orig": "He was born in New York City and attended Yale University, where he studied physics and engineering.",
+  "alt": "He was born in New York City.",
+  "prefix": " John Holt (1923-1985) was an American educator and author who is widely credited with being the founder of the modern homeschooling movement.",
+  "triple": [
+    [
+      "He",
+      "was born",
+      ""
+    ],
+    "compactie",
+    474
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about John Holt are not contradictory. While Statement 1 provides additional information about Holt's education and academic background, Statement 2 simply reiterates his place of birth. Both statements can coexist without contradicting each other."
+}

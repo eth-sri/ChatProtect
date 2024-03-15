@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wicked?",
+  "orig": "The novel was published in 1995 and has since been adapted into a successful Broadway musical.",
+  "alt": "The novel was published in 1995.",
+  "prefix": " The author of Wicked: The Life and Times of the Wicked Witch of the West is Gregory Maguire.",
+  "triple": [
+    [
+      "The novel",
+      "was published",
+      "into a successful Broadway musical."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Wicked? are not contradictory. Both statements provide additional information about the novel, but they do not contradict each other. Statement 1 mentions the success of the Broadway musical adaptation, while Statement 2 simply states the year of publication."
+}

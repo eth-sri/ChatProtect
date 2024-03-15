@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Perseus (constellation)",
+  "orig": "It is located near the constellations of Cassiopeia, Andromeda, and Auriga.",
+  "alt": "It is located near several other constellations, including Cassiopeia, Andromeda, and Pegasus.",
+  "prefix": " Perseus is a northern constellation that is named after the hero Perseus from Greek mythology.",
+  "triple": [
+    [
+      "It",
+      "is located",
+      "near the constellations of Cassiopeia, Andromeda, and Auriga."
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Perseus (constellation) are not contradictory, but statement 2 includes an additional constellation, Pegasus, that is not mentioned in statement 1. Both statements mention the same three constellations that are located near Perseus: Cassiopeia, Andromeda, and Auriga. However, statement 2 expands on this by including Pegasus as another nearby constellation."
+}

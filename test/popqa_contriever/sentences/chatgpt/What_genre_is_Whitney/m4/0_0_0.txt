@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Whitney?",
+  "orig": "Whitney is a documentary film.",
+  "alt": "Whitney is a documentary film about the life and career of singer Whitney Houston.",
+  "prefix": "",
+  "triple": [
+    [
+      "Whitney",
+      "is",
+      "a documentary film."
+    ],
+    "compactie",
+    579
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Whitney are not contradictory. Statement 1 provides the general genre of the film, which is a documentary, while statement 2 specifies the subject matter of the documentary, which is the life and career of Whitney Houston. Both statements complement each other and provide a clear understanding of the genre and subject matter of the film."
+}

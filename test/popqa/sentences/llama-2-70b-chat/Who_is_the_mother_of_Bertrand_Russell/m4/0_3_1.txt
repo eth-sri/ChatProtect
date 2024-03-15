@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Bertrand Russell?",
+  "orig": "Bertrand Russell was born in 1872, and was the second son of Katherine and Viscount Amberley.",
+  "alt": "Bertrand Russell was the son of Katherine Stanley Stewart and Viscount Amberley.",
+  "prefix": " The mother of Bertrand Russell was Katherine Stanley Stewart. She was born in 1844 and died in 1924. She was a Canadian pianist and composer, and was the wife of Viscount Amberley, a historian and politician.",
+  "triple": [
+    [
+      "Bertrand Russell",
+      "was",
+      "the second son of Katherine and Viscount Amberley."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the mother of Bertrand Russell are not contradictory. Both statements confirm that Katherine Stanley Stewart is the mother of Bertrand Russell and that she was married to Viscount Amberley. The only difference is in the way the information is presented, with statement 1 providing additional details about Bertrand Russell's birth order and statement 2 simply stating that he is their son."
+}

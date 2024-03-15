@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Gravity?",
+  "orig": "According to the description, Gravity is a science fiction thriller film.",
+  "alt": "Gravity is a science fiction film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Gravity",
+      "is",
+      "a science fiction thriller film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Gravity are not contradictory. Both statements describe the film as belonging to the science fiction genre, with the first statement adding the additional descriptor of \"thriller.\" Therefore, both statements are consistent with each other."
+}

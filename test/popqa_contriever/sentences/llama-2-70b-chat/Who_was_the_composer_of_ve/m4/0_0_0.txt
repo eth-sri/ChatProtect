@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of \u00c8ve?",
+  "orig": "The composer of \"Eve\" was Karlheinz Stockhausen.",
+  "alt": "The composer of \"Eve\" was Karlheinz Stockhausen.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Eve\"",
+      "was",
+      "Karlheinz Stockhausen."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are redundant. They both provide the same answer to the prompt."
+}

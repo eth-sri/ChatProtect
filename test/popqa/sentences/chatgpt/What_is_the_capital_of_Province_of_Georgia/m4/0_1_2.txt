@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Province of Georgia?",
+  "orig": "Georgia is a country located in the Caucasus region of Eurasia and Tbilisi is its capital.",
+  "alt": "Tbilisi is the capital of Georgia.",
+  "prefix": " There is no province of Georgia.",
+  "triple": [
+    [
+      "Tbilisi",
+      "is",
+      "its capital."
+    ],
+    "compactie",
+    478
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that there is no province of Georgia, which may have been a misunderstanding or confusion for the person asking the question. The second statement provides the correct answer to the question by stating that Tbilisi is the capital of Georgia."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Ward?",
+  "orig": "The Ward is a 2010 psychological horror film that marks Carpenter's return to the genre after a 10-year hiatus.",
+  "alt": "The Ward is a psychological horror film.",
+  "prefix": " The director of The Ward is John Carpenter.",
+  "triple": [
+    [
+      "The Ward",
+      "is",
+      "a 2010 psychological horror film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Ward? are not contradictory. The first statement identifies John Carpenter as the director of The Ward, while the second statement describes the genre of the film. They provide different information and do not conflict with each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Funeral?",
+  "orig": "The film was directed by Martin Scorsese and produced by Martin Scorsese and Barbara De Fina, but the screenplay is not attributed to any specific writer.",
+  "alt": "The film was directed by Martin Scorsese.",
+  "prefix": " The screenwriter for the 1984 film \"The Funeral\" is not explicitly stated.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Funeral are not contradictory. Statement 1 explains that the screenplay is not attributed to any specific writer, while Statement 2 simply states that the film was directed by Martin Scorsese. These statements provide different pieces of information about the film, but they do not contradict each other."
+}

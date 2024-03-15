@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Hours?",
+  "orig": "The film was directed by Stephen Daldry and released in 2002.",
+  "alt": "The film was directed by Stephen Daldry.",
+  "prefix": " The screenwriter for The Hours was David Hare. He adapted the screenplay from the novel of the same name by Michael Cunningham.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by Stephen Daldry"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Hours are not contradictory. Both statements provide additional information about the film, but do not contradict the fact that David Hare was the screenwriter. Statement 1 provides information about the director and release date, while Statement 2 only mentions the director."
+}

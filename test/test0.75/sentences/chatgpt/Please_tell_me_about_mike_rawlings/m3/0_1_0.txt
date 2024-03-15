@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mike rawlings",
+  "orig": "He was born on August 25, 1954, in Borger, Texas.",
+  "alt": "He was born in Borger, Texas.",
+  "prefix": " Mike Rawlings is a businessman and politician from the United States.",
+  "triple": [
+    [
+      "He",
+      "was born",
+      "on August 25, 1954, in Borger,"
+    ],
+    "compactie",
+    456
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide the same information about Mike Rawlings' birthplace in Borger, Texas. The only difference is that statement 1 includes his birthdate, while statement 2 does not."
+}

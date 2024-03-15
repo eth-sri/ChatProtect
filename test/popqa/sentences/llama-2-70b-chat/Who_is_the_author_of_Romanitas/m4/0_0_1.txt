@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Romanitas?",
+  "orig": "Romanitas is a historical novel written by Robert Harris.",
+  "alt": "The historical novel Romanitas was written by Robert Harris.",
+  "prefix": "",
+  "triple": [
+    [
+      "a historical novel",
+      "written",
+      "by Robert Harris."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Romanitas are not contradictory. Both statements convey the same information that the author of the historical novel Romanitas is Robert Harris. The only difference is in the sentence structure and word choice. Statement 1 uses the present tense verb \"is\" while Statement 2 uses the past tense verb \"was\". However, both statements convey the same meaning and do not contradict each other."
+}

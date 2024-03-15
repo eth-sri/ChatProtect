@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of A Teacher?",
+  "orig": "However, the director of the film is not credited in the provided information.",
+  "alt": "The director of the film is not credited as Sarah Silverman.",
+  "prefix": " The director of A Teacher is not explicitly stated. The film was produced by HBO and was released in 2020. It was created by and stars Sarah Silverman, who also served as an executive producer.",
+  "triple": [
+    [
+      "the director of the film",
+      "is not credited",
+      "in the provided information."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of A Teacher? are not contradictory. Statement 1 simply reiterates that the director is not explicitly stated, while Statement 2 clarifies that Sarah Silverman, who created and starred in the film, is not credited as the director."
+}

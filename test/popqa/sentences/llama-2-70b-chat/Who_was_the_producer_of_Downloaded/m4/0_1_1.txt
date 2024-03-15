@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Downloaded?",
+  "orig": "Winter is a filmmaker and actor, best known for his role as Bill S. Preston, Esq.",
+  "alt": "Alex Winter is best known for his role as Bill S. Preston, Esq. in the cult classic film \"Bill & Ted's Excellent Adventure.\"",
+  "prefix": " The producer of the documentary film \"Downloaded\" is Alex Winter.",
+  "triple": [
+    [
+      "a filmmaker and actor,",
+      "best known",
+      "for his role as Bill S. Preston, Esq."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement focuses on Winter's role as the producer of \"Downloaded,\" the second statement provides additional information about Winter's career as an actor and his most famous role in \"Bill & Ted's Excellent Adventure.\" The two statements do not conflict with each other and can both be true."
+}

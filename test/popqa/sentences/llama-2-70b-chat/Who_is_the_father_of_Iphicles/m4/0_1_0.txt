@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Iphicles?",
+  "orig": "Therefore, the father of Iphicles is King Aetes of Colchis.",
+  "alt": "The father of Iphicles is King Aetes of Colchis.",
+  "prefix": " Iphicles is the son of King Aetes of Colchis and his wife, Aeetes' wife.",
+  "triple": [
+    [
+      "the father of Iphicles",
+      "is",
+      "King Aetes of Colchis."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the father of Iphicles are not contradictory. They both provide the same answer to the prompt and do not present conflicting information. Both statements confirm that King Aetes of Colchis is the father of Iphicles."
+}

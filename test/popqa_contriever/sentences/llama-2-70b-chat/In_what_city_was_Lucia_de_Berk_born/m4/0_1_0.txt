@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Lucia de Berk born?",
+  "orig": "According to the given text, Lucia de Berk was born in The Hague, Netherlands.",
+  "alt": "Sure! Here's the next sentence:\n\nLucia de Berk was born in The Hague, school of nursing.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "Lucia de Berk",
+      "was born",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about where Lucia de Berk was born are contradictory. The first statement correctly states that she was born in The Hague, Netherlands, but the second statement adds the incorrect information that she was born in the \"school of nursing\" in The Hague."
+}

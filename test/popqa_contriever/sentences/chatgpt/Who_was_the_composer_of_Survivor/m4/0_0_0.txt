@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Survivor?",
+  "orig": "The composer of Survivor is not mentioned in the given text.",
+  "alt": "The prompt is incorrect. The composer mentioned in the text is Sean Callery, who composed the music for the ABC series Designated Survivor.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of Survivor",
+      "is not mentioned",
+      "in the given text."
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the composer of Survivor?\" are not contradictory. Statement 1 correctly states that the composer of Survivor is not mentioned in the given text. Statement 2 provides additional information that the prompt is incorrect and that the composer mentioned in the text is Sean Callery, who composed the music for a different series called Designated Survivor. Therefore, both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Coventry City F.C. play?",
+  "orig": "They play in League One, which is the third tier of English football.",
+  "alt": "They play football.",
+  "prefix": " Coventry City F.C. is a professional football club based in Coventry, England.",
+  "triple": [
+    [
+      "They",
+      "play",
+      "in League One, the third tier of English football."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides additional information about the level at which Coventry City F.C. plays football, while Statement 2 simply restates that they play football. Both statements are consistent with the prompt's question about the sport played by the club."
+}

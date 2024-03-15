@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Holiday?",
+  "orig": "Holiday can be classified as a romantic comedy and drama film.",
+  "alt": "Holiday can be classified as a jazz and blues album.",
+  "prefix": "",
+  "triple": [
+    [
+      "Holiday",
+      "can be classified",
+      "as a romantic comedy and drama film."
+    ],
+    "compactie",
+    475
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is Holiday? are contradictory. \n\nStatement 1 classifies Holiday as a film genre, specifically a romantic comedy and drama. Statement 2 classifies Holiday as a music genre, specifically a jazz and blues album. These are two completely different mediums and cannot both be the genre of the same work. Therefore, the statements contradict each other."
+}

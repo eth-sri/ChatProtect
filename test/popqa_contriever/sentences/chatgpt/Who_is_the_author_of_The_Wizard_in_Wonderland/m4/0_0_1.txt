@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wizard in Wonderland?",
+  "orig": "There is no book titled \"The Wizard in Wonderland\".",
+  "alt": "There is no book titled \"The Wizard in Wonderland\".",
+  "prefix": "",
+  "triple": [
+    [
+      "no book",
+      "titled",
+      "\"The Wizard in Wonderland\"."
+    ],
+    "compactie",
+    574
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are both incorrect. The correct title of the book in question is \"The Well in the Wood\", and the author is not mentioned in the given text. Therefore, the prompt cannot be answered with the information provided."
+}

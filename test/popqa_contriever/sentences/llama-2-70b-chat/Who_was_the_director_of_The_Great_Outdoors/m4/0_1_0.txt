@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Great Outdoors?",
+  "orig": "He was the Secretary of the Interior under President Barack Obama and played a key role in the creation and implementation of the program.",
+  "alt": "He was the Secretary of the Interior under President Barack Obama.",
+  "prefix": " The director of The Great Outdoors Colorado program was Ken Salazar.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "the Secretary of the Interior under President Barack Obama"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The Great Outdoors are not contradictory. Statement 1 provides additional information about Ken Salazar's role in creating and implementing the program, while statement 2 simply states his position as Secretary of the Interior under President Obama. Both statements are true and do not contradict each other."
+}

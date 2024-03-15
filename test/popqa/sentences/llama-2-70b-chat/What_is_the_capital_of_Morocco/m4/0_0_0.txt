@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Morocco?",
+  "orig": "The capital of Morocco is Rabat.",
+  "alt": "The capital of Morocco is Rabat.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Morocco",
+      "is",
+      "Rabat."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of Morocco?\" are contradictory. Although both statements provide the same answer, they cannot be considered as the same statement because they are presented separately. The contradiction arises when we assume that there is only one correct answer to the question, and the two statements provide different sources of information. Therefore, the statements cannot be considered as consistent with each other."
+}

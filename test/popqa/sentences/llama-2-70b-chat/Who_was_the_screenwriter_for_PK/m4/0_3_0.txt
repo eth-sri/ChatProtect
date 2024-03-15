@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for PK?",
+  "orig": "The film was produced by Vinod Chopra and released in 2014.",
+  "alt": "The film was produced by Vinod Chopra and Rajkumar Hirani.",
+  "prefix": " The screenwriter for the movie PK was Rajkumar Hirani, who also directed the film. Hirani is a well-known Indian filmmaker and screenwriter, and PK was his third directorial venture after Munna Bhai M.B.B.S. and 3 Idiots.",
+  "triple": [
+    [
+      "The film",
+      "was produced",
+      "by Vinod Chopra"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for PK are not contradictory. While statement 1 provides information about the producer and release year of the film, statement 2 adds to that information by stating that both Vinod Chopra and Rajkumar Hirani were producers of the film. Neither statement contradicts the fact that Rajkumar Hirani was the screenwriter for PK."
+}

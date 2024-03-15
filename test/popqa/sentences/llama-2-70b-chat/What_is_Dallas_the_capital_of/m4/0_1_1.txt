@@ -1,0 +1,19 @@
+{
+  "target": "What is Dallas the capital of?",
+  "orig": "It is a city located in the state of Texas, USA.",
+  "alt": "Dallas is a city located in the state of Texas.",
+  "prefix": " Dallas is not the capital of any state or country.",
+  "triple": [
+    [
+      "a city",
+      "located",
+      "in the state of Texas, USA."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide accurate information about Dallas being a city located in the state of Texas, USA. The first statement clarifies that Dallas is not a capital city, while the second statement simply states that Dallas is a city in Texas."
+}

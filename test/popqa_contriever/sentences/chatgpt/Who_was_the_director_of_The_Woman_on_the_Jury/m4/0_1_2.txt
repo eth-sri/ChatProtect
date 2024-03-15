@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Woman on the Jury?",
+  "orig": "The correct title of the film mentioned in the description is \"Ladies of the Jury\" and the director is Lowell Sherman.",
+  "alt": "As there is no movie called \"The Woman on the Jury\", there is no answer to this question.",
+  "prefix": " There is no movie called \"The Woman on the Jury\".",
+  "triple": [
+    [
+      "the director",
+      "is",
+      ""
+    ],
+    "compactie",
+    599
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Woman on the Jury? are not contradictory. Statement 1 provides the correct title of the film and the name of the director, while Statement 2 acknowledges that there is no movie with the title \"The Woman on the Jury\" and therefore no answer to the question. Both statements are accurate and do not contradict each other."
+}

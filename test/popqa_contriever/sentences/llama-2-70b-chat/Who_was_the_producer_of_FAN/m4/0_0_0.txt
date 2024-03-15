@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of FAN?",
+  "orig": "The producer of the 1981 film \"The Fan\" was John K. Mock.",
+  "alt": "The producer of the Fan was Edward Bianchi.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the",
+      "was",
+      "John K. Mock."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"The Fan\" are contradictory. Statement 1 claims that John K. Mock was the producer, while statement 2 claims that Edward Bianchi was the producer. Only one of these statements can be true, so they cannot both be correct."
+}

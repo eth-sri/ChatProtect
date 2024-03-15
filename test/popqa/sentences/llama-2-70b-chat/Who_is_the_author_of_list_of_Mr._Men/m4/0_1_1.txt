@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of list of Mr. Men?",
+  "orig": "He created the series in the 1970s and wrote and illustrated all of the books himself.",
+  "alt": "The Mr. Men series was written by Roger Hargreaves.",
+  "prefix": " The author of the Mr. Men series is Roger Hargreaves.",
+  "triple": [
+    [
+      "the",
+      "wrote",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of list of Mr. Men? are not contradictory. Both statements confirm that Roger Hargreaves is the author of the Mr. Men series. Statement 1 provides additional information about Hargreaves' role in creating and illustrating the books, while Statement 2 simply restates that the series was written by Hargreaves."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Halifax the capital of?",
+  "orig": "Halifax is the capital of the Canadian province of Nova Scotia.",
+  "alt": "Halifax is the capital of Nova Scotia.",
+  "prefix": "",
+  "triple": [
+    [
+      "Halifax",
+      "is",
+      "the capital of the Canadian province of"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both provide the same answer to the prompt \"What is Halifax the capital of?\" by stating that Halifax is the capital of the Canadian province of Nova Scotia. The second statement simply omits the word \"Canadian\" but still conveys the same information."
+}

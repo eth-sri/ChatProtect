@@ -1,0 +1,19 @@
+{
+  "target": "What is Billy Joel's occupation?",
+  "orig": "Billy Joel is a retired American singer, songwriter, and pianist.",
+  "alt": "Billy Joel is a musician and singer-songwriter.",
+  "prefix": "",
+  "triple": [
+    [
+      "Billy Joel",
+      "is",
+      "a retired American singer, songwriter, and pianist."
+    ],
+    "compactie",
+    475
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Billy Joel's occupation are not contradictory. Both statements identify him as a musician and singer-songwriter, but the first statement adds that he is retired. Therefore, the first statement provides additional information about his current status, while the second statement simply identifies his profession."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Tura?",
+  "orig": "Tura is a town located in the state of Meghalaya, India.",
+  "alt": "Tura is located in Mongolia.",
+  "prefix": "",
+  "triple": [
+    [
+      "a town",
+      "located",
+      "in the state of Meghalaya, India."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"In what country is Tura?\" are contradictory. \n\nStatement 1 states that Tura is located in the state of Meghalaya, India, while Statement 2 states that Tura is located in Mongolia. These two statements cannot both be true at the same time. Therefore, they are contradictory."
+}

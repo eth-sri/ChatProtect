@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Chester?",
+  "orig": "Chester is a city located in England, United Kingdom.",
+  "alt": "Chester is a city located in northwest England, near the border with Wales.",
+  "prefix": "",
+  "triple": [
+    [
+      "a city",
+      "located",
+      "in England, United Kingdom."
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about \"In what country is Chester?\" are not contradictory. Both statements provide accurate information about the location of Chester, with the second statement providing additional detail about its specific location in northwest England near the Welsh border. Therefore, the statements are complementary and not contradictory."
+}

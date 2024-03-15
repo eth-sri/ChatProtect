@@ -1,0 +1,19 @@
+{
+  "target": "What is Salisbury the capital of?",
+  "orig": "Salisbury is not the capital of any country or state.",
+  "alt": "Salisbury is not the capital of any county or region in England.",
+  "prefix": "",
+  "triple": [
+    [
+      "Salisbury",
+      "is not",
+      "the capital of any country or state."
+    ],
+    "compactie",
+    608
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as the prompt did not ask about Salisbury's status as a capital of any country, state, county, or region. The prompt simply asked for what Salisbury is the capital of, to which the answer is nothing. Therefore, both statements are true and do not contradict each other."
+}

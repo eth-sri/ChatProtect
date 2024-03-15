@@ -1,0 +1,19 @@
+{
+  "target": "What is John Scurti's occupation?",
+  "orig": "John Scurti is an actor and a writer.",
+  "alt": "John Scurti is an actor.",
+  "prefix": "",
+  "triple": [
+    [
+      "John Scurti",
+      "is",
+      "an actor and a writer."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about John Scurti's occupation are not contradictory. The first statement includes both of his occupations, while the second statement only mentions his primary occupation as an actor. Therefore, both statements are true and do not contradict each other."
+}

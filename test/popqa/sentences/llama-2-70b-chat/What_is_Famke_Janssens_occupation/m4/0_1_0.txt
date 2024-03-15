@@ -1,0 +1,19 @@
+{
+  "target": "What is Famke Janssen's occupation?",
+  "orig": "She has appeared in a number of films and television shows, including the X-Men film franchise, Taken, and Hemlock Grove.",
+  "alt": "She has appeared in a number of films and television shows, including the X-Men franchise and the Netflix series \"Hemlock Grove.\"",
+  "prefix": " Famke Janssen is an actress and a former fashion model.",
+  "triple": [
+    [
+      "She",
+      "has appeared",
+      "in a number of films and television shows, including the X-Men film franchise, Taken, and Hemlock Grove."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Famke Janssen's occupation are not contradictory. Both statements mention that she is an actress and has appeared in various films and television shows, including the X-Men franchise and Hemlock Grove. The only difference is that statement 2 specifies that Hemlock Grove is a Netflix series. However, this does not contradict the information provided in statement 1."
+}

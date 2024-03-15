@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Davidson?",
+  "orig": "Davidson is a town located in the state of North Carolina, in the United States of America.",
+  "alt": "Sure! Here's a possible next sentence:\n\nThe town of Davidson is located in North Carolina, USA.",
+  "prefix": "",
+  "triple": [
+    [
+      "a town",
+      "located",
+      "in the state"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Davidson?\" are not contradictory. Both statements provide the same information that Davidson is located in the state of North Carolina, which is a part of the United States of America. The second statement simply restates the location of Davidson in a slightly different way."
+}

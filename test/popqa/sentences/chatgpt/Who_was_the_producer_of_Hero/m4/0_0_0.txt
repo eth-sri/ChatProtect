@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Hero?",
+  "orig": "The producer of the 2002 Chinese film Hero was Zhang Yimou.",
+  "alt": "The producer of the 2002 Chinese film \"Hero\" was Zhang Yimou.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2002 Chinese",
+      "was",
+      "Zhang Yimou."
+    ],
+    "compactie",
+    489
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Hero? are not contradictory. Both statements provide the same answer to the prompt and only differ in the use of quotation marks around the title of the film. The second statement includes the quotation marks to indicate the title of the film, but this does not change the answer to the prompt."
+}

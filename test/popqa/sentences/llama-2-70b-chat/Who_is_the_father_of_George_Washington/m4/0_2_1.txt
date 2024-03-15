@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of George Washington?",
+  "orig": "He married Mary Ball in 1730, and their son George was born in 1732.",
+  "alt": "Their son George was born on February 22, 1732, in Westmoreland County, Virginia.",
+  "prefix": " The father of George Washington was Augustine Washington. He was born in 1694 and was a planter and a justice of the peace who owned a plantation in Westmoreland County, Virginia.",
+  "triple": [
+    [
+      "their son George",
+      "was born",
+      "in 1732."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of George Washington are not contradictory. Both statements provide additional information about Augustine Washington and his family, but they do not contradict each other. Statement 1 explains that Augustine Washington married Mary Ball and had a son named George in 1732, while Statement 2 provides the specific date and location of George's birth. Both statements support the fact that Augustine Washington is the father of George Washington."
+}

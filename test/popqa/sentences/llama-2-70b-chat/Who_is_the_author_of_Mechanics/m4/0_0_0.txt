@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Mechanics?",
+  "orig": "The author of the book \"Mechanics\" is Sir Isaac Newton.",
+  "alt": "The author of the book \"Mechanics\" is Aristotle.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of the book \"Mechanics\"",
+      "is",
+      "Sir Isaac Newton."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Mechanics? are contradictory. Statement 1 claims that Sir Isaac Newton is the author of the book \"Mechanics\", while statement 2 claims that Aristotle is the author. Since both statements cannot be true at the same time, they contradict each other."
+}

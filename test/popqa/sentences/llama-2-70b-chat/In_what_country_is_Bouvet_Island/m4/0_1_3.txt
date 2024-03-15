@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Bouvet Island?",
+  "orig": "It is a remote, uninhabited subantarctic island in the South Atlantic Ocean, located at 54\u00b026\u2032S 3\u00b024\u2032E.\u0148It is a dependency of Norway and is part of the kingdom's territory.",
+  "alt": "Bouvet Island is a dependency of Norway.",
+  "prefix": " Bouvet Island is not in any country.",
+  "triple": [
+    [
+      "a dependency of Norway",
+      "is",
+      "part of the kingdom's territory."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. The first statement clarifies that Bouvet Island is not part of any country, while the second statement explains that it is a dependency of Norway. Being a dependency means that it is not an independent country, but rather a territory that is under the control of another country. Therefore, both statements are true and do not contradict each other."
+}

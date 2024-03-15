@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Rev?",
+  "orig": "The Rev, also known as Aaron Allston, was a science fiction and fantasy author.",
+  "alt": "The Rev was a musician.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Rev,",
+      "was",
+      "a science fiction and fantasy author."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is The Rev? are contradictory. The first statement identifies The Rev as a science fiction and fantasy author, while the second statement identifies him as a musician. These are two distinct genres and cannot both be true at the same time."
+}

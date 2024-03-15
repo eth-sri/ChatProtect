@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Undo?",
+  "orig": "The composer of \"Undo\" is Fredrik Kempe, David Kreuger, and Hamed \"K-One\" Pirouzpanah.",
+  "alt": "The composer of \"Undo\" is Fredrik Kempe.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Undo\"",
+      "is",
+      "Fredrik Kempe, David Kreuger, and Hamed \"K-One\" Pirouzpanah."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of \"Undo\" are not contradictory. Statement 1 provides the full list of composers, including Fredrik Kempe, David Kreuger, and Hamed \"K-One\" Pirouzpanah. Statement 2 only mentions Fredrik Kempe as the composer, but does not exclude the other two composers mentioned in Statement 1. Therefore, both statements are true and do not contradict each other."
+}

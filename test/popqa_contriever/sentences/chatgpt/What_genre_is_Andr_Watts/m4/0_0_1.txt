@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Andr\u00e9 Watts?",
+  "orig": "Andr\u00e9 Watts is a classical pianist, specializing in classical music repertoire.",
+  "alt": "Andr\u00e9 Watts is a classical pianist, specializing in the works of Romantic composers such as Chopin, Liszt, and Rachmaninoff.",
+  "prefix": "",
+  "triple": [
+    [
+      "a classical pianist,",
+      "specializing",
+      "in classical music repertoire."
+    ],
+    "compactie",
+    630
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Andr\u00e9 Watts are not contradictory. Both statements describe him as a classical pianist, but the second statement provides additional information about his specialization within the classical genre, focusing on Romantic composers. Therefore, the two statements complement each other rather than contradicting each other."
+}

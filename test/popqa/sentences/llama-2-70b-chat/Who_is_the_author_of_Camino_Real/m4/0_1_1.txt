@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Camino Real?",
+  "orig": "It is a play that was first performed in 1953 and is considered one of Williams' most experimental works.",
+  "alt": "Camino Real was first performed in 1953.",
+  "prefix": " The author of Camino Real is Tennessee Williams.",
+  "triple": [
+    [
+      "a play",
+      "was first performed",
+      "in 1953"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Camino Real are not contradictory. The first statement provides additional information about the play, including its experimental nature and its significance in Williams' body of work. The second statement simply confirms the year in which the play was first performed. Both statements are consistent with the fact that Tennessee Williams is the author of Camino Real."
+}

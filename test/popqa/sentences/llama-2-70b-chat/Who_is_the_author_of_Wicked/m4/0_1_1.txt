@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wicked?",
+  "orig": "The novel was published in 1995 and has since been adapted into a successful Broadway musical.",
+  "alt": "The novel has since been adapted into a successful Broadway musical.",
+  "prefix": " The author of Wicked: The Life and Times of the Wicked Witch of the West is Gregory Maguire.",
+  "triple": [
+    [
+      "The novel",
+      "has since",
+      "into a successful Broadway musical."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides the answer to the prompt and the second statement provides additional information about the novel's adaptation into a successful Broadway musical."
+}

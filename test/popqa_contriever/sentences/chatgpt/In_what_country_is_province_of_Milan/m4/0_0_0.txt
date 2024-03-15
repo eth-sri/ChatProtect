@@ -1,0 +1,19 @@
+{
+  "target": "In what country is province of Milan?",
+  "orig": "The province of Milan is located in Italy.",
+  "alt": "The province of Milan is located in the Lombardy region of Italy.",
+  "prefix": "",
+  "triple": [
+    [
+      "The province of Milan",
+      "is located",
+      "in Italy."
+    ],
+    "compactie",
+    591
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides the country where the province of Milan is located, while statement 2 provides the specific region within Italy where the province is situated. Together, they provide a more complete answer to the prompt."
+}

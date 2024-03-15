@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Sun?",
+  "orig": "The Sun is a tabloid newspaper that is published in the United Kingdom and is known for its sensationalist headlines and coverage of news, sports, and celebrity gossip.",
+  "alt": "b. is published daily in the United Kingdom.",
+  "prefix": " The author of The Sun is not a specific person, but rather a team of journalists and editors who work together to create the newspaper's content.",
+  "triple": [
+    [
+      "a tabloid newspaper",
+      "is published",
+      "in the United Kingdom"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Sun are not contradictory. The first statement explains that The Sun is created by a team of journalists and editors, while the second statement provides additional information about the newspaper, stating that it is published daily in the United Kingdom and is known for its sensationalist coverage. Both statements provide different but complementary information about The Sun and its characteristics."
+}

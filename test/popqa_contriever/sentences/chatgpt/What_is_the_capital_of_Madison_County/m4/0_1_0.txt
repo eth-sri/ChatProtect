@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Madison County?",
+  "orig": "However, Indiana does not have counties with their own capital as in some other states.",
+  "alt": "Indiana does not have a capital city for its counties.",
+  "prefix": " The county seat and largest city in Madison County is Anderson.",
+  "triple": [
+    [
+      "Indiana",
+      "does not have",
+      "counties with their own capital as in some other states."
+    ],
+    "compactie",
+    620
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement correctly identifies Anderson as the county seat and largest city in Madison County. However, the second statement clarifies that Indiana does not have a capital city for its counties, meaning that Anderson is not officially designated as the capital of Madison County."
+}

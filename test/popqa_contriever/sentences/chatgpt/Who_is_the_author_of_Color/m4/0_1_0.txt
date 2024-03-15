@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Color?",
+  "orig": "The mentioned author in the passage is Walter Mosley.",
+  "alt": "The mentioned author in the given text is Walter Mosley.",
+  "prefix": " The author of \"The Color Purple\" is Alice Walker.",
+  "triple": [
+    [
+      "The mentioned author",
+      "is",
+      "Walter Mosley."
+    ],
+    "compactie",
+    612
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 is contradictory as it provides incorrect information about the author of \"The Color Purple\". The correct author is Alice Walker, not Walter Mosley. Statement 2 is accurate as it correctly identifies the author mentioned in the given text as Walter Mosley."
+}

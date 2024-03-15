@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of King David?",
+  "orig": "Arthur Honegger was the composer of King David.",
+  "alt": "Arthur Honegger was a Swiss composer.",
+  "prefix": "",
+  "triple": [
+    [
+      "Arthur Honegger",
+      "was",
+      "the composer of King David."
+    ],
+    "compactie",
+    477
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of King David are not contradictory. Statement 1 directly answers the prompt by identifying Arthur Honegger as the composer of King David. Statement 2 provides additional information about Honegger's nationality, but does not contradict the first statement."
+}

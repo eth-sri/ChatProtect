@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Eagle?",
+  "orig": "The text mentions that Charles Beaumont and Richard Matheson were prolific writers for film and television, specializing in horror, mystery, and science fiction, and that they were hired to adapt the works of Edgar Allan Poe and H.P.",
+  "alt": "They were hired by producer Albert Band.",
+  "prefix": " The screenwriter for The Eagle was not specified in the provided text.",
+  "triple": [
+    [
+      "they",
+      "were hired",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the text does not specify the screenwriter for The Eagle, it does provide information about two prolific writers, Charles Beaumont and Richard Matheson, who were hired to adapt works for the screen and were involved in The Twilight Zone. The second statement provides additional information about who hired them, but does not contradict the first statement."
+}

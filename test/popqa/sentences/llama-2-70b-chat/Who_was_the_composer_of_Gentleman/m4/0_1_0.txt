@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Gentleman?",
+  "orig": "The song was released in 1967, and it is not clear who the composer was.",
+  "alt": "The song was released in 2013.",
+  "prefix": " The composer of \"Gentleman\" is not specified.",
+  "triple": [
+    [
+      "The song",
+      "was released",
+      "in 1967,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Gentleman\" are contradictory. Statement 1 indicates that the song was released in 1967, while Statement 2 indicates that it was released in 2013. Since the two statements provide conflicting information about the release date of the song, it is not possible to determine which one is correct. Additionally, Statement 1 suggests that the composer is unknown, while Statement 2 does not provide any information about the composer. Therefore, the two statements do not provide a clear answer to the question of who the composer of \"Gentleman\" is."
+}

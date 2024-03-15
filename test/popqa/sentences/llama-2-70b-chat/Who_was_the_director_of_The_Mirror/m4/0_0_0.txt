@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Mirror?",
+  "orig": "The director of the 1975 film \"The Mirror\" was Andrei Tarkovsky.",
+  "alt": "The director of The Mirror was Andrei Tarkovsky.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the",
+      "was",
+      "Andrei Tarkovsky."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The Mirror are not contradictory. Both statements convey the same information that Andrei Tarkovsky was the director of the film. The only difference is the phrasing of the sentence. Statement 1 includes the year of the film's release, while Statement 2 omits it. However, both statements answer the prompt accurately."
+}

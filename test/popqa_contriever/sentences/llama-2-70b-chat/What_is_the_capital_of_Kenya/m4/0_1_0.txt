@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kenya?",
+  "orig": "The capital of Kenya is Nairobi.",
+  "alt": "Sure, here's the next sentence:\n\nThe capital of Kenya is Nairobi.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "The capital of Kenya",
+      "is",
+      "Nairobi."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both provide the same answer to the prompt \"What is the capital of Kenya?\". They are simply restating the same information."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Hurricane?",
+  "orig": "Jewison is a Canadian film director, producer, and actor who has been active in the film industry for over 50 years.",
+  "alt": "Norman Jewison is a Canadian film director and producer.",
+  "prefix": " The producer of the film \"The Hurricane\" was Norman Jewison.",
+  "triple": [
+    [
+      "Jewison",
+      "is",
+      "a Canadian film director, producer, and actor"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Hurricane are not contradictory. Both statements provide additional information about Norman Jewison, the producer of the film. Statement 1 expands on Jewison's career in the film industry, while statement 2 simply reiterates that he is a Canadian film director and producer."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Do The Work?",
+  "orig": "It seems like you've provided information about Mark Forster, who is a different author, coach, and retired army officer.",
+  "alt": "It provided a practical framework for overcoming resistance and tackling procrastination.",
+  "prefix": " The author of \"Do The Work\" is Steven Pressfield.",
+  "triple": [
+    [
+      "It",
+      "provided",
+      "information about Mark Forster,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 is correct in pointing out that the information provided in the beginning of the text is about a different author, Mark Forster, and not Steven Pressfield, who is the actual author of \"Do The Work\". Therefore, it contradicts the initial statement. Statement 2, on the other hand, provides additional information about the book \"Do The Work\" and is not contradictory to either the initial statement or Statement 1."
+}

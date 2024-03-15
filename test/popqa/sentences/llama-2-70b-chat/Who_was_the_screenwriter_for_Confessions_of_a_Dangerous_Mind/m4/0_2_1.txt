@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Confessions of a Dangerous Mind?",
+  "orig": "It is based on the autobiography of Chuck Barris, a television producer and game show host who claimed to have been a CIA assassin.",
+  "alt": "The television producer and game show host claimed to have been a CIA assassin.",
+  "prefix": " The screenwriter for the 2002 film \"Confessions of a Dangerous Mind\" was Charlie Kaufman. The film was directed by George Clooney and starred Sam Rockwell, Julia Roberts, and Drew Barrymore.",
+  "triple": [
+    [
+      "a television producer and game show host",
+      "claimed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides the answer to the prompt and identifies Charlie Kaufman as the screenwriter for the film. The second statement provides additional information about the subject matter of the film, specifically that it is based on the autobiography of Chuck Barris, who claimed to have been a CIA assassin. Neither statement contradicts the other."
+}

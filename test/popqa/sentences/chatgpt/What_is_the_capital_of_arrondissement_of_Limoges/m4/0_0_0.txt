@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of arrondissement of Limoges?",
+  "orig": "Limoges is not an arrondissement, it is a commune and the capital of the Haute-Vienne department in the Nouvelle-Aquitaine region of France.",
+  "alt": "Limoges is a city in the central part of France.",
+  "prefix": "",
+  "triple": [
+    [
+      "Limoges",
+      "is",
+      ""
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The prompt asks for the capital of the arrondissement of Limoges, but statement 1 clarifies that Limoges is not an arrondissement, but rather a commune and the capital of the Haute-Vienne department. Statement 2 provides additional information about Limoges being a city in central France, but does not address the prompt directly."
+}

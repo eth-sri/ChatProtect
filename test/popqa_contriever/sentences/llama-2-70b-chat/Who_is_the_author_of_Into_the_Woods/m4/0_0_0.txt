@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Into the Woods?",
+  "orig": "The author of Into the Woods is James Lapine, who wrote the book and collaborated with Stephen Sondheim on the music and lyrics.",
+  "alt": "The author of Into the Woods is Stephen Sondheim.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of",
+      "is",
+      "James Lapine,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Into the Woods? are contradictory. Statement 1 attributes the authorship to James Lapine, while also acknowledging his collaboration with Stephen Sondheim on the music and lyrics. Statement 2 solely attributes the authorship to Stephen Sondheim. Therefore, the two statements cannot both be true at the same time."
+}

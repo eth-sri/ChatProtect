@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Nineteen Eighty-Four?",
+  "orig": "It is classified as a political novel, a dystopian novel, and a work of science fiction.",
+  "alt": "It is classified as science fiction.",
+  "prefix": " Nineteen Eighty-Four, also known as 1984, is a dystopian novel written by George Orwell.",
+  "triple": [
+    [
+      "It",
+      "is classified",
+      "as a political novel, a dystopian novel, and a work of science fiction."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the genre of Nineteen Eighty-Four are contradictory. Statement 1 classifies the novel as a political novel, a dystopian novel, and a work of science fiction, while statement 2 only classifies it as science fiction. Therefore, statement 2 is a subset of statement 1, and the two statements cannot both be true at the same time."
+}

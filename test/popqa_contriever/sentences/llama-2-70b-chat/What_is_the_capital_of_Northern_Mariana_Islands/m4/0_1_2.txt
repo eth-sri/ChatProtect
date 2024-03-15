@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Northern Mariana Islands?",
+  "orig": "However, it can be inferred that the capital of the Northern Mariana Islands is located on the island of Saipan, as the Northern Islands Municipality, which includes the northern islands, has its mayor's office located \"in exile\" on Saipan.",
+  "alt": "The Northern Islands Municipality has no capital.",
+  "prefix": " The capital of the Northern Mariana Islands is not explicitly stated in the provided text.",
+  "triple": [
+    [
+      "the Northern Islands Municipality,",
+      "has",
+      "its mayor's office"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Northern Mariana Islands are not contradictory. Statement 1 infers that the capital is located on Saipan, while Statement 2 states that the Northern Islands Municipality has no capital. These statements do not contradict each other because the Northern Islands Municipality is separate from the other municipalities, which have their own capitals. Therefore, it is possible for the Northern Islands Municipality to have no capital while the capital of the Northern Mariana Islands is located on Saipan."
+}

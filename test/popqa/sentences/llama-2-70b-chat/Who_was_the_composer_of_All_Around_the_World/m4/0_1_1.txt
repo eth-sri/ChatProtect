@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of All Around the World?",
+  "orig": "Stargate is a production team composed of Tor Erik Hermansen and Mikkel Storleer Eriksen, who are both Norwegian music producers and songwriters.",
+  "alt": "Stargate is a production team that composed the music for \"All Around the World\".",
+  "prefix": " \"All Around the World\" is a song by Rihanna, and it was written and produced by Rihanna, Stargate, and Rob Swire.",
+  "triple": [
+    [
+      "a production team",
+      "composed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is correct, while Statement 1 is not contradictory but irrelevant to the prompt. The prompt asks for the composer of \"All Around the World,\" and Statement 2 correctly identifies Stargate as the production team that composed the music for the song. Statement 1 provides information about Stargate's members and their profession, but it does not directly answer the prompt."
+}

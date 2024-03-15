@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Confessions of a Dangerous Mind?",
+  "orig": "The film was directed by George Clooney and starred Sam Rockwell, Julia Roberts, and Drew Barrymore.",
+  "alt": "The film was directed by George Clooney.",
+  "prefix": " The screenwriter for the 2002 film \"Confessions of a Dangerous Mind\" was Charlie Kaufman.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by George Clooney"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Confessions of a Dangerous Mind\" are not contradictory. Both statements provide additional information about the film, but they do not contradict the fact that Charlie Kaufman was the screenwriter. Statement 1 provides information about the cast of the film, while Statement 2 provides information about the director."
+}

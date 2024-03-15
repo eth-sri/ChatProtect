@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Watch?",
+  "orig": "The producer of the watch was Raketa, a Russian watch factory that was founded in 1961.",
+  "alt": "The producer of the watch was Jean-Claude Quenet.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the watch",
+      "was",
+      "Raketa, a Russian watch factory"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Watch? are not contradictory. The first statement correctly identifies Raketa as the producer of the watch, while the second statement identifies Jean-Claude Quenet as a former director of Rolex's escapement department and of production at Franck Muller who joined the Russian factory in 2012. It is possible that Quenet played a role in the production of The Watch, but the first statement provides a more comprehensive answer to the prompt."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Riverside?",
+  "orig": "Riverside is a progressive rock band from Poland, specifically within the subgenre of progressive metal.",
+  "alt": "Riverside is a progressive rock band.",
+  "prefix": "",
+  "triple": [
+    [
+      "Riverside",
+      "is",
+      "a progressive rock band from Poland, specifically within the subgenre of progressive metal."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Riverside are not contradictory. Statement 1 specifies that Riverside is within the subgenre of progressive metal, while Statement 2 simply states that Riverside is a progressive rock band. Therefore, Statement 2 is a broader classification that includes the more specific subgenre mentioned in Statement 1."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Apostrophe (')?",
+  "orig": "The producer of Apostrophe (') was Frank Zappa.",
+  "alt": "The producer of Apostrophe was Frank Zappa.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Apostrophe",
+      "was",
+      "Frank Zappa."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Apostrophe (') are not contradictory. They both provide the same answer, stating that Frank Zappa was the producer of the album. The only difference between the two statements is the use of parentheses around the apostrophe in the album title."
+}

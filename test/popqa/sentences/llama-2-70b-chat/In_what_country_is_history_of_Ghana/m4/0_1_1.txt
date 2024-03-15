@@ -1,0 +1,19 @@
+{
+  "target": "In what country is history of Ghana?",
+  "orig": "Its history dates back to the ancient kingdoms and empires that once flourished in the region, such as the Kingdom of Ghana, which was established in the 7th century AD.",
+  "alt": "Back to the ancient kingdoms and empires, once flourished the powerful kingdom of Ashanti.",
+  "prefix": " Ghana is a country located in West Africa.",
+  "triple": [
+    [
+      "back to the ancient kingdoms and empires",
+      "once flourished",
+      "in the region, such as the Kingdom of Ghana,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the history of Ghana, with statement 1 mentioning the Kingdom of Ghana and statement 2 mentioning the Ashanti Kingdom. Both kingdoms played significant roles in the history of Ghana and are not mutually exclusive."
+}

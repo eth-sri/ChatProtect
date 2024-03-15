@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of \u00c8ve?",
+  "orig": "\u00c8ve was first performed in 1875 at the Op\u00e9ra-Comique in Paris.",
+  "alt": "\u00c8ve was first performed at the Op\u00e9ra-Comique in Paris in 1875.",
+  "prefix": " The composer of \u00c8ve is not explicitly stated. However, the opera was composed by Jules Massenet, a French composer known for his operas, oratorios, and orchestral works.",
+  "triple": [
+    [
+      "\u00c8ve",
+      "was first performed",
+      "in 1875 at the Op\u00e9ra-Comique in Paris."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the first performance of \u00c8ve at the Op\u00e9ra-Comique in Paris in 1875. The first statement mentions the composer in passing, while the second statement focuses on the performance itself."
+}

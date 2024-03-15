@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Game?",
+  "orig": "The screenwriter for the 1997 film The Game was Andrew Kevin Walker.",
+  "alt": "The screenwriter for the 1997 film The Game was David Fincher.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the 1997 film The Game",
+      "was",
+      "Andrew Kevin Walker."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for The Game? are contradictory. Statement 1 claims that Andrew Kevin Walker was the screenwriter for the film, while statement 2 claims that David Fincher was the screenwriter. Only one of these statements can be true, so they cannot both be accurate."
+}

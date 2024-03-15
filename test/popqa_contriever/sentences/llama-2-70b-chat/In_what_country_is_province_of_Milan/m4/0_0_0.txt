@@ -1,0 +1,19 @@
+{
+  "target": "In what country is province of Milan?",
+  "orig": "The Province of Milan is located in Italy.",
+  "alt": "The Province of Milan is located in Italy.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Province of Milan",
+      "is located",
+      "in Italy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both provide the same answer to the prompt \"In what country is province of Milan?\". They simply repeat the same information."
+}

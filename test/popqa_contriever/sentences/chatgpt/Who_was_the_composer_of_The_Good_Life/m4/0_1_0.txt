@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Good Life?",
+  "orig": "However, the English lyrics were written by composer Jack Reardon for Tony Bennett's 1963 recording.",
+  "alt": "The English lyrics were written by composer Jack Reardon.",
+  "prefix": " The original composer of \"The Good Life\" was Sacha Distel.",
+  "triple": [
+    [
+      "the English lyrics",
+      "were written",
+      "by composer Jack Reardon for Tony Bennett's 1963 recording."
+    ],
+    "compactie",
+    620
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of \"The Good Life\" are contradictory. The first statement identifies Sacha Distel as the original composer, while the second statement identifies Jack Reardon as the composer of the English lyrics. While Reardon did write the English lyrics for Tony Bennett's recording, he did not compose the original song. Therefore, the two statements cannot both be true."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Champion?",
+  "orig": "The producer of the film is credited as Carl Laemmle Jr., who was the son of Carl Laemmle, the founder of Universal Pictures.",
+  "alt": "The producer of the film is credited to be Universal-International Pictures.",
+  "prefix": " The producer of the film \"Champion\" is not explicitly stated. However, the film was released in 1949, and it was produced by Universal-International Pictures, which was a subsidiary of Universal Pictures.",
+  "triple": [
+    [
+      "The producer of the film",
+      "is credited",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Champion? are contradictory. \n\nStatement 1 credits Carl Laemmle Jr. as the producer of the film, while Statement 2 credits Universal-International Pictures as the producer. These two statements cannot both be true at the same time. \n\nHowever, it is possible that Carl Laemmle Jr. was the producer for Universal-International Pictures, which would make both statements partially true. Without further information, it is difficult to determine the exact role of Carl Laemmle Jr. in the production of \"Champion\"."
+}

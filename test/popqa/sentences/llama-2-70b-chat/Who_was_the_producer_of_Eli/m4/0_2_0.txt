@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Eli?",
+  "orig": "The producers of the film were not individually credited in the movie.",
+  "alt": "The producers of the film were not individually credited in the movie.",
+  "prefix": " The producer of the movie \"Eli\" is not explicitly stated. However, the film was produced by Paramount Pictures and Insurge Pictures.",
+  "triple": [
+    [
+      "The producers of the film",
+      "were not individually credited",
+      "in the movie."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both provide the same information that the producers of the film \"Eli\" were not individually credited in the movie. They both support the fact that the producer of the movie is not explicitly stated, but rather the film was produced by Paramount Pictures and Insurge Pictures."
+}

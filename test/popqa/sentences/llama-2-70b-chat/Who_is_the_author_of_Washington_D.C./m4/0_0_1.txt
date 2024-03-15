@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Washington, D.C.?",
+  "orig": "Washington, D.C. is a city, not a book, so it doesn't have an author.",
+  "alt": "It doesn't have an author.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "doesn't have",
+      "an author."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements convey the same idea that Washington, D.C. is not a literary work and therefore does not have an author. Statement 1 provides additional information by clarifying that Washington, D.C. is a city, while Statement 2 is a more concise way of expressing the same idea."
+}

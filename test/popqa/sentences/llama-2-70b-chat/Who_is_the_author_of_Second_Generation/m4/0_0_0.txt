@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Second Generation?",
+  "orig": "\"Second Generation\" is a novel written by >.",
+  "alt": "\"Second Generation\" is a novel written by Douglas Coupland.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"Second Generation\"",
+      "is",
+      "a novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Second Generation\" are not contradictory. Statement 1 provides a blank space for the author's name, while statement 2 fills in that blank with the specific name of Douglas Coupland. Both statements convey the same information about the authorship of the novel."
+}

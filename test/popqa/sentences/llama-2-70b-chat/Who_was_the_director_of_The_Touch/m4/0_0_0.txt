@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Touch?",
+  "orig": "The director of The Touch was Ingmar Bergman.",
+  "alt": "The director of The Touch was Martin Scorsese.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of The Touch",
+      "was",
+      "Ingmar Bergman."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the director of The Touch? are contradictory. \n\nStatement 1 correctly identifies Ingmar Bergman as the director of The Touch, while Statement 2 incorrectly identifies Martin Scorsese as the director. As there is only one director for a film, these two statements cannot both be true. Therefore, they are contradictory."
+}

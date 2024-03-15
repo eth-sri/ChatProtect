@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Pearl?",
+  "orig": "However, based on the style and content of the text, it appears to be written by a third-party author or journalist, rather than Nancy Pearl herself.",
+  "alt": "It appears to be written in a Wikipedia article.",
+  "prefix": " The author of the text about Nancy Pearl is not explicitly stated.",
+  "triple": [
+    [
+      "it",
+      "appears to be",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Pearl? are not contradictory. Statement 1 provides an assumption about the author of the text based on its style and content, while Statement 2 identifies the platform on which the text appears. Both statements can be true at the same time."
+}

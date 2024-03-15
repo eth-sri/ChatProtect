@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Arrival?",
+  "orig": "It belongs to the subgenre of first contact and communication with extraterrestrial life.",
+  "alt": "It belongs to the subgenre of first contact.",
+  "prefix": " Arrival is a science fiction film.",
+  "triple": [
+    [
+      "It",
+      "belongs",
+      "to the subgenre of first contact and communication with extraterrestrial life."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Arrival are not contradictory. Statement 1 provides a more specific subgenre within science fiction, which is first contact and communication with extraterrestrial life. Statement 2 is a broader subgenre within science fiction, which is simply first contact. Therefore, both statements are accurate and complement each other in describing the genre of Arrival."
+}

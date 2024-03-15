@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Oklahoma?",
+  "orig": "The city was chosen as the state capital in 1910, and the state government officially moved its operations to the Oklahoma Judicial Center in 2011, leaving only the Supreme Court Hearing Chamber in the capitol building.",
+  "alt": "The city was chosen as the new state capital in 1910.",
+  "prefix": " The capital of Oklahoma is Oklahoma City.",
+  "triple": [
+    [
+      "The city",
+      "was chosen",
+      "as the state capital in 1910,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Oklahoma are not contradictory. Statement 1 provides additional information about the relocation of the state government's operations to the Oklahoma Judicial Center in 2011, while Statement 2 simply states that Oklahoma City was chosen as the new state capital in 1910. Both statements are true and do not contradict each other."
+}

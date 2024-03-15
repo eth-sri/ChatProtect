@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Birthday?",
+  "orig": "The song was originally titled \"Good Morning to All\" and was intended to be sung by students before they began their lessons for the day.",
+  "alt": "The song was originally titled \"Good Morning to All\".",
+  "prefix": " The composer of \"Happy Birthday to You\" is Patty Hill, who wrote the song in the late 19th century.",
+  "triple": [
+    [
+      "The song",
+      "was originally titled",
+      "\"Good Morning"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Birthday\" are not contradictory. Both statements agree that the original title of the song was \"Good Morning to All\" and that it was composed by Patty Hill in the late 19th century. The only difference is that statement 2 repeats the information from the beginning of the text, while statement 1 adds the detail that the song was intended for students to sing before starting their lessons."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Other?",
+  "orig": "He not only wrote the screenplay but also directed the film.",
+  "alt": "The screenplay was also directed by Alejandro Amen\u00e1bar.",
+  "prefix": " The screenwriter for the 2001 film \"The Others\" was Alejandro Amen\u00e1bar.",
+  "triple": [
+    [
+      "the screenplay",
+      "also directed",
+      "the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Other are contradictory. Statement 1 suggests that Alejandro Amen\u00e1bar both wrote and directed the film, while Statement 2 suggests that the screenplay itself was directed by Amen\u00e1bar. Since a screenplay cannot be directed, these two statements cannot both be true."
+}

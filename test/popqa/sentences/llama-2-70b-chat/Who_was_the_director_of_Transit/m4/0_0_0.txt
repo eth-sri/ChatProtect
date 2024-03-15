@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Transit?",
+  "orig": "The director of Transit is a 2018 German-French drama film directed by Christian Petzold.",
+  "alt": "The director of Transit is Christopher Smith.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of Transit",
+      "is",
+      "a 2018 German-French drama film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Transit? are contradictory. The first statement correctly identifies Christian Petzold as the director of the 2018 German-French drama film Transit, while the second statement incorrectly identifies Christopher Smith as the director. Therefore, the two statements cannot both be true at the same time."
+}

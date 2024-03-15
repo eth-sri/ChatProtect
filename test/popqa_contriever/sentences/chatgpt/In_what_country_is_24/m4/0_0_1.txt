@@ -1,0 +1,19 @@
+{
+  "target": "In what country is 24?",
+  "orig": "It is not clear what country is being referred to in the sentence \"In what country is 24?\"",
+  "alt": "Africa 24 is not a country, but a 24-hours-a-day, 7-days-a-week television news network devoted to news about Africa.",
+  "prefix": "",
+  "triple": [
+    [
+      "country",
+      "is",
+      "24?\""
+    ],
+    "compactie",
+    607
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is 24?\" are not contradictory. Statement 1 acknowledges that the prompt is unclear and does not specify which country is being referred to. Statement 2 provides information about Africa 24, which is not a country but a television news network that broadcasts news about Africa. Therefore, both statements provide different but complementary information and do not contradict each other."
+}

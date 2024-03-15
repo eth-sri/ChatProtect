@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of First Things First?",
+  "orig": "First Things First is a book written by Stephen Covey, who is an American management consultant, educator, and author.",
+  "alt": "First Things First is a book written by Stephen Covey.",
+  "prefix": "",
+  "triple": [
+    [
+      "First Things",
+      "is",
+      "a book"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of First Things First are not contradictory. Both statements identify Stephen Covey as the author of the book. The first statement provides additional information about Covey's background as a management consultant, educator, and author, while the second statement simply states his name as the author of the book."
+}

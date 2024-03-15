@@ -7,7 +7,7 @@ evaluate
 torch
 
 # for accessing openai
-openai
+openai==0.28
 # for accessing vicuna 13B
 fschat
 uvicorn

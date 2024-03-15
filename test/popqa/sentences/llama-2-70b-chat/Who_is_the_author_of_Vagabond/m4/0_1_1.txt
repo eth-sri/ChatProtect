@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Vagabond?",
+  "orig": "It was first published in 1998 and has since been serialized in various magazines, including Monthly Afternoon and Evening.",
+  "alt": "It has been serialized in Weekly Morning magazine since 1998.",
+  "prefix": " Vagabond is a Japanese manga series written and illustrated by Takehiko Inoue.",
+  "triple": [
+    [
+      "It",
+      "been serialized",
+      "in various magazines, including Monthly Afternoon and Evening."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Vagabond are contradictory. Statement 1 says that the manga has been serialized in various magazines, including Monthly Afternoon and Evening, while Statement 2 says that it has been serialized in Weekly Morning magazine since 1998. Since the two statements provide different information about the magazines in which Vagabond has been serialized, they cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Annie?",
+  "orig": "It is a stage musical that combines elements of comedy, drama, and music to tell the story of a plucky young orphan named Annie who is determined to find her parents and a sense of belonging.",
+  "alt": "It is based on the popular comic strip \"Little Orphan Annie\" by Harold Gray.",
+  "prefix": " Annie is a musical comedy.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a stage musical"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Annie?\" are not contradictory. Statement 1 describes the characteristics of the musical comedy genre and how they are present in Annie, while Statement 2 provides background information about the source material for the musical. Both statements contribute to a fuller understanding of the genre and context of Annie."
+}

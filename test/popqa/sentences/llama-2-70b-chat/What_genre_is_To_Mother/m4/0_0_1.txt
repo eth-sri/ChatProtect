@@ -1,0 +1,19 @@
+{
+  "target": "What genre is To Mother?",
+  "orig": "To Mother is a novel that belongs to the genre of magical realism.",
+  "alt": "A novel; belongs; to the genre of magic realism.",
+  "prefix": "",
+  "triple": [
+    [
+      "a novel",
+      "belongs",
+      "to the genre of magical realism."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of To Mother are not contradictory. Statement 1 provides a complete sentence that identifies To Mother as a novel belonging to the genre of magical realism. Statement 2 is a rephrased version of the same information, using a semi-colon to separate the subject (To Mother) from the verb (belongs) and adding the descriptor \"magic\" to \"realism.\" Both statements convey the same information and are consistent with each other."
+}

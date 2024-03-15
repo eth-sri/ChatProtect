@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Five?",
+  "orig": "The director of the movie \"Five\" (2011) was Jennifer Aniston.",
+  "alt": "The director of the movie \"Five\" was Francis Ford Coppola.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the movie \"Five\"",
+      "was",
+      "Jennifer Aniston."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Five? are contradictory. Statement 1 claims that Jennifer Aniston was the director of the movie \"Five\", while statement 2 claims that Francis Ford Coppola was the director. As both statements cannot be true at the same time, they contradict each other."
+}

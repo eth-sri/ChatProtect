@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Life?",
+  "orig": "The text only mentions that the original script was written and narrated by David Attenborough.",
+  "alt": "The original script was written by David Attenborough.",
+  "prefix": " The producer of Life was not specified in the provided text.",
+  "triple": [
+    [
+      "the original script",
+      "was written",
+      "by David Attenborough."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Life are not contradictory. While the text does not specify the producer, it does mention that the series was commissioned by Peter Fincham and had a budget of \u00a310 million. Statement 1 correctly reflects that the text only mentions David Attenborough's involvement in the series as the writer and narrator. Statement 2 is also true, as the text explicitly states that David Attenborough wrote the original script."
+}

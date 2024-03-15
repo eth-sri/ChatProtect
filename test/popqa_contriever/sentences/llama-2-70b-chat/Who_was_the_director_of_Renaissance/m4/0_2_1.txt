@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Renaissance?",
+  "orig": "The directors mentioned in the passage are Judi Dench, Geraldine McEwan, and Derek Jacobi, who each made their directing debuts with Renaissance Shakespeare on the Road.",
+  "alt": "The directors are Kenneth Branagh and David Parfitt.",
+  "prefix": " Renaissance was not a single person, but a theatre company founded by Kenneth Branagh and David Parfitt in 1987. Therefore, there was no single director of Renaissance, but rather a collaborative effort between the company's members and the directors of the individual productions.",
+  "triple": [
+    [
+      "The directors",
+      "are",
+      "Judi Dench, Geraldine McEwan, and Derek Jacobi, who each"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 and Statement 2 are not contradictory. While Statement 2 implies that Kenneth Branagh and David Parfitt were directors of Renaissance, Statement 1 clarifies that there were other directors involved in the company's productions, specifically Judi Dench, Geraldine McEwan, and Derek Jacobi. Therefore, both statements are true and provide different perspectives on the directors involved with Renaissance."
+}

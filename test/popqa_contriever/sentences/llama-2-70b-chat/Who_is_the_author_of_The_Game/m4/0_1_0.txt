@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Game?",
+  "orig": "The text discusses a game called \"Bone Wars: The Game of Ruthless Paleontology\" and its co-designer, but it does not mention the author of The Game.",
+  "alt": "The text discusses the works of Jeff Dee.",
+  "prefix": " The author of The Game is not specified in the text.",
+  "triple": [
+    [
+      "The text",
+      "discusses",
+      "a game"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Game? are not contradictory. Statement 1 provides information about a game called \"Bone Wars: The Game of Ruthless Paleontology\" and its co-designer, but it does not mention the author of The Game. Statement 2 mentions the works of Jeff Dee, but it does not provide any information about whether he is the author of The Game. Therefore, both statements are consistent with the fact that the author of The Game is not specified in the text."
+}

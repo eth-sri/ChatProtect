@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Karate Kid?",
+  "orig": "It combines elements of action, comedy, drama, and romance, and can be classified as a family film or a teen movie.",
+  "alt": "Its elements can be classified as action, drama, and romance.",
+  "prefix": " The Karate Kid is a martial arts film, specifically a coming-of-age sports drama.",
+  "triple": [
+    [
+      "elements",
+      "can be classified",
+      "as a family film or a teen movie."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Karate Kid are not contradictory. Both statements acknowledge that the film contains elements of action, drama, and romance. However, statement 1 expands on this by noting that the film also includes elements of comedy and can be classified as a family film or a teen movie. Statement 2 is more focused on the primary genres of the film, while statement 1 provides a broader overview of the film's various elements and potential audience."
+}

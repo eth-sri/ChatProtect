@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Losing It?",
+  "orig": "\"Losing It\" is a book written by Emma Rathbone.",
+  "alt": "Losing It is a book written by Joan Wilder.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"Losing",
+      "is",
+      "a book written by Emma Rathbone."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Losing It? are contradictory. \n\nStatement 1 correctly identifies Emma Rathbone as the author of Losing It, while Statement 2 incorrectly identifies Joan Wilder as the author. Therefore, the two statements cannot both be true at the same time."
+}

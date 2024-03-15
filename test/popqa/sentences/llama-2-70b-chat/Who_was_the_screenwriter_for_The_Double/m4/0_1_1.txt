@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Double?",
+  "orig": "Brandt is a screenwriter and director, and \"The Double\" was his feature film directorial debut.",
+  "alt": "The screenwriter and director, Richard Ayoade, also directed the film.",
+  "prefix": " The screenwriter for the 2013 film \"The Double\" was Michael Brandt.",
+  "triple": [
+    [
+      "a screenwriter and director,",
+      "was",
+      "his feature film directorial debut."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for The Double are contradictory. The first statement claims that Michael Brandt was the screenwriter for the film, while the second statement claims that Richard Ayoade was both the screenwriter and director. Therefore, the two statements cannot both be true at the same time."
+}

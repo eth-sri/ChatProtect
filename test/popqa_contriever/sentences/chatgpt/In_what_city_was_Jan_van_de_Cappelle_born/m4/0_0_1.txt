@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Jan van de Cappelle born?",
+  "orig": "It is not explicitly stated where Jan van de Cappelle was born, only that he lived all his life in Amsterdam.",
+  "alt": "He lived all his life in Amsterdam.",
+  "prefix": "",
+  "triple": [
+    [
+      "he",
+      "lived",
+      "all his life in Amsterdam."
+    ],
+    "compactie",
+    618
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the text does not explicitly state where Jan van de Cappelle was born, it does mention that he lived all his life in Amsterdam. Therefore, it can be inferred that he was born in Amsterdam as well."
+}

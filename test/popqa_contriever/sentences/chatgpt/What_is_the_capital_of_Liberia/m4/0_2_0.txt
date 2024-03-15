@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Liberia?",
+  "orig": "Liberia is also the name of a city in Costa Rica, which is the subject of this passage.",
+  "alt": "Liberia is the capital and largest city of Guanacaste province, Costa Rica.",
+  "prefix": " The capital of Liberia is Monrovia. However, the city of Liberia mentioned in this context is not the same as the country Liberia.",
+  "triple": [
+    [
+      "Liberia",
+      "is",
+      ""
+    ],
+    "compactie",
+    624
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that the capital of Liberia, which is a country in West Africa, is not the same as the city of Liberia mentioned in the context of this passage. The second statement provides information about the city of Liberia in Costa Rica, which is the subject of the passage. Therefore, both statements are correct and do not contradict each other."
+}

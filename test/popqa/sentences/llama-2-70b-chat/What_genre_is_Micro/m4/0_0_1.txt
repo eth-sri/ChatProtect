@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Micro?",
+  "orig": "Micro is a subgenre of horror that originated in the 1990s.",
+  "alt": "Micro is a subgenre of horror that originated in Japan.",
+  "prefix": "",
+  "triple": [
+    [
+      "a subgenre of horror",
+      "originated",
+      "in the 1990s."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Micro are contradictory. Statement 1 suggests that Micro is a subgenre of horror that originated in the 1990s, while Statement 2 suggests that it originated in Japan. These two statements cannot both be true at the same time, as they provide different information about the origin of the genre. Therefore, they are contradictory."
+}

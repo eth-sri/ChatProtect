@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Test?",
+  "orig": "Applegate and ghostwritten by Ellen Geroux, is a young adult science fiction novel.",
+  "alt": "Ellen; is; a ghostwriter.",
+  "prefix": " The Test, written by K.A.",
+  "triple": [
+    [
+      "Ellen",
+      "is",
+      "a young adult science fiction novel."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Test are not contradictory. Statement 1 correctly identifies the book as a young adult science fiction novel, while statement 2 provides additional information about the ghostwriter, Ellen Geroux. The two statements do not conflict with each other."
+}

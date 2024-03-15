@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Halloween?",
+  "orig": "They co-wrote the screenplay together, with Carpenter also serving as the director and composer for the film.",
+  "alt": "They co-wrote the screenplay with actor and producer Moustapha Akkad.",
+  "prefix": " The screenwriter for the original Halloween film, released in 1978, was John Carpenter and Debra Hill.",
+  "triple": [
+    [
+      "They",
+      "co-wrote",
+      "the screenplay together,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Halloween are not contradictory. Statement 1 provides additional information about Carpenter's involvement in the film as both director and composer, while also confirming Hill's co-writing credit. Statement 2 adds another co-writer to the mix, Moustapha Akkad, but does not contradict the fact that Carpenter and Hill were also involved in writing the screenplay."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Paperboy?",
+  "orig": "The Paperboy is a 2012 American crime drama film directed by Lee Daniels.",
+  "alt": "a 2012 American crime drama film directed by Lee Daniels.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 2012 American crime drama film",
+      "directed",
+      "by Lee Daniels."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Paperboy are not contradictory. Statement 1 provides the full description of the film, including its title, year of release, and genre (crime drama). Statement 2 is a shortened version of Statement 1, providing only the essential information about the film's title, year of release, and director. Both statements confirm that The Paperboy is a crime drama film directed by Lee Daniels."
+}

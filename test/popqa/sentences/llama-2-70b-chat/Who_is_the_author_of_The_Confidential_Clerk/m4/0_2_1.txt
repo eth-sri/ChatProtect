@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Confidential Clerk?",
+  "orig": "The play was first performed in 1953 and was published in 1954.",
+  "alt": "The play was published in 1954.",
+  "prefix": " The author of The Confidential Clerk is T.S. Eliot.",
+  "triple": [
+    [
+      "The play",
+      "was published",
+      "in 1954."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of The Confidential Clerk are not contradictory. Both statements confirm that T.S. Eliot is the author of the play. The first statement provides additional information about the play's performance and publication dates, while the second statement simply reiterates that the play was published in 1954."
+}

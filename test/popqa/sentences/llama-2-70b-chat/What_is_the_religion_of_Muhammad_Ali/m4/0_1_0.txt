@@ -1,0 +1,19 @@
+{
+  "target": "What is the religion of Muhammad Ali?",
+  "orig": "He converted to Islam in 1964 and was a member of the Nation of Islam.",
+  "alt": "He converted to Islam in 1964.",
+  "prefix": " Muhammad Ali was a Muslim.",
+  "triple": [
+    [
+      "He",
+      "converted",
+      "to Islam"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the religion of Muhammad Ali are not contradictory. Both statements agree that he converted to Islam in 1964, but statement 1 provides additional information that he was a member of the Nation of Islam. Therefore, statement 1 is more specific than statement 2."
+}

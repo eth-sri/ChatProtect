@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Blenheim?",
+  "orig": "It is a town situated in the Marlborough region, which is located in the South Island of New Zealand.",
+  "alt": "Sure! Here's a possible next sentence:\n\na small town",
+  "prefix": " Blenheim is located in New Zealand.",
+  "triple": [
+    [
+      "a",
+      "is located",
+      "in the South Island of New"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. The first statement provides the answer to the prompt by stating that Blenheim is located in New Zealand. The second statement adds further information by describing Blenheim as a small town situated in the Marlborough region, which is located in the South Island of New Zealand. Both statements are consistent with each other and provide complementary information about the location of Blenheim."
+}

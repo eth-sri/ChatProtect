@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Sneakers?",
+  "orig": "The screenwriters for Sneakers were Phil Alden Robinson and Lawrence Lasker.",
+  "alt": "The screenwriters for Sneakers were Phil Alden Robinson, Lawrence Lasker, and Walter F. Parkes.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriters for Sneakers",
+      "were",
+      "Phil Alden Robinson and Lawrence Lasker."
+    ],
+    "compactie",
+    495
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Sneakers? are not contradictory. Statement 1 lists two screenwriters for the movie, while Statement 2 lists three screenwriters. Therefore, Statement 2 includes the screenwriters listed in Statement 1 and adds an additional screenwriter."
+}

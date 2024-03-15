@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Paperboy?",
+  "orig": "The Paperboy is a novel that falls under the genre of literary fiction.",
+  "alt": "The Paperboy falls under the genre of crime fiction.",
+  "prefix": "",
+  "triple": [
+    [
+      "a novel",
+      "falls",
+      "under the genre of literary fiction."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Paperboy are contradictory. Statement 1 suggests that the novel is a work of literary fiction, which typically focuses on character development and explores complex themes. Statement 2, on the other hand, suggests that the novel is a work of crime fiction, which typically centers around a crime and its investigation. While it is possible for a novel to fall under multiple genres, these two genres have distinct characteristics that do not necessarily overlap. Therefore, the statements cannot both be true at the same time."
+}

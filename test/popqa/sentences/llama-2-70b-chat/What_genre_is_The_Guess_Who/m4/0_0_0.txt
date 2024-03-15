@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Guess Who?",
+  "orig": "The Guess Who is a Canadian rock band that was formed in 1962.",
+  "alt": "The Guess Who is a rock band.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Guess Who",
+      "is",
+      "a Canadian rock band"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Guess Who are not contradictory. Both statements agree that The Guess Who is a rock band, with the first statement providing additional information about their origin and formation. Therefore, there is no contradiction between the two statements."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Safe?",
+  "orig": "The movie stars Jason Statham, Chris Sarandon, and Catherine Chan.",
+  "alt": "The movie stars Jason Statham, Chris Sarandon, and Catherine Chan.",
+  "prefix": " The screenwriter for the 2012 film \"Safe\" was Boaz Yakin. Yakin also directed the film and served as a producer.",
+  "triple": [
+    [
+      "The movie",
+      "stars",
+      "Jason Statham, Chris Sarandon, and Catherine Chan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Safe are not contradictory. However, statement 2 is a repetition of statement 1 and does not provide any additional information."
+}

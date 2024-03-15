@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of arrondissement of Limoges?",
+  "orig": "Limoges is a city in France, and it is the capital of the Haute-Vienne department.",
+  "alt": "Limoges is a city located in the Nouvelle-Aquitaine region of central France.",
+  "prefix": " I'm not sure what you mean by \"arrondissement of Limoges.\"",
+  "triple": [
+    [
+      "Limoges",
+      "is",
+      "a city in France,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of arrondissement of Limoges are not contradictory. Statement 1 provides information about Limoges being the capital of the Haute-Vienne department, while Statement 2 provides information about Limoges being located in the Nouvelle-Aquitaine region of central France. Both statements are true and do not contradict each other."
+}

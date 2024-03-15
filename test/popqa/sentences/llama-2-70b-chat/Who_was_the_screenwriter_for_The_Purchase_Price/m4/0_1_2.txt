@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Purchase Price?",
+  "orig": "Mintz was a prolific screenwriter who worked on many films during the 1920s and 1930s, including several other films directed by William Wellman, such as Wings (1927) and The Public Enemy (1931).",
+  "alt": "on many films during the 1920s and 1930s, directed by John Francis Dillon.",
+  "prefix": " The screenwriter for The Purchase Price (1932) was Sam Mintz.",
+  "triple": [
+    [
+      "on many films during the 1920s and 1930s,",
+      "directed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for The Purchase Price are not contradictory, but they provide different information. Statement 1 states that Sam Mintz was a prolific screenwriter who worked on many films during the 1920s and 1930s, including several other films directed by William Wellman. Statement 2 adds that Mintz also worked on many films during the 1920s and 1930s, but this time directed by John Francis Dillon. Therefore, both statements provide additional information about Mintz's career as a screenwriter, but they do not contradict each other."
+}

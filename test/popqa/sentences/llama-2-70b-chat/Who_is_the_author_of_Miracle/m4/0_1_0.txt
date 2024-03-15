@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Miracle?",
+  "orig": "The poem is a traditional Christian hymn, and the lyrics were likely written by an unknown author.",
+  "alt": "The poem is anonymous.",
+  "prefix": " The author of \"Miracle\" is not explicitly stated.",
+  "triple": [
+    [
+      "The poem",
+      "is",
+      "a traditional Christian hymn,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Miracle\" are not contradictory. Both statements suggest that the author of the poem is unknown or anonymous. Statement 1 provides a possible context for the poem's creation, while Statement 2 simply states that the author is not identified."
+}

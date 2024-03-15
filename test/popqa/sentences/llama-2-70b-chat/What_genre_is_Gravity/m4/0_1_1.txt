@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Gravity?",
+  "orig": "It is specifically categorized as a space drama and a survival film, as it depicts a catastrophic scenario in which two astronauts are stranded in space with limited resources and must fight to survive.",
+  "alt": "It depicts a catastrophic accident on a space mission.",
+  "prefix": " Gravity is a science fiction film.",
+  "triple": [
+    [
+      "it",
+      "depicts",
+      "a catastrophic scenario"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Gravity are not contradictory. Statement 1 provides additional sub-genres within the science fiction category, while Statement 2 simply describes the plot of the film. Both statements are consistent with the overall genre classification of Gravity as a science fiction film."
+}

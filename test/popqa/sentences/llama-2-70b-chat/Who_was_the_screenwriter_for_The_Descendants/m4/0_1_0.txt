@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Descendants?",
+  "orig": "The movie was based on the novel of the same name by Kaui Hart Hemmings.",
+  "alt": "The movie was based on the novel of the same name by Kaui Hart Hemmings.",
+  "prefix": " The screenwriter for The Descendants was Alexander Payne, who also directed the film.",
+  "triple": [
+    [
+      "The movie",
+      "was based",
+      "on the novel of the same name by Kaui Hart Hemmings."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but rather repetitive. Both statements mention that The Descendants was based on the novel of the same name by Kaui Hart Hemmings, but neither statement provides any information that contradicts the fact that Alexander Payne was the screenwriter for the film."
+}

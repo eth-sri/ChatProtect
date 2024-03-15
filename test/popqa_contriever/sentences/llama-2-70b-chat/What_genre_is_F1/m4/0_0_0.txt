@@ -1,0 +1,19 @@
+{
+  "target": "What genre is F1?",
+  "orig": "F1 is a racing video game, specifically a Formula One racing game.",
+  "alt": "F1 is a racing video game.",
+  "prefix": "",
+  "triple": [
+    [
+      "F1",
+      "is",
+      "a racing video game, specifically a Formula One racing game."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of F1 are not contradictory. Statement 1 provides a more specific description of the racing game, indicating that it is focused on Formula One racing. Statement 2 is a more general statement that simply identifies F1 as a racing video game without specifying any particular subgenre. Both statements are true and can coexist without contradiction."
+}

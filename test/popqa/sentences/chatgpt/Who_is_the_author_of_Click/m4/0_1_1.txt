@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Click?",
+  "orig": "However, there are many books and articles titled \"Click\" which have different authors.",
+  "alt": "\"Click\" has Adam Sandler as the lead actor.",
+  "prefix": " The author of Click is Adam Sandler, Tim Herlihy, and Steve Koren (screenplay).",
+  "triple": [
+    [
+      "\"Click\"",
+      "have",
+      "different authors."
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that there are other works with the same title but different authors, while the second statement simply states that Adam Sandler is the lead actor in the movie \"Click\". Both statements are true and do not contradict the fact that Adam Sandler, Tim Herlihy, and Steve Koren wrote the screenplay for the movie."
+}

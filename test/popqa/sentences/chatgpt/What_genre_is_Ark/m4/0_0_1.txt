@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Ark?",
+  "orig": "Ark is a survival action-adventure video game that belongs to the open-world survival genre.",
+  "alt": "Ark belongs to the open-world survival action-adventure video game genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "a survival action-adventure video game",
+      "belongs",
+      "to the open-world survival genre."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Ark are not contradictory. Both statements identify Ark as belonging to the open-world survival genre and the action-adventure genre. The only difference is the order in which the genres are listed. Therefore, both statements are correct and convey the same information."
+}

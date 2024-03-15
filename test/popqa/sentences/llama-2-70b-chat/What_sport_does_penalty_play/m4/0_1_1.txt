@@ -1,0 +1,19 @@
+{
+  "target": "What sport does penalty play?",
+  "orig": "In football, a penalty kick is awarded when a foul is committed within the penalty area, and a player from the attacking team is given the opportunity to score a goal from the penalty spot.",
+  "alt": "A foul is committed when a player violates the rules of the game, resulting in a penalty play.",
+  "prefix": " Penalty play is a term used in several sports, but the most common association is with the sport of football (also known as soccer).",
+  "triple": [
+    [
+      "foul",
+      "is committed",
+      "within the penalty area,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What sport does penalty play?\" are not contradictory. Statement 1 provides a specific example of how penalty play is used in football, while Statement 2 explains the circumstances that lead to a penalty play being awarded in any sport. Both statements are consistent with the idea that penalty play is a term used in various sports, including football."
+}

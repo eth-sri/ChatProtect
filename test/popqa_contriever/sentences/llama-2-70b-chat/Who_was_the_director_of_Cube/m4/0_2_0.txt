@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Cube?",
+  "orig": "Therefore, it can be inferred that Ice Cube was involved in the production of Cube, but the director's name is not specified.",
+  "alt": "Ice Cube was involved in the production of Cube.",
+  "prefix": " The director of Cube, a 1995 film, was not specified in the provided text. However, it's mentioned that Ice Cube and Matt Alvarez founded Cube Vision, a film and television production company, and Ice Cube started his movie producing career in 1995 with his then manager Patricia Charbonnet.",
+  "triple": [
+    [
+      "Ice Cube",
+      "was involved",
+      "in the production of Cube,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the director of Cube is not specified in the provided text, it is mentioned that Ice Cube was involved in the production of the film. Therefore, it can be inferred that Ice Cube may have had a role in selecting the director or had some creative input in the film's production. Statement 1 acknowledges the lack of information about the director, while Statement 2 confirms Ice Cube's involvement in the production."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of San Marino?",
+  "orig": "San Marino is a microstate located within the Italian Peninsula, and it is the world's oldest surviving republic.",
+  "alt": "San Marino is located in southern Europe, surrounded by Italy.",
+  "prefix": " The capital of San Marino is San Marino City.",
+  "triple": [
+    [
+      "a microstate",
+      "located",
+      "within the Italian Peninsula,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of San Marino are not contradictory. Statement 1 provides additional information about San Marino, such as its status as a microstate and its historical significance as the world's oldest surviving republic. Statement 2 provides information about San Marino's location, which is relevant but not directly related to the question of its capital. Both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is 2AM?",
+  "orig": "2AM is a South Korean boy band that debuted in 2008.",
+  "alt": "Sure, here's a possible next sentence:\n\n2AM debuted in 2008 with their single \"This Song\".",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "2AM",
+      "debuted",
+      "in 2008."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of 2AM do not provide any information that contradicts each other. The first statement simply introduces 2AM as a South Korean boy band that debuted in 2008, while the second statement adds more detail by specifying that they debuted with the single \"This Song\". Neither statement provides any information about the genre of 2AM, so there is no contradiction between them."
+}

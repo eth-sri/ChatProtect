@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Rogers?",
+  "orig": "It is headquartered in Toronto, Ontario, Canada.",
+  "alt": "It is headquartered in Toronto, Ontario.",
+  "prefix": " Rogers is a Canadian multinational telecommunications conglomerate.",
+  "triple": [
+    [
+      "It",
+      "is headquartered",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Rogers?\" are not contradictory. Both statements confirm that Rogers is headquartered in Toronto, Ontario, which is located in Canada. The only difference is that statement 2 omits the mention of Canada, but it is still clear from the context that Toronto, Ontario is in Canada. Therefore, both statements provide the same answer to the prompt."
+}

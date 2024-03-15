@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Interface?",
+  "orig": "The author of the book \"Interface\" is Stephen B. Bayne.",
+  "alt": "The author of the book \"Interface\" is Som Bathla.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of the book \"Interface\"",
+      "is",
+      "Stephen B. Bayne."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Interface? are contradictory. Statement 1 claims that the author of the book \"Interface\" is Stephen B. Bayne, while statement 2 claims that the author is Som Bathla. Since both statements cannot be true at the same time, they contradict each other."
+}

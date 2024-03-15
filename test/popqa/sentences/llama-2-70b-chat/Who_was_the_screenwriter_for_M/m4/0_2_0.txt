@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for M?",
+  "orig": "The film was directed by Fritz Lang and starred Peter Lorre as the serial killer Hans Beckert.",
+  "alt": "The film was directed by Fritz Lang.",
+  "prefix": " The screenwriter for the 1931 German film \"M\" was Thea von Harbou. She was a German screenwriter and actress, and \"M\" was one of her most famous works.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by Fritz Lang"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"M\" are not contradictory. While statement 1 provides additional information about the director and lead actor of the film, it does not contradict the initial statement that Thea von Harbou was the screenwriter for \"M\"."
+}

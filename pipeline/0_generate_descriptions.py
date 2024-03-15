@@ -54,6 +54,10 @@ if __name__ == "__main__":
         for i in range(args.amount):
             bot.seed = i
             with bot as bot_ses:
+                if model == "llama-2-70b-chat":
+                    bot_ses.set_system_prompt(
+                        "You are a description generator. A user asks you about a topic and you answer in a brief encyclopdic style to the prompt."
+                    )
                 bot_ses.set_deterministic(False)
                 bot_ses.set_num_answers(1)
                 if "###" in topic:

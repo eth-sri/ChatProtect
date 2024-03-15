@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about george whitefield",
+  "orig": "He was born in Gloucester, England in 1714 and was educated at Oxford University.",
+  "alt": "He was educated at Pembroke College, Oxford.",
+  "prefix": " George Whitefield was a prominent English Anglican preacher in the 18th century and one of the leaders of the Great Awakening, a religious revival movement in colonial America.",
+  "triple": [
+    [
+      "He",
+      "was educated",
+      "at Oxford University."
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about George Whitefield are not contradictory, but rather provide additional information about his education. Both statements mention that he was educated at Oxford University, with statement 1 specifying that he was born in Gloucester and statement 2 specifying that he attended Pembroke College. Therefore, the statements complement each other and do not contradict each other."
+}

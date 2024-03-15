@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glass?",
+  "orig": "It was written in 1961 and is considered one of Beckett's most important works.",
+  "alt": "It was written in 1956 and is considered one of Beckett's most important works.",
+  "prefix": " Glass is a play written by Samuel Beckett.",
+  "triple": [
+    [
+      "It",
+      "was written is considered",
+      "one of Beckett's most important works."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Glass? are contradictory because they provide different years for when the play was written. One statement says it was written in 1961, while the other says it was written in 1956. Therefore, only one of the statements can be true, and the other must be false."
+}

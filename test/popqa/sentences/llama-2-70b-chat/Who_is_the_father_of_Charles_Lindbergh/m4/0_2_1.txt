@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Charles Lindbergh?",
+  "orig": "He was born in 1859 and died in 1924.",
+  "alt": "He died on May 24, 1924, at the age of 62.",
+  "prefix": " Charles Lindbergh's father was Charles August Lindbergh, Sr. He was a Swedish immigrant who came to the United States in 1882 and became a successful businessman and politician.",
+  "triple": [
+    [
+      "He",
+      "died",
+      "in 1924."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the father of Charles Lindbergh are not contradictory. Both statements provide additional information about Charles August Lindbergh, Sr., including his birth year and date of death. Statement 1 simply provides his birth year, while statement 2 provides the specific date of his death and his age at the time. These statements do not contradict the fact that Charles August Lindbergh, Sr. is the father of Charles Lindbergh."
+}

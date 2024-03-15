@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Last Days?",
+  "orig": "It is a young adult science fiction novel that was published in 2006.",
+  "alt": "It is a young adult science fiction novel.",
+  "prefix": " The author of The Last Days is Scott Westerfeld.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a young adult science fiction novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Last Days? are not contradictory. The first statement provides additional information about the novel, including its genre and publication year, while the second statement simply reiterates that it is a young adult science fiction novel. Both statements are consistent with the fact that Scott Westerfeld is the author of The Last Days."
+}

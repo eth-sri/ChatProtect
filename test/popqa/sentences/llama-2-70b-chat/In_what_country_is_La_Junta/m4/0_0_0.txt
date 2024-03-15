@@ -1,0 +1,19 @@
+{
+  "target": "In what country is La Junta?",
+  "orig": "La Junta is a city located in the south-central region of Colorado, in the United States.",
+  "alt": "La Junta is in Mexico.",
+  "prefix": "",
+  "triple": [
+    [
+      "La Junta",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about In what country is La Junta? are contradictory. \n\nStatement 1 states that La Junta is located in the United States, specifically in the south-central region of Colorado. \n\nHowever, statement 2 claims that La Junta is in Mexico, which is a completely different country located south of the United States. \n\nTherefore, the two statements cannot both be true, and they contradict each other."
+}

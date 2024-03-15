@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Love Story?",
+  "orig": "The director of Love Story was not mentioned in the provided information.",
+  "alt": "The director of Love Story was mentioned in the preceding answer.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of Love Story",
+      "was not mentioned",
+      "in the provided information."
+    ],
+    "compactie",
+    612
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is correct, while Statement 1 is incorrect. The provided information states that Hiller received a DGA Award nomination for Outstanding Directorial Achievement in Feature Film for \"Love Story\". Therefore, the director of Love Story was mentioned in the preceding answer. The two statements are contradictory."
+}

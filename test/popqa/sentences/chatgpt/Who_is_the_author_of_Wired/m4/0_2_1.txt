@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wired?",
+  "orig": "However, former executive editor and current contributing editor Kevin Kelly co-founded the magazine in 1993 with Louis Rossetto, and is a well-known figure associated with the publication.",
+  "alt": "The magazine is known for its coverage of technology, science, and culture.",
+  "prefix": " Wired is a magazine, not a book, and therefore has multiple authors. The publication is credited to Cond\u00e9 Nast.",
+  "triple": [
+    [
+      "the magazine",
+      "is",
+      "a well-known figure"
+    ],
+    "compactie",
+    499
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that Wired is a magazine with multiple authors and is credited to Cond\u00e9 Nast. The second statement provides additional information about the magazine's content and focus, which is not related to the authorship of the publication. The third statement provides further details about one of the co-founders of the magazine, but does not contradict the first statement about multiple authors."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Lovely?",
+  "orig": "Lovely Music is not a composition or musical work, but rather a record label.",
+  "alt": "Lovely Music is not a composition, but rather an American record label devoted to new American music.",
+  "prefix": "",
+  "triple": [
+    [
+      "Lovely Music",
+      "is not",
+      "a composition or musical work, but rather a record label."
+    ],
+    "compactie",
+    576
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt asks about the composer of Lovely, the text clarifies that Lovely Music is a record label, not a composition or musical work. The second statement further explains that the record label is devoted to new American music. Therefore, the text does not provide information about a specific composer of Lovely."
+}

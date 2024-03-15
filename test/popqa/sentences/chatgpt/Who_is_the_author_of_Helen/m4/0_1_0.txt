@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Helen?",
+  "orig": "Jackson is the author of Helen.",
+  "alt": "Jackson is the pseudonym used by the author H.H. for the publication of the short story \"Helen\".",
+  "prefix": " H.H.",
+  "triple": [
+    [
+      "Jackson",
+      "is",
+      "the author of Helen."
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Helen? are not contradictory. The first statement is incorrect as it states that Jackson is the author of Helen, while the text clearly states that H.H. is the author. The second statement clarifies that H.H. is the actual author and Jackson is just a pseudonym used by H.H. for the publication of the short story \"Helen\". Therefore, both statements are consistent with the information provided in the text."
+}

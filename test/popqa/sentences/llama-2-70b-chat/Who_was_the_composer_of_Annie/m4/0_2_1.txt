@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Annie?",
+  "orig": "The show opened on Broadway in 1977 and was a great success, running for over 2,300 performances.",
+  "alt": "The show was first performed on Broadway in 1977.",
+  "prefix": " The music for the musical \"Annie\" was composed by Charles Strouse. The lyrics were written by Martin Charnin, and the book was written by Thomas Meehan.",
+  "triple": [
+    [
+      "The show",
+      "was",
+      "a great success,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While Statement 1 provides additional information about the success and longevity of the show, it does not contradict the initial statement that Charles Strouse was the composer of the music for \"Annie\". Statement 2 simply confirms that the show was first performed on Broadway in 1977, which is consistent with the information provided in the initial text."
+}

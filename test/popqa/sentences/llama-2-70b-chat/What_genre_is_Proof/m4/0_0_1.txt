@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Proof?",
+  "orig": "Proof is a drama film that falls under the genre of mystery and thriller.",
+  "alt": "A drama film falls under the genre of drama.",
+  "prefix": "",
+  "triple": [
+    [
+      "a drama film",
+      "falls",
+      "under the genre of mystery and thriller."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is Proof? are contradictory. \n\nStatement 1 suggests that Proof is a drama film that falls under the genre of mystery and thriller, implying that it is primarily a mystery/thriller film with dramatic elements. \n\nHowever, Statement 2 suggests that a drama film falls under the genre of drama, implying that Proof is primarily a drama film with no clear indication of any other genre. \n\nTherefore, the two statements cannot both be true at the same time, as they present conflicting ideas about the primary genre of Proof."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Normal Life?",
+  "orig": "I'm not familiar with a movie called \"Normal Life.\"",
+  "alt": "The director of \"Normal Life\" is not a familiar name to me.",
+  "prefix": "",
+  "triple": [
+    [
+      "familiar with a movie",
+      "called",
+      "\"Normal Life.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements express a lack of familiarity with the movie and its director. They do not provide any conflicting information about the director's identity."
+}

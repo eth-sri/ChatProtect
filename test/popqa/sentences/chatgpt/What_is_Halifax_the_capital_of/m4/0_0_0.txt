@@ -1,0 +1,19 @@
+{
+  "target": "What is Halifax the capital of?",
+  "orig": "Halifax is the capital of the Canadian province of Nova Scotia.",
+  "alt": "Halifax is not a capital city, but rather a regional municipality and the largest city in the Canadian province of Nova Scotia.",
+  "prefix": "",
+  "triple": [
+    [
+      "Halifax",
+      "is",
+      "the capital of the Canadian province of"
+    ],
+    "compactie",
+    490
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is Halifax the capital of?\" are contradictory. \n\nStatement 1 clearly states that Halifax is the capital of the Canadian province of Nova Scotia, while Statement 2 contradicts this by stating that Halifax is not a capital city. Although Statement 2 provides additional information about Halifax being a regional municipality and the largest city in Nova Scotia, it does not change the fact that Statement 1 identifies Halifax as the capital of the province. Therefore, the two statements cannot both be true at the same time."
+}

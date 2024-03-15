@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Episodes?",
+  "orig": "John Wells was the executive producer of Episode.",
+  "alt": "John Wells directed a single episode of the season and did not write any episodes for the first time.",
+  "prefix": "",
+  "triple": [
+    [
+      "John Wells",
+      "was",
+      "the executive producer of Episode."
+    ],
+    "compactie",
+    603
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Episodes? are not contradictory. The first statement identifies John Wells as the executive producer of the show, while the second statement provides additional information about his involvement in the season, specifically that he directed one episode and did not write any episodes for the first time. Both statements are true and do not conflict with each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Test?",
+  "orig": "The Test is a 2020 American drama film directed by Pablo Larra\u00edn.",
+  "alt": "The Test is a novel.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Test",
+      "is",
+      "a 2020 American drama film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is The Test? are contradictory. \n\nStatement 1 describes The Test as a drama film, which suggests that it is a work of visual media intended for cinematic or television release. On the other hand, Statement 2 describes The Test as a novel, which suggests that it is a work of written fiction intended for publication in book form. These two descriptions are incompatible, as they refer to different mediums and formats. Therefore, the statements cannot both be true at the same time."
+}

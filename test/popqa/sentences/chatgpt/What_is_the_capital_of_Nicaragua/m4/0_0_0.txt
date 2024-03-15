@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Nicaragua?",
+  "orig": "The capital of Nicaragua is Managua.",
+  "alt": "The capital of Nicaragua is Managua.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Nicaragua",
+      "is",
+      "Managua."
+    ],
+    "compactie",
+    475
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of Nicaragua?\" are contradictory. Although both statements provide the same answer, the prompt only asks for one answer. Therefore, having two different statements with the same answer creates a contradiction."
+}

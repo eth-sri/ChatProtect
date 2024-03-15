@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Game?",
+  "orig": "The text discusses a game called \"Bone Wars: The Game of Ruthless Paleontology\" and its co-designer, but it does not mention the author of The Game.",
+  "alt": "The game called \"Bone Wars: The Game of Ruthless Paleontology\" was co-designed by him.",
+  "prefix": " The author of The Game is not specified in the text.",
+  "triple": [
+    [
+      "a game",
+      "called",
+      "\"Bone Wars: The Game of Ruthless Paleontology\" and its co-designer,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the text does not specify the author of The Game, it does mention the co-designer of \"Bone Wars: The Game of Ruthless Paleontology\", which is a different game. Therefore, the two statements do not contradict each other."
+}

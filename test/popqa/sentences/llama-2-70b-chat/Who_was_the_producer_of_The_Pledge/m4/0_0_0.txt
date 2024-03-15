@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Pledge?",
+  "orig": "The producer of the movie The Pledge (2001) was Sean Penn.",
+  "alt": "The Pledge was produced bySean Penn.",
+  "prefix": "",
+  "triple": [
+    [
+      "Pledge",
+      "was",
+      "Sean Penn."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Pledge are not contradictory. Both statements convey the same information that Sean Penn was the producer of the movie. The only difference is in the phrasing of the sentence. Statement 1 uses the phrase \"The producer of the movie The Pledge (2001) was Sean Penn\" while Statement 2 uses the phrase \"The Pledge was produced by Sean Penn.\" Both statements are correct and convey the same information."
+}

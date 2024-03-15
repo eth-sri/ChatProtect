@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Conversation?",
+  "orig": "Francis Ford Coppola was the producer of The Conversation.",
+  "alt": "Francis Ford Coppola was the writer, producer, and director of The Conversation.",
+  "prefix": "",
+  "triple": [
+    [
+      "Francis Ford Coppola",
+      "was",
+      "the producer of The Conversation."
+    ],
+    "compactie",
+    584
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Conversation are not contradictory. Statement 1 simply states that Francis Ford Coppola was the producer, while Statement 2 provides additional information by specifying that he was also the writer and director. Both statements are true and do not contradict each other."
+}

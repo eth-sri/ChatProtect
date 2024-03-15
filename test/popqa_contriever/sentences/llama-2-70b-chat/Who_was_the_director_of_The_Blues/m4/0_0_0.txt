@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Blues?",
+  "orig": "The director of The Blues was Martin Scorsese.",
+  "alt": "The director of The Blues was John Anderson.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of The Blues",
+      "was",
+      "Martin Scorsese."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Blues? are contradictory. Statement 1 claims that Martin Scorsese was the director of The Blues, while Statement 2 claims that John Anderson was the director. Only one of these statements can be true, so they cannot both be correct."
+}

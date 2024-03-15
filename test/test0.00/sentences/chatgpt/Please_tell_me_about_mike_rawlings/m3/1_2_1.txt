@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mike rawlings",
+  "orig": "Rawlings attended Boston College and then went on to earn an MBA from the Stanford Graduate School of Business.",
+  "alt": "Rawlings attended Boston College to earn his undergraduate degree in economics.",
+  "prefix": " Mike Rawlings is an American businessman and politician who served as the 61st mayor of Dallas, Texas from 2011 to 2019. He was born on August 25, 1954, in Borger, Texas, and grew up in a working-class family.",
+  "triple": [
+    [
+      "Rawlings",
+      "attended on to earn",
+      "an MBA from the Stanford Graduate School of Business."
+    ],
+    "compactie",
+    507
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Mike Rawlings are contradictory. Statement 1 says that Rawlings attended Boston College and then earned an MBA from Stanford, while Statement 2 says that he attended Boston College for his undergraduate degree in economics. These two statements cannot both be true at the same time, as they provide different information about Rawlings' educational background."
+}

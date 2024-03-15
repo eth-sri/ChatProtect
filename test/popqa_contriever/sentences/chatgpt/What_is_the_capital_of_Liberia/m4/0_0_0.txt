@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Liberia?",
+  "orig": "The capital of Liberia is Monrovia.",
+  "alt": "The capital of Liberia is Liberia, which is located in the Guanacaste province of Costa Rica.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Liberia",
+      "is",
+      "Monrovia."
+    ],
+    "compactie",
+    605
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Liberia?\" are contradictory. Statement 1 is incorrect as Monrovia is actually the capital of Liberia in West Africa, not in Costa Rica. Statement 2 is correct in identifying Liberia as the capital of Guanacaste province in Costa Rica."
+}

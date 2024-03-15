@@ -1,0 +1,19 @@
+{
+  "target": "What is Boston the capital of?",
+  "orig": "Boston is the capital of Massachusetts.",
+  "alt": "Boston is not a capital city, but it is the largest city in the state of Massachusetts.",
+  "prefix": "",
+  "triple": [
+    [
+      "Boston",
+      "is",
+      "the capital of Massachusetts."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Boston the capital of?\" are not contradictory. Statement 1 correctly identifies Boston as the capital city of Massachusetts. Statement 2 acknowledges that while Boston is not a capital city in a broader sense, it is still the largest city in the state of Massachusetts. Therefore, both statements provide accurate information about Boston's status as a city in Massachusetts."
+}

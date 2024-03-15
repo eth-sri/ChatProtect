@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Tang Empire?",
+  "orig": "The Tang Empire Father had two capitals.",
+  "alt": "The Tang Empire Father had a capital city called Chang'an.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Tang Empire Father",
+      "had",
+      "two capitals."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Tang Empire are not contradictory. Statement 1 indicates that the Tang Empire had two capitals, while Statement 2 specifies that one of those capitals was called Chang'an. Therefore, Statement 2 provides more specific information about one of the two capitals mentioned in Statement 1."
+}

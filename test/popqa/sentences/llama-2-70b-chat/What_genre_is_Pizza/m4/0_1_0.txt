@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Pizza?",
+  "orig": "Genres are categories of artistic expression, such as music, film, or literature.",
+  "alt": "Genres are categories or classifications of artistic expression, such as music, film, or literature.",
+  "prefix": " Pizza is a type of food, rather than a genre.",
+  "triple": [
+    [
+      "Genres",
+      "are",
+      "categories of artistic expression, such as music, film, or literature."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Pizza?\" are not contradictory. Both statements clarify the definition of the term \"genre\" as a category or classification of artistic expression. The first statement emphasizes that pizza is not a form of artistic expression, but rather a type of food. The second statement expands on the definition of genre to include various forms of artistic expression. Therefore, both statements are complementary and provide a more comprehensive understanding of the concept of genre."
+}

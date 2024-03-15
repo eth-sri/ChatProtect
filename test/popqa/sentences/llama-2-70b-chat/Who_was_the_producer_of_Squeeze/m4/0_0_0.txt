@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Squeeze?",
+  "orig": "The producer of Squeeze's self-titled debut album, released in 1979, was John Cale.",
+  "alt": "The producer of Squeeze's self-titled debut album, released in 1973, was John Cale.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Squeeze's self-titled debut album,",
+      "released",
+      "in 1979,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Squeeze? are contradictory. The first statement states that the self-titled debut album was released in 1979, while the second statement states that it was released in 1973. Since the year of release is different, it is not possible for both statements to be true at the same time."
+}

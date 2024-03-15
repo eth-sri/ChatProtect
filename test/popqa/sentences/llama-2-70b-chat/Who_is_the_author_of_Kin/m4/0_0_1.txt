@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Kin?",
+  "orig": "Kin is a 2018 science fiction film written and directed by Jonathan and Josh Baker.",
+  "alt": "The 2018 science fiction film \"Kin\" was written by Jonathan and Josh Baker.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 2018 science fiction film",
+      "written",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Kin? are not contradictory. Both statements convey the same information that Jonathan and Josh Baker are the authors of the 2018 science fiction film \"Kin\". The only difference is the structure of the sentences. Statement 1 provides additional information that the Bakers also directed the film, while Statement 2 is a more straightforward statement of authorship."
+}

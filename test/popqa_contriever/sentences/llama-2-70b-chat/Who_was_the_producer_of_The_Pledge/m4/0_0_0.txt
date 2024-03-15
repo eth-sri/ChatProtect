@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Pledge?",
+  "orig": "According to the text, the producer of \"The Newest Pledge\" was Nicholas Brescia.",
+  "alt": "The producer of \"The Newest Pledge\" was Jason Brescia.",
+  "prefix": "",
+  "triple": [
+    [
+      "the producer of \"The Newest Pledge\"",
+      "was",
+      "Nicholas Brescia."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"The Newest Pledge\" are contradictory. Statement 1 claims that Nicholas Brescia was the producer, while statement 2 claims that Jason Brescia was the producer. It is unclear which statement is accurate without further information."
+}

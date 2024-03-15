@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Jackson County?",
+  "orig": "However, Brownstown is not the capital of Indiana, as Indiana has only one capital, which is Indianapolis.",
+  "alt": "Brownstown is not the capital of Indiana.",
+  "prefix": " The county seat of Jackson County is Brownstown.",
+  "triple": [
+    [
+      "Brownstown",
+      "is not",
+      "the capital of Indiana,"
+    ],
+    "compactie",
+    608
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The prompt asks for the capital of Jackson County, not the capital of Indiana. The first statement clarifies that the county seat of Jackson County is Brownstown, which is not the same as the capital of Indiana. The second statement reiterates that Brownstown is not the capital of Indiana, but does not provide information about the capital of Jackson County."
+}

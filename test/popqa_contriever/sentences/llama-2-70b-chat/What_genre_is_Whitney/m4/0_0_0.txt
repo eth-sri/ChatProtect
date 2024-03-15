@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Whitney?",
+  "orig": "Based on the information provided, \"Whitney\" is a documentary film.",
+  "alt": "Whitney is a biographical drama film.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"Whitney\"",
+      "is",
+      "a documentary film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of \"Whitney\" are contradictory. Statement 1 suggests that the film is a documentary, while Statement 2 suggests that it is a biographical drama. While a biographical drama can be a type of documentary, the two terms are not interchangeable. A documentary typically presents factual information and real-life events, while a biographical drama may take creative liberties in its portrayal of events and characters. Therefore, the two statements cannot both be true at the same time."
+}

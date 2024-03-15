@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Tiger's Tail?",
+  "orig": "The film was directed by John Boorman, but the producer is not credited in the opening or closing credits of the film.",
+  "alt": "The film was directed by John Boorman.",
+  "prefix": " The producer of The Tiger's Tail is not explicitly stated.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by John Boorman,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Tiger's Tail are not contradictory. Statement 1 acknowledges that the producer is not explicitly stated in the film's credits, while Statement 2 simply confirms that the film was directed by John Boorman. Both statements are consistent with each other and do not present conflicting information."
+}

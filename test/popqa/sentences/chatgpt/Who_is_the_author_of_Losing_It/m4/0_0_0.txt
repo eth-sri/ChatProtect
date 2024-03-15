@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Losing It?",
+  "orig": "The author of Losing It is Cora Carmack.",
+  "alt": "The author of Losing It is Emma Rathbone.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Losing It",
+      "is",
+      "Cora Carmack."
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Losing It? are contradictory. Statement 1 correctly identifies Cora Carmack as the author of Losing It, while statement 2 incorrectly identifies Emma Rathbone as the author. Therefore, the two statements cannot both be true at the same time."
+}

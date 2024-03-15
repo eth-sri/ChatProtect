@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Ross the Boss?",
+  "orig": "Ross the Boss is not a genre of music.",
+  "alt": "Ross the Boss is not a genre, but rather a stage name for musician Ross Friedman.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ross the Boss",
+      "is not",
+      "a genre of music."
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that \"Ross the Boss\" is not a genre of music, while the second statement explains that it is a stage name for a musician named Ross Friedman. They are two separate pieces of information that do not contradict each other."
+}

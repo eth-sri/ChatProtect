@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Miracle?",
+  "orig": "The poem is a traditional Christian hymn, and the lyrics were likely written by an unknown author.",
+  "alt": "The lyrics were likely written by the song's performer, Queen.",
+  "prefix": " The author of \"Miracle\" is not explicitly stated.",
+  "triple": [
+    [
+      "the lyrics",
+      "were likely written",
+      "by an unknown author."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the authorship of \"Miracle\" are contradictory. Statement 1 suggests that the author is unknown, while Statement 2 suggests that the author is Queen. These two statements cannot both be true at the same time."
+}

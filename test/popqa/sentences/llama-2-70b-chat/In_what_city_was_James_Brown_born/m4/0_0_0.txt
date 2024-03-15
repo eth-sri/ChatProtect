@@ -1,0 +1,19 @@
+{
+  "target": "In what city was James Brown born?",
+  "orig": "James Brown was born in Barnwell, South Carolina, USA.",
+  "alt": "James Brown was born in Barnwell, South Carolina.",
+  "prefix": "",
+  "triple": [
+    [
+      "James Brown",
+      "was born",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about where James Brown was born are not contradictory. Both statements agree that James Brown was born in Barnwell, South Carolina. The only difference is that the first statement includes the additional information that Barnwell is located in the United States of America."
+}

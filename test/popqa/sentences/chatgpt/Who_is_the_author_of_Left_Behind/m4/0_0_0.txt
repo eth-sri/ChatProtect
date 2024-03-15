@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Left Behind?",
+  "orig": "The author of Left Behind is Tim LaHaye and Jerry B. Jenkins.",
+  "alt": "The author of Left Behind is Tim LaHaye.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Left Behind",
+      "is",
+      "Tim LaHaye and Jerry B. Jenkins."
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Left Behind? are not contradictory. Statement 1 includes both Tim LaHaye and Jerry B. Jenkins as authors, while Statement 2 only mentions Tim LaHaye. Therefore, Statement 2 is a subset of Statement 1, and both statements can be true at the same time."
+}

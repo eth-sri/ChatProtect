@@ -1,0 +1,19 @@
+{
+  "target": "What is London the capital of?",
+  "orig": "London is the capital of England and the United Kingdom.",
+  "alt": "London is the capital of England.",
+  "prefix": "",
+  "triple": [
+    [
+      "London",
+      "is",
+      "the capital of England and the United Kingdom."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is London the capital of?\" are not contradictory. Statement 1 provides a more comprehensive answer by stating that London is the capital of both England and the United Kingdom, while Statement 2 only mentions England. However, both statements agree that London is a capital city, and Statement 2 can be seen as a subset of Statement 1. Therefore, there is no contradiction between the two statements."
+}

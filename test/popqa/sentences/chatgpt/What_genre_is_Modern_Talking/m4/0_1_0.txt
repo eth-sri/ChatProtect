@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Modern Talking?",
+  "orig": "The genre that best describes their music is Euro disco or Europop.",
+  "alt": "The genre that best describes Modern Talking's music is Eurodisco.",
+  "prefix": " Modern Talking is a German pop music duo that emerged in the 1980s.",
+  "triple": [
+    [
+      "best",
+      "describes",
+      "their music"
+    ],
+    "compactie",
+    488
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Modern Talking are not contradictory. Both statements describe the same genre, which is Euro disco or Europop. The only difference is that statement 2 uses the term \"Eurodisco\" as a single word, while statement 1 separates it into two words. However, this does not change the meaning or genre being described."
+}

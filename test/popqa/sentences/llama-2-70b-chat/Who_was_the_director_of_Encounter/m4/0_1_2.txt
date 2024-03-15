@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Encounter?",
+  "orig": "Encounter is a science fiction thriller film released in 2018, directed by Baltasar Korm\u00e1kur.",
+  "alt": "The director of the science fiction thriller film \"Encounter\" was not specified.",
+  "prefix": " The director of Encounter was not specified in the information provided.",
+  "triple": [
+    [
+      "a science fiction thriller film",
+      "directed",
+      "by Baltasar Korm\u00e1kur."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the director of Encounter? are contradictory. \n\nStatement 1 clearly states that the director of Encounter was Baltasar Korm\u00e1kur, while Statement 2 contradicts it by saying that the director was not specified. Therefore, one statement affirms the director's identity, while the other denies it."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Doc?",
+  "orig": "However, the film was produced by Universal Pictures, which is a major Hollywood film studio.",
+  "alt": "The film was produced by multiple producers, including Peter Farrelly, Charles Wessler, and Jess Hall.",
+  "prefix": " The producer of the movie \"Doc\" is not explicitly stated.",
+  "triple": [
+    [
+      "the film",
+      "was produced",
+      "by Universal Pictures,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that the producer of \"Doc\" is not explicitly stated, while the second statement provides additional information that the film was produced by multiple individuals, including Peter Farrelly, Charles Wessler, and Jess Hall. The fact that the film was produced by multiple individuals does not contradict the first statement that the producer is not explicitly stated."
+}

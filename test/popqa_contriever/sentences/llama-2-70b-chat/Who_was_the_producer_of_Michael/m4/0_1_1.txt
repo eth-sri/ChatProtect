@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Michael?",
+  "orig": "Michael Stevens was a producer, writer, and director, and it seems that he produced his own work, including the TV special of the Kennedy Center Honors.",
+  "alt": "He produced the annual \"Kennedy Center Honors\" TV special.",
+  "prefix": " There is no information in the provided text about a producer of Michael Stevens.",
+  "triple": [
+    [
+      "he",
+      "produced",
+      "own work, including the TV special of the Kennedy Center Honors."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that there is no information about a producer of Michael Stevens, while the second statement provides information about a specific production that Michael Stevens produced, which was the annual \"Kennedy Center Honors\" TV special. Therefore, both statements can coexist without contradiction."
+}

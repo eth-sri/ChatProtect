@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Suriname?",
+  "orig": "The capital of Suriname is Paramaribo.",
+  "alt": "The capital of Suriname is Paramaribo.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Suriname",
+      "is",
+      "Paramaribo."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The prompt asks for an explanation of what the capital of Suriname is, and both statements provide the same answer. However, the prompt does not ask for a repetition of the answer, but rather an explanation of it. Therefore, the statements do not fulfill the requirements of the prompt and are redundant."
+}

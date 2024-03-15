@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glass?",
+  "orig": "It is a brief biographical note or encylopedic entry about Charles Glass, providing information about his career and areas of expertise.",
+  "alt": "It is written in the style of an encyclopedia or dictionary entry.",
+  "prefix": " The author of the text about Charles Glass is unnamed.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a brief biographical note or encylopedic entry about Charles Glass,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Glass? are not contradictory. Statement 1 describes the content of the text, while Statement 2 describes the style in which it is written. Both statements provide different information about the text, but they do not contradict each other."
+}

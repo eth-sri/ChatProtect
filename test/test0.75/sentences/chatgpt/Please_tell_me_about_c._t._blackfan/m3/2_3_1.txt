@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about c. t. blackfan",
+  "orig": "Blackfan earned his medical degree from Harvard Medical School in 1908 and completed his residency at Boston Children's Hospital.",
+  "alt": "After receiving his medical degree from Harvard Medical School in 1908, Blackfan completed his internship and residency at Boston Children's Hospital.",
+  "prefix": " C.T. Blackfan was an American pediatrician and hematologist. He was born on January 30, 1882, in Boston, Massachusetts, and died on May 31, 1941.",
+  "triple": [
+    [
+      "his medical degree from Harvard Medical School in 1908",
+      "completed",
+      "his residency at Boston Children's Hospital."
+    ],
+    "compactie",
+    515
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. They both provide information about Blackfan's medical education and residency, with the only difference being the order in which the information is presented."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Hot Fuzz?",
+  "orig": "The screenwriter for Hot Fuzz is Simon Pegg and Edgar Wright.",
+  "alt": "The screenwriter for Hot Fuzz is Simon Pegg.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for Hot Fuzz",
+      "is",
+      "Simon Pegg and Edgar Wright."
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for Hot Fuzz? are contradictory. \n\nStatement 1 suggests that both Simon Pegg and Edgar Wright were involved in writing the screenplay for Hot Fuzz, while Statement 2 suggests that only Simon Pegg was the screenwriter. These two statements cannot both be true at the same time, hence they are contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Nuts?",
+  "orig": "Dr. Nut was produced by the New Orleans-based World Bottling Company, and later by another New Orleans company, Wright Root Beer.",
+  "alt": "Dr. Nut was produced by the New Orleans-based World Bottling Company.",
+  "prefix": "",
+  "triple": [
+    [
+      "Dr. Nut",
+      "was produced",
+      "by the New Orleans-based World Bottling Company,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Nuts? are not contradictory. Statement 1 provides additional information that Dr. Nut was later produced by Wright Root Beer, while Statement 2 only mentions the original producer, World Bottling Company. Both statements agree that Dr. Nut was produced in New Orleans."
+}

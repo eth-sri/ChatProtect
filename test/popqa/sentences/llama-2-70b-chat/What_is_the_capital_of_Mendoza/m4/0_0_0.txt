@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Mendoza?",
+  "orig": "The capital of Mendoza Province in Argentina is Mendoza.",
+  "alt": "The capital of Mendoza Province is Mendoza.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Mendoza Province",
+      "is",
+      "Mendoza."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. They both provide the same answer to the prompt \"What is the capital of Mendoza?\" by stating that the capital of Mendoza Province is Mendoza. The only difference is the wording used in each statement."
+}

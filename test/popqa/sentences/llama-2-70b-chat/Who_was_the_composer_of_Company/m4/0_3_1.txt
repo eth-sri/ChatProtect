@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Company?",
+  "orig": "The show centers around a group of friends who are all married or in relationships, and it explores themes of love, commitment, and loneliness.",
+  "alt": "The friends are Harry, Sarah, and Larry.",
+  "prefix": " The composer of the musical \"Company\" is Stephen Sondheim. \"Company\" is a musical comedy with music and lyrics by Sondheim and a book by George Furth. It premiered on Broadway in 1970 and was directed by Harold Prince.",
+  "triple": [
+    [
+      "friends",
+      "are",
+      "all married or in relationships,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Company? are not contradictory. The first statement provides information about the composer and the musical itself, while the second statement provides specific names of characters in the show. They do not contradict each other."
+}

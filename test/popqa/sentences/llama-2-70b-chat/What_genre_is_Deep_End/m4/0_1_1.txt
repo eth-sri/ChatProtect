@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Deep End?",
+  "orig": "It is not a genre film in the classical sense, but it has elements of surrealism, drama, and psychological horror.",
+  "alt": "It is not a horror film.",
+  "prefix": " Deep End is a 1970 British psychological drama film directed by Jerzy Skolimowski.",
+  "triple": [
+    [
+      "It",
+      "not",
+      "a genre film in the classical sense,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Deep End are not contradictory. Statement 1 acknowledges that the film has elements of different genres, including surrealism, drama, and psychological horror, but does not classify it as a genre film in the classical sense. Statement 2 simply clarifies that the film is not a horror film, which is consistent with the first statement's mention of psychological horror as just one of the elements present in the film."
+}

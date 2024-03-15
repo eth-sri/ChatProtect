@@ -1,0 +1,19 @@
+{
+  "target": "In what country is National Assembly?",
+  "orig": "The National Assembly is composed of 577 deputies who are elected by the people for a five-year term.",
+  "alt": "Of 577 deputies, elected by proportional representation for a five-year term.",
+  "prefix": " The National Assembly is located in France. It is the lower house of the bicameral Parliament of France, the other house being the Senate.",
+  "triple": [
+    [
+      "of 577 deputies",
+      "elected",
+      "by the people for a five-year term."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the National Assembly in France, specifically about the composition of the lower house of the bicameral Parliament. Statement 1 mentions that the National Assembly is composed of 577 deputies who are elected by the people for a five-year term, while Statement 2 specifies that these deputies are elected by proportional representation. Both statements are consistent with the fact that the National Assembly is located in France."
+}

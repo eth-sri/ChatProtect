@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Homecoming?",
+  "orig": "The director of the 2019 movie \"Homecoming\" was Steven Soderbergh.",
+  "alt": "The director of the 2019 movie \"Homecoming\" was Joe Russo.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the 2019 movie \"Homecoming\"",
+      "was",
+      "Steven Soderbergh."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the director of Homecoming? are contradictory. Statement 1 claims that Steven Soderbergh was the director of the movie, while statement 2 claims that Joe Russo was the director. Since they are two different names, they cannot both be correct."
+}

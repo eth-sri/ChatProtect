@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Q?",
+  "orig": "They were part of the Luther Blissett Project, which ended in 1999, and now write under the name Wu Ming.",
+  "alt": "The Luther Blissett Project ended in 1999.",
+  "prefix": " The author of Q is Luther Blissett, which is a pen name used by four Italian authors: Roberto Bui, Giovanni Cattabriga, Federico Guglielmi, and Luca Di Meo.",
+  "triple": [
+    [
+      "part of the Luther Blissett Project,",
+      "ended",
+      "in 1999,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement explains that Luther Blissett is a pen name used by four Italian authors who were part of the Luther Blissett Project. It also mentions that they now write under the name Wu Ming. The second statement simply confirms that the Luther Blissett Project ended in 1999. Both statements provide additional information about the authors of Q and do not contradict each other."
+}

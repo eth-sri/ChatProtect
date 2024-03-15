@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Pilgrimage?",
+  "orig": "He was appointed director in 1982 and served in that role until 1995, when he resigned due to his relocation to St Benet's Hall, Oxford.",
+  "alt": "The director, John Green, served for four years.",
+  "prefix": " The director of the Ampleforth pilgrimage was John Green.",
+  "triple": [
+    [
+      "director",
+      "served",
+      "in that role until"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Pilgrimage? are contradictory. Statement 1 indicates that John Green served as the director of the Ampleforth pilgrimage for 13 years, from 1982 to 1995, while Statement 2 suggests that he only served for four years. Therefore, the two statements cannot both be true at the same time."
+}

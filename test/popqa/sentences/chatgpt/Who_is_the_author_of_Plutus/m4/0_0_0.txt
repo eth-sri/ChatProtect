@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Plutus?",
+  "orig": "The ancient Greek playwright Aristophanes is the author of the comedy play Plutus.",
+  "alt": "The ancient Greek playwright Aristophanes is the author of Plutus.",
+  "prefix": "",
+  "triple": [
+    [
+      "The ancient Greek playwright Aristophanes",
+      "is",
+      "the author of the comedy play Plutus."
+    ],
+    "compactie",
+    487
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Plutus are not contradictory. Both statements convey the same information that Aristophanes is the author of the comedy play Plutus. The only difference is the inclusion of the article \"the\" in the second statement, which does not change the meaning of the sentence. Therefore, both statements are consistent with each other."
+}

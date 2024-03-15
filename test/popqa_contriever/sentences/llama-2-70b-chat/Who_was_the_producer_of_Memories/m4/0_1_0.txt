@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Memories?",
+  "orig": "However, it's worth noting that the text you provided mentions John Ford as the director of the film, but it doesn't mention the producer.",
+  "alt": "The text provided mentions Jerry Harvey as the producer of Cheyenne Autumn, but it does not mention who produced Memories.",
+  "prefix": " The producer of \"Cheyenne Autumn\" was Jerry Harvey.",
+  "triple": [
+    [
+      "the text",
+      "provided mentions",
+      "John Ford as the director of the film,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who produced Memories are not contradictory. Statement 2 acknowledges that the text does not provide information about the producer of Memories, while Statement 1 provides additional information about the producer of Cheyenne Autumn, which is not relevant to the question about Memories. Therefore, both statements are true and do not contradict each other."
+}

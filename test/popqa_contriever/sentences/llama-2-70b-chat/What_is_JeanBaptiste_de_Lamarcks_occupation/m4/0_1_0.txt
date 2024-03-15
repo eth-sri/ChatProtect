@@ -1,0 +1,19 @@
+{
+  "target": "What is Jean-Baptiste de Lamarck's occupation?",
+  "orig": "He was also a soldier and an academic.",
+  "alt": "He was also a soldier and an academic.",
+  "prefix": " According to the given text, Jean-Baptiste de Lamarck's occupation was a naturalist.",
+  "triple": [
+    [
+      "He",
+      "was also",
+      "a soldier and an academic."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both acknowledge that Lamarck had multiple occupations, including being a soldier and an academic, in addition to being a naturalist."
+}

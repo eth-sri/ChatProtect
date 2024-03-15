@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of George Washington?",
+  "orig": "She died in 1789, just a few months before her son was inaugurated as the first President of the United States.",
+  "alt": "She died on August 25, 1789, at the age of 82.",
+  "prefix": " The mother of George Washington was Mary Ball Washington. She was born in 1708 and married Augustine Washington in 1731. They had nine children together, including George Washington, who was born in 1732. Mary Washington was known for her strong character and was highly respected by her family and community. She managed the family's plantation, Mount Vernon, during her husband's absence and played an important role in raising her children.",
+  "triple": [
+    [
+      "She",
+      "died",
+      "in 1789, just a few months"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the mother of George Washington are not contradictory. They both provide additional information about Mary Ball Washington, specifically about her death. Statement 1 mentions that she died just before her son's inauguration as President, while Statement 2 provides the exact date of her death and her age at the time. Both statements are consistent with the fact that Mary Ball Washington was indeed the mother of George Washington."
+}

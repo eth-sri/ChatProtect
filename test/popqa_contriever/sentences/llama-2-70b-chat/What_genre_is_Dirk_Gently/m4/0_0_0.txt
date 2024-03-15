@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Dirk Gently?",
+  "orig": "Dirk Gently is a comic science fiction detective television series.",
+  "alt": "Dirk Gently is a comic science fiction detective series.",
+  "prefix": "",
+  "triple": [
+    [
+      "Dirk Gently",
+      "is",
+      "a comic science fiction detective television series."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Dirk Gently are not contradictory. Both statements describe the series as a comic science fiction detective show, with the only difference being the inclusion or exclusion of the word \"television\". This does not change the overall genre of the show."
+}

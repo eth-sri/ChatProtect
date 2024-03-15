@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Lovely?",
+  "orig": "However, the song was released in 2018, and the musician who performed it, Billie Eilish, is known for her unique style and often collaborates with her brother Finneas O'Connell to create her music.",
+  "alt": "The musician is known for his soulful and emotive piano playing.",
+  "prefix": " The composer of \"Lovely\" is not explicitly stated.",
+  "triple": [
+    [
+      "the musician",
+      "is known",
+      "for her unique style"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Lovely\" are contradictory. Statement 1 suggests that the song was created by Billie Eilish and her brother Finneas O'Connell, while Statement 2 suggests that the composer is a male musician known for his piano playing. These two statements cannot both be true, as they provide different information about the composer of the song."
+}

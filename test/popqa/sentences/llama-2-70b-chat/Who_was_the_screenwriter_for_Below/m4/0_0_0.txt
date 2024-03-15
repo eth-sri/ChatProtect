@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Below?",
+  "orig": "I'm not familiar with a movie called \"Below.\"",
+  "alt": "The screenwriter for Below is unfamiliar with a movie called \"The Abyss\".",
+  "prefix": "",
+  "triple": [
+    [
+      "familiar with a movie",
+      "called",
+      "\"Below.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Below? are not contradictory. Statement 1 simply indicates that the person is not familiar with the movie \"Below,\" while statement 2 provides information about the screenwriter's familiarity with a different movie called \"The Abyss.\" The two statements do not directly contradict each other."
+}

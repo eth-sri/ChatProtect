@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about fernand seguin",
+  "orig": "He was born in Montreal and studied at the University of Montreal, where he earned a degree in biochemistry.",
+  "alt": "He earned a PhD in nuclear physics from the Universit\u00e9 de Montr\u00e9al.",
+  "prefix": " Fernand Seguin (1922-1988) was a Canadian scientist, broadcaster, and environmentalist.",
+  "triple": [
+    [
+      "he",
+      "earned",
+      "a degree in biochemistry."
+    ],
+    "compactie",
+    471
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Fernand Seguin are contradictory as they provide different information about his educational background. Statement 1 states that he earned a degree in biochemistry from the University of Montreal, while Statement 2 states that he earned a PhD in nuclear physics from the Universit\u00e9 de Montr\u00e9al. These two fields of study are different, and it is unlikely that he earned both degrees simultaneously. Therefore, the statements cannot both be true."
+}

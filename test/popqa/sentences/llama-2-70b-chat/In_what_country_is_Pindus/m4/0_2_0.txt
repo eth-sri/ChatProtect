@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Pindus?",
+  "orig": "The Pindus range includes several peaks, with the highest being Mount Smolikas, which rises to an elevation of 2,637 meters (8,684 feet).",
+  "alt": "The Pindus range includes several peaks, including Mount Olympus, the highest peak in Greece.",
+  "prefix": " Pindus is a mountain range located in Greece. It runs along the central part of the country, stretching from the northwest to the southeast, and separates the plain of Thessaly from the rest of Greece.",
+  "triple": [
+    [
+      "The Pindus range",
+      "includes",
+      "several peaks,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Pindus are contradictory. The first statement correctly identifies Pindus as a mountain range located in Greece, while the second statement incorrectly states that Mount Olympus, the highest peak in Greece, is part of the Pindus range. Mount Olympus is actually located in a separate mountain range called the Olympus range, which is located in northern Greece. Therefore, the second statement contradicts the first statement by suggesting that Pindus includes Mount Olympus, which it does not."
+}

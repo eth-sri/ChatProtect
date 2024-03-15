@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Avatar?",
+  "orig": "Avatar is a science fiction, action-adventure film.",
+  "alt": "Avatar is a science fiction movie.",
+  "prefix": "",
+  "triple": [
+    [
+      "Avatar",
+      "is",
+      "a science fiction, action-adventure film."
+    ],
+    "compactie",
+    469
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Avatar are not contradictory. Both statements identify Avatar as a science fiction film, with the first statement adding the additional descriptor of \"action-adventure.\" Therefore, both statements are consistent with each other and provide a clear answer to the prompt."
+}

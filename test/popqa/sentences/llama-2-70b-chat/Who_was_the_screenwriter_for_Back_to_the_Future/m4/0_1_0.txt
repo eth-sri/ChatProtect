@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Back to the Future?",
+  "orig": "They both wrote the screenplay for the film, which was released in 1985.",
+  "alt": "They both wrote the screenplay for the film, which was released in 1985.",
+  "prefix": " The screenwriter for Back to the Future was Robert Zemeckis and Bob Gale.",
+  "triple": [
+    [
+      "They both",
+      "wrote",
+      "the screenplay for the film,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are identical and not contradictory. They both provide additional information about the fact that Robert Zemeckis and Bob Gale co-wrote the screenplay for Back to the Future, which was released in 1985."
+}

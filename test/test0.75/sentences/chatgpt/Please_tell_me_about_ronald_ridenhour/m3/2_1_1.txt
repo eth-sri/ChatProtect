@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about ronald ridenhour",
+  "orig": "He became famous for exposing the My Lai Massacre, a war crime committed by American troops in which hundreds of unarmed Vietnamese civilians were killed.",
+  "alt": "After the war, Ridenhour investigated and exposed the My Lai Massacre, a war crime committed by American soldiers in which hundreds of unarmed Vietnamese civilians were killed.",
+  "prefix": " Ronald Ridenhour was an American soldier who served in the Vietnam War.",
+  "triple": [
+    [
+      "war crime",
+      "committed",
+      "by American troops"
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Ronald Ridenhour are not contradictory. Both statements mention that he exposed the My Lai Massacre, a war crime committed by American soldiers in Vietnam, which resulted in the deaths of hundreds of unarmed Vietnamese civilians. The only difference between the two statements is that the second one adds that Ridenhour investigated the massacre after the war. However, this does not contradict the first statement, as it is still true that Ridenhour became famous for exposing the massacre."
+}

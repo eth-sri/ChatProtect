@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Gwyneth Jones?",
+  "orig": "Gwyneth Jones is a British science fiction and fantasy writer.",
+  "alt": "Gwyneth Jones is an actress.",
+  "prefix": "",
+  "triple": [
+    [
+      "Gwyneth Jones",
+      "is",
+      "a British science fiction and fantasy writer."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Gwyneth Jones? are not contradictory. The first statement correctly identifies Gwyneth Jones as a British science fiction and fantasy writer, while the second statement is unrelated to her genre as a writer and instead identifies her as an actress."
+}

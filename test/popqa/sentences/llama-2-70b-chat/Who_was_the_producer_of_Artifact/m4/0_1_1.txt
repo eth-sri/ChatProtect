@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Artifact?",
+  "orig": "The game was designed by Richard Garfield, who is known for creating the popular trading card game Magic: The Gathering.",
+  "alt": "by Richard Garfield, is the designer of the game.",
+  "prefix": " Artifact was produced by Valve Corporation, an American video game developer and publisher.",
+  "triple": [
+    [
+      "by Richard Garfield,",
+      "is",
+      "for creating the popular trading card game Magic: The Gathering."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement provides information about the producer of Artifact, the second statement provides additional information about the designer of the game, who is Richard Garfield. Both statements are true and do not contradict each other."
+}

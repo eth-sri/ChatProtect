@@ -1,0 +1,19 @@
+{
+  "target": "What is Teramo the capital of?",
+  "orig": "Teramo is a city located in the Abruzzo region of central Italy.",
+  "alt": "Teramo is located in the Abruzzo region of Italy.",
+  "prefix": "",
+  "triple": [
+    [
+      "a city",
+      "located",
+      "in the Abruzzo region of central Italy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Teramo the capital of?\" are not contradictory. Both statements provide information about the location of Teramo in the Abruzzo region of Italy. However, neither statement explicitly states whether Teramo is the capital of the Abruzzo region or not. Therefore, the prompt remains unanswered."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Cinema?",
+  "orig": "It mentions that Cinema V entered film production in a joint venture with Palevsky in December 1970 and Palevsky went into independent production with Peter Bart in November 1973.",
+  "alt": "Palevsky went into independent production with Peter Bart.",
+  "prefix": " The producer of Cinema is not specified in the given text.",
+  "triple": [
+    [
+      "Palevsky",
+      "went",
+      "into independent production with Peter Bart in November 1973."
+    ],
+    "compactie",
+    595
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the text does not explicitly state who the producer of Cinema is, it does provide information about Palevsky's involvement in Cinema V and later independent production with Peter Bart. Therefore, statement 1 provides additional information about Palevsky's involvement in Cinema V's film production, while statement 2 summarizes Palevsky's independent production with Peter Bart."
+}

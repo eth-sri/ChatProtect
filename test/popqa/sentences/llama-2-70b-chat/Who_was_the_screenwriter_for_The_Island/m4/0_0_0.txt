@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Island?",
+  "orig": "The screenwriter for the 2005 film The Island was Alex Kurtzman.",
+  "alt": "The Island was written and directed by Michael Bay.",
+  "prefix": "",
+  "triple": [
+    [
+      "Island",
+      "was",
+      "Alex Kurtzman."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Island are not contradictory. Statement 1 correctly identifies Alex Kurtzman as the screenwriter for the film, while statement 2 correctly identifies Michael Bay as the director. Being the director does not necessarily mean that one is also the screenwriter, so both statements can be true at the same time."
+}

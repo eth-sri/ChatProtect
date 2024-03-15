@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Detective?",
+  "orig": "If we consider the novel titled Detective, it was written by Arthur Hailey, who would not have had a producer for the book.",
+  "alt": "If Arthur Hailey had not written the novel, Detective would not have had a source material to base the film on.",
+  "prefix": " There are two works mentioned in the passage the could be referred to as \"The Detective.\" If we consider the first work mentioned, then David S. Cass Sr. was the director of the 2005 film.",
+  "triple": [
+    [
+      "Detective, it",
+      "would not have had",
+      "a producer for the book."
+    ],
+    "compactie",
+    686
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. The first statement refers to the producer of the 2005 film adaptation of The Detective, while the second statement discusses the source material for the film, which is the novel written by Arthur Hailey. As the novel is not a film, it would not have had a producer. Therefore, the two statements are not contradictory and provide different information about different aspects of The Detective."
+}

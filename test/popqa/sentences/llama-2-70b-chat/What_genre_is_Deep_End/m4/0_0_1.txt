@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Deep End?",
+  "orig": "Deep End is a 1970 British psychological drama film directed by Jerzy Skolimowski.",
+  "alt": "The film was directed by Jerzy Skolimowski.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 1970 British psychological drama film",
+      "directed",
+      "by Jerzy Skolimowski."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Deep End are not contradictory. While statement 1 provides more information about the film's genre by describing it as a psychological drama, statement 2 simply reiterates the fact that the film was directed by Jerzy Skolimowski. Both statements are true and do not contradict each other."
+}

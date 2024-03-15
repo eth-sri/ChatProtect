@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The International?",
+  "orig": "There is no information provided about any organization or entity called \"The International\".",
+  "alt": "The information provided is about the career of Blanchard, who was not the director of The International, but rather the Director-General of the International Labour Organization.",
+  "prefix": "",
+  "triple": [
+    [
+      "information",
+      "provided",
+      "about any organization or entity"
+    ],
+    "compactie",
+    609
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 clarifies that there is no information provided about \"The International\", which means that the prompt may be incorrect or incomplete. Statement 2 provides information about Blanchard's career, but it does not address the prompt directly. Therefore, there is no contradiction between the two statements."
+}

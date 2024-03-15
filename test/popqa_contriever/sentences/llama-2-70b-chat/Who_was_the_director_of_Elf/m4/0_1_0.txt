@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Elf?",
+  "orig": "The director of the film Elves is Jeffrey Mandel.",
+  "alt": "The director of the film Elves is Jeffrey Mandel.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "The director of the film Elves",
+      "is",
+      "Jeffrey Mandel."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but there is a mistake in the prompt. The film is actually called Elves, not Elf. Both statements correctly identify Jeffrey Mandel as the director of Elves."
+}

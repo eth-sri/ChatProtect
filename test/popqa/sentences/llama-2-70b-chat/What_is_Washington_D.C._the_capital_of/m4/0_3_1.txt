@@ -1,0 +1,19 @@
+{
+  "target": "What is Washington, D.C. the capital of?",
+  "orig": "Washington, D.C. is a unique city in that it is not part of any state, but is instead a federal district that serves as the capital of the country.",
+  "alt": "It is not a state.",
+  "prefix": " Washington, D.C. is the capital of the United States of America. It is the seat of the federal government and the home of the President, Congress, and the Supreme Court. The city is located on the East Coast of the United States and is named after George Washington, the first President of the United States.",
+  "triple": [
+    [
+      "it",
+      "is not",
+      "part of any state,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. Statement 1 provides additional information about the unique status of Washington, D.C. as a federal district, while Statement 2 simply reiterates that it is not a state. Both statements are true and do not contradict each other."
+}

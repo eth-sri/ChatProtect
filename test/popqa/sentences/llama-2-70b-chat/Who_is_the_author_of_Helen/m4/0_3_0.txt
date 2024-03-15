@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Helen?",
+  "orig": "Some have suggested that it was written by a contemporary of Shakespeare, while others have proposed that it was the work of a forgotten poet of the Renaissance.",
+  "alt": "It was written in the 12th century.",
+  "prefix": " The author of \"Helen\" is still unknown. The poem is an anonymous work that has been passed down through the centuries, and despite efforts to identify the author, it remains a mystery. There have been many theories and speculations about the authorship of \"Helen,\" but none have been proven conclusively.",
+  "triple": [
+    [
+      "it",
+      "was written",
+      "by a contemporary of Shakespeare,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the authorship of \"Helen\" are contradictory. The first statement suggests that the author is unknown and that there have been many theories and speculations about the authorship, while the second statement states that it was written in the 12th century. If the poem was written in the 12th century, then it is not possible for it to have been written by a contemporary of Shakespeare or a forgotten poet of the Renaissance, as suggested in the first statement. Therefore, the two statements cannot both be true."
+}

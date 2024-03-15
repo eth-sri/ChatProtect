@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Now and Then?",
+  "orig": "The author of \"Now and Then\" is American novelist and screenwriter, Jacqueline Sheehan.",
+  "alt": "The author of \"Now and Then\" is William Corlett.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Now",
+      "is",
+      ""
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Now and Then? are contradictory. Statement 1 claims that the author is Jacqueline Sheehan, while statement 2 claims that the author is William Corlett. Since they are two different names, they cannot both be correct, making the statements contradictory."
+}

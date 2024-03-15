@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Rivals?",
+  "orig": "The author of \"Rivals\" is Jayne Ann Krentz.",
+  "alt": "The author of \"Rivals\" is Michael Hasselquist.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Rivals\"",
+      "is",
+      "Jayne Ann Krentz."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Rivals? are contradictory. Statement 1 correctly identifies Jayne Ann Krentz as the author of \"Rivals,\" while Statement 2 incorrectly identifies Michael Hasselquist as the author. Therefore, the two statements cannot both be true at the same time."
+}

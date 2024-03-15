@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Time?",
+  "orig": "The producer of the album \"Time\" by Fleetwood Mac was Lindsey Buckingham and Mick Fleetwood.",
+  "alt": "The producer of the album \"Time\" by Fleetwood Mac was Lindsey Buckingham.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the album \"Time\" by Fleetwood Mac",
+      "was",
+      "Lindsey Buckingham and Mick Fleetwood."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Time? are contradictory. \n\nStatement 1 claims that the album \"Time\" was produced by both Lindsey Buckingham and Mick Fleetwood, while Statement 2 claims that the album was produced solely by Lindsey Buckingham. These two statements cannot both be true at the same time, as they present conflicting information about the same topic. Therefore, they are contradictory."
+}

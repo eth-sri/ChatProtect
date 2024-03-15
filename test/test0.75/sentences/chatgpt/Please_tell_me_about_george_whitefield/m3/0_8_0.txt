@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about george whitefield",
+  "orig": "He also played a key role in the founding of several institutions, including the College of New Jersey (now Princeton University) and Bethesda Orphanage in Georgia.",
+  "alt": "He played a key role in the founding of several educational institutions, including Bethesda Orphanage in Georgia and the College of New Jersey (now Princeton University).",
+  "prefix": " George Whitefield was an English Anglican cleric and evangelist who was born on December 16, 1714, in Gloucester, England. He is considered one of the most influential figures of the Great Awakening, a religious revival that swept across the American colonies in the 1730s and 1740s. Whitefield was ordained as a deacon in 1736 and began preaching in the American colonies in 1739. He was known for his powerful oratory skills and his ability to captivate large crowds with his sermons. He traveled extensively throughout the colonies, preaching to thousands of people in open fields and public spaces. Whitefield's message focused on the need for personal salvation and the importance of a personal relationship with Jesus Christ. He believed in the idea of predestination, which holds that God has already chosen who will be saved and who will not, but he also emphasized the importance of personal choice and repentance. Whitefield's preaching had a profound impact on the American colonies, and he is credited with helping to spark the Great Awakening.",
+  "triple": [
+    [
+      "He",
+      "played",
+      "a key role in the founding of several institutions, including the College of New Jersey"
+    ],
+    "compactie",
+    680
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about George Whitefield are not contradictory, but they present different information. Statement 1 mentions that Whitefield played a key role in the founding of several institutions, including the College of New Jersey and Bethesda Orphanage in Georgia. Statement 2 also mentions Whitefield's role in founding educational institutions, but it lists Bethesda Orphanage first and the College of New Jersey second. While the order of the institutions is different, both statements agree that Whitefield played a significant role in their founding."
+}

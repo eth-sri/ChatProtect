@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Into the Woods?",
+  "orig": "The musical intertwines the plots of several classic fairy tales, such as Cinderella, Little Red Riding Hood, and Rapunzel, with an original story about a baker and his wife who are trying to conceive a child.",
+  "alt": "The musical intertwines various fairy tales, such as Cinderella, Little Red Riding Hood, and Rapunzel, into a single story.",
+  "prefix": " The author of Into the Woods is Stephen Sondheim. It is a musical with music and lyrics by Sondheim and a book by James Lapine.",
+  "triple": [
+    [
+      "The musical",
+      "intertwines",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Into the Woods? are not contradictory. While Statement 1 provides additional information about the plot of the musical, it does not contradict the fact that Stephen Sondheim is the author of Into the Woods. Statement 2 also provides information about the plot, but it does not contradict the fact that Sondheim is the author. Both statements are consistent with the fact that Sondheim wrote the music and lyrics and Lapine wrote the book for the musical."
+}

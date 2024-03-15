@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for 2012?",
+  "orig": "Emmerich also directed the film and co-wrote the screenplay with Harald Kloser.",
+  "alt": "Emmerich also directed the film.",
+  "prefix": " The screenwriter for the 2012 film \"2012\" was Roland Emmerich.",
+  "triple": [
+    [
+      "Emmerich",
+      "also directed",
+      "the screenplay with Harald Kloser."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides additional information that Emmerich co-wrote the screenplay with Harald Kloser, while Statement 2 simply reiterates that Emmerich directed the film. Both statements are true and do not contradict each other."
+}

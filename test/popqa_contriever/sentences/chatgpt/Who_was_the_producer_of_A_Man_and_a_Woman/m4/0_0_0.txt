@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of A Man and a Woman?",
+  "orig": "There are multiple films with a similar title, so here are the producers of three different films:\n\n- A Man and a Woman (1966): The producer of this film was Claude Lelouch.",
+  "alt": "Here are the names of the producers of A Man and a Woman: Claude Lelouch and Pierre Uytterhoeven.",
+  "prefix": "",
+  "triple": [
+    [
+      "here",
+      "are",
+      "the producers of three different films:"
+    ],
+    "compactie",
+    635
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that there are multiple films with a similar title and provides the producer of one of them, while the second statement specifically answers the question about the producers of A Man and a Woman (1966) by providing the names of both Claude Lelouch and Pierre Uytterhoeven."
+}

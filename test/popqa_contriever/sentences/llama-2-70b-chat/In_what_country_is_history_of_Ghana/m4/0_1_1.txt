@@ -1,0 +1,19 @@
+{
+  "target": "In what country is history of Ghana?",
+  "orig": "The reference to the \"Gold Coast\" in the passage is also a historical name for Ghana, which was a British colony until 1957.",
+  "alt": "A historical name for Ghana was the Gold Coast.",
+  "prefix": " The country being described in the passage is Ghana.",
+  "triple": [
+    [
+      "a historical name for Ghana,",
+      "was",
+      "a British colony until 1957."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the history of Ghana are not contradictory. Both statements provide additional information about the historical name of Ghana, which was the Gold Coast. The first statement clarifies that the Gold Coast was a British colony until 1957, while the second statement simply states that it was a historical name for Ghana. Both statements support the main idea that the country being described in the passage is Ghana."
+}

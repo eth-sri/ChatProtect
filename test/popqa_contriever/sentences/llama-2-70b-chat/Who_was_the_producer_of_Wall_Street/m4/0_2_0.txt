@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Wall Street?",
+  "orig": "However Only the names of the persons involved in the production of \"The Wall Street Journal Report\" are mentioned.",
+  "alt": "The names of the persons involved in the production of \"Wall Street\" include Michael Connor, who was the head of television for \"The Wall Street Journal\" and served as a consultant and production designer for the remake of \"The Wall Street Journal Report.\"",
+  "prefix": " The producer of \"Wall Street\" was not specified in the given text. The article mentions Michael Connor, who was the head of television for \"The Wall Street Journal\" and served as a consultant and production designer for the remake of \"The Wall Street Journal Report.\"",
+  "triple": [
+    [
+      "the names of the persons",
+      "involved",
+      "in the production of \"The Wall Street Journal Report\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 acknowledges that the given text does not specify the producer of \"Wall Street\" and only mentions Michael Connor's involvement in the production of \"The Wall Street Journal Report.\" Statement 2 provides additional information that Michael Connor was involved in the production of \"Wall Street\" as well as \"The Wall Street Journal Report.\""
+}

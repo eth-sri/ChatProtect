@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Violin Concerto?",
+  "orig": "There are many violin concertos composed by different composers.",
+  "alt": "There are several violin concertos composed by different composers, including Beethoven, Brahms, Tchaikovsky, and Sibelius.",
+  "prefix": "",
+  "triple": [
+    [
+      "There",
+      "are",
+      "many violin concertos"
+    ],
+    "compactie",
+    495
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the composer of Violin Concerto?\" are not contradictory. The first statement simply acknowledges that there are multiple composers who have written violin concertos, while the second statement provides examples of some of those composers. Both statements are true and do not contradict each other."
+}

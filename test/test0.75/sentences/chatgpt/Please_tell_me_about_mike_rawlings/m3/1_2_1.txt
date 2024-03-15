@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mike rawlings",
+  "orig": "Rawlings graduated from Boston College with a degree in philosophy and later earned an MBA from the Stanford Graduate School of Business.",
+  "alt": "Rawlings earned a bachelor's degree in economics from Boston College.",
+  "prefix": " Mike Rawlings is an American businessman and politician who served as the 61st mayor of Dallas, Texas, from 2011 to 2019. He was born on August 25, 1954, in Borger, Texas, and grew up in Hockley County, Texas.",
+  "triple": [
+    [
+      "Rawlings",
+      "earned",
+      "an MBA from the Stanford Graduate School of Business."
+    ],
+    "compactie",
+    507
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Mike Rawlings are contradictory. Statement 1 says that Rawlings earned an MBA from the Stanford Graduate School of Business, while Statement 2 says that he earned a bachelor's degree in economics from Boston College. An MBA is a graduate-level degree, which means that Rawlings would have already earned a bachelor's degree before pursuing an MBA. Therefore, it is not possible for both statements to be true at the same time."
+}

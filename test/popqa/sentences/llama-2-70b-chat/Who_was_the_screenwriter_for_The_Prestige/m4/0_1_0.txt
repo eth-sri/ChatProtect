@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Prestige?",
+  "orig": "The two brothers wrote the screenplay together, based on the novel of the same name by Christopher Priest.",
+  "alt": "The two brothers wrote the screenplay together, basing it on the 1995 novel of the same name by Christopher Priest.",
+  "prefix": " The screenwriter for the 2006 film The Prestige was Christopher Nolan and his brother Jonathan Nolan.",
+  "triple": [
+    [
+      "The two brothers",
+      "wrote",
+      "the screenplay together,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Prestige are not contradictory. Both statements confirm that the screenplay for the film was written by Christopher Nolan and his brother Jonathan Nolan. The only difference between the two statements is the wording used to describe the source material for the screenplay. Statement 1 says that the screenplay was based on the novel of the same name by Christopher Priest, while Statement 2 specifies that the screenplay was based on the 1995 novel of the same name by Christopher Priest. However, both statements are referring to the same novel and do not contradict each other."
+}

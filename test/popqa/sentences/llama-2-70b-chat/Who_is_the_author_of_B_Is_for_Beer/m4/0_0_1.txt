@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of B Is for Beer?",
+  "orig": "The author of \"B Is for Beer\" is Tom Robbins.",
+  "alt": "The author of \"B is for Beer\" is Tom Robbins.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"B",
+      "is",
+      "Tom Robbins."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"B Is for Beer\" are not contradictory. They both provide the same information that Tom Robbins is the author of the book. The only difference is the capitalization of the letter \"i\" in the title, which does not affect the author's identity."
+}

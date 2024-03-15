@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of La Haine?",
+  "orig": "La Haine is a 1995 French black-and-white film directed by Mathieu Kassovitz, who also co-wrote the screenplay with Pierre-Luc Gicquel and Vincent Lindon.",
+  "alt": "La Haine is a 1995 French drama film.",
+  "prefix": " The director of La Haine is Mathieu Kassovitz.",
+  "triple": [
+    [
+      "La Haine",
+      "is",
+      "a 1995 French black-and-white film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of La Haine are not contradictory. Statement 1 provides additional information about the film, including the fact that Kassovitz co-wrote the screenplay with two other individuals. Statement 2 simply describes the genre of the film. Both statements are consistent with the fact that Mathieu Kassovitz was the director of La Haine."
+}

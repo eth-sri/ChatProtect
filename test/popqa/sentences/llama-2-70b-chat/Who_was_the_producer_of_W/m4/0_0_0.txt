@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of W?",
+  "orig": "The producer of the movie \"W\" is Jerry Bruckheimer.",
+  "alt": "The producer of the movie \"W\" is Oliver Stone.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie \"W\"",
+      "is",
+      "Jerry Bruckheimer."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"W\" are contradictory because they provide different answers to the same question. One statement claims that Jerry Bruckheimer was the producer, while the other claims that Oliver Stone was the producer. Since they cannot both be true, the statements contradict each other."
+}

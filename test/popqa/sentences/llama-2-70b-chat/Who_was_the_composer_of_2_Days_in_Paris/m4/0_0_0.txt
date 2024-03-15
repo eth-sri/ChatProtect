@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of 2 Days in Paris?",
+  "orig": "The composer of the soundtrack for the film \"2 Days in Paris\" is Alexandre Desplat.",
+  "alt": "The composer of the soundtrack for the film \"2 Days in Paris\" is Yann Tiersen.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of the soundtrack for the film \"2 Days in Paris\"",
+      "is",
+      "Alexandre Desplat."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of 2 Days in Paris? are contradictory. Statement 1 claims that Alexandre Desplat composed the soundtrack for the film, while statement 2 claims that Yann Tiersen composed the soundtrack. Since they are two different composers, only one of the statements can be true."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Carlaw Park play?",
+  "orig": "However, the stadium was demolished in 2006 and has since been replaced with a public park and residential development.",
+  "alt": "The stadium was replaced by a new facility in 2002 and was subsequently demolished.",
+  "prefix": " Carlaw Park was originally built as a rugby league stadium in Auckland, New Zealand.",
+  "triple": [
+    [
+      "the stadium",
+      "replaced",
+      "with a public park and residential development."
+    ],
+    "compactie",
+    611
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about what sport Carlaw Park plays are not contradictory. The first statement establishes that the park was originally built as a rugby league stadium, while the second statement explains that the stadium was replaced by a new facility in 2002 and subsequently demolished. The replacement of the stadium does not change the fact that it was originally built for rugby league."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Arrangement?",
+  "orig": "However, the show was produced by Universal Cable Productions and was created by Jonathan Abrahams, who also served as an executive producer.",
+  "alt": "The show was produced by Audience Network.",
+  "prefix": " The producer of The Arrangement is not explicitly stated.",
+  "triple": [
+    [
+      "the show",
+      "was produced",
+      "by Universal Cable Productions"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Arrangement? are not contradictory. Statement 1 provides additional information about the production of the show, including the fact that it was created by Jonathan Abrahams who served as an executive producer. Statement 2 simply identifies the network that aired the show. Both statements are true and do not contradict each other."
+}

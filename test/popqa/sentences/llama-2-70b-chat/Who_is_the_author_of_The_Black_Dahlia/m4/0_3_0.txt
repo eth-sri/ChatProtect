@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Black Dahlia?",
+  "orig": "\"The Black Dahlia\" is a crime fiction novel that explores the 1947 murder of Elizabeth Short, a young woman who was found brutally murdered in a vacant lot in Los Angeles, California.",
+  "alt": "\"The Black Dahlia\" is a crime fiction novel.",
+  "prefix": " The author of the novel \"The Black Dahlia\" is James Ellroy. It was first published in 1987 and is considered one of Ellroy's most famous works, along with \"L.A. Confidential\" and \"White Jazz.\"",
+  "triple": [
+    [
+      "\"The Black Dahlia\"",
+      "is",
+      "a crime fiction novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of The Black Dahlia are not contradictory. The first statement provides information about the author and the novel, while the second statement simply identifies the genre of the novel."
+}

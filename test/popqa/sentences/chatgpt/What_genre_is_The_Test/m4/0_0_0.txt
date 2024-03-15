@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Test?",
+  "orig": "The Test is a psychological thriller/mystery novel.",
+  "alt": "The Test is a novel in the psychological thriller genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Test",
+      "is",
+      "a psychological thriller/mystery novel."
+    ],
+    "compactie",
+    475
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Test are not contradictory. Both statements convey the same information that The Test belongs to the psychological thriller genre. The only difference is the way the information is presented, with one statement specifying the sub-genre of mystery and the other stating the genre more generally."
+}

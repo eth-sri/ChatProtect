@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Doc?",
+  "orig": "The producer of the film Doc was Frank Perry.",
+  "alt": "The producer of the film Doc was Frank Perry.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the film Doc",
+      "was",
+      "Frank Perry."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Doc are not contradictory. However, there is a mistake in the text as it should say \"director\" instead of \"producer\". Frank Perry was the director of the film Doc, not the producer."
+}

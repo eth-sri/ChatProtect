@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Hours?",
+  "orig": "Michael Cunningham was not the screenwriter for The Hours.",
+  "alt": "Michael Cunningham was not the screenwriter for The Hours, but he was the author of the novel on which the film was based.",
+  "prefix": "",
+  "triple": [
+    [
+      "Michael Cunningham",
+      "was not",
+      "the screenwriter for The Hours."
+    ],
+    "compactie",
+    630
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Hours are contradictory. Statement 1 implies that Michael Cunningham had no involvement in the film, while Statement 2 acknowledges that he was the author of the novel on which the film was based. While Cunningham did not write the screenplay for The Hours, his novel served as the source material for the film's adaptation."
+}

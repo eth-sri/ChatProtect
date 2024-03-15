@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Bells?",
+  "orig": "The composer of \"The Bells\" was Joseph Holbrooke.",
+  "alt": "The composer of \"The Bells\" was Joseph Holbrooke.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"The Bells\"",
+      "was",
+      "Joseph Holbrooke."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as they both claim that Joseph Holbrooke was the composer of \"The Bells\", while the first sentence of the text mentions that the poem \"The Bells\" was set to music by several composers, including Sergei Rachmaninoff. Therefore, the composer of \"The Bells\" cannot be solely attributed to Joseph Holbrooke."
+}

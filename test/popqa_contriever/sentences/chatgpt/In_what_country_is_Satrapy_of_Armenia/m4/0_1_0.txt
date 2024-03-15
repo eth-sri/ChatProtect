@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Satrapy of Armenia?",
+  "orig": "However, the historical region of Armenia is located in the South Caucasus region of Eurasia, in the area that is now modern-day Armenia, as well as parts of Azerbaijan, Turkey, and Iran.",
+  "alt": "The historical region of Armenia is located in the eastern part of modern-day Turkey, as well as parts of Armenia, Azerbaijan, and Iran.",
+  "prefix": " There is no Satrapy of Armenia currently as it was a region controlled by the Orontid Dynasty in the past.",
+  "triple": [
+    [
+      "the historical region of Armenia",
+      "is located",
+      "in the South Caucasus region of Eurasia, in"
+    ],
+    "compactie",
+    621
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Satrapy of Armenia?\" are contradictory. Statement 1 states that the historical region of Armenia is located in modern-day Armenia, Azerbaijan, Turkey, and Iran, while Statement 2 states that it is located in modern-day Turkey, Armenia, Azerbaijan, and Iran. The order of the countries is different in each statement, which creates a contradiction. Additionally, Statement 2 specifically mentions Turkey as the location of the historical region of Armenia, while Statement 1 does not."
+}

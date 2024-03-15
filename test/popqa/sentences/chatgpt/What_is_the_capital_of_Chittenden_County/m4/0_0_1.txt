@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Chittenden County?",
+  "orig": "Chittenden County does not have a capital as it is a county in the state of Vermont, which has Montpelier as its capital.",
+  "alt": "It is Burlington.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "is",
+      "a county in the state of Vermont,"
+    ],
+    "compactie",
+    471
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of Chittenden County?\" are contradictory. \n\nStatement 1 explains that Chittenden County does not have a capital as it is a county in the state of Vermont, which has Montpelier as its capital. This implies that Chittenden County cannot have its own capital separate from the state capital.\n\nHowever, Statement 2 contradicts this by stating that Burlington is the capital of Chittenden County. This implies that Chittenden County does have its own capital, which is different from the state capital of Montpelier.\n\nTherefore, the two statements cannot both be true at the same time, and they contradict each other."
+}

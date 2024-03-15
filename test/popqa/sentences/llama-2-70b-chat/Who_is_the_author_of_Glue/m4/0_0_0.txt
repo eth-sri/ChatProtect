@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glue?",
+  "orig": "The author of Glue is Nik Sheehan.",
+  "alt": "The author of Glue is Irvine Welsh.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Glue",
+      "is",
+      "Nik Sheehan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Glue are contradictory because they provide different names for the author. One statement claims that Nik Sheehan is the author, while the other claims that Irvine Welsh is the author. Therefore, it is not clear which statement is correct and further investigation is needed to determine the true author of Glue."
+}

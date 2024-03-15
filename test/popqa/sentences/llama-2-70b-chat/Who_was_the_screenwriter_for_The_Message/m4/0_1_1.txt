@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Message?",
+  "orig": "The film was directed by Moustapha Akkad and produced by Akkad and his company, Pyramid International.",
+  "alt": "The film was produced by Moustapha Akkad.",
+  "prefix": " The screenwriter for the film \"The Message\" (1976) is not explicitly stated.",
+  "triple": [
+    [
+      "by Moustapha Akkad",
+      "produced",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Message are not contradictory. While the first statement mentions that the screenwriter is not explicitly stated, the second statement provides information about the producer of the film. The two statements do not provide conflicting information about the screenwriter, but rather offer additional details about the production of the film."
+}

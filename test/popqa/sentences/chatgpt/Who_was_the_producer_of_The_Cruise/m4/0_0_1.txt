@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Cruise?",
+  "orig": "The producer of The Cruise, a 1998 documentary film directed by Bennett Miller, was Lloyd Braun.",
+  "alt": "The producer of The Cruise was Todd Wagner.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of The Cruise,",
+      "was",
+      "Lloyd Braun."
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Cruise? are contradictory because they provide different names for the producer of the documentary film. Statement 1 claims that Lloyd Braun was the producer, while statement 2 claims that Todd Wagner was the producer. As both statements cannot be true at the same time, they contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Jazz?",
+  "orig": "The author of the book \"Jazz\" is not explicitly stated in the provided text.",
+  "alt": "The author of the book \"Jazz\" is not explicitly stated, but it is written by Richard Sudhalter.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of the book \"Jazz\"",
+      "is not explicitly stated",
+      "in the provided text."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Jazz? are contradictory. Statement 1 claims that the author is not explicitly stated in the provided text, while Statement 2 contradicts this by explicitly stating that the author is Richard Sudhalter."
+}

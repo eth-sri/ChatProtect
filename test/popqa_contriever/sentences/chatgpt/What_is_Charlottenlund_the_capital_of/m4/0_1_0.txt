@@ -1,0 +1,19 @@
+{
+  "target": "What is Charlottenlund the capital of?",
+  "orig": "It is a suburban area in Denmark and the administrative seat of Gentofte Municipality.",
+  "alt": "It is the administrative seat of Gentofte Municipality.",
+  "prefix": " Charlottenlund is not the capital of any region or country.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a suburban area in Denmark and the administrative seat of Gentofte Municipality."
+    ],
+    "compactie",
+    624
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that Charlottenlund is not a capital city, while the second statement provides additional information about its administrative role as the seat of Gentofte Municipality. Both statements are true and do not contradict each other."
+}

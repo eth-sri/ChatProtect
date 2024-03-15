@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Ivan?",
+  "orig": "The director of the 1970 film \"Ivan\" is Andrei Tarkovsky.",
+  "alt": "The director of the 1970 film \"Ivan\" is Andrei Tarkovsky.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the 1970 film \"Ivan\"",
+      "is",
+      "Andrei Tarkovsky."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the director of \"Ivan\" are not contradictory as they both provide the same answer to the prompt. They simply repeat the same information."
+}

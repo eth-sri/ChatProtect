@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Lost?",
+  "orig": "He was hired by ABC to write a script for the show, but his draft and subsequent rewrites were rejected by president Lloyd Braun.",
+  "alt": "He was hired by ABC to write a script for the show.",
+  "prefix": " The screenwriter for Lost was Jeffrey Lieber.",
+  "triple": [
+    [
+      "He",
+      "was hired",
+      "by ABC to write a script for the show,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Lost are not contradictory. Statement 1 provides additional information about the rejection of Lieber's draft and subsequent rewrites by president Lloyd Braun, while Statement 2 simply states that Lieber was hired by ABC to write a script for the show. Both statements are true and do not contradict each other."
+}

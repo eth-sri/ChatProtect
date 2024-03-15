@@ -1,0 +1,19 @@
+{
+  "target": "What is City of Brussels the capital of?",
+  "orig": "City of Brussels is the capital of the Brussels-Capital Region, which is one of the three regions of Belgium.",
+  "alt": "The capital of the Brussels-Capital Region is Belgium.",
+  "prefix": "",
+  "triple": [
+    [
+      "the capital of the Brussels-Capital Region,",
+      "is",
+      "one of the three regions of Belgium."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What is City of Brussels the capital of? are contradictory. \n\nStatement 1 correctly states that City of Brussels is the capital of the Brussels-Capital Region, which is one of the three regions of Belgium. However, statement 2 is incorrect as the capital of Belgium is not the Brussels-Capital Region, but rather the City of Brussels itself. Therefore, the two statements contradict each other."
+}

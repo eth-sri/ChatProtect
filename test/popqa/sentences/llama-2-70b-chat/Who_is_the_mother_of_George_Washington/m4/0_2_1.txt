@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of George Washington?",
+  "orig": "They had nine children together, including George Washington, who was born in 1732.",
+  "alt": "George Washington was born on February 22, 1732.",
+  "prefix": " The mother of George Washington was Mary Ball Washington. She was born in 1708 and married Augustine Washington in 1731.",
+  "triple": [
+    [
+      "George Washington,",
+      "was born",
+      "in 1732."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the mother of George Washington are not contradictory. The first statement provides the name and background information about Mary Ball Washington, while the second statement provides the specific date of George Washington's birth. Both statements are factual and do not contradict each other."
+}

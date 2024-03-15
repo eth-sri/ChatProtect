@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of George Washington?",
+  "orig": "She died in 1789, just a few months before her son was inaugurated as the first President of the United States.",
+  "alt": "She was inaugurated as the First Lady of the United States in 1789, when her son George Washington was elected as the first President of the United States.",
+  "prefix": " The mother of George Washington was Mary Ball Washington. She was born in 1708 and married Augustine Washington in 1731. They had nine children together, including George Washington, who was born in 1732. Mary Washington was known for her strong character and was highly respected by her family and community. She managed the family's plantation, Mount Vernon, during her husband's absence and played an important role in raising her children.",
+  "triple": [
+    [
+      "her",
+      "was inaugurated",
+      "as the first President of the United States."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the mother of George Washington? are contradictory. Statement 1 states that Mary Ball Washington died in 1789, while Statement 2 states that she was inaugurated as the First Lady of the United States in the same year. Since the role of First Lady is reserved for the wife of the President, it is impossible for Mary Ball Washington to have held this position after her death. Therefore, the two statements cannot both be true."
+}

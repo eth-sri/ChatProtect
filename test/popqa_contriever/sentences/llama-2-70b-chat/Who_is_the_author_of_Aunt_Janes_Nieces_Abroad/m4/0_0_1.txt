@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Aunt Jane's Nieces Abroad?",
+  "orig": "The author of Aunt Jane's Nieces Abroad is L. Frank Baum, who wrote the novel under the pen name \"Edith Van Dyne.\"",
+  "alt": "L. Frank Baum wrote Aunt Jane's Nieces Abroad.",
+  "prefix": "",
+  "triple": [
+    [
+      "L. Frank Baum,",
+      "wrote",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Aunt Jane's Nieces Abroad are not contradictory. Both statements convey the same information that L. Frank Baum wrote the novel under the pen name \"Edith Van Dyne.\" Statement 2 is simply a more concise version of Statement 1."
+}

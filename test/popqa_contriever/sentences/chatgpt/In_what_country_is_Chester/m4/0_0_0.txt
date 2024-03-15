@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Chester?",
+  "orig": "Chester is a city in England.",
+  "alt": "Chester is a city in the northwest of England.",
+  "prefix": "",
+  "triple": [
+    [
+      "Chester",
+      "is",
+      "a city in England."
+    ],
+    "compactie",
+    594
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Chester?\" are not contradictory. Statement 1 provides the correct answer to the prompt, stating that Chester is a city in England. Statement 2 provides additional information about the location of Chester within England, specifying that it is in the northwest. Therefore, both statements are true and do not contradict each other."
+}

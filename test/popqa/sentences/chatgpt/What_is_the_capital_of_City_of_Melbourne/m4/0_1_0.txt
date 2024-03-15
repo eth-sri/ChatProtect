@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Melbourne?",
+  "orig": "It is the capital city of the state of Victoria, Australia.",
+  "alt": "It is the capital city of the state of Victoria in Australia.",
+  "prefix": " Melbourne does not have a capital as it is a city itself.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "the capital city of the state of Victoria, Australia."
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide the correct information that Melbourne is the capital city of the state of Victoria in Australia. The first statement clarifies that Melbourne does not have a capital as it is a city itself, while the second statement provides the necessary information about Melbourne's status as the capital city of Victoria. Therefore, both statements complement each other and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Grease?",
+  "orig": "Grease is a musical film.",
+  "alt": "Grease is a musical romantic comedy film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Grease",
+      "is",
+      "a musical film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Grease are not contradictory. Statement 1 identifies Grease as a musical film, which is a broad genre that encompasses any film that features musical numbers as a significant part of the narrative. Statement 2 provides more specific information about the subgenre of Grease, which is a romantic comedy with musical elements. Therefore, both statements are accurate and complementary."
+}

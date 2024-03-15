@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Whole Family?",
+  "orig": "The novel was written by an anonymous author, and the identity of the writer has not been definitively established.",
+  "alt": "The identity of the writer remains unknown.",
+  "prefix": " The author of The Whole Family is not specified.",
+  "triple": [
+    [
+      "the identity of the writer",
+      "established.",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Whole Family are not contradictory. Both statements convey the same idea that the identity of the author is not known or established. The first statement provides additional information that the author is anonymous, but both statements ultimately reach the same conclusion that the author's identity remains unknown."
+}

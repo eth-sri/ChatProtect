@@ -1,0 +1,19 @@
+{
+  "target": "In what city was William Perry Hay born?",
+  "orig": "It only provides information about his father, Oliver Perry Hay.",
+  "alt": "It only mentions Oliver Perry Hay's birthdate and place of birth, which was in New York City.",
+  "prefix": " The article does not mention where William Perry Hay was born.",
+  "triple": [
+    [
+      "It",
+      "only",
+      ""
+    ],
+    "compactie",
+    630
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both acknowledge that the article does not provide information about the birthplace of William Perry Hay. Statement 1 simply clarifies that the article focuses on his father, while Statement 2 provides additional information about his father's birthplace."
+}

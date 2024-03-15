@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Fascinating Rhythm?",
+  "orig": "It was originally written for the musical Lady, Be Good!",
+  "alt": "It was originally written for the musical \"Lady, Be Good!\"",
+  "prefix": " The composer of Fascinating Rhythm is George Gershwin. It was written in 1924 and is one of Gershwin's most famous compositions.",
+  "triple": [
+    [
+      "It",
+      "was originally written",
+      "for the musical"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of Fascinating Rhythm are not contradictory. Both statements provide additional information about the composition, specifically that it was originally written for the musical Lady, Be Good! This information does not contradict the fact that George Gershwin is the composer of the piece."
+}

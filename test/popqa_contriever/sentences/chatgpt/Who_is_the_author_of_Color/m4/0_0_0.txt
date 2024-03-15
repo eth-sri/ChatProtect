@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Color?",
+  "orig": "The author of \"The Color Purple\" is Alice Walker.",
+  "alt": "The author of \"The Color Purple\" is Alice Walker.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"The Color Purple\"",
+      "is",
+      "Alice Walker."
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Color? are contradictory because the first statement says that the author of \"The Color Purple\" is Alice Walker, while the second statement does not mention Alice Walker at all and instead provides information about Walter Mosley, a different author."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Halloween?",
+  "orig": "However, Kevin Williamson provided rewrites and helped make alterations to the script for the 1998 Halloween film.",
+  "alt": "Kevin Williamson helped make rewrites in character dialogue.",
+  "prefix": " The original screenwriter for Halloween was John Carpenter and Debra Hill.",
+  "triple": [
+    [
+      "rewrites",
+      "helped make",
+      "alterations to the script for the 1998 Halloween film."
+    ],
+    "compactie",
+    580
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that John Carpenter and Debra Hill were the original screenwriters for the Halloween franchise, while the second statement adds that Kevin Williamson provided rewrites and alterations to the script for the 1998 film. It is possible for multiple writers to contribute to a screenplay, and in this case, Williamson's involvement did not negate Carpenter and Hill's original authorship."
+}

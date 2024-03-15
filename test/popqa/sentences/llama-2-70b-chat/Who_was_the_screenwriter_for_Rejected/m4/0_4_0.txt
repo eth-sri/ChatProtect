@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Rejected?",
+  "orig": "The movie was well-received by critics and audiences and won several awards, including the Academy Award nomination for Best Animated Short Film.",
+  "alt": "The movie won the Academy Award for Best Animated Short Film in 2000.",
+  "prefix": " The screenwriter for the animated short film \"Rejected\" is Don Hertzfeldt. He is a American animator, writer, and filmmaker, best known for his independent animated films, such as \"Rejected\" prod. \"The Simpsons\", \"The Angry Kid\", and \"It's Such a Beautiful Day\". \"Rejected\" is a collection of animated shorts that were rejected by film festivals.",
+  "triple": [
+    [
+      "The movie",
+      "won",
+      "several awards, including the Academy Award nomination for Best Animated Short Film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for \"Rejected\" are contradictory. Statement 1 says that the movie was nominated for the Academy Award for Best Animated Short Film, while Statement 2 says that it actually won the award. Only one of these statements can be true, so they cannot both be accurate."
+}

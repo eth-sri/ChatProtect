@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for M?",
+  "orig": "The screenwriter for the untitled screenplay under development by DreamWorks SKG was Sam Hamm.",
+  "alt": "The screenwriter for the untitled screenplay was Sam Hamm.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the untitled screenplay",
+      "was",
+      "Sam Hamm."
+    ],
+    "compactie",
+    601
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "There is no contradiction between the two statements. Both statements identify Sam Hamm as the screenwriter for the untitled screenplay under development by DreamWorks SKG. The only difference is that statement 1 provides more context about the project, while statement 2 is more concise."
+}

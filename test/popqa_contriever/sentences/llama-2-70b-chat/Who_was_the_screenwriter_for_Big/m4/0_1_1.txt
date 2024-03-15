@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Big?",
+  "orig": "He co-wrote the screenplay with Anne Spielberg, and the film earned him an Academy Award nomination and a Writers Guild of America Award.",
+  "alt": "The film earned an Academy Award nomination for Best Original Screenplay.",
+  "prefix": " The screenwriter for the movie Big was Gary Ross.",
+  "triple": [
+    [
+      "the film",
+      "earned",
+      "him an Academy Award nomination and a Writers Guild of America Award."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Big are not contradictory. Both statements mention that Gary Ross co-wrote the screenplay with Anne Spielberg and that the film earned an Academy Award nomination. The only difference is that statement 2 specifically mentions that the nomination was for Best Original Screenplay."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Paperboy?",
+  "orig": "The film is based on the 1995 novel of the same name by Pete Dexter.",
+  "alt": "The film is based on a novel of the same name by Pete Dexter.",
+  "prefix": " The Paperboy is a 2012 American crime drama film directed by Lee Daniels.",
+  "triple": [
+    [
+      "The film",
+      "is based",
+      "on the 1995 novel of the same name by Pete Dexter."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Paperboy are not contradictory. Both statements provide the same information that the film is based on a novel of the same name by Pete Dexter. The genre of the film is not mentioned in either statement."
+}

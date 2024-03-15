@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Niklas Stark play?",
+  "orig": "Niklas Stark is a professional footballer who plays as a defender for Bundesliga club Hertha BSC and the Germany national team.",
+  "alt": "Niklas Stark plays football.",
+  "prefix": "",
+  "triple": [
+    [
+      "a professional footballer",
+      "plays",
+      "as a defender for Bundesliga club Hertha BSC and the Germany national team."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about what sport Niklas Stark plays are not contradictory. Both statements confirm that Niklas Stark plays football, with statement 1 providing additional details about his professional career and teams he plays for."
+}

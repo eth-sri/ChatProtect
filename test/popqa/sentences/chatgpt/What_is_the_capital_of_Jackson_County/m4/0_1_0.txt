@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Jackson County?",
+  "orig": "Below are the capitals of Jackson County in different states:\n\n- Oregon: Medford\n- Michigan: Jackson\n- Ohio: Jackson",
+  "alt": "Below are the capitals of Jackson County in some of the states where it exists: Jackson, Michigan; Independence, Missouri; Sylva, North Carolina; Altus, Oklahoma.",
+  "prefix": " It depends on which state you are referring to as there are multiple counties named Jackson in different states.",
+  "triple": [
+    [
+      "Below",
+      "are",
+      "the capitals of Jackson County in different states:"
+    ],
+    "compactie",
+    515
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both provide information about the capital of Jackson County in different states. The first statement lists the capitals of Jackson County in Oregon, Michigan, and Ohio, while the second statement lists the capitals of Jackson County in Michigan, Missouri, North Carolina, and Oklahoma. Both statements acknowledge that there are multiple counties named Jackson in different states, and therefore, the capital of Jackson County depends on which state is being referred to."
+}

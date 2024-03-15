@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Word?",
+  "orig": "The author is not explicitly identified in the text itself, but the attribution to John has been widely accepted by scholars and theologians throughout history.",
+  "alt": "The attribution to John has been widely accepted by scholars and theologians throughout history.",
+  "prefix": " The author of The Word is John, a disciple of Jesus Christ. The book is also sometimes referred to as the Gospel of John or the Fourth Gospel.",
+  "triple": [
+    [
+      "the attribution to John",
+      "has been widely accepted",
+      "by scholars and theologians throughout history."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Word are not contradictory. Statement 1 acknowledges that the text itself does not explicitly identify the author, but that the attribution to John has been widely accepted. Statement 2 simply reiterates that the attribution to John has been widely accepted. Both statements are consistent with each other and provide additional context about the authorship of The Word."
+}

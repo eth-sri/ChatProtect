@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Jab We Met?",
+  "orig": "The producer of the movie \"Jab We Met\" is Dhilin Mehta.",
+  "alt": "The producer of the movie \"Jab We Met\" was Imtiaz Ali.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie",
+      "Met\"",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Jab We Met? are contradictory. \n\nStatement 1 claims that the producer of the movie \"Jab We Met\" is Dhilin Mehta, while Statement 2 claims that the producer of the same movie was Imtiaz Ali. Since both statements cannot be true at the same time, they contradict each other. It is possible that one of the statements is incorrect or that there were multiple producers involved in the making of the movie. Further research is needed to determine the accurate information."
+}

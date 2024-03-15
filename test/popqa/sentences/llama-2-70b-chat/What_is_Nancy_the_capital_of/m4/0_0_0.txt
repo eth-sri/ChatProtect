@@ -1,0 +1,19 @@
+{
+  "target": "What is Nancy the capital of?",
+  "orig": "Nancy is the capital of the Grand Est region in northeastern France.",
+  "alt": "Nancy is the capital of Lorraine.",
+  "prefix": "",
+  "triple": [
+    [
+      "Nancy",
+      "is",
+      "the capital of the Grand Est region in northeastern France."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Nancy the capital of?\" are not contradictory. Both statements are true and provide different levels of specificity. Statement 1 identifies Nancy as the capital of the Grand Est region, which includes several departments, including Lorraine. Statement 2 specifies that Nancy is also the capital of Lorraine, which is a historical region in northeastern France. Therefore, both statements complement each other and do not contradict each other."
+}

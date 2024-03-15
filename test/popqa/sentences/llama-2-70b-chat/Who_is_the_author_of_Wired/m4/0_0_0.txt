@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wired?",
+  "orig": "Wired is a technology magazine that was founded in 1993 by Chris Anderson, Louis Rossetto, and Jane Metcalfe.",
+  "alt": "Wired is a technology magazine written by Chris Anderson.",
+  "prefix": "",
+  "triple": [
+    [
+      "Wired",
+      "is",
+      "a technology magazine"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Wired? are contradictory. \n\nStatement 1 suggests that Wired was founded by three individuals, including Chris Anderson, but does not specify who the author of the magazine is. \n\nStatement 2, on the other hand, directly states that Chris Anderson is the author of Wired, which contradicts the idea that the magazine was founded by a group of people. \n\nTherefore, the two statements cannot both be true at the same time."
+}

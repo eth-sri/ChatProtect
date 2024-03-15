@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of First Law?",
+  "orig": "Joe Abercrombie is a British author known for his gritty, realistic, and brutal fantasy novels.",
+  "alt": "Joe Abercrombie is known for his gritty and realistic fantasy writing style.",
+  "prefix": " The author of the First Law trilogy is Joe Abercrombie. The trilogy consists of three books: \"The Blade Itself,\" \"Before They Are Hanged,\" and \"Last Argument of Kings.\"",
+  "triple": [
+    [
+      "a British author",
+      "known",
+      "for his gritty, realistic, and brutal fantasy novels."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of First Law are not contradictory. Both statements provide additional information about Joe Abercrombie's writing style and reputation as a fantasy author, but they do not contradict the fact that he is the author of the First Law trilogy."
+}

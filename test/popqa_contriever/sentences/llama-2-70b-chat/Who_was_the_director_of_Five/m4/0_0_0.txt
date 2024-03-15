@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Five?",
+  "orig": "The director of Five was Alicia Keys, Jennifer Aniston, Demi Moore, and Patty Jenkins.",
+  "alt": "The director of Five was Alicia Keys.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of Five",
+      "was",
+      "Alicia Keys, Jennifer Aniston, Demi Moore, and Patty Jenkins."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Five are not contradictory, but rather provide different levels of detail. Statement 1 lists all four individuals who were involved in co-directing the project, while Statement 2 specifically identifies Alicia Keys as the director. Therefore, Statement 2 is a more specific answer to the prompt."
+}

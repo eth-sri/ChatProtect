@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ghana Navy?",
+  "orig": "The Ghana Navy is a branch of the Ghanaian military that is responsible for the country's maritime security and defense.",
+  "alt": "The Ghana Navy is a branch of the Ghanaian military and is responsible for the country's maritime security and defense.",
+  "prefix": "",
+  "triple": [
+    [
+      "a branch of the Ghanaian military",
+      "is",
+      "responsible for the country's maritime security and defense."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide the same information about the Ghana Navy being a branch of the Ghanaian military and responsible for the country's maritime security and defense. The only difference is the use of the word \"that\" in statement 1, which is not necessary for the sentence to convey the same meaning as statement 2."
+}

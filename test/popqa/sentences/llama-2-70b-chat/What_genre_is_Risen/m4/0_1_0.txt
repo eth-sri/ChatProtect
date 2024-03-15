@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Risen?",
+  "orig": "It is developed by Piranha Bytes and was first released in 2009.",
+  "alt": "It is developed by Piranha Bytes.",
+  "prefix": " Risen is an action role-playing game (RPG) set in a fantasy world.",
+  "triple": [
+    [
+      "It",
+      "is developed",
+      "by Piranha Bytes"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides additional information about the game's release date, while statement 2 simply reiterates the developer of the game. Both statements are consistent with the prompt's question about the genre of Risen."
+}

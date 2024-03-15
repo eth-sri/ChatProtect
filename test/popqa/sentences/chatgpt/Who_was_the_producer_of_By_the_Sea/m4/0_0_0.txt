@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of By the Sea?",
+  "orig": "By the Sea was produced by Angelina Jolie, Brad Pitt, and Chris Brigham.",
+  "alt": "By the Sea was produced by Brad Pitt.",
+  "prefix": "",
+  "triple": [
+    [
+      "By the Sea",
+      "was produced",
+      "by Angelina Jolie, Brad Pitt, and Chris Brigham."
+    ],
+    "compactie",
+    478
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of By the Sea? are contradictory. \n\nStatement 1 indicates that the movie was produced by Angelina Jolie, Brad Pitt, and Chris Brigham, while Statement 2 suggests that it was produced solely by Brad Pitt. These two statements cannot both be true at the same time, as they present different information about the producers of the movie. Therefore, they are contradictory."
+}

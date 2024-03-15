@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Wendy?",
+  "orig": "Wendy is a drama/fantasy film.",
+  "alt": "I'm sorry, I'm not sure what you are referring to with \"Wendy\". Could you please provide more context or clarify your question?",
+  "prefix": "",
+  "triple": [
+    [
+      "Wendy",
+      "is",
+      "a drama/fantasy film."
+    ],
+    "compactie",
+    494
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Wendy?\" are contradictory. Statement 1 provides a clear answer that Wendy is a drama/fantasy film, while Statement 2 expresses uncertainty and asks for clarification on what \"Wendy\" refers to. Therefore, Statement 1 provides a definitive answer while Statement 2 suggests a lack of knowledge or understanding about the subject."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Carlaw Park play?",
+  "orig": "The stadium also hosts other sports events, such as rugby union matches and soccer games, as well as concerts and other entertainment events.",
+  "alt": "The stadium hosts various sports events, including rugby league and rugby union matches.",
+  "prefix": " Carlaw Park is a stadium in Auckland, New Zealand, and it is primarily used for rugby league and rugby union matches. It is the home ground of the New Zealand Warriors, a professional rugby league team that competes in the National Rugby League (NRL) competition.",
+  "triple": [
+    [
+      "The stadium",
+      "hosts",
+      "other sports events, such as rugby union matches and soccer games, as well as concerts and other entertainment events."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about what sport Carlaw Park plays are not contradictory. Both statements mention that the stadium hosts rugby league and rugby union matches, but statement 1 adds that it also hosts other sports events such as soccer games, while also hosting concerts and other entertainment events. Therefore, statement 1 provides additional information about the variety of events that take place at Carlaw Park, but does not contradict the information provided in statement 2."
+}

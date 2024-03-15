@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Firm?",
+  "orig": "The novel is also classified as a thriller because it includes elements of suspense, intrigue, and danger.",
+  "alt": "The novel is classified as a New York Times bestseller.",
+  "prefix": " The Firm is a legal thriller novel written by John Grisham. It belongs to the genre of legal fiction, which explores the world of law and the legal system, often featuring lawyers, judges, and court cases as central characters and plot points.",
+  "triple": [
+    [
+      "The novel",
+      "classified",
+      "as a thriller"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Firm are not contradictory. Statement 1 provides additional information about the specific sub-genre of legal fiction that The Firm falls under, while also acknowledging the presence of thriller elements in the novel. Statement 2 is simply a statement about the book's commercial success and does not contradict the information provided in Statement 1."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Stations?",
+  "orig": "The author of \"Stations\" is Gary Lutz.",
+  "alt": "The author of \"Stations\" is Emily Dickinson.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Stations\"",
+      "is",
+      "Gary Lutz."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Stations\" are contradictory. Statement 1 correctly identifies Gary Lutz as the author, while statement 2 incorrectly identifies Emily Dickinson as the author. Therefore, the two statements cannot both be true at the same time."
+}

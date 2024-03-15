@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Nine?",
+  "orig": "Nine is a musical drama film.",
+  "alt": "Nine is a musical.",
+  "prefix": "",
+  "triple": [
+    [
+      "Nine",
+      "is",
+      "a musical drama film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Nine are not contradictory. Both statements identify Nine as a musical, but the first statement adds the descriptor \"drama\" to further specify the type of musical it is. Therefore, the two statements complement each other and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Phoenix?",
+  "orig": "Margaret Morris led the company from 1981 to 1997, followed by Thea Nerissa Barnes until 2000, and Darshan Singh Bhuller from 2002.",
+  "alt": "Margaret Morris led the company until 1997.",
+  "prefix": " There were multiple directors of Phoenix Dance Theatre.",
+  "triple": [
+    [
+      "Margaret Morris",
+      "led",
+      "the company from"
+    ],
+    "compactie",
+    594
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Phoenix? are not contradictory. Statement 1 provides a comprehensive list of all the directors of Phoenix Dance Theatre, while Statement 2 only mentions Margaret Morris and the year she left the company. Both statements are true and do not contradict each other."
+}

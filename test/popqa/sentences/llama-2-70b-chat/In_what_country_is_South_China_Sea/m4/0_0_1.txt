@@ -1,0 +1,19 @@
+{
+  "target": "In what country is South China Sea?",
+  "orig": "The South China Sea is a marginal sea located in the Western Pacific Ocean, and it is not located in any specific country.",
+  "alt": "The South China Sea is located in the Pacific Ocean.",
+  "prefix": "",
+  "triple": [
+    [
+      "a marginal sea",
+      "located",
+      "in the Western Pacific Ocean,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement clarifies that the South China Sea is not located in any specific country, the second statement provides additional information about its general location in the Pacific Ocean. Therefore, both statements are true and do not contradict each other."
+}

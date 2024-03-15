@@ -1,0 +1,19 @@
+{
+  "target": "What genre is DOS MZ executable?",
+  "orig": "However, it has limitations, such as a maximum program size of 64 KB, and has largely been replaced by newer executable formats in modern operating systems.",
+  "alt": "It has a maximum file size limit of 64KB.",
+  "prefix": " DOS MZ executable is a type of executable file format used in DOS and compatible operating systems. It is a 16-bit executable format that was introduced in DOS 2.0 and was the standard executable format for DOS programs until the introduction of the 32-bit Windows operating system. The MZ in DOS MZ executable stands for \"Memory Zero,\" which refers to the fact that the program's code and data are loaded into memory starting at address 0. The format is also sometimes referred to as the \"DOS MZ-DOS\" format, to distinguish it from other executable formats used in DOS, such as the COM format. DOS MZ executables are stored in a file with an .EXE extension and contain a header that specifies the location of the program's code and data in memory, as well as other information such as the entry point and the size of the program's memory allocation. The format is relatively simple and has been widely used by DOS programmers.",
+  "triple": [
+    [
+      "it",
+      "has",
+      "limitations, such as a maximum program size of 64 KB,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of DOS MZ executable are not contradictory. Both statements mention the limitation of the format's maximum program size being 64 KB. The first statement also mentions that the format has been largely replaced by newer executable formats in modern operating systems, while the second statement focuses solely on the file size limit. Therefore, the statements complement each other by providing additional information about the limitations of the DOS MZ executable format."
+}

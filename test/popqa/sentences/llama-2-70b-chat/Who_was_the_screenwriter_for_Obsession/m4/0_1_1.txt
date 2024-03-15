@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Obsession?",
+  "orig": "Schrader is shopping his script for a new film he has written called \"Taxi Driver.\"",
+  "alt": "Schrader is shopping his latest script around Hollywood.",
+  "prefix": " The screenwriter for the 1976 film \"Obsession\" was Paul Schrader.",
+  "triple": [
+    [
+      "Schrader",
+      "is shopping",
+      "his script for a new film he"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Obsession? are not contradictory. While the first statement identifies Paul Schrader as the screenwriter for \"Obsession,\" the second statement simply states that he is shopping his latest script around Hollywood, without specifying which film it is for. Therefore, there is no contradiction between the two statements."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Snake?",
+  "orig": "The poem was written in 1920 and is considered one of Lawrence's most famous and controversial works.",
+  "alt": "The poem was written in 1920.",
+  "prefix": " The author of \"The Snake\" is D.H. Lawrence.",
+  "triple": [
+    [
+      "The poem",
+      "was written",
+      "in 1920"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Snake? are not contradictory. Both statements provide additional information about the poem and its author, but they do not contradict each other. Statement 1 provides information about the poem's fame and controversy, while Statement 2 simply states the year in which the poem was written."
+}

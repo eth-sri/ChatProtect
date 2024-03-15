@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Christopher and His Kind?",
+  "orig": "The book was first published in 1936 and is a semi-autobiographical account of Isherwood's experiences as a young man in Berlin during the 1930s.",
+  "alt": "The book was first published in 1931.",
+  "prefix": " Christopher and His Kind is a memoir written by Christopher Isherwood.",
+  "triple": [
+    [
+      "The book",
+      "was first published",
+      "in 1936"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Christopher and His Kind? are contradictory. The first statement correctly states that the book was written by Christopher Isherwood and published in 1936, while the second statement incorrectly states that the book was first published in 1931. Therefore, the two statements cannot both be true at the same time."
+}

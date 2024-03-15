@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Game?",
+  "orig": "The text discusses a game called \"Bone Wars: The Game of Ruthless Paleontology\" and its co-designer, but it does not mention the author of The Game.",
+  "alt": "Itreibung does not mention the author's name.",
+  "prefix": " The author of The Game is not specified in the text.",
+  "triple": [
+    [
+      "it",
+      "does not mention",
+      "the author of The Game."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Game? are not contradictory. Both statements confirm that the text does not provide information about the author of The Game. Statement 1 provides additional information about the co-designer of another game, while Statement 2 simply reiterates that the author's name is not mentioned in the text."
+}

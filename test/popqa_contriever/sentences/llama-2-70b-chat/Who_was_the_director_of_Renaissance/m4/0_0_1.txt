@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Renaissance?",
+  "orig": "Renaissance was not a single person, but a theatre company founded by Kenneth Branagh and David Parfitt in 1987.",
+  "alt": "But a theatre company founded by Kenneth Branagh and David Parfitt.",
+  "prefix": "",
+  "triple": [
+    [
+      "but a theatre company",
+      "founded",
+      "by Kenneth Branagh and David Parfitt in 1987."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While Statement 1 clarifies that Renaissance was a theatre company and not a single person, Statement 2 reiterates that the company was founded by Kenneth Branagh and David Parfitt. Neither statement mentions a specific director for Renaissance."
+}

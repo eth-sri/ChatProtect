@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Mars?",
+  "orig": "However, Kreidler is an electronica group, so it can be assumed that the song also falls under the electronica genre.",
+  "alt": "The song \"Mars\" falls under the electronica genre.",
+  "prefix": " It is not specified what genre \"Mars\" belongs to.",
+  "triple": [
+    [
+      "the song",
+      "falls",
+      "under the electronica genre."
+    ],
+    "compactie",
+    629
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 is a tentative assumption based on the fact that Kreidler is an electronica group, while Statement 2 is a definitive statement about the genre of the song \"Mars\". Both statements are plausible, but Statement 2 is more specific and conclusive."
+}

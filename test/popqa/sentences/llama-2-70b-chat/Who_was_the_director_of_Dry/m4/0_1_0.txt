@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Dry?",
+  "orig": "Neill Blomkamp is a South African film director, producer, screenwriter, and animator.",
+  "alt": "Neill Blomkamp is a South African film director, producer, and screenwriter.",
+  "prefix": " directed by directed by Neill Blomkamp.",
+  "triple": [
+    [
+      "Neill Blomkamp",
+      "is",
+      "a South African film director, producer, screenwriter, and animator."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Dry? are not contradictory. Both statements provide additional information about Neill Blomkamp, the director of Dry. The only difference is that statement 1 includes the fact that Blomkamp is also an animator, while statement 2 does not. However, this does not contradict the fact that Blomkamp directed Dry."
+}

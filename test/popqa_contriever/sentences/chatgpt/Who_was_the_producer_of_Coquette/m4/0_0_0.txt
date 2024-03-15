@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Coquette?",
+  "orig": "The producer of Coquette is Mary Pickford.",
+  "alt": "The producer of Coquette is Mary Pickford, who also starred in the film.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Coquette",
+      "is",
+      "Mary Pickford."
+    ],
+    "compactie",
+    603
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Coquette are contradictory. The first statement claims that Mary Pickford was the producer of the film, while the second statement adds that she also starred in it. However, Mary Pickford did not produce Coquette. The actual producer of the film was her husband, Douglas Fairbanks Jr. Therefore, the second statement is incorrect and contradicts the first statement."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Champion?",
+  "orig": "Do you mean to ask who produced the films that Gregg Champion directed?",
+  "alt": "Gregg Champion directed many successful films, including \"The breakfast club\" and \"The L geg part 2\".",
+  "prefix": " I'm not sure what you're asking. Gregg Champion is a director, not a producer.",
+  "triple": [
+    [
+      "Gregg Champion",
+      "directed?",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that Gregg Champion is a director, not a producer, and asks for clarification on the question. The second statement provides information about the films that Gregg Champion directed, without addressing the question of who produced them."
+}

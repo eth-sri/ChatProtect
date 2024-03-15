@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of New Zealand?",
+  "orig": "It has been the capital since 1865.",
+  "alt": "It has been the capital of New Zealand since 1865.",
+  "prefix": " Sure! The capital of New Zealand is Wellington.",
+  "triple": [
+    [
+      "It",
+      "has been",
+      "the capital since 1865."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both provide the same information that Wellington has been the capital of New Zealand since 1865. Statement 2 is simply a more detailed version of Statement 1."
+}

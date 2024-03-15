@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Amy?",
+  "orig": "The director of the documentary film Amy (2015) is Asif Kapadia.",
+  "alt": "The director of the documentary film Amy is Asif Kapadia.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the documentary film Amy",
+      "is",
+      "Asif Kapadia."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the director of Amy?\" are not contradictory. Both statements provide the same answer to the prompt and only differ in their use of punctuation. Statement 1 includes parentheses around the year of the film's release, while Statement 2 does not. However, both statements clearly identify Asif Kapadia as the director of the documentary film Amy."
+}

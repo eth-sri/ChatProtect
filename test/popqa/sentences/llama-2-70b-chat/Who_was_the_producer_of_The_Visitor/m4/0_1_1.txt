@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Visitor?",
+  "orig": "The film was directed by Thomas McCarthy, who is also credited as a co-writer and co-editor.",
+  "alt": "By Thomas McCarthy, is also credited as the writer and director of the film.",
+  "prefix": " The producer of The Visitor is not explicitly stated.",
+  "triple": [
+    [
+      "by Thomas McCarthy,",
+      "is also credited",
+      "as a co-writer and co-editor."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Visitor are not contradictory. While the first statement mentions that the producer is not explicitly stated, the second statement provides information about the director, writer, and editor of the film, which is not related to the producer. Therefore, both statements can be true at the same time without contradicting each other."
+}

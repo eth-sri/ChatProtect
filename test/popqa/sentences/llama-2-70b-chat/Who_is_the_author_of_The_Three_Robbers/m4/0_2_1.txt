@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Three Robbers?",
+  "orig": "The story follows three robbers who try to steal a treasure from a castle but ultimately end up being outsmarted by a group of animals.",
+  "alt": "The three robbers try to steal a treasure from a castle.",
+  "prefix": " The author of \"The Three Robbers\" is Tomi Ungerer. It is a children's book written and illustrated by Ungerer and was first published in 1961.",
+  "triple": [
+    [
+      "three robbers",
+      "try",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Three Robbers are not contradictory. The first statement identifies Tomi Ungerer as the author and illustrator of the book, while the second statement describes the plot of the story, which involves three robbers attempting to steal a treasure from a castle. Both statements provide different information about the book and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Liberia?",
+  "orig": "Liberia is also the name of a city in Costa Rica, which is the subject of this passage.",
+  "alt": "Liberia is also the largest city of Guanacaste province in Costa Rica.",
+  "prefix": " The capital of Liberia is Monrovia. However, the city of Liberia mentioned in this context is not the same as the country Liberia.",
+  "triple": [
+    [
+      "Liberia",
+      "also",
+      "the name of a city in Costa Rica,"
+    ],
+    "compactie",
+    623
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of Liberia?\" are contradictory. The first statement states that the capital of Liberia is Monrovia, while the second statement clarifies that the Liberia being referred to in this context is actually the city in Costa Rica, which is not the capital of Liberia. Therefore, the two statements provide conflicting information about the capital of Liberia."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Amy?",
+  "orig": "Amy Sherman-Palladino directed many episodes of the television shows she created, including \"Gilmore Girls,\" \"Bunheads,\" and \"The Marvelous Mrs.",
+  "alt": "Amy Sherman-Palladino directed \"Amy.\"",
+  "prefix": "",
+  "triple": [
+    [
+      "Amy Sherman-Palladino",
+      "directed",
+      "many episodes of the television shows she"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Amy? are contradictory. The prompt does not provide any context for \"Amy,\" and there is no evidence that Amy Sherman-Palladino directed anything with that title. Therefore, statement 2 is false and contradicts statement 1, which correctly lists the television shows that Sherman-Palladino created and directed."
+}

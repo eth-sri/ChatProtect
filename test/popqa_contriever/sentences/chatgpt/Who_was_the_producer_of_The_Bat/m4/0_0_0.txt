@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Bat?",
+  "orig": "The information provided does not mention who the producer of The Bat was.",
+  "alt": "The producer of The Bat was C.J. Tevlin.",
+  "prefix": "",
+  "triple": [
+    [
+      "the producer of The Bat",
+      "was.",
+      ""
+    ],
+    "compactie",
+    600
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Bat are not contradictory. Statement 1 acknowledges that the information provided does not mention the producer, while statement 2 provides the name of the producer as C.J. Tevlin. Therefore, statement 2 is providing additional information that was not included in the original text."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Annie?",
+  "orig": "Annie is a musical comedy.",
+  "alt": "Annie is a musical.",
+  "prefix": "",
+  "triple": [
+    [
+      "Annie",
+      "is",
+      "a musical comedy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Annie?\" are not contradictory. Both statements identify Annie as a musical, with the first statement adding the descriptor \"comedy\" to further specify the genre. Therefore, both statements are consistent with each other."
+}

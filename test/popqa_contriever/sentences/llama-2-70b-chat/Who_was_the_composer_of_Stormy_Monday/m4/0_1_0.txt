@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Stormy Monday?",
+  "orig": "The song was originally recorded by Lou Rawls in 1962, and it is mentioned that Latimore recorded his own version of the song in 1973.",
+  "alt": "The song was originally recorded by T-Bone Walker in 1947.",
+  "prefix": " The composer of \"Stormy Monday\" is not explicitly stated in the passage.",
+  "triple": [
+    [
+      "The song",
+      "was originally recorded",
+      "by Lou Rawls in 1962,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of \"Stormy Monday\" are not contradictory. While the passage does not explicitly state who the composer of the song is, it does mention that Lou Rawls recorded the song in 1962 and that Latimore recorded his own version in 1973. Additionally, statement 2 correctly identifies T-Bone Walker as the original composer of the song. Therefore, both statements provide additional information about the song's history without contradicting each other."
+}

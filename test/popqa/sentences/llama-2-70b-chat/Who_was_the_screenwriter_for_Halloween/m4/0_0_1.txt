@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Halloween?",
+  "orig": "The screenwriter for the original Halloween film, released in 1978, was John Carpenter and Debra Hill.",
+  "alt": "The screenwriter for the original Halloween film was John Carpenter.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the original Halloween film,",
+      "was",
+      "John Carpenter and Debra Hill."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Halloween are not contradictory. Statement 1 includes both John Carpenter and Debra Hill as the screenwriters, while Statement 2 only mentions John Carpenter. Therefore, Statement 2 is a subset of Statement 1, as it only includes one of the two screenwriters mentioned in Statement 1."
+}

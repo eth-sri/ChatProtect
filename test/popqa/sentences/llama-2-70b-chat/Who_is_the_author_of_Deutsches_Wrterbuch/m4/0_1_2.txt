@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Deutsches W\u00f6rterbuch?",
+  "orig": "They were both German linguists and philologists who worked together to compile the dictionary, which was first published in 1854.",
+  "alt": "Together, they compiled the dictionary, which was first published in 1854.",
+  "prefix": " The author of the Deutsches W\u00f6rterbuch, also known as the Grimm's Dictionary, is actually two brothers: Jacob Grimm and Wilhelm Grimm.",
+  "triple": [
+    [
+      "together to compile the dictionary,",
+      "was first published",
+      "in 1854."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the fact that Jacob and Wilhelm Grimm worked together to compile and publish the Deutsches W\u00f6rterbuch in 1854. Statement 1 emphasizes their profession as linguists and philologists, while statement 2 focuses on their joint effort in compiling the dictionary."
+}

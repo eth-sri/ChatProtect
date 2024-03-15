@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Spy?",
+  "orig": "It is a genre-bending film that combines elements of action, adventure, and comedy, with a lighthearted and humorous approach to the typically serious and suspenseful spy genre.",
+  "alt": "Spy is a genre-bending film that combines elements of comedy, action, and espionage.",
+  "prefix": " Spy is a comedy spy film.",
+  "triple": [
+    [
+      "a genre-bending film",
+      "combines",
+      "elements of action, adventure, and comedy, with a lighthearted and humorous approach to the typically serious and suspenseful spy genre."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Spy? are not contradictory. Both statements describe Spy as a genre-bending film that combines elements of comedy and action with the spy genre. The only difference is that statement 1 also includes adventure as an element, while statement 2 includes espionage. However, both adventure and espionage are commonly associated with the spy genre, so the statements are still consistent with each other."
+}

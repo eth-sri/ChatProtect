@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Serenity?",
+  "orig": "Whedon is a professional screenwriter, director, and producer, and he is best known for [[ cr\u00e9ation de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e Buffy the Vampire Slayer et Angel]].",
+  "alt": "He is best known for creating the popular television shows Buffy the Vampire Slayer and Firefly.",
+  "prefix": " The screenwriter for the movie Serenity (2005) was Joss Whedon.",
+  "triple": [
+    [
+      "he",
+      "is best known",
+      "for"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they differ in the television show mentioned. Statement 1 mentions Buffy the Vampire Slayer and Angel, while statement 2 mentions Buffy the Vampire Slayer and Firefly. Both statements provide additional information about Joss Whedon's career as a screenwriter, director, and producer, but they focus on different television shows he created."
+}

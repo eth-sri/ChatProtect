@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Emperor Yang of Sui?",
+  "orig": "Emperor Yang of Sui's father is Emperor Wen of Sui.",
+  "alt": "Emperor Yang of Sui's father is Emperor Wen.",
+  "prefix": "",
+  "triple": [
+    [
+      "Emperor Yang of Sui's father",
+      "is",
+      "Emperor Wen of Sui."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Emperor Yang of Sui are not contradictory. Both statements identify Emperor Wen of Sui as the father of Emperor Yang. The only difference is that statement 1 includes the full title \"Emperor Wen of Sui\" while statement 2 omits the title."
+}

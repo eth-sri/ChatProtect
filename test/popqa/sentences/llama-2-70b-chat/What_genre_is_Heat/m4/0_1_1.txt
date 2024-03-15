@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Heat?",
+  "orig": "It is a thriller that blends elements of action, drama, and crime genres.",
+  "alt": "Heat blends elements of action, drama, and crime genres.",
+  "prefix": " Heat is a 1995 American crime film directed by Michael Mann.",
+  "triple": [
+    [
+      "a thriller",
+      "blends",
+      "elements of action, drama, and crime genres."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Heat are not contradictory. Both statements agree that Heat is a film that blends elements of action, drama, and crime genres. The only difference is that statement 1 explicitly labels it as a thriller, while statement 2 does not give it a specific genre label. However, both statements convey the same idea that Heat is a hybrid of different genres."
+}

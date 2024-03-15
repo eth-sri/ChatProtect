@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Celebration?",
+  "orig": "The composer of Celebration is not mentioned in the given passage.",
+  "alt": "The composer of Celebration is mentioned in the prompt and is John Corigliano.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of Celebration",
+      "is not mentioned",
+      "in the given passage."
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is correct, while Statement 1 is incorrect. The prompt explicitly states that Celebration was composed by John Corigliano for the 75th birthday of Georg Solti, the music director of the Chicago Symphony Orchestra. Therefore, the two statements are contradictory."
+}

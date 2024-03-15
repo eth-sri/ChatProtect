@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Samson?",
+  "orig": "Samson's mother is not named in the Bible.",
+  "alt": "Samson's mother is not named in the Bible.",
+  "prefix": "",
+  "triple": [
+    [
+      "Samson's mother",
+      "is not named",
+      "in the Bible."
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. Both statements claim that Samson's mother is not named in the Bible, but they cannot both be true. If the first statement is true, then the second statement is unnecessary and redundant. However, if the second statement is true, then the first statement is false. Therefore, the statements cannot both be true at the same time."
+}

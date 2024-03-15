@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glas?",
+  "orig": "Derrida was a French philosopher known for his work on post-structuralism and deconstruction, and Glas is considered one of his most important works.",
+  "alt": "Derrida was a French philosopher and literary theorist.",
+  "prefix": " Glas is a novel written by Jacques Derrida. It was first published in French in 1974, and later translated into English in 1986.",
+  "triple": [
+    [
+      "Derrida",
+      "was",
+      "a French philosopher"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Glas are not contradictory. Both statements identify Jacques Derrida as the author of the novel Glas and describe him as a French philosopher and literary theorist known for his work on post-structuralism and deconstruction. The only difference is that statement 1 emphasizes the importance of Glas in Derrida's body of work, while statement 2 provides a broader description of his intellectual interests."
+}

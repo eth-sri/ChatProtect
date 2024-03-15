@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Heat?",
+  "orig": "Heat is a sports fiction novel and a young adult novel.",
+  "alt": "Heat is a young adult novel.",
+  "prefix": "",
+  "triple": [
+    [
+      "Heat",
+      "is",
+      "a sports fiction novel and a young adult novel."
+    ],
+    "compactie",
+    556
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Heat are not contradictory. The first statement specifies that Heat is both a sports fiction novel and a young adult novel, while the second statement only identifies it as a young adult novel. Therefore, the second statement is a subset of the first statement, and both statements can be true at the same time."
+}

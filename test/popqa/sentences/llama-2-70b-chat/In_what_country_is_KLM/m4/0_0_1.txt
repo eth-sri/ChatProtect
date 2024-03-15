@@ -1,0 +1,19 @@
+{
+  "target": "In what country is KLM?",
+  "orig": "KLM is the flag carrier airline of the Netherlands, so it is based in the Netherlands.",
+  "alt": "It is based in the Netherlands.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "is based",
+      "in the Netherlands."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about \"In what country is KLM?\" are not contradictory. Both statements confirm that KLM is based in the Netherlands, which is the country where the airline is headquartered and operates from. Therefore, there is no contradiction between the two statements."
+}

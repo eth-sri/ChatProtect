@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Northern Territory?",
+  "orig": "The capital of Northern Territory is Darwin.",
+  "alt": "The capital of Northern Territory is Darwin.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "The capital of Northern Territory",
+      "is",
+      "Darwin."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The prompt asks for the capital of Northern Territory and both statements provide the same answer, but they cannot both be true. Therefore, one of the statements must be incorrect."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Kazuyoshi Sekine's occupation?",
+  "orig": "Ryue Nishizawa is an architect and Sejima's partner in the firm Kazuyo Sejima & Associates.",
+  "alt": "Ryue Nishizawa is an architect.",
+  "prefix": " Kazuyoshi Sekine is not mentioned in the text. Did you mean Ryue Nishizawa?",
+  "triple": [
+    [
+      "Ryue Nishizawa",
+      "is",
+      "an architect and Sejima's partner in the firm"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory because they both provide information about Ryue Nishizawa's occupation as an architect. The prompt about Kazuyoshi Sekine's occupation is not relevant to the given text."
+}

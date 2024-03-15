@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Time?",
+  "orig": "He wrote the music and lyrics to the song, which was released in 1975 on the album \"A Night at the Opera.\"",
+  "alt": "He wrote the lyrics and music for the song.",
+  "prefix": " The composer of the song \"Time\" by Freddie Mercury and Queen is Freddie Mercury himself.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      "the music and lyrics to the song,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Time? are contradictory. Statement 1 says that Freddie Mercury wrote both the music and lyrics for the song, while Statement 2 says that he only wrote the lyrics and music. These two statements cannot both be true at the same time."
+}

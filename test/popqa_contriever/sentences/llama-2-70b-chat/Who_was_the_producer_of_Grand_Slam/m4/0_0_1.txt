@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Grand Slam?",
+  "orig": "The producer of the 1967 film \"Grand Slam\" (also known as \"Ad ogni costo\") was Dino De Laurentiis.",
+  "alt": "The producer of the 1967 film \"Grand Slam\" was Dino De Laurentiis.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 1967 film \"Grand Slam\"",
+      "was",
+      "Dino De Laurentiis."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Grand Slam are not contradictory. They both provide the same information and use the same wording, with the only difference being the inclusion of the phrase \"also known as\" in statement 1."
+}

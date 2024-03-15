@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Moo?",
+  "orig": "The author of The Big Moo is not a single person, but a collection of essays written by 32 different authors in the field of marketing.",
+  "alt": "The author of The Big Moo is not a single person, but rather a collection of essays written by 32 different authors.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Big Moo",
+      "is not",
+      "a single person,"
+    ],
+    "compactie",
+    612
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Moo? are not contradictory. Both statements convey the same information that The Big Moo is a collection of essays written by 32 different authors in the field of marketing, without a single identified author. The only difference between the two statements is the inclusion of the phrase \"in the field of marketing\" in the first statement, which provides additional context about the authors' expertise."
+}

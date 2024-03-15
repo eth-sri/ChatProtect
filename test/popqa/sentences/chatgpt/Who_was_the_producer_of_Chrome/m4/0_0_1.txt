@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Chrome?",
+  "orig": "Chrome was developed by Google and the primary contributors to the project were Google developers Sergey Brin and Larry Page.",
+  "alt": "The primary contributors to Chrome were two software engineers at Google, namely, Jeff Nelson and Lars Bak.",
+  "prefix": "",
+  "triple": [
+    [
+      "the primary contributors to",
+      "were",
+      "Google developers Sergey Brin and Larry Page."
+    ],
+    "compactie",
+    487
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Chrome are contradictory. Statement 1 claims that Chrome was primarily developed by Sergey Brin and Larry Page, while Statement 2 claims that it was primarily developed by Jeff Nelson and Lars Bak. These two statements cannot both be true at the same time, as they present different sets of individuals as the primary contributors to the development of Chrome."
+}

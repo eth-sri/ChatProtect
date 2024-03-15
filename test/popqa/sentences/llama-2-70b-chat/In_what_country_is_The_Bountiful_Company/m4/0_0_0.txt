@@ -1,0 +1,19 @@
+{
+  "target": "In what country is The Bountiful Company?",
+  "orig": "The Bountiful Company is a multinational consumer goods company that operates in over 100 countries worldwide.",
+  "alt": "The Bountiful Company is in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Bountiful Company",
+      "is",
+      "a multinational consumer goods company"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is The Bountiful Company?\" are not contradictory. The first statement indicates that the company operates in over 100 countries worldwide, while the second statement specifies that the company is located in the United States. Therefore, the company's headquarters may be in the United States, but it has operations in other countries as well."
+}

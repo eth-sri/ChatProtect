@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Carl Grimes?",
+  "orig": "The father of Carl Grimes is Mira Grimes.",
+  "alt": "The father of Carl Grimes is Rick Grimes.",
+  "prefix": "",
+  "triple": [
+    [
+      "The father of Carl Grimes",
+      "is",
+      "Mira Grimes."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is correct, while statement 1 is incorrect. The prompt clearly states that Carl Grimes is the son of primary protagonist Rick Grimes and his wife Lori Grimes. Therefore, statement 1 is contradictory to the prompt and statement 2."
+}

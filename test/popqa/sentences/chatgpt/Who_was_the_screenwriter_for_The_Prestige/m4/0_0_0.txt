@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Prestige?",
+  "orig": "The screenwriter for The Prestige is Christopher Nolan and his brother, Jonathan Nolan.",
+  "alt": "The screenwriter for The Prestige is Christopher Nolan.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for The Prestige",
+      "is",
+      ""
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Prestige are not contradictory. Statement 1 includes both Christopher Nolan and his brother Jonathan Nolan as the screenwriters, while Statement 2 only mentions Christopher Nolan. Therefore, Statement 2 is a subset of Statement 1, and both statements can be true at the same time."
+}

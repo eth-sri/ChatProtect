@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Ham?",
+  "orig": "Ham's father is Noah.",
+  "alt": "Ham's father is Noah.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ham's father",
+      "is",
+      "Noah."
+    ],
+    "compactie",
+    472
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both provide the same answer to the prompt \"Who is the father of Ham?\" by stating that Ham's father is Noah. However, it is redundant to have the same statement repeated twice."
+}

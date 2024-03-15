@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Dil?",
+  "orig": "Dil was produced by Yash Chopra and directed by Indra Kumar.",
+  "alt": "Dil was directed by Indra Kumar.",
+  "prefix": "",
+  "triple": [
+    [
+      "by Yash Chopra",
+      "directed",
+      "by Indra Kumar."
+    ],
+    "compactie",
+    477
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Dil are not contradictory. While statement 1 mentions that Dil was produced by Yash Chopra and directed by Indra Kumar, statement 2 only mentions the director and does not contradict the fact that Yash Chopra was the producer. Therefore, both statements can be true at the same time."
+}

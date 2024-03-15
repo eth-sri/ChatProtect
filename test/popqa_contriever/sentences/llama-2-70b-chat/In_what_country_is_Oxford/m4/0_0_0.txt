@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Oxford?",
+  "orig": "Oxford is in New Zealand.",
+  "alt": "Oxford is in New Zealand.",
+  "prefix": "",
+  "triple": [
+    [
+      "Oxford",
+      "is",
+      "in New Zealand."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Oxford?\" are contradictory because they both claim that Oxford is in New Zealand, but the first statement is referring to Oxford, New Zealand, while the second statement is likely referring to Oxford, England. Therefore, the statements are contradictory because they are referring to two different places with the same name."
+}

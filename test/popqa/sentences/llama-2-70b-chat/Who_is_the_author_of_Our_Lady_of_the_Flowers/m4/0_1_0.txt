@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Our Lady of the Flowers?",
+  "orig": "It is a novel written by Genet in 1942 and is considered one of his most famous works.",
+  "alt": "It is a novel.",
+  "prefix": " The author of Our Lady of the Flowers is Jean Genet.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Our Lady of the Flowers are not contradictory. Statement 1 provides additional information about the novel, including the year it was written and its significance as one of Genet's most famous works. Statement 2 simply confirms that the work in question is a novel. Both statements are consistent with the fact that Jean Genet is the author of Our Lady of the Flowers."
+}

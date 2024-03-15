@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Carl Grimes?",
+  "orig": "Rick is a sheriff's deputy who is shot and wakes up from a coma to find that the world has been overrun by zombies.",
+  "alt": "A sheriff's deputy is shot and killed during a zombie attack.",
+  "prefix": " The father of Carl Grimes is Rick Grimes.",
+  "triple": [
+    [
+      "a sheriff's deputy",
+      "is shot",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Carl Grimes are not contradictory. Statement 1 provides additional information about Rick Grimes, the father of Carl Grimes, while statement 2 describes a generic scenario of a sheriff's deputy being killed during a zombie attack. The two statements do not contradict each other in any way."
+}

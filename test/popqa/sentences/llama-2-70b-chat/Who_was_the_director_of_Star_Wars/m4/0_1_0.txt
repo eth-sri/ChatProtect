@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Star Wars?",
+  "orig": "He was also the writer and producer of the film.",
+  "alt": "He was also the creator of the Star Wars franchise.",
+  "prefix": " The director of Star Wars was George Lucas.",
+  "triple": [
+    [
+      "He",
+      "was also",
+      "the writer and producer of the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Star Wars are not contradictory. While the first statement identifies George Lucas as the director of the film, the second and third statements provide additional information about his involvement in the creation and development of the Star Wars franchise as a whole. Therefore, all three statements are consistent and complementary."
+}

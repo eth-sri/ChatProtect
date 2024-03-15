@@ -11,7 +11,7 @@ from .bot import Bot, Usage
 import tiktoken
 
 # Daily cost limit in USD
-DAILY_LIMIT = 100
+DAILY_LIMIT = 50
 TOKEN_INPUT_COST_MAP = {
     "gpt-3.5-turbo-0301": 0.0015 / 1000,
     "gpt-4-0314": 0.03 / 1000,

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Space Seed?",
+  "orig": "He was a veteran television director who had worked on many TV shows, including \"The Twilight Zone\" and \"The Andy Griffith Show,\" before directing several episodes of \"Star Trek,\" including \"Space Seed.\"",
+  "alt": "He was a television director and producer.",
+  "prefix": " The director of \"Space Seed\" was Marc Daniels.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "a veteran television director"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of \"Space Seed\" are not contradictory. Statement 1 provides additional information about Marc Daniels' experience as a television director, including his work on other popular shows before directing \"Star Trek.\" Statement 2 simply confirms that he was both a director and producer in the television industry. Both statements are consistent with each other and do not contradict each other."
+}

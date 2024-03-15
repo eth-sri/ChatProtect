@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Heat?",
+  "orig": "Heat, the young adult novel written by Mike Lupica, belongs to the sports fiction genre.",
+  "alt": "Heat, the young adult novel, belongs to the sports fiction genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "Heat, the young adult novel",
+      "belongs",
+      "to the sports fiction genre."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Heat are not contradictory. Both statements identify Heat as a young adult novel belonging to the sports fiction genre. The only difference between the two statements is that the first one includes the author's name, while the second one does not."
+}

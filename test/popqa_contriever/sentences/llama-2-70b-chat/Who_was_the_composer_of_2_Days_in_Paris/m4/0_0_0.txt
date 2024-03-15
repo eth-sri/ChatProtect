@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of 2 Days in Paris?",
+  "orig": "Julie Delpy, who also played the leading female role, composed the soundtrack for 2 Days in Paris.",
+  "alt": "Julie Delpy, who also played the leading female role, composed the soundtrack.",
+  "prefix": "",
+  "triple": [
+    [
+      "the leading female role,",
+      "composed",
+      "the soundtrack for 2 Days in Paris."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of 2 Days in Paris are not contradictory. Both statements confirm that Julie Delpy, who also played the leading female role, composed the soundtrack for the film. The only difference is that statement 2 is more concise and omits the additional information about Julie Delpy producing and directing the film."
+}

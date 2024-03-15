@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of arrondissement of Limoges?",
+  "orig": "The capital of the arrondissement of Limoges is Limoges.",
+  "alt": "The capital of the arrondissement of Limoux is Limoux.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of the arrondissement of",
+      "is",
+      "Limoges."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of arrondissement of Limoges are contradictory. The first statement correctly identifies Limoges as the capital of its own arrondissement, which is located in the Haute-Vienne department of France. However, the second statement identifies Limoux as the capital of a different arrondissement, which is located in the Aude department of France. Therefore, the two statements are not referring to the same arrondissement and cannot both be true."
+}

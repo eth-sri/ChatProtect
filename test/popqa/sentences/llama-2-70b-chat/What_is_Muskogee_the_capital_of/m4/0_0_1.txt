@@ -1,0 +1,19 @@
+{
+  "target": "What is Muskogee the capital of?",
+  "orig": "Muskogee is the capital of the Muscogee Nation, which is a Federally recognized tribe in the United States.",
+  "alt": "The capital of Oklahoma is Muskogee.",
+  "prefix": "",
+  "triple": [
+    [
+      "the capital of the",
+      "is",
+      "a Federally recognized tribe in the United States."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is Muskogee the capital of?\" are contradictory. \n\nStatement 1 claims that Muskogee is the capital of the Muscogee Nation, which is a federally recognized tribe in the United States. This implies that Muskogee is not the capital of any state or country.\n\nHowever, Statement 2 claims that the capital of Oklahoma is Muskogee. This implies that Muskogee is the capital of a state in the United States.\n\nTherefore, the two statements cannot both be true at the same time, and they contradict each other."
+}

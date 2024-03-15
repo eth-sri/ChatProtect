@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Color?",
+  "orig": "The author of \"Color\" is a book written by Victoria Finlay.",
+  "alt": "The book \"Color\" was written by Victoria Finlay.",
+  "prefix": "",
+  "triple": [
+    [
+      "a book",
+      "written",
+      "by Victoria Finlay."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Color\" are not contradictory. Both statements convey the same information that the book \"Color\" was written by Victoria Finlay. The only difference is the phrasing of the sentence. Statement 1 uses the full sentence structure while Statement 2 is a shortened version of the same sentence. Therefore, both statements are consistent with each other."
+}

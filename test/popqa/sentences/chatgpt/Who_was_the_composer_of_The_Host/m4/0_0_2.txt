@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Host?",
+  "orig": "The Host is a South Korean film directed by Bong Joon-ho and the music was composed by Lee Byung-woo.",
+  "alt": "The music was composed by Marco Beltrami.",
+  "prefix": "",
+  "triple": [
+    [
+      "the music",
+      "was composed",
+      "by Lee Byung-woo."
+    ],
+    "compactie",
+    477
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of The Host are contradictory. Statement 1 claims that the music was composed by Lee Byung-woo, while statement 2 claims that it was composed by Marco Beltrami. These two statements cannot both be true at the same time."
+}

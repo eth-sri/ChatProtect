@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Colombia?",
+  "orig": "The capital of Colombia is Bogot\u00e1.",
+  "alt": "The capital of Colombia is Bogot\u00e1.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "The capital of Colombia",
+      "is",
+      "Bogot\u00e1."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both provide the same answer to the prompt \"What is the capital of Colombia?\". They are simply restating the same information."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What sport does penalty play?",
+  "orig": "It is commonly used in soccer (football) when a player commits a foul inside the penalty box, leading to a penalty kick for the opposing team.",
+  "alt": "It is not a player or a team, but rather a violation of the rules that commits a penalty.",
+  "prefix": " Penalty is not a sport, but rather a method of punishment used in several sports.",
+  "triple": [
+    [
+      "It",
+      "commits",
+      "a foul inside the penalty box,"
+    ],
+    "compactie",
+    495
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What sport does penalty play?\" are not contradictory. The first statement explains that penalty is not a sport but a method of punishment used in several sports. The second statement provides an example of how penalty is used in soccer (football) and clarifies that it is not a player or a team, but rather a violation of the rules that commits a penalty. Both statements provide different but complementary information about the use of penalty in sports."
+}

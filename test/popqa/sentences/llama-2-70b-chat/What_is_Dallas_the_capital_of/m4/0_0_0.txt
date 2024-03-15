@@ -1,0 +1,19 @@
+{
+  "target": "What is Dallas the capital of?",
+  "orig": "Dallas is not the capital of any state or country.",
+  "alt": "Dallas is not the capital of Texas.",
+  "prefix": "",
+  "triple": [
+    [
+      "Dallas",
+      "is not",
+      "the capital of any state or country."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is Dallas the capital of?\" are contradictory. \n\nStatement 1 claims that Dallas is not the capital of any state or country, while Statement 2 specifically states that Dallas is not the capital of Texas. However, Texas is a state in the United States, so if Dallas is not the capital of Texas, it cannot be the capital of any other state or country within the United States. Therefore, the two statements contradict each other."
+}

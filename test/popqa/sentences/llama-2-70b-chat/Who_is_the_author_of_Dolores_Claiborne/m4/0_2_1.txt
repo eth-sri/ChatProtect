@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Dolores Claiborne?",
+  "orig": "The book follows the story of Dolores Claiborne, a woman who is accused of murdering her employer, Vera Donovan, and the events that led up to the murder.",
+  "alt": "Dolores Claiborne is accused of murdering her employer, Vera Donovan.",
+  "prefix": " The author of Dolores Claiborne is Stephen King. Dolores Claiborne is a novel written by King and published in 1992.",
+  "triple": [
+    [
+      "Dolores Claiborne,",
+      "is accused",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Dolores Claiborne are not contradictory. The first statement identifies Stephen King as the author of the novel, while the second statement provides a brief summary of the plot, specifically mentioning the accusation of murder against the main character, Dolores Claiborne. These statements provide complementary information about the book and its author, without contradicting each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Jan van de Cappelle born?",
+  "orig": "The city in which Jan van de Cappelle was born is not specified.",
+  "alt": "I'm sorry, I cannot generate a sentence to fill the gap in the triple as the answer you provided already states that the city of Jan van de Cappelle's birth is not specified.",
+  "prefix": "",
+  "triple": [
+    [
+      "Jan van de Cappelle",
+      "was born is not specified.",
+      ""
+    ],
+    "compactie",
+    604
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement simply states that the text does not provide information about the city in which Jan van de Cappelle was born. The second statement acknowledges this and explains that it cannot generate a sentence to fill the gap in the triple as the answer is already provided in the first statement."
+}

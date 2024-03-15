@@ -1,0 +1,19 @@
+{
+  "target": "In what city was William Perry Hay born?",
+  "orig": "William Perry Hay was born in Geneva, New York.",
+  "alt": "William Perry Hay was born in Salem, Indiana.",
+  "prefix": "",
+  "triple": [
+    [
+      "William Perry Hay",
+      "was born",
+      "in Geneva, New York."
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the birthplace of William Perry Hay are contradictory as they provide two different cities, Geneva, New York and Salem, Indiana. Only one of these cities can be correct, and the other must be incorrect. Therefore, the statements cannot both be true at the same time."
+}

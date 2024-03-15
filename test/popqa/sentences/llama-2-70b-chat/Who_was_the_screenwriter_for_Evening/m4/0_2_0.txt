@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Evening?",
+  "orig": "Cunningham is known for his work on films such as \"The Hours\" and \"A Home at the End of the World.\"",
+  "alt": "Michael Cunningham is known for his lyrical and poignant writing style.",
+  "prefix": " The screenwriter for the 2007 film \"Evening\" was Michael Cunningham. He adapted the screenplay from his own novel of the same name.",
+  "triple": [
+    [
+      "Cunningham",
+      "is known",
+      "for his work on films such as \"The Hours\" and \"A"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for \"Evening\" are not contradictory. Statement 1 provides additional information about other films that Michael Cunningham has worked on, while statement 2 describes his writing style. Both statements are true and do not contradict each other."
+}

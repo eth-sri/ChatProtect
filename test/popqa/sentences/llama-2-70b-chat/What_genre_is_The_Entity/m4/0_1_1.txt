@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Entity?",
+  "orig": "It was released in 1982 and was directed by Sidney J. Furie.",
+  "alt": "It was directed by Sidney J. Furie.",
+  "prefix": " The Entity is a horror film, specifically a supernatural horror film.",
+  "triple": [
+    [
+      "It",
+      "was directed",
+      "by Sidney J. Furie."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While statement 2 only provides information about the director of the film, statement 1 confirms that The Entity is indeed a horror film, specifically a supernatural horror film. Therefore, both statements are consistent with the prompt and do not contradict each other."
+}

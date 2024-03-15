@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Squeeze?",
+  "orig": "The producer of Squeeze's self-titled debut album, released in 1979, was John Cale.",
+  "alt": "The producer of Squeeze's self-titled debut album was John Cale.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Squeeze's self-titled debut album,",
+      "was",
+      "John Cale."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Squeeze are not contradictory. Both statements provide the same information and state that John Cale was the producer of Squeeze's self-titled debut album. The only difference between the two statements is the use of a comma in the first statement, which is not necessary."
+}

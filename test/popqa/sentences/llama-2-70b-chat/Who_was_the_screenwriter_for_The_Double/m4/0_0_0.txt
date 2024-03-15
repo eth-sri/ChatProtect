@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Double?",
+  "orig": "The screenwriter for the 2013 film \"The Double\" was Michael Brandt.",
+  "alt": "The screenwriter for the 2013 film \"The Double\" was Richard Ayoade.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the 2013 film \"The",
+      "was",
+      "Michael Brandt."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for The Double? are contradictory. Statement 1 claims that Michael Brandt was the screenwriter for the film, while statement 2 claims that Richard Ayoade was the screenwriter. Since they are two different names, they cannot both be correct."
+}

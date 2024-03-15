@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Doc?",
+  "orig": "The line producer, who was responsible for overseeing the day-to-day production of the film, is not credited in the film.",
+  "alt": "The line producer, Frank Capra, was responsible for managing the day-to-day production of the film.",
+  "prefix": " The producer of the movie \"Doc\" is not explicitly stated. However, the film was produced by Universal Pictures, which is a major Hollywood film studio. The production company responsible for the film's production was likely Universal Pictures' in-house production company, Universal Pictures Productions. The executive producers of the film were likely the top executives at Universal Pictures, such as the studio's president, chairperson, or CEO.",
+  "triple": [
+    [
+      "The line producer,",
+      "was",
+      "responsible for overseeing the day-to-day production of the film,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they provide different information. The first statement mentions that the line producer is not credited in the film, while the second statement identifies the line producer as Frank Capra. However, neither statement directly addresses the question of who the producer of the film was. The text provides information about the production company and the likely executive producers, but does not mention a specific individual who held the title of producer."
+}

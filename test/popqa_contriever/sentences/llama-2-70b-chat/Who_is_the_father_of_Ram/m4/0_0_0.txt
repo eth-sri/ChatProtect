@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Ram?",
+  "orig": "According to the information provided, the father of Ram is Rama.",
+  "alt": "The father of Ram is King Dasaratha.",
+  "prefix": "",
+  "triple": [
+    [
+      "the father of Ram",
+      "is",
+      "Rama."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is correct, while statement 1 is incorrect. The father of Ram is King Dasaratha, as per Indian mythology. Therefore, the two statements are contradictory."
+}

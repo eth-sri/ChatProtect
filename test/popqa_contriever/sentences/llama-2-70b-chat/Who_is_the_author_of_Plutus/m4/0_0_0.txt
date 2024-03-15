@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Plutus?",
+  "orig": "The author of Plutus is Charles Lecocq.",
+  "alt": "The author of Plutus is Charles Lecocq.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Plutus",
+      "is",
+      "Charles Lecocq."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are redundant. Both statements provide the same answer to the prompt."
+}

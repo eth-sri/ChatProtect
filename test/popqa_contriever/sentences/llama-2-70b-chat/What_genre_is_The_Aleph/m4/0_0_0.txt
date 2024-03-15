@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Aleph?",
+  "orig": "The Aleph, the novel by Paulo Coelho, is an autobiographical account and falls under the genre of spirituality.",
+  "alt": "The Aleph, the novel by Paulo Coelho, is a work of spiritual fiction.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Aleph, the novel by Paulo Coelho,",
+      "is",
+      "an autobiographical account"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Aleph are contradictory. The first statement identifies the genre as spirituality, while the second statement identifies it as spiritual fiction. While both statements include the term \"spiritual,\" the addition of \"fiction\" in the second statement implies that the book is a work of imagination rather than a true account of Coelho's experiences. Therefore, the two statements cannot both be true at the same time."
+}

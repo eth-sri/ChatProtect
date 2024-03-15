@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Normal?",
+  "orig": "The Normal Theater is a cinema located in Normal, Illinois, and the text provides information about its history and operation.",
+  "alt": "The Normal Theater is a historic landmark.",
+  "prefix": " There is no mention of a director of Normal in the given text.",
+  "triple": [
+    [
+      "The Normal Theater",
+      "is",
+      "a cinema"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Normal? are not contradictory because the prompt does not ask for information about the director of Normal, and the text does not provide any information about the director. The statements provided are simply providing information about the Normal Theater's location, history, and status as a historic landmark."
+}

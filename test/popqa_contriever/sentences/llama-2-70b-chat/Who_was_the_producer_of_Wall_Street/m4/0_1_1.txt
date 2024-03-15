@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Wall Street?",
+  "orig": "The article mentions Michael Connor, who was the head of television for \"The Wall Street Journal\" and served as a consultant and production designer for the remake of \"The Wall Street Journal Report.\"",
+  "alt": "Michael Connor, head of television for \"The Wall Street Journal\", served as a consultant and production designer for the remake of \"The Wall Street Journal Report\".",
+  "prefix": " The producer of \"Wall Street\" was not specified in the given text.",
+  "triple": [
+    [
+      "the head of television for \"The Wall Street Journal\"",
+      "served",
+      "as a consultant and production designer for the remake of \"The Wall Street Journal Report.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Wall Street\" are not contradictory. Both statements mention Michael Connor's involvement with \"The Wall Street Journal\" and the \"Wall Street Journal Report,\" but neither statement specifies that he was the producer of the movie \"Wall Street.\" Therefore, there is no contradiction between the statements and the fact that the producer of \"Wall Street\" was not specified in the given text."
+}

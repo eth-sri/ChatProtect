@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Oxford?",
+  "orig": "Oxford is located in England, which is a country within the United Kingdom (UK).",
+  "alt": "In England.",
+  "prefix": "",
+  "triple": [
+    [
+      "in",
+      "is",
+      "a country within the United Kingdom"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides a more detailed answer by explaining that Oxford is located in England, which is a country within the United Kingdom. Statement 2 simply restates that Oxford is in England. Both statements are correct and consistent with each other."
+}

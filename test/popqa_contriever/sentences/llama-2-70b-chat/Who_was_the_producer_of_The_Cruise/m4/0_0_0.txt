@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Cruise?",
+  "orig": "The producer of the 1996 film \"The Cruise\" was Paula Wagner.",
+  "alt": "Paula Wagner.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 1996 film \"The Cruise\"",
+      "was",
+      "Paula Wagner."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides a complete answer to the prompt, stating that Paula Wagner was the producer of \"The Cruise\" in 1996. Statement 2 simply restates the name of the producer without providing any additional information."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Cube?",
+  "orig": "Cube is a science fiction psychological thriller film.",
+  "alt": "Cube is a horror movie.",
+  "prefix": "",
+  "triple": [
+    [
+      "Cube",
+      "is",
+      "a science fiction psychological thriller film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is Cube? are contradictory. \n\nStatement 1 describes Cube as a science fiction psychological thriller film, which suggests that the movie is focused on exploring scientific concepts and the psychological effects of being trapped in a dangerous situation. \n\nOn the other hand, Statement 2 describes Cube as a horror movie, which suggests that the movie is focused on creating fear and suspense through elements such as gore, jump scares, and supernatural elements. \n\nWhile there may be some overlap between the two genres, they are distinct enough that describing Cube as both a science fiction psychological thriller and a horror movie creates a contradiction."
+}

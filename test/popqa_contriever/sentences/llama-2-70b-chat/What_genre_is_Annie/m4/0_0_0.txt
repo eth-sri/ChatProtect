@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Annie?",
+  "orig": "Annie is a musical film.",
+  "alt": "Annie is a musical comedy film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Annie",
+      "is",
+      "a musical film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Annie are not contradictory. Both statements identify Annie as a musical film, with the second statement specifying that it is a musical comedy. The second statement simply provides additional information about the specific subgenre of musical that Annie falls under."
+}

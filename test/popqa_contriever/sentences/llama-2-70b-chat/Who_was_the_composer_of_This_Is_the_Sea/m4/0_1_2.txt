@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of This Is the Sea?",
+  "orig": "Mike Scott is the lead singer of the folk-rock band The Waterboys, and Brian Kennedy is a singer who collaborated with Scott on the film's music.",
+  "alt": "Brian Kennedy collaborated with Mike Scott on the film's soundtrack.",
+  "prefix": " The composers of the film's soundtrack were Mike Scott and Brian Kennedy.",
+  "triple": [
+    [
+      "a singer",
+      "collaborated",
+      "with Scott on the film's music."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the composers of the film's soundtrack are not contradictory. Both statements mention that Mike Scott and Brian Kennedy collaborated on the music for the film, with statement 1 providing additional information about their respective backgrounds. Therefore, the statements are complementary and provide a more complete picture of the composers of This Is the Sea."
+}

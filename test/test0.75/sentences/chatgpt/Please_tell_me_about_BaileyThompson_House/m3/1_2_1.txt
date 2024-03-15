@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "The house is an excellent example of Queen Anne-style architecture, characterized by its asymmetrical facade, decorative woodwork, and elaborate details.",
+  "alt": "The Bailey-Thompson House is an excellent example of Queen Anne-style architecture, characterized by its asymmetrical facade, decorative woodwork, and wrap-around porch.",
+  "prefix": " The Bailey-Thompson House is a historic home located in the town of Black Mountain, North Carolina. It was built in 1895 by James Bailey, a prominent local businessman, and later purchased by John Thompson, a successful attorney.",
+  "triple": [
+    [
+      "an excellent example of Queen Anne-style architecture,",
+      "characterized",
+      "by its asymmetrical facade, decorative woodwork, and elaborate details."
+    ],
+    "compactie",
+    521
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the Bailey-Thompson House are not contradictory. Both statements describe the house as an excellent example of Queen Anne-style architecture, characterized by its asymmetrical facade, decorative woodwork, and elaborate details. The only difference is that statement 2 adds the detail of a wrap-around porch, which is not mentioned in statement 1. However, this does not contradict the information provided in statement 1."
+}

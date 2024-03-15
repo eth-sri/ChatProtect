@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Hamilton?",
+  "orig": "It is often classified as a hip-hop musical, as it uses hip-hop as a primary storytelling tool and incorporates many elements of the genre, such as rap, DJing, and breakdancing.",
+  "alt": "It uses a diverse range of musical styles to tell the story of American founding father Alexander Hamilton.",
+  "prefix": " Hamilton is a musical that blends elements of hip hop, jazz, R&B, and Broadway show tunes.",
+  "triple": [
+    [
+      "it",
+      "uses",
+      "hip-hop as a primary storytelling tool"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Hamilton are not contradictory. Statement 1 focuses on the primary use of hip-hop elements in the musical, while Statement 2 acknowledges the incorporation of a diverse range of musical styles. Both statements are accurate and provide different perspectives on the genre of Hamilton."
+}

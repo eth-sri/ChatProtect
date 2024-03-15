@@ -1,0 +1,19 @@
+{
+  "target": "What sport does St. Louis Cardinals play?",
+  "orig": "They are a professional baseball team based in St. Louis, Missouri, and they compete in the National League (NL) Central division.",
+  "alt": "The St. Louis Cardinals are based in St. Louis, Missouri.",
+  "prefix": " The St. Louis Cardinals play Major League Baseball (MLB).",
+  "triple": [
+    [
+      "a professional baseball team",
+      "based",
+      "in St. Louis,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What sport does St. Louis Cardinals play? are not contradictory. Both statements provide additional information about the St. Louis Cardinals, with statement 1 specifying their professional status, league affiliation, and division, while statement 2 simply identifies their location. Together, they provide a more complete picture of the St. Louis Cardinals as a professional baseball team based in St. Louis, Missouri, playing in the National League Central division of Major League Baseball."
+}

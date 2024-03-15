@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Alexander?",
+  "orig": "The father of Alexander is Achaeus, who is the second son of King Seleucus I Nicator and his first wife Apama I.",
+  "alt": "The father of Alexander is Achaeus.",
+  "prefix": "",
+  "triple": [
+    [
+      "The father of Alexander",
+      "is",
+      "Achaeus,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Alexander are not contradictory. Statement 1 provides additional information about Achaeus, including his royal lineage as the second son of King Seleucus I Nicator and his first wife Apama I. Statement 2 simply identifies Achaeus as Alexander's father without providing any further details. Both statements are true and do not contradict each other."
+}

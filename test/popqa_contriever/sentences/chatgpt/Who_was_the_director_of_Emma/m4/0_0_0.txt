@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Emma?",
+  "orig": "The director of Emma is Nicholas Ray.",
+  "alt": "The director of Emma was Nicholas Ray.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of Emma",
+      "is",
+      "Nicholas Ray."
+    ],
+    "compactie",
+    577
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the director of Emma?\" are not contradictory. Statement 1 is in the present tense, indicating that Nicholas Ray is currently the director of Emma. Statement 2 is in the past tense, indicating that Nicholas Ray was the director of Emma at some point in the past. Both statements are true and do not contradict each other."
+}

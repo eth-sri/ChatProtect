@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Une fille et des fusils?",
+  "orig": "The film was also executively produced by Lionel Massol and co-executively produced by Pauline Seigland of \"Films Grand Huit\".",
+  "alt": "The film was produced by Lionel Massol.",
+  "prefix": " The producer of Une fille et des fusils was Casta under the banner of \"Allarosa production\".",
+  "triple": [
+    [
+      "The film",
+      "produced",
+      "by Pauline Seigland of \"Films Grand Huit\"."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Une fille et des fusils are not contradictory. The first statement mentions that the film was executively produced by Lionel Massol and co-executively produced by Pauline Seigland of \"Films Grand Huit\", while the second statement simply states that the film was produced by Lionel Massol. This means that Lionel Massol was involved in the production of the film, but the first statement provides additional information about his specific role as an executive producer, along with Pauline Seigland. Therefore, the statements are complementary rather than contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Redeployment?",
+  "orig": "Klay is a veteran of the US Marine Corps and served in Iraq.",
+  "alt": "Phil Klay, a veteran of the US Marine Corps, served in Iraq.",
+  "prefix": " The author of Redeployment is Phil Klay. It is a collection of short stories that won the 2014 National Book Award for Fiction.",
+  "triple": [
+    [
+      "a veteran of the US Marine Corps",
+      "served",
+      "in Iraq."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Redeployment are not contradictory. Both statements provide additional information about Phil Klay, the author of Redeployment, and his background as a veteran of the US Marine Corps who served in Iraq. The only difference between the two statements is the order of the information presented."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is In the Mouth of the Whale?",
+  "orig": "In the Mouth of the Whale is a science fiction/fantasy novel.",
+  "alt": "In the Mouth of the Whale is a science fiction novel.",
+  "prefix": "",
+  "triple": [
+    [
+      "In the Mouth of the Whale",
+      "is",
+      "a science fiction/fantasy novel."
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of In the Mouth of the Whale are not contradictory. Statement 1 includes both science fiction and fantasy as possible genres for the novel, while Statement 2 only includes science fiction. Therefore, Statement 2 is a subset of Statement 1. Both statements are accurate descriptions of the genre of the novel, but Statement 1 provides more detail."
+}

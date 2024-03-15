@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of San Marino?",
+  "orig": "The capital of San Marino is San Marino City.",
+  "alt": "The capital of San Marino is City of San Marino.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of San Marino",
+      "is",
+      "San Marino City."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of San Marino are not contradictory. Both statements provide the same answer to the prompt, with only a slight difference in wording. \"San Marino City\" and \"City of San Marino\" refer to the same place, which is the capital of San Marino. Therefore, both statements are correct and not contradictory."
+}

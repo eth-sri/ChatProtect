@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Bad?",
+  "orig": "Jones is a legendary music producer and composer who has worked with many famous artists throughout his career.",
+  "alt": "Jones is a renowned music producer and composer.",
+  "prefix": " The producer of the album \"Bad\" by Michael Jackson was Quincy Jones.",
+  "triple": [
+    [
+      "Jones",
+      "is",
+      "a legendary music producer and composer"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the producer of \"Bad\" are not contradictory. Both statements provide additional information about Quincy Jones, the producer of the album. They both emphasize his reputation as a highly respected and accomplished music producer and composer."
+}

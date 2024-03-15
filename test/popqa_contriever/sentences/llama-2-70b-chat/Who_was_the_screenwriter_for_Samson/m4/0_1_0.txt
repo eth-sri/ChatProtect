@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Samson?",
+  "orig": "He wrote the screenplays for several films, including \"The Jazz Singer,\" \"Trouble in Paradise,\" \"The Shop Around the Corner,\" and \"Heaven Can Wait.\"",
+  "alt": "He wrote the screenplay for \"The Jazz Singer.\"",
+  "prefix": " Samson Raphaelson was a screenwriter, not a film director.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      "the screenplays for several films, including \"The Jazz Singer,\" \"Trouble in Paradise,\" \"The"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Samson? are not contradictory. Statement 1 provides a list of several films for which Samson Raphaelson wrote the screenplays, including \"The Jazz Singer,\" while Statement 2 specifically mentions that he wrote the screenplay for \"The Jazz Singer.\" Both statements are consistent with the fact that Samson Raphaelson was a screenwriter."
+}

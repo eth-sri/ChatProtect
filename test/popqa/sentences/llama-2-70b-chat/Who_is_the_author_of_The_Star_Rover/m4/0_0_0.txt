@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Star Rover?",
+  "orig": "The author of The Star Rover is Jack London.",
+  "alt": "The author of The Star Rover is Robert Bloch.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Star Rover",
+      "is",
+      "Jack London."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Star Rover? are contradictory. Statement 1 correctly identifies Jack London as the author of The Star Rover, while statement 2 incorrectly identifies Robert Bloch as the author. Therefore, the two statements cannot both be true at the same time."
+}

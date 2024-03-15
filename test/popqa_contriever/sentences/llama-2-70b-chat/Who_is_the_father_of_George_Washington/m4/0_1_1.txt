@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of George Washington?",
+  "orig": "He was a planter and slaveholder in colonial Virginia, and he married Mary Ball Washington, who was the mother of George Washington.",
+  "alt": "Mary Ball Washington was George Washington's mother.",
+  "prefix": " The father of George Washington was Augustine Washington.",
+  "triple": [
+    [
+      "Mary Ball Washington,",
+      "was",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. The first statement identifies Augustine Washington as the father of George Washington and provides additional information about his occupation and marriage to Mary Ball Washington. The second statement simply confirms that Mary Ball Washington was indeed George Washington's mother. Together, the two statements provide a complete answer to the prompt without any conflicting information."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for By the Sea?",
+  "orig": "She not only wrote the screenplay but also directed and produced the film, and starred in it alongside her husband Brad Pitt.",
+  "alt": "She produced the film in collaboration with her husband, Brad Pitt.",
+  "prefix": " The screenwriter for By the Sea was Angelina Jolie.",
+  "triple": [
+    [
+      "She",
+      "produced",
+      "the film,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for By the Sea are not contradictory. Both statements acknowledge that Angelina Jolie was the screenwriter for the film, but statement 1 provides additional information about Jolie's involvement in the film as its director, producer, and co-star with Brad Pitt. Statement 2 simply highlights that Jolie produced the film in collaboration with Pitt."
+}

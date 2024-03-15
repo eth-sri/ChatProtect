@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Chicago?",
+  "orig": "Chicago is a musical comedy-drama film released in 2002, and it was directed by Rob Marshall, who is known for his work on films such as Annie, Into the Woods, and Mary Poppins Returns.",
+  "alt": "Chicago is a musical comedy film.",
+  "prefix": " The director of the movie Chicago was Rob Marshall.",
+  "triple": [
+    [
+      "Chicago",
+      "is",
+      "a musical comedy-drama film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Chicago? are not contradictory. Statement 1 provides additional information about the director, Rob Marshall, and his other notable works. Statement 2 provides a genre description of the film, which does not contradict the fact that Rob Marshall was the director."
+}

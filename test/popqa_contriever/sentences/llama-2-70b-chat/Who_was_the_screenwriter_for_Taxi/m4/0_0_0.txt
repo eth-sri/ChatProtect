@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Taxi?",
+  "orig": "Paul Schrader wrote the screenplay for the film Taxi Driver.",
+  "alt": "Paul Schrader wrote the screenplay for Taxi Driver.",
+  "prefix": "",
+  "triple": [
+    [
+      "Paul Schrader",
+      "wrote",
+      "the screenplay for the film Taxi Driver."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Taxi are not contradictory. They both convey the same information that Paul Schrader wrote the screenplay for the film. The only difference is in the wording of the statements."
+}

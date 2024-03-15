@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Test?",
+  "orig": "The Test is the 43rd book in the series and is narrated by Tobias, one of the main characters.",
+  "alt": "The 43rd book in the series is narrated by Tobias.",
+  "prefix": " The Test, written by K.A. Applegate and ghostwritten by Ellen Geroux, is a young adult science fiction novel. It is part of the Animorphs series, which is a popular series of science fiction books for young readers that combines elements of science fiction, adventure, and fantasy. The series follows a group of teenagers who have the ability to morph into various animals and fight against an alien invasion.",
+  "triple": [
+    [
+      "the 43rd book in the series",
+      "is narrated",
+      "by Tobias, one of the main characters."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Test are not contradictory. Both statements provide additional information about the book, with statement 1 giving more detail about the book's place in the series and its narrator, while statement 2 simply states the same information in a more concise manner."
+}

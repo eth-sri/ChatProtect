@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Hero?",
+  "orig": "The producer of the 2002 film \"Hero\" was Zhang Yimou.",
+  "alt": "The producer of Hero was Zhang Yimou.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the",
+      "was",
+      "Zhang Yimou."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Hero? are not contradictory. Both statements convey the same information that Zhang Yimou was the producer of the film \"Hero\". The only difference is the inclusion of the year in the first statement, which is not necessary to answer the prompt."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Szczecin Scientific Society?",
+  "orig": "Szczecin Scientific Society (Polskie Towarzystwo Naukowe) is located in Poland.",
+  "alt": "Szczecin Scientific Society is located in Poland.",
+  "prefix": "",
+  "triple": [
+    [
+      "Szczecin Scientific Society",
+      "is located",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory as they both provide the same answer to the prompt \"In what country is Szczecin Scientific Society?\" and use the same language to do so. They simply differ in their level of detail, with statement 1 including the Polish translation of the society's name."
+}

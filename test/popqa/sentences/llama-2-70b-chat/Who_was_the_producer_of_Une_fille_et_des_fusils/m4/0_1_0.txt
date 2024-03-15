@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Une fille et des fusils?",
+  "orig": "However, the film was produced by the French film production company, Les Productions de la Gu\u00e9ville, which was founded by the film's director, Jean-Luc Godard, and his colleagues.",
+  "alt": "The film was produced by Jean-Luc Godard.",
+  "prefix": " The producer of the film \"Une fille et des fusils\" is not explicitly stated.",
+  "triple": [
+    [
+      "the film",
+      "was produced",
+      "by the French film production company,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Une fille et des fusils are not contradictory. Statement 1 provides additional information about the production company involved in the film, while Statement 2 simply identifies the individual producer as Jean-Luc Godard. Both statements are consistent with the fact that the film was produced by Godard and his colleagues at Les Productions de la Gu\u00e9ville."
+}

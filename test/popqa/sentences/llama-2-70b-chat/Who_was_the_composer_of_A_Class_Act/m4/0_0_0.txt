@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of A Class Act?",
+  "orig": "A Class Act is a musical with music by Andrew Lloyd Webber.",
+  "alt": "A Class Act is a musical composed by Ed Kleban.",
+  "prefix": "",
+  "triple": [
+    [
+      "A Class Act",
+      "is",
+      "a musical with music by Andrew Lloyd Webber."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of A Class Act are contradictory. Statement 1 claims that the music for the musical was composed by Andrew Lloyd Webber, while statement 2 claims that it was composed by Ed Kleban. Since the two statements provide different information about the composer of A Class Act, they cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Action?",
+  "orig": "The director of Action is a nonsensical concept, as Action is not a movie or a film that has a director.",
+  "alt": "Action has no director.",
+  "prefix": " I'm not able to answer that question as it doesn't make sense.",
+  "triple": [
+    [
+      "Action",
+      "has",
+      "a director."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements explain that the question about the director of Action is nonsensical because Action is not a movie or a film that has a director. The first statement elaborates on why the question is nonsensical, while the second statement provides a straightforward answer to the question."
+}

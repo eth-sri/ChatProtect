@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Evening?",
+  "orig": "Based on the information provided, the screenwriter for the movie \"Evening\" was Michael Cunningham.",
+  "alt": "The screenwriter for the movie \"Evening\" was Michael Cunningham.",
+  "prefix": "",
+  "triple": [
+    [
+      "the screenwriter for the movie \"Evening\"",
+      "was",
+      "Michael Cunningham."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Evening\" are not contradictory. Both statements identify Michael Cunningham as the screenwriter for the movie. The first statement provides additional context about the collaboration between Cunningham and Susan Minot, and suggests that Minot was not entirely satisfied with Cunningham's contributions to the script. However, both statements ultimately agree on the fact that Cunningham was the screenwriter for \"Evening\"."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Star Rover?",
+  "orig": "The novel is a story of a man who is sentenced to life imprisonment on a prison ship, and through a series of events, he becomes the captain of a ship and goes on a voyage to the stars.",
+  "alt": "He becomes a prisoner on a ship.",
+  "prefix": " The author of The Star Rover is Jack London. The Star Rover, also known as The Jacket, is a novel written by Jack London, published in 1915.",
+  "triple": [
+    [
+      "he",
+      "becomes",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Star Rover are not contradictory. The first statement provides the name of the author and the title of the novel, while the second statement provides a brief summary of the plot, specifically mentioning the protagonist's imprisonment. Both statements are true and do not contradict each other."
+}

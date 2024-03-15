@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Space Battleship Yamato?",
+  "orig": "Space Battleship Yamato is a science fiction anime series that falls under the space opera subgenre.",
+  "alt": "Space Battleship Yamato falls under the mecha genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "a science fiction anime series",
+      "falls",
+      "under the space opera subgenre."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the genre of Space Battleship Yamato are contradictory. \n\nStatement 1 identifies the series as a space opera, which typically focuses on epic space adventures and political conflicts. On the other hand, statement 2 categorizes it as a mecha genre, which typically features giant robots or machines controlled by humans. These two genres have distinct characteristics and themes, making it impossible for Space Battleship Yamato to fall under both simultaneously."
+}

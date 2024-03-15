@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Room?",
+  "orig": "Wiseau is a mysterious figure, and much of his personal life and background is not well known.",
+  "alt": "Wiseau is a mysterious figure, with many questions surrounding his background and personal life.",
+  "prefix": " The producer of The Room was Tommy Wiseau. He was also the writer, director, and star of the film.",
+  "triple": [
+    [
+      "Wiseau",
+      "is",
+      "a mysterious figure,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements acknowledge that Tommy Wiseau is a mysterious figure with limited information available about his personal life and background. The first statement simply emphasizes that Wiseau had multiple roles in the production of The Room, while the second statement focuses more broadly on the mystery surrounding his life."
+}

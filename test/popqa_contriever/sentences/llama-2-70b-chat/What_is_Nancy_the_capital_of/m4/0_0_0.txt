@@ -1,0 +1,19 @@
+{
+  "target": "What is Nancy the capital of?",
+  "orig": "Nancy is the capital of the north-eastern French department of Meurthe-et-Moselle and formerly the capital of the Duchy of Lorraine, and then the French province of the same name.",
+  "alt": "Nancy is the capital of the French department of Meurthe-et-Moselle.",
+  "prefix": "",
+  "triple": [
+    [
+      "Nancy",
+      "is",
+      "the capital of the north-eastern French department of Meurthe-et-Moselle"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Nancy the capital of?\" are not contradictory. Statement 1 provides additional historical context by mentioning that Nancy was also the capital of the Duchy of Lorraine and the French province of the same name. Statement 2 simply states that Nancy is currently the capital of the French department of Meurthe-et-Moselle. Both statements are true and do not contradict each other."
+}

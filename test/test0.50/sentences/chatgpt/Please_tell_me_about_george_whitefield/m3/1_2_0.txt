@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about george whitefield",
+  "orig": "Whitefield was born in Gloucester, England, and was educated at Oxford University.",
+  "alt": "Whitefield was educated at Pembroke College, Oxford.",
+  "prefix": " George Whitefield (1714-1770) was a prominent English Anglican cleric and evangelist who played a key role in the Great Awakening, a religious revival that swept through the British colonies in North America in the 1730s and 1740s. Whitefield was known for his powerful preaching style and his ability to draw large crowds to his sermons, which he delivered in open fields and public squares rather than in traditional church buildings.",
+  "triple": [
+    [
+      "Whitefield",
+      "was born was educated",
+      "at Oxford University."
+    ],
+    "compactie",
+    540
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about George Whitefield are not contradictory, but rather provide additional information about his education. Both statements agree that Whitefield was educated at Oxford University, with statement 2 specifying that he attended Pembroke College within the university."
+}

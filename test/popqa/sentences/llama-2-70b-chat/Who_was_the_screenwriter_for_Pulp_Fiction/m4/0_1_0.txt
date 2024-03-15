@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Pulp Fiction?",
+  "orig": "He not only wrote the screenplay but also directed the film and acted in it as well.",
+  "alt": "He not only wrote the screenplay, but also directed the film.",
+  "prefix": " The screenwriter for Pulp Fiction was Quentin Tarantino.",
+  "triple": [
+    [
+      "He",
+      "not only",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Pulp Fiction are not contradictory. Both statements acknowledge that Quentin Tarantino wrote the screenplay and directed the film. The only difference is that statement 1 adds that he also acted in the film, while statement 2 does not mention his acting role. Therefore, both statements are true and do not contradict each other."
+}

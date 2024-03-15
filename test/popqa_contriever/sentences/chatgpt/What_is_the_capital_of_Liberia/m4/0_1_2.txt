@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Liberia?",
+  "orig": "However, there is also a city called Liberia in Costa Rica, which is the capital of Guanacaste province.",
+  "alt": "Sorry, but the initial prompt is incorrect. The prompt \"What is the capital of Liberia?\" should have been \"What is the capital of Guanacaste province in Costa Rica?\" as Liberia is not the capital of Liberia, but rather a city in Costa Rica. \n\nHere is the start of an answer to the corrected prompt \"What is the capital of Guanacaste province in Costa Rica?\":\nThe capital of Guanacaste province in Costa Rica is Liberia.",
+  "prefix": " The capital of Liberia is Monrovia.",
+  "triple": [
+    [
+      "Liberia",
+      "is",
+      "the capital of Guanacaste province."
+    ],
+    "compactie",
+    697
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of Liberia?\" are contradictory. The first statement states that Monrovia is the capital of Liberia, while the second statement corrects the prompt and explains that Liberia is not the capital of Liberia, but rather a city in Costa Rica."
+}

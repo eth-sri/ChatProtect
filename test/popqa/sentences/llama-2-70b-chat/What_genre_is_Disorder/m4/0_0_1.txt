@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Disorder?",
+  "orig": "Disorder is a 2015 French-Belgian thriller film directed by Alice Winocour.",
+  "alt": "The film was directed by Alice Winocour.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 2015 French-Belgian thriller film",
+      "directed",
+      "by Alice Winocour."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Disorder do not provide any information that is contradictory. While Statement 1 provides more information about the film, including its origin and genre, Statement 2 simply reiterates the director's name. Both statements are consistent in identifying Disorder as a film directed by Alice Winocour."
+}

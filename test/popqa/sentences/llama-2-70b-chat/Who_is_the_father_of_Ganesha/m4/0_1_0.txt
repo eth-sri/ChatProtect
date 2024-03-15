@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Ganesha?",
+  "orig": "According to Hindu mythology, Ganesha is the son of Shiva and his consort Parvati.",
+  "alt": "Ganesha is the elephant-headed Hindu god of beginnings and obstacles.",
+  "prefix": " The father of Ganesha is Shiva.",
+  "triple": [
+    [
+      "Ganesha",
+      "is",
+      "the son of Shiva and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Ganesha are not contradictory. The first statement establishes that Shiva is the father of Ganesha, while the second statement provides additional information about Ganesha's identity as an elephant-headed Hindu god associated with beginnings and obstacles. Both statements are consistent with each other and do not contradict each other."
+}

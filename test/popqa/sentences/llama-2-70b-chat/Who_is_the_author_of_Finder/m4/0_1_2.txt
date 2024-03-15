@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Finder?",
+  "orig": "Finder is a software program that is part of the macOS operating system, and it was developed by Apple Inc.",
+  "alt": "It was developed by Toru Miyazaki.",
+  "prefix": " The author of Finder is not explicitly stated.",
+  "triple": [
+    [
+      "it",
+      "was developed",
+      "by Apple Inc."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Finder are contradictory. The first statement suggests that the author of Finder is not explicitly stated, while the second statement claims that it was developed by Toru Miyazaki. These two statements cannot both be true at the same time. Therefore, it is unclear who the actual author of Finder is."
+}

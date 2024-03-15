@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Wave?",
+  "orig": "Eno was a well-known producer and musician who had worked with a number of artists, including David Bowie and Talking Heads, and Lanois was a producer and musician who had previously worked with Eno on several projects.",
+  "alt": "Brian Eno had worked with David Bowie on several occasions before producing Wave.",
+  "prefix": " Wave was produced by Brian Eno and Daniel Lanois.",
+  "triple": [
+    [
+      "a well-known producer and musician",
+      "had worked",
+      "with a number of artists, including David Bowie and Talking Heads,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Wave? are not contradictory. Statement 1 provides additional information about the background and experience of both producers, while Statement 2 highlights a specific collaboration between Eno and Bowie prior to producing Wave. Both statements are consistent with the fact that Brian Eno and Daniel Lanois were the producers of Wave."
+}

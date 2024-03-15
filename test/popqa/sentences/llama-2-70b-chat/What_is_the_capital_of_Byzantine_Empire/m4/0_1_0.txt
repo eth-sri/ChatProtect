@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Byzantine Empire?",
+  "orig": "It was founded by the Roman Emperor Constantine the Great in 330 AD and was the capital of the empire until its fall in 1453 AD.",
+  "alt": "It was founded by the Roman Emperor Constantine in 330 AD.",
+  "prefix": " The capital of the Byzantine Empire was Constantinople (modern-day Istanbul, Turkey).",
+  "triple": [
+    [
+      "It",
+      "was founded",
+      "by the Roman Emperor Constantine the Great in 330 AD"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of the Byzantine Empire are not contradictory. Both statements provide information about the founding of Constantinople by the Roman Emperor Constantine the Great in 330 AD. The first statement also adds that Constantinople remained the capital of the empire until its fall in 1453 AD, while the second statement simply reiterates the founding date. Therefore, the statements are complementary and not contradictory."
+}

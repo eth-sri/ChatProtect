@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Damian Wayne?",
+  "orig": "Damian is the son of Bruce and Talia al Ghul, the daughter of Ra's al Ghul.",
+  "alt": "Damian is the son of Bruce Wayne and Talia al Ghul.",
+  "prefix": " The father of Damian Wayne is Bruce Wayne, also known as Batman.",
+  "triple": [
+    [
+      "Damian",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Damian Wayne are not contradictory. Both statements identify Bruce Wayne as Damian's father and Talia al Ghul as his mother. The only difference is that statement 1 provides additional information about Talia's parentage, while statement 2 simply identifies her by name. Therefore, both statements are consistent with each other and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Carrie?",
+  "orig": "The composer of Carrie the Musical is Michael Gore, with lyrics by Dean Pitchford.",
+  "alt": "The composer of Carrie the Musical is Michael Gore.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of Carrie the Musical",
+      "is",
+      "Michael Gore,"
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of Carrie are not contradictory. Statement 1 provides additional information about the musical, specifically that the lyrics were written by Dean Pitchford. Statement 2 simply states that Michael Gore was the composer, without mentioning any other collaborators. Both statements are true and do not contradict each other."
+}

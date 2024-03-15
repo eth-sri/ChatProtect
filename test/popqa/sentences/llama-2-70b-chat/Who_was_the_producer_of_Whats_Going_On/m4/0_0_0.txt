@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of What's Going On?",
+  "orig": "The producer of Marvin Gaye's album \"What's Going On\" was Marvin Gaye himself.",
+  "alt": "The producer of Marvin Gaye's \"What's Going On\" was Berry Gordy.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Marvin Gaye's",
+      "was",
+      "Marvin Gaye himself."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"What's Going On\" are contradictory. Statement 1 claims that Marvin Gaye produced the album himself, while statement 2 claims that Berry Gordy was the producer. Only one of these statements can be true, as they present two different individuals as the producer of the same album."
+}

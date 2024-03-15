@@ -1,0 +1,19 @@
+{
+  "target": "What is Muskogee the capital of?",
+  "orig": "It is a city located in Oklahoma, United States.",
+  "alt": "It is a city in the state of Oklahoma, United States.",
+  "prefix": " Muskogee is not the capital of any state or country.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about Muskogee, stating that it is a city located in the state of Oklahoma, United States. The first statement simply clarifies that Muskogee is not a capital city, while the second statement explicitly states that it is a city in the state of Oklahoma."
+}

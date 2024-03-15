@@ -1,0 +1,19 @@
+{
+  "target": "In what country is US Open?",
+  "orig": "It is hosted by the USTA Billie Jean King National Tennis Center in Flushing Meadows, Queens, New York.",
+  "alt": "It is hosted at the USTA Billie Jean King National Tennis Center in Flushing Meadows, Queens.",
+  "prefix": " The US Open is held in the United States, specifically in New York City.",
+  "triple": [
+    [
+      "It",
+      "is hosted",
+      "by the USTA Billie Jean King National Tennis Center in Flushing Meadows,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the location of the US Open within the United States, specifically in New York City. The first statement specifies that the tournament is hosted by the USTA Billie Jean King National Tennis Center in Flushing Meadows, Queens, New York, while the second statement simply reiterates that it is hosted at the same location."
+}

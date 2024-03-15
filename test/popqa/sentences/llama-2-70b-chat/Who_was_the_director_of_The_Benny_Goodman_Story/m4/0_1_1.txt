@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Benny Goodman Story?",
+  "orig": "The film was released in 1956 and starred Steve Allen as Benny Goodman and Donna Reed as Alice Hammond.",
+  "alt": "The film starred Steve Allen as Benny Goodman.",
+  "prefix": " The director of The Benny Goodman Story was Valentine Davies.",
+  "triple": [
+    [
+      "The film",
+      "starred",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. While Statement 1 provides additional information about the release year and cast of the film, it does not contradict the initial statement about the director. Statement 2 simply reiterates that Steve Allen played the role of Benny Goodman in the film."
+}

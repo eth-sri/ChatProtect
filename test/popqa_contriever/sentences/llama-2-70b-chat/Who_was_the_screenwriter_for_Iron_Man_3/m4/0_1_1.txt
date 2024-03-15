@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Iron Man 3?",
+  "orig": "He also directed the film, which was released in 2013.",
+  "alt": "The film was released on May 3, 2013.",
+  "prefix": " The screenwriter for Iron Man 3 was Shane Black.",
+  "triple": [
+    [
+      "the film,",
+      "was released",
+      "in 2013."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for Iron Man 3 are not contradictory. The first statement identifies Shane Black as the screenwriter and director of the film, while the second statement provides the release date of the film. Both statements provide additional information about the film and do not contradict each other."
+}

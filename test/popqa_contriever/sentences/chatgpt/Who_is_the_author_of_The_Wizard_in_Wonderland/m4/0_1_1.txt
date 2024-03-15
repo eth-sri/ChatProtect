@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wizard in Wonderland?",
+  "orig": "It seems to be a combination of two different books by different authors - \"Alice's Adventures in Wonderland\" by Lewis Carroll and \"The Wizard of Oz\" by L. Frank Baum.",
+  "alt": "It seems that there is a confusion here as there is no book titled \"The Wizard in Wonderland\".",
+  "prefix": " There is no book titled \"The Wizard in Wonderland\".",
+  "triple": [
+    [
+      "It",
+      "to be",
+      "a combination of two different books by different authors"
+    ],
+    "compactie",
+    588
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Wizard in Wonderland? are not contradictory. Both statements acknowledge that there is no book titled \"The Wizard in Wonderland\" and suggest that it may be a combination of two different books by different authors. The first statement provides the specific titles of the two books, while the second statement simply reiterates that there is confusion about the nonexistent title. Therefore, the statements are not contradictory but rather complementary in their explanation of the nonexistent book."
+}

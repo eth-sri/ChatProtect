@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Le Fils d'Amr est mort?",
+  "orig": "The play was first performed at the Com\u00e9die-Fran\u00e7aise in 1950.",
+  "alt": "The play was first performed in Paris in 1911.",
+  "prefix": " Le Fils d'Amr est mort is a French play written by Jean-Jacques Bernard.",
+  "triple": [
+    [
+      "The play",
+      "was first performed",
+      "at the Com\u00e9die-Fran\u00e7aise in 1950."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for Le Fils d'Amr est mort are not relevant to the given text. The text only mentions the author of the play, Jean-Jacques Bernard, and does not mention anything about a screenwriter. Therefore, the statements about the first performance of the play are not contradictory to the prompt, but they do not provide any information about the screenwriter."
+}

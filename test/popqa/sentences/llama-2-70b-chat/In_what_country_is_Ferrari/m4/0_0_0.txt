@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ferrari?",
+  "orig": "Ferrari is an Italian luxury sports car manufacturer.",
+  "alt": "Ferrari is in Italy.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ferrari",
+      "is",
+      "an Italian luxury sports car manufacturer."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about \"In what country is Ferrari?\" are not contradictory. Both statements confirm that Ferrari is located in Italy, which is a well-known fact. The first statement provides additional information about Ferrari being an Italian luxury sports car manufacturer, which further emphasizes its connection to Italy. Therefore, the statements are consistent and do not contradict each other."
+}

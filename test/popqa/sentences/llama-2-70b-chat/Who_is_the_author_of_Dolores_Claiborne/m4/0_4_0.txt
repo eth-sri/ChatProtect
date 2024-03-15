@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Dolores Claiborne?",
+  "orig": "It was adapted into a film in 1995, starring Kathy Bates and Jennifer Jason Leigh.",
+  "alt": "It was adapted into a film directed by Taylor Hackford and starring Jennifer Lopez in 1995.",
+  "prefix": " The author of Dolores Claiborne is Stephen King. Dolores Claiborne is a novel written by King and published in 1992. The book follows the story of Dolores Claiborne, a woman who is accused of murdering her employer, Vera Donovan, and the events that led up to the murder. The novel explores themes of abuse, trauma, and the complex relationships between women.",
+  "triple": [
+    [
+      "It",
+      "was adapted",
+      "into a film in 1995,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Dolores Claiborne are contradictory. Statement 1 says that the novel was adapted into a film starring Kathy Bates and Jennifer Jason Leigh, while Statement 2 says that it was adapted into a film directed by Taylor Hackford and starring Jennifer Lopez. These are two different films with different directors and casts, so they cannot both be true."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Doc?",
+  "orig": "The production company responsible for the film's production was likely Universal Pictures' in-house production company, Universal Pictures Productions.",
+  "alt": "The production company responsible for \"Doc\" is Universal Pictures.",
+  "prefix": " The producer of the movie \"Doc\" is not explicitly stated. However, the film was produced by Universal Pictures, which is a major Hollywood film studio.",
+  "triple": [
+    [
+      "The production company",
+      "responsible",
+      "for the film's production"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Doc\" are not contradictory. Statement 1 provides a possible explanation for the production company responsible for the film's production, while Statement 2 confirms that Universal Pictures was indeed the production company responsible for \"Doc\". Both statements are consistent with the fact that Universal Pictures produced the film."
+}

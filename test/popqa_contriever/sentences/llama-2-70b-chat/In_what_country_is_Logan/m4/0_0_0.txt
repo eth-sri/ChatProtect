@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Logan?",
+  "orig": "Based on the information provided, Logan Central is a suburb of Logan City, Queensland, Australia.",
+  "alt": "Logan Central is in Australia.",
+  "prefix": "",
+  "triple": [
+    [
+      "Logan Central",
+      "is",
+      "a suburb of Logan City, Queensland, Australia."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements confirm that Logan Central is located in Australia, which answers the prompt \"In what country is Logan?\". The first statement provides additional information that Logan Central is a suburb of Logan City, which is located in the state of Queensland in Australia."
+}

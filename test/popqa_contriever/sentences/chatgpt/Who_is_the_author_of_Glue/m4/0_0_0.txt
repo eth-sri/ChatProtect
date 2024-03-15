@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glue?",
+  "orig": "The author of Glue is Irvine Welsh.",
+  "alt": "The author of Glue is Irvine Welsh, a Scottish writer.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Glue",
+      "is",
+      "Irvine Welsh."
+    ],
+    "compactie",
+    601
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Glue are not contradictory. Statement 2 simply provides additional information about Irvine Welsh's nationality, while both statements agree that he is the author of the novel Glue."
+}

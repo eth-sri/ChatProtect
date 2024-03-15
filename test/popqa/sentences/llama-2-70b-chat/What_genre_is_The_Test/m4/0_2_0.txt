@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Test?",
+  "orig": "Therefore, the genre of the film can be classified as science fiction, specifically focusing on the ethical implications of advanced technology.",
+  "alt": "The genre of the film can be classified as science fiction.",
+  "prefix": " The Test is a 2020 American drama film directed by Pablo Larra\u00edn. It explores themes of identity, power, and the morality of artificial intelligence.",
+  "triple": [
+    [
+      "the genre of the film",
+      "can be classified",
+      "as science fiction,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Test are not contradictory. Statement 1 provides a more specific classification of the film within the science fiction genre, while Statement 2 simply identifies the overall genre of the film. Both statements agree that The Test belongs to the science fiction genre."
+}

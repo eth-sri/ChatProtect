@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about john holt (author)",
+  "orig": "After the war, he attended Yale University and later became a teacher in the public school system.",
+  "alt": "After the war, Holt attended Yale University and graduated with a degree in English literature.",
+  "prefix": " John Holt (1923-1985) was an American educator and author who is best known for his advocacy of homeschooling and unschooling. He believed that children learn best when they are free to pursue their own interests and passions, and that traditional schooling often stifles creativity and curiosity. Holt was born in New York City and served in the Navy during World War II.",
+  "triple": [
+    [
+      "Yale University",
+      "became",
+      "a teacher in the public school system."
+    ],
+    "compactie",
+    530
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about John Holt are contradictory. Statement 1 suggests that Holt became a teacher in the public school system after attending Yale University, while Statement 2 suggests that he graduated with a degree in English literature from Yale University. These two statements cannot both be true at the same time."
+}

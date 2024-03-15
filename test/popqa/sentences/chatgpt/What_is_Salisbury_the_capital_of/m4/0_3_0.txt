@@ -1,0 +1,19 @@
+{
+  "target": "What is Salisbury the capital of?",
+  "orig": "The capital of Maryland is Annapolis.",
+  "alt": "The capital of Maryland is Annapolis.",
+  "prefix": " This question is ambiguous and can have multiple answers depending on the context. Here are some possibilities:\n\n- Salisbury is the former name of Harare, the capital city of Zimbabwe. - Salisbury is the county seat of Wicomico County, Maryland in the United States, but it is not the capital of Maryland.",
+  "triple": [
+    [
+      "The capital of Maryland",
+      "is",
+      "Annapolis."
+    ],
+    "compactie",
+    533
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The text states that Salisbury is not the capital of Maryland, while both statements claim that the capital of Maryland is Annapolis. Therefore, the text and the statements cannot both be true at the same time."
+}

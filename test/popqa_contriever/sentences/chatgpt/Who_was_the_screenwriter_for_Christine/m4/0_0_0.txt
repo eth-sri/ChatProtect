@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Christine?",
+  "orig": "The screenwriter for \"Life for Christine\" is not mentioned in the given text.",
+  "alt": "The screenwriter for \"Life for Christine\" is not mentioned in the given text.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for \"Life for Christine\"",
+      "is not mentioned",
+      "in the given text."
+    ],
+    "compactie",
+    632
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as they both claim that the screenwriter for \"Life for Christine\" is not mentioned in the given text, but the prompt clearly states that the text is supposed to answer the question of who the screenwriter was. Therefore, one of the statements must be incorrect."
+}

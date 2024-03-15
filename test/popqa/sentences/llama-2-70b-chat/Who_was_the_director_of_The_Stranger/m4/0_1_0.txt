@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Stranger?",
+  "orig": "Welles also starred in the film as the main character, Charles Rankin.",
+  "alt": "Welles also starred in the film as the protagonist, Wilson.",
+  "prefix": " The director of the 1948 film noir \"The Stranger\" was Orson Welles.",
+  "triple": [
+    [
+      "Welles",
+      "also starred",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The Stranger are not contradictory, but statement 2 is incorrect. Orson Welles did not star in the film as the protagonist Wilson, but rather as the main character Charles Rankin. Therefore, statement 1 is accurate while statement 2 is not."
+}

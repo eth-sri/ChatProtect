@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Salvation?",
+  "orig": "However, the passage mentions that Charles Caldwell Ryrie wrote several books, including \"So Great Salvation\" and \"The Ryrie Study Bible,\" which suggests that he may be the author of \"Salvation\" as well.",
+  "alt": "Charles Caldwell Ryrie wrote several books, including \"So Great Salvation\" and \"The Ryrie Study Bible.\"",
+  "prefix": " The author of \"Salvation\" is not explicitly stated in the passage.",
+  "triple": [
+    [
+      "Charles Caldwell Ryrie",
+      "wrote",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Salvation? are not contradictory. Statement 1 suggests that Charles Caldwell Ryrie may be the author of \"Salvation\" based on the fact that he wrote other books related to salvation. Statement 2 simply confirms that Charles Caldwell Ryrie is a published author who has written books on salvation. Both statements provide information about the authorship of books related to salvation, but neither statement definitively states that Charles Caldwell Ryrie is the author of \"Salvation.\""
+}

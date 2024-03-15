@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Report?",
+  "orig": "Burns is a frequent collaborator of director Steven Soderbergh, and the two have worked together on several projects, including The Limey, Erin Brockovich, and Contagion.",
+  "alt": "The two have worked together on several projects, including \"The Bourne Ultimatum\" and \"Contagion.\"",
+  "prefix": " The screenwriter for The Report is Scott Z. Burns.",
+  "triple": [
+    [
+      "the two",
+      "have worked",
+      "together on several projects,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for The Report are not contradictory. Both statements mention that Scott Z. Burns has worked with director Steven Soderbergh on multiple projects, including Contagion. The only difference is that statement 1 includes additional projects they have collaborated on, while statement 2 only mentions The Bourne Ultimatum and Contagion."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is National Assembly?",
+  "orig": "It is the lower house of the bicameral Parliament of France, the other house being the Senate.",
+  "alt": "It is situated in the Palais Bourbon in Paris.",
+  "prefix": " The National Assembly is located in France.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "the lower house of the bicameral Parliament of France, the other house"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is National Assembly?\" are not contradictory. Statement 1 provides additional information about the National Assembly being a part of the bicameral Parliament of France, while Statement 2 specifies the location of the National Assembly within France, which is the Palais Bourbon in Paris. Both statements complement each other and provide a complete answer to the prompt."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of 100?",
+  "orig": "The director of The 1000 was a U.S. senator named Henry Ballard.",
+  "alt": "The director of The 100 was a U.S. senator named Henry Ballard.",
+  "prefix": "",
+  "triple": [
+    [
+      "a U.S. senator",
+      "named",
+      "Henry Ballard."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of 100 are not contradictory. They both identify U.S. senator Henry Ballard as the director, but one refers to the organization as The 1000 and the other as The 100. It is likely that the organization changed its name at some point, but the same person remained in charge."
+}

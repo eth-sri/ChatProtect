@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Newcastle?",
+  "orig": "Newcastle is a city located in the state of New South Wales, Australia.",
+  "alt": "The city is located in the Hunter Region.",
+  "prefix": " The capital of New South Wales is Sydney.",
+  "triple": [
+    [
+      "a city",
+      "located",
+      "in the state of New South Wales, Australia."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt asks for the capital of the City of Newcastle, the given text provides information about the capital of the state of New South Wales, which is Sydney. The two statements that follow provide additional information about Newcastle's location within the state and its location within the Hunter Region. Therefore, the statements do not contradict each other, but rather provide relevant information about the topic."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Columbia the capital of?",
+  "orig": "Colombia is a country located in South America.",
+  "alt": "Colombia is a country located in South America.",
+  "prefix": "",
+  "triple": [
+    [
+      "Colombia",
+      "is",
+      "a country"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "As the given text only provides information about the location of Colombia in South America, the two statements provided are not related to the prompt \"What is Columbia the capital of?\" and therefore cannot be contradictory or non-contradictory. More information is needed to determine the answer to the prompt."
+}

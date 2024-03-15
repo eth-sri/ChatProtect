@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Cookie's Fortune?",
+  "orig": "The 1999 film Cookie's Fortune was produced by Scott Rudin and directed by Robert Altman.",
+  "alt": "The 1999 film Cookie's Fortune was produced by Robert Altman.",
+  "prefix": " It is not related to the 1966 film The Fortune Cookie.",
+  "triple": [
+    [
+      "The 1999 film Cookie's Fortune",
+      "was produced",
+      "by Scott Rudin"
+    ],
+    "compactie",
+    616
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Cookie's Fortune? are contradictory. Statement 1 states that the 1999 film Cookie's Fortune was produced by Scott Rudin and directed by Robert Altman, while Statement 2 states that the 1999 film Cookie's Fortune was produced by Robert Altman. These two statements cannot both be true at the same time. One of them must be incorrect."
+}

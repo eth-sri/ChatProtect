@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Feast?",
+  "orig": "He is a film producer and the founder of Illumination Entertainment, which produced the movie.",
+  "alt": "He is the founder of Illumination Entertainment.",
+  "prefix": " The producer of Feast was Chris Meledandri.",
+  "triple": [
+    [
+      "He",
+      "is",
+      "a film producer and the founder of Illumination Entertainment,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Feast? are not contradictory. Both statements provide additional information about Chris Meledandri, the producer of Feast. Statement 1 explains that he is a film producer and the founder of Illumination Entertainment, which produced the movie. Statement 2 simply states that he is the founder of Illumination Entertainment. Both statements are true and do not contradict each other."
+}

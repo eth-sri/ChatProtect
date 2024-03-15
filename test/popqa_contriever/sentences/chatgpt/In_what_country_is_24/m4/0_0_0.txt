@@ -1,0 +1,19 @@
+{
+  "target": "In what country is 24?",
+  "orig": "It is not clear what country is being referred to in the sentence \"In what country is 24?\"",
+  "alt": "The country being referred to is not mentioned in the given text.",
+  "prefix": "",
+  "triple": [
+    [
+      "country",
+      "is being referred",
+      "to in the sentence"
+    ],
+    "compactie",
+    592
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is 24?\" are not contradictory. Statement 1 acknowledges that there is ambiguity in the prompt and it is not clear which country is being referred to. Statement 2 simply confirms that the given text does not mention the country in question. Both statements are true and do not contradict each other."
+}

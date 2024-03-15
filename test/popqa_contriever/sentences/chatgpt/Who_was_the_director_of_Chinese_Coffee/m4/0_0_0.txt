@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Chinese Coffee?",
+  "orig": "Al Pacino directed the 2000 independent film adaptation of Chinese Coffee.",
+  "alt": "Al Pacino directed the film adaptation of \"Chinese Coffee\".",
+  "prefix": "",
+  "triple": [
+    [
+      "Al Pacino",
+      "directed",
+      "the 2000 independent film adaptation of Chinese Coffee."
+    ],
+    "compactie",
+    605
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Chinese Coffee are contradictory. The first statement claims that Al Pacino directed the film adaptation, while the second statement simply repeats that Al Pacino directed \"Chinese Coffee.\" However, the play and the film have different directors - the play was directed by David Wheeler, while the film was directed by Al Pacino himself. Therefore, the first statement is correct, while the second statement is incorrect."
+}

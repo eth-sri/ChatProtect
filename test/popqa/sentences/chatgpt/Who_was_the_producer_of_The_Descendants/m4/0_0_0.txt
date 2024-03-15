@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Descendants?",
+  "orig": "The producer of The Descendants is Jim Burke, Alexander Payne, and Jim Taylor.",
+  "alt": "The producer of The Descendants is Jim Burke.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of The Descendants",
+      "is",
+      "Jim Burke, Alexander Payne, and Jim Taylor."
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of The Descendants? are contradictory. \n\nStatement 1 lists three producers of The Descendants - Jim Burke, Alexander Payne, and Jim Taylor, while Statement 2 only lists Jim Burke as the producer. Therefore, Statement 1 implies that there were multiple producers involved in the making of the film, while Statement 2 suggests that there was only one producer. These two statements cannot both be true at the same time, hence they are contradictory."
+}

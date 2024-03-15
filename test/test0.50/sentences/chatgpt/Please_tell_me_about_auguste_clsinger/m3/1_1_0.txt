@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about auguste cl\u00e9singer",
+  "orig": "He was born in Besan\u00e7on, France, and studied under the famous sculptor Jean-Baptiste-Jules Klagmann.",
+  "alt": "He was born in Besan\u00e7on, France and studied at the \u00c9cole des Beaux-Arts in Paris.",
+  "prefix": " Auguste Cl\u00e9singer was a French sculptor who lived from 1814 to 1883.",
+  "triple": [
+    [
+      "He",
+      "was born studied",
+      "under the famous sculptor Jean-Baptiste-Jules Klagmann."
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Auguste Cl\u00e9singer are contradictory. Statement 1 says that he studied under Jean-Baptiste-Jules Klagmann, while statement 2 says that he studied at the \u00c9cole des Beaux-Arts in Paris. These are two different schools of study, and it is unlikely that he studied at both simultaneously. Therefore, the statements cannot both be true."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Instant Crush?",
+  "orig": "Daft Punk is a French electronic music duo composed of Guy-Manuel de Homem-Christo and Thomas Bangalter.",
+  "alt": "The French electronic music duo composed the song in collaboration with Julian Casablancas.",
+  "prefix": " The composer of Instant Crush was Daft Punk and Julian Casablancas.",
+  "triple": [
+    [
+      "a French electronic music duo",
+      "composed",
+      "of Guy-Manuel de Homem-Christo and Thomas Bangalter."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of Instant Crush are not contradictory. Statement 1 provides background information about Daft Punk, while Statement 2 clarifies that the song was a collaboration between Daft Punk and Julian Casablancas. Together, the statements confirm that both Daft Punk and Julian Casablancas were involved in composing Instant Crush."
+}

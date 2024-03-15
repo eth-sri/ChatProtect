@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kingdom of Italy?",
+  "orig": "The Kingdom of Italy was a state that existed from 1861 to 1946, and Rome was its capital throughout that time.",
+  "alt": "The Kingdom of Italy was a state that existed from 1861 to 1946.",
+  "prefix": " The capital of the Kingdom of Italy was Rome.",
+  "triple": [
+    [
+      "The Kingdom of Italy",
+      "was",
+      "a state"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Kingdom of Italy are not contradictory. Statement 1 provides additional information about the time period during which Rome was the capital, while Statement 2 simply states the existence of the Kingdom of Italy without specifying its capital. Both statements are true and do not contradict each other."
+}

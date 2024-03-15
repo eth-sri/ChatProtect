@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Tractatus Politicus?",
+  "orig": "It was published in 1640 and is considered one of the most important works of political philosophy in the Western tradition.",
+  "alt": "It was published in 1642 and is considered one of the most important works of political philosophy in the Western tradition.",
+  "prefix": " The author of Tractatus Politicus is Thomas Hobbes.",
+  "triple": [
+    [
+      "It",
+      "was published is considered",
+      "one of the most important works of political philosophy in the Western tradition."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Tractatus Politicus are contradictory because they provide different years of publication for the same work. One statement says it was published in 1640, while the other says it was published in 1642. Therefore, it is unclear which statement is accurate and reliable."
+}

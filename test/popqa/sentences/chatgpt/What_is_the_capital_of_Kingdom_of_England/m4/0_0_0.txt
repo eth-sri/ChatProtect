@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kingdom of England?",
+  "orig": "The capital of the Kingdom of England was London.",
+  "alt": "The Kingdom of England no longer exists, but its capital was London.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of the Kingdom of England",
+      "was",
+      "London."
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides a straightforward answer to the prompt, stating that the capital of the Kingdom of England was London. Statement 2 acknowledges that the Kingdom of England no longer exists, but still confirms that its capital was London. Therefore, both statements are consistent with each other and do not contradict each other."
+}

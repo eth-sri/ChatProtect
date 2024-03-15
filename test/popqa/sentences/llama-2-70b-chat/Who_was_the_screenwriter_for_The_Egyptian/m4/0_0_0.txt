@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Egyptian?",
+  "orig": "The screenwriter for the 1954 film The Egyptian is Philip Dunne.",
+  "alt": "The Egyptian is a 1954 film directed by Michael Curtiz.",
+  "prefix": "",
+  "triple": [
+    [
+      "Egyptian",
+      "is",
+      "Philip Dunne."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Egyptian are not contradictory. Statement 1 provides the answer to the prompt, stating that the screenwriter for the film was Philip Dunne. Statement 2 provides additional information about the film, stating that it was directed by Michael Curtiz. While the two statements are related to the same film, they do not contradict each other."
+}

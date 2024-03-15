@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Education of Henry Adams?",
+  "orig": "The book is a memoir and a work of nonfiction, and it was written by Adams himself, reflecting on his life and his experiences as a journalist, historian, and educator.",
+  "alt": "It was written in 1907.",
+  "prefix": " The author of The Education of Henry Adams is Henry Adams.",
+  "triple": [
+    [
+      "it",
+      "was written",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Education of Henry Adams are not contradictory. Statement 1 provides additional information about the book, including its genre and the author's background, while Statement 2 simply states the year in which it was written. Both statements are true and do not conflict with each other."
+}

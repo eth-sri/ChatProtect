@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Deep End?",
+  "orig": "Hayes co-wrote the screenplay with his wife, Lillian Hayes.",
+  "alt": "Hayes co-wrote the screenplay for \"The Deep End\" with his wife, Lillian Hellman.",
+  "prefix": " According to the information provided, the screenwriter for the movie \"The Deep End\" was David Hayes.",
+  "triple": [
+    [
+      "Hayes",
+      "co-wrote",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"The Deep End\" are contradictory. The first statement correctly states that David Hayes co-wrote the screenplay with his wife, but the second statement incorrectly states that his wife's last name was Hellman instead of Hayes."
+}

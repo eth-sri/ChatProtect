@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of U and I?",
+  "orig": "The author of \"U and I\" is littlerobot.",
+  "alt": "The author of \"U and I\" is Nicholson Baker.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"U and I\"",
+      "is",
+      "littlerobot."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"U and I\" are contradictory. Statement 1 claims that the author is littlerobot, while statement 2 claims that the author is Nicholson Baker. Since they are two different names, they cannot both be correct."
+}

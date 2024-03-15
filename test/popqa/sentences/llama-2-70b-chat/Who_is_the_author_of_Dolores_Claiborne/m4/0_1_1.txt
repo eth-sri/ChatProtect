@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Dolores Claiborne?",
+  "orig": "Dolores Claiborne is a novel written by King and published in 1992.",
+  "alt": "Dolores Claiborne is a novel written by Stephen King.",
+  "prefix": " The author of Dolores Claiborne is Stephen King.",
+  "triple": [
+    [
+      "a novel",
+      "written",
+      "in 1992."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Dolores Claiborne are not contradictory. Both statements provide additional information about the author and the novel, but they both ultimately confirm that the author of Dolores Claiborne is Stephen King."
+}

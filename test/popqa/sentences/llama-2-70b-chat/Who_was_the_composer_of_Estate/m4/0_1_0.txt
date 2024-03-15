@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Estate?",
+  "orig": "He was an Italian composer, pianist, and singer.",
+  "alt": "He was an Italian composer and pianist.",
+  "prefix": " The composer of \"Estate\" (also known as \"Summer\") is Bruno Martino.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "an Italian composer, pianist, and singer."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Estate\" are not contradictory. Both statements agree that Bruno Martino was the composer of the song and that he was Italian. The only difference is that statement 1 adds that he was also a singer, while statement 2 only mentions that he was a pianist. Therefore, both statements provide accurate information about the composer of \"Estate\"."
+}

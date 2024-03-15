@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Anniversary?",
+  "orig": "Alvin Rakoff was the original director of The Anniversary, but he was replaced a week into filming due to conflicts with Bette Davis.",
+  "alt": "Alvin Rakoff was replaced by Tony Richardson.",
+  "prefix": "",
+  "triple": [
+    [
+      "he",
+      "was replaced",
+      "a week into filming due to conflicts with Bette Davis."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The Anniversary are contradictory. Statement 1 says that Alvin Rakoff was the original director but was replaced due to conflicts with Bette Davis, while Statement 2 says that he was replaced by Tony Richardson. These two statements cannot both be true at the same time."
+}

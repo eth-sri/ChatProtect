@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Believer?",
+  "orig": "It belongs to the alternative rock and indie rock genres.",
+  "alt": "It belongs to the alternative rock genre.",
+  "prefix": " Believer is a song by American rock band Imagine Dragons.",
+  "triple": [
+    [
+      "It",
+      "belongs",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Believer are not contradictory. Statement 1 includes both alternative rock and indie rock genres, while statement 2 only includes alternative rock. Therefore, statement 2 is a subset of statement 1, and both statements can be true at the same time."
+}

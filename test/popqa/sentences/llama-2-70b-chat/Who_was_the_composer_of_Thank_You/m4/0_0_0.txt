@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Thank You?",
+  "orig": "The song \"Thank You\" was composed by John Farnham and David Hirschfelder.",
+  "alt": "The song \"Thank You\" was composed by Led Zeppelin.",
+  "prefix": "",
+  "triple": [
+    [
+      "The song \"Thank",
+      "was composed",
+      "by John Farnham and David Hirschfelder."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of Thank You? are contradictory. \n\nStatement 1 claims that the song \"Thank You\" was composed by John Farnham and David Hirschfelder, while Statement 2 claims that the song was composed by Led Zeppelin. These are two completely different answers to the same question, and cannot both be true. Therefore, the statements contradict each other."
+}

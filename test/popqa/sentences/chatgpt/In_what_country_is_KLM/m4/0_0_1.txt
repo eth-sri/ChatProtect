@@ -1,0 +1,19 @@
+{
+  "target": "In what country is KLM?",
+  "orig": "KLM is a Dutch airline and is headquartered in Amsterdam, Netherlands.",
+  "alt": "KLM, a Dutch airline, is headquartered in Amstelveen, Netherlands.",
+  "prefix": "",
+  "triple": [
+    [
+      "a Dutch airline",
+      "is headquartered",
+      "in Amsterdam, Netherlands."
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is KLM?\" are not contradictory, but they differ in the specific location of KLM's headquarters. Both statements agree that KLM is a Dutch airline, but statement 1 states that its headquarters is in Amsterdam, while statement 2 specifies that it is in Amstelveen. Therefore, the statements complement each other by providing additional information about KLM's location within the Netherlands."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of One?",
+  "orig": "The composer of \"One\" from the musical \"A Chorus Line\" is Marvin Hamlisch.",
+  "alt": "The composer of One is U2.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of",
+      "is",
+      "Marvin Hamlisch."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of One? are contradictory. \n\nStatement 1 correctly identifies Marvin Hamlisch as the composer of \"One\" from the musical \"A Chorus Line\". However, statement 2 is incorrect as U2 did not compose the song \"One\" from the musical. It is possible that statement 2 is referring to a different song titled \"One\" by U2, but it is not relevant to the prompt. Therefore, the two statements contradict each other."
+}

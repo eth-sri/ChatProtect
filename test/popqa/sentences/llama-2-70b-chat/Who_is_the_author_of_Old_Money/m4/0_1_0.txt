@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Old Money?",
+  "orig": "The novel was published in 1975 and is considered one of Wolfe's most notable works, along with \"The Electric Kool-Aid Acid Test\" and \"The Right Stuff.\"",
+  "alt": "The novel was published in 1985 and is considered a satirical depiction of wealthy American society.",
+  "prefix": " The author of \"Old Money\" is Tom Wolfe.",
+  "triple": [
+    [
+      "The novel",
+      "was published is considered",
+      "one of Wolfe's most notable works,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Old Money? are contradictory because they provide different publication dates for the novel. Statement 1 states that the novel was published in 1975, while Statement 2 states that it was published in 1985. Therefore, only one of the statements can be true, and they cannot both be true at the same time."
+}

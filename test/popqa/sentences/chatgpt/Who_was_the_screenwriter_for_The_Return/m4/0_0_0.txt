@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Return?",
+  "orig": "The 2006 horror film \"The Return\" was written by Adam Sussman and Darren Rust.",
+  "alt": "The 2006 horror film \"The Return\" was written by Adam Sussman.",
+  "prefix": "",
+  "triple": [
+    [
+      "The 2006 horror film \"The",
+      "was written",
+      "by Adam Sussman and Darren Rust."
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for The Return? are contradictory. \n\nStatement 1 claims that the film was written by two screenwriters, Adam Sussman and Darren Rust, while Statement 2 claims that the film was written solely by Adam Sussman. These two statements cannot both be true at the same time, therefore they are contradictory."
+}

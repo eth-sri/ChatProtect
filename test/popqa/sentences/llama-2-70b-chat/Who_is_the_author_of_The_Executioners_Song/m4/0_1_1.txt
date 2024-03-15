@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Executioner's Song?",
+  "orig": "The novel was published in 1979 and is considered one of Mailer's most notable works.",
+  "alt": "The novel is considered a Pulitzer Prize-winning work.",
+  "prefix": " The author of The Executioner's Song is Norman Mailer.",
+  "triple": [
+    [
+      "The novel",
+      "is considered",
+      "one of Mailer's most notable works."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Executioner's Song are not contradictory. Statement 1 provides additional information about the novel and its significance in Mailer's career, while Statement 2 highlights the fact that the novel was awarded the Pulitzer Prize. Both statements are true and do not contradict each other."
+}

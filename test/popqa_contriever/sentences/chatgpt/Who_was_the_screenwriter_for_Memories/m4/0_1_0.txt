@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Memories?",
+  "orig": "It is possible that the question is referring to the movie \"Remember\".",
+  "alt": "It seems that the question is referring to the movie \"Remember\", not \"Memories\".",
+  "prefix": " There is no movie titled \"Memories\".",
+  "triple": [
+    [
+      "the question",
+      "is referring",
+      "to the movie \"Remember\"."
+    ],
+    "compactie",
+    621
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Memories? are not contradictory. Both statements acknowledge that there is no movie titled \"Memories\" and suggest that the question may be referring to the movie \"Remember\". The only difference between the two statements is that statement 2 explicitly states that the question is referring to \"Remember\", while statement 1 leaves open the possibility that the question may be referring to another movie with a similar title."
+}

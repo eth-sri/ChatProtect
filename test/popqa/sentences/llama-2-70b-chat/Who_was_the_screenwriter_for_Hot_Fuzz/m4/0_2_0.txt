@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Hot Fuzz?",
+  "orig": "The film was directed by Edgar Wright and starred Simon Pegg, Nick Frost, and Jim Broadbent.",
+  "alt": "The film was directed by Edgar Wright.",
+  "prefix": " The screenwriter for Hot Fuzz was Edgar Wright and Simon Pegg. They also co-wrote the film's story together.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by Edgar Wright"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Hot Fuzz are not contradictory. The first statement clarifies that Edgar Wright and Simon Pegg co-wrote the screenplay and story, while the second statement simply states that Edgar Wright directed the film. They provide different information about the film's production without contradicting each other."
+}

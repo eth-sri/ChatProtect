@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Italy?",
+  "orig": "The capital of Italy is Rome (Italian: Roma).",
+  "alt": "The capital of Italy is Rome.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Italy",
+      "is",
+      "Rome"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide the same answer to the prompt \"What is the capital of Italy?\" with the second statement being a simplified version of the first."
+}

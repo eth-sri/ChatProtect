@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Gentleman?",
+  "orig": "The composer of \"The Gentleman in Black\" was Frederic Clay.",
+  "alt": "The composer of \"The Gentleman in Black\" was Arthur Sullivan.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"The Gentleman in Black\"",
+      "was",
+      "Frederic Clay."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of \"The Gentleman in Black\" are contradictory. Statement 1 claims that Frederic Clay was the composer, while statement 2 claims that Arthur Sullivan was the composer. Only one of these statements can be true, and they cannot both be true at the same time."
+}

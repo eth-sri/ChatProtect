@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Pulaski County?",
+  "orig": "Please provide the state where Pulaski County is located.",
+  "alt": "Pulaski County is located in the state of Arkansas.",
+  "prefix": " There are multiple counties named Pulaski in the United States.",
+  "triple": [
+    [
+      "Pulaski County",
+      "is located.",
+      ""
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Pulaski County and the request for the state where it is located are not contradictory. The first statement simply acknowledges that there are multiple counties with the name Pulaski in the United States, which could potentially cause confusion about which state is being referred to. The second statement clarifies that the Pulaski County in question is located in Arkansas."
+}

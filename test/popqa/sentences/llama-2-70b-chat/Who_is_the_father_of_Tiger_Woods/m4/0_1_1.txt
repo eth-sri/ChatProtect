@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Tiger Woods?",
+  "orig": "He was a retired U.S. Army officer and a golf instructor who played a significant role in Tiger's early life and golf career.",
+  "alt": "Earl Woods was a retired U.S. Army officer and instructor who played a significant role in his son's early golf career.",
+  "prefix": " The father of Tiger Woods is Earl Woods.",
+  "triple": [
+    [
+      "instructor",
+      "played",
+      "a significant role in Tiger's early life and golf career."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Tiger Woods are not contradictory. Both statements provide additional information about Earl Woods, who is confirmed as Tiger Woods' father in the beginning of the text. The statements provide further details about Earl Woods' background and his influence on Tiger's life and career, but they do not contradict the initial statement about his relationship to Tiger."
+}

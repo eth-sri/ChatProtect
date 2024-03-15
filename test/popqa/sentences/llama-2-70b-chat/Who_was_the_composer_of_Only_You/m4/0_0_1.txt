@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Only You?",
+  "orig": "\"Only You\" is a popular song that was written and composed by Vince Gill.",
+  "alt": "The popular song \"Only You\" was written by Vince Clarke.",
+  "prefix": "",
+  "triple": [
+    [
+      "a popular song",
+      "was written",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of Only You? are contradictory. \n\nStatement 1 claims that Vince Gill was the composer of \"Only You,\" while Statement 2 claims that Vince Clarke was the writer of the same song. Since the two statements attribute the composition of the song to two different people, they cannot both be true. Therefore, they are contradictory."
+}

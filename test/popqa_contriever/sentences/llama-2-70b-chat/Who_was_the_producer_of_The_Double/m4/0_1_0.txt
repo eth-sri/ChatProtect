@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Double?",
+  "orig": "However, the film was directed by Michael Brandt, and it was released on October 28, 2011.",
+  "alt": "The film was directed by Michael Brandt.",
+  "prefix": " According to the source text, the producer of The Double is not explicitly mentioned.",
+  "triple": [
+    [
+      "the film",
+      "was directed",
+      "by Michael Brandt,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. While the producer of The Double is not explicitly mentioned in the source text, it is still possible to provide information about the film's director and release date. Statement 1 provides additional information about the film's release date, while Statement 2 simply reiterates that Michael Brandt was the director."
+}

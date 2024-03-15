@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Ukrainian Soviet Socialist Republic?",
+  "orig": "In 1934, the capital was moved to Kiev, which remains the capital of Ukraine to this day.",
+  "alt": "The capital remains Kiev, which has been the capital of Ukraine since 1934.",
+  "prefix": " The capital of Ukrainian Soviet Socialist Republic was Kharkiv, also known as Kharkov, from 1917 to 1934.",
+  "triple": [
+    [
+      "the capital",
+      "remains",
+      "the capital of Ukraine to this day."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements confirm that the capital of Ukrainian Soviet Socialist Republic was Kharkiv from 1917 to 1934, and that it was then moved to Kiev, which remains the capital of Ukraine to this day. The only difference is in the wording, with statement 1 emphasizing the year of the move and statement 2 emphasizing the current status of Kiev as the capital."
+}

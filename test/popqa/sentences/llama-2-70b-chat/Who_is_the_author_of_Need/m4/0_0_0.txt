@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Need?",
+  "orig": "\"Need\" is a novel written by Carrie Jones.",
+  "alt": "Need is a novel written by Veronica Roth.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"Need\"",
+      "is",
+      "a novel written by Carrie Jones."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Need? are contradictory. Statement 1 correctly identifies Carrie Jones as the author of Need, while statement 2 incorrectly identifies Veronica Roth as the author. Therefore, the two statements cannot both be true at the same time."
+}

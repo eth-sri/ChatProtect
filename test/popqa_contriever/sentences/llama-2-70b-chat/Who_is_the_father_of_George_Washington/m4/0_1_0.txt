@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of George Washington?",
+  "orig": "He was a planter and slaveholder in colonial Virginia, and he married Mary Ball Washington, who was the mother of George Washington.",
+  "alt": "He was a planter and a justice of the peace in Westmoreland County, Virginia.",
+  "prefix": " The father of George Washington was Augustine Washington.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "a planter and slaveholder in colonial Virginia,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide additional information about Augustine Washington, who is confirmed as the father of George Washington in the beginning of the text. Statement 1 provides information about Augustine's marriage to Mary Ball Washington, who was George Washington's mother. Statement 2 provides information about Augustine's occupation as a planter and justice of the peace in a specific county in Virginia."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Mars?",
+  "orig": "Mars is a planet, not a work of fiction, so it does not belong to any genre.",
+  "alt": "Mars is a planet.",
+  "prefix": "",
+  "triple": [
+    [
+      "Mars",
+      "is",
+      "a planet, not a work of fiction,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Mars?\" are not contradictory. Statement 1 clarifies that Mars is not a work of fiction and therefore cannot be classified into any literary genre. Statement 2 simply states that Mars is a planet, which is a scientific fact and not related to any genre classification. Therefore, both statements are true and do not contradict each other."
+}

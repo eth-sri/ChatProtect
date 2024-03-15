@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Kingdom?",
+  "orig": "The Kingdom is a 2007 action thriller film directed by Berg and starring Jamie Foxx, Chris Cooper, and Jennifer Garner.",
+  "alt": "The film stars Jamie Foxx, Chris Cooper, and Jennifer Garner.",
+  "prefix": " The director of The Kingdom is Peter Berg.",
+  "triple": [
+    [
+      "a 2007",
+      "starring",
+      "Jamie Foxx, Chris Cooper, and Jennifer Garner."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Kingdom? are not contradictory. The first statement directly answers the question by stating that Peter Berg was the director of the film. The second statement provides additional information about the film, including the fact that it stars Jamie Foxx, Chris Cooper, and Jennifer Garner. Both statements are true and do not contradict each other."
+}

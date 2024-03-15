@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Dirk Gently?",
+  "orig": "Dirk Gently is a science fiction/ detective fiction TV series.",
+  "alt": "Dirk Gently is a comedic science fiction detective series created by Douglas Adams.",
+  "prefix": "",
+  "triple": [
+    [
+      "Dirk Gently",
+      "is",
+      "a science fiction/ detective fiction TV series."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Dirk Gently are not contradictory. Statement 1 provides a general description of the genre of the TV series, while Statement 2 adds more specific details about the comedic and creative aspects of the show and its creator. Both statements agree that Dirk Gently is a science fiction/detective fiction series, with Statement 2 providing additional information about its comedic elements. Therefore, the statements complement each other rather than contradicting each other."
+}

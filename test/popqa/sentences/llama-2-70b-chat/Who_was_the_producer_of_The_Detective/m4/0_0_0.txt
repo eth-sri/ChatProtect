@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Detective?",
+  "orig": "The producer of the 1968 film \"The Detective\" was Jerry Gershwin.",
+  "alt": "The producer of the 1968 film \"The Detective\" was Gordon Carroll.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 1968 film \"The Detective\"",
+      "was",
+      "Jerry Gershwin."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"The Detective\" are contradictory because they provide different names for the producer. Statement 1 claims that Jerry Gershwin was the producer, while statement 2 claims that Gordon Carroll was the producer. As both statements cannot be true at the same time, they contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Game Change?",
+  "orig": "He adapted the screenplay from the book of the same name written by John Heilemann and Mark Halperin.",
+  "alt": "The screenplay was written by Danny Strong, based on the book of the same name by John Heilemann and Mark Halperin.",
+  "prefix": " The screenwriter for Game Change was Danny Strong.",
+  "triple": [
+    [
+      "the screenplay from the book of the same name",
+      "written",
+      "by John Heilemann and Mark Halperin."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Game Change are not contradictory. They both provide the same information, with the only difference being the order of the words in the sentence. Both statements confirm that Danny Strong was the screenwriter for Game Change and that he adapted the screenplay from the book written by John Heilemann and Mark Halperin."
+}

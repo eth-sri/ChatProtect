@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Happy Christmas?",
+  "orig": "Happy Christmas is a Christmas music album by Pharrell Williams, released in 2014.",
+  "alt": "Sure! Here's a possible next sentence:\n\nThe album was released in 1987 by Capitol Records.",
+  "prefix": "",
+  "triple": [
+    [
+      "a Christmas music album by",
+      "released",
+      "in 2014."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Happy Christmas are contradictory. The first statement states that Happy Christmas is a Christmas music album by Pharrell Williams, while the second statement claims that the album was released in 1987 by Capitol Records. These two statements cannot both be true, as Pharrell Williams did not release an album called Happy Christmas in 1987. Therefore, the genre of Happy Christmas remains unclear based on these conflicting statements."
+}

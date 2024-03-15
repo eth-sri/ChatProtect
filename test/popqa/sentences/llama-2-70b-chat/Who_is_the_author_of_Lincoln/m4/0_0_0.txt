@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Lincoln?",
+  "orig": "The author of the book \"Team of Rivals: The Political Genius of Abraham Lincoln\" is Doris Kearns Goodwin.",
+  "alt": "The author of the book is Doris Kearns Goodwin.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of the book",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Lincoln? are not contradictory. Both statements identify Doris Kearns Goodwin as the author of the book \"Team of Rivals: The Political Genius of Abraham Lincoln\". Statement 2 is simply a restatement of Statement 1 in a more concise form."
+}

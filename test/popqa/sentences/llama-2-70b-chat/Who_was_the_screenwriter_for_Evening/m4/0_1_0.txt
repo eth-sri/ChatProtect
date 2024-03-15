@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Evening?",
+  "orig": "He adapted the screenplay from his own novel of the same name.",
+  "alt": "He adapted the screenplay from the novel of the same name by Susan Minot.",
+  "prefix": " The screenwriter for the 2007 film \"Evening\" was Michael Cunningham.",
+  "triple": [
+    [
+      "He",
+      "adapted",
+      "the screenplay from his own novel of the same name."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for \"Evening\" are contradictory. Statement 1 claims that Michael Cunningham adapted the screenplay from his own novel, while statement 2 claims that he adapted it from the novel by Susan Minot. Only one of these statements can be true, as they present two different sources for the screenplay."
+}

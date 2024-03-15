@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Bat?",
+  "orig": "He wrote and directed a third adaptation of the film, which was released by Allied Artists on August 9, 1959.",
+  "alt": "He wrote the screenplay for the film.",
+  "prefix": " The producer of The Bat was Crane Wilbur.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Bat are contradictory. The first statement indicates that Crane Wilbur was the producer of The Bat, while the second statement only mentions that he wrote the screenplay for the film. While it is possible for a writer to also produce a film, the second statement does not confirm that Wilbur held the role of producer. Therefore, the two statements cannot be considered consistent."
+}

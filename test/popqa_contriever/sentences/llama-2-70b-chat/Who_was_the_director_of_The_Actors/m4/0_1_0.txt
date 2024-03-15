@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Actors?",
+  "orig": "The play's director, as per the text, was Peter, who was portrayed by John Shea.",
+  "alt": "The play's director, Nancy Hasty, was also the playwright.",
+  "prefix": " The director of The Actors was not explicitly mentioned in the text.",
+  "triple": [
+    [
+      "The play's director,",
+      "was",
+      "Peter,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Actors? are contradictory. Statement 1 suggests that the director of the play was a character named Peter, portrayed by John Shea. However, Statement 2 suggests that the director was actually Nancy Hasty, who also wrote the play. These two statements cannot both be true at the same time, as they present different individuals as the director of the play."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Jap\u00f3n?",
+  "orig": "Reygadas is a Mexican filmmaker, and \"Jap\u00f3n\" is his second feature film.",
+  "alt": "Carlos Reygadas is a Mexican filmmaker.",
+  "prefix": " The producer of the film \"Jap\u00f3n\" is not explicitly stated. The film was directed by Carlos Reygadas and released in 2002.",
+  "triple": [
+    [
+      "a Mexican filmmaker,",
+      "is",
+      "his second feature film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Jap\u00f3n are not contradictory. While the text does not explicitly state the name of the producer, it provides information about the director and the year of release. Statement 1 provides additional information about the director and the fact that Jap\u00f3n was his second feature film, while Statement 2 simply reiterates that Carlos Reygadas is the director of the film. Both statements are consistent with the information provided in the text and do not contradict each other."
+}

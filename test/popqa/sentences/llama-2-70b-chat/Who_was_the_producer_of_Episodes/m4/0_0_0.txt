@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Episodes?",
+  "orig": "The producer of the TV show \"Episodes\" was Hat Trick Productions.",
+  "alt": "The producer of the TV show \"Episodes\" was David Crane.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the TV show \"Episodes\"",
+      "was",
+      "Hat Trick Productions."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Episodes\" are contradictory. Statement 1 claims that Hat Trick Productions was the producer, while statement 2 claims that David Crane was the producer. It is not possible for both statements to be true at the same time."
+}

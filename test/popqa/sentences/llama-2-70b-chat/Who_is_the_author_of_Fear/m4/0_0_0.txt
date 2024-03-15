@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Fear?",
+  "orig": "The author of the book \"Fear: Trump in the White House\" is Bob Woodward.",
+  "alt": "The author of the book \"Fear\" is Bob Woodward.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of the book",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements identify Bob Woodward as the author of the book \"Fear\". The only difference is that the first statement includes the subtitle \"Trump in the White House\", while the second statement does not."
+}

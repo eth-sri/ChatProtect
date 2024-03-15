@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Ready?",
+  "orig": "The text only mentions David Ready, a film producer and production executive, and his credits as a producer, but it does not mention the director of the film \"Ready.\"",
+  "alt": "The text only mentions the producer, David Ready, and does not mention the director of the film \"Ready\".",
+  "prefix": " The director of \"Ready\" is not specified in the provided text.",
+  "triple": [
+    [
+      "The text",
+      "only mentions",
+      "David Ready, a film producer and production executive, and his credits as a producer,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both convey the same information that the director of the film \"Ready\" is not mentioned in the provided text, which only focuses on the producer, David Ready, and his credits."
+}

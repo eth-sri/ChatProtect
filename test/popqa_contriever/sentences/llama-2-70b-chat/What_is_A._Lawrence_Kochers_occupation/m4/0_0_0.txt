@@ -1,0 +1,19 @@
+{
+  "target": "What is A. Lawrence Kocher's occupation?",
+  "orig": "A. Lawrence Kocher was an architect, editor, and teacher.",
+  "alt": "A. Lawrence Kocher was an architect.",
+  "prefix": "",
+  "triple": [
+    [
+      "A. Lawrence Kocher",
+      "was",
+      "an architect, editor, and teacher."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about A. Lawrence Kocher's occupation are not contradictory. Statement 1 lists all of the occupations that Kocher held, while statement 2 only lists one of them. Therefore, statement 2 is a subset of statement 1 and does not contradict it."
+}

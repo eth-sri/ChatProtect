@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Lovely?",
+  "orig": "The composer of Lovely Music Lovely Music was Mimi Johnson.",
+  "alt": "The composer of Lovely Music Lovely Music was Mimi Johnson.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of Lovely Music Lovely Music",
+      "was",
+      "Mimi Johnson."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as they both claim that Mimi Johnson was the composer of Lovely Music, but Lovely Music is a record label, not a composition. Therefore, the correct information about the founder of Lovely Music is that Mimi Johnson founded the record label, not composed the music."
+}

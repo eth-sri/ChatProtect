@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Back to the Future?",
+  "orig": "The screenwriter for Back to the Future was Robert Zemeckis and Bob Gale.",
+  "alt": "The screenwriter for Back to the Future was Robert Zemeckis.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for Back",
+      "was",
+      "Robert Zemeckis and Bob Gale."
+    ],
+    "compactie",
+    487
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Back to the Future are not contradictory. Statement 1 includes both Robert Zemeckis and Bob Gale as the screenwriters, while Statement 2 only mentions Robert Zemeckis. Therefore, Statement 2 is a subset of Statement 1, as it only includes one of the two screenwriters mentioned in Statement 1. Both statements are true, but Statement 1 provides more information."
+}

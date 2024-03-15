@@ -1,0 +1,19 @@
+{
+  "target": "What is John Scurti's occupation?",
+  "orig": "John Scurti is an actor.",
+  "alt": "John Scurti is an actor.",
+  "prefix": "",
+  "triple": [
+    [
+      "John Scurti",
+      "is",
+      "an actor."
+    ],
+    "compactie",
+    477
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about John Scurti's occupation are contradictory. The prompt asks for his occupation, which should be a singular answer. However, the two statements both provide the same answer, but repeat it, which is redundant and contradictory to the prompt's request for a single occupation."
+}

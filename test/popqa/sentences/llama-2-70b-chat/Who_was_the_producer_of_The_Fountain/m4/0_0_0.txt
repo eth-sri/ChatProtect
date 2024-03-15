@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Fountain?",
+  "orig": "The producer of the 2006 film The Fountain was William M. Connor.",
+  "alt": "The producer of the 2006 film The Fountain was Darren Aronofsky.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2006 film The Fountain",
+      "was",
+      "William M. Connor."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Fountain are contradictory. Statement 1 claims that William M. Connor was the producer, while statement 2 claims that Darren Aronofsky was the producer. Only one of these statements can be true, so they cannot both be correct."
+}

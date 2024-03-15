@@ -1,0 +1,19 @@
+{
+  "target": "In what country is 24?",
+  "orig": "According to the information provided, Africa 24 is a television news network that broadcasts in French to France, but is also available in Sub-Saharan Africa.",
+  "alt": "Africa 24 is available in France.",
+  "prefix": "",
+  "triple": [
+    [
+      "Africa 24",
+      "is",
+      "a television news network"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is 24?\" are not contradictory. The first statement clarifies that Africa 24 broadcasts in French to France and is also available in Sub-Saharan Africa. The second statement simply confirms that Africa 24 is available in France. Both statements are consistent with the fact that Africa 24 is a news network that can be accessed in multiple countries."
+}

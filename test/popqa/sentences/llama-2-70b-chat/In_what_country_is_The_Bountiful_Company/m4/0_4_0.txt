@@ -1,0 +1,19 @@
+{
+  "target": "In what country is The Bountiful Company?",
+  "orig": "The company has a manufacturing facility in London, Ontario, and distributes its products across the country.",
+  "alt": "The company has a strong presence in the United Kingdom, where it operates under the name Bountiful UK.",
+  "prefix": " The Bountiful Company is a multinational consumer goods company that operates in over 100 countries worldwide. The company's global headquarters is located in St. Louis, Missouri, USA. However, The Bountiful Company also has a strong presence in other countries, including Canada, Mexico, and the United Kingdom. In Canada, The Bountiful Company has a head office in Mississauga, Ontario, and operates under the name Bountiful Canada.",
+  "triple": [
+    [
+      "The company",
+      "has",
+      "manufacturing"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement mentions the company's presence in Canada, specifically in Ontario where it has a manufacturing facility and distributes its products across the country. The second statement mentions the company's strong presence in the United Kingdom, where it operates under a different name. Both statements provide additional information about the company's operations in different countries, but they do not contradict each other."
+}

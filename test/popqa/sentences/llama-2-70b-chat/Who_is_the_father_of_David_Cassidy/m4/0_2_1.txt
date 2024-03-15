@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of David Cassidy?",
+  "orig": "David Cassidy was born in 1950, and his parents divorced when he was young.",
+  "alt": "His parents divorced when David was a young child.",
+  "prefix": " David Cassidy's father was Jack Cassidy. Jack Cassidy was a singer and actor, and he was married to Evelyn Ward, David's mother.",
+  "triple": [
+    [
+      "his parents",
+      "divorced",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of David Cassidy are not contradictory. Both statements confirm that Jack Cassidy was David Cassidy's father, but they provide additional information about his parents' divorce when David was young."
+}

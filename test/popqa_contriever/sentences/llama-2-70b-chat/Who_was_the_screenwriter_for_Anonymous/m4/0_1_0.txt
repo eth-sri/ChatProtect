@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Anonymous?",
+  "orig": "The film was directed and produced by Ellie Kanner, but the screenwriter is not mentioned in the provided information.",
+  "alt": "The film was directed by Ellie Kanner.",
+  "prefix": " The screenwriter for the 2014 film \"Anonymous\" is not explicitly stated.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. While statement 1 acknowledges that the screenwriter is not explicitly stated, statement 2 provides information about the director of the film. They are two separate pieces of information that do not contradict each other."
+}

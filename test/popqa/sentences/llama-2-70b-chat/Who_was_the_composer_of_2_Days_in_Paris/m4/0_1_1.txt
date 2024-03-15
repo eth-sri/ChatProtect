@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of 2 Days in Paris?",
+  "orig": "Desplat is a French composer who has composed music for a wide range of films, including \"Am\u00e9lie,\" \"Girl with a Pearl Earring,\" \"The Queen,\" and \"The Grand Budapest Hotel.\"",
+  "alt": "Alexandre Desplat has composed music for many other films, including \"Am\u00e9lie\" and \"The Grand Budapest Hotel.\"",
+  "prefix": " The composer of the soundtrack for the film \"2 Days in Paris\" is Alexandre Desplat.",
+  "triple": [
+    [
+      "a French composer",
+      "has composed",
+      "music for a wide range of films, including \"Am\u00e9lie,\" \"Girl with a Pearl Earring,\" \"The Queen,\" and \"The"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"2 Days in Paris\" are not contradictory. Both statements provide additional information about Alexandre Desplat, the composer of the film's soundtrack. Statement 1 lists some of the other films he has composed music for, while Statement 2 provides two specific examples of other films he has worked on. Both statements support the fact that Alexandre Desplat is the composer of \"2 Days in Paris.\""
+}

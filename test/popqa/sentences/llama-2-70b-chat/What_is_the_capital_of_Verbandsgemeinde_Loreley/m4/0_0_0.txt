@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Verbandsgemeinde Loreley?",
+  "orig": "The capital of Verbandsgemeinde Loreley is Sankt Goarshausen.",
+  "alt": "The capital of Verbandsgemeinde Loreley is Sankt Goar.",
+  "prefix": "",
+  "triple": [
+    [
+      "of",
+      "is",
+      "Sankt Goarshausen."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the capital of Verbandsgemeinde Loreley are contradictory. Statement 1 claims that the capital is Sankt Goarshausen, while statement 2 claims that the capital is Sankt Goar. These are two different places, so the statements cannot both be true."
+}

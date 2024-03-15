@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Debt?",
+  "orig": "The producer of The Debt was Kris Thykier.",
+  "alt": "The producer of The Debt was Eduardo Rossoff.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of The Debt",
+      "was",
+      "Kris Thykier."
+    ],
+    "compactie",
+    615
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Debt? are contradictory. Statement 1 claims that Kris Thykier was the producer, while statement 2 claims that Eduardo Rossoff was the producer. Only one of these statements can be true, so they cannot both be correct."
+}

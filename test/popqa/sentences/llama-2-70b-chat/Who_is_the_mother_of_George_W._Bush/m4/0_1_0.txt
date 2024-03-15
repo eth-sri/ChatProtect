@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of George W. Bush?",
+  "orig": "She was born on June 8, 1925, and was the wife of President George H.W.",
+  "alt": "She was born in Rye, New York.",
+  "prefix": " The mother of George W. Bush is Barbara Pierce Bush.",
+  "triple": [
+    [
+      "She",
+      "was born was",
+      "the wife of President George H.W."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the mother of George W. Bush are not contradictory. Statement 1 provides additional information about Barbara Pierce Bush, including her birthdate and her relationship to President George H.W. Bush. Statement 2 provides information about her place of birth. Both statements are consistent with the fact that Barbara Pierce Bush is the mother of George W. Bush."
+}

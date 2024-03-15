@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Mendoza?",
+  "orig": "The capital of Mendoza is Mendoza City.",
+  "alt": "The capital of Mendoza is the city of Mendoza.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Mendoza",
+      "is",
+      "Mendoza City."
+    ],
+    "compactie",
+    599
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Mendoza?\" are not contradictory. Both statements convey the same information that the capital of Mendoza is the city of Mendoza. The only difference is the use of the word \"City\" in statement 1, which is not present in statement 2. However, this does not change the meaning of the statement. Therefore, both statements are equivalent and not contradictory."
+}

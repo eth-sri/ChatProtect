@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Province of Canada?",
+  "orig": "Therefore, the answer cannot be determined without additional information.",
+  "alt": "The answer cannot be determined as the capital of the Province of Canada changed six times in its 26-year history.",
+  "prefix": " The capital of Province of Canada changed six times in its 26-year history, with the first capital being Kingston (1841-1844), followed by Montreal (1844-1849), and then Toronto (1849-1852).",
+  "triple": [
+    [
+      "the answer",
+      "cannot be determined",
+      "without additional information."
+    ],
+    "compactie",
+    646
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is not contradictory to the text, as it accurately reflects the fact that the capital of the Province of Canada changed multiple times. Statement 1, however, is contradictory as it suggests that there may be a definitive answer to the question of the capital of the Province of Canada, when in fact the answer is dependent on the specific time period being referred to."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Newcastle?",
+  "orig": "Newcastle is a city located in the state of New South Wales, Australia.",
+  "alt": "Newcastle is a city located in the state of New South Wales.",
+  "prefix": " The capital of New South Wales is Sydney.",
+  "triple": [
+    [
+      "Newcastle",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt specifically asks for the capital of the City of Newcastle, the given text and statements provide information about the state of New South Wales, which is where Newcastle is located. The text and statements do not directly answer the prompt, but rather provide background information that may be relevant to finding the answer."
+}

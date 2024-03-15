@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Carl Grimes?",
+  "orig": "Rick is a sheriff's deputy who is shot and wakes up from a coma to find that the world has been overrun by zombies.",
+  "alt": "The world has been overrun by walkers.",
+  "prefix": " The father of Carl Grimes is Rick Grimes.",
+  "triple": [
+    [
+      "the world",
+      "has been overrun",
+      "by zombies."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Carl Grimes are not contradictory. The first statement simply provides the answer to the question, while the second statement provides additional information about the world in which Rick and Carl live. Both statements are true and do not conflict with each other."
+}

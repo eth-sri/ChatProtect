@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Look Around You?",
+  "orig": "The show was created and written by Peter Serafinowicz and Robert Popper, and produced by Mark Leveson and Simon Ratzel.",
+  "alt": "and was written by Peter Serafinowicz and Robert Popper.",
+  "prefix": " The producer of Look Around You was Mark Leveson.",
+  "triple": [
+    [
+      "and",
+      "written",
+      "by Peter Serafinowicz and Robert Popper,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides additional information about the production team of Look Around You, including the fact that Mark Leveson was one of the producers. Statement 2 simply reiterates that the show was written by Peter Serafinowicz and Robert Popper, without contradicting the information about the producer."
+}

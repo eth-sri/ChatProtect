@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Le grand soir?",
+  "orig": "Le grand soir is a 1967 French-Italian film directed by Claude Berri.",
+  "alt": "Le grand soir was directed by dAvis de episode.",
+  "prefix": "",
+  "triple": [
+    [
+      "a",
+      "directed",
+      "by Claude Berri."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements do not provide any information about the producer of Le grand soir. Statement 1 only mentions the director and the year of the film's release, while statement 2 incorrectly attributes the directorship to someone else entirely. Therefore, there is no contradiction between the statements regarding the producer of the film."
+}

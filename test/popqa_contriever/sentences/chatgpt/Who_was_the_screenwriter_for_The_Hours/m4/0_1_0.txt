@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Hours?",
+  "orig": "He wrote the novel on which the film was based, but the screenplay was written by David Hare.",
+  "alt": "However, Michael Cunningham wrote the novel \"The Hours\" on which the film was based.",
+  "prefix": " Michael Cunningham was not the screenwriter for The Hours.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      ""
+    ],
+    "compactie",
+    625
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Hours are not contradictory. Both statements agree that Michael Cunningham did not write the screenplay for the film, but he did write the novel on which the film was based. Statement 1 provides additional information that the screenplay was written by David Hare. Therefore, the statements complement each other and do not contradict each other."
+}

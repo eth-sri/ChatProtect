@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Lear?",
+  "orig": "William Shakespeare is the author of \"King Lear\".",
+  "alt": "William Shakespeare is the author of Lear.",
+  "prefix": "",
+  "triple": [
+    [
+      "William Shakespeare",
+      "is",
+      "the author of \"King Lear\"."
+    ],
+    "compactie",
+    473
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Lear are not contradictory. Both statements convey the same information that William Shakespeare is the author of the play \"King Lear\". The only difference is that the first statement includes the full title of the play while the second statement uses the shortened version of the title."
+}

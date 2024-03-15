@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Smooth?",
+  "orig": "The song was written by Rob Thomas, who is the lead vocalist of the band Matchbox Twenty, and Carlos Santana, who is a legendary guitarist and songwriter.",
+  "alt": "The song was written in 1999.",
+  "prefix": " The composer of \"Smooth\" is Rob Thomas and Carlos Santana.",
+  "triple": [
+    [
+      "The song",
+      "was written",
+      "by Rob Thomas,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Smooth? are not contradictory. Statement 1 provides additional information about the background of the two composers, while Statement 2 provides the year in which the song was written. Both statements are consistent with the fact that Rob Thomas and Carlos Santana are the composers of the song."
+}

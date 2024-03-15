@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Pelabuhanratu?",
+  "orig": "It is a port city located on the coast of West Java Province, Indonesia.",
+  "alt": "It is a port city located on the coast of West Java.",
+  "prefix": " Pelabuhanratu is located in Indonesia.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a port city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Pelabuhanratu?\" are not contradictory. Both statements provide additional information about the location of Pelabuhanratu, with statement 1 specifying that it is in West Java Province and statement 2 specifying that it is on the coast. Both statements support the initial statement that Pelabuhanratu is located in Indonesia."
+}

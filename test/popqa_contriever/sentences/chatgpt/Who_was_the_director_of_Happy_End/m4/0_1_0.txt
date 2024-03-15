@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Happy End?",
+  "orig": "It only discusses the Broadway musical \"Guys and Dolls\".",
+  "alt": "It only discusses the Broadway and Washington D.C. productions of a musical based on Damon Runyon's short story, \"The Idyll of Miss Sarah Brown\".",
+  "prefix": " The article does not mention Happy End.",
+  "triple": [
+    [
+      "It",
+      "only discusses",
+      "the Broadway musical \"Guys and Dolls\"."
+    ],
+    "compactie",
+    613
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Happy End? are not contradictory because they do not provide any information about the director of Happy End. They only discuss other musical productions and do not mention Happy End at all. Therefore, there is no contradiction between the statements."
+}

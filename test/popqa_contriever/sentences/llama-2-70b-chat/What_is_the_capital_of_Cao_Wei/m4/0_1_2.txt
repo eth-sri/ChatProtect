@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Cao Wei?",
+  "orig": "Cao Wei is a dukedom, not a kingdom or empire, and therefore does not have a capital.",
+  "alt": "A dukedom, did not have a specified capital.",
+  "prefix": " The capital of Cao Wei is not specified in the provided text.",
+  "triple": [
+    [
+      "a dukedom,",
+      "not have",
+      "a capital."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements explain that the provided text does not specify a capital for Cao Wei, as it is a dukedom and therefore does not have a specified capital."
+}

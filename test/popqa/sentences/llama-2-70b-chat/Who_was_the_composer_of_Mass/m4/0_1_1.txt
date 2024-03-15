@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Mass?",
+  "orig": "Mass is a theatre piece for singers, players, and dancers that was composed by Bernstein in 1971.",
+  "alt": "The theatre piece for singers, players, and dancers was composed in 1971.",
+  "prefix": " The composer of Mass is Leonard Bernstein.",
+  "triple": [
+    [
+      "a theatre piece for singers, players, and dancers",
+      "was composed",
+      "by Bernstein in 1971."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Mass? are not contradictory. Both statements provide additional information about the composition Mass and its composer Leonard Bernstein. Statement 1 specifically mentions that Mass is a theatre piece and that it was composed in 1971, while also attributing its composition to Bernstein. Statement 2 reiterates that the theatre piece was composed in 1971, without mentioning Bernstein by name. Therefore, both statements are consistent with each other and do not contradict the initial statement that Bernstein was the composer of Mass."
+}

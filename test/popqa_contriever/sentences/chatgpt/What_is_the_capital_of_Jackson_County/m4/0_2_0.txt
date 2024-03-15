@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Jackson County?",
+  "orig": "The state government operates from the Indiana Statehouse in Indianapolis.",
+  "alt": "The state government operates through various branches and departments located throughout the state, rather than having a single capital city.",
+  "prefix": " Brownstown is the county seat of Jackson County. However, it is not the capital because Indiana does not have an official state capital.",
+  "triple": [
+    [
+      "The state government",
+      "operates",
+      "from the Indiana Statehouse in Indianapolis."
+    ],
+    "compactie",
+    645
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that Brownstown is not the capital of Jackson County, while the second statement explains that Indiana does not have an official state capital. Both statements provide different information and do not contradict each other."
+}

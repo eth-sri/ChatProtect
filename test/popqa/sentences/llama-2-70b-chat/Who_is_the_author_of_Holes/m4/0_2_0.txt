@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Holes?",
+  "orig": "The book won the Newbery Medal in 1999 and was later adapted into a successful film and stage play.",
+  "alt": "The book won the Newbery Medal in 1999.",
+  "prefix": " The author of Holes is Louis Sachar. Holes is a young adult novel written by Sachar and published in 1998.",
+  "triple": [
+    [
+      "The book",
+      "won",
+      "the Newbery Medal in 1999"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Holes? are not contradictory. Both statements provide additional information about the book Holes and its author Louis Sachar. Statement 1 mentions that the book was adapted into a successful film and stage play, while Statement 2 simply reiterates that the book won the Newbery Medal in 1999."
+}

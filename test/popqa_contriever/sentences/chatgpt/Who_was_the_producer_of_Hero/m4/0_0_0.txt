@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Hero?",
+  "orig": "The producer of \"Hero\" was Gil Champion.",
+  "alt": "The producer of \"Hero\" was Gil Champion.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of \"Hero\"",
+      "was",
+      "Gil Champion."
+    ],
+    "compactie",
+    608
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are incomplete. While both statements correctly identify Gil Champion as a producer of \"Hero,\" they do not mention that he was not the only producer involved in the project. The text also mentions that Tim Kring and Stan Lee were also involved in developing the show, and that Kring was the original creator of the series. Therefore, a more complete answer to the prompt would be: \"The producers of 'Hero' included Gil Champion, Tim Kring, and Stan Lee.\""
+}

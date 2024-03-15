@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Debt?",
+  "orig": "The film was a remake of the 2007 Israeli film of the same name, which was directed by Assaf Bernstein and written by Bernstein and Ido Rosenblum.",
+  "alt": "a remake of the 2007 Israeli film of the same name, was directed by John Madden.",
+  "prefix": " The screenwriter for the 2010 film \"The Debt\" was Matthew Vaughn, who also directed the film. Vaughn co-wrote the screenplay with Jane Goldman and Peter Straughan.",
+  "triple": [
+    [
+      "a remake of the 2007 Israeli film of the same name,",
+      "was directed",
+      "by Assaf Bernstein"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides information about the original Israeli film and its writers, while Statement 2 provides information about the director of the 2010 remake. Both statements are relevant to the topic of the screenwriter for The Debt, but they do not contradict each other."
+}

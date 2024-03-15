@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Russian Empire?",
+  "orig": "In 1918, the capital was moved to Moscow, which has remained the capital of Russia ever since.",
+  "alt": "The capital has remained a significant cultural and historical center, with many of its grand buildings and landmarks still standing today.",
+  "prefix": " The capital of the Russian Empire was St. Petersburg, also known as Petrograd, from 1712 to 1917.",
+  "triple": [
+    [
+      "the capital",
+      "has remained",
+      "the capital of Russia ever since."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides historical information about the capital of the Russian Empire from 1712 to 1917, which was St. Petersburg. The second statement explains that after the Russian Revolution in 1917, the capital was moved to Moscow, which has remained the capital of Russia ever since. Therefore, the two statements provide information about different time periods and do not contradict each other. Additionally, the second statement provides further information about the significance of the former capital, St. Petersburg, which is still an important cultural and historical center."
+}

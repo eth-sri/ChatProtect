@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of 100?",
+  "orig": "The movie \"100\" doesn't exist, so there is no director associated with it.",
+  "alt": "The movie \"100\" doesn't exist, therefore, there is no director associated with it.",
+  "prefix": " I'm not able to answer that question as it doesn't make sense.",
+  "triple": [
+    [
+      "The movie \"100\"",
+      "doesn't exist,",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements explain that there is no director associated with the movie \"100\" because it doesn't exist. They provide the same answer to the question and do not contradict each other."
+}

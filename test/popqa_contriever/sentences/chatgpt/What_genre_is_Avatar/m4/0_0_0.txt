@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Avatar?",
+  "orig": "Avatar is an epic science fiction film.",
+  "alt": "Avatar is a science fiction film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Avatar",
+      "is",
+      "an epic science fiction film."
+    ],
+    "compactie",
+    612
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Avatar are not contradictory. Statement 1 provides a more specific description of the genre, labeling it as an epic science fiction film, while statement 2 simply identifies it as a science fiction film. Both statements agree that Avatar belongs to the science fiction genre."
+}

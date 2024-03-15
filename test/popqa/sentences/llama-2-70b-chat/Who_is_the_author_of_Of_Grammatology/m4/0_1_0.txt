@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Of Grammatology?",
+  "orig": "Of Grammatology is a book written by Derrida and first published in French in 1967, under the title De la grammatologie.",
+  "alt": "Of Grammatology is a book.",
+  "prefix": " The author of Of Grammatology is Jacques Derrida.",
+  "triple": [
+    [
+      "Of Grammatology",
+      "is",
+      "a book"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Of Grammatology are not contradictory. Statement 1 provides additional information about the book, including its original French title and year of publication, while Statement 2 simply confirms that Of Grammatology is indeed a book. Both statements are consistent with the initial statement that Jacques Derrida is the author of the book."
+}

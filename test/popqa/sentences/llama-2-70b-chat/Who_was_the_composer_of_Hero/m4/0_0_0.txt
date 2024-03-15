@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Hero?",
+  "orig": "The composer of the soundtrack for the film \"Hero\" is Tan Dun.",
+  "alt": "The composer of the soundtrack for the film Hero is Tan Dun.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of the soundtrack for the film",
+      "is",
+      "Tan Dun."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of Hero are not contradictory. Both statements provide the same information, with the only difference being the use of quotation marks around the title of the film in the first statement. This does not change the fact that Tan Dun is the composer of the soundtrack for the film Hero."
+}

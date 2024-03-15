@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Violin Concerto?",
+  "orig": "61, was composed by Ludwig van Beethoven.",
+  "alt": "The Violin Concerto in D major, Op. 61, was composed by Ludwig van Beethoven.",
+  "prefix": " The Violin Concerto in D major, Op.",
+  "triple": [
+    [
+      "61,",
+      "was composed",
+      "by Ludwig van Beethoven."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. Statement 1 provides the answer to the prompt by stating that the composer of the Violin Concerto is Ludwig van Beethoven. Statement 2 restates the same information in a more complete sentence, including the title and opus number of the concerto. Both statements convey the same information and do not contradict each other."
+}

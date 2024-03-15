@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Test?",
+  "orig": "The genre of The Test is science fiction/young adult fiction.",
+  "alt": "The genre of The Test is science fiction.",
+  "prefix": "",
+  "triple": [
+    [
+      "The genre of The Test",
+      "is",
+      "science fiction/young adult fiction."
+    ],
+    "compactie",
+    593
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Test are not contradictory. Both statements identify science fiction as the primary genre of the book. However, the first statement adds the qualifier \"young adult fiction,\" indicating that the book is targeted towards a specific age group."
+}

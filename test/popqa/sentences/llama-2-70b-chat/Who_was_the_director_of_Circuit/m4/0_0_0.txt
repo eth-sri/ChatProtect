@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Circuit?",
+  "orig": "I'm not aware of a movie called \"Circuit.\"",
+  "alt": "The director of Circuit is unaware of a movie called \"The Matrix.\"",
+  "prefix": "",
+  "triple": [
+    [
+      "aware of a movie",
+      "called",
+      "\"Circuit.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Circuit are not contradictory. Statement 1 simply indicates that the person is not familiar with the movie \"Circuit\" and therefore cannot answer the question. Statement 2 provides information about the director of \"Circuit\" and their lack of knowledge about a different movie, \"The Matrix.\" These statements do not contradict each other as they are addressing different topics."
+}

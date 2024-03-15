@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Sneakers?",
+  "orig": "They first conceived the idea for the film in 1981 while doing research for the movie WarGames.",
+  "alt": "They first conceived the idea for the film in 1981, while doing research for their previous movie, \"WarGames\".",
+  "prefix": " The screenwriter for Sneakers was Lawrence Lasker and Walter F. Parkes.",
+  "triple": [
+    [
+      "They",
+      "first conceived",
+      "the idea for the film in"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Sneakers are not contradictory. They both identify Lawrence Lasker and Walter F. Parkes as the screenwriters and mention that they first came up with the idea for the film while doing research for WarGames. The only difference is that the second statement clarifies that WarGames was their previous movie."
+}

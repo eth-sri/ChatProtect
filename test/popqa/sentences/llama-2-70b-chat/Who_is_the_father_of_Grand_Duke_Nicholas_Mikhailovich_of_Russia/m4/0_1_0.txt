@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Grand Duke Nicholas Mikhailovich of Russia?",
+  "orig": "Therefore, the father of Grand Duke Nicholas Mikhailovich of Russia is Grand Duke Michael Nicolaievich of Russia.",
+  "alt": "The father of Grand Duke Nicholas Mikhailovich of Russia is Grand Duke Michael Nicolaievich of Russia.",
+  "prefix": " Grand Duke Nicholas Mikhailovich of Russia was the son of Grand Duke Michael Nicolaievich of Russia and his wife, Princess Cecilia of Baden.",
+  "triple": [
+    [
+      "the father of Grand Duke Nicholas Mikhailovich of Russia",
+      "is",
+      "Grand Duke Michael Nicolaievich of Russia."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both state the same fact that Grand Duke Michael Nicolaievich of Russia is the father of Grand Duke Nicholas Mikhailovich of Russia. The only difference is that statement 1 uses \"therefore\" to indicate that it is a logical conclusion based on the information provided in the text, while statement 2 simply states the fact without any additional context."
+}

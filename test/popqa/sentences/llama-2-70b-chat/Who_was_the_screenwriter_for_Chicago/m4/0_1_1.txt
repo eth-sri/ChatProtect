@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Chicago?",
+  "orig": "He adapted the screenplay from the stage musical of the same name, which was based on a play by Maurine Dallas Watkins.",
+  "alt": "The screenplay was based on the stage musical of the same name.",
+  "prefix": " The screenwriter for the 2002 film \"Chicago\" was Bill Condon.",
+  "triple": [
+    [
+      "the",
+      "was based",
+      "on a play by Maurine Dallas Watkins."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides additional information about the source material for the screenplay, while Statement 2 simply reiterates that the screenplay was based on the stage musical. Both statements are true and do not contradict each other."
+}

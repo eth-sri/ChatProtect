@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Forever?",
+  "orig": "The text only mentions that the song was a world success for an artist named Demis Roussos, but it does not mention the name of the composer.",
+  "alt": "The text only mentions the name of the song, \"Forever and Ever,\" but does not provide the name of the composer.",
+  "prefix": " The composer of the song \"Forever\" is not specified in the text.",
+  "triple": [
+    [
+      "The text",
+      "only mentions",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both convey the same information that the text does not provide the name of the composer of the song \"Forever and Ever\". They simply provide different details about what the text does mention, such as the success of the song and the fact that it is referred to as \"Forever\"."
+}

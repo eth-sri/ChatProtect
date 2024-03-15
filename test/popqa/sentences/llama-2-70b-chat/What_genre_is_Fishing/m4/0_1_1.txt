@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Fishing?",
+  "orig": "Sports: Fishing can be considered a sport as it involves skill, strategy, and competition.",
+  "alt": "Fishing can be considered a part of the following genres:\n1. Sport; involves; outdoor activities.",
+  "prefix": " Fishing can be considered a part of the following genres:\n\n1.",
+  "triple": [
+    [
+      "a sport",
+      "involves",
+      "skill, strategy, and competition."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Fishing? are not contradictory. Statement 1 identifies fishing as a sport due to the skills, strategy, and competition involved, while Statement 2 expands on this by including fishing as an outdoor activity within the sports genre. Both statements are consistent in their classification of fishing as a sport and outdoor activity."
+}

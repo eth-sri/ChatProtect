@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Tiger's Tail?",
+  "orig": "However, the film was produced by Merlin Films, and the producers were Kieran Corrigan and Redmond Morris.",
+  "alt": "The producers of The Tiger's Tail were Kieran Corrigan and Neil Jordan.",
+  "prefix": " The director of The Tiger's Tail is John Boorman, not the producer.",
+  "triple": [
+    [
+      "the producers",
+      "were",
+      "Kieran Corrigan and Redmond Morris."
+    ],
+    "compactie",
+    593
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of The Tiger's Tail? are contradictory. The first statement correctly identifies Kieran Corrigan as one of the producers, but lists Redmond Morris instead of Neil Jordan as the other producer. The second statement incorrectly lists Neil Jordan as one of the producers instead of Redmond Morris. Therefore, the two statements cannot both be true at the same time."
+}

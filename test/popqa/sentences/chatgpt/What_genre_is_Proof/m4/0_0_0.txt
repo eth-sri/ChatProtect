@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Proof?",
+  "orig": "Proof is a drama film.",
+  "alt": "Proof is a play written by David Auburn.",
+  "prefix": "",
+  "triple": [
+    [
+      "Proof",
+      "is",
+      "a drama film."
+    ],
+    "compactie",
+    471
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Proof are not contradictory. The first statement correctly identifies Proof as a drama film, while the second statement correctly identifies Proof as a play written by David Auburn. Both statements refer to different versions of Proof, but they do not contradict each other."
+}

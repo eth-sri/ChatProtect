@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Pearl?",
+  "orig": "The author of Pearl is a Middle English poem of 12 cantos, written by an anonymous poet.",
+  "alt": "The poem was written by an anonymous author.",
+  "prefix": "",
+  "triple": [
+    [
+      "a Middle English poem of 12 cantos,",
+      "written",
+      "by an anonymous poet."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Pearl are not contradictory. Both statements agree that the author of Pearl is anonymous. Statement 1 provides additional information about the poem, stating that it is a Middle English poem with 12 cantos. Statement 2 simply reiterates that the author is unknown. Therefore, both statements are consistent with each other."
+}

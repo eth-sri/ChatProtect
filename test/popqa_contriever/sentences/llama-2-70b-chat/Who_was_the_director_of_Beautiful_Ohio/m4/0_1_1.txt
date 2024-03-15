@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Beautiful Ohio?",
+  "orig": "The song was written by Ballard MacDonald and the music was composed by Robert A.",
+  "alt": "The music was composed by Robert A. \"Bobo\" King, also known as Mary Earl.",
+  "prefix": " The director of the song \"Beautiful Ohio\" is not specified in the provided information.",
+  "triple": [
+    [
+      "the music",
+      "was composed",
+      "by Robert A."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While statement 1 only mentions the composer of the music, statement 2 provides more detail by specifying that the composer used the pseudonym Mary Earl. Neither statement mentions a director, so there is no contradiction between them."
+}

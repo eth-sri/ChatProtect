@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Mr. Magorium's Wonder Emporium?",
+  "orig": "The composer of Mr. Magorium's Wonder Emporium is Alexandre Desplat.",
+  "alt": "The composer of Mr. Magorium's Wonder Emporium is Alexandre Desplat.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of Mr. Magorium's Wonder Emporium",
+      "is",
+      "Alexandre Desplat."
+    ],
+    "compactie",
+    503
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. They are identical and both state that Alexandre Desplat was the composer of Mr. Magorium's Wonder Emporium, but the prompt only asks for one answer. Therefore, having two identical statements implies that there is no clear answer or that the answer is being repeated unnecessarily."
+}

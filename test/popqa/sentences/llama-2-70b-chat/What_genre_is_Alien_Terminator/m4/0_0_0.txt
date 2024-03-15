@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Alien Terminator?",
+  "orig": "Alien Terminator is a science fiction action horror film.",
+  "alt": "Alien Terminator is a science fiction action film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Alien Terminator",
+      "is",
+      "a science fiction action horror film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Alien Terminator are not contradictory. Both statements identify the film as belonging to the science fiction and action genres. The only difference is that the first statement adds the horror genre to the mix, while the second statement does not. Therefore, both statements can be true simultaneously, and they do not contradict each other."
+}

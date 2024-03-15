@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about joe ledley",
+  "orig": "He started his football career at Cardiff City, where he played for six years before moving to Scottish club Celtic in 2010.",
+  "alt": "He started his professional career at Cardiff City, the club he supported as a boy.",
+  "prefix": " Joe Ledley is a Welsh professional footballer who was born on January 23, 1987, in Cardiff, Wales.",
+  "triple": [
+    [
+      "He",
+      "started",
+      "his football career at Cardiff City,"
+    ],
+    "compactie",
+    476
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Joe Ledley are not contradictory. Statement 1 provides information about his career trajectory, specifically his move from Cardiff City to Celtic. Statement 2 provides information about his beginnings as a professional footballer, specifically that he started at Cardiff City, the club he supported as a boy. Both statements provide different but complementary information about Joe Ledley's career."
+}

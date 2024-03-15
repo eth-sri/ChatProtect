@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Night Watch?",
+  "orig": "It is a novel set in World War II England, and it follows the lives of three main characters: Kay, Helen, and Viv.",
+  "alt": "The novel is set in London during World War II.",
+  "prefix": " The author of \"The Night Watch\" is Sarah Waters.",
+  "triple": [
+    [
+      "a novel",
+      "set",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. The first statement identifies the author of the novel, while the second statement provides information about the setting of the novel. They are two separate pieces of information that do not contradict each other."
+}

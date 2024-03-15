@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Jazz?",
+  "orig": "He co-wrote the book \"Bix: Man and Legend\" with Philip R. Evans, which was the first jazz biography to be nominated for a National Book Award.",
+  "alt": "He was a Pulitzer Prize-winning critic and historian.",
+  "prefix": " The author of the book \"Jazz\" is not explicitly stated in the provided text. However, based on the information provided, it seems that the author is Richard Sudhalter. Sudhalter was a jazz critic and historian who wrote extensively about jazz music and its history.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "the first jazz biography"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Jazz? are not contradictory. Statement 1 provides additional information about Sudhalter's co-authorship of another jazz biography, while Statement 2 is false as Sudhalter was not a Pulitzer Prize-winning critic and historian."
+}

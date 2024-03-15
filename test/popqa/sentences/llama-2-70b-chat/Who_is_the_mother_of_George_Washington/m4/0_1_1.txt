@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of George Washington?",
+  "orig": "She was born in 1708 and married Augustine Washington in 1731.",
+  "alt": "She married Augustine Washington.",
+  "prefix": " The mother of George Washington was Mary Ball Washington.",
+  "triple": [
+    [
+      "She",
+      "married",
+      "Augustine Washington in 1731."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the mother of George Washington are not contradictory. Both statements provide additional information about Mary Ball Washington, who is confirmed to be the mother of George Washington in the initial text. Statement 1 provides her birth year and the year she married Augustine Washington, while Statement 2 simply reiterates that she married Augustine Washington."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Second Generation?",
+  "orig": "\"Second Generation\" is a novel written by >.",
+  "alt": "The novel was written by Eric Segal.",
+  "prefix": "",
+  "triple": [
+    [
+      "a novel",
+      "written",
+      "by >."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Second Generation\" are not contradictory. Statement 1 indicates that the novel was written by someone, but does not specify who. Statement 2 provides the specific answer that the author is Eric Segal. Therefore, both statements are consistent with each other."
+}

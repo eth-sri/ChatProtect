@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Creation?",
+  "orig": "However, the given text is referring to \"Creation/Creator,\" an oratorio composed by Christopher Theofanidis.",
+  "alt": "The given text is referring to a different work called \"Creation/Creator\" composed by Christopher Theofanidis.",
+  "prefix": " The composer of The Creation is Franz Joseph Haydn.",
+  "triple": [
+    [
+      "the given text",
+      "is referring",
+      "to \"Creation/Creator,\""
+    ],
+    "compactie",
+    651
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of The Creation? are not contradictory. While the initial text refers to The Creation composed by Franz Joseph Haydn, the two additional statements clarify that the given text is actually referring to a different work called \"Creation/Creator\" composed by Christopher Theofanidis. Therefore, there is no contradiction between the statements."
+}

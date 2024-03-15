@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Romance?",
+  "orig": "The producer of the 1930 film \"Romance\" was Samuel Goldwyn.",
+  "alt": "The film \"Romance\" was produced by Harvey Weinstein.",
+  "prefix": "",
+  "triple": [
+    [
+      "film \"Romance\"",
+      "was",
+      "Samuel Goldwyn."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Romance\" are contradictory. Statement 1 claims that Samuel Goldwyn was the producer of the film, while statement 2 claims that Harvey Weinstein was the producer. As both statements cannot be true at the same time, they contradict each other. It is important to note that statement 1 is accurate, as Samuel Goldwyn was indeed the producer of the 1930 film \"Romance.\" Statement 2 is incorrect."
+}

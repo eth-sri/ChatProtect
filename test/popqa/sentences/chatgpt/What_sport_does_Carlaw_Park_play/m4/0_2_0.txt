@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Carlaw Park play?",
+  "orig": "However, the stadium was demolished in 1989, and no sports are currently played at the Carlaw Park site.",
+  "alt": "The stadium was demolished in 2018 to make way for a new development.",
+  "prefix": " Carlaw Park was a former sports stadium located in Auckland, New Zealand. It was used to play rugby league, rugby union, soccer, and other sports.",
+  "triple": [
+    [
+      "the stadium",
+      "was demolished",
+      "in 1989,"
+    ],
+    "compactie",
+    509
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but rather provide additional information about the fate of Carlaw Park. Statement 1 clarifies that the stadium is no longer in use for any sports, while Statement 2 explains that the stadium was demolished to make way for a new development. Both statements are consistent with the fact that Carlaw Park used to be a sports stadium, but is no longer in operation."
+}

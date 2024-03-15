@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Mario franchise?",
+  "orig": "The Mario franchise is primarily a platform game franchise, but it has also branched out into other genres such as racing, sports, and role-playing games.",
+  "alt": "The Mario franchise is a platform game franchise.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Mario franchise",
+      "is",
+      "a platform game franchise,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of the Mario franchise are not contradictory. Statement 1 acknowledges that while the franchise is primarily known for its platform games, it has also expanded into other genres. Statement 2 simply states that the franchise is a platform game franchise, which is true as the majority of Mario games fall under this genre. Therefore, both statements are accurate and do not contradict each other."
+}

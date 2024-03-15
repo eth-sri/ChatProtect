@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Barbu \u0218tef\u0103nescu Delavrancea born?",
+  "orig": "Barbu \u0218tef\u0103nescu Delavrancea was born in Bucharest.",
+  "alt": "Barbu \u0218tef\u0103nescu Delavrancea was born in the village of Delea Nou\u0103, which is now a suburb of Bucharest.",
+  "prefix": "",
+  "triple": [
+    [
+      "Barbu \u0218tef\u0103nescu Delavrancea",
+      "was born",
+      "in Bucharest."
+    ],
+    "compactie",
+    676
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides the city where Barbu \u0218tef\u0103nescu Delavrancea was born, which is Bucharest. The second statement provides additional information that the village of Delea Nou\u0103, where he was specifically born, is now a suburb of Bucharest. Therefore, both statements are true and complement each other."
+}

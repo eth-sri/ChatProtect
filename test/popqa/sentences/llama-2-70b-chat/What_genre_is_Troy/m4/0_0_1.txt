@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Troy?",
+  "orig": "Troy is a historical epic film directed by Wolfgang Petersen, released in 2004.",
+  "alt": "The film was directed by Wolfgang Petersen.",
+  "prefix": "",
+  "triple": [
+    [
+      "a historical epic film",
+      "directed",
+      "by Wolfgang Petersen,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Troy are not contradictory. The first statement provides the genre as a historical epic film, while the second statement simply reiterates the director of the film."
+}

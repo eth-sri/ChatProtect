@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Returned?",
+  "orig": "The genre of The Returned is thriller/horror.",
+  "alt": "The genre of The Returned is a thriller.",
+  "prefix": "",
+  "triple": [
+    [
+      "The genre of The Returned",
+      "is",
+      "thriller/horror."
+    ],
+    "compactie",
+    608
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Returned are not contradictory. Both statements identify the film as a thriller, but the first statement adds the subgenre of horror. Therefore, the first statement is more specific than the second statement."
+}

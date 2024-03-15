@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of All by Myself?",
+  "orig": "He wrote the song and recorded it with his band The Raspberries in 1976.",
+  "alt": "The song was recorded by Celine Dion.",
+  "prefix": " The composer of \"All by Myself\" is Eric Carmen.",
+  "triple": [
+    [
+      "the song",
+      "recorded",
+      "it with his band The Raspberries in 1976."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"All by Myself\" are not contradictory. The first statement identifies Eric Carmen as the composer of the song and mentions that he recorded it with his band The Raspberries in 1976. The second statement simply adds that the song was also recorded by Celine Dion at a later time. Both statements provide additional information about the song and its history, but they do not contradict each other."
+}

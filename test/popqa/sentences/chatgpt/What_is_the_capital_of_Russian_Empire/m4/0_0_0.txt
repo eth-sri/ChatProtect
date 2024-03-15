@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Russian Empire?",
+  "orig": "The capital of the Russian Empire was St. Petersburg from 1712 to 1917.",
+  "alt": "The capital of the Russian Empire was Saint Petersburg.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of the Russian Empire",
+      "was",
+      "St. Petersburg from 1712 to 1917."
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of the Russian Empire are not contradictory. Both statements provide the same answer to the prompt, with the only difference being the spelling of the city's name. \"St. Petersburg\" and \"Saint Petersburg\" are simply two different ways of referring to the same city, and do not change the fact that it was the capital of the Russian Empire from 1712 to 1917."
+}

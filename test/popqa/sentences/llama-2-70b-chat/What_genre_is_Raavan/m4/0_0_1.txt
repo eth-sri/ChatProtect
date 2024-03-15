@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Raavan?",
+  "orig": "Raavan is a 2010 Indian epic action-adventure film directed by Mani Ratnam.",
+  "alt": "The film was directed by Mani Ratnam.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 2010 Indian epic action-adventure film",
+      "directed",
+      "by Mani Ratnam."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Raavan do not provide any information that is contradictory. While Statement 1 provides a brief description of the film, Statement 2 simply reiterates the fact that the film was directed by Mani Ratnam. Neither statement provides any information about the genre of the film, so there is no contradiction between them."
+}

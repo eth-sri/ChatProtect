@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Lincoln?",
+  "orig": "However, based on the style and content of the text, it appears to be written by a third-person narrator providing biographical information about Lincoln.",
+  "alt": "It appears to be written in an encyclopedic style, with a focus on providing factual information about Joseph Crosby Lincoln's life and work.",
+  "prefix": " The author of the text about Joseph Crosby Lincoln is not explicitly stated.",
+  "triple": [
+    [
+      "it",
+      "appears to be written",
+      "by a third-person narrator"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Lincoln are not contradictory. Statement 1 describes the style and perspective of the text, while Statement 2 describes the focus and purpose of the text. Both statements provide complementary information about the text and do not contradict each other."
+}

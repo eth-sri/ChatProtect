@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Airline Disaster?",
+  "orig": "Airline Disaster is an action thriller film.",
+  "alt": "Airline Disaster is a disaster film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Airline Disaster",
+      "is",
+      "an action thriller film."
+    ],
+    "compactie",
+    474
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Airline Disaster are not contradictory. The film can belong to multiple genres, and in this case, it can be classified as both an action thriller and a disaster film. The movie features intense action sequences and suspenseful moments, which are typical of an action thriller. At the same time, the plot revolves around a catastrophic event that endangers the lives of the passengers and crew, making it a disaster film. Therefore, both statements accurately describe the genre of Airline Disaster."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Atlanta the capital of?",
+  "orig": "It is the capital city of the state of Georgia, USA.",
+  "alt": "It is the most populous city in the state of Georgia, United States.",
+  "prefix": " Atlanta is not a capital of any state or country.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "the capital city of the state of Georgia, USA."
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that Atlanta is not a capital of any state or country, while the second statement provides additional information that Atlanta is the capital city of the state of Georgia, USA. The third statement provides further information that Atlanta is also the most populous city in the state of Georgia, United States. Therefore, all three statements are consistent and provide different aspects of information about Atlanta."
+}

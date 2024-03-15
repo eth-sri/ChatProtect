@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Mark?",
+  "orig": "The text mentions Michael Frayn, who became a lifelong friend of the researcher, director, and producer John Drury, but it does not mention anyone named Mark.",
+  "alt": "The text mentions Michael Frayn.",
+  "prefix": " The director of The Mark is not specified in the text.",
+  "triple": [
+    [
+      "The text",
+      "mentions",
+      "Michael Frayn,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the text mentions Michael Frayn, who became a friend of the director and producer John Drury, it does not provide any information about who directed The Mark. Therefore, statement 1 clarifies that the text does not mention anyone named Mark, while statement 2 simply confirms that Michael Frayn is mentioned in the text."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Brandon Lee?",
+  "orig": "Brandon Lee's father was Bruce Lee, a legendary martial artist, actor, and philosopher.",
+  "alt": "Brandon Lee's father is Bruce Lee.",
+  "prefix": "",
+  "triple": [
+    [
+      "Brandon Lee's",
+      "was",
+      "Bruce Lee, a legendary martial artist, actor, and philosopher."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Brandon Lee are not contradictory. Both statements identify Bruce Lee as Brandon Lee's father. The only difference is that statement 1 uses the past tense \"was\" to refer to Bruce Lee, while statement 2 uses the present tense \"is\". However, this difference in tense does not change the fact that both statements are identifying Bruce Lee as Brandon Lee's father."
+}

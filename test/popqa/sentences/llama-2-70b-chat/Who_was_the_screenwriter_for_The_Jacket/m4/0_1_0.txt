@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Jacket?",
+  "orig": "The Jacket is a psychological thriller directed by John Maybury and starring Adrien Brody, Keira Knightley, and Daniel Craig.",
+  "alt": "The Jacket is a psychological thriller.",
+  "prefix": " The screenwriter for the 2005 film The Jacket was Massy Tadjedin.",
+  "triple": [
+    [
+      "The Jacket",
+      "is",
+      "a psychological thriller"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Jacket are not contradictory. Statement 1 provides additional information about the film, including the director and main cast members, while statement 2 simply reiterates the genre of the film. Both statements are consistent with the fact that Massy Tadjedin was the screenwriter for The Jacket."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The American President?",
+  "orig": "If you are referring to the film, the score was composed by Marc Shaiman.",
+  "alt": "The film's score was composed by Marc Shaiman.",
+  "prefix": " There is no specific piece of music called \"The American President\".",
+  "triple": [
+    [
+      "the film, the score",
+      "was composed",
+      "by Marc Shaiman."
+    ],
+    "compactie",
+    619
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that there is no specific piece of music called \"The American President\", while the second statement provides the correct information that the composer of the score for the film \"The American President\" is Marc Shaiman."
+}

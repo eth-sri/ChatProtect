@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Fascinating Rhythm?",
+  "orig": "It was written in 1924 and is one of Gershwin's most famous compositions.",
+  "alt": "It is a jazz standard that has been performed by many artists.",
+  "prefix": " The composer of Fascinating Rhythm is George Gershwin.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "one of Gershwin's most famous compositions."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Fascinating Rhythm are not contradictory. The first statement identifies George Gershwin as the composer of the piece and provides information about when it was written and its level of fame. The second statement provides additional information about the piece, specifically that it is a jazz standard that has been performed by many artists. Both statements are true and do not contradict each other."
+}

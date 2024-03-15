@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of arrondissement of Limoges?",
+  "orig": "I'm not sure what you mean by \"arrondissement of Limoges.\"",
+  "alt": "You mean Limoges.",
+  "prefix": "",
+  "triple": [
+    [
+      "you",
+      "mean",
+      "by \"arrondissement of Limoges.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of arrondissement of Limoges?\" are contradictory. \n\nStatement 1 suggests that the person is not familiar with the term \"arrondissement of Limoges\" and is unsure what it refers to. However, Statement 2 directly answers the question by stating that the capital of the arrondissement of Limoges is Limoges. Therefore, Statement 2 contradicts Statement 1 by providing a clear answer to the question."
+}

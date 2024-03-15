@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Bad?",
+  "orig": "He has produced numerous albums for Michael Jackson, including \"Off the Wall,\" \"Thriller,\" and \"Bad.\"",
+  "alt": "He has produced many other successful albums, including \"Thriller,\" \"Off the Wall,\" and \"Dangerous.\"",
+  "prefix": " The producer of the album \"Bad\" by Michael Jackson was Quincy Jones. Jones is a legendary music producer and composer who has worked with many famous artists throughout his career.",
+  "triple": [
+    [
+      "He",
+      "has produced",
+      "numerous albums for Michael Jackson, including \"Off"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Bad\" are not contradictory. Both statements confirm that Quincy Jones was the producer of the album \"Bad\" by Michael Jackson, and that he has also produced other successful albums for Jackson, including \"Off the Wall\" and \"Thriller.\" The only difference between the two statements is the inclusion of the album \"Dangerous\" in statement 2, which does not contradict the fact that Jones produced \"Bad.\""
+}

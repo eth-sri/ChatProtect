@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Sneakers?",
+  "orig": "He also directed the film and was one of the producers.",
+  "alt": "The film was directed by Phil Alden Robinson.",
+  "prefix": " The screenwriter for the 1992 film \"Sneakers\" was Phil Alden Robinson.",
+  "triple": [
+    [
+      "the film",
+      "was",
+      "one of the producers."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Sneakers are contradictory. The first statement says that Phil Alden Robinson was the screenwriter, director, and one of the producers for the film, while the second statement only says that he was the director. Therefore, the second statement contradicts the first statement by omitting the fact that Robinson was also the screenwriter and one of the producers."
+}

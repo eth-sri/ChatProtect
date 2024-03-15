@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Lou Christie?",
+  "orig": "His music style is generally classified as blue-eyed soul, which is a subgenre of soul music that is performed by white artists.",
+  "alt": "His music style is generally classified as pop rock.",
+  "prefix": " Lou Christie is a singer known for his hit songs in the 1960s and 1970s.",
+  "triple": [
+    [
+      "His music style",
+      "is generally classified",
+      "as blue-eyed soul,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Lou Christie's genre are contradictory as one classifies his music as blue-eyed soul, a subgenre of soul music, while the other classifies it as pop rock. While there may be some overlap between the two genres, they are distinct and have different characteristics. Therefore, it is not possible for both statements to be true at the same time."
+}

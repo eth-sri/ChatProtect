@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Bloodtide?",
+  "orig": "Bloodtide is a young adult novel written by Burgess and was first published in 1996.",
+  "alt": "Bloodtide is a young adult novel.",
+  "prefix": " The author of Bloodtide is Melvin Burgess.",
+  "triple": [
+    [
+      "Bloodtide",
+      "is",
+      "a young adult novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Bloodtide? are not contradictory. The first statement provides the name of the author, Melvin Burgess, and the second statement describes the genre of the novel, which is young adult. Both statements provide different information about the book and its author, but they do not contradict each other."
+}

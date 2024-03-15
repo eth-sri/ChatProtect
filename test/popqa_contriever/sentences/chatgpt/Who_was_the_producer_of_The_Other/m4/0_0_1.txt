@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Other?",
+  "orig": "The producer of The Other was Tom Tryon, who also wrote the novel the film was adapted from and co-wrote the screenplay.",
+  "alt": "Tom Tryon, who wrote the novel \"The Other,\" also adapted it for the film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Tom Tryon,",
+      "also wrote",
+      ""
+    ],
+    "compactie",
+    628
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Other are contradictory. The first statement claims that Tom Tryon was the producer, while the second statement claims that he adapted the novel for the film. Producing a film and adapting a novel for a film are two different roles, so the statements cannot both be true. It is possible that Tom Tryon had a hand in both producing and adapting the film, but the statements do not provide enough information to confirm this."
+}

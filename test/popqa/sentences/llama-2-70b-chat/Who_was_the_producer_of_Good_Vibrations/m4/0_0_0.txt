@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Good Vibrations?",
+  "orig": "Good Vibrations was produced by Brian Wilson and The Beach Boys.",
+  "alt": "Good Vibrations was produced by Brian Wilson.",
+  "prefix": "",
+  "triple": [
+    [
+      "Good Vibrations",
+      "was produced",
+      "by Brian Wilson and The Beach Boys."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Good Vibrations are not contradictory. Statement 1 includes both Brian Wilson and The Beach Boys as producers, while Statement 2 only mentions Brian Wilson as the producer. Therefore, Statement 2 is a subset of Statement 1, as it includes the same information but with less detail."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Images?",
+  "orig": "\"Images\" is a suite of six pieces for solo piano that Debussy composed between 1901 and 1905.",
+  "alt": "\"Images\" is a suite of six piano pieces.",
+  "prefix": " The composer of \"Images\" is Claude Debussy.",
+  "triple": [
+    [
+      "\"Images\"",
+      "is",
+      "a suite of six pieces for solo piano"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Images? are not contradictory. Both statements provide additional information about the composition \"Images\" and do not contradict the initial statement that Claude Debussy was the composer. Statement 1 provides the time frame in which Debussy composed the pieces, while Statement 2 specifies that \"Images\" is a suite of six piano pieces."
+}

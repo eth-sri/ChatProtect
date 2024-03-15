@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Gustavo A. Madero born?",
+  "orig": "Gustavo A. Madero was born in the city of San Ignacio, Sinaloa, Mexico on December 25, 1875.",
+  "alt": "Gustavo A. Madero was born in Mexico City, Mexico.",
+  "prefix": "",
+  "triple": [
+    [
+      "Gustavo A. Madero",
+      "was born",
+      "in the city of San Ignacio, Sinaloa, Mexico"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about In what city was Gustavo A. Madero born? are contradictory. The first statement claims that Gustavo A. Madero was born in San Ignacio, Sinaloa, Mexico, while the second statement claims that he was born in Mexico City, Mexico. Since the two statements provide different answers to the same question, they cannot both be true at the same time."
+}

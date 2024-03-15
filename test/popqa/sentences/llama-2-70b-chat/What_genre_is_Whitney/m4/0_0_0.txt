@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Whitney?",
+  "orig": "Whitney Houston's music can be classified into several genres, including:\n\n1.",
+  "alt": "Whitney Houston's music can be classified as pop.",
+  "prefix": "",
+  "triple": [
+    [
+      "Whitney Houston's music",
+      "can be classified",
+      "into several genres, including:"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Whitney?\" are not contradictory. Statement 1 suggests that Whitney Houston's music can be classified into multiple genres, while statement 2 specifically identifies pop as one of those genres. Therefore, statement 2 is a subset of statement 1 and does not contradict it."
+}

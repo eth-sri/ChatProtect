@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of First Law?",
+  "orig": "The trilogy consists of three books: \"The Blade Itself,\" \"Before They Are Hanged,\" and \"Last Argument of Kings.\"",
+  "alt": "The trilogy consists of three books: The Blade Itself, Before They Are Hanged, and Last Argument of Kings.",
+  "prefix": " The author of the First Law trilogy is Joe Abercrombie.",
+  "triple": [
+    [
+      "The trilogy",
+      "consists",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of First Law are not contradictory. Both statements confirm that the author of the First Law trilogy is Joe Abercrombie and provide additional information about the trilogy consisting of three books titled \"The Blade Itself,\" \"Before They Are Hanged,\" and \"Last Argument of Kings.\" The only difference between the two statements is the use of quotation marks around the book titles, which does not affect the accuracy of the information provided."
+}

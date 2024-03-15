@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Philadelphia?",
+  "orig": "Philadelphia was released in 1993 and starred Tom Hanks and Denzel Washington.",
+  "alt": "Philadelphia starred Tom Hanks and Denzel Washington.",
+  "prefix": " The producer of the movie Philadelphia was Jonathan Demme. He was a film director, producer, and screenwriter who was known for his work on a variety of films, including Philadelphia, The Silence of the Lambs, and Rachel Getting Married.",
+  "triple": [
+    [
+      "Philadelphia",
+      "starred",
+      "Tom Hanks and Denzel Washington."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the producer of Philadelphia are not contradictory. The first statement provides information about the producer, Jonathan Demme, and the second statement provides information about the cast of the movie. They are both relevant to the topic of the prompt but do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Do The Work?",
+  "orig": "The author of \"Do The Work\" is Steven Pressfield.",
+  "alt": "The author of \"Do The Work\" is Mark Forster.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Do",
+      "is",
+      "Steven Pressfield."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Do The Work? are contradictory because they provide different names for the author of the book. Statement 1 claims that the author is Steven Pressfield, while Statement 2 claims that the author is Mark Forster. Therefore, they cannot both be true at the same time."
+}

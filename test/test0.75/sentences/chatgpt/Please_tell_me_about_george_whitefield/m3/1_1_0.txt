@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about george whitefield",
+  "orig": "He was born in Gloucester, England in 1714 and was educated at Oxford University.",
+  "alt": "He was born in Gloucester, England in 1714.",
+  "prefix": " George Whitefield was a prominent English Anglican preacher in the 18th century and one of the leaders of the Great Awakening, a religious revival movement in colonial America.",
+  "triple": [
+    [
+      "He",
+      "was born",
+      "in"
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about George Whitefield are not contradictory. Statement 1 provides additional information about Whitefield's education, while Statement 2 simply repeats the information about his birthplace. Both statements are true and do not conflict with each other."
+}

@@ -17,7 +17,6 @@ from .modeling_mqag import MQAGConfig, question_generation_sentence_level, answe
 SELF_CHECKER = None
 _LOGGER = logging.getLogger(__name__)
 
-
 @torch.no_grad()
 def train(args, sents):
     global SELF_CHECKER
@@ -28,11 +27,10 @@ def train(args, sents):
             SELF_CHECKER = SelfCheckUnigram(False)
         else:
             assert False
-
+    
     for sent in sents:
         SELF_CHECKER.add(sent)
     SELF_CHECKER.train()
-
 
 @torch.no_grad()
 def check(args, stmt1, stmt2, target, prefix):
@@ -295,12 +293,11 @@ class SelfCheckMQAG:
 
         return sum(scores) / len(scores)
 
-
 class SelfCheckUnigram:
     def __init__(self, is_avg):
         self.nlp = en_core_web_sm.load()
         self.token_count = 0
-        self.counts = {"<unk>": 0}
+        self.counts = {'<unk>': 0}
         self.is_avg = is_avg
 
     def add(self, sent):
@@ -322,7 +319,7 @@ class SelfCheckUnigram:
         logprobs = []
         for token in tokens:
             if token not in self.probs:
-                token = "<unk>"
+                token = '<unk>'
             train_prob = self.probs[token]
             logprob = np.log(train_prob)
             logprobs.append(logprob)

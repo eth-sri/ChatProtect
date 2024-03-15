@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Halloween?",
+  "orig": "The producer of the original Halloween film, released in 1978, was Irwin Yablans.",
+  "alt": "The producer of the original Halloween film, was John Carpenter.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the original Halloween film,",
+      "was",
+      "Irwin Yablans."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Halloween? are contradictory. Statement 1 claims that Irwin Yablans was the producer of the original Halloween film, while Statement 2 claims that John Carpenter was the producer. Only one of these statements can be true, so they cannot both be correct."
+}

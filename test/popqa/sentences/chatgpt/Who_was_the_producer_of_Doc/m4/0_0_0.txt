@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Doc?",
+  "orig": "The producer of Doc is Gary David Goldberg.",
+  "alt": "The producer of Doc is Ron Howard.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Doc",
+      "is",
+      "Gary David Goldberg."
+    ],
+    "compactie",
+    475
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Doc? are contradictory. Statement 1 claims that Gary David Goldberg was the producer of Doc, while statement 2 claims that Ron Howard was the producer. Since they are two different names, they cannot both be true. Therefore, the statements contradict each other."
+}

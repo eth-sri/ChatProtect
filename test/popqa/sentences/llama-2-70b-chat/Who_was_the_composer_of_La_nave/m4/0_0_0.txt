@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of La nave?",
+  "orig": "The opera \"La nave\" was composed by the Italian composer, Riccardo Zandonai.",
+  "alt": "The opera \"La nave\" was composed by Richard Wagner.",
+  "prefix": "",
+  "triple": [
+    [
+      "The opera \"La nave\"",
+      "was composed",
+      "by the Italian composer, Riccardo Zandonai."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of La nave? are contradictory. \n\nStatement 1 correctly identifies the composer of \"La nave\" as Riccardo Zandonai, an Italian composer. \n\nHowever, statement 2 incorrectly identifies the composer as Richard Wagner, a German composer known for his operas such as \"Tristan und Isolde\" and \"The Ring Cycle\". There is no connection between Wagner and \"La nave\", and therefore this statement is false. \n\nAs the two statements provide conflicting information about the composer of \"La nave\", they are contradictory."
+}

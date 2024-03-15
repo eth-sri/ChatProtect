@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Island?",
+  "orig": "Peter Benchley wrote the screenplay for The Island.",
+  "alt": "Peter Benchley wrote the screenplay for The Island, a film based on his own novel.",
+  "prefix": "",
+  "triple": [
+    [
+      "Peter Benchley",
+      "wrote",
+      "the screenplay for The Island."
+    ],
+    "compactie",
+    611
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Island are not contradictory. Both statements agree that Peter Benchley wrote the screenplay for The Island, but the second statement adds that the film was based on his own novel."
+}

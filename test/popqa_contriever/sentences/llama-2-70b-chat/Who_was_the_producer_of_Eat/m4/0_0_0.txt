@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Eat?",
+  "orig": "The producer of Blondie's Eat to the Beat was Mike Chapman.",
+  "alt": "The producer of Blondie's Eat to the Beat was Mike Mansfield.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Blondie's",
+      "was",
+      "Mike Chapman."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Eat? are contradictory. Statement 1 claims that the producer was Mike Chapman, while statement 2 claims that the producer was Mike Mansfield. Only one of these statements can be true, so they cannot both be correct."
+}

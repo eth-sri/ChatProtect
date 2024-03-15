@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Melbourne?",
+  "orig": "The City of Melbourne is not a state or territory, it is a local government area within the state of Victoria, Australia.",
+  "alt": "The City of Melbourne is not a state or territory, so it does not have a capital.",
+  "prefix": "",
+  "triple": [
+    [
+      "a state or territory, it",
+      "is",
+      "a local government area within the state of Victoria, Australia."
+    ],
+    "compactie",
+    603
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of City of Melbourne?\" are contradictory. Statement 2 claims that the City of Melbourne does not have a capital, while Statement 1 implies that the City of Melbourne is not a state or territory and therefore does not have a capital in the traditional sense. However, the City of Melbourne is often referred to as the capital city of the state of Victoria, which could be considered a type of capital. Therefore, while the City of Melbourne may not have a capital in the same way that a state or territory does, it can still be considered a capital city."
+}

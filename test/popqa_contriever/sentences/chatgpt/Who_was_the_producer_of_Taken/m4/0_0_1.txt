@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Taken?",
+  "orig": "There are two different productions mentioned in this text: The TV series Taken and the film Taken.",
+  "alt": "It's worth noting that there are two different productions mentioned here: the TV series and the 2008 film.",
+  "prefix": "",
+  "triple": [
+    [
+      "two different productions",
+      "mentioned",
+      "in this text: The TV series"
+    ],
+    "compactie",
+    609
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Taken are not contradictory. While both the TV series and the film are mentioned in the text, the prompt specifically asks about the producer of Taken, which refers to the 2008 film. The text does not provide information about the producer of the film, only the writer, director, and cast. The statements simply clarify that there are two different productions with the same name mentioned in the text."
+}

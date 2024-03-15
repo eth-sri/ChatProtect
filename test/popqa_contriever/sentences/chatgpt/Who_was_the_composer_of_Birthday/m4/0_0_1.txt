@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Birthday?",
+  "orig": "The given information does not mention any composer of a piece called \"Birthday\".",
+  "alt": "One composer who had a piece called \"Birthday\" is The Beatles' Paul McCartney.",
+  "prefix": "",
+  "triple": [
+    [
+      "any composer of a piece",
+      "called",
+      "\"Birthday\"."
+    ],
+    "compactie",
+    600
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Birthday? are not contradictory, but they are not directly related to each other. Statement 1 correctly states that the given information does not mention any composer of a piece called \"Birthday\". Statement 2 provides additional information about a composer who did have a piece called \"Birthday\", but it is not relevant to the given information or the prompt. Therefore, the statements do not contradict each other, but they do not provide a coherent answer to the prompt."
+}

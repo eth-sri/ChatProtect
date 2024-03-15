@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of 2 Days in Paris?",
+  "orig": "Julie Delpy was the composer of 2 Days in Paris.",
+  "alt": "Julie Delpy was the composer of the soundtrack for \"2 Days in Paris\".",
+  "prefix": "",
+  "triple": [
+    [
+      "Julie Delpy",
+      "was",
+      "the composer of 2 Days in Paris."
+    ],
+    "compactie",
+    590
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of 2 Days in Paris are not contradictory. Both statements are referring to the same thing, which is the music in the film. The first statement simply uses a more general term, \"composer\", while the second statement specifies that it was the soundtrack that Julie Delpy composed."
+}

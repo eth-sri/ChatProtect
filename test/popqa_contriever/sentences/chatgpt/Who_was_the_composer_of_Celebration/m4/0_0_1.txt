@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Celebration?",
+  "orig": "The given text does not provide information about a composition titled \"Celebration.\"",
+  "alt": "The composition titled \"Campane di Ravello\" was written by the American composer John Corigliano.",
+  "prefix": "",
+  "triple": [
+    [
+      "information about a composition",
+      "titled",
+      "\"Celebration.\""
+    ],
+    "compactie",
+    625
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they refer to different compositions. The first statement acknowledges that the given text does not provide information about a composition titled \"Celebration.\" The second statement provides information about the composer and title of a different composition, \"Campane di Ravello,\" which was commissioned for the 75th birthday of Georg Solti and written by John Corigliano."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Shape of Water?",
+  "orig": "The author of The Shape of Water is Guillermo del Toro and Vanessa Taylor.",
+  "alt": "The author of The Shape of Water is Guillermo del Toro.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Shape of Water",
+      "is",
+      "Guillermo del Toro and Vanessa Taylor."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Shape of Water? are contradictory. \n\nStatement 1 suggests that both Guillermo del Toro and Vanessa Taylor are the authors of The Shape of Water, while Statement 2 only mentions Guillermo del Toro as the author. Therefore, Statement 1 includes an additional author, making it contradictory to Statement 2."
+}

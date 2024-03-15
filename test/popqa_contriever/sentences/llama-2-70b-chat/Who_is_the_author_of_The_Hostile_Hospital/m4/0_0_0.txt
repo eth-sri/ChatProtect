@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Hostile Hospital?",
+  "orig": "The author of The Hostile Hospital is Lemony Snicket, which is a pseudonym used by Daniel Handler.",
+  "alt": "The author of The Hostile Hospital is Lemony Snicket.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Hostile Hospital",
+      "is",
+      "Lemony Snicket,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Hostile Hospital? are not contradictory. Statement 1 provides additional information about the pseudonym used by the author, while Statement 2 simply states the author's name as it appears on the book cover. Both statements ultimately identify the same person as the author of the book."
+}

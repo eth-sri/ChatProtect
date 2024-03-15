@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Thorn in the Heart?",
+  "orig": "The Thorn in the Heart is a French drama film directed by Michel Gondry and released in 2009.",
+  "alt": "The film was directed by Michel Gondry.",
+  "prefix": "",
+  "triple": [
+    [
+      "a French drama film",
+      "directed",
+      "by Michel Gondry"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Thorn in the Heart are not contradictory. While Statement 1 provides information about the genre of the film, which is drama, Statement 2 simply reiterates the fact that the film was directed by Michel Gondry. Both statements are true and do not contradict each other."
+}

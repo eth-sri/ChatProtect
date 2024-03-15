@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of La nave?",
+  "orig": "Zandonai was born in 1883 and died in 1944.",
+  "alt": "Riccardo Zandonai was born in Mantua, Italy on May 28, 1883.",
+  "prefix": " The opera \"La nave\" was composed by the Italian composer, Riccardo Zandonai.",
+  "triple": [
+    [
+      "Zandonai",
+      "was born",
+      "in 1883"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of La nave? are not contradictory. Statement 1 provides information about Zandonai's birth and death years, while Statement 2 specifies his birthplace and birth date. Both statements complement each other and provide additional information about the composer."
+}

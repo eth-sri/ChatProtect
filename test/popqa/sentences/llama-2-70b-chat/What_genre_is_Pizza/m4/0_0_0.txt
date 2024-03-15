@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Pizza?",
+  "orig": "Pizza is a type of food, rather than a genre.",
+  "alt": "Pizza is a type of food.",
+  "prefix": "",
+  "triple": [
+    [
+      "Pizza",
+      "is",
+      "a type of food, rather than a genre."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Pizza?\" are not contradictory. Both statements agree that pizza is a type of food and not a genre. The first statement simply adds the clarification that pizza cannot be classified as a genre. Therefore, both statements are consistent with each other."
+}

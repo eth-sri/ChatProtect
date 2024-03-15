@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Find Me?",
+  "orig": "The author of \"Find Me\" is Laura Van Den Berg.",
+  "alt": "The author of \"Find Me\" is Laura Van den Berg.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Find Me\"",
+      "is",
+      "Laura Van Den Berg."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Find Me\" are not contradictory. The only difference between the two statements is the capitalization of the author's last name. While the first statement capitalizes the \"D\" in \"Den\", the second statement does not. However, this does not change the fact that both statements identify Laura Van Den Berg as the author of \"Find Me\"."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Game?",
+  "orig": "The given passage does not provide information about a book titled \"The Game\" or its author.",
+  "alt": "The given passage does not provide the name of the author of \"The Game\".",
+  "prefix": "",
+  "triple": [
+    [
+      "The given passage",
+      "does not provide",
+      "information about a book"
+    ],
+    "compactie",
+    611
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Game? are not contradictory. Both statements correctly state that the given passage does not provide information about a book titled \"The Game\" or its author. Therefore, there is no contradiction between the two statements."
+}

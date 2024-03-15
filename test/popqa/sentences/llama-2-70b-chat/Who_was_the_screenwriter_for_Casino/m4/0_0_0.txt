@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Casino?",
+  "orig": "The screenwriter for the movie \"Casino\" (1995) was Martin Scorsese and Nicholas Pileggi.",
+  "alt": "The screenwriter for the movie \"Casino\" was Martin Scorsese.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the movie \"Casino\"",
+      "was",
+      "Martin Scorsese and Nicholas Pileggi."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Casino? are not contradictory. Statement 1 includes both Martin Scorsese and Nicholas Pileggi as the screenwriters for the movie \"Casino\", while Statement 2 only mentions Martin Scorsese. Therefore, Statement 2 is a subset of Statement 1, and both statements are true."
+}

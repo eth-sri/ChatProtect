@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Entity?",
+  "orig": "The film is based on the true story of a woman named Doris Bither, who claimed to have been physically and sexually abused by a ghostly entity in her home in Culver City, California.",
+  "alt": "The film is based on a true story.",
+  "prefix": " The Entity is a horror film, specifically a supernatural horror film. It was released in 1982 and was directed by Sidney J. Furie.",
+  "triple": [
+    [
+      "The film",
+      "is based",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Entity are not contradictory. Statement 1 provides additional information about the plot and inspiration for the film, while Statement 2 confirms that the film is based on a true story. Both statements support the initial assertion that The Entity is a supernatural horror film."
+}

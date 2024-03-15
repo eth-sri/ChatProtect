@@ -1,0 +1,19 @@
+{
+  "target": "What is Oxford the capital of?",
+  "orig": "It is a city located in the south-east of England, in the county of Oxfordshire.",
+  "alt": "Oxford is located in the county of Oxfordshire.",
+  "prefix": " Oxford is not a capital city.",
+  "triple": [
+    [
+      "a city",
+      "located",
+      "in the south-east of England, in the county of Oxfordshire."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. The prompt asks for the capital of a certain place, but the text clarifies that Oxford is not a capital city. The two statements that follow provide additional information about the location of Oxford, which is in the county of Oxfordshire and in the south-east of England. Therefore, the statements do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Miranda?",
+  "orig": "The director of the film \"Miranda\" was Ken Russell.",
+  "alt": "The director of the film \"Miranda\" was Jonathan Glazer.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the film \"Miranda\"",
+      "was",
+      "Ken Russell."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Miranda are contradictory. Statement 1 claims that Ken Russell was the director, while statement 2 claims that Jonathan Glazer was the director. Only one of these statements can be true, so they cannot both be correct."
+}

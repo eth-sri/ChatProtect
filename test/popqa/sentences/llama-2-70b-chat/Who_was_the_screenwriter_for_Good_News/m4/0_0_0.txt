@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Good News?",
+  "orig": "The screenwriter for the 1947 movie \"Good News\" was Betty Comden and Adolph Green.",
+  "alt": "The screenwriter for the 1947 movie \"Good News\" was Betty Comden.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the 1947 movie \"Good News\"",
+      "was",
+      "Betty Comden and Adolph Green."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for Good News? are contradictory. \n\nStatement 1 states that the screenwriters for \"Good News\" were Betty Comden and Adolph Green, while Statement 2 only mentions Betty Comden as the screenwriter. This means that Statement 1 includes Adolph Green as a co-screenwriter, while Statement 2 does not. Therefore, the two statements cannot both be true at the same time."
+}

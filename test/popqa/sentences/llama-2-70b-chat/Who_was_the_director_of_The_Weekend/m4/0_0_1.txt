@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Weekend?",
+  "orig": "The Weekend is a 2016 film directed by Trey Edward Shults.",
+  "alt": "The Weekend was directed by Taika Waititi.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 2016 film",
+      "directed",
+      "by Trey Edward Shults."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Weekend? are contradictory. Statement 1 correctly identifies Trey Edward Shults as the director of The Weekend, while statement 2 incorrectly identifies Taika Waititi as the director. Therefore, the two statements cannot both be true at the same time."
+}

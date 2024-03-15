@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Unity?",
+  "orig": "However, the co-founders of Unity Technologies are David Helgason, Nicholas Francis, and Joachim Ante.",
+  "alt": "The co-founders of Unity Technologies are David Helgason, Joachim Ante, and Nicholas Francis.",
+  "prefix": " The director of Unity is not a specific person, as Unity is a software development engine created by Unity Technologies.",
+  "triple": [
+    [
+      "the co-founders of Unity Technologies",
+      "are",
+      "David Helgason, Nicholas Francis, and Joachim Ante."
+    ],
+    "compactie",
+    509
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Unity? are not contradictory. Both statements provide additional information about the co-founders of Unity Technologies, who created the Unity software development engine. While the order of the co-founders' names is different in each statement, they both identify the same individuals as the co-founders of Unity Technologies."
+}

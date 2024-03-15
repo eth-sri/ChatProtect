@@ -1,0 +1,19 @@
+{
+  "target": "What is Teramo the capital of?",
+  "orig": "The province of Teramo is located in the northern part of Abruzzo and borders the provinces of Pescara to the south, Chieti to the east, and L'Aquila to the west.",
+  "alt": "The province of Teramo borders the provinces of Pescara to the south and Chieti to the north.",
+  "prefix": " Teramo is a city located in the Abruzzo region of central Italy. It is the capital of the province of Teramo, which is one of the four provinces in the Abruzzo region.",
+  "triple": [
+    [
+      "The province of Teramo",
+      "borders",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Teramo the capital of?\" are not contradictory. Both statements provide information about the location and borders of the province of Teramo, which is the capital of Teramo. The only difference is that statement 2 mentions the province of Chieti as being to the north of Teramo, while statement 1 mentions it as being to the east. However, this difference does not contradict the fact that Teramo is the capital of the province of Teramo."
+}

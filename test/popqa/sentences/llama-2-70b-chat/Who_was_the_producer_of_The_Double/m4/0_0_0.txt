@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Double?",
+  "orig": "The producer of the 2013 film \"The Double\" was scoringmax.",
+  "alt": "The producer of the 2013 film \"The Double\" was Richard Ayoade.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2013 film \"The Double\"",
+      "was",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Double are contradictory. Statement 1 claims that the producer was scoringmax, while statement 2 claims that the producer was Richard Ayoade. Only one of these statements can be true, so they cannot both be accurate."
+}

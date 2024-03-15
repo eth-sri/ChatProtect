@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Karate Kid?",
+  "orig": "The Karate Kid is an action drama film.",
+  "alt": "The Karate Kid is an action-drama film.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Karate Kid",
+      "is",
+      "an action drama film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Karate Kid are not contradictory. They both describe the film as an action drama, with the second statement simply adding a hyphen between the two words."
+}

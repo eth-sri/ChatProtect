@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Nine?",
+  "orig": "Rob Marshall directed the feature film adaptation of Nine.",
+  "alt": "Rob Marshall directed the feature film adaptation of \"Nine\" for the Weinstein Company.",
+  "prefix": "",
+  "triple": [
+    [
+      "Rob Marshall",
+      "directed",
+      "the feature film adaptation of Nine."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 2 provides more specific information about the feature film adaptation of \"Nine\" being produced by the Weinstein Company, while Statement 1 simply states that Rob Marshall directed \"Nine.\" Both statements are true and do not contradict each other."
+}

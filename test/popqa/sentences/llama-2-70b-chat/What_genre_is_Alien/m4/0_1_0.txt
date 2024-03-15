@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Alien?",
+  "orig": "It belongs to the horror and science fiction genres.",
+  "alt": "It belongs to the subgenre of survival horror.",
+  "prefix": " Alien is a science fiction horror film.",
+  "triple": [
+    [
+      "It",
+      "belongs",
+      "to the horror and science fiction genres."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Alien are not contradictory. Statement 1 simply identifies the two main genres that Alien belongs to, while Statement 2 provides a more specific subgenre within the horror genre. Both statements are accurate and complement each other in describing the genre of the film."
+}

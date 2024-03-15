@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Mishari bin Saud bin Abdulaziz Al Saud?",
+  "orig": "King Saud was the son of King Abdulaziz Al Saud, who was the founder and first king of Saudi Arabia.",
+  "alt": "King Saud was the son of King Abdulaziz Al Saud, the founder of Saudi Arabia.",
+  "prefix": " Mishari bin Saud bin Abdulaziz Al Saud is the son of King Saud bin Abdulaziz Al Saud, who was the second king of Saudi Arabia, reigning from 1953 to 1964.",
+  "triple": [
+    [
+      "King Saud",
+      "was",
+      "the founder and first king of Saudi Arabia."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both state that King Abdulaziz Al Saud is the father of King Saud bin Abdulaziz Al Saud, who is the father of Mishari bin Saud bin Abdulaziz Al Saud. The only difference is that statement 1 provides more detail about King Abdulaziz Al Saud's role as the founder and first king of Saudi Arabia."
+}

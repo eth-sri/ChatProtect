@@ -1,0 +1,19 @@
+{
+  "target": "In what country is The Bountiful Company?",
+  "orig": "In Mexico, The Bountiful Company has a subsidiary called Bountiful Mexico, which is headquartered in Mexico City.",
+  "alt": "A subsidiary, Bountiful Canada, is headquartered in Mississauga, Ontario.",
+  "prefix": " The Bountiful Company is a multinational consumer goods company that operates in over 100 countries worldwide. The company's global headquarters is located in St. Louis, Missouri, USA. However, The Bountiful Company also has a strong presence in other countries, including Canada, Mexico, and the United Kingdom. In Canada, The Bountiful Company has a head office in Mississauga, Ontario, and operates under the name Bountiful Canada. The company has a manufacturing facility in London, Ontario, and distributes its products across the country.",
+  "triple": [
+    [
+      "a subsidiary",
+      "is headquartered",
+      "in Mexico City."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is The Bountiful Company?\" are not contradictory. The first statement mentions that The Bountiful Company has a strong presence in Canada, Mexico, and the United Kingdom, while the second statement specifically mentions the subsidiary Bountiful Canada, which is headquartered in Mississauga, Ontario. The first statement also mentions that The Bountiful Company has a subsidiary called Bountiful Mexico, which is headquartered in Mexico City, which aligns with the information provided in the second statement. Therefore, both statements provide additional information about the multinational presence of The Bountiful Company in different countries."
+}

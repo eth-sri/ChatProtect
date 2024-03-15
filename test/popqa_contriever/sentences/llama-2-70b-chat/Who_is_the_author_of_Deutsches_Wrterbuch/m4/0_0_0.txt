@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Deutsches W\u00f6rterbuch?",
+  "orig": "The Deutsches W\u00f6rterbuch was written by the Brothers Grimm.",
+  "alt": "The Deutsches W\u00f6rterbuch was written by the Brothers Grimm.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Deutsches W\u00f6rterbuch",
+      "was written",
+      "by the Brothers Grimm."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are redundant. The prompt already states that the Deutsches W\u00f6rterbuch was authored by the Brothers Grimm, so repeating this information in the statements is unnecessary."
+}

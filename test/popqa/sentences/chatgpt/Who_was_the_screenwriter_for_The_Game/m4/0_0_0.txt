@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Game?",
+  "orig": "The screenwriter for The Game was John Brancato and Michael Ferris.",
+  "alt": "The screenwriter for The Game was John Brancato.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for The Game",
+      "was",
+      "John Brancato and Michael Ferris."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for The Game? are contradictory. \n\nStatement 1 claims that the screenwriters for The Game were John Brancato and Michael Ferris, while Statement 2 only mentions John Brancato as the screenwriter. Therefore, Statement 1 includes Michael Ferris as a co-screenwriter, while Statement 2 does not. This contradiction suggests that one of the statements may be incorrect or incomplete."
+}

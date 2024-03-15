@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Annie?",
+  "orig": "The article mentions a Danish singer and composer named Annie Rossbach, who recorded under the name Eve Annie and composed the music for the schlager \"Lirekassemandens datter\" and two songs for the film \"Onkel Joakims hemmelighed\".",
+  "alt": "There was a Danish singer and composer named Eve Annie.",
+  "prefix": " There is no composer named Annie.",
+  "triple": [
+    [
+      "a Danish singer and composer",
+      "named",
+      "Annie Rossbach,"
+    ],
+    "compactie",
+    630
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides information about a specific Danish singer and composer named Annie Rossbach who recorded under the name Eve Annie and composed music for a schlager and two songs for a film. Statement 2 confirms the existence of a Danish singer and composer named Eve Annie. Neither statement mentions a composer named simply \"Annie,\" so there is no contradiction."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Anniversary?",
+  "orig": "The Anniversary is a play, not a movie, so it doesn't have a director.",
+  "alt": "The Anniversary is a 1967 play by Harold Pinter.",
+  "prefix": " I'm not able to answer that question as it doesn't make sense.",
+  "triple": [
+    [
+      "The Anniversary",
+      "is",
+      "a play, not a movie,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the director of The Anniversary? are contradictory. Statement 1 claims that The Anniversary is a play and therefore doesn't have a director, while Statement 2 identifies Harold Pinter as the author of the play. While it is true that plays are typically written by playwrights rather than directed by directors, the fact that Pinter is credited as the author suggests that he had a significant role in shaping the production and may have been involved in directing it as well. Therefore, it is possible that The Anniversary did have a director, despite being a play rather than a movie."
+}

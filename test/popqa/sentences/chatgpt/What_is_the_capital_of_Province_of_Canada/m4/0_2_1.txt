@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Province of Canada?",
+  "orig": "During this time, there were two capital cities: Toronto was the capital of Upper Canada and Quebec City was the capital of Lower Canada.",
+  "alt": "The two capital cities were Toronto and Quebec City, which alternated as the seat of government for the Province of Canada.",
+  "prefix": " There is no single capital of the Province of Canada. The Province of Canada existed from 1841 to 1867 and was composed of Upper Canada (now Ontario) and Lower Canada (now Quebec).",
+  "triple": [
+    [
+      "two capital cities: Toronto",
+      "was",
+      "the capital of Upper Canada"
+    ],
+    "compactie",
+    529
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Province of Canada are not contradictory. Both statements agree that during the existence of the Province of Canada, there were two capital cities: Toronto for Upper Canada and Quebec City for Lower Canada. The only difference is that statement 2 adds that the two cities alternated as the seat of government for the Province of Canada. However, this does not contradict statement 1, which also acknowledges the existence of two capital cities."
+}

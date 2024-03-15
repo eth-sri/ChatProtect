@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Halloween?",
+  "orig": "The producer of the original Halloween movie (1978) was Irwin Yablans, while the producer of the 2018 Halloween movie was Jason Blum.",
+  "alt": "The Halloween movie was directed by John Carpenter and produced by Debra Hill.",
+  "prefix": "",
+  "triple": [
+    [
+      "Halloween movie",
+      "was",
+      "Irwin Yablans,"
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Halloween are not contradictory. The first statement specifies that there were two different producers for the original 1978 movie and the 2018 movie, while the second statement identifies a different producer for the original movie, Debra Hill. Therefore, both statements are accurate and provide different information about the producers of the Halloween franchise."
+}

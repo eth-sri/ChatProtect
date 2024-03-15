@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about l\u00fctfi elvan",
+  "orig": "He graduated from the Middle East Technical University with a degree in civil engineering and later earned a master's degree in economics from the University of Delaware in the United States.",
+  "alt": "L\u00fctfi Elvan earned his degree in civil engineering from the Middle East Technical University.",
+  "prefix": " L\u00fctfi Elvan is a Turkish politician and the current Minister of Finance and Treasury in Turkey. He was born on March 12, 1962, in Elaz\u0131\u011f, Turkey.",
+  "triple": [
+    [
+      "from the Middle East Technical University with a degree in civil engineering",
+      "earned",
+      "a master's degree"
+    ],
+    "compactie",
+    506
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about L\u00fctfi Elvan are contradictory. Statement 1 says that he earned a master's degree in economics from the University of Delaware, while Statement 2 says that he earned his degree in civil engineering from the Middle East Technical University. These two statements cannot both be true at the same time, as they provide different information about L\u00fctfi Elvan's educational background."
+}

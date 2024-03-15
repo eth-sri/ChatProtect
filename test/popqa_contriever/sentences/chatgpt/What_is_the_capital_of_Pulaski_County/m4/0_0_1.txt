@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Pulaski County?",
+  "orig": "Pulaski County does not have a capital as it is a county, not a state or country.",
+  "alt": "Pulaski County does not have a capital as it is a county in the state of Arkansas, which has Little Rock as its capital.",
+  "prefix": "",
+  "triple": [
+    [
+      "a capital",
+      "is",
+      "a county, not a state or country."
+    ],
+    "compactie",
+    622
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While Statement 1 is technically correct in stating that counties do not have capitals, Statement 2 provides additional information by clarifying that Pulaski County is located within the state of Arkansas, which does have a capital city (Little Rock). Therefore, both statements are true and do not contradict each other."
+}

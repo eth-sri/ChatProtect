@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Sugarland Express?",
+  "orig": "It was his first theatrical feature film, released in 1974.",
+  "alt": "It was Spielberg's first theatrical feature film.",
+  "prefix": " The director of The Sugarland Express was Steven Spielberg.",
+  "triple": [
+    [
+      "It",
+      "was",
+      "his first theatrical feature film,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Sugarland Express are not contradictory. Both statements provide additional information about the fact that Steven Spielberg directed the film, with statement 1 specifying that it was his first theatrical feature film and statement 2 emphasizing the same point."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Naval the capital of?",
+  "orig": "It is a city located in the state of Punjab, India.",
+  "alt": "The city is located in the state of Maharashtra, India.",
+  "prefix": " Naval is not the capital of any country or territory.",
+  "triple": [
+    [
+      "a city",
+      "located",
+      "in the state of Punjab, India."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Naval the capital of?\" are contradictory because they provide different information about the location of Naval. Statement 1 states that Naval is located in the state of Punjab, India, while Statement 2 states that it is located in the state of Maharashtra, India. Since both statements cannot be true at the same time, they contradict each other."
+}

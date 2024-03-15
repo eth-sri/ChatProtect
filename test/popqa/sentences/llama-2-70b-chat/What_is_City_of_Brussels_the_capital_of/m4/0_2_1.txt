@@ -1,0 +1,19 @@
+{
+  "target": "What is City of Brussels the capital of?",
+  "orig": "It is the largest city in Belgium and serves as the country's administrative, cultural, and economic center.",
+  "alt": "The largest city in Belgium, Brussels, serves as the administrative, cultural, and economic center of the country.",
+  "prefix": " City of Brussels is the capital of the Brussels-Capital Region, which is one of the three regions of Belgium. The Brussels-Capital Region is a federal region that includes the city of Brussels and several surrounding municipalities.",
+  "triple": [
+    [
+      "the largest city in Belgium",
+      "serves",
+      "as the country's administrative, cultural, and economic center."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the City of Brussels being the administrative, cultural, and economic center of Belgium. The only difference is that statement 1 explicitly mentions that it is the largest city in Belgium, while statement 2 starts with the fact that Brussels is the largest city in Belgium. However, both statements convey the same message that Brussels is the capital and the most important city in Belgium."
+}

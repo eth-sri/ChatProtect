@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Island?",
+  "orig": "Initially, Michael Cimino was the director of The Island, but he was later replaced by John Frankenheimer.",
+  "alt": "Sorry, the prompt and the context seem to be about the movie \"The Island of Dr. Moreau\" and not about Michael Cimino. Could you please provide a new prompt?",
+  "prefix": "",
+  "triple": [
+    [
+      "Michael Cimino",
+      "was",
+      "the director of The Island,"
+    ],
+    "compactie",
+    627
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 and Statement 2 are not contradictory. Statement 1 provides information about the initial director of The Island, which is correct. Statement 2 acknowledges that the prompt may be referring to a different movie, The Island of Dr. Moreau, and requests a new prompt. Therefore, both statements are valid and do not contradict each other."
+}

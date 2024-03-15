@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Chicago?",
+  "orig": "She was the Executive Director of the Abraham Lincoln Presidential Library and Museum.",
+  "alt": "She was the Executive Director of the Abraham Lincoln Presidential Library and Museum.",
+  "prefix": " Eileen Mackevich was not the director of Chicago.",
+  "triple": [
+    [
+      "She",
+      "was",
+      "the Executive Director of the Abraham Lincoln Presidential Library and Museum."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are not relevant to the prompt. The prompt asks about the director of Chicago, but the text and statements only mention Eileen Mackevich's role as the Executive Director of the Abraham Lincoln Presidential Library and Museum and her co-founding of the Chicago Humanities Festival. Therefore, the text and statements do not provide an answer to the prompt."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Washington, D.C.?",
+  "orig": "It was designed by a French engineer and architect named Pierre Charles L'Enfant, who was commissioned by George Washington to plan the layout of the city in the late 18th century.",
+  "alt": "It was named after George Washington.",
+  "prefix": " Washington, D.C. is a city, not a book, so it doesn't have an author.",
+  "triple": [
+    [
+      "It",
+      "named",
+      "Pierre Charles L'Enfant,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While Washington, D.C. as a city does not have an author, Statement 1 provides information about the individual who designed the layout of the city. Statement 2 provides information about the person after whom the city was named. Both statements are relevant to the history and development of Washington, D.C. but do not contradict each other."
+}

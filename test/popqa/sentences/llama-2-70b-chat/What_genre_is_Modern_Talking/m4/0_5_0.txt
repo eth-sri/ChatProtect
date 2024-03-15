@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Modern Talking?",
+  "orig": "They are known for their hit songs such as \"You're My Heart, You're My Soul,\" \"You Can Win If You Want,\" \"Cheri, Cheri Lady,\" and \"Brother Louie.\"",
+  "alt": "They are known for their hit singles such as \"Sweet Dreams (Are Made of This)\", \"The Sound of Loving\", and \"Cheri, Cheri Lady\".",
+  "prefix": " Modern Talking was a German pop duo that was formed in 1983. The duo consisted of Dieter Bohlen and Thomas Anders. They were known for their catchy, upbeat pop music, often with a synth-heavy sound and romantic lyrics. Modern Talking's music can be classified as Euro disco, pop, and synth-pop. They were one of the most popular acts in the 1980s and early 1990s, and their music was influenced by the disco and pop music of the time.",
+  "triple": [
+    [
+      "They",
+      "are known",
+      "for their hit songs such as \"You're"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Modern Talking are contradictory. Statement 1 correctly identifies the hit songs of Modern Talking, but statement 2 lists songs that are not by Modern Talking. \"Sweet Dreams (Are Made of This)\" is a song by Eurythmics, \"The Sound of Loving\" is a song by Bad Boys Blue, and \"Cheri, Cheri Lady\" is a song by Modern Talking, but it is already mentioned in statement 1. Therefore, statement 2 is incorrect and contradicts statement 1."
+}

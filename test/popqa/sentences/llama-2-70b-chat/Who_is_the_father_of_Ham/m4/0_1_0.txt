@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Ham?",
+  "orig": "According to the biblical account in the book of Genesis, Ham is one of the three sons of Noah, along with Shem and Japheth.",
+  "alt": "Ham is a son of Noah.",
+  "prefix": " The father of Ham is Noah.",
+  "triple": [
+    [
+      "Ham",
+      "is",
+      "one of the three sons of Noah,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the father of Ham? are not contradictory. Both statements confirm that Noah is the father of Ham, with statement 1 providing additional information about Ham's relationship to his brothers and statement 2 simply stating that Ham is one of Noah's sons."
+}

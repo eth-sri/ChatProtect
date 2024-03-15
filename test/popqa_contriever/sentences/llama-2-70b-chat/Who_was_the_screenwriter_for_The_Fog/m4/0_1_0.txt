@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Fog?",
+  "orig": "However, the original film, The Fog (1980), was written by John Carpenter and Debra Hill, who also produced the remake.",
+  "alt": "The original film was written by John Carpenter and Debra Hill.",
+  "prefix": " The screenwriter for The Fog (2005) was Rupert Wainwright.",
+  "triple": [
+    [
+      "the original film,",
+      "was written",
+      "by John Carpenter and Debra Hill,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Fog are not contradictory. The first statement correctly identifies Rupert Wainwright as the screenwriter for the 2005 remake, while the second statement correctly identifies John Carpenter and Debra Hill as the screenwriters for the original 1980 film. The two statements provide complementary information about the writing credits for the two different versions of the film."
+}

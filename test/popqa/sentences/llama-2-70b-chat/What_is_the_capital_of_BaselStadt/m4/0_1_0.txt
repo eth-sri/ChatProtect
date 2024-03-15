@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Basel-Stadt?",
+  "orig": "Basel-Stadt is a canton in northwestern Switzerland, and Basel is both the capital city of the canton and the largest city in the canton.",
+  "alt": "Basel-Stadt is a canton in northwestern Switzerland.",
+  "prefix": " The capital of Basel-Stadt is Basel.",
+  "triple": [
+    [
+      "Basel-Stadt",
+      "is",
+      "a canton in northwestern Switzerland,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Basel-Stadt?\" are not contradictory. Statement 1 provides additional information about Basel being both the capital and the largest city in the canton, while Statement 2 simply confirms that Basel-Stadt is a canton in northwestern Switzerland. Both statements are true and do not contradict each other."
+}

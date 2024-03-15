@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Queen?",
+  "orig": "He also directed the film and co-produced it with Anurag Kashyap and UTV Motion Pictures.",
+  "alt": "He also directed the movie \"Queen\" (2013).",
+  "prefix": " The screenwriter for the movie \"Queen\" (2013) was Vikas Bahl.",
+  "triple": [
+    [
+      "He",
+      "also directed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Queen? are contradictory. The first statement states that Vikas Bahl was the screenwriter for the movie \"Queen\" (2013) and also mentions that he co-produced it with Anurag Kashyap and UTV Motion Pictures. However, the second statement contradicts the first one by stating that Vikas Bahl also directed the movie \"Queen\" (2013). Therefore, the two statements cannot be true at the same time."
+}

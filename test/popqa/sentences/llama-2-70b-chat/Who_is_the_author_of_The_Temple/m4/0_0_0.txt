@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Temple?",
+  "orig": "The author of The Temple is Sir William Temple, first published in 1662.",
+  "alt": "The author of The Temple is Sir Walter Scott.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Temple",
+      "is",
+      "Sir William Temple,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Temple? are contradictory. Statement 1 correctly identifies Sir William Temple as the author of The Temple, while statement 2 incorrectly attributes the authorship to Sir Walter Scott. Therefore, the two statements cannot both be true at the same time."
+}

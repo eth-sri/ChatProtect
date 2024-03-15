@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Company?",
+  "orig": "It premiered on Broadway in 1970 and was directed by Harold Prince.",
+  "alt": "It premiered on Broadway in 1970.",
+  "prefix": " The composer of the musical \"Company\" is Stephen Sondheim. \"Company\" is a musical comedy with music and lyrics by Sondheim and a book by George Furth.",
+  "triple": [
+    [
+      "It",
+      "premiered",
+      "on Broadway in 1970"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Company? are not contradictory. Both statements provide additional information about the musical \"Company\", such as its premiere on Broadway in 1970 and its director Harold Prince. However, only the first statement explicitly mentions the book writer George Furth."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Texas?",
+  "orig": "However, the city has not always been the capital.",
+  "alt": "The city has not always been the capital of Texas, as several other locations have previously served as the capital, including Houston, Washington-on-the-Brazos, and Velasco.",
+  "prefix": " The capital of Texas is Austin.",
+  "triple": [
+    [
+      "the city",
+      "has not always been",
+      "the capital."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement simply states that the current capital of Texas is Austin, while the second statement provides additional information about the history of the capital and how it has changed over time."
+}

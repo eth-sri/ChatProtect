@@ -25,7 +25,11 @@ B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
 BOS, EOS = "<s>", "</s>"
 
 
-def llama_v2_prompt(messages: typing.List[dict]):
+def llama_v2_prompt(messages: typing.List[dict], seed=None):
+    if seed is not None:
+        seed_string = f"(seed={seed}) "
+    else:
+        seed_string = ""
     DEFAULT_SYSTEM_PROMPT = f"""You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."""
 
     if messages[0]["role"] != "system":
@@ -43,7 +47,7 @@ def llama_v2_prompt(messages: typing.List[dict]):
     ] + messages[2:]
 
     messages_list = [
-        f"{BOS}{B_INST} {(prompt['content']).strip()} {E_INST} {(answer['content']).strip()} {EOS}"
+        f"{BOS}{B_INST} {seed_string}{(prompt['content']).strip()} {E_INST} {(answer['content']).strip()} {EOS}"
         for prompt, answer in zip(messages[::2], messages[1::2])
     ]
     messages_list.append(f"{BOS}{B_INST} {(messages[-1]['content']).strip()} {E_INST}")
@@ -52,7 +56,9 @@ def llama_v2_prompt(messages: typing.List[dict]):
 
 
 class TogetherAIBot(Bot):
-    def __init__(self, api_key, model, url="https://api.together.xyz/inference"):
+    def __init__(
+        self, api_key, model, url="https://api.together.xyz/inference", seed=None
+    ):
         self.api_key = api_key
         self.model = model
         self.url = url
@@ -60,6 +66,7 @@ class TogetherAIBot(Bot):
         self.last_request = datetime.datetime.now()
         self.total_usage = []
         self.stream = False
+        self.seed = seed
 
     def _ask(
         self,
@@ -82,8 +89,13 @@ class TogetherAIBot(Bot):
             messages.append({"role": "user", "content": question})
             messages.append({"role": "assistant", "content": answer})
         if prompt:
-            messages.append({"role": "user", "content": prompt})
-        full_prompt = llama_v2_prompt(messages)
+            messages.append(
+                {
+                    "role": "user",
+                    "content": prompt,
+                }
+            )
+        full_prompt = llama_v2_prompt(messages, seed=self.seed)
         full_model = f"togethercomputer/{self.model}"
         body = {
             "model": full_model,
@@ -95,7 +107,7 @@ class TogetherAIBot(Bot):
                 BOS,
             ],
             "temperature": (
-                1 if override_temperature is None else override_temperature
+                0.99 if override_temperature is None else override_temperature
             ),
         }
         total_choices = []

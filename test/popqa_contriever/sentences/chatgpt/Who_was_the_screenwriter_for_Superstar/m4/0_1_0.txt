@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Superstar?",
+  "orig": "The comic book series referred to in the text is \"Hollywood Superstars\" and the writer is Mark Evanier.",
+  "alt": "The comic book series \"Hollywood Superstars\" is referred to in the preceding text.",
+  "prefix": " There is no specific \"Superstar\" comic book series.",
+  "triple": [
+    [
+      "The comic book series",
+      "referred",
+      "in the text"
+    ],
+    "compactie",
+    625
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both clarify that the comic book series being referred to is \"Hollywood Superstars\" and that the writer for this series is Mark Evanier."
+}

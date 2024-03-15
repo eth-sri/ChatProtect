@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Ancient Evenings?",
+  "orig": "The book is a collection of three novellas that explore themes of myth, history, and memory, and it was published in 1999.",
+  "alt": "It was published in 1981.",
+  "prefix": " The author of \"Ancient Evenings\" is Toni Morrison.",
+  "triple": [
+    [
+      "it",
+      "was published",
+      "in 1999."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the publication year of \"Ancient Evenings\" are contradictory. Statement 1 claims that the book was published in 1999, while statement 2 claims that it was published in 1981. However, both statements agree on the author of the book being Toni Morrison."
+}

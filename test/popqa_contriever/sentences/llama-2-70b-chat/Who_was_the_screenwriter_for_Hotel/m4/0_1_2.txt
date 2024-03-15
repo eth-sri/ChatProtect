@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Hotel?",
+  "orig": "According to the text, Warner Bros. wanted Hailey to write the screenplay for the movie, which was based on his own novel.",
+  "alt": "The screenplay for the movie was based on Hailey's own novel of the same name.",
+  "prefix": " The screenwriter for the film adaptation of Arthur Hailey's novel \"Hotel\" was Arthur Hailey himself.",
+  "triple": [
+    [
+      "the screenplay for the movie,",
+      "was based",
+      "on his own novel."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both confirm that Arthur Hailey was the screenwriter for the film adaptation of his own novel \"Hotel\". Statement 1 provides additional information that Warner Bros. specifically requested Hailey to write the screenplay. Statement 2 simply reiterates that the screenplay was based on Hailey's novel."
+}

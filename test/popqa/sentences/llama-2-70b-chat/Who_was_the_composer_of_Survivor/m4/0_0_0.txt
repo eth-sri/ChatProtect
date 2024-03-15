@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Survivor?",
+  "orig": "The composer of the song \"Survivor\" is Charlie Puth.",
+  "alt": "The composer of the song \"Survivor\" is Jim Peterik.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of the song \"Survivor\"",
+      "is",
+      "Charlie Puth."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Survivor\" are contradictory. Statement 1 claims that Charlie Puth is the composer, while statement 2 claims that Jim Peterik is the composer. Only one of these statements can be true, so they cannot both be correct."
+}

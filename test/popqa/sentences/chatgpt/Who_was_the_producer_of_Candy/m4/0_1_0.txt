@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Candy?",
+  "orig": "- The producer of the 1968 movie \"Candy\" was Robert Haggiag.",
+  "alt": "The producer of the 1968 movie \"Candy\" was Christian Marquand.",
+  "prefix": " The producer of \"Candy\" could refer to either the movie or the song.",
+  "triple": [
+    [
+      "The producer of the 1968 movie \"Candy\"",
+      "was",
+      "Robert Haggiag."
+    ],
+    "compactie",
+    503
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Candy? are contradictory. Statement 1 claims that Robert Haggiag was the producer of the 1968 movie \"Candy,\" while statement 2 claims that Christian Marquand was the producer of the same movie. Since both statements cannot be true at the same time, they contradict each other."
+}

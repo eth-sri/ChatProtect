@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Moo?",
+  "orig": "The author of Moo: A Novel is Jenny Lawson.",
+  "alt": "The author of Moo is Jamie killen.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Moo:",
+      "is",
+      "Jenny Lawson."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Moo are contradictory as they provide different names for the author. Statement 1 claims that the author is Jenny Lawson, while statement 2 claims that the author is Jamie Killen. Therefore, it is unclear which statement is accurate and further research is needed to determine the true author of Moo."
+}

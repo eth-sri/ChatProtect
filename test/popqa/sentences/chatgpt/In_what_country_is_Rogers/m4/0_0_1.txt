@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Rogers?",
+  "orig": "Rogers is a telecommunications company that is primarily based in Canada.",
+  "alt": "Rogers is a Canadian telecommunications company that is primarily based in Toronto, Ontario.",
+  "prefix": "",
+  "triple": [
+    [
+      "a telecommunications company",
+      "is primarily based",
+      "in Canada."
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about \"In what country is Rogers?\" are not contradictory. Both statements agree that Rogers is a Canadian telecommunications company. The second statement provides additional information that Rogers is primarily based in Toronto, Ontario. Therefore, the statements are complementary and not contradictory."
+}

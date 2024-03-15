@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Chester?",
+  "orig": "Chester is a city located in the northwest of England, in the United Kingdom.",
+  "alt": "Sure! Here's a possible next sentence:\n\nChester is located in England.",
+  "prefix": "",
+  "triple": [
+    [
+      "a city",
+      "located",
+      "in the northwest of England, in the United Kingdom."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about \"In what country is Chester?\" are not contradictory. Statement 1 provides specific details about the location of Chester, stating that it is a city in the northwest of England, which is part of the United Kingdom. Statement 2 simply reiterates that Chester is located in England, which is consistent with the information provided in Statement 1. Therefore, both statements are in agreement and not contradictory."
+}

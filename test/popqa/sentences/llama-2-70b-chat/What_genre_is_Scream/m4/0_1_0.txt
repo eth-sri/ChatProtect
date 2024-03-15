@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Scream?",
+  "orig": "More specifically, it's a slasher film, which is a subgenre of horror that typically involves a masked killer stalking and murdering a group of people, often teenagers or young adults.",
+  "alt": "Sure! Here's a possible next sentence:\n\na slasher film, is a subgenre of horror movies.",
+  "prefix": " Scream is a horror movie.",
+  "triple": [
+    [
+      "a slasher film,",
+      "is",
+      "a subgenre of horror"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Scream are not contradictory. Statement 1 provides a more specific subgenre classification of Scream as a slasher film, while Statement 2 simply restates that slasher films are a subgenre of horror movies. Both statements are accurate and complement each other in describing the genre of Scream."
+}

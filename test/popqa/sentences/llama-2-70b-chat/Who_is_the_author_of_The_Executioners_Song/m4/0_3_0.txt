@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Executioner's Song?",
+  "orig": "The novel was widely acclaimed and won the Pulitzer Prize for Fiction in 1980.",
+  "alt": "The novel won the Pulitzer Prize for Fiction in 1980.",
+  "prefix": " The author of The Executioner's Song is Norman Mailer. The novel was published in 1979 and is considered one of Mailer's most notable works. It tells the story of Gary Gilmore, a convicted murderer who was executed by firing squad in Utah in 1977, and explores themes of masculinity, violence, and the American criminal justice system.",
+  "triple": [
+    [
+      "The novel",
+      "won",
+      "the Pulitzer Prize for Fiction in 1980."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 2 is simply a restatement of the fact mentioned in the beginning of the text, while Statement 1 provides additional information about the novel's critical reception and accolades."
+}

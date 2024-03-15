@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Helen?",
+  "orig": "Therefore, there is no author to cite.",
+  "alt": "There is no author specified in the given text.",
+  "prefix": " The author of \"Helen Epstein\" is not specified in the text you provided. \"Helen Epstein\" is the name of the person being described, not the name of a book or article.",
+  "triple": [
+    [
+      "there",
+      "is",
+      "no author"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Helen? are not contradictory. Both statements clarify that there is no author specified in the given text and therefore, there is no author to cite. They provide the same information in different ways."
+}

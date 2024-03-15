@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Creation?",
+  "orig": "It was composed in 1796-1798 and is considered one of Haydn's most notable works.",
+  "alt": "It was composed in 1798.",
+  "prefix": " The Creation is an oratorio written by Joseph Haydn.",
+  "triple": [
+    [
+      "It",
+      "was composed",
+      "in 1796-1798"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of The Creation are not contradictory. Both statements confirm that Joseph Haydn was the composer of The Creation. The only difference is that statement 1 provides additional information about the time period during which the oratorio was composed and its significance, while statement 2 simply states the year of composition."
+}

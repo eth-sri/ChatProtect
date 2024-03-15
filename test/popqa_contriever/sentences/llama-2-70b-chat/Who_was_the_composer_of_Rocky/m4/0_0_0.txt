@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Rocky?",
+  "orig": "Bill Conti composed the score for Rocky.",
+  "alt": "Bill Conti composed the musical score for Rocky.",
+  "prefix": "",
+  "triple": [
+    [
+      "Bill Conti",
+      "composed",
+      "the score for Rocky."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both provide the same information that Bill Conti was the composer of the musical score for Rocky. The only difference is that the second statement includes the word \"musical\" to specify that it refers to the score of the film."
+}

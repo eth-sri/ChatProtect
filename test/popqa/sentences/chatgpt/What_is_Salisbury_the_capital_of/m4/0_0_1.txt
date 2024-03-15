@@ -1,0 +1,19 @@
+{
+  "target": "What is Salisbury the capital of?",
+  "orig": "This question is ambiguous and can have multiple answers depending on the context.",
+  "alt": "This question can have multiple interpretations, as there are several places named Salisbury around the world.",
+  "prefix": "",
+  "triple": [
+    [
+      "This question",
+      "can have",
+      "multiple answers depending on the context."
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Salisbury the capital of?\" are not contradictory. Statement 1 acknowledges that the question can have multiple answers depending on the context, while statement 2 highlights that there are several places named Salisbury around the world, which can lead to different interpretations of the question. Both statements are true and do not contradict each other."
+}

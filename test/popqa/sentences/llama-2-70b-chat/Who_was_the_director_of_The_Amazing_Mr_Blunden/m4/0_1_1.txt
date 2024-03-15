@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Amazing Mr Blunden?",
+  "orig": "Jeffries was a British actor, playwright, and director who was known for his work in the theatre and on screen.",
+  "alt": "Lionel Jeffries was known for his distinctive balding hair and bushy eyebrows.",
+  "prefix": " The director of The Amazing Mr Blunden was Lionel Jeffries.",
+  "triple": [
+    [
+      "a British actor, playwright, and director",
+      "was known",
+      "for his work in the theatre and on screen."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Amazing Mr Blunden? are not contradictory. The first statement provides information about Lionel Jeffries' profession and his work in the theatre and on screen, while the second statement describes his physical appearance. Both statements are true and do not contradict each other."
+}

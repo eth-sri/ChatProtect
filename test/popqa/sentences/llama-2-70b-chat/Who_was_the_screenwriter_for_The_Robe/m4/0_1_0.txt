@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Robe?",
+  "orig": "The film was released in 1953 and was directed by Henry Koster.",
+  "alt": "The film was released in 1953.",
+  "prefix": " The screenwriter for The Robe was Philip Dunne.",
+  "triple": [
+    [
+      "The film",
+      "was released",
+      "in 1953"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Robe are not contradictory. Both statements provide additional information about the film, such as the year it was released and the director. However, they do not contradict the fact that Philip Dunne was the screenwriter for the film."
+}

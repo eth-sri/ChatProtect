@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "According to the information provided, Korea National Oil Corporation (KNOC) operates in several countries including Vietnam, Libya, Peru, Indonesia, Nigeria, Yemen, Kazakhstan, Russia, Canada, and South Korea.",
+  "alt": "Korea National Oil Corporation operates in South Korea.",
+  "prefix": "",
+  "triple": [
+    [
+      "Korea National Oil Corporation",
+      "operates",
+      "in several countries including Vietnam, Libya, Peru, Indonesia, Nigeria, Yemen, Kazakhstan, Russia, Canada, and South Korea."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides a list of countries where KNOC operates, which includes South Korea. The second statement specifically mentions that KNOC operates in South Korea. Therefore, both statements confirm that KNOC operates in South Korea."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Mike Flanagan's occupation?",
+  "orig": "He is known for his work in the horror and thriller genres and has directed several successful films and TV shows, including \"The Haunting of Hill House,\" \"Gerald's Game,\" and \"Doctor Sleep.\"",
+  "alt": "He has directed several successful horror films, including \"The Haunting of Hill House\" and \"Doctor Sleep.\"",
+  "prefix": " Mike Flanagan is a filmmaker, specifically a director, screenwriter, and editor.",
+  "triple": [
+    [
+      "He",
+      "has directed",
+      "several successful films and TV shows, including \"The"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Mike Flanagan's occupation are not contradictory. Both statements confirm that he is a filmmaker, specifically a director, screenwriter, and editor. The only difference is that statement 1 provides a broader overview of his work, including the genres he specializes in and the range of successful films and TV shows he has directed, while statement 2 focuses specifically on his success in the horror genre. Therefore, both statements are consistent with each other and provide complementary information about Mike Flanagan's occupation."
+}

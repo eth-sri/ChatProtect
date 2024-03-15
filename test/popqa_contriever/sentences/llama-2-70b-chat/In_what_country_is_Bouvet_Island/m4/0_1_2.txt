@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Bouvet Island?",
+  "orig": "It is an uninhabited island in the South Atlantic Ocean/Southern Ocean, and is not under the jurisdiction of any country.",
+  "alt": "Bouvet Island is not part of any country, and is instead considered a dependency of Norway.",
+  "prefix": " Bouvet Island is not part of any country.",
+  "triple": [
+    [
+      "an",
+      "not",
+      "under the jurisdiction of any country."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the country of Bouvet Island are contradictory. Statement 1 claims that the island is not under the jurisdiction of any country, while Statement 2 asserts that it is a dependency of Norway. If Bouvet Island is a dependency of Norway, then it is under the jurisdiction of Norway and cannot be considered as not being under the jurisdiction of any country. Therefore, the two statements cannot both be true at the same time."
+}

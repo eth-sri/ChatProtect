@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glas?",
+  "orig": "Glas is a novel written by Jacques Derrida.",
+  "alt": "Glas was written by Jacques Derrida.",
+  "prefix": "",
+  "triple": [
+    [
+      "a novel",
+      "written",
+      "by Jacques Derrida."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Glas are not contradictory. Both statements convey the same information that Jacques Derrida is the author of the novel Glas. The only difference is in the tense of the verb used, with statement 1 using the present tense and statement 2 using the past tense. However, this difference in tense does not change the meaning of the statements."
+}

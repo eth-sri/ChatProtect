@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Alt?",
+  "orig": "Alt is short for \"alternative,\" and it can refer to a wide range of genres that are alternative to mainstream music.",
+  "alt": "It can refer to Alternative Rock.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "can refer",
+      "to a wide range of genres"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about what genre is Alt are not contradictory. The first statement explains that Alt can refer to a wide range of genres that are alternative to mainstream music, while the second statement specifies that Alternative Rock is one of those genres. Therefore, the second statement is a subset of the first statement, and they are not contradictory."
+}

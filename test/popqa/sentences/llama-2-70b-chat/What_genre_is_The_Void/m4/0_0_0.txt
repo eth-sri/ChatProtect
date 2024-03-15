@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Void?",
+  "orig": "The Void is a 2016 Canadian science fiction horror film directed by Jeremy Gillespie and Steven Kostanski.",
+  "alt": "The Void is a horror film.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Void",
+      "is",
+      "a 2016 Canadian science fiction horror film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Void are not contradictory. The first statement provides additional information about the film, including its country of origin and the names of the directors. The second statement simply identifies the genre of the film as horror. Both statements are consistent in identifying The Void as a horror film."
+}

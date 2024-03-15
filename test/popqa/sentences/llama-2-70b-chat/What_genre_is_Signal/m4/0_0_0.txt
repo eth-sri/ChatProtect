@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Signal?",
+  "orig": "Signal is a science fiction horror film.",
+  "alt": "Signal is a science fiction series.",
+  "prefix": "",
+  "triple": [
+    [
+      "Signal",
+      "is",
+      "a science fiction horror film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Signal are contradictory. Statement 1 describes Signal as a science fiction horror film, while Statement 2 describes it as a science fiction series. While both statements agree that Signal is a science fiction work, the first statement adds the qualifier \"horror film,\" which is not present in the second statement. Therefore, the two statements cannot both be true at the same time."
+}

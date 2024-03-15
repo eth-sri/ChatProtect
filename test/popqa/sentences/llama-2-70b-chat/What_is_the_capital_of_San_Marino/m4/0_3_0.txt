@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of San Marino?",
+  "orig": "The city is known for its beautiful medieval architecture, picturesque streets, and stunning views of the surrounding countryside.",
+  "alt": "The city is known for its well-preserved medieval architecture and stunning views of the surrounding countryside.",
+  "prefix": " The capital of San Marino is San Marino City. San Marino is a microstate located within the Italian Peninsula, and it is the world's oldest surviving republic. San Marino City is the country's capital and largest city, and it is home to many historic landmarks, museums, and cultural institutions.",
+  "triple": [
+    [
+      "The city",
+      "is known",
+      "for its beautiful medieval architecture, picturesque streets, and stunning views of the surrounding countryside."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of San Marino are not contradictory. Both statements highlight the city's beautiful medieval architecture and stunning views of the surrounding countryside. The only difference is that statement 1 also mentions picturesque streets, while statement 2 emphasizes the city's well-preserved architecture. However, both statements agree that San Marino City is known for its historic landmarks, museums, and cultural institutions."
+}

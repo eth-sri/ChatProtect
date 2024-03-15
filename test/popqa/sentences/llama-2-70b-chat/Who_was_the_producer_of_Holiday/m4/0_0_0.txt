@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Holiday?",
+  "orig": "The producer of the movie \"Holiday\" (1938) was Columbia Pictures.",
+  "alt": "The producer of the movie \"Holiday\" was Nancy Meyers.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie \"Holiday\"",
+      "was",
+      "Columbia Pictures."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Holiday\" are contradictory. Statement 1 claims that Columbia Pictures was the producer, while statement 2 claims that Nancy Meyers was the producer. These two statements cannot both be true at the same time. It is possible that one of the statements is incorrect or that there were multiple producers involved in different versions of the movie."
+}

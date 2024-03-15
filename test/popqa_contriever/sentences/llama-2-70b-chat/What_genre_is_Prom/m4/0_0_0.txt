@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Prom?",
+  "orig": "The Prom's music style is indie rock, specifically piano-driven indie rock.",
+  "alt": "The Prom's music style is indie rock.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Prom's music style",
+      "is",
+      "indie rock, specifically piano-driven indie rock."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Prom are not contradictory. Statement 1 provides a more specific description of the band's style within the broader category of indie rock, highlighting the importance of the piano in their sound. Statement 2 is a more general statement that still accurately identifies The Prom as an indie rock band."
+}

@@ -209,7 +209,10 @@ def process_description_file(test_file: pathlib.Path):
         if args.mode == ORGINAL_DESC:
             res = desc
         elif args.mode in (OMIT_SENTENCE, OMIT_REMAINING_SENTENCE):
-            res = chatprotect.rephrase.rephrase_desc_without_sentence(
+            (
+                res,
+                decision_record,
+            ) = chatprotect.rephrase.rephrase_desc_without_sentence(
                 bot,
                 desc,
                 sents,

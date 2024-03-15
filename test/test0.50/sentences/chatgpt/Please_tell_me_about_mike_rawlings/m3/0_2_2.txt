@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mike rawlings",
+  "orig": "Rawlings graduated from Boston College with a bachelor's degree in philosophy and went on to earn an MBA from the Harvard Business School.",
+  "alt": "From 1976 to 1982, Rawlings went on to earn an MBA from the Harvard Business School.",
+  "prefix": " Mike Rawlings is an American businessman and politician who served as the 61st mayor of Dallas, Texas from 2011 to 2019. He was born on August 25, 1954, in Borger, Texas, and grew up in Hockley, Texas.",
+  "triple": [
+    [
+      "from",
+      "on to earn",
+      "an MBA from the Harvard Business School."
+    ],
+    "compactie",
+    516
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Mike Rawlings are contradictory. Statement 1 says that he earned an MBA from Harvard Business School, while Statement 2 says that he went on to earn an MBA from Harvard Business School. The use of \"went on to\" in Statement 2 implies that he earned another MBA after the one mentioned in Statement 1, which contradicts the information provided."
+}

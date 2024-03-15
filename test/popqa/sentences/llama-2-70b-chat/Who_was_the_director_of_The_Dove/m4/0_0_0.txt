@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Dove?",
+  "orig": "The director of the film \"The Dove\" (1974) was Charles Jarrott.",
+  "alt": "The director of the film \"The Dove\" was Ron Howard.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the film \"The Dove\"",
+      "was",
+      "Charles Jarrott."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The Dove are contradictory. Statement 1 claims that Charles Jarrott was the director, while statement 2 claims that Ron Howard was the director. Only one of these statements can be true, so they cannot both be correct."
+}

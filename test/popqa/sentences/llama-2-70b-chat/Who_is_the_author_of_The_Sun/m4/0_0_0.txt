@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Sun?",
+  "orig": "The author of The Sun is not a specific person, but rather a team of journalists and editors who work together to create the newspaper's content.",
+  "alt": "The author of The Sun is Geraldine McCaughrean.",
+  "prefix": "",
+  "triple": [
+    [
+      "a specific person,",
+      "work",
+      "together to create the newspaper's content."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Sun? are contradictory. Statement 1 suggests that The Sun is created by a team of journalists and editors, while Statement 2 claims that the author of The Sun is a specific person, Geraldine McCaughrean. These two statements cannot both be true at the same time, as they present different answers to the same question."
+}

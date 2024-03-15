@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Burning Man?",
+  "orig": "It is directed by a team of individuals who work together to plan and execute the event.",
+  "alt": "It is directed by Jennifer Raiser.",
+  "prefix": " Burning Man is a week-long annual event held in the Black Rock Desert in Nevada, USA, that celebrates art, music, self-expression, and community.",
+  "triple": [
+    [
+      "It",
+      "work",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Burning Man are contradictory. Statement 1 suggests that the event is directed by a team of individuals, while statement 2 specifically names Jennifer Raiser as the director. These two statements cannot both be true at the same time."
+}

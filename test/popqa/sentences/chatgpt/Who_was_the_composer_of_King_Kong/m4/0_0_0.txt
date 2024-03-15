@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of King Kong?",
+  "orig": "The composer of the original King Kong (1933) was Max Steiner, and the composer of the 2005 version was James Newton Howard.",
+  "alt": "The composer of the original King Kong was Max Steiner.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of the original King Kong",
+      "was",
+      "Max Steiner,"
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of King Kong are not contradictory. Statement 1 provides information about both the original 1933 version and the 2005 version, stating that Max Steiner composed the original and James Newton Howard composed the 2005 version. Statement 2 only provides information about the original 1933 version and confirms that Max Steiner was the composer. Therefore, both statements are consistent and not contradictory."
+}

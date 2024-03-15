@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Postcard?",
+  "orig": "The text only mentions James Card, who was a film preservationist and established the motion picture collection at George Eastman House.",
+  "alt": "James Card was a film preservationist.",
+  "prefix": " There is not enough information in the provided text to answer the question \"Who was the director of Postcard?\" as the text does not mention a film called \"Postcard\" or provide information about its director.",
+  "triple": [
+    [
+      "James Card,",
+      "was",
+      "a film preservationist"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the director of Postcard?\" are not contradictory as they do not provide any information about the director of the film \"Postcard\". Both statements only provide information about James Card and his role as a film preservationist at George Eastman House."
+}

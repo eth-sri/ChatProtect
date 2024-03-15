@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Israel Horowitz born?",
+  "orig": "Israel Horowitz was born in New York City on September 6, 1916.",
+  "alt": "Sure! Here's the next sentence:\n\nIsrael Horowitz was born in New York City.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "Israel Horowitz",
+      "was born",
+      "in New York City on September 6, 1916."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the city of Israel Horowitz's birth are not contradictory. Both statements confirm that he was born in New York City. The second statement simply repeats the information given in the first statement without providing any additional details."
+}

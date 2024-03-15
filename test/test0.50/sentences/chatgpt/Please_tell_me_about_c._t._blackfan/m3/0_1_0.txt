@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about c. t. blackfan",
+  "orig": "He was born in Massachusetts and received his medical degree from Harvard Medical School in 1907.",
+  "alt": "He received his medical degree from Harvard Medical School in 1908.",
+  "prefix": " Charles Townsend Blackfan (1883-1965) was an American pediatrician and hematologist who made significant contributions to the field of blood disorders.",
+  "triple": [
+    [
+      "He",
+      "received",
+      "his medical degree from Harvard Medical School in 1907."
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Charles Townsend Blackfan receiving his medical degree from Harvard Medical School are contradictory. Statement 1 says he received his degree in 1907, while statement 2 says he received it in 1908. Only one of these statements can be true, so they cannot both be accurate."
+}

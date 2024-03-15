@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wolf?",
+  "orig": "The author of \"The Beauty Myth\" and a prominent figure in the third wave of the feminist movement is Naomi Wolf.",
+  "alt": "The author of Wolf is Naomi Wolf.",
+  "prefix": "",
+  "triple": [
+    [
+      "a prominent figure in the third",
+      "is",
+      "Naomi Wolf."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Wolf? are not contradictory. Both statements identify Naomi Wolf as the author of a book, with the first statement providing additional information about the book and the author's role in the feminist movement."
+}

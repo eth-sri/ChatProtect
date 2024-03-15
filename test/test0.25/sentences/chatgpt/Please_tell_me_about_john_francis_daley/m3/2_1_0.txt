@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about john francis daley",
+  "orig": "He was born on July 20, 1985, in Wheeling, Illinois, USA.",
+  "alt": "He was born on July 20, 1985, in Wheeling, Illinois.",
+  "prefix": " John Francis Daley is an American actor, screenwriter, and director.",
+  "triple": [
+    [
+      "He",
+      "was born",
+      "on July"
+    ],
+    "compactie",
+    469
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about John Francis Daley are not contradictory. Statement 1 includes the abbreviation \"USA\" at the end of the location, while Statement 2 does not. However, both statements provide the same information about his birthdate and birthplace."
+}

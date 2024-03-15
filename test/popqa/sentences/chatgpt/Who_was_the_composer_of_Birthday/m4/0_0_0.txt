@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Birthday?",
+  "orig": "The composer of the song \"Birthday\" is Katy Perry.",
+  "alt": "The composer of the song \"Birthday\" is John Lennon and Paul McCartney of the Beatles.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of the song \"Birthday\"",
+      "is",
+      "Katy Perry."
+    ],
+    "compactie",
+    488
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of Birthday? are contradictory. \n\nStatement 1 claims that Katy Perry is the composer of the song \"Birthday\", while Statement 2 claims that John Lennon and Paul McCartney of the Beatles are the composers. These two statements cannot both be true at the same time. Therefore, they are contradictory."
+}

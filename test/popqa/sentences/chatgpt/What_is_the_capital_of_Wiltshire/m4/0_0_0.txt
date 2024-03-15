@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Wiltshire?",
+  "orig": "The capital of Wiltshire is Trowbridge.",
+  "alt": "The capital of Wiltshire is the city of Trowbridge.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Wiltshire",
+      "is",
+      "Trowbridge."
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Wiltshire?\" are not contradictory. Both statements provide the same answer, with the only difference being the inclusion of the word \"city\" in the second statement. This does not change the meaning or accuracy of the answer."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Best Man?",
+  "orig": "The script was written by Stefan Schwartz and Ed Roe.",
+  "alt": "The script for The Best Man was written by Stefan Schwartz and Ed Roe.",
+  "prefix": " The Best Man is not a book, but a film.",
+  "triple": [
+    [
+      "The script",
+      "was written",
+      "by Stefan Schwartz and Ed Roe."
+    ],
+    "compactie",
+    604
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Best Man? are not contradictory. Both statements correctly identify Stefan Schwartz and Ed Roe as the writers of the script for the film. The only difference is that statement 2 includes the specific reference to The Best Man, while statement 1 does not."
+}

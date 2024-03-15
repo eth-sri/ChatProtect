@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Taxi?",
+  "orig": "It is a television show that features a group of characters who are taxi drivers working for a fictional taxi company in New York City.",
+  "alt": "Taxi features a group of quirky and lovable characters working at a taxi company in New York City.",
+  "prefix": " Taxi is a sitcom, which is a subgenre of comedy.",
+  "triple": [
+    [
+      "a television show",
+      "features",
+      "a group of characters"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Taxi? are not contradictory. While Statement 1 provides a more factual description of the show's premise, Statement 2 emphasizes the unique personalities of the characters, which is a common characteristic of sitcoms. Both statements support the initial claim that Taxi is a sitcom."
+}

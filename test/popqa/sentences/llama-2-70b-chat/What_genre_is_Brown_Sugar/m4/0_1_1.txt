@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Brown Sugar?",
+  "orig": "The movie follows the story of a successful African American woman, Sidney, who has a chance encounter with a handsome young man, Dre, and they hit it off.",
+  "alt": "The movie has a runtime of 1 hour and 45 minutes.",
+  "prefix": " Brown Sugar is a 2002 American romantic comedy-drama film directed by Rick Famuyiwa.",
+  "triple": [
+    [
+      "The movie",
+      "has",
+      "a chance encounter with a handsome young man, Dre,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Brown Sugar are not contradictory. Statement 1 provides a brief summary of the plot, indicating that the movie is a romantic comedy-drama. Statement 2 provides information about the movie's runtime, which is unrelated to its genre."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is National Assembly?",
+  "orig": "Many countries have a National Assembly or an equivalent legislative body.",
+  "alt": "Many countries have a National Assembly as part of their legislative branch of government.",
+  "prefix": " This question is too broad and vague.",
+  "triple": [
+    [
+      "Many countries",
+      "have",
+      "a National Assembly or an equivalent legislative body."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements acknowledge that many countries have a National Assembly or an equivalent legislative body, and that it is a common feature of a country's legislative branch of government. They do not contradict each other, but rather provide additional information to help clarify the broad and vague nature of the original question."
+}

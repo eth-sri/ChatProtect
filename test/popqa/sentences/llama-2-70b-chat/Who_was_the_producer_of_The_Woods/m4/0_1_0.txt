@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Woods?",
+  "orig": "He is a film producer and the founder of Blumhouse Productions, a production company that specializes in producing horror films and thrillers.",
+  "alt": "He is specializes in producing low-budget, high-profit horror films.",
+  "prefix": " The producer of The Woods was Jason Blum.",
+  "triple": [
+    [
+      "He",
+      "is specializes",
+      "in producing horror films and thrillers."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the producer of The Woods are not contradictory. Statement 1 provides additional information about Jason Blum's background as a film producer and the founder of Blumhouse Productions, while Statement 2 highlights his specialization in producing low-budget, high-profit horror films. Both statements are consistent with the fact that Jason Blum produced The Woods."
+}

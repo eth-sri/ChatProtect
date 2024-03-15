@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Nunavut?",
+  "orig": "Iqaluit is the largest community in Nunavut and is home to many important government and administrative buildings, as well as a number of businesses and organizations.",
+  "alt": "The largest community in Nunavut is Rankin Inlet.",
+  "prefix": " The capital of Nunavut is Iqaluit. It is located on Baffin Island in the eastern Canadian Arctic.",
+  "triple": [
+    [
+      "the largest community in Nunavut",
+      "is",
+      "home to many important government and administrative buildings, as well as a number of businesses and organizations."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Nunavut?\" are not contradictory, but they provide different information. Statement 1 provides additional details about Iqaluit, the capital of Nunavut, while Statement 2 mentions the largest community in Nunavut, which is Rankin Inlet. However, it does not contradict the fact that Iqaluit is the capital of Nunavut."
+}

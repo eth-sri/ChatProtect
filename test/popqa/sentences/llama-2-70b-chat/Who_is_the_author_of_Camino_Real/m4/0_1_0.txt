@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Camino Real?",
+  "orig": "It is a play that was first performed in 1953 and is considered one of Williams' most experimental works.",
+  "alt": "It is a play.",
+  "prefix": " The author of Camino Real is Tennessee Williams.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a play"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who is the author of Camino Real?\" are not contradictory. The first statement provides additional information about the play, including its year of first performance and its experimental nature, while the second statement simply confirms that Camino Real is indeed a play. Both statements are consistent with the fact that Tennessee Williams is the author of the play."
+}

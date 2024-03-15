@@ -1,0 +1,19 @@
+{
+  "target": "What genre is F1?",
+  "orig": "F1 (Formula One) is a genre of motor racing that involves open-wheel cars racing on purpose-built circuits and on public roads.",
+  "alt": "F1 is a genre of motor racing that involves high-speed cars racing on purpose-built circuits.",
+  "prefix": "",
+  "triple": [
+    [
+      "a genre of motor racing",
+      "involves",
+      "open-wheel cars racing on purpose-built circuits and on public roads."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of F1 are not contradictory, but rather complementary. Both statements describe F1 as a genre of motor racing that involves racing high-speed open-wheel cars on purpose-built circuits. The only difference is that the first statement also includes the fact that F1 can also take place on public roads. Therefore, both statements provide accurate information about the genre of F1 without contradicting each other."
+}

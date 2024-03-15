@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of New Keywords?",
+  "orig": "New Keywords: A Revised Vocabulary of Culture and Society is a book written by Raymond Williams, a Welsh academic, novelist, and critic.",
+  "alt": "The book \"New Keywords\" was written by Raymond Williams.",
+  "prefix": "",
+  "triple": [
+    [
+      "a",
+      "written",
+      "by Raymond Williams, a Welsh academic, novelist, and critic."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of New Keywords are not contradictory. Both statements identify Raymond Williams as the author of the book. Statement 1 provides additional information about Williams, describing him as a Welsh academic, novelist, and critic, while Statement 2 simply states that he wrote the book. However, both statements convey the same essential information about the authorship of New Keywords."
+}

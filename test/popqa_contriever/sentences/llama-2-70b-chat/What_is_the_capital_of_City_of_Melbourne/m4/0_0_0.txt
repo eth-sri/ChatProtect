@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Melbourne?",
+  "orig": "Melbourne is the capital of the City of Melbourne.",
+  "alt": "Melbourne is the capital of Victoria.",
+  "prefix": "",
+  "triple": [
+    [
+      "Melbourne",
+      "is",
+      "the capital of the City of Melbourne."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of City of Melbourne?\" are not contradictory. Statement 1 correctly identifies Melbourne as the capital of the City of Melbourne, while statement 2 incorrectly identifies Melbourne as the capital of Victoria. The capital of Victoria is actually Melbourne, but the prompt specifically asks about the capital of the City of Melbourne, which is a local government area within Victoria."
+}

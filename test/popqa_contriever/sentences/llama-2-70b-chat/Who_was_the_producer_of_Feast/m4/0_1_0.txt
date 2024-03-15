@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Feast?",
+  "orig": "The executive producers of the film were Ben Affleck, Matt Damon, Chris Moore, Wes Craven, and the Maloof family.",
+  "alt": "The executive producers of the film were Wes Craven and the Maloof family.",
+  "prefix": " Feast was produced by LivePlanet, a production company founded by Ben Affleck, Matt Damon, and Chris Moore.",
+  "triple": [
+    [
+      "The executive producers of the film",
+      "were",
+      "Ben Affleck, Matt Damon, Chris Moore, Wes Craven, and the Maloof family."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Feast are not contradictory. Statement 1 provides a more comprehensive list of all the executive producers involved in the film, including LivePlanet founders Ben Affleck, Matt Damon, and Chris Moore, as well as Wes Craven and the Maloof family. Statement 2 only lists Wes Craven and the Maloof family as executive producers, but does not contradict the information provided in Statement 1."
+}

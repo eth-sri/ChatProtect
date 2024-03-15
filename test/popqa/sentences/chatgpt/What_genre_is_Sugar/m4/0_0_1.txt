@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Sugar?",
+  "orig": "Sugar is a song classified under the pop genre.",
+  "alt": "The song \"Sugar\" is classified as a pop song.",
+  "prefix": "",
+  "triple": [
+    [
+      "a song",
+      "classified",
+      "under the pop genre."
+    ],
+    "compactie",
+    475
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Sugar?\" are not contradictory. Both statements convey the same information that \"Sugar\" is classified under the pop genre. The only difference is the way the information is presented. Statement 1 uses \"Sugar\" as the subject and \"pop genre\" as the classification, while Statement 2 uses \"Sugar\" as the object of the sentence and \"pop song\" as the classification. Therefore, both statements are consistent with each other."
+}

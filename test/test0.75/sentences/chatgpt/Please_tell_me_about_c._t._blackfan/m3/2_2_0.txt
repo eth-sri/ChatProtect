@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about c. t. blackfan",
+  "orig": "He was born on January 30, 1882, in Boston, Massachusetts, and died on May 31, 1941.",
+  "alt": "He was born in 1883 in Boston, Massachusetts.",
+  "prefix": " C.T. Blackfan was an American pediatrician and hematologist.",
+  "triple": [
+    [
+      "He",
+      "was born",
+      "on January"
+    ],
+    "compactie",
+    463
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about C.T. Blackfan are contradictory. Statement 1 states that he was born in 1882 and died in 1941, while statement 2 states that he was born in 1883. These two statements cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Billy Joel's occupation?",
+  "orig": "He has released numerous hit songs and albums throughout his career, including \"Piano Man,\" \"Uptown Girl,\" \"We Didn't Start the Fire,\" \"It's Still Rock and Roll to Me,\" and many others.",
+  "alt": "Numerous hit songs and albums throughout his career, including \"Piano Man,\" \"Uptown Girl,\" and \"We Didn't Start the Fire.\"",
+  "prefix": " Billy Joel is a singer-songwriter, musician, and pianist. He is one of the most popular and successful musicians of all time, known for his catchy and memorable songs, energetic live performances, and distinctive voice and piano playing style.",
+  "triple": [
+    [
+      "numerous hit songs and albums throughout",
+      "Didn't Start",
+      "the Fire,\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about Billy Joel's career as a singer-songwriter and musician, highlighting his numerous hit songs and albums. The only difference is that statement 2 is a shorter version of statement 1, omitting some of the specific song titles mentioned in the first statement."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Need to Believe?",
+  "orig": "Need to Believe is classified as a rock and hard rock album.",
+  "alt": "Need to Believe is classified as a rock album.",
+  "prefix": "",
+  "triple": [
+    [
+      "Need to Believe",
+      "is classified",
+      "as a rock and hard rock album."
+    ],
+    "compactie",
+    477
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Need to Believe are not contradictory, but rather one statement is more specific than the other. Statement 1 identifies the album as both rock and hard rock, while Statement 2 only identifies it as rock. Therefore, Statement 1 includes Statement 2 as a subset of its classification."
+}

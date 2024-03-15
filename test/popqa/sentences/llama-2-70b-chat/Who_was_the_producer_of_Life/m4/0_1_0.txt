@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Life?",
+  "orig": "He produced the film through his production company, Skydance Media.",
+  "alt": "He produced the movie The Meg.",
+  "prefix": " The producer of the movie Life (2017) was David Ellison.",
+  "triple": [
+    [
+      "He",
+      "produced",
+      "the film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Life? are not contradictory. Statement 1 provides additional information about David Ellison's involvement in the production of Life, stating that he produced the film through his production company, Skydance Media. Statement 2 is unrelated to Life, but rather mentions another movie that David Ellison produced, The Meg."
+}

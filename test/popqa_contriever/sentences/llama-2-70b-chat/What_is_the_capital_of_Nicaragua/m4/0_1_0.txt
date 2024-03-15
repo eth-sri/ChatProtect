@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Nicaragua?",
+  "orig": "According to the text, Managua was agreed upon as the permanent capital of Nicaragua in 1852, replacing Le\u00f3n and Granada, which had previously served as capitals in a rotating manner.",
+  "alt": "Managua was agreed upon as the permanent capital in 1852.",
+  "prefix": " The capital of Nicaragua is Managua.",
+  "triple": [
+    [
+      "Managua",
+      "was agreed upon",
+      "as the permanent capital of Nicaragua in 1852,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both provide information about Managua being the permanent capital of Nicaragua since 1852, replacing Le\u00f3n and Granada which had previously served as capitals in a rotating manner. Statement 1 provides additional context about the history of the capital, while Statement 2 is a straightforward statement of fact."
+}

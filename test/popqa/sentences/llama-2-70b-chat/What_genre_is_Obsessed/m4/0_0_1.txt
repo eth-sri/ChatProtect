@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Obsessed?",
+  "orig": "Obsessed is a song by Mariah Carey, and it falls under the genre of R&B and pop music.",
+  "alt": "It falls under the genre of pop music.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "falls",
+      "under the genre of R&B and pop music."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of \"Obsessed\" are not contradictory, but rather the second statement is a subset of the first statement. The first statement specifies that \"Obsessed\" falls under the genres of R&B and pop music, while the second statement narrows it down to just pop music. Therefore, the second statement does not contradict the first statement, but rather provides a more specific classification within the broader genre of pop music."
+}

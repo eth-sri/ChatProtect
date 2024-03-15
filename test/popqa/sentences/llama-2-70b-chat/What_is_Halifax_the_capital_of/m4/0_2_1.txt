@@ -1,0 +1,19 @@
+{
+  "target": "What is Halifax the capital of?",
+  "orig": "The capital of Nova Scotia is Halifax Regional Municipality, which is the largest city in the province and is located on the eastern coast of Nova Scotia.",
+  "alt": "Halifax Regional Municipality is located on the eastern coast of Nova Scotia.",
+  "prefix": " Halifax is not a capital city. It is a municipal unit in the Canadian province of Nova Scotia.",
+  "triple": [
+    [
+      "Halifax Regional Municipality,",
+      "is",
+      "the largest city in the province"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that Halifax is not a capital city, but a municipal unit in Nova Scotia. The second statement provides additional information that the capital of Nova Scotia is Halifax Regional Municipality, which is located on the eastern coast of the province. Both statements are true and do not contradict each other."
+}

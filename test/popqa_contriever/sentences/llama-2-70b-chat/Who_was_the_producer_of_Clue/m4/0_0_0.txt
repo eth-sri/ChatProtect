@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Clue?",
+  "orig": "The producer of the Clue film was Josh Feldman, producing for Hasbro Studios, with Ryan Jones serving as the executive producer and Daria Cercek overseeing for Fox.",
+  "alt": "The producer of the Clue film was Josh Feldman.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the Clue film",
+      "was",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Clue are not contradictory. Statement 1 provides more detailed information about the production team, including the executive producer and the person overseeing for Fox, while Statement 2 simply identifies Josh Feldman as the producer. Both statements are true and do not conflict with each other."
+}

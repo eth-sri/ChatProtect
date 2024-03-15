@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for A Teacher?",
+  "orig": "The film \"A Teacher\" was written and directed by Hannah Fidell.",
+  "alt": "The film \"A Teacher\" was directed by Jill Soloway.",
+  "prefix": "",
+  "triple": [
+    [
+      "The film \"A Teacher\"",
+      "directed",
+      "by Hannah Fidell."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for A Teacher? are contradictory. \n\nStatement 1 claims that Hannah Fidell was the screenwriter for \"A Teacher,\" while Statement 2 claims that Jill Soloway was the director of the film. However, neither statement mentions the other person in their respective roles. Therefore, it is unclear who the actual screenwriter for the film is, and the two statements cannot be reconciled."
+}

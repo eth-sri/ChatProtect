@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Chaos?",
+  "orig": "I'm not familiar with a movie called \"Chaos.\"",
+  "alt": "The screenwriter for \"Chaos\" is familiar with a movie called \"The Game\".",
+  "prefix": "",
+  "triple": [
+    [
+      "familiar with a movie",
+      "called",
+      "\"Chaos.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Chaos? are not contradictory. Statement 1 simply indicates that the person is not familiar with the movie \"Chaos,\" while Statement 2 provides information about the screenwriter's familiarity with another movie called \"The Game.\" These statements do not contradict each other as they are not related to each other."
+}

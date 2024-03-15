@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Carl Grimes?",
+  "orig": "Rick Grimes is the father of Carl Grimes.",
+  "alt": "Rick Grimes is the father of Carl Grimes.",
+  "prefix": "",
+  "triple": [
+    [
+      "Rick Grimes",
+      "is",
+      "the father of Carl Grimes."
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. They are identical and both state that Rick Grimes is the father of Carl Grimes, but the prompt only asks for one statement. Therefore, having two identical statements is unnecessary and contradictory."
+}

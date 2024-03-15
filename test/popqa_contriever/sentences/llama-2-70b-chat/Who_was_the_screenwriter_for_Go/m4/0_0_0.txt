@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Go?",
+  "orig": "The screenwriter for Go was John August.",
+  "alt": "The screenwriter for Go was August.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for Go",
+      "was",
+      "John August."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Go are not contradictory. Statement 1 provides the full name of the screenwriter, while statement 2 uses the last name only. Both statements refer to the same person, John August."
+}

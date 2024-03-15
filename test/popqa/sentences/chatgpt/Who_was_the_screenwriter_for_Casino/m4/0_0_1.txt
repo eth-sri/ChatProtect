@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Casino?",
+  "orig": "The screenwriter for Casino was Nicholas Pileggi, who also wrote the book Casino: Love and Honor in Las Vegas that the film is based on.",
+  "alt": "The film \"Casino\" is based on the non-fiction book \"Casino: Love and Honor in Las Vegas\" by Nicholas Pileggi.",
+  "prefix": "",
+  "triple": [
+    [
+      "the film",
+      "is based",
+      ""
+    ],
+    "compactie",
+    498
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Casino are not contradictory. Both statements confirm that Nicholas Pileggi was the screenwriter for the film and also the author of the book that the film is based on. Statement 1 provides additional information about Pileggi's involvement in the project, while statement 2 emphasizes the source material for the film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Doc?",
+  "orig": "The line producer, who was responsible for overseeing the day-to-day production of the film, is not credited in the film.",
+  "alt": "The producer responsible for overseeing the day-to-day production of the film is not credited in the movie's closing credits.",
+  "prefix": " The producer of the movie \"Doc\" is not explicitly stated. However, the film was produced by Universal Pictures, which is a major Hollywood film studio. The production company responsible for the film's production was likely Universal Pictures' in-house production company, Universal Pictures Productions. The executive producers of the film were likely the top executives at Universal Pictures, such as the studio's president, chairperson, or CEO.",
+  "triple": [
+    [
+      "responsible for overseeing the day-to-day production of the film,",
+      "is not credited",
+      "in the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 mentions that the line producer, who oversees the day-to-day production of the film, is not credited in the film. Statement 2 confirms this by stating that the producer responsible for overseeing the day-to-day production of the film is not credited in the movie's closing credits. Both statements provide additional information about the production of the film, but they do not contradict each other."
+}

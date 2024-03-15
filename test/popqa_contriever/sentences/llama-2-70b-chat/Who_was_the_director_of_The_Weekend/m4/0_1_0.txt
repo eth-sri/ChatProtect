@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Weekend?",
+  "orig": "The text only mentions the reporters, presenters, researchers, and later joiners of the program.",
+  "alt": "The text only mentions the directors who were recruited to work on the program, including Birt (now Lord Birt), but does not specifically mention a director for The Weekend.",
+  "prefix": " The director of The Weekend was not specified in the given text.",
+  "triple": [
+    [
+      "The text",
+      "only mentions",
+      "the reporters, presenters, researchers, and later joiners of the program."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements accurately reflect the information provided in the given text. The text does not specify who the director of The Weekend was, and only mentions the reporters, presenters, researchers, and directors who were recruited to work on the program. Therefore, both statements are true and do not contradict each other."
+}

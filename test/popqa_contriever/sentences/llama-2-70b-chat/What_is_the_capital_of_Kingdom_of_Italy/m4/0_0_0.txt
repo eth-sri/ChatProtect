@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kingdom of Italy?",
+  "orig": "The capital of the Kingdom of Italy was Turin (Torino), which was the capital of the House of Savoy, the ruling dynasty of the kingdom.",
+  "alt": "The capital of the Kingdom of Italy was Rome.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of the Kingdom of Italy",
+      "was",
+      "Turin"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Kingdom of Italy are contradictory. Statement 1 claims that the capital was Turin, while statement 2 claims that the capital was Rome. Only one of these statements can be true, and they cannot both be true at the same time."
+}

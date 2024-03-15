@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Curtains?",
+  "orig": "According to the text, the producer of Curtains was Peter R.",
+  "alt": "The producer of Curtains was Peter R. Simpson.",
+  "prefix": "",
+  "triple": [
+    [
+      "the producer of Curtains",
+      "was",
+      "Peter R."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Curtains are not contradictory. Statement 1 provides incomplete information, while Statement 2 provides the full name of the producer, which is Peter R. Simpson. Therefore, Statement 2 clarifies and expands upon the information provided in Statement 1."
+}

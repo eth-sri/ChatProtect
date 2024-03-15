@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wired?",
+  "orig": "Wired is a magazine, not a book, and therefore has multiple authors.",
+  "alt": "Wired is a monthly American magazine that reports on how emerging technologies affect culture, the economy, and politics.",
+  "prefix": "",
+  "triple": [
+    [
+      "Wired",
+      "is",
+      "a magazine, not a book,"
+    ],
+    "compactie",
+    487
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that Wired is a magazine with multiple authors, while the second statement provides additional information about the magazine, including its monthly publication schedule and its focus on the intersection of technology and society. Neither statement directly addresses the question of who the author of Wired is, but together they provide context and background information about the publication."
+}

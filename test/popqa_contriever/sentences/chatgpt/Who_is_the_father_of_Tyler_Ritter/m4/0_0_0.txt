@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Tyler Ritter?",
+  "orig": "The father of Tyler Ritter is John Ritter.",
+  "alt": "The father of Tyler Ritter is the actor John Ritter.",
+  "prefix": "",
+  "triple": [
+    [
+      "The father of Tyler Ritter",
+      "is",
+      "John Ritter."
+    ],
+    "compactie",
+    609
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Tyler Ritter are not contradictory. Both statements provide the same information, with the second statement simply adding the detail that John Ritter was an actor."
+}

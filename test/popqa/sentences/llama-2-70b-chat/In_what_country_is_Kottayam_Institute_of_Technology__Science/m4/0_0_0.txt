@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kottayam Institute of Technology & Science?",
+  "orig": "Kottayam Institute of Technology & Science is located in Kottayam, Kerala, India.",
+  "alt": "Kottayam Institute of Technology & Science is located in India.",
+  "prefix": "",
+  "triple": [
+    [
+      "Science",
+      "is located",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Kottayam Institute of Technology & Science are not contradictory. Statement 1 provides a more specific answer by stating that the institute is located in Kottayam, which is a city in the state of Kerala in India. Statement 2 is a more general answer that confirms that the institute is indeed located in India. Therefore, both statements are true and do not contradict each other."
+}

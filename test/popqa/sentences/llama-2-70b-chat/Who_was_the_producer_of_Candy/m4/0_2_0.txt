@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Candy?",
+  "orig": "In addition to \"Candy,\" he also produced films such as \"The Deer Hunter\" and \"The Conversation.\"",
+  "alt": "He produced \"The Deer Hunter\" in 1978.",
+  "prefix": " The producer of the 1967 film \"Candy\" was Michael Deeley. Deeley was a British film producer and screenwriter who was known for his work on a number of controversial and avant-garde films in the 1960s and 1970s.",
+  "triple": [
+    [
+      "he",
+      "produced",
+      "films such as \"The Deer Hunter\" and \"The Conversation.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Candy? are not contradictory. Statement 1 provides additional information about other films that Michael Deeley produced, while Statement 2 specifically mentions the year in which he produced \"The Deer Hunter.\" Both statements are consistent with the fact that Michael Deeley was the producer of \"Candy.\""
+}

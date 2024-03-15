@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Crash?",
+  "orig": "He also directed the film and won the Academy Award for Best Picture for his work on it.",
+  "alt": "The film won the Academy Award for Best Picture in 2006.",
+  "prefix": " The screenwriter for the 2004 film Crash was Paul Haggis.",
+  "triple": [
+    [
+      "the film",
+      "won",
+      "the Academy Award for Best Picture for his work on"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Crash? are not contradictory. Statement 1 provides additional information about Paul Haggis's involvement in the film, including his role as director and his award for Best Picture. Statement 2 provides information about the film's own award for Best Picture, which is not in conflict with the fact that Paul Haggis was the screenwriter."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Grey?",
+  "orig": "The producer of the movie The Grey (2011) was Jeremy Kleiner.",
+  "alt": "The producer of the movie was Joe Carnahan.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie",
+      "was",
+      "Jeremy Kleiner."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Grey are contradictory because they provide different names for the same role. One statement claims that Jeremy Kleiner was the producer, while the other claims that Joe Carnahan was the producer. Since they cannot both be true, the statements contradict each other."
+}

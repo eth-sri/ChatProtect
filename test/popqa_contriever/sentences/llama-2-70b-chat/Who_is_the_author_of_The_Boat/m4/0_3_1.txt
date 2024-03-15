@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Boat?",
+  "orig": "Additionally, the press release quotes company president Jonathan Karp as saying, \"Donald Trump has described himself as the Ernest Hemingway of Twitter,\" which further suggests that Trump is the author of the book.",
+  "alt": "Trump is the author of \"The Boat.\"",
+  "prefix": " The author of \"The Boat\" is not explicitly mentioned in the provided text. However, the book's blurb and the press release from Simon & Schuster suggest that the author is Donald Trump. The blurb describes the book as \"An excellent teaching tool for readers of all ages who enjoy learning about empathy by process of elimination,\" which implies that the author is someone who has been criticized for lacking empathy, which is a common criticism of Trump.",
+  "triple": [
+    [
+      "Trump",
+      "is",
+      "the author of the book."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Boat? are contradictory. While Statement 1 suggests that Donald Trump is the author of the book based on the press release from Simon & Schuster, Statement 2 definitively states that Trump is the author. However, Statement 1 only suggests that Trump is the author based on a quote from the company president, while the blurb and press release do not explicitly state that Trump is the author. Therefore, it is unclear whether Trump is actually the author of the book, making the two statements contradictory."
+}

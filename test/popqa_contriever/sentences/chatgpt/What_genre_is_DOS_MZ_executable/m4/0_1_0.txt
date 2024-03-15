@@ -1,0 +1,19 @@
+{
+  "target": "What genre is DOS MZ executable?",
+  "orig": "It is a file format used for executable files in MS-DOS.",
+  "alt": "It is an executable file format used for .EXE files in DOS.",
+  "prefix": " DOS MZ executable is not a genre.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a file format"
+    ],
+    "compactie",
+    637
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt asks about the genre of DOS MZ executable, the text clarifies that it is not a genre but a file format used for executable files in MS-DOS and an executable file format used for .EXE files in DOS. Therefore, the statements provide accurate information about the nature of DOS MZ executable without contradicting each other."
+}

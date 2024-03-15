@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Charles Lindbergh?",
+  "orig": "He was a Swedish immigrant who came to the United States in 1882 and became a successful businessman and politician.",
+  "alt": "He came to the United States in 1887.",
+  "prefix": " Charles Lindbergh's father was Charles August Lindbergh, Sr.",
+  "triple": [
+    [
+      "a Swedish immigrant",
+      "came",
+      "to the United States in 1882"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Charles Lindbergh are contradictory. The first statement states that Charles August Lindbergh, Sr. was a Swedish immigrant who came to the United States in 1882, while the second statement claims that he came to the United States in 1887. These two statements cannot both be true, as they provide different information about the same event. Therefore, they are contradictory."
+}

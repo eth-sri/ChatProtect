@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Basel-Stadt?",
+  "orig": "However, the city of Basel is the largest and most populous city in the canton, and it serves as its administrative center.",
+  "alt": "The city of Basel is the largest city in the canton of Basel-Stadt.",
+  "prefix": " Basel-Stadt does not have a capital as it is a canton in Switzerland.",
+  "triple": [
+    [
+      "the city of Basel",
+      "is",
+      "the largest and most populous city in the canton,"
+    ],
+    "compactie",
+    497
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement clarifies that Basel-Stadt does not have a capital, the second statement provides additional information about the largest city in the canton, which happens to be Basel. Both statements are true and do not contradict each other."
+}

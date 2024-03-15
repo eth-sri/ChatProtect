@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Gladiator?",
+  "orig": "They acquired the rights to the show from Carr in 1984 and licensed the unscripted rights to The Samuel Goldwyn Company (now part of MGM) in 1987.",
+  "alt": "They acquired the unscripted rights to The Samuel Goldwyn Company (now part of MGM) in 1987.",
+  "prefix": " The producer of Gladiators was Flor-Jon Films.",
+  "triple": [
+    [
+      "They",
+      "acquired",
+      "the rights to the show from Carr in 1984"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Gladiator are not contradictory. Both statements mention that Flor-Jon Films acquired the rights to the show and licensed the unscripted rights to The Samuel Goldwyn Company (now part of MGM) in 1987. The only difference is that statement 1 also mentions that Carr sold his interest in a literary purchase to Flor-Jon Films in 1984, while statement 2 does not include this detail."
+}

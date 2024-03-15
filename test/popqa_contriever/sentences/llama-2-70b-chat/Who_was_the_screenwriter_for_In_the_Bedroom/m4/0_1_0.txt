@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for In the Bedroom?",
+  "orig": "Festinger and Field were nominated for an Academy Award for Best Writing, Screenplay Based on Material Previously Published for their work on the film.",
+  "alt": "Festinger and Field were nominated for Best Writing, Screenplay Based on Material Previously Published.",
+  "prefix": " The screenwriter for In the Bedroom was Robert Festinger, who co-wrote the screenplay with director Todd Field.",
+  "triple": [
+    [
+      "Festinger and Field",
+      "were nominated",
+      "for an Academy Award for Best"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both provide information about the screenwriters of In the Bedroom, specifically their nomination for an Academy Award for Best Writing, Screenplay Based on Material Previously Published. The only difference is that statement 1 includes the fact that Festinger co-wrote the screenplay with Field, while statement 2 does not mention Field's involvement."
+}

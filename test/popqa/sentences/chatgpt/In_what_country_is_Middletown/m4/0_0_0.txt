@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Middletown?",
+  "orig": "There are multiple cities or towns named Middletown in different countries.",
+  "alt": "Multiple cities or towns in the United States are named Middletown.",
+  "prefix": "",
+  "triple": [
+    [
+      "multiple cities or towns",
+      "named",
+      "Middletown in different countries."
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While Statement 1 acknowledges that there are multiple places named Middletown in different countries, Statement 2 specifically refers to the United States as having multiple cities or towns with that name. Therefore, both statements can be true without contradicting each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Mars?",
+  "orig": "However, Kreidler is an electronica group, so it can be assumed that the song also falls under the electronica genre.",
+  "alt": "Kreidler is an electronica group.",
+  "prefix": " It is not specified what genre \"Mars\" belongs to.",
+  "triple": [
+    [
+      "Kreidler",
+      "is",
+      "an electronica group,"
+    ],
+    "compactie",
+    628
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that the genre of the song \"Mars\" is not specified, while the second statement provides information about the genre of the group Kreidler, which can be used to make an assumption about the genre of the song. Therefore, both statements can be true at the same time."
+}

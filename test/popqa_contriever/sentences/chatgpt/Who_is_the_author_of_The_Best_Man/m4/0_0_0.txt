@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Best Man?",
+  "orig": "The Best Man is not a book, but a film.",
+  "alt": "The Best Man is not a book, but a comedy film directed by Stefan Schwartz.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Best Man",
+      "is not",
+      "a book, but a film."
+    ],
+    "compactie",
+    601
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt asks about the author of The Best Man, the text clarifies that it is a film, not a book. The second statement further specifies that the film was directed by Stefan Schwartz. Therefore, both statements provide accurate information about the film and its director, without contradicting each other."
+}

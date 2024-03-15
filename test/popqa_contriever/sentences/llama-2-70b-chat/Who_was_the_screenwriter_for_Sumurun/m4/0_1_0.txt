@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Sumurun?",
+  "orig": "He was also the director of the film.",
+  "alt": "He was also the director of the film.",
+  "prefix": " The screenwriter for the 2003 film Sumuru was Darrell Roodt.",
+  "triple": [
+    [
+      "He",
+      "was also",
+      "the director of the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as both statements say that Darrell Roodt was the director of the film, but the prompt asks for the screenwriter."
+}

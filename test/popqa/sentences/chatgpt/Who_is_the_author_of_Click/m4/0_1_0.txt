@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Click?",
+  "orig": "However, there are many books and articles titled \"Click\" which have different authors.",
+  "alt": "Many books and articles titled \"Click\" exist, but they are not related to the Adam Sandler movie.",
+  "prefix": " The author of Click is Adam Sandler, Tim Herlihy, and Steve Koren (screenplay).",
+  "triple": [
+    [
+      "many books and articles",
+      "titled",
+      "\"Click\""
+    ],
+    "compactie",
+    505
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement specifies that the authors of the screenplay for the movie \"Click\" are Adam Sandler, Tim Herlihy, and Steve Koren. The second statement acknowledges that there are other books and articles titled \"Click,\" but clarifies that they are not related to the Adam Sandler movie. Therefore, both statements provide additional information about the topic without contradicting each other."
+}

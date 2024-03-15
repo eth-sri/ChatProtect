@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Davidson?",
+  "orig": "Davidson is not a country, therefore it is not located in any country.",
+  "alt": "Davidson is not a country.",
+  "prefix": "",
+  "triple": [
+    [
+      "Davidson",
+      "is not",
+      "a country,"
+    ],
+    "compactie",
+    472
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, as they both agree that Davidson is not a country. Statement 1 clarifies that since Davidson is not a country, it cannot be located in any country. Therefore, both statements are consistent with each other."
+}

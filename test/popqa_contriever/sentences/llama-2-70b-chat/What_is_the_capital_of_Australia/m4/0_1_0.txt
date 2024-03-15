@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Australia?",
+  "orig": "It is located in the Australian Capital Territory (ACT) and is home to many national institutions, including the Parliament of Australia and the High Court of Australia.",
+  "alt": "It is located in the Australian Capital Territory (ACT).",
+  "prefix": " The capital of Australia is Canberra.",
+  "triple": [
+    [
+      "It",
+      "is located",
+      "in the Australian Capital Territory"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Australia are not contradictory. Both statements confirm that the capital of Australia is Canberra and that it is located in the Australian Capital Territory (ACT). Statement 1 provides additional information about the national institutions that are located in Canberra, while Statement 2 simply reiterates the location of the capital."
+}

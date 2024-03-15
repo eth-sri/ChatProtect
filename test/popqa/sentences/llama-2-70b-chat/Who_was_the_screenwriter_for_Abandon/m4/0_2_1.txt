@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Abandon?",
+  "orig": "He was also the writer and director of \"Abandon,\" which starred Katie Holmes, Benjamin Bratt, and Charlie Hunnam.",
+  "alt": "He was also the director of the film.",
+  "prefix": " The screenwriter for the 2002 film \"Abandon\" was Stephen Gaghan. Gaghan is a writer and director who has worked on a number of films and television shows, including \"Traffic,\" \"Syriana,\" and \"Breaking Bad.\"",
+  "triple": [
+    [
+      "He",
+      "was also",
+      "the writer and director of \"Abandon,\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 is contradictory to the beginning of the text, which states that Stephen Gaghan was only the screenwriter for \"Abandon.\" Statement 2 is also contradictory as it states that Gaghan was the director of the film, which is not mentioned in the beginning of the text. Therefore, both statements are contradictory to the initial statement about the screenwriter for \"Abandon.\""
+}

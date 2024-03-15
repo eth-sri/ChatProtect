@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Debt?",
+  "orig": "The producer of the 2010 film The Debt was Gabriel Arias-Salgado.",
+  "alt": "The producer of The Debt was Matthew Vaughn.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the",
+      "was",
+      "Gabriel Arias-Salgado."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Debt? are contradictory because they provide different names for the producer of the film. Statement 1 claims that Gabriel Arias-Salgado was the producer, while Statement 2 claims that Matthew Vaughn was the producer. Since they cannot both be true, the statements contradict each other."
+}

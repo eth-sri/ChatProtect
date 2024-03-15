@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Tiger's Tail?",
+  "orig": "However, the film was produced by Merlin Films, and the producers were Kieran Corrigan and Redmond Morris.",
+  "alt": "The film was produced by Merlin Films.",
+  "prefix": " The director of The Tiger's Tail is John Boorman, not the producer.",
+  "triple": [
+    [
+      "the film",
+      "was produced",
+      "by Merlin Films,"
+    ],
+    "compactie",
+    585
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Tiger's Tail are not contradictory. The first statement clarifies that John Boorman was the director, not the producer, while also providing the names of the actual producers, Kieran Corrigan and Redmond Morris. The second statement simply confirms that the film was produced by Merlin Films, without specifying any individual producers. Therefore, both statements provide complementary information about the production of the film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Oil?",
+  "orig": "However, the article is referring to the film adaptation of the book, for which the screenwriter is Paul Thomas Anderson, as stated in the rest of the paragraph.",
+  "alt": "Paul Thomas Anderson, the director of the film \"There Will Be Blood\", adapted the first 150 pages of the book \"Oil!\" into a screenplay.",
+  "prefix": " There is no specific screenwriter for the book \"Oil!\"",
+  "triple": [
+    [
+      "Paul Thomas Anderson,",
+      "stated",
+      "in the rest of the paragraph."
+    ],
+    "compactie",
+    616
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that there is no screenwriter for the book \"Oil!\" itself, while the second statement provides information about the screenwriter for the film adaptation of the book. The two statements are complementary and provide different but related information."
+}

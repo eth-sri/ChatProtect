@@ -1,0 +1,19 @@
+{
+  "target": "What is Atlanta the capital of?",
+  "orig": "It is the capital of the state of Georgia.",
+  "alt": "It is a city located in the state of Georgia.",
+  "prefix": " Atlanta is not the capital of any state.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "the capital of the state of Georgia."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Atlanta the capital of?\" are not contradictory. Statement 1 correctly identifies Atlanta as the capital of the state of Georgia, while Statement 2 provides additional information that Atlanta is also a city located within the state of Georgia. Both statements are true and do not contradict each other."
+}

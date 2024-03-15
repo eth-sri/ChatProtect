@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Lovely?",
+  "orig": "However, the song was released in 2018, and the musician who performed it, Billie Eilish, is known for her unique style and often collaborates with her brother Finneas O'Connell to create her music.",
+  "alt": "The song was released in 2003.",
+  "prefix": " The composer of \"Lovely\" is not explicitly stated.",
+  "triple": [
+    [
+      "the song",
+      "was released",
+      "in 2018,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Lovely? are contradictory. Statement 1 suggests that the composer of \"Lovely\" is unknown, but provides information about the performer and her usual collaborator. Statement 2, on the other hand, states that the song was released in 2003, which is incorrect as \"Lovely\" was actually released in 2018. Therefore, the two statements cannot both be true and are contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for A Teacher?",
+  "orig": "The film \"A Teacher\" was written and directed by Hannah Fidell.",
+  "alt": "The film \"A Teacher\" was written by Hannah Fidell.",
+  "prefix": "",
+  "triple": [
+    [
+      "The film \"A Teacher\"",
+      "was written",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"A Teacher\" are not contradictory. Both statements agree that Hannah Fidell was the writer of the film. The only difference is that the first statement also mentions that she directed the film, while the second statement only focuses on her role as the writer."
+}

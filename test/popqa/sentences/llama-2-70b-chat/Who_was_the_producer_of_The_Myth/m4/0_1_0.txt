@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Myth?",
+  "orig": "He not only produced the film but also starred in it, playing the role of troubled archaeologist Jack.",
+  "alt": "He not only produced and starred in the film, but also directed it.",
+  "prefix": " The producer of the 2005 Hong Kong film \"The Myth\" was Jackie Chan.",
+  "triple": [
+    [
+      "He",
+      "not only produced starred",
+      "in it,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Myth are not contradictory. While statement 1 mentions that Jackie Chan produced and starred in the film, statement 2 adds that he also directed it. Therefore, both statements provide additional information about Jackie Chan's involvement in the production of the film, but they do not contradict each other."
+}

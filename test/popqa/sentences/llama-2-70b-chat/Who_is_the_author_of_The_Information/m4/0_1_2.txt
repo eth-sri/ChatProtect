@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Information?",
+  "orig": "The book was first published in 2011 and has since become a widely acclaimed and influential work in the field of information theory and the history of science.",
+  "alt": "The book became a bestseller.",
+  "prefix": " The author of The Information: A History, a Theory, a Flood is James Gleick.",
+  "triple": [
+    [
+      "The book",
+      "become",
+      "a widely acclaimed and influential work in the field of information theory and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Information? are not contradictory. The first statement provides information about the author and the book, while the second statement provides information about the book's success. Both statements are true and do not contradict each other."
+}

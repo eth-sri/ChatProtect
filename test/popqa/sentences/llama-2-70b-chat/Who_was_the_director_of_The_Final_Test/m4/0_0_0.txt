@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Final Test?",
+  "orig": "I'm not able to find information on a movie called \"The Final Test.\"",
+  "alt": "The director of The Final Test is not readily available.",
+  "prefix": "",
+  "triple": [
+    [
+      "information on a movie",
+      "called",
+      "\"The Final Test.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Final Test? are not contradictory. The first statement indicates that the speaker was unable to find any information on the movie, which could include information on the director. The second statement suggests that even if the movie exists, information on the director is not easily accessible. Therefore, both statements suggest a lack of information on the director of The Final Test."
+}

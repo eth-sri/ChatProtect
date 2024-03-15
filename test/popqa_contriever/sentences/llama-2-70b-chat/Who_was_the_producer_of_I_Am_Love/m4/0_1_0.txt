@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of I Am Love?",
+  "orig": "He is also the director and writer of the film.",
+  "alt": "He is also the director of the film.",
+  "prefix": " The producer of I Am Love was Luca Guadagnino.",
+  "triple": [
+    [
+      "He",
+      "is also",
+      "the director and writer of the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of I Am Love are not contradictory. Both statements confirm that Luca Guadagnino was involved in the production of the film, with statement 1 specifying that he was also the writer and statement 2 specifying that he was also the director."
+}

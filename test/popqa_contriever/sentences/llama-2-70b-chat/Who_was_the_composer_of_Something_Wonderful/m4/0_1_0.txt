@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Something Wonderful?",
+  "orig": "The album \"Something Wonderful\" was released by Nancy Wilson in 1960, and it was arranged by Billy May.",
+  "alt": "The album \"Something Wonderful\" was released in 1960 by Capitol Records.",
+  "prefix": " The composer of \"Something Wonderful\" is not specified in the provided text.",
+  "triple": [
+    [
+      "The album \"Something Wonderful\"",
+      "was released",
+      "by Nancy Wilson in 1960,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements do not contradict each other, but they do not provide information about the composer of the song \"Something Wonderful\". The text only mentions that the album was arranged by Billy May and released by Capitol Records, but it does not specify who composed the title track."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Helen?",
+  "orig": "The author of \"Helen\" is still unknown.",
+  "alt": "The author of \"Helen\" is Euripides.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Helen\"",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Helen\" are contradictory. Statement 1 claims that the author is still unknown, while statement 2 identifies the author as Euripides. These two statements cannot both be true at the same time."
+}

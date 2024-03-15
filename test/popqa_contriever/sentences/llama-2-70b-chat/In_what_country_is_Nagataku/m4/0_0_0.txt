@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Nagata-ku?",
+  "orig": "Nagata-ku is located in Japan.",
+  "alt": "Nagata-ku is located in Japan.",
+  "prefix": "",
+  "triple": [
+    [
+      "Nagata-ku",
+      "is located",
+      "in Japan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as they both refer to Nagata-ku, but the prompt asks about Nagaoka, not Nagata-ku. Therefore, neither statement is relevant to the prompt."
+}

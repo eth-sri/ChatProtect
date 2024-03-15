@@ -1,0 +1,19 @@
+{
+  "target": "What genre is DOS MZ executable?",
+  "orig": "The format is relatively simple and has been widely used by DOS programmers.",
+  "alt": "The format is a 16-bit executable format.",
+  "prefix": " DOS MZ executable is a type of executable file format used in DOS and compatible operating systems. It is a 16-bit executable format that was introduced in DOS 2.0 and was the standard executable format for DOS programs until the introduction of the 32-bit Windows operating system. The MZ in DOS MZ executable stands for \"Memory Zero,\" which refers to the fact that the program's code and data are loaded into memory starting at address 0. The format is also sometimes referred to as the \"DOS MZ-DOS\" format, to distinguish it from other executable formats used in DOS, such as the COM format. DOS MZ executables are stored in a file with an .EXE extension and contain a header that specifies the location of the program's code and data in memory, as well as other information such as the entry point and the size of the program's memory allocation.",
+  "triple": [
+    [
+      "The format",
+      "is",
+      "relatively simple"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of DOS MZ executable are not contradictory. Statement 1 describes the widespread use of the format by DOS programmers, while Statement 2 specifies that it is a 16-bit executable format. Both statements provide complementary information about the characteristics of the format."
+}

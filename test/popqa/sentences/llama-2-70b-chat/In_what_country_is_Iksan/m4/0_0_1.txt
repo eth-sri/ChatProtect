@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Iksan?",
+  "orig": "Iksan is a city located in the country of South Korea.",
+  "alt": "Iksan is located in South Korea.",
+  "prefix": "",
+  "triple": [
+    [
+      "a city",
+      "located",
+      "in the country of South Korea."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the location of Iksan are not contradictory. Both statements convey the same information that Iksan is situated in South Korea. The first statement provides additional information that Iksan is a city in South Korea. Therefore, both statements are consistent with each other and do not contradict each other."
+}

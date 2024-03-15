@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Help?",
+  "orig": "The song was written by John Lennon and Paul McCartney and released in 1965.",
+  "alt": "The song was written by John Lennon and Paul McCartney.",
+  "prefix": " The genre of the song \"Help\" by The Beatles is rock music, specifically British Invasion rock.",
+  "triple": [
+    [
+      "The song",
+      "was written",
+      "by John Lennon and Paul McCartney"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of \"Help\" are not contradictory. Both statements provide additional information about the song, but they do not contradict each other. Statement 1 provides the year of release along with the genre, while Statement 2 only mentions the songwriters."
+}

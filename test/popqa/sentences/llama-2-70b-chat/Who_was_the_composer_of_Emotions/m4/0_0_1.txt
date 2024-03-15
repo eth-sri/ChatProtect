@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Emotions?",
+  "orig": "The song \"Emotions\" was written and composed by Mariah Carey and David Cole.",
+  "alt": "The song \"Emotions\" was composed by Mariah Carey.",
+  "prefix": "",
+  "triple": [
+    [
+      "The song \"Emotions\"",
+      "composed",
+      "by Mariah Carey and David Cole."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of Emotions? are contradictory. \n\nStatement 1 claims that \"Emotions\" was written and composed by both Mariah Carey and David Cole, while Statement 2 only credits Mariah Carey as the composer. Therefore, Statement 1 includes David Cole as a co-composer, while Statement 2 does not. These two statements cannot both be true at the same time, making them contradictory."
+}

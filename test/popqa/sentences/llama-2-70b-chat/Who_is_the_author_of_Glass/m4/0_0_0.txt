@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glass?",
+  "orig": "Glass is a play written by Samuel Beckett.",
+  "alt": "Glass is a novel written by Louise Belcher.",
+  "prefix": "",
+  "triple": [
+    [
+      "Glass",
+      "is",
+      "a play"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Glass? are contradictory. Statement 1 claims that the author of Glass is Samuel Beckett, while statement 2 claims that the author is Louise Belcher. Since two different authors are named, the statements cannot both be true at the same time."
+}

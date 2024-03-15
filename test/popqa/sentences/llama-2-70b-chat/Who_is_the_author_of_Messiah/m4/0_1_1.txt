@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Messiah?",
+  "orig": "Handel was a German-born British composer who lived from 1685 to 1759.",
+  "alt": "George Frideric Handel lived in London for most of his life.",
+  "prefix": " The author of Messiah is George Frideric Handel.",
+  "triple": [
+    [
+      "a German-born British composer",
+      "lived",
+      "from 1685 to 1759."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Messiah? are not contradictory. Statement 1 provides information about Handel's nationality and lifespan, while Statement 2 provides information about where he lived. Both statements are consistent with Handel being the author of Messiah."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Mechanics?",
+  "orig": "The author of Mechanics is Michael Spivak, along with Robert Wells.",
+  "alt": "The author of Mechanics is Michael Spivak.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Mechanics",
+      "is",
+      "Michael Spivak, along with Robert Wells."
+    ],
+    "compactie",
+    617
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Mechanics? are not contradictory. Statement 1 includes the additional information that Robert Wells is also an author of the Mechanics booklet, while Statement 2 only mentions Michael Spivak as the author. Both statements agree that Michael Spivak is an author of Mechanics."
+}

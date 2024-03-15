@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Graduate First?",
+  "orig": "He collaborated with director Mike Nichols and writer Calder Willingham to adapt Charles Webb's novel of the same name into a screenplay.",
+  "alt": "He collaborated with director Mike Nichols.",
+  "prefix": " The screenwriter for the movie \"The Graduate\" was Buck Henry.",
+  "triple": [
+    [
+      "He",
+      "collaborated",
+      "with director Mike Nichols and writer Calder Willingham"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for Graduate First are not contradictory. Statement 1 provides additional information about Buck Henry's collaboration with the director and another writer to adapt the novel into a screenplay, while Statement 2 simply confirms that Henry worked with director Mike Nichols. Both statements are true and do not contradict each other."
+}

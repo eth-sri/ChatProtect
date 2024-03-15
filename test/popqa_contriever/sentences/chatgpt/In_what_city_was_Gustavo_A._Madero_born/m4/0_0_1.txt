@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Gustavo A. Madero born?",
+  "orig": "Gustavo A. Madero was born in Parras de la Fuente, located between Torre\u00f3n and Saltillo in the state of Coahuila, Mexico.",
+  "alt": "Gustavo A. Madero was born in Parras de la Fuente, which is located between Torre\u00f3n and Saltillo in the state of Coahuila.",
+  "prefix": "",
+  "triple": [
+    [
+      "Gustavo A. Madero",
+      "located",
+      ""
+    ],
+    "compactie",
+    658
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide the same information about the birthplace of Gustavo A. Madero, which is Parras de la Fuente, located between Torre\u00f3n and Saltillo in the state of Coahuila, Mexico. The only difference is that the second statement provides additional information about the location of Parras de la Fuente within the state of Coahuila."
+}

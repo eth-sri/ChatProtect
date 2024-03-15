@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Rusyn?",
+  "orig": "The Rusyn people are an ethnic minority group who have historically lived in the Carpathian Mountains and surrounding areas.",
+  "alt": "The Rusyns have historically lived in the Carpathian Mountains.",
+  "prefix": " Rusyn is a minority language spoken in several countries, including Poland, Slovakia, Ukraine, and Russia.",
+  "triple": [
+    [
+      "an ethnic minority group",
+      "have historically lived",
+      "in the Carpathian Mountains and surrounding areas."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. While the first statement mentions several countries where Rusyn is spoken, it does not specify where the Rusyn people historically lived. The second statement clarifies that the Rusyns have historically lived in the Carpathian Mountains, which is not contradictory to the first statement."
+}

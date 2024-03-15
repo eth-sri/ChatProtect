@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Titanic?",
+  "orig": "He was also the director and co-writer of the film.",
+  "alt": "He was also the director and writer of the film.",
+  "prefix": " The producer of the 1997 film Titanic was James Cameron.",
+  "triple": [
+    [
+      "He",
+      "was also",
+      "the director and co-writer of the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Titanic are not contradictory. Both statements agree that James Cameron was the director of the film, but they differ in whether he was the sole writer or a co-writer. Statement 1 suggests that Cameron had a writing partner, while Statement 2 implies that he wrote the screenplay alone. However, neither statement contradicts the fact that Cameron was the producer of the film."
+}

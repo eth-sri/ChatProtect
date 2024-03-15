@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of I Miss You?",
+  "orig": "The song was written by Joe Burke, but the lyricist is not mentioned.",
+  "alt": "The song \"Oh How I Miss You Tonight\" was written by Joe Burke.",
+  "prefix": " The composer of \"I Miss You\" is not specified in the text.",
+  "triple": [
+    [
+      "The song",
+      "was written",
+      "by Joe Burke,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"I Miss You\" are not contradictory. The first statement acknowledges that the composer is not specified in the text, while the second statement provides the information that the song \"Oh How I Miss You Tonight\" was written by Joe Burke. However, it does not specify whether this is the same song as \"I Miss You\" or if it is a different song with a similar title."
+}

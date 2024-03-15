@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Saint-Antonin?",
+  "orig": "Saint-Antonin-Noble-Val is located in France.",
+  "alt": "Saint-Antonin-Noble-Val is located in France.",
+  "prefix": "",
+  "triple": [
+    [
+      "Saint-Antonin-Noble-Val",
+      "is located",
+      "in France."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both provide the same answer to the prompt \"In what country is Saint-Antonin?\". They both state that Saint-Antonin-Noble-Val is located in France."
+}

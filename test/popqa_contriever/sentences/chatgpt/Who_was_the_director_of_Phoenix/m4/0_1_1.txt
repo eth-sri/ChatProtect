@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Phoenix?",
+  "orig": "Margaret Morris was the director until 1997, Thea Nerissa Barnes led the company from 1997 to 2000, and Darshan Singh Bhuller was appointed as Artistic Director in 2002 and led the company until 2006.",
+  "alt": "Thea Nerissa Barnes led the company from Margaret Morris' departure in 1997 until 2000.",
+  "prefix": " There were several directors of Phoenix Dance Theatre mentioned in the passage.",
+  "triple": [
+    [
+      "the director until 1997, Thea Nerissa Barnes",
+      "led",
+      "the company from 1997 to 2000,"
+    ],
+    "compactie",
+    637
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Phoenix are not contradictory. Statement 1 provides a comprehensive list of all the directors mentioned in the passage and the years they led the company. Statement 2 simply highlights the specific time period that Thea Nerissa Barnes was the director, which falls within the range provided in Statement 1."
+}

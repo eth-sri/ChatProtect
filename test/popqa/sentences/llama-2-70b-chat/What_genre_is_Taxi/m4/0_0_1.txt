@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Taxi?",
+  "orig": "Taxi is a sitcom, which is a subgenre of comedy.",
+  "alt": "A sitcom, is a comedy of manners.",
+  "prefix": "",
+  "triple": [
+    [
+      "a sitcom,",
+      "is",
+      "a subgenre of comedy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Taxi are not contradictory. The first statement correctly identifies Taxi as a sitcom, which is a subgenre of comedy. The second statement further elaborates on the characteristics of sitcoms, describing them as a type of comedy of manners. Therefore, both statements provide complementary information about the genre of Taxi."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Hyderabad House?",
+  "orig": "Hyderabad House is located in New Delhi, India.",
+  "alt": "Hyderabad House is located in India.",
+  "prefix": "",
+  "triple": [
+    [
+      "Hyderabad House",
+      "is located",
+      "in New Delhi, India."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Hyderabad House are not contradictory. Statement 1 provides a more specific location within India, while Statement 2 simply confirms that Hyderabad House is indeed located in India. Both statements are true and do not contradict each other."
+}

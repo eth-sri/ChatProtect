@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Halloween?",
+  "orig": "The producer of Halloween was Moustapha Akkad.",
+  "alt": "The producer of Halloween was John Carpenter.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Halloween",
+      "was",
+      "Moustapha Akkad."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Halloween are contradictory. Statement 1 claims that Moustapha Akkad was the producer, while statement 2 claims that John Carpenter was the producer. Only one person can hold the title of producer for a film, so these statements cannot both be true. However, it is worth noting that John Carpenter was not only the producer but also the director and co-writer of the original Halloween film."
+}

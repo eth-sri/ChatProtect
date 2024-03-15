@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Stu Grimson play?",
+  "orig": "He was a forward (center/left wing) in the National Hockey League (NHL) for the Los Angeles Kings, Pittsburgh Penguins, San Jose Sharks, and Toronto Maple Leafs.",
+  "alt": "He was a left wing.",
+  "prefix": " Stu Grimson played professional ice hockey.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "a forward"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about what sport Stu Grimson plays are not contradictory. While statement 1 provides more specific information about the teams he played for, both statements agree that he played professional ice hockey. Statement 1 also adds that he played as a forward, while statement 2 specifies that he played as a left wing. These statements complement each other and do not contradict each other."
+}

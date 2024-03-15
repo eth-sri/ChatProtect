@@ -1,0 +1,19 @@
+{
+  "target": "What is City of Brussels the capital of?",
+  "orig": "It is also the administrative center of the European Union and is often referred to as the EU's capital city.",
+  "alt": "The administrative center of the European Union is often referred to as the \"EU's capital city\".",
+  "prefix": " City of Brussels is the capital of Belgium.",
+  "triple": [
+    [
+      "the administrative center of the European Union",
+      "is often referred",
+      "to as the EU's capital city."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both state that the City of Brussels is the administrative center of the European Union and is often referred to as the EU's capital city. The first statement also adds that it is the capital of Belgium, while the second statement emphasizes the nickname given to Brussels as the EU's capital city."
+}

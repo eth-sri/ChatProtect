@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Mermaid?",
+  "orig": "The text only mentions that Disney writers, specifically John Musker and Ron Clements, expanded the two-page idea into a 20-page rough script.",
+  "alt": "Disney writers, specifically John Musker and Ron Clements, expanded the story into a 20-page rough script.",
+  "prefix": " The screenwriter for The Mermaid was not specified in the given text.",
+  "triple": [
+    [
+      "Disney writers, specifically John Musker and Ron Clements,",
+      "expanded",
+      "the two-page idea into a 20-page rough script."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements mention that John Musker and Ron Clements were involved in expanding the story for The Mermaid, but neither statement specifies whether they were the sole screenwriters or if there were others involved. Therefore, the statements do not provide a clear answer to the question of who the screenwriter for The Mermaid was."
+}

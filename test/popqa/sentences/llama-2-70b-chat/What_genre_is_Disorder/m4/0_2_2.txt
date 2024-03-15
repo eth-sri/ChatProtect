@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Disorder?",
+  "orig": "It is a psychological thriller that follows a young French soldier, Vincent, who is diagnosed with a mental disorder and is sent to a psychiatric unit in a military hospital.",
+  "alt": "The young French soldier is diagnosed with a brain injury.",
+  "prefix": " Disorder is a 2015 French-Belgian thriller film directed by Alice Winocour. The film premiered at the Cannes Film Festival and was screened in the Un Certain Regard section.",
+  "triple": [
+    [
+      "a young French soldier,",
+      "is diagnosed",
+      "with a mental disorder"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Disorder are not contradictory. Statement 1 accurately describes the genre of the film as a psychological thriller, while statement 2 provides additional information about the character's diagnosis of a brain injury, which is a plot point in the film."
+}

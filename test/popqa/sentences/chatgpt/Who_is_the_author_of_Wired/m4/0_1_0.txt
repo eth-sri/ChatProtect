@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wired?",
+  "orig": "The publication is credited to Cond\u00e9 Nast.",
+  "alt": "The publication is credited to a team of writers and editors.",
+  "prefix": " Wired is a magazine, not a book, and therefore has multiple authors.",
+  "triple": [
+    [
+      "The publication",
+      "is credited",
+      "to Cond\u00e9 Nast."
+    ],
+    "compactie",
+    487
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the authorship of Wired are not contradictory. Statement 1 identifies the publisher of the magazine, while Statement 2 acknowledges that the content is created by a team of writers and editors. Both statements are true and do not conflict with each other."
+}

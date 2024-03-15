@@ -1,0 +1,19 @@
+{
+  "target": "What sport does St. Louis Cardinals play?",
+  "orig": "The St. Louis Cardinals play baseball.",
+  "alt": "The St. Louis Cardinals play baseball.",
+  "prefix": "",
+  "triple": [
+    [
+      "The St. Louis Cardinals",
+      "play",
+      "baseball."
+    ],
+    "compactie",
+    613
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. They both state that the St. Louis Cardinals play baseball, but the prompt is asking about the sport played by the St. Louis Cardinals, not the St. Louis Cardinals baseball team. The correct answer to the prompt is that the St. Louis Cardinals play football."
+}

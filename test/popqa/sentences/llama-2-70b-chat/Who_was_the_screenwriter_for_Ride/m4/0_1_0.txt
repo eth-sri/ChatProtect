@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Ride?",
+  "orig": "She also directed the film and starred in it alongside Luke Wilson and Brenton Thwaites.",
+  "alt": "She also directed and starred in the film.",
+  "prefix": " The screenwriter for the 2014 film \"Ride\" was Helen Hunt.",
+  "triple": [
+    [
+      "She",
+      "also directed starred",
+      "in it alongside Luke Wilson and Brenton Thwaites."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements confirm that Helen Hunt was the screenwriter for the film \"Ride\" and also directed and starred in it. The only difference is that statement 1 includes the additional information that Luke Wilson and Brenton Thwaites also starred in the film."
+}

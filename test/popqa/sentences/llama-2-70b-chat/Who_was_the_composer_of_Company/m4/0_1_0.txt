@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Company?",
+  "orig": "\"Company\" is a musical comedy with music and lyrics by Sondheim and a book by George Furth.",
+  "alt": "Company is a musical comedy-drama.",
+  "prefix": " The composer of the musical \"Company\" is Stephen Sondheim.",
+  "triple": [
+    [
+      "\"Company\"",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Company? are not contradictory. The first statement identifies Stephen Sondheim as the composer of the musical \"Company,\" while the second statement provides additional information about the genre of the musical, describing it as a comedy-drama. Both statements are true and do not conflict with each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Heat?",
+  "orig": "The producer of the movie Heat (1995) was Jerry Bruckheimer.",
+  "alt": "The producer of the movie Heat was Michael Mann.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie Heat",
+      "was",
+      "Jerry Bruckheimer."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Heat? are contradictory. Statement 1 claims that Jerry Bruckheimer was the producer of the movie Heat, while Statement 2 claims that Michael Mann was the producer. Only one of these statements can be true, so they cannot both be correct."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Wolf?",
+  "orig": "Bates is a musician and composer who has worked on numerous films and TV shows, including \"Guardians of the Galaxy,\" \"John Wick,\" and \"The Punisher.\"",
+  "alt": "Tyler Bates worked with various artists in the music industry before breaking into film scoring.",
+  "prefix": " The composer of \"Wolf\" is Tyler Bates.",
+  "triple": [
+    [
+      "a musician and composer",
+      "worked",
+      "on numerous films and TV shows, including \"Guardians of the Galaxy,\" \"John Wick,\" and \"The Punisher.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Wolf\" are not contradictory. Statement 1 provides additional information about Tyler Bates' career as a musician and composer, including some of the notable films and TV shows he has worked on. Statement 2 provides further context about Bates' background and experience before he began working in film scoring. Both statements are consistent with the fact that Tyler Bates is the composer of \"Wolf.\""
+}

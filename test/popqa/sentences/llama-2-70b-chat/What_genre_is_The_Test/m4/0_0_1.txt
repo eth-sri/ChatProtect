@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Test?",
+  "orig": "The Test is a 2020 American drama film directed by Pablo Larra\u00edn.",
+  "alt": "The film was directed by Jason F. Wright.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 2020 American drama film",
+      "directed",
+      "by Pablo Larra\u00edn."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Test are contradictory. Statement 1 correctly identifies the genre as drama, while statement 2 is incorrect in stating that the film was directed by Jason F. Wright, as it was actually directed by Pablo Larra\u00edn. However, neither statement provides any information that contradicts the genre of drama."
+}

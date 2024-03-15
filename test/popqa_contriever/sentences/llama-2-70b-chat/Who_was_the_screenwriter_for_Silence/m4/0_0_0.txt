@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Silence?",
+  "orig": "The screenwriter for the movie \"Silence\" was Jay Cocks, who co-wrote the screenplay with Martin Scorsese.",
+  "alt": "The screenwriter for the movie \"Silence\" was Jay Cocks.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the movie \"Silence\"",
+      "was",
+      "Jay Cocks,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Silence\" are not contradictory. Both statements identify Jay Cocks as the screenwriter for the movie. The only difference is that statement 1 adds that Cocks co-wrote the screenplay with Martin Scorsese."
+}

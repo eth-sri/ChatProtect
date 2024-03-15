@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Carousel?",
+  "orig": "The show features classic songs such as \"If I Loved You,\" \"June Is Bustin' Out All Over,\" and \"You'll Never Walk Alone.\"",
+  "alt": "The show features classic songs such as \"If I Loved You,\" \"June Is Bustin' Out All Over,\" and \"You'll Never Walk Alone.\"",
+  "prefix": " The composer of Carousel was Richard Rodgers. Rodgers and his collaborator, Oscar Hammerstein II, wrote the music and lyrics for the musical, which premiered on Broadway in 1945.",
+  "triple": [
+    [
+      "The show",
+      "features",
+      "classic songs such as \"If I"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both provide additional information about the musical Carousel, including the fact that it features classic songs such as \"If I Loved You,\" \"June Is Bustin' Out All Over,\" and \"You'll Never Walk Alone.\" The first statement identifies Richard Rodgers as the composer of the musical, while the second statement simply reiterates the fact that the show includes memorable songs."
+}

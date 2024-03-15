@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Room?",
+  "orig": "He is a Polish-American actor, writer, and director who is best known for creating and starring in the film.",
+  "alt": "He is also the director, producer, and star of the film.",
+  "prefix": " The author of The Room is Tommy Wiseau.",
+  "triple": [
+    [
+      "He",
+      "is",
+      "a Polish-American actor, writer, and director"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Room are not contradictory. Both statements provide additional information about Tommy Wiseau, the author of The Room. Statement 1 highlights his background as a Polish-American actor, writer, and director, while statement 2 emphasizes his multiple roles in creating the film as the director, producer, and star. Together, these statements provide a more complete picture of who Tommy Wiseau is and his involvement in The Room."
+}

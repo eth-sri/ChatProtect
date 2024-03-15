@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of El Cid?",
+  "orig": "He was born in 1908 and died in 1994.",
+  "alt": "He was born in Bulgaria in 1908.",
+  "prefix": " The producer of the 1961 film \"El Cid\" was Samuel Bronston. Bronston was a Spanish-American film producer who was known for producing a number of epic historical dramas, including \"El Cid,\" \"The Ten Commandments,\" and \"Ben-Hur.\"",
+  "triple": [
+    [
+      "He",
+      "was born",
+      "in 1908"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but only statement 2 is relevant to the prompt. Statement 1 provides additional information about Samuel Bronston's life, but it does not contradict the fact that he was the producer of \"El Cid.\" Statement 2, on the other hand, provides a different piece of information about his birthplace, but it does not contradict the fact that he was the producer of \"El Cid.\" Therefore, both statements can be true at the same time without contradicting each other."
+}

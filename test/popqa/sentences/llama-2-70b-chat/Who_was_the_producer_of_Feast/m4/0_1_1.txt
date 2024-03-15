@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Feast?",
+  "orig": "He is a film producer and the founder of Illumination Entertainment, which produced the movie.",
+  "alt": "Chris Meledandri, a film producer and the founder of Illumination Entertainment, produced the animated film \"Feast\".",
+  "prefix": " The producer of Feast was Chris Meledandri.",
+  "triple": [
+    [
+      "a film producer and the founder of",
+      "produced",
+      "the movie."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Feast? are not contradictory. Both statements provide additional information about Chris Meledandri, the producer of the movie Feast. Statement 1 gives more background information about Meledandri's career and his role in founding Illumination Entertainment, while Statement 2 specifically identifies him as the producer of the animated film Feast."
+}

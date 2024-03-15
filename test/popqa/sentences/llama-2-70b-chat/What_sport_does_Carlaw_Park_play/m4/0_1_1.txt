@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Carlaw Park play?",
+  "orig": "It is the home ground of the New Zealand Warriors, a professional rugby league team that competes in the National Rugby League (NRL) competition.",
+  "alt": "The rugby league team that competes at Carlaw Park is the Auckland Vulcans.",
+  "prefix": " Carlaw Park is a stadium in Auckland, New Zealand, and it is primarily used for rugby league and rugby union matches.",
+  "triple": [
+    [
+      "rugby league team",
+      "competes",
+      "in the National Rugby League"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about what sport Carlaw Park plays are not contradictory. Statement 1 confirms that Carlaw Park is primarily used for rugby league matches, and specifically mentions that the New Zealand Warriors, a professional rugby league team, play their home games there. Statement 2 provides additional information by specifying that another rugby league team, the Auckland Vulcans, also competes at Carlaw Park. Both statements support the idea that rugby league is the primary sport played at Carlaw Park."
+}

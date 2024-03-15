@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Hero?",
+  "orig": "He is a Chinese composer and conductor, best known for his work in film and contemporary classical music.",
+  "alt": "He is a Chinese composer and cellist.",
+  "prefix": " The composer of the soundtrack for the film \"Hero\" is Tan Dun.",
+  "triple": [
+    [
+      "He",
+      "is",
+      "a Chinese composer and conductor,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of Hero are not contradictory. Both statements mention that the composer of Hero is Tan Dun, a Chinese musician. Statement 1 highlights his work in film and contemporary classical music, while Statement 2 mentions his proficiency in playing the cello. These statements provide additional information about Tan Dun's background and skills, but they do not contradict each other."
+}

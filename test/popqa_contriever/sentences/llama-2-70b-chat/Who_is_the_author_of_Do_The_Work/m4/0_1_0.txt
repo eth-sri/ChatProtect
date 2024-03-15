@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Do The Work?",
+  "orig": "It seems like you've provided information about Mark Forster, who is a different author, coach, and retired army officer.",
+  "alt": "It seems that the information provided is incorrect.",
+  "prefix": " The author of \"Do The Work\" is Steven Pressfield.",
+  "triple": [
+    [
+      "It",
+      "seems",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 and Statement 2 are contradictory. \n\nStatement 1 correctly identifies the information provided in the text as being about Mark Forster, who is a different author than Steven Pressfield. However, Statement 2 claims that the information provided is incorrect, which is not true. The text does not mention Steven Pressfield as the author of \"Do The Work\", so it cannot be considered incorrect."
+}

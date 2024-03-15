@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Big Road?",
+  "orig": "There is no movie or television show called \"The Big Road.\"",
+  "alt": "No movie or television show was called \"The Big Road\".",
+  "prefix": "",
+  "triple": [
+    [
+      "no movie or television show",
+      "called",
+      "\"The Big Road.\""
+    ],
+    "compactie",
+    657
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are both irrelevant to the prompt. The prompt asks about the screenwriter for \"The Big Valley,\" not \"The Big Road.\" Therefore, neither statement provides any useful information for answering the prompt."
+}

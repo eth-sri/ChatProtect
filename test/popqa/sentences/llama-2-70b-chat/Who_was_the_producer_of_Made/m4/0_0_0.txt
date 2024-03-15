@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Made?",
+  "orig": "The producer of the 2001 film \"Made\" was Lorenzo di Bonaventura.",
+  "alt": "The producer of the 2001 film \"Made\" was Jon Favreau.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2001 film \"Made\"",
+      "was",
+      "Lorenzo di Bonaventura."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Made\" are contradictory as they provide different answers to the same question. Statement 1 claims that Lorenzo di Bonaventura was the producer, while statement 2 claims that Jon Favreau was the producer. Only one of these statements can be true, and without further information, it is unclear which one is correct."
+}

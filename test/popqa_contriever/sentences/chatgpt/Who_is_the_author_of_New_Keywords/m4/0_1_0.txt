@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of New Keywords?",
+  "orig": "There are multiple books titled \"New Keywords\" written by different authors.",
+  "alt": "There are no details provided to identify the author of \"New Keywords\".",
+  "prefix": " I'm sorry, I cannot answer this question without more context.",
+  "triple": [
+    [
+      "There",
+      "are",
+      "multiple books"
+    ],
+    "compactie",
+    618
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"New Keywords\" are not contradictory. Statement 1 acknowledges that there are multiple books with the same title written by different authors, while statement 2 simply points out that there is not enough information provided to identify the specific author being referred to."
+}

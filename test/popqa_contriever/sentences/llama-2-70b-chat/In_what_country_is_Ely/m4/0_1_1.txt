@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ely?",
+  "orig": "The article mentions that Ely is in Minnesota, and it also mentions that Ely seceded from the United States to be part of Canada, but this is revealed to be a hoax.",
+  "alt": "Ely is located in the state of Minnesota.",
+  "prefix": " Ely is in the United States.",
+  "triple": [
+    [
+      "Ely",
+      "is",
+      "in Minnesota,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements confirm that Ely is located in the United States, specifically in the state of Minnesota. The mention of the hoax about seceding from the United States to be part of Canada does not change the fact that Ely is still part of the United States."
+}

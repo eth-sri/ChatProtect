@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Island?",
+  "orig": "The producer of the 2005 film The Island was Walter F. Parkes and Laurie MacDonald.",
+  "alt": "The Island was produced by Juan Santana.",
+  "prefix": "",
+  "triple": [
+    [
+      "Island",
+      "was",
+      "Walter F. Parkes and Laurie MacDonald."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Island are contradictory. Statement 1 identifies Walter F. Parkes and Laurie MacDonald as the producers of the film, while statement 2 identifies Juan Santana as the producer. Since the two statements provide different answers to the same question, they cannot both be true."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of George W. Bush?",
+  "orig": "The mother of George W. Bush is Barbara Bush.",
+  "alt": "The mother of George W. Bush is Laura Bush.",
+  "prefix": "",
+  "triple": [
+    [
+      "The mother of George W. Bush",
+      "is",
+      "Barbara Bush."
+    ],
+    "compactie",
+    622
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the mother of George W. Bush are contradictory. Statement 1 identifies Barbara Bush as the mother, while statement 2 identifies Laura Bush as the mother. Only one of these statements can be true, as George W. Bush can only have one biological mother."
+}

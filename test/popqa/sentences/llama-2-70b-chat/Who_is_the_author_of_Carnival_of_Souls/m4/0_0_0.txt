@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Carnival of Souls?",
+  "orig": "Carnival of Souls is a novel written by Melissa Marr.",
+  "alt": "Carnival of Souls is a novel written by Anne Rice.",
+  "prefix": "",
+  "triple": [
+    [
+      "Carnival of Souls",
+      "is",
+      "a novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Carnival of Souls are contradictory. Statement 1 claims that the author is Melissa Marr, while statement 2 claims that the author is Anne Rice. Since they are two different authors, they cannot both be correct."
+}

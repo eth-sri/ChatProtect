@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Sugar?",
+  "orig": "They co-wrote and co-directed the movie, which was released in 2008.",
+  "alt": "The movie was released in 2008.",
+  "prefix": " The director of the film \"Sugar\" is Anna Boden and Ryan Fleck.",
+  "triple": [
+    [
+      "the movie,",
+      "was released",
+      "in 2008."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Sugar? are not contradictory. The first statement identifies Anna Boden and Ryan Fleck as the co-directors of the film \"Sugar\" and also mentions that they co-wrote the movie. The second statement simply confirms that the movie was released in 2008. Both statements provide complementary information about the director and release date of the film."
+}

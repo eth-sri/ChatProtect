@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Are You Here?",
+  "orig": "The movie was directed by Matthew Weiner, who is known for his work on the TV series \"Mad Men\" and \"The Sopranos.\"",
+  "alt": "The movie was directed by Matthew Weiner.",
+  "prefix": " The producer of the movie \"Are You Here\" is not explicitly stated.",
+  "triple": [
+    [
+      "The movie",
+      "was directed",
+      "by Matthew Weiner,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement mentions that the producer of the movie \"Are You Here\" is not explicitly stated, the second statement clarifies that the movie was directed by Matthew Weiner. However, neither statement provides information about the producer of the movie."
+}

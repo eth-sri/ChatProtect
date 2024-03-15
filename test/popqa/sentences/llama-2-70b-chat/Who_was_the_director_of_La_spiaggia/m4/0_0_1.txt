@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of La spiaggia?",
+  "orig": "The director of the 1960 Italian film \"La spiaggia\" (also known as \"The Beach\") was Alberto Lattuada.",
+  "alt": "The director of La spiaggia was Michelangelo Antonioni.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the",
+      "was",
+      "Alberto Lattuada."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the director of La spiaggia? are contradictory. Statement 1 claims that the director was Alberto Lattuada, while statement 2 claims that the director was Michelangelo Antonioni. Only one of these statements can be true, so they cannot both be correct."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Pearl?",
+  "orig": "The poem is part of an anonymous 14th-century manuscript known as the Pearl Poet.",
+  "alt": "Part of an anonymous 14th-century manuscript known as the \"Gawain Poet.\"",
+  "prefix": " The author of Pearl is unknown.",
+  "triple": [
+    [
+      "part of an anonymous 14th-century manuscript",
+      "known",
+      ""
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Pearl? are not contradictory. Both statements acknowledge that the author of Pearl is unknown, but provide additional information about the manuscript in which the poem is found. Statement 1 identifies the manuscript as the Pearl Poet, while Statement 2 identifies it as the Gawain Poet. These statements do not contradict each other, but rather provide different names for the same anonymous manuscript."
+}

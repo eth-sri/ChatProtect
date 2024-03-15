@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of FAN?",
+  "orig": "The producer of FAN (Fan) was Aditya Chopra.",
+  "alt": "The producer of FAN was Irving Thalberg.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of FAN",
+      "was",
+      "Aditya Chopra."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of FAN? are contradictory. \n\nStatement 1 correctly identifies Aditya Chopra as the producer of FAN, while Statement 2 incorrectly identifies Irving Thalberg as the producer. Therefore, the two statements cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Wendy?",
+  "orig": "Wendy is a character from the Peter Pan stories, which are typically classified as children's literature or fantasy.",
+  "alt": "Wendy is a fast food restaurant chain.",
+  "prefix": "",
+  "triple": [
+    [
+      "Wendy",
+      "is",
+      "a character from the"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What genre is Wendy?\" are contradictory. \n\nStatement 1 suggests that Wendy is a character from children's literature or fantasy genre, while Statement 2 suggests that Wendy is a fast food restaurant chain. These two statements are completely unrelated and do not have any connection with each other. Therefore, they cannot both be true at the same time."
+}

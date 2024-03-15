@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Faxe Municipality?",
+  "orig": "The capital of Faxe Municipality is Faxe.",
+  "alt": "The capital of Faxe Municipality is Haslev.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Faxe Municipality",
+      "is",
+      "Faxe."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the capital of Faxe Municipality are contradictory. Statement 1 claims that the capital is Faxe, while statement 2 claims that the capital is Haslev. Since they provide different answers to the same question, they cannot both be true at the same time."
+}

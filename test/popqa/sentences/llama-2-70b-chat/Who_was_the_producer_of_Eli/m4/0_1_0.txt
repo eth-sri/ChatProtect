@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Eli?",
+  "orig": "However, the film was produced by Paramount Pictures and Insurge Pictures.",
+  "alt": "The film was produced by Paramount Pictures.",
+  "prefix": " The producer of the movie \"Eli\" is not explicitly stated.",
+  "triple": [
+    [
+      "the film",
+      "was produced",
+      "by Paramount Pictures and Insurge Pictures."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Eli are not contradictory. Statement 1 provides additional information about the production companies involved in the making of the film, while Statement 2 simply confirms that Paramount Pictures was one of the producers. Both statements are consistent with each other and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Cinema?",
+  "orig": "Cinema was produced by Cinema V, a movie-theater distribution operation, in a joint venture with Palevsky.",
+  "alt": "Cinema was produced by Palevsky.",
+  "prefix": "",
+  "triple": [
+    [
+      "Cinema",
+      "was produced",
+      "by Cinema V, a movie-theater distribution operation,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Cinema? are not contradictory, but rather provide additional information. The first statement clarifies that Cinema was produced in a joint venture between Cinema V and Palevsky, while the second statement specifies that Palevsky also went into independent production with Peter Bart. Therefore, both statements contribute to a more complete understanding of Palevsky's involvement in the production of Cinema."
+}

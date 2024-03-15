@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Stormy Monday?",
+  "orig": "\"Stormy Monday\" is a song that was written and composed by Aaron \"T-Bone\" Walker.",
+  "alt": "\"Stormy Monday\" is a song composed by T-Bone Walker.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"Stormy Monday\"",
+      "is",
+      "a song"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Stormy Monday\" are not contradictory. Both statements convey the same information that T-Bone Walker was the composer of the song. The only difference is in the wording, where the first statement includes the phrase \"written and composed\" while the second statement only uses the word \"composed.\" However, both statements clearly attribute the composition of the song to T-Bone Walker."
+}

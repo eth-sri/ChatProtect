@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Prize?",
+  "orig": "Lehman was a successful screenwriter and playwright who also wrote the screenplays for other notable films such as North by Northwest, West Side Story, and The Sound of Music.",
+  "alt": "He also wrote the screenplays for other notable films such as \"North by Northwest\" and \"Who's Afraid of Virginia Woolf?\"",
+  "prefix": " The screenwriter for the 1963 film The Prize, based on the novel of the same name by Irving Wallace, was Ernest Lehman.",
+  "triple": [
+    [
+      "a successful screenwriter and playwright",
+      "also wrote",
+      "the screenplays for other notable films such as North by Northwest, West Side Story,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Prize are not contradictory. Statement 1 correctly states that Ernest Lehman was a successful screenwriter and playwright who wrote the screenplays for other notable films such as North by Northwest, West Side Story, and The Sound of Music. Statement 2 also correctly states that he wrote the screenplays for other notable films such as \"North by Northwest\" and \"Who's Afraid of Virginia Woolf?\" but does not contradict the first statement."
+}

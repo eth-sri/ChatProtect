@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Emirate of Dubai?",
+  "orig": "Dubai does not have a capital as it is one of the seven emirates that make up the United Arab Emirates and each emirate has its own capital.",
+  "alt": "The capital of Emirate of Dubai is the city of Dubai.",
+  "prefix": "",
+  "triple": [
+    [
+      "a capital",
+      "is",
+      "one of the seven emirates"
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Emirate of Dubai are not contradictory. Statement 1 clarifies that Dubai does not have a capital as a standalone entity, while Statement 2 specifies that the city of Dubai serves as the capital of the Emirate of Dubai within the larger framework of the United Arab Emirates. Therefore, both statements provide complementary information about the capital of Emirate of Dubai."
+}

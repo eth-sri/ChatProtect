@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Deep End?",
+  "orig": "They also directed the film.",
+  "alt": "They also directed the film.",
+  "prefix": " The screenwriter for the 2001 film The Deep End was Scott McGehee and David Siegel.",
+  "triple": [
+    [
+      "They",
+      "also directed",
+      "the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as both statements say that Scott McGehee and David Siegel directed the film, whereas the prompt only asks about the screenwriter. One of the statements should have provided information about the screenwriting process or the involvement of McGehee and Siegel in the screenplay."
+}

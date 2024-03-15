@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ava?",
+  "orig": "Ava is located in Brazil.",
+  "alt": "Ava is located in Ananindeua, Par\u00e1, Brazil, near Bel\u00e9m.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ava",
+      "is located",
+      "in Brazil."
+    ],
+    "compactie",
+    609
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the location of Ava are not contradictory. Statement 1 provides the general location of Ava, which is in Brazil. Statement 2 provides a more specific location within Brazil, indicating that Ava is located in the city of Ananindeua, which is near Bel\u00e9m. Therefore, both statements complement each other and provide a more complete understanding of the school's location."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Heat?",
+  "orig": "Heat is a 1995 American crime film directed by Michael Mann.",
+  "alt": "Heat is a crime drama film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Heat",
+      "is",
+      "a 1995 American crime film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the genre of Heat are not contradictory. Both statements describe the film as belonging to the crime genre, with the second statement adding the subgenre of drama. Therefore, they are complementary and provide a more specific description of the film's genre."
+}

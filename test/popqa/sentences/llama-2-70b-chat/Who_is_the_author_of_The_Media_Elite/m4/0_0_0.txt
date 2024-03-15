@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Media Elite?",
+  "orig": "The author of The Media Elite is a book written by David T. Z. Mindich and published in 2004.",
+  "alt": "The author of The Media Elite is Stanley I. Kutler.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Media Elite",
+      "is",
+      "a book"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Media Elite? are contradictory. Statement 1 claims that the author of the book is David T. Z. Mindich, while statement 2 claims that the author is Stanley I. Kutler. Since the two statements provide different names for the author, they cannot both be true at the same time."
+}

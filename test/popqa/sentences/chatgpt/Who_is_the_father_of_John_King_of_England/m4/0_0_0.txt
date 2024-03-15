@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of John, King of England?",
+  "orig": "The father of John, King of England was King Henry II of England.",
+  "alt": "The father of John, King of England, was King Henry II.",
+  "prefix": "",
+  "triple": [
+    [
+      "The father of John, King of England",
+      "was",
+      "King Henry II of England."
+    ],
+    "compactie",
+    489
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide the same answer to the prompt, with only minor differences in wording. They both identify King Henry II as the father of John, King of England."
+}

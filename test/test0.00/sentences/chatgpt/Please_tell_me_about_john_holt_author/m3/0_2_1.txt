@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about john holt (author)",
+  "orig": "After the war, he attended Yale University and earned a degree in English.",
+  "alt": "He earned a degree in English from Yale University.",
+  "prefix": " John Holt (1923-1985) was an American author and educator who is best known for his advocacy of homeschooling and unschooling. He was born in New York City and served in the U.S. Navy during World War II.",
+  "triple": [
+    [
+      "Yale University",
+      "earned",
+      "a degree in English."
+    ],
+    "compactie",
+    497
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both convey the same information that John Holt earned a degree in English from Yale University. The only difference is in the phrasing and structure of the sentences."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Carlaw Park play?",
+  "orig": "Carlaw Park was named after Arthur Carlaw's uncle James, who was an administrator in the sport of rugby league.",
+  "alt": "Arthur Carlaw was a rugby league player.",
+  "prefix": "",
+  "triple": [
+    [
+      "Arthur",
+      "was",
+      "an administrator in the sport of rugby league."
+    ],
+    "compactie",
+    581
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Carlaw Park do not directly answer the prompt \"What sport does Carlaw Park play?\" However, they do provide information about the history and background of rugby league in New Zealand, which is the sport played at Carlaw Park. Therefore, the statements are not contradictory."
+}

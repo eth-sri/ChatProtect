@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Holes?",
+  "orig": "The book won the Newbery Medal in 1999 and was later adapted into a successful film and stage play.",
+  "alt": "The book was later adapted into a film in 2003, starring Shia LaBeouf.",
+  "prefix": " The author of Holes is Louis Sachar. Holes is a young adult novel written by Sachar and published in 1998.",
+  "triple": [
+    [
+      "the Newbery Medal in 1999",
+      "was later adapted",
+      "into a successful film and stage play."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Holes? are not contradictory. Statement 1 provides additional information about the book's success, including its Newbery Medal win and adaptations into other forms of media. Statement 2 specifically mentions the film adaptation and the actor who starred in it. Both statements are consistent with the fact that Louis Sachar is the author of Holes."
+}

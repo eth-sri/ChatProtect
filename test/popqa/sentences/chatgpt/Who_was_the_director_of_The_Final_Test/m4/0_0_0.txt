@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Final Test?",
+  "orig": "The director of The Final Test is Anthony Maras.",
+  "alt": "The director of The Final Test is Anthony Asquith.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of The Final Test",
+      "is",
+      "Anthony Maras."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The Final Test are contradictory. Statement 1 claims that the director is Anthony Maras, while statement 2 claims that the director is Anthony Asquith. Since they are two different names, they cannot both be correct. Therefore, the statements contradict each other."
+}

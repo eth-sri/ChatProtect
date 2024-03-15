@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Brat?",
+  "orig": "The producer of the 1931 film The Brat was John Ford.",
+  "alt": "The producer of the 1931 film was John Ford.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 1931 film",
+      "was",
+      "John Ford."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Brat are not contradictory. They both state that John Ford was the producer of the 1931 film. The only difference between the two statements is the inclusion of the title of the film in the first statement."
+}

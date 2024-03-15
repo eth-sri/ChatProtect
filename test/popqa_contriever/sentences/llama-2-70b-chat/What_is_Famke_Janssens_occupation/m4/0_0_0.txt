@@ -1,0 +1,19 @@
+{
+  "target": "What is Famke Janssen's occupation?",
+  "orig": "Famke Janssen is a model, actress, and director.",
+  "alt": "Famke Janssen is an actress and model.",
+  "prefix": "",
+  "triple": [
+    [
+      "Famke Janssen",
+      "is",
+      "a model, actress, and director."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Famke Janssen's occupation are not contradictory. Both statements mention that she is a model and actress, but the first statement adds that she is also a director. Therefore, the second statement is a subset of the first statement, and they do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about corey parker (actor)",
+  "orig": "Corey Parker is an American actor, born on July 8, 1965, in New York City.",
+  "alt": "Corey Parker is an American actor, born on July 8, 1965.",
+  "prefix": "",
+  "triple": [
+    [
+      "an American actor,",
+      "born",
+      "on July 8, 1965, in New York City."
+    ],
+    "compactie",
+    463
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Please tell me about Corey Parker (actor)\" are not contradictory. Both statements provide the same information about Corey Parker's nationality, profession, and birthdate. The only difference is that statement 2 omits the location of his birth, which does not contradict the information provided in statement 1."
+}

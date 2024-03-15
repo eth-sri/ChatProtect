@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Chicago?",
+  "orig": "The musical was written by John Kander and Fred Ebb, with a book by Ebb and Bob Fosse.",
+  "alt": "The musical was written by John Kander and Fred Ebb.",
+  "prefix": " The screenwriter for the 2002 film \"Chicago\" was Bill Condon. He adapted the screenplay from the stage musical of the same name, which was based on a play by Maurine Dallas Watkins.",
+  "triple": [
+    [
+      "The musical",
+      "was written",
+      "by John Kander and Fred Ebb,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides additional information about the stage musical that the screenplay was adapted from, including the writers of the music and lyrics (John Kander and Fred Ebb) and the book writers (Ebb and Bob Fosse). Statement 2 simply confirms that Kander and Ebb were the writers of the musical. Both statements are consistent with the original prompt about the screenwriter for the film adaptation."
+}

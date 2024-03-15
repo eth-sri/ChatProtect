@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kingdom of England?",
+  "orig": "However, the Kingdom of England ceased to exist in 1707 when it joined with the Kingdom of Scotland to form the Kingdom of Great Britain.",
+  "alt": "The Kingdom of England ceased to exist in 1707 when it was united with the Kingdom of Scotland to form the Kingdom of Great Britain.",
+  "prefix": " The capital of the Kingdom of England was London.",
+  "triple": [
+    [
+      "the Kingdom of England",
+      "ceased to",
+      "in"
+    ],
+    "compactie",
+    502
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the text states that the capital of the Kingdom of England was London, the two additional statements provide additional information about the Kingdom of England's eventual fate. Both statements clarify that the Kingdom of England ceased to exist in 1707, either through joining with Scotland or being united with Scotland to form the Kingdom of Great Britain. These statements do not contradict the initial statement about the capital of the Kingdom of England."
+}

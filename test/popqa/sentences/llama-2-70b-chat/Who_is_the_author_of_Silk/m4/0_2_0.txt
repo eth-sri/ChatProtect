@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Silk?",
+  "orig": "The novel has since been translated into English and other languages.",
+  "alt": "The novel has since been translated into many languages and has become an international bestseller.",
+  "prefix": " The author of Silk is Alessandro Baricco. Silk is a novel written by Baricco, an Italian writer and director, and was first published in Italian in 1997.",
+  "triple": [
+    [
+      "The novel",
+      "has since been translated",
+      "into English and other languages."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement simply states that the novel has been translated into English and other languages, while the second statement adds that it has become an international bestseller. Both statements provide additional information about the success and popularity of the novel, but do not contradict the fact that Alessandro Baricco is the author of Silk."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about corey parker (actor)",
+  "orig": "Some of his notable film credits include \"Biloxi Blues,\" \"Friday the 13th: A New Beginning,\" and \"How I Got into College.\"",
+  "alt": "Some of his notable film credits include \"Biloxi Blues\" and \"How I Got Into College\".",
+  "prefix": " As an AI language model, I don't have personal opinions or beliefs, but I can provide you with some information about Corey Parker. Corey Parker is an American actor who was born on July 8, 1965, in New York City. He began his acting career in the mid-1980s and has appeared in numerous films and television shows.",
+  "triple": [
+    [
+      "Some of his notable film credits",
+      "include",
+      ""
+    ],
+    "compactie",
+    535
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Corey Parker's notable film credits are not contradictory, but rather the second statement is a subset of the first statement. Both statements mention \"Biloxi Blues\" and \"How I Got into College\" as notable films, but the first statement includes an additional film credit of \"Friday the 13th: A New Beginning.\" Therefore, the second statement is a more specific version of the first statement."
+}

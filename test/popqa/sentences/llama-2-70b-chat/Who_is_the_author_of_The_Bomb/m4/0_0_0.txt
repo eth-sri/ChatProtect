@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Bomb?",
+  "orig": "The author of the book \"The Bomb\" is Howard Zinn.",
+  "alt": "The author of the book \"The Bomb\" is Greg Iles.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of the book \"The Bomb\"",
+      "is",
+      "Howard Zinn."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Bomb? are contradictory because they provide different names as the author of the book. One statement claims that Howard Zinn is the author, while the other claims that Greg Iles is the author. Therefore, it is impossible for both statements to be true at the same time."
+}

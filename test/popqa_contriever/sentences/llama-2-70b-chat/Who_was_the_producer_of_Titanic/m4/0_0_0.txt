@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Titanic?",
+  "orig": "James Cameron produced and directed the 1997 film Titanic.",
+  "alt": "James Cameron produced and directed the film Titanic.",
+  "prefix": "",
+  "triple": [
+    [
+      "James Cameron",
+      "produced directed",
+      "the 1997 film Titanic."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they refer to different productions of Titanic. The first statement refers to the 1997 film directed and produced by James Cameron, while the second statement refers to the original 1912 film produced by William Harbeck."
+}

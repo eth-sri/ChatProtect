@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Bailey\u2013Thompson House",
+  "orig": "It was built in 1850 and is considered one of the finest examples of antebellum architecture in the city.",
+  "alt": "It was built in 1885.",
+  "prefix": " The Bailey-Thompson House is a historic home located in Tallahassee, Florida.",
+  "triple": [
+    [
+      "It",
+      "was built is",
+      "one of the finest examples of antebellum architecture in the city."
+    ],
+    "compactie",
+    462
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the Bailey-Thompson House are contradictory. The first statement clearly states that the house was built in 1850, while the second statement contradicts this by stating that it was built in 1885. These two statements cannot both be true at the same time, so they are contradictory."
+}

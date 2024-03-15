@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Let It Be?",
+  "orig": "However, the song was credit to Lennon-McCartney, which means that both John Lennon and Paul McCartney share the songwriting credits.",
+  "alt": "The song was credited to Lennon-McCartney.",
+  "prefix": " The composer of Let It Be is John Lennon.",
+  "triple": [
+    [
+      "the song",
+      "was credit",
+      "to Lennon-McCartney,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of Let It Be are not contradictory. The first statement acknowledges that John Lennon was the composer of the song, while the second statement clarifies that the song was credited to both Lennon and McCartney as part of their songwriting partnership. Therefore, both statements provide complementary information about the song's composition and credits."
+}

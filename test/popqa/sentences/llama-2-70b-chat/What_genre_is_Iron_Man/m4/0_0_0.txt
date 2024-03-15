@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Iron Man?",
+  "orig": "Iron Man is a superhero film, which falls under the action and adventure genres.",
+  "alt": "Iron Man is a superhero film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Iron Man",
+      "is",
+      "a superhero film, which"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Iron Man are not contradictory. Statement 1 provides more specific information about the sub-genres that Iron Man falls under, while Statement 2 simply identifies it as a superhero film. Both statements are true and do not contradict each other."
+}

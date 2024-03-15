@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Iron Man?",
+  "orig": "It is also a science fiction film, as it features advanced technologies and futuristic elements.",
+  "alt": "It features Robert Downey Jr. as Tony Stark, a billionaire inventor and philanthropist who creates a powered exoskeleton to fight crime and injustice.",
+  "prefix": " Iron Man is a superhero film, which falls under the action and adventure genres.",
+  "triple": [
+    [
+      "it",
+      "features",
+      "advanced technologies and futuristic elements."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Iron Man are not contradictory. The first statement identifies the film as falling under the action and adventure genres, while also acknowledging its science fiction elements. The second statement provides additional information about the film's protagonist and plot, but does not contradict the previous statement. Both statements work together to provide a more complete understanding of the genre of Iron Man."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Prestige?",
+  "orig": "The film was directed by Christopher Nolan and stars Hugh Jackman and Christian Bale.",
+  "alt": "The film was directed by Christopher Nolan.",
+  "prefix": " The screenwriter for the 2006 film The Prestige was Christopher Nolan and his brother Jonathan Nolan. The two brothers wrote the screenplay together, based on the novel of the same name by Christopher Priest. The Prestige is a mystery drama film that follows the story of two rival magicians who engage in a competitive and dangerous game of one-upmanship with their illusions, leading to tragic consequences.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by Christopher Nolan"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While statement 1 provides additional information about the director and cast of the film, it does not contradict the initial statement that Christopher Nolan and his brother Jonathan Nolan were the screenwriters for The Prestige."
+}

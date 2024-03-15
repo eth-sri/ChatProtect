@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Birthday?",
+  "orig": "It does not specify which composer wrote the piece \"Birthday\".",
+  "alt": "It does not specify the name of the composer of \"Birthday\" in the given text.",
+  "prefix": " The composer of \"Birthday\" is not specified in the text. The text only mentions that a collective celebratory program called \"A Garland for Dr. K.\" was performed for Kalmus' 80th birthday, and that it was contributed to by eleven composers, including Richard Rodney Bennett, Harrison Birtwistle, David Bedford, and Hugh Wood.",
+  "triple": [
+    [
+      "It",
+      "does not specify",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements convey the same information that the text does not provide the name of the composer of \"Birthday\". They just use different phrasing to express the same idea."
+}

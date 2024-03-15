@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The International?",
+  "orig": "Therefore, the answer to the question \"Who was the Director-General of the International?\"",
+  "alt": "The Director-General of the International Labour Organization (ILO) during the time period mentioned in the text was David A. Morse.",
+  "prefix": " The Director-General of the International Labour Organization (ILO) during the time period mentioned in the text was:\n\n* David A. Morse (in 1956)\n* Blanchard (in 1973)\n\nNote: Blanchard was appointed Director-General of the ILO in 1973, but his name is not mentioned in the text as the Director-General prior to that appointment.",
+  "triple": [
+    [
+      "question",
+      "was",
+      "the Director-General of the International?\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the Director-General of the International?\" are not contradictory. Statement 1 acknowledges that Blanchard was not mentioned as the Director-General prior to his appointment in 1973, while Statement 2 provides the correct answer to the question based on the information given in the text, which is David A. Morse. Therefore, both statements are accurate and do not contradict each other."
+}

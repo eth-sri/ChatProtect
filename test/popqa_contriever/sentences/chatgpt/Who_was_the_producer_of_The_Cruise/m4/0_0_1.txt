@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Cruise?",
+  "orig": "Tom Cruise was the producer of the film \"The Cruise\" in 1996, which was also his first project as a producer.",
+  "alt": "The producer of the film \"The Cruise\" was Tom Cruise, who also starred in the film.",
+  "prefix": "",
+  "triple": [
+    [
+      "the producer of the film \"The Cruise\"",
+      "was",
+      ""
+    ],
+    "compactie",
+    615
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"The Cruise\" are not contradictory. Both statements identify Tom Cruise as the producer of the film. The only difference is that statement 1 emphasizes that it was Cruise's first project as a producer, while statement 2 emphasizes that Cruise also starred in the film."
+}

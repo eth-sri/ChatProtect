@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of John, King of England?",
+  "orig": "The father of John, King of England is King Henry II of England and Duchess Eleanor of Aquitaine.",
+  "alt": "The father of John, King of England, is King Henry II of England.",
+  "prefix": "",
+  "triple": [
+    [
+      "The father of John, King of England",
+      "is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of John, King of England are not contradictory. Both statements correctly identify King Henry II of England as John's father. The first statement provides additional information about John's mother, Duchess Eleanor of Aquitaine, while the second statement focuses solely on John's father."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Journey?",
+  "orig": "The producer of The Journey was Thatgamecompany.",
+  "alt": "The producer of The Journey was ThatGameCompany.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of The Journey",
+      "was",
+      "Thatgamecompany."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Journey are not contradictory. The only difference between the two statements is the capitalization of the company name. However, this does not change the fact that both statements identify Thatgamecompany as the producer of The Journey."
+}

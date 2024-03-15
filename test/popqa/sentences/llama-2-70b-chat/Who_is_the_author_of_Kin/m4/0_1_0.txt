@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Kin?",
+  "orig": "The Baker brothers are known for their work in the film and advertising industry, and Kin is their feature film directorial debut.",
+  "alt": "The Baker brothers are known for their directorial debut film \"Kin.\"",
+  "prefix": " Kin is a 2018 science fiction film written and directed by Jonathan and Josh Baker.",
+  "triple": [
+    [
+      "The Baker brothers",
+      "are known",
+      "work in the film and advertising industry,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Kin? are contradictory. \n\nStatement 1 states that Kin is the feature film directorial debut of the Baker brothers, while Statement 2 implies that the Baker brothers are known for their directorial debut film \"Kin.\" This suggests that the Baker brothers have directed other films before Kin, which contradicts Statement 1."
+}

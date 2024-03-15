@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of More?",
+  "orig": "She was a British playwright, poet, and philanthropist who was born in 1745 and died in 1833.",
+  "alt": "Hannah More was born in 1745.",
+  "prefix": " The author of \"More\" is Hannah More.",
+  "triple": [
+    [
+      "a British playwright, poet, and philanthropist",
+      "was born",
+      "in 1745"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of More? are not contradictory. Statement 1 provides additional information about Hannah More's profession and philanthropic work, while Statement 2 simply states her year of birth. Both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of One Week?",
+  "orig": "The producer of \"One Week\" by Barenaked Ladies is Don Dixon.",
+  "alt": "The producer of \"One Week\" by Barenaked Ladies is Don Was.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of \"One Week\" by Barenaked Ladies",
+      "is",
+      "Don Dixon."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of One Week? are contradictory. Statement 1 claims that Don Dixon was the producer of the song, while statement 2 claims that Don Was was the producer. Since they are two different names, only one of them can be correct."
+}

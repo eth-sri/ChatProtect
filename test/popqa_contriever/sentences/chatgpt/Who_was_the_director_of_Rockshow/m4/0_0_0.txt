@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Rockshow?",
+  "orig": "The statement does not provide information about the director of Rockstar.",
+  "alt": "The statement does not provide information about the director of Rockshow.",
+  "prefix": "",
+  "triple": [
+    [
+      "The statement",
+      "does not provide",
+      "information about the director of Rockstar."
+    ],
+    "compactie",
+    596
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both indicate that the given text does not provide information about the director of Rockshow. However, it should be noted that the prompt asks about Rockstar, not Rockshow."
+}

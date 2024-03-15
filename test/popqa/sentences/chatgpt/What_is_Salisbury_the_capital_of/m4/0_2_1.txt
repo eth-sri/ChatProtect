@@ -1,0 +1,19 @@
+{
+  "target": "What is Salisbury the capital of?",
+  "orig": "- Salisbury is the county seat of Wicomico County, Maryland in the United States, but it is not the capital of Maryland.",
+  "alt": "It is not the capital of any country or state in the United States.",
+  "prefix": " This question is ambiguous and can have multiple answers depending on the context. Here are some possibilities:\n\n- Salisbury is the former name of Harare, the capital city of Zimbabwe.",
+  "triple": [
+    [
+      "it",
+      "is not",
+      "the capital of Maryland."
+    ],
+    "compactie",
+    509
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Salisbury the capital of?\" are not contradictory. Statement 1 clarifies that Salisbury is not the capital of Maryland, while Statement 2 expands on this by stating that it is not the capital of any country or state in the United States. Both statements provide additional information about Salisbury's status as a capital, but they do not contradict each other."
+}

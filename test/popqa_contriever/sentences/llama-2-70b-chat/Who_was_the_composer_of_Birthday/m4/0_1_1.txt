@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Birthday?",
+  "orig": "The text only mentions that a collective celebratory program called \"A Garland for Dr. K.\" was performed for Kalmus' 80th birthday, and that it was contributed to by eleven composers, including Richard Rodney Bennett, Harrison Birtwistle, David Bedford, and Hugh Wood.",
+  "alt": "\"A Garland for Dr. K.\" was performed by the Pierrot Players.",
+  "prefix": " The composer of \"Birthday\" is not specified in the text.",
+  "triple": [
+    [
+      "\"A Garland for Dr. K.\"",
+      "was performed",
+      "for Kalmus' 80th birthday,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements do not provide any information about the composer of \"Birthday\", therefore they are not contradictory. They only provide information about the collective celebratory program performed for Kalmus' 80th birthday and the composers who contributed to it, as well as the performers of the program."
+}

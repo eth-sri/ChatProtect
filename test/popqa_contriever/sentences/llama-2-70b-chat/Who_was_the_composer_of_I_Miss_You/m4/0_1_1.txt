@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of I Miss You?",
+  "orig": "The song was written by Joe Burke, but the lyricist is not mentioned.",
+  "alt": "The lyricist is not mentioned in the given text.",
+  "prefix": " The composer of \"I Miss You\" is not specified in the text.",
+  "triple": [
+    [
+      "the lyricist",
+      "is not mentioned.",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"I Miss You\" are not contradictory. Statement 1 confirms that Joe Burke was the composer of the song, while Statement 2 clarifies that the text does not mention the lyricist. Therefore, both statements provide complementary information about the composer of the song."
+}

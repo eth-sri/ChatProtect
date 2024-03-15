@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Made?",
+  "orig": "The producer of Made is Bill Simmons.",
+  "alt": "The producer of \"Made\" was Sean \"P. Diddy\" Combs.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of",
+      "is",
+      "Bill Simmons."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Made are contradictory. Statement 1 claims that Bill Simmons was the producer, while statement 2 claims that Sean \"P. Diddy\" Combs was the producer. These two statements cannot both be true at the same time."
+}

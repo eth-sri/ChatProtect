@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Pilot?",
+  "orig": "The Pilot episode of The Office was written by the show's creator and executive producer, Greg Daniels.",
+  "alt": "The Pilot episode of The Office was written by Greg Daniels.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Pilot episode of The Office",
+      "was written",
+      "by the show's creator and executive producer, Greg Daniels."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Pilot are not contradictory. Both statements identify Greg Daniels as the writer of The Pilot episode of The Office. The only difference is that the first statement provides additional information about Daniels' role as the show's creator and executive producer."
+}

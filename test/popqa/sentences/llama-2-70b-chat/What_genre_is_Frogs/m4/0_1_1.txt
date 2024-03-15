@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Frogs?",
+  "orig": "It is considered a satire and falls under the genre of ancient Greek comedy.",
+  "alt": "Frogs falls into the genre of satire.",
+  "prefix": " Frogs is a comedy play written by Aristophanes, a Greek playwright, in the 5th century BCE.",
+  "triple": [
+    [
+      "a satire",
+      "falls",
+      "under the genre of ancient"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements agree that Frogs is a satire, but statement 1 provides additional information about the specific sub-genre of ancient Greek comedy that it falls under."
+}

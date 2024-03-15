@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Rachel Papers?",
+  "orig": "The novel was first published in 1973, and it is now considered a classic of postmodern literature.",
+  "alt": "The novel was first published in 1973.",
+  "prefix": " The author of The Rachel Papers is Martin Amis.",
+  "triple": [
+    [
+      "The novel",
+      "was first published",
+      "in 1973,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Rachel Papers? are not contradictory. Statement 1 provides additional information about the novel, while Statement 2 simply states the year of its first publication. Both statements confirm that the author of The Rachel Papers is Martin Amis."
+}

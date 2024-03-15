@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of La Notte?",
+  "orig": "The director of La Notte (1961) was Michelangelo Antonioni.",
+  "alt": "The director of La Notte was Michelangelo Antonioni.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of La Notte",
+      "was",
+      "Michelangelo Antonioni."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of La Notte? are not contradictory. They both provide the same answer to the prompt, with only minor differences in wording. Statement 1 includes the year of the film's release, while Statement 2 does not. However, both statements clearly identify Michelangelo Antonioni as the director of La Notte."
+}

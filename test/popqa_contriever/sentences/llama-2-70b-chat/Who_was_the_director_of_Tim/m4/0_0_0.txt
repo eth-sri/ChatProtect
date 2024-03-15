@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Tim?",
+  "orig": "Tim O'Connor was the director of Tim O'Connor.",
+  "alt": "Tim O'Connor was directed by himself.",
+  "prefix": "",
+  "triple": [
+    [
+      "Tim O'Connor",
+      "was",
+      "the director of Tim O'Connor."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the director of Tim?\" are contradictory. While statement 1 suggests that Tim O'Connor was the director of his own work, statement 2 implies that he directed himself as an actor. However, as the prompt only asks about his role as a director, statement 1 is the correct answer."
+}

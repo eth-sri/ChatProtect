@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of GNU General Public License?",
+  "orig": "The GNU General Public License (GPL) was written by Richard Stallman, the founder of the Free Software Foundation.",
+  "alt": "The GNU General Public License was written by Richard Stallman.",
+  "prefix": "",
+  "triple": [
+    [
+      "The GNU General Public License",
+      "was written",
+      "by Richard Stallman, the founder of the Free Software Foundation."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of GNU General Public License are not contradictory. Both statements identify Richard Stallman as the author of the license. Statement 1 provides additional information about Stallman's role as the founder of the Free Software Foundation, but it does not contradict the information in Statement 2."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The East?",
+  "orig": "The East is a 2013 American thriller film directed by Zal Batmanglij and written by Batmanglij and Brit Marling.",
+  "alt": "The film was directed by Zal Batmanglij.",
+  "prefix": " The producer of The East was Jenny Gustafson.",
+  "triple": [
+    [
+      "a 2013",
+      "directed",
+      "by Zal Batmanglij"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The East are not contradictory. The first statement identifies Jenny Gustafson as the producer of the film, while the second statement provides additional information about the film's director, Zal Batmanglij. The two statements do not conflict with each other and can both be true at the same time."
+}

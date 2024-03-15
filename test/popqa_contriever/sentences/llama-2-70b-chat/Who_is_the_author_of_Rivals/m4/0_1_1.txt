@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Rivals?",
+  "orig": "However, the context suggests that the author is a young academic who won the Times Higher Young Academic Author of the Year Award in 2007.",
+  "alt": "The young academic who won the Times Higher Young Academic Author of the Year Award in 2007 for their book \"Rivals for Greatness\" is not explicitly stated in the provided text.",
+  "prefix": " The author of \"Rivals for Greatness\" is not explicitly stated in the provided text.",
+  "triple": [
+    [
+      "a young academic",
+      "won",
+      "the Times Higher Young Academic Author of the Year Award in 2007."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of \"Rivals for Greatness\" are not contradictory. Both statements acknowledge that the author is not explicitly stated in the provided text, but statement 1 provides additional context that suggests the author is a young academic who won an award for their book in 2007, while statement 2 explicitly states that the author is the young academic who won the Times Higher Young Academic Author of the Year Award in 2007 for their book \"Rivals for Greatness.\" Therefore, statement 2 provides more specific information about the author than statement 1."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Salisbury the capital of?",
+  "orig": "It is a cathedral city in Wiltshire, England.",
+  "alt": "It is a cathedral city in Wiltshire, England.",
+  "prefix": " Salisbury is not the capital of any country or state.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a cathedral city in Wiltshire, England."
+    ],
+    "compactie",
+    609
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements provided do not answer the prompt \"What is Salisbury the capital of?\" and therefore cannot be contradictory. They simply provide additional information about Salisbury being a cathedral city in Wiltshire, England."
+}

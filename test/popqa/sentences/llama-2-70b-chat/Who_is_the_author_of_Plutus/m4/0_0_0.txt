@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Plutus?",
+  "orig": "The author of Plutus is Aristophanes, a Greek playwright who lived in the 5th century BCE.",
+  "alt": "The author of Plutus is Aristophanes.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Plutus",
+      "is lived",
+      "in the 5th century BCE."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Plutus are not contradictory. Both statements identify Aristophanes as the author of Plutus, with the first statement providing additional information about his background as a Greek playwright who lived in the 5th century BCE. Therefore, the two statements are consistent with each other."
+}

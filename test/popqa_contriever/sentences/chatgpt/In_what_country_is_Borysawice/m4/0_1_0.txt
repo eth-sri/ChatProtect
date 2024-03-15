@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Borys\u0142awice?",
+  "orig": "However, there is a town called Borys\u0142aw in western Ukraine.",
+  "alt": "There is a town called Borys\u0142aw in Ukraine.",
+  "prefix": " There is no such place as Borys\u0142awice.",
+  "triple": [
+    [
+      "a town",
+      "called",
+      "Borys\u0142aw in western Ukraine."
+    ],
+    "compactie",
+    648
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Borys\u0142awice?\" are contradictory. The first statement denies the existence of Borys\u0142awice, while the second statement confirms the existence of a town called Borys\u0142aw in Ukraine. Therefore, it is unclear whether Borys\u0142awice refers to the same town as Borys\u0142aw or if it is a different place altogether."
+}

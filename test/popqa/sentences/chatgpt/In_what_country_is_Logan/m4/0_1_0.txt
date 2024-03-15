@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Logan?",
+  "orig": "There are multiple cities and towns called Logan in different countries, including the United States, Australia, and Canada.",
+  "alt": "There are many cities named Logan around the world, including in the United States, Canada, and Australia.",
+  "prefix": " Logan is not a country, it is a city.",
+  "triple": [
+    [
+      "There",
+      "are",
+      "multiple cities and towns"
+    ],
+    "compactie",
+    489
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Logan?\" are not contradictory. Both statements acknowledge that there are multiple cities named Logan in different countries, but they simply list the countries in a different order. Therefore, they do not contradict each other."
+}

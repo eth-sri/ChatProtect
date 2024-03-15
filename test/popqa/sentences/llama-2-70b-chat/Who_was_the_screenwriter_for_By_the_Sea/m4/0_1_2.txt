@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for By the Sea?",
+  "orig": "She wrote and directed the film, which starred her and her husband at the time, Brad Pitt, as a couple who are trying to repair their marriage while on a trip to France.",
+  "alt": "The film starred Angelina Jolie and Brad Pitt.",
+  "prefix": " The screenwriter for the 2015 film \"By the Sea\" was Angelina Jolie.",
+  "triple": [
+    [
+      "the film,",
+      "starred",
+      "her and her husband at the time,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for By the Sea are not contradictory. The first statement confirms that Angelina Jolie was the screenwriter for the film, while the second statement confirms that she also starred in the film alongside Brad Pitt. Both statements provide additional information about the film, but they do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Word?",
+  "orig": "The book is also sometimes referred to as the Gospel of John or the Fourth Gospel.",
+  "alt": "The book is also sometimes referred to as the Gospel of John.",
+  "prefix": " The author of The Word is John, a disciple of Jesus Christ.",
+  "triple": [
+    [
+      "The book",
+      "is also sometimes referred",
+      "to as the Gospel of John or the Fourth Gospel."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Word are not contradictory. Both statements confirm that the author of The Word is John, a disciple of Jesus Christ. The only difference is that statement 1 provides additional information that the book is also known as the Gospel of John or the Fourth Gospel, while statement 2 only mentions that it is sometimes referred to as the Gospel of John."
+}

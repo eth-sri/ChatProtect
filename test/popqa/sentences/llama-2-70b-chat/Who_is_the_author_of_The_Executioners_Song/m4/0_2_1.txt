@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Executioner's Song?",
+  "orig": "It tells the story of Gary Gilmore, a convicted murderer who was executed by firing squad in Utah in 1977, and explores themes of masculinity, violence, and the American criminal justice system.",
+  "alt": "Gary Gilmore was executed by firing squad in 1977.",
+  "prefix": " The author of The Executioner's Song is Norman Mailer. The novel was published in 1979 and is considered one of Mailer's most notable works.",
+  "triple": [
+    [
+      "Gary Gilmore,",
+      "was executed",
+      "by firing squad in Utah in 1977,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. The first statement identifies Norman Mailer as the author of The Executioner's Song and provides some background information about the novel. The second statement provides a specific detail about the subject matter of the novel, namely that it is based on the true story of Gary Gilmore's execution. Both statements are true and do not contradict each other."
+}

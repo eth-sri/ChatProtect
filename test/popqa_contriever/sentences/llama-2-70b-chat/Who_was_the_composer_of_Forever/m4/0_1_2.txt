@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Forever?",
+  "orig": "The text only mentions that the song was a world success for an artist named Demis Roussos, but it does not mention the name of the composer.",
+  "alt": "The composer of the song \"Forever\" is not specified in the text, but it is mentioned that Demis Roussos, an artist who performed the song, had a world success with it.",
+  "prefix": " The composer of the song \"Forever\" is not specified in the text.",
+  "triple": [
+    [
+      "a world success for an artist named Demis Roussos,",
+      "does not mention",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements agree that the composer of the song \"Forever\" is not specified in the text. The only difference is that statement 2 adds that the song was performed by Demis Roussos and had a world success."
+}

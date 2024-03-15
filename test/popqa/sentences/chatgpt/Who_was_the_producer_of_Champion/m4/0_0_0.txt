@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Champion?",
+  "orig": "The producer of Champion is an ambiguous question as there are different movies, TV shows, books, and albums with the title Champion.",
+  "alt": "The producer of Champion is D. Narayana Rao.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Champion",
+      "is",
+      "an ambiguous question"
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Champion? are contradictory. Statement 1 suggests that there are multiple productions with the title Champion, making it difficult to determine the producer without specifying which production is being referred to. However, Statement 2 provides a specific answer to the question, stating that the producer of Champion is D. Narayana Rao. Therefore, the two statements cannot both be true at the same time."
+}

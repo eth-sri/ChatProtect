@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ferrari?",
+  "orig": "The company's headquarters is located in Maranello, Italy.",
+  "alt": "The company's headquarters is located in Maranello, Italy.",
+  "prefix": " Ferrari is an Italian luxury sports car manufacturer.",
+  "triple": [
+    [
+      "The company's headquarters",
+      "is located",
+      "in Maranello, Italy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both confirm that Ferrari's headquarters is located in Maranello, Italy, which answers the prompt \"In what country is Ferrari?\"."
+}

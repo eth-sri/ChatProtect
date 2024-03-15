@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Ancient Evenings?",
+  "orig": "The book is a collection of three novellas that explore themes of myth, history, and memory, and it was published in 1999.",
+  "alt": "The book is a collection of three short stories that explore the lives of ancient Egyptians.",
+  "prefix": " The author of \"Ancient Evenings\" is Toni Morrison.",
+  "triple": [
+    [
+      "The book",
+      "is",
+      "a collection of three novellas"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Ancient Evenings? are contradictory. The first statement correctly identifies Toni Morrison as the author of the book, but the second statement is incorrect in describing the book as a collection of three short stories about ancient Egyptians. In fact, the book is a single novel that follows the life of an ancient Egyptian nobleman named Menenhetet."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "The company is based in the United States.",
+  "alt": "The company is based in Santa Clara, California.",
+  "prefix": " Kno is not a country, it is a brand name of a company that produces education technology products such as tablets and digital textbooks.",
+  "triple": [
+    [
+      "The company",
+      "is based",
+      "in the United States."
+    ],
+    "compactie",
+    497
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Kno?\" are not contradictory. Statement 1 provides the general location of the company, which is the United States, while Statement 2 specifies the exact location of the company's headquarters, which is in Santa Clara, California. Both statements are consistent with the fact that Kno is not a country but a brand name of an American company."
+}

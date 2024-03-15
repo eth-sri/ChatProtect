@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of 100?",
+  "orig": "The director of The 1000 was a U.S. senator named Henry Ballard.",
+  "alt": "The director of The 1000 was Henry Ballard.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of The 1000",
+      "was",
+      "a U.S. senator"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of 100 are not contradictory. Both statements convey the same information that the director of The 1000 was Henry Ballard, who was a U.S. senator. The only difference is that statement 2 is a more concise version of statement 1."
+}

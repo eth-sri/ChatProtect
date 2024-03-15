@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Chester?",
+  "orig": "Chester is located in the United Kingdom.",
+  "alt": "Chester is located in England.",
+  "prefix": "",
+  "triple": [
+    [
+      "Chester",
+      "is located",
+      "in the United Kingdom."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Chester are not contradictory. England is a country within the United Kingdom, so both statements are correct and refer to the same location."
+}

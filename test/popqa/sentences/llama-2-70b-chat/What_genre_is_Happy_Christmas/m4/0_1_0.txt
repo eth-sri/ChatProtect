@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Happy Christmas?",
+  "orig": "The genre of the album is primarily pop and contemporary R&B, with elements of funk, soul, and jazz.",
+  "alt": "The genre of the album is primarily pop.",
+  "prefix": " Happy Christmas is a Christmas music album by Pharrell Williams, released in 2014.",
+  "triple": [
+    [
+      "The genre of the album",
+      "is primarily",
+      "pop and contemporary R&B, with elements of funk, soul, and jazz."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the genre of Happy Christmas are contradictory. Statement 1 describes the album as primarily pop and contemporary R&B, with additional elements of funk, soul, and jazz. However, statement 2 only identifies the album as primarily pop, omitting the other genres mentioned in statement 1. Therefore, the two statements provide different and conflicting information about the genre of Happy Christmas."
+}

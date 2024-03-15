@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Monday?",
+  "orig": "There is no movie titled \"Monday\" that I'm aware of, and without additional context or information, I can't provide a director's name.",
+  "alt": "I can't provide a meaningful answer to that question because it lacks context or specific details.",
+  "prefix": " I'm not able to answer that question as it doesn't make sense.",
+  "triple": [
+    [
+      "additional context or information, I",
+      "can't provide",
+      "a director's name."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements explain that the question cannot be answered without additional information or context. The first statement clarifies that there is no known movie titled \"Monday,\" while the second statement emphasizes the need for more specific details to provide a meaningful answer."
+}

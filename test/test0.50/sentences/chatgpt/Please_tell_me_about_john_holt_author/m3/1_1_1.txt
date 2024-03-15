@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about john holt (author)",
+  "orig": "He was born in New York City and attended Yale University, where he studied physics and engineering.",
+  "alt": "He attended Yale University, where he earned a degree in English.",
+  "prefix": " John Holt (1923-1985) was an American educator and author who is widely credited with being the founder of the modern homeschooling movement.",
+  "triple": [
+    [
+      "He",
+      "attended",
+      "Yale University,"
+    ],
+    "compactie",
+    478
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about John Holt are contradictory. The first statement states that he studied physics and engineering at Yale University, while the second statement claims that he earned a degree in English from the same institution. These two statements cannot both be true at the same time."
+}

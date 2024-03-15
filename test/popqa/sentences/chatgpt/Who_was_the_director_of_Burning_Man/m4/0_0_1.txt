@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Burning Man?",
+  "orig": "The Burning Man festival does not have a single director as it is organized by a community of volunteers called the \"Burning Man Project.\"",
+  "alt": "It is organized by the Burning Man Project, a non-profit organization headquartered in San Francisco, California.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "is organized",
+      "by a community of volunteers"
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt asks for the director of Burning Man, the first statement clarifies that the festival is not directed by a single person but rather by a community of volunteers. The second statement provides additional information about the organization that oversees the festival, which is the Burning Man Project. Therefore, both statements provide relevant information about the organization and management of Burning Man."
+}

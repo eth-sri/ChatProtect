@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Artifact?",
+  "orig": "Artifact is a 2012 American documentary film directed by Jared Leto under the pseudonym Bartholomew Cubbins, and produced by Leto and Emma Ludbrook.",
+  "alt": "The documentary film Artifact was directed and produced by Jared Leto.",
+  "prefix": "",
+  "triple": [
+    [
+      "documentary film",
+      "directed produced",
+      ""
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Artifact are not contradictory. Both statements identify Jared Leto as one of the producers of the documentary film. The first statement also mentions Emma Ludbrook as a co-producer."
+}

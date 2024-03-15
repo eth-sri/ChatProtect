@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ely?",
+  "orig": "Ely can refer to several different locations around the world.",
+  "alt": "Ely can refer to several different places, but if you are referring to the city in which the famous Ely Cathedral is located, it is in England.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ely",
+      "can refer",
+      "to several different locations around the world."
+    ],
+    "compactie",
+    498
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Ely?\" are not contradictory. The first statement acknowledges that there are multiple locations with the name Ely, while the second statement specifies that if the question is referring to the city where Ely Cathedral is located, it is in England. Therefore, the second statement provides a specific answer to the question while the first statement acknowledges the possibility of multiple answers."
+}

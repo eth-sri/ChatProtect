@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Nine?",
+  "orig": "Nine, the album by Circus Maximus, is of the progressive metal genre.",
+  "alt": "Nine, the album by Circus Maximus, is a progressive metal album.",
+  "prefix": "",
+  "triple": [
+    [
+      "Nine, the album by Circus Maximus,",
+      "is",
+      "of the progressive metal genre."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Nine are not contradictory. Both statements identify the album as belonging to the progressive metal genre. The only difference is that statement 2 specifies that the album itself is a progressive metal album, while statement 1 simply states that the genre of the album is progressive metal."
+}

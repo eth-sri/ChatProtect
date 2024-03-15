@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for M?",
+  "orig": "The screenwriter for the 1931 German film \"M\" was Thea von Harbou.",
+  "alt": "The screenwriter for the movie \"M\" was Fritz Lang.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the",
+      "was",
+      "Thea von Harbou."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for M? are contradictory. Statement 1 claims that Thea von Harbou was the screenwriter for the 1931 German film \"M\", while statement 2 claims that Fritz Lang was the screenwriter for the movie \"M\". Since the two statements provide different answers to the same question, they cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Oil?",
+  "orig": "However, the article is referring to the film adaptation of the book, for which the screenwriter is Paul Thomas Anderson, as stated in the rest of the paragraph.",
+  "alt": "There is no specific screenwriter for the book \"Oil!\" as it was adapted into a screenplay by Paul Thomas Anderson.",
+  "prefix": " There is no specific screenwriter for the book \"Oil!\"",
+  "triple": [
+    [
+      "the screenwriter",
+      "is",
+      "Paul Thomas Anderson,"
+    ],
+    "compactie",
+    608
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that there is no screenwriter for the book \"Oil!\" itself, while the second statement specifies that Paul Thomas Anderson adapted the book into a screenplay for the film adaptation. Therefore, both statements are true and do not contradict each other."
+}

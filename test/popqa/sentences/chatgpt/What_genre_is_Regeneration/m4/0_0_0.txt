@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Regeneration?",
+  "orig": "Regeneration is a historical novel and war novel.",
+  "alt": "Regeneration is a historical novel.",
+  "prefix": "",
+  "triple": [
+    [
+      "Regeneration",
+      "is",
+      "a historical novel and war novel."
+    ],
+    "compactie",
+    471
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Regeneration are not contradictory. Statement 1 includes the subgenre of war novel within the broader genre of historical novel, while statement 2 only specifies the broader genre. Therefore, both statements are accurate and do not contradict each other."
+}

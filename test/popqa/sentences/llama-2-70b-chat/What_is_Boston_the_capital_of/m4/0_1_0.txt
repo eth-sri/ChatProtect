@@ -1,0 +1,19 @@
+{
+  "target": "What is Boston the capital of?",
+  "orig": "It is a city located in the state of Massachusetts in the northeastern United States.",
+  "alt": "It is a major city located in the state of Massachusetts.",
+  "prefix": " Boston is not the capital of any state or country.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While Boston is not the capital of any state or country, it is still a city located in the state of Massachusetts and is considered a major city within that state. The statements provide different information about Boston without contradicting each other."
+}

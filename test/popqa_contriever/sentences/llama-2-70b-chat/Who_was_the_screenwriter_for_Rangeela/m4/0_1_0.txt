@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Rangeela?",
+  "orig": "The text only mentions that Jose Rivera co-created and co-produced the NBC-TV series \"Eerie, Indiana\" with Karl Schaefer, and that he wrote the screenplay for the film \"Diarios de Motocicleta\" (\"The Motorcycle Diaries\") directed by Walter Salles in 2002.",
+  "alt": "Jose Rivera co-created the NBC-TV series \"Eerie, Indiana\" with Karl Schaefer.",
+  "prefix": " The screenwriter for Rangeela (1995) was not specified in the provided text.",
+  "triple": [
+    [
+      "Jose Rivera",
+      "co-created",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Rangeela? are not contradictory. Statement 1 clarifies that the provided text does not mention the screenwriter for Rangeela, but provides information about Jose Rivera's other works. Statement 2 is one of the pieces of information provided about Jose Rivera's works, specifically his co-creation of the TV series \"Eerie, Indiana\". Neither statement confirms or denies whether Jose Rivera was the screenwriter for Rangeela."
+}

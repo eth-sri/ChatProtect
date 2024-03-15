@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Report?",
+  "orig": "They typically follow a structured format and include an introduction, methodology, results, discussion, and conclusion.",
+  "alt": "They typically include an introduction, methodology section, results section, discussion, and conclusion.",
+  "prefix": " Report is a type of nonfiction writing that is used to communicate information, analyze data, and make recommendations to a specific audience. It is not a literary genre in the classical sense, but rather a genre of technical writing. Reports are often used in academic, business, and technical settings to convey research findings, evaluate a situation, or propose solutions to a problem.",
+  "triple": [
+    [
+      "They",
+      "typically include",
+      "an introduction, methodology, results, discussion, and conclusion."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the genre of Report are not contradictory. They both describe the typical structure of a report, which includes an introduction, methodology section, results section, discussion, and conclusion. The only difference is that statement 1 explicitly lists the sections in order, while statement 2 uses the word \"typically\" to indicate that these sections are commonly included in reports."
+}

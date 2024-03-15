@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Social Network?",
+  "orig": "They are both members of the band Nine Inch Nails and have collaborated on several film scores together, including the score for The Social Network.",
+  "alt": "They are members of the band Nine Inch Nails.",
+  "prefix": " The score for The Social Network was composed by Trent Reznor and Atticus Ross.",
+  "triple": [
+    [
+      "They",
+      "are",
+      "both members of the band Nine Inch Nails"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of The Social Network are not contradictory. Statement 1 provides additional information about Trent Reznor and Atticus Ross, stating that they have collaborated on several film scores together, including The Social Network. Statement 2 simply confirms that they are both members of the band Nine Inch Nails. Both statements support the fact that Trent Reznor and Atticus Ross composed the score for The Social Network."
+}

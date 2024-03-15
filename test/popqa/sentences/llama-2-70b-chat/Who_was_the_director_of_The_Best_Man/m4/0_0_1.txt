@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Best Man?",
+  "orig": "The Best Man is a 1999 American romantic comedy-drama film directed by Malcolm D. Lee.",
+  "alt": "The film was directed by Malcolm D. Lee.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 1999 American romantic comedy-drama film",
+      "directed",
+      "by Malcolm D. Lee."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The Best Man are not contradictory. Both statements provide the same information that Malcolm D. Lee directed the film. Statement 1 provides additional information about the year and genre of the film, but it does not contradict Statement 2."
+}

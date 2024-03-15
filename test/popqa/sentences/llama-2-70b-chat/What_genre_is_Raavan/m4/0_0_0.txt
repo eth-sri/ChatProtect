@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Raavan?",
+  "orig": "Raavan is a 2010 Indian epic action-adventure film directed by Mani Ratnam.",
+  "alt": "Raavan is a Tamil-language film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Raavan",
+      "is",
+      "a 2010 Indian epic action-adventure film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Raavan do not provide any information that contradicts each other. The first statement describes the film as an epic action-adventure, while the second statement simply notes that it is a Tamil-language film. The language of a film does not necessarily determine its genre, so the two statements can coexist without contradiction."
+}

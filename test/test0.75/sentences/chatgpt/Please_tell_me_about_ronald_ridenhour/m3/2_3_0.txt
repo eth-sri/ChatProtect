@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about ronald ridenhour",
+  "orig": "He wrote letters to government officials, including the President of the United States, detailing what he had heard.",
+  "alt": "He wrote letters to the President, Congress, and the Pentagon, detailing what he had learned about the massacre.",
+  "prefix": " Ronald Ridenhour was an American soldier who served in the Vietnam War. He became famous for exposing the My Lai Massacre, a war crime committed by American troops in which hundreds of unarmed Vietnamese civilians were killed. In 1969, Ridenhour heard rumors about the massacre and began investigating.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      "letters to government officials, including the President of the United States,"
+    ],
+    "compactie",
+    518
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Ronald Ridenhour are not contradictory. Both statements mention that Ridenhour wrote letters to government officials, including the President, detailing what he had learned about the My Lai Massacre. The only difference is that statement 2 specifies that he wrote to Congress and the Pentagon as well. However, both statements convey the same information about Ridenhour's actions in exposing the war crime."
+}

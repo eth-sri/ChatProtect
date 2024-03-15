@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Visitor?",
+  "orig": "However, the production company behind the film was The Visitor Film, LLC, which was founded by McCarthy, Scottell Rudin, and Ted Hope.",
+  "alt": "The production company behind the film was founded by Thomas McCarthy and his partner, Jeff Skoll.",
+  "prefix": " The producer of The Visitor is not explicitly stated. The film was directed by Thomas McCarthy, who is also credited as a co-writer and co-editor.",
+  "triple": [
+    [
+      "the production company behind the film",
+      "was was founded",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Visitor are not contradictory. The first statement clarifies that the producer is not explicitly stated, while the second and first statements provide additional information about the production company behind the film. The second statement specifies that McCarthy's partner was Jeff Skoll, while the first statement lists Scott Rudin and Ted Hope as co-founders of the production company. Both statements provide complementary information about the production company, but neither contradicts the other."
+}

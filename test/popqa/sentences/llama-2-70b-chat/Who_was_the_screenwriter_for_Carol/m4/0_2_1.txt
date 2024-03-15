@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Carol?",
+  "orig": "The film was directed by Todd Haynes and starred Cate Blanchett and Rooney Mara.",
+  "alt": "The film starred Cate Blanchett and Rooney Mara.",
+  "prefix": " The screenwriter for the 2015 film \"Carol\" was Phyllis Nagy. Nagy adapted the screenplay from the 1952 novel \"The Price of Salt\" by Patricia Highsmith.",
+  "triple": [
+    [
+      "The film",
+      "starred",
+      "Cate Blanchett and Rooney Mara."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Carol are not contradictory. Both statements provide additional information about the film, such as the director and the cast, but they do not contradict the fact that Phyllis Nagy was the screenwriter."
+}

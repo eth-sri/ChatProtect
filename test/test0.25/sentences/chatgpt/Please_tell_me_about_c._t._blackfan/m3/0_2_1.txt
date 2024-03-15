@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about c. t. blackfan",
+  "orig": "He was born in Boston, Massachusetts and graduated from Harvard Medical School in 1901.",
+  "alt": "He graduated from Harvard Medical School in 1902.",
+  "prefix": " Charles Townsend Blackfan (1875-1965), commonly known as C.T. Blackfan, was an American pediatrician and hematologist.",
+  "triple": [
+    [
+      "He",
+      "graduated",
+      "from Harvard Medical School in 1901."
+    ],
+    "compactie",
+    476
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about C.T. Blackfan are contradictory. Statement 1 says that he graduated from Harvard Medical School in 1901, while statement 2 says that he graduated in 1902. These two statements cannot both be true, as they provide different information about the same event. Therefore, they are contradictory."
+}

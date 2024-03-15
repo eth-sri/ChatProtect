@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Mall?",
+  "orig": "The movie \"Mall\" doesn't exist, so there is no director to answer for.",
+  "alt": "The movie \"Mall\" doesn't exist, is a fictional work.",
+  "prefix": " I'm not able to answer that question as it doesn't make sense.",
+  "triple": [
+    [
+      "The movie \"Mall\"",
+      "doesn't exist, is",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements explain that there is no director for the movie \"Mall\" because it doesn't exist. The first statement directly answers the question by stating that there is no director to answer for. The second statement provides additional information by clarifying that \"Mall\" is a fictional work that doesn't exist. Therefore, both statements support the same conclusion that there is no director for \"Mall\"."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Actors?",
+  "orig": "The play's director, as per the text, was Peter, who was portrayed by John Shea.",
+  "alt": "Peter was portrayed by John Shea.",
+  "prefix": " The director of The Actors was not explicitly mentioned in the text.",
+  "triple": [
+    [
+      "Peter,",
+      "was portrayed",
+      "by John Shea."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the text does not explicitly mention the director of The Actors, it does mention that Peter, portrayed by John Shea, is the director of the play within the play. Therefore, both statements are true and do not contradict each other."
+}

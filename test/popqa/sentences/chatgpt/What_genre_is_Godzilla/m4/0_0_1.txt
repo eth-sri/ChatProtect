@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Godzilla?",
+  "orig": "Godzilla is a kaiju film, which is a subgenre of science fiction and fantasy films featuring giant monsters.",
+  "alt": "A kaiju film is a Japanese genre of films featuring giant monsters, and Godzilla is one of the most famous examples of this genre.",
+  "prefix": "",
+  "triple": [
+    [
+      "a kaiju film,",
+      "is",
+      "a subgenre of science fiction and fantasy films"
+    ],
+    "compactie",
+    495
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Godzilla? are not contradictory. Statement 1 defines Godzilla as a subgenre of science fiction and fantasy films featuring giant monsters, while Statement 2 further elaborates that this subgenre is specifically a Japanese genre known as kaiju films, of which Godzilla is a prominent example. Both statements provide complementary information about the genre of Godzilla."
+}

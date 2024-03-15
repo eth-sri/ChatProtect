@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Levice District?",
+  "orig": "The capital of the Levice District is the town of Levice.",
+  "alt": "The capital of the Levice District is the town of Levice itself.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of the Levice District",
+      "is",
+      "the town of Levice."
+    ],
+    "compactie",
+    487
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Levice District are not contradictory. Both statements convey the same information that the town of Levice is the capital of the district. The only difference is that the second statement adds the word \"itself\" which is redundant but does not change the meaning of the sentence. Therefore, both statements are consistent with each other."
+}

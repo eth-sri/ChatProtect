@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Helen?",
+  "orig": "The poem is an anonymous work that has been passed down through the centuries, and despite efforts to identify the author, it remains a mystery.",
+  "alt": "It remains a mystery.",
+  "prefix": " The author of \"Helen\" is still unknown.",
+  "triple": [
+    [
+      "it",
+      "remains",
+      "a mystery."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. Both statements emphasize that the author of \"Helen\" is unknown and remains a mystery despite efforts to identify them. Statement 1 provides additional information about the poem being an anonymous work that has been passed down through the centuries, while Statement 2 simply reiterates the fact that the author's identity is still unknown."
+}

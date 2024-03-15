@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wolf?",
+  "orig": "However, the text is Bar if the story is written by a male author, and Bat if the story is written by a female author.",
+  "alt": "The text is a novel written by a German author.",
+  "prefix": " The author of \"Wolf\" is not explicitly stated in the text.",
+  "triple": [
+    [
+      "the text",
+      "is",
+      "Bar"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Wolf? are not contradictory. Statement 1 provides a clue about the gender of the author based on the writing style, while Statement 2 provides information about the nationality of the author. These statements do not contradict each other as they are providing different types of information about the author."
+}

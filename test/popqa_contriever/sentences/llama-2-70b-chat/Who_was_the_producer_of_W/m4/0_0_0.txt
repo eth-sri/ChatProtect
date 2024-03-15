@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of W?",
+  "orig": "The producer of \"60 Minutes\" was Don Hewitt.",
+  "alt": "The producer of \"60 Minutes\" was Don Hewitt.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of \"60 Minutes\"",
+      "was",
+      "Don Hewitt."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as the prompt is asking about the producer of \"W\", not \"60 Minutes\". The prompt does mention that the producer worked for \"60 Minutes\" and \"CBS Reports\", but it does not specify that the producer of \"W\" was Don Hewitt. Therefore, the statements do not provide a clear answer to the prompt."
+}

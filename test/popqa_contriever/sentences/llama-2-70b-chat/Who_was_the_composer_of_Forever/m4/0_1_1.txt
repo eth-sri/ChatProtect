@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Forever?",
+  "orig": "The text only mentions that the song was a world success for an artist named Demis Roussos, but it does not mention the name of the composer.",
+  "alt": "The song \"Forever\" was composed by Fred Lipsius.",
+  "prefix": " The composer of the song \"Forever\" is not specified in the text.",
+  "triple": [
+    [
+      "the song",
+      "was",
+      "a world success for an artist named Demis Roussos,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of Forever? are contradictory. Statement 1 clearly states that the composer of the song is not specified in the text, while Statement 2 claims that the song was composed by Fred Lipsius. As both statements cannot be true at the same time, they contradict each other."
+}

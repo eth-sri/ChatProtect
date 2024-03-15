@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Ariane et Barbe-bleue?",
+  "orig": "The opera was composed in 1907 and is considered one of Milhaud's most important works.",
+  "alt": "The opera was composed in 1907.",
+  "prefix": " The composer of the opera \"Ariane et Barbe-bleue\" is Darius Milhaud.",
+  "triple": [
+    [
+      "The opera",
+      "was composed",
+      "in 1907"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of Ariane et Barbe-bleue are not contradictory. Both statements provide additional information about the opera and its composer, but they do not contradict each other. Statement 1 provides information about the significance of the opera in Milhaud's body of work, while Statement 2 simply states the year in which the opera was composed."
+}

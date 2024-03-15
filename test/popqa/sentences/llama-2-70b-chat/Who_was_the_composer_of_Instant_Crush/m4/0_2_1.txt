@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Instant Crush?",
+  "orig": "Daft Punk is a French electronic music duo consisting of Guy-Manuel de Homem-Christo and Thomas Bangalter.",
+  "alt": "Daft Punk is consisting of Guy-Manuel de Homem-Christo and Thomas Bangalter.",
+  "prefix": " The composer of \"Instant Crush\" is Daft Punk. The song was released in 2013 and featured on their fourth studio album, \"Random Access Memories\".",
+  "triple": [
+    [
+      "a French electronic music duo",
+      "consisting",
+      "of Guy-Manuel de Homem-Christo and Thomas Bangalter."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Instant Crush\" are not contradictory. Both statements provide additional information about Daft Punk, the composer of the song. Statement 1 gives their nationality and the names of the members, while Statement 2 repeats the information about the members. Both statements are consistent with the fact that Daft Punk composed \"Instant Crush\"."
+}

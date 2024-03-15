@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Obsession?",
+  "orig": "Scorsese promised to take on \"Obsession\" next.",
+  "alt": "Scorsese promised Schrader that he would make \"Taxi Driver\" his next film.",
+  "prefix": " The screenwriter for the 1976 film \"Obsession\" was Paul Schrader. Schrader is shopping his script for a new film he has written called \"Taxi Driver.\" When Martin Scorsese agreed to direct \"Taxi Driver,\" Schrader was working on \"Obsession.\"",
+  "triple": [
+    [
+      "Scorsese",
+      "promised",
+      "to take on \"Obsession\" next."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Obsession? are contradictory. The first statement suggests that Scorsese agreed to direct \"Obsession\" after Schrader had written the script for \"Taxi Driver,\" while the second statement suggests that Scorsese promised to make \"Taxi Driver\" his next film before Schrader had even finished writing \"Obsession.\" Therefore, the two statements cannot both be true."
+}

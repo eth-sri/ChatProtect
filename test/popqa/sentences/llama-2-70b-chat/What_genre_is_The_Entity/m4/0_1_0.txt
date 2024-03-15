@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Entity?",
+  "orig": "It was released in 1982 and was directed by Sidney J. Furie.",
+  "alt": "It was released in 1982, directed by Sidney J. Furie and starring Barbara Hershey and Ron Silver.",
+  "prefix": " The Entity is a horror film, specifically a supernatural horror film.",
+  "triple": [
+    [
+      "It",
+      "was released",
+      "in 1982"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Entity are not contradictory. Statement 1 simply provides information about the year of release and the director, while Statement 2 adds additional information about the cast. Both statements confirm that The Entity is a supernatural horror film."
+}

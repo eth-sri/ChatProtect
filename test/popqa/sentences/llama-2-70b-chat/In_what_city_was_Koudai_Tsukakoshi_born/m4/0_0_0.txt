@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Koudai Tsukakoshi born?",
+  "orig": "Koudai Tsukakoshi was born in the city of Kanagawa, Japan.",
+  "alt": "Koudai Tsukakoshi was born in Tokyo, Japan.",
+  "prefix": "",
+  "triple": [
+    [
+      "Koudai Tsukakoshi",
+      "was born",
+      "in the city of Kanagawa, Japan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about In what city was Koudai Tsukakoshi born? are contradictory. Statement 1 claims that Koudai Tsukakoshi was born in the city of Kanagawa, Japan, while statement 2 claims that he was born in Tokyo, Japan. These two cities are not the same, therefore the statements cannot both be true."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Returned?",
+  "orig": "The Returned is a supernatural drama television series that falls under the genre of fantasy.",
+  "alt": "The Returned falls under the genre of supernatural drama television series.",
+  "prefix": "",
+  "triple": [
+    [
+      "a supernatural drama television series",
+      "falls",
+      "under the genre of fantasy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Returned are not contradictory. Both statements identify the same genre, which is supernatural drama television series. The only difference is the order in which the elements are presented. Statement 1 emphasizes the fantasy aspect of the genre, while Statement 2 emphasizes the supernatural drama aspect. However, both statements ultimately describe the same genre."
+}

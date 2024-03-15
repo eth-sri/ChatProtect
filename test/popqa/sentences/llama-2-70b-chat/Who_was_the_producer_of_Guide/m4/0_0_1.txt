@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Guide?",
+  "orig": "The producer of the movie Guide (1965) was Dev Anand, who was also the lead actor and the director of the film.",
+  "alt": "Dev Anand was also the director of Guide.",
+  "prefix": "",
+  "triple": [
+    [
+      "Dev Anand,",
+      "was also",
+      "the lead actor and the director of the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Guide are not contradictory. Both statements mention that Dev Anand was the producer of the movie Guide. The first statement also adds that he was the lead actor and director of the film, while the second statement only mentions that he was the director. Therefore, both statements are consistent with each other and provide additional information about Dev Anand's role in the making of the movie Guide."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Bridge?",
+  "orig": "He is also known for his work on other TV series such as The Sandhamn Murders and Marcella.",
+  "alt": "He is known for his work on other TV series such as The Sandhamn Murders and Real Humans.",
+  "prefix": " The Bridge was a British TV series that aired from 2011 to 2018. The screenwriter for The Bridge was Hans Rosenfeldt, a Swedish screenwriter and novelist. Rosenfeldt created the series and wrote the majority of its episodes, often collaborating with other writers.",
+  "triple": [
+    [
+      "He",
+      "known",
+      "for his work on other TV series such as The Sandhamn Murders and Marcella."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for The Bridge are contradictory. Statement 1 mentions that Hans Rosenfeldt is known for his work on other TV series such as The Sandhamn Murders and Marcella, while statement 2 mentions that he is known for his work on other TV series such as The Sandhamn Murders and Real Humans. The two statements differ in the TV series mentioned, with statement 1 mentioning Marcella and statement 2 mentioning Real Humans. Therefore, the statements cannot both be true at the same time."
+}

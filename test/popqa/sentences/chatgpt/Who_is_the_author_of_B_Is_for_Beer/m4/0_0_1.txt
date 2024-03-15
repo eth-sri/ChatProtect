@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of B Is for Beer?",
+  "orig": "The author of B Is for Beer is Tom Robbins.",
+  "alt": "\"B Is for Beer\" is a children's book written by Tom Robbins.",
+  "prefix": "",
+  "triple": [
+    [
+      "for Beer",
+      "is",
+      "Tom Robbins."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of B Is for Beer are contradictory. Statement 1 correctly identifies Tom Robbins as the author of the book, while statement 2 incorrectly describes it as a children's book. B Is for Beer is actually a novel intended for adults, not children. Therefore, the two statements cannot both be true at the same time."
+}

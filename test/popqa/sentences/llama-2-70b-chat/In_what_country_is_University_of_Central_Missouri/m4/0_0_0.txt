@@ -1,0 +1,19 @@
+{
+  "target": "In what country is University of Central Missouri?",
+  "orig": "The University of Central Missouri is located in the United States, in the state of Missouri.",
+  "alt": "The University of Central Missouri is located in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "The University of Central Missouri",
+      "is located",
+      "in the United States, in the state of Missouri."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of the University of Central Missouri are not contradictory. Statement 1 provides more specific information about the state in which the university is located, while Statement 2 simply confirms that it is in the United States. Both statements are true and do not contradict each other."
+}

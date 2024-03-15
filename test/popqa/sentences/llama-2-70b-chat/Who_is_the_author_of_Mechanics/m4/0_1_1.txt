@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Mechanics?",
+  "orig": "The book, also known as \"Philosophi\u00e6 Naturalis Principia Mathematica,\" was first published in 1687 and is considered one of the most influential works in the history of science.",
+  "alt": "The book, known as \"Philosophi\u00e6 Naturalis Principia Mathematica\", was first published in 1687.",
+  "prefix": " The author of the book \"Mechanics\" is Sir Isaac Newton.",
+  "triple": [
+    [
+      "The book,",
+      "known was first published",
+      "in 1687"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Mechanics? are not contradictory. Both statements provide additional information about the book \"Mechanics\" and its publication history, but they do not contradict the initial statement that Sir Isaac Newton is the author of the book. Statement 1 emphasizes the book's significance in the history of science, while Statement 2 simply repeats the book's full title and publication year."
+}

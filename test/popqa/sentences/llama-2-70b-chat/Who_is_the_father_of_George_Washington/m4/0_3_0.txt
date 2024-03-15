@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of George Washington?",
+  "orig": "Augustine Washington died in 1743, when George was just 11 years old.",
+  "alt": "Augustine Washington died in 1743, when George was just 11 years old.",
+  "prefix": " The father of George Washington was Augustine Washington. He was born in 1694 and was a planter and a justice of the peace who owned a plantation in Westmoreland County, Virginia. He married Mary Ball in 1730, and their son George was born in 1732.",
+  "triple": [
+    [
+      "Augustine Washington",
+      "died",
+      "in 1743,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but rather identical. The second statement is a repetition of the first statement, which provides additional information about the age of George Washington when his father died."
+}

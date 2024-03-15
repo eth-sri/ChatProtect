@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Stormy Monday?",
+  "orig": "He recorded it in 1947 and it has since become a blues classic.",
+  "alt": "He recorded the song in 1947.",
+  "prefix": " \"Stormy Monday\" is a song that was written and composed by Aaron \"T-Bone\" Walker.",
+  "triple": [
+    [
+      "He",
+      "recorded",
+      "it in 1947"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Stormy Monday\" are not contradictory. Statement 1 provides additional information about the song's status as a classic, while Statement 2 simply reiterates the year in which the composer recorded the song. Both statements are consistent with the fact that Aaron \"T-Bone\" Walker is the composer of \"Stormy Monday.\""
+}

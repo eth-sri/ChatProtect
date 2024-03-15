@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for By the Sea?",
+  "orig": "She not only wrote the screenplay but also directed and produced the film, and starred in it alongside her husband Brad Pitt.",
+  "alt": "She not only wrote but also directed the film, making it her second directorial feature film after In the Land of Blood and Honey.",
+  "prefix": " The screenwriter for By the Sea was Angelina Jolie.",
+  "triple": [
+    [
+      "She",
+      "not only wrote also directed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for By the Sea are not contradictory. Both statements agree that Angelina Jolie was the screenwriter for the film and also directed it. The only difference is that statement 1 adds that Jolie produced and starred in the film alongside Brad Pitt, while statement 2 mentions that By the Sea was Jolie's second directorial feature film after In the Land of Blood and Honey."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Q?",
+  "orig": "The author of Q is Luther Blissett, which is a pen name used by four Italian authors: Roberto Bui, Giovanni Cattabriga, Federico Guglielmi, and Luca Di Meo.",
+  "alt": "Luther Blissett is used as a pen name by a group of Italian authors.",
+  "prefix": "",
+  "triple": [
+    [
+      "Luther Blissett,",
+      "is used",
+      "by four Italian authors:"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Q? are not contradictory. Both statements agree that Luther Blissett is a pen name used by a group of four Italian authors, who were part of the Luther Blissett Project and now write under the name Wu Ming. Statement 1 provides the specific names of the authors, while Statement 2 refers to them as a group."
+}

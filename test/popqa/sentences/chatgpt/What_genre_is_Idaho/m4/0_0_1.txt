@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Idaho?",
+  "orig": "Idaho is a genre-bending novel, and it can be categorized under literary fiction, family drama, and mystery genres.",
+  "alt": "It can be categorized as a literary fiction novel.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "can be categorized",
+      "under literary fiction, family drama, and mystery genres."
+    ],
+    "compactie",
+    474
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Idaho? are not contradictory. Statement 1 provides multiple genres that Idaho can be categorized under, while Statement 2 narrows it down to one specific genre, which is literary fiction. Therefore, Statement 2 is a subset of Statement 1 and does not contradict it."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Americans?",
+  "orig": "The novel was published in 1963 and is considered one of Roth's most important works.",
+  "alt": "The novel is considered a classic of American literature.",
+  "prefix": " The author of The Americans is Philip Roth.",
+  "triple": [
+    [
+      "The novel",
+      "is considered",
+      "one of Roth's most important works."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Americans? are not contradictory. Statement 1 provides additional information about the novel, including its publication date and its significance to the author's body of work. Statement 2 provides an assessment of the novel's place in American literature. Both statements are consistent with the fact that Philip Roth is the author of The Americans."
+}

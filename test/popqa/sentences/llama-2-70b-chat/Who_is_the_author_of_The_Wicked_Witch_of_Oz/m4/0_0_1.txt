@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wicked Witch of Oz?",
+  "orig": "The Wicked Witch of Oz is a fictional character created by L. Frank Baum in his 1900 novel \"The Wonderful Wizard of Oz.\"",
+  "alt": "L. Frank Baum created the fictional character, the Wicked Witch of the West.",
+  "prefix": "",
+  "triple": [
+    [
+      "a fictional character",
+      "created",
+      "by L. Frank Baum in his 1900 novel \"The Wonderful Wizard of Oz.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of The Wicked Witch of Oz are not contradictory. The first statement establishes that L. Frank Baum is the author of the novel \"The Wonderful Wizard of Oz,\" which features the character of the Wicked Witch of the West. The second statement clarifies that Baum specifically created this character. Therefore, both statements support the fact that L. Frank Baum is the author of The Wicked Witch of Oz."
+}

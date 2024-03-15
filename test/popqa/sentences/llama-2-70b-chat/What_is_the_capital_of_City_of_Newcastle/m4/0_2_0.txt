@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Newcastle?",
+  "orig": "It is not a state or a country, therefore it does not have a capital.",
+  "alt": "It is not the capital of New South Wales, as that title belongs to Sydney.",
+  "prefix": " The capital of New South Wales is Sydney. Newcastle is a city located in the state of New South Wales, Australia.",
+  "triple": [
+    [
+      "It",
+      "is not",
+      "a state or a country,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement correctly points out that Newcastle is not a state or a country, and therefore does not have a capital. The second statement confirms that Sydney is the capital of New South Wales, which is the state in which Newcastle is located. Therefore, both statements are accurate and do not contradict each other."
+}

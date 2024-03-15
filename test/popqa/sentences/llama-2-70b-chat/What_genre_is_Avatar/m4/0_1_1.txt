@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Avatar?",
+  "orig": "It is primarily classified as a science fiction film, with elements of action, adventure, and fantasy.",
+  "alt": "It is primarily an action film.",
+  "prefix": " Avatar is a science fiction film directed by James Cameron and released in 2009.",
+  "triple": [
+    [
+      "It",
+      "is primarily",
+      "as a science fiction film, with elements of action, adventure, and fantasy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Avatar are not necessarily contradictory, but they do present different perspectives. Statement 1 acknowledges that Avatar has elements of multiple genres, including science fiction, action, adventure, and fantasy. Statement 2, on the other hand, focuses specifically on the action elements of the film. Both statements can be true at the same time, as Avatar can be classified as a science fiction film with a strong emphasis on action."
+}

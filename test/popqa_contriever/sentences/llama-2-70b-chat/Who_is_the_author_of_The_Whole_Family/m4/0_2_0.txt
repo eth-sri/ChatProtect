@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Whole Family?",
+  "orig": "The authors include:\n\n1.",
+  "alt": "The authors include William Dean Howells, Elizabeth Jordan, and ten other notable writers of the time.",
+  "prefix": " The author of The Whole Family is not one person, but rather a collaboration of twelve different authors. The novel was written by twelve authors, each contributing a chapter to the story.",
+  "triple": [
+    [
+      "The authors",
+      "include:",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of The Whole Family are not contradictory. The first statement explains that the novel was written by twelve authors, without specifying who they are. The second statement provides a list of two of the twelve authors, including William Dean Howells and Elizabeth Jordan, as well as noting that the other ten authors were also notable writers of the time. Therefore, the second statement provides additional information about the authors without contradicting the first statement."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Symposium?",
+  "orig": "It is a philosophical text written by Plato in the dialogue form, which is a conversation between different characters, and it is considered one of the most important works of philosophy in Western civilization.",
+  "alt": "The text was written in ancient Greece.",
+  "prefix": " The author of Symposium is Plato.",
+  "triple": [
+    [
+      "a philosophical text",
+      "written",
+      "by Plato in the dialogue form,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Symposium? are not contradictory. The first statement provides additional information about the text, including its format and significance in Western philosophy. The second statement provides historical context by specifying the time and place of its creation. Both statements are consistent with the fact that Plato is the author of Symposium."
+}

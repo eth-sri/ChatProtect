@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Flawless?",
+  "orig": "The director of the movie \"Flawless\" is Michael Radford.",
+  "alt": "The director of the movie \"Flawless\" is Joe Wright.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the movie \"Flawless\"",
+      "is",
+      "Michael Radford."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Flawless? are contradictory because they provide different names for the director of the movie \"Flawless\". Statement 1 claims that Michael Radford was the director, while statement 2 claims that Joe Wright was the director. Since they cannot both be true, the statements contradict each other."
+}

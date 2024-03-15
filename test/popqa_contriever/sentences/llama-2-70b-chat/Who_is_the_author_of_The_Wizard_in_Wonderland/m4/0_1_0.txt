@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wizard in Wonderland?",
+  "orig": "\"The Wizard in Wonderland\" is a fictional work that is not a real book.",
+  "alt": "\"The Wizard in Wonderland\" is a fictional work, and does not have an author.",
+  "prefix": " L. Frank Baum is the author of \"The Wizard of Oz\", not \"The Wizard in Wonderland\".",
+  "triple": [
+    [
+      "\"The Wizard in Wonderland\"",
+      "is",
+      "a fictional work"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Wizard in Wonderland? are not contradictory. Both statements agree that \"The Wizard in Wonderland\" is a fictional work and does not have an author. The first statement clarifies that L. Frank Baum is the author of \"The Wizard of Oz\" and not \"The Wizard in Wonderland\", while the second statement emphasizes that \"The Wizard in Wonderland\" is a work of fiction and therefore does not have a real author."
+}

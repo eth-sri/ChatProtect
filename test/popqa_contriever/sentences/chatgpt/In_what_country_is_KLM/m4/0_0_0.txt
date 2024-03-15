@@ -1,0 +1,19 @@
+{
+  "target": "In what country is KLM?",
+  "orig": "KLM is in the Netherlands.",
+  "alt": "KLM is a Dutch airline and one of the two namesake airlines of the Air France-KLM holding company.",
+  "prefix": "",
+  "triple": [
+    [
+      "KLM",
+      "is",
+      "in the Netherlands."
+    ],
+    "compactie",
+    638
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is KLM?\" are not contradictory. Statement 1 directly answers the question by stating that KLM is in the Netherlands. Statement 2 provides additional information about KLM, stating that it is a Dutch airline and one of the two namesake airlines of the Air France-KLM holding company. Both statements are true and do not contradict each other."
+}

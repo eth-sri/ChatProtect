@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Our Town?",
+  "orig": "It was first performed in 1938 and has since become a classic of American literature and theater.",
+  "alt": "It was first performed at the McCarter Theatre in Princeton, New Jersey in 1938.",
+  "prefix": " Thornton Wilder wrote the play \"Our Town.\"",
+  "triple": [
+    [
+      "It",
+      "was first performed",
+      "in 1938"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of Our Town are not contradictory. Statement 1 provides general information about the play's significance and popularity, while Statement 2 specifies the location and year of its first performance. Both statements complement each other and provide additional context about the play and its author."
+}

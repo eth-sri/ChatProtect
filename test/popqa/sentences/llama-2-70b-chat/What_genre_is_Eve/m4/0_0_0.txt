@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Eve?",
+  "orig": "Eve is a hip hop and R&B artist, so her music can be classified under the genre of hip hop/R&B.",
+  "alt": "Eve is a hip hop artist.",
+  "prefix": "",
+  "triple": [
+    [
+      "Eve",
+      "is",
+      "a hip hop and R&B artist,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Eve? are not contradictory. Statement 1 provides a more specific classification of Eve's music as hip hop/R&B, while statement 2 simply identifies her as a hip hop artist. Both statements are accurate and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Holiday?",
+  "orig": "She also served as the narrator of the film.",
+  "alt": "She served as narrator.",
+  "prefix": " The producer of Holiday was Queen Latifah.",
+  "triple": [
+    [
+      "She",
+      "served",
+      "as the narrator of the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both confirm that Queen Latifah was the producer of the film and also served as the narrator. The only difference is that statement 2 is a more concise version of statement 1."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of One?",
+  "orig": "However, Metallica covered the song and released it as a single in 1989.",
+  "alt": "The song \"One\" was released in 1968.",
+  "prefix": " The composer of \"One\" is Harry Nilsson.",
+  "triple": [
+    [
+      "the song",
+      "released",
+      "it as a single in 1989."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of One? are not contradictory. The first statement provides additional information about the song \"One\" being covered by Metallica and released as a single in 1989, but it does not contradict the fact that Harry Nilsson was the original composer of the song. The second statement provides the year of the song's original release, but it also does not contradict the fact that Harry Nilsson was the composer. Therefore, both statements are consistent with the fact that Harry Nilsson was the composer of \"One\"."
+}

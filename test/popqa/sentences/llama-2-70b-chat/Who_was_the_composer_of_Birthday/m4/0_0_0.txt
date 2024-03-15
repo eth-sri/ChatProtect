@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Birthday?",
+  "orig": "The composer of \"Happy Birthday to You\" is Patty Hill, who wrote the song in the late 19th century.",
+  "alt": "The composer of \"Happy Birthday to You\" is Patty Hill.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Happy Birthday to You\"",
+      "is",
+      "Patty Hill,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"Happy Birthday to You\" are not contradictory. Both statements provide the same information that Patty Hill is the composer of the song. The only difference is that statement 1 provides additional information about when the song was written. Therefore, the statements are consistent with each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Nuts?",
+  "orig": "There is no information provided about a product called \"Nuts\" in the given passage.",
+  "alt": "The product was called Dr. Nut and was a soft drink produced by New Orleans-based World Bottling Company.",
+  "prefix": "",
+  "triple": [
+    [
+      "about a product",
+      "called",
+      "\"Nuts\" in the given passage."
+    ],
+    "compactie",
+    621
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Nuts? are not contradictory. The first statement clarifies that there is no information provided about a product called \"Nuts\" in the given passage, while the second statement provides information about a product called Dr. Nut, which was a soft drink produced by New Orleans-based World Bottling Company. Therefore, the two statements are not contradictory but provide different information about different products."
+}

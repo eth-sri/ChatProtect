@@ -1,0 +1,19 @@
+{
+  "target": "What is Oxford the capital of?",
+  "orig": "Oxford is not a capital city.",
+  "alt": "Oxford is not a country.",
+  "prefix": "",
+  "triple": [
+    [
+      "Oxford",
+      "is not",
+      "a capital city."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that Oxford is not a capital city, while the second statement clarifies that Oxford is not a country. Both statements provide additional information about Oxford, but they do not contradict each other."
+}

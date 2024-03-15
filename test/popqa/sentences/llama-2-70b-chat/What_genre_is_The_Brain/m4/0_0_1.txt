@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Brain?",
+  "orig": "The Brain is a documentary series that falls under the genre of science, education, and technology.",
+  "alt": "The documentary series falls under the genre of science.",
+  "prefix": "",
+  "triple": [
+    [
+      "a documentary series",
+      "falls",
+      "under the genre of science, education, and technology."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Statement 1 provides a more detailed answer, stating that The Brain falls under multiple genres including science, education, and technology. Statement 2 is a more concise answer, simply stating that the series falls under the genre of science. Both statements are accurate and do not contradict each other."
+}

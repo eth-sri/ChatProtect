@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Pindus?",
+  "orig": "It runs along the central part of the country, stretching from the northwest to the southeast, and separates the plain of Thessaly from the rest of Greece.",
+  "alt": "It stretching across the country from north to south.",
+  "prefix": " Pindus is a mountain range located in Greece.",
+  "triple": [
+    [
+      "It",
+      "stretching",
+      "from the northwest to the southeast,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Pindus?\" are contradictory. Statement 1 mentions that Pindus runs along the central part of Greece, while separating the plain of Thessaly from the rest of Greece. On the other hand, statement 2 mentions that Pindus stretches across the country from north to south. These two statements cannot both be true at the same time, as they describe different directions and locations of the mountain range."
+}

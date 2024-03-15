@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Gautama Buddha?",
+  "orig": "The mother of Gautama Buddha was Queen Maya Devi.",
+  "alt": "The mother of Gautama Buddha was Queen Maya.",
+  "prefix": "",
+  "triple": [
+    [
+      "The mother of Gautama Buddha",
+      "was",
+      "Queen Maya Devi."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the mother of Gautama Buddha are not contradictory. Both statements identify Queen Maya as the mother of Gautama Buddha, with the only difference being the inclusion of the honorific \"Devi\" in the first statement. Therefore, both statements convey the same information and are not contradictory."
+}

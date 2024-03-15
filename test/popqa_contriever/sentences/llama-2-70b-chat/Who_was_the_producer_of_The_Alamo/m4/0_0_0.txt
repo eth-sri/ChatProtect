@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Alamo?",
+  "orig": "John Wayne was the producer of the film.",
+  "alt": "John Wayne was the producer of The Alamo.",
+  "prefix": "",
+  "triple": [
+    [
+      "John Wayne",
+      "was",
+      "the producer of the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Alamo are not contradictory. They both provide the same information that John Wayne was the producer of the film. The only difference is that the second statement specifically mentions the title of the film."
+}

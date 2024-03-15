@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of So Young?",
+  "orig": "It's a Chinese romantic drama film based on the novel of the same name by Xin Yiwu.",
+  "alt": "It's a Chinese romantic drama film based on the novel of the same name by Zhang Jiajia.",
+  "prefix": " The director of \"So Young\" (2013) is Zhao Wei.",
+  "triple": [
+    [
+      "It's a Chinese romantic drama film",
+      "based",
+      "on the novel of the same name by Xin Yiwu."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the director of \"So Young\" are not contradictory, but statement 2 is incorrect. The film is based on the novel of the same name by Xin Yiwu, not Zhang Jiajia. Therefore, statement 1 is the correct statement."
+}

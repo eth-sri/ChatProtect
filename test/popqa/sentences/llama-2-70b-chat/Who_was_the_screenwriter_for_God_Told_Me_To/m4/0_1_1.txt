@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for God Told Me To?",
+  "orig": "The film was written and directed by Larry Cohen.",
+  "alt": "The film was directed by Larry Cohen.",
+  "prefix": " The screenwriter for the film \"God Told Me To\" is not explicitly stated.",
+  "triple": [
+    [
+      "The film",
+      "directed",
+      "by Larry Cohen."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for God Told Me To? are not contradictory. Statement 1 clarifies that the film was written and directed by Larry Cohen, while Statement 2 only mentions that he directed the film. Therefore, both statements provide additional information about the film's production, but they do not contradict each other."
+}

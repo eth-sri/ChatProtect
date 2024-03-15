@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Emma?",
+  "orig": "The producer of the 2020 film adaptation of Jane Austen's \"Emma\" was Tim Bevan.",
+  "alt": "The producer of the 2020 film adaptation was adaptor/writer/director Greta Gerwig.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2020 film adaptation",
+      "was",
+      "Tim Bevan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Emma? are contradictory. Statement 1 claims that Tim Bevan was the producer of the 2020 film adaptation of \"Emma\", while statement 2 claims that Greta Gerwig was the producer. These two statements cannot both be true at the same time."
+}

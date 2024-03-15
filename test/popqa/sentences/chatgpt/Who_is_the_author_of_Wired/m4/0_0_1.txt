@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wired?",
+  "orig": "Wired is a magazine, not a book, and therefore has multiple authors.",
+  "alt": "Wired is a magazine, not a book, and it has been published since 1993.",
+  "prefix": "",
+  "triple": [
+    [
+      "a magazine, not a book,",
+      "has",
+      "multiple authors."
+    ],
+    "compactie",
+    490
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they are addressing different aspects of Wired. The first statement clarifies that Wired, being a magazine, has multiple authors contributing to its content. The second statement provides information about the publication history of Wired, indicating that it has been in circulation since 1993. Neither statement directly addresses the specific author or authors of Wired, but rather provides additional context about the publication itself."
+}

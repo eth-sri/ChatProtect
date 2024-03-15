@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Laura?",
+  "orig": "The screenwriter for Laura (1944) was Jay Dratler, with additional contributions by Samuel Hoffenstein and Elizabeth Reinhardt.",
+  "alt": "The screenwriter for Laura was Jay Dratler.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for Laura",
+      "was",
+      "Jay Dratler,"
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Laura? are not contradictory. Statement 1 provides additional information that there were also contributions by Samuel Hoffenstein and Elizabeth Reinhardt, while Statement 2 only mentions Jay Dratler as the screenwriter. However, both statements agree that Jay Dratler was involved in writing the screenplay for Laura."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "Therefore, the question \"In what country is Kno?\"",
+  "alt": "The country is not applicable.",
+  "prefix": " Kno is a digital learning platform built by Intel that provides interactive and personalized learning experiences for K-12 students. It is not a physical location or a country.",
+  "triple": [
+    [
+      "country",
+      "is",
+      "Kno?\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both convey the same message that Kno is not associated with any country as it is a digital learning platform and not a physical location. Statement 1 simply restates the question being answered, while statement 2 provides a direct answer to the question. Both statements support the idea that Kno is not tied to any specific country."
+}

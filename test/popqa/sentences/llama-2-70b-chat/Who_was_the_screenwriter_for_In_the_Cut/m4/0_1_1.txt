@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for In the Cut?",
+  "orig": "The film was directed by Jane Campion and starred Meg Ryan, Mark Ruffalo, and Jennifer Jason Leigh.",
+  "alt": "The film starred Meg Ryan and Mark Ruffalo.",
+  "prefix": " The screenwriter for the 2003 film \"In the Cut\" was Susanna Moore.",
+  "triple": [
+    [
+      "The film",
+      "starred",
+      "Meg Ryan, Mark Ruffalo, and Jennifer Jason Leigh."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for In the Cut are not contradictory. Both statements provide additional information about the film, such as the director and cast, but do not contradict the fact that Susanna Moore was the screenwriter."
+}

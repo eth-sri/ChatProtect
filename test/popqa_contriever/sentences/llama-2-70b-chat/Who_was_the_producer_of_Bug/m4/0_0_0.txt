@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Bug?",
+  "orig": "The producer of the movie Bug (1975) was William Castle.",
+  "alt": "The producer of the movie Bug was William Castle.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie Bug",
+      "was",
+      "William Castle."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Bug are not contradictory. They both provide the same information that William Castle was the producer of the movie. The only difference is the use of parentheses in the first statement."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Game?",
+  "orig": "The author of The Game is not specified in the text.",
+  "alt": "The author of The Game is Jeff Okamoto.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Game",
+      "is not specified",
+      "in the text."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is correct, while Statement 1 is incorrect. The text explicitly states that \"The Game\" was written by Jeff Okamoto, along with mentioning his other works and contributions to various game companies. Therefore, the two statements are contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Room?",
+  "orig": "The author of The Room is Hubert Selby, Jr.",
+  "alt": "The author of The Room is Hubert Selby Jr.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Room",
+      "is",
+      "Hubert Selby, Jr."
+    ],
+    "compactie",
+    604
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of The Room are not contradictory. The only difference between the two statements is the presence or absence of a comma after the author's middle name. Both statements refer to the same person, Hubert Selby, Jr."
+}

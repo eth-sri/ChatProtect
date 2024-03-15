@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of New Keywords?",
+  "orig": "There are multiple books titled \"New Keywords\" written by different authors.",
+  "alt": "HP Newquist has written multiple books, titled on a wide range of topics, from medicine to music, and including \"The Brain Makers\".",
+  "prefix": " I'm sorry, I cannot answer this question without more context.",
+  "triple": [
+    [
+      "multiple books",
+      "titled",
+      "\"New Keywords\""
+    ],
+    "compactie",
+    634
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that there are multiple books titled \"New Keywords\" written by different authors, indicating that the question is too broad and requires more specific information. The second statement provides information about HP Newquist's writing career, including the fact that he has written multiple books on various topics, but it does not claim that he is the author of a book titled \"New Keywords\". Therefore, the two statements do not contradict each other."
+}

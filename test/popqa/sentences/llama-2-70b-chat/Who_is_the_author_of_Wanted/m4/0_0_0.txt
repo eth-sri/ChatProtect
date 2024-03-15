@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Wanted?",
+  "orig": "The author of \"Wanted\" is Lucille Chung.",
+  "alt": "The author of \"Wanted\" is Evan boy.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Wanted\"",
+      "is",
+      "Lucille Chung."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Wanted\" are contradictory. Statement 1 claims that the author is Lucille Chung, while statement 2 claims that the author is Evan boy. Since they provide different names for the author, they cannot both be true at the same time."
+}

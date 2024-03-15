@@ -1,0 +1,19 @@
+{
+  "target": "What is Salisbury the capital of?",
+  "orig": "Salisbury is the capital of Wiltshire, a county in South West England.",
+  "alt": "Salisbury is a city located in the state of Maryland.",
+  "prefix": "",
+  "triple": [
+    [
+      "Salisbury",
+      "is",
+      "the capital of Wiltshire, a county in South West England."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is Salisbury the capital of?\" are contradictory. \n\nStatement 1 identifies Salisbury as the capital of Wiltshire, a county in South West England, while Statement 2 identifies Salisbury as a city located in the state of Maryland. These two statements refer to two different places with the same name, which means that they cannot both be true for the same location. Therefore, the statements are contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Newcastle?",
+  "orig": "The largest city in the Newcastle metropolitan area is Newcastle.",
+  "alt": "The largest city in the Newcastle metropolitan area is Newcastle, which is also the second-largest city in the state of New South Wales.",
+  "prefix": " City of Newcastle does not have a capital city as it is a local government area within the Newcastle metropolitan area.",
+  "triple": [
+    [
+      "The largest city in the Newcastle metropolitan area",
+      "is",
+      "Newcastle."
+    ],
+    "compactie",
+    639
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of City of Newcastle are not contradictory. While the City of Newcastle does not have a capital city, the first statement clarifies that it is a local government area within the Newcastle metropolitan area. The second statement provides additional information about the largest city in the Newcastle metropolitan area, which happens to be Newcastle and is also the second-largest city in the state of New South Wales. Therefore, both statements provide relevant information without contradicting each other."
+}

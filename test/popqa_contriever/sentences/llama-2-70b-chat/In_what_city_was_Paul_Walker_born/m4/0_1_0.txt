@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Paul Walker born?",
+  "orig": "According to the given information, Paul Walker was born in Kilwinning, North Ayrshire, Scotland.",
+  "alt": "Sure! Here's the next sentence:\n\nPaul Walker was born in Kilwinning, North Ayrshire, Scotland.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "Paul Walker",
+      "was born",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both provide the same information that Paul Walker was born in Kilwinning, North Ayrshire, Scotland. The second statement is simply a repetition of the first statement."
+}

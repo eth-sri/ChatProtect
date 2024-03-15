@@ -74,6 +74,7 @@ class OpenAIBot(Bot):
                 # exponential backoff
                 time.sleep(2**i)
         choices = [a.message.content for a in choices]
+        print(json.dumps({"Q": prompt, "A": choices}))
         self.last_request = datetime.datetime.now()
         _LOGGER.debug(json.dumps({"Q": prompt, "A": choices}))
         return choices, usage

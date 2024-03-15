@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Proof?",
+  "orig": "Proof is a comic book series that falls under the genre of horror, mystery, and fantasy.",
+  "alt": "The comic book series falls under the genre of fantasy.",
+  "prefix": "",
+  "triple": [
+    [
+      "a comic book series",
+      "falls",
+      "under the genre of horror, mystery, and fantasy."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Proof are contradictory. Statement 1 lists horror, mystery, and fantasy as the genres, while Statement 2 only lists fantasy. Therefore, they cannot both be true at the same time."
+}

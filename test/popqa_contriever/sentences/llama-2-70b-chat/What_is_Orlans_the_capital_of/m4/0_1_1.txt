@@ -1,0 +1,19 @@
+{
+  "target": "What is Orl\u00e9ans the capital of?",
+  "orig": "Orleans is a department in France, and its capital is Orl\u00e9ans.",
+  "alt": "Its capital is Baton Rouge.",
+  "prefix": " New Orleans is not the capital of Orleans.",
+  "triple": [
+    [
+      "its capital",
+      "is",
+      "Orl\u00e9ans."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Orl\u00e9ans the capital of?\" are not contradictory. The first statement clarifies that New Orleans is not the capital of Orleans, which is a department in France. The second statement provides the correct capital of the state of Louisiana, which is Baton Rouge. Therefore, both statements are accurate and do not contradict each other."
+}

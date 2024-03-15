@@ -1,0 +1,19 @@
+{
+  "target": "What is Orl\u00e9ans the capital of?",
+  "orig": "Orleans is a department in France, and its capital is Orl\u00e9ans.",
+  "alt": "Orleans is a city located in the Loire Valley, France, and is the capital of the Loiret department.",
+  "prefix": " New Orleans is not the capital of Orleans.",
+  "triple": [
+    [
+      "Orleans",
+      "is",
+      "a department in France,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both refer to different places named Orleans. The first statement refers to the department of Orleans in France, while the second statement refers to the city of Orleans in the Loire Valley, which is the capital of the Loiret department. Therefore, both statements are correct and do not contradict each other."
+}

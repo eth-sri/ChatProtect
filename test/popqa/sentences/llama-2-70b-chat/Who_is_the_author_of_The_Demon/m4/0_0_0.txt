@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Demon?",
+  "orig": "The author of The Demon is Hubert Selby Jr.",
+  "alt": "The author of The Demon is Glen Cooper.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Demon",
+      "is",
+      "Hubert Selby Jr."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Demon? are contradictory because they provide different names for the author of the book. Statement 1 claims that the author is Hubert Selby Jr., while statement 2 claims that the author is Glen Cooper. Since they cannot both be true, the statements contradict each other."
+}

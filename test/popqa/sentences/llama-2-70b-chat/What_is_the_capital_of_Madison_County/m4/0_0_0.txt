@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Madison County?",
+  "orig": "The capital of Madison County is Madison.",
+  "alt": "The capital of Madison County is Huntsville.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Madison County",
+      "is",
+      "Madison."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Madison County are contradictory. Statement 1 claims that the capital is Madison, while statement 2 claims that the capital is Huntsville. Since they provide different answers to the same question, they cannot both be true at the same time. Therefore, they are contradictory."
+}

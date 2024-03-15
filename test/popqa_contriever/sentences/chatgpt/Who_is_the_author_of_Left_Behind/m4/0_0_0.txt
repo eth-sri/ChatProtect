@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Left Behind?",
+  "orig": "The authors of Left Behind are Jerry B. Jenkins, Tim LaHaye, and Chris Fabry.",
+  "alt": "The authors of Left Behind are Jerry B. Jenkins and Tim LaHaye.",
+  "prefix": "",
+  "triple": [
+    [
+      "The authors of Left Behind",
+      "are",
+      "Jerry B. Jenkins, Tim LaHaye, and Chris Fabry."
+    ],
+    "compactie",
+    604
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Left Behind? are not contradictory, but rather one statement is more specific than the other. Both statements correctly identify Jerry B. Jenkins and Tim LaHaye as authors of the Left Behind series. However, the first statement includes Chris Fabry as a co-author, while the second statement does not. Therefore, the first statement is more comprehensive and specific than the second statement."
+}

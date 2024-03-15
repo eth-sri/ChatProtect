@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Dancer Upstairs?",
+  "orig": "The author of The Dancer Upstairs is Nicholas Shakespeare.",
+  "alt": "The author of Memorial is Nikolas Shakespeare.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Dancer Upstairs",
+      "is",
+      "Nicholas Shakespeare."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Dancer Upstairs? are contradictory. \n\nStatement 1 correctly identifies Nicholas Shakespeare as the author of The Dancer Upstairs, while Statement 2 incorrectly identifies Nikolas Shakespeare as the author of Memorial. The misspelling of the author's first name and the mention of a different book altogether make Statement 2 irrelevant to the prompt and contradictory to Statement 1."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Arrival?",
+  "orig": "Based on the information provided, The Arrival is an adventure game.",
+  "alt": "The Arrival is an adventure game.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Arrival",
+      "is",
+      "an adventure game."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the genre of The Arrival are not contradictory. They both state that the game belongs to the adventure genre. The first statement simply restates the information provided in the prompt, while the second statement is a direct assertion of the game's genre."
+}

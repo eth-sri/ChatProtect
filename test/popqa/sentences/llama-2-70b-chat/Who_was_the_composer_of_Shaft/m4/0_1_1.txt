@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Shaft?",
+  "orig": "Hayes, a renowned musician, singer, and actor, created the score for the 1971 film, which starred Richard Roundtree as the titular character, John Shaft.",
+  "alt": "The score for the 1971 film starred Richard Roundtree as the titular character, trying in the process to duplicate his iconic role.",
+  "prefix": " The composer of the iconic film score for \"Shaft\" was Isaac Hayes.",
+  "triple": [
+    [
+      "the score for the 1971 film,",
+      "starred",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are not directly related to the prompt. Statement 1 provides additional information about Isaac Hayes and his career as a musician, singer, and actor, as well as his role in creating the score for \"Shaft.\" Statement 2, on the other hand, refers to the film's lead actor, Richard Roundtree, and his attempt to replicate his iconic role as John Shaft. While both statements provide interesting information about the film and its creators, they do not contradict the fact that Isaac Hayes was the composer of the score for \"Shaft.\""
+}

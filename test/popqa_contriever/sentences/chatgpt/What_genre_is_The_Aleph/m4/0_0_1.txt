@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Aleph?",
+  "orig": "The Aleph is a short-story and belongs to the genre of magical realism.",
+  "alt": "The Aleph is a short-story that belongs to the genre of magical realism.",
+  "prefix": "",
+  "triple": [
+    [
+      "a short-story",
+      "belongs",
+      "to the genre of magical realism."
+    ],
+    "compactie",
+    611
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Aleph are not contradictory. The only difference between them is the presence or absence of the word \"and\" between \"short-story\" and \"magical realism\" in Statement 1. However, this does not change the fact that both statements identify The Aleph as a short-story belonging to the genre of magical realism."
+}

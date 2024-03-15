@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Isis?",
+  "orig": "The passage only mentions that Isis is the wife of Osiris and the mother of Horus, and that she also has a dual role as the consort of Horus the Elder and the mother of the sons of Horus.",
+  "alt": "Isis is the daughter of Geb and Nut.",
+  "prefix": " The father of Isis is not explicitly stated in the passage.",
+  "triple": [
+    [
+      "Isis",
+      "is",
+      "the wife of Osiris and the mother of Horus,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Isis are not contradictory. While the passage does not explicitly state who Isis's father is, statement 2 provides additional information from other sources that identify Geb as her father. Therefore, the two statements are complementary and together provide a more complete answer to the question."
+}

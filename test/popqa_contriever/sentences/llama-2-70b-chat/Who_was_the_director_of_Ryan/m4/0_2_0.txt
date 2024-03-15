@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Ryan?",
+  "orig": "Therefore, there is no director of Ryan.",
+  "alt": "There is no director of Ryan, as Ryan is a film director himself.",
+  "prefix": " Paul F. Ryan is a film director, producer, and teacher. He directed and produced several films, including \"The List\" and \"Home Room\".",
+  "triple": [
+    [
+      "there",
+      "is",
+      "no director of Ryan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Ryan? are contradictory. The first statement implies that there is no director of a film called \"Ryan\", while the second statement suggests that Ryan is the director himself. These two statements cannot both be true at the same time."
+}

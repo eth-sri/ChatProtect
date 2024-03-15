@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Ram?",
+  "orig": "The father of Ram is King Dasaratha.",
+  "alt": "The father of Ram is Raghu.",
+  "prefix": "",
+  "triple": [
+    [
+      "The father of Ram",
+      "is",
+      "King Dasaratha."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Ram are not contradictory. Both statements are true, as King Dasaratha was Ram's father in the context of the Ramayana, while Raghu was Ram's ancestor and the founder of the Raghu dynasty to which Ram belonged. Therefore, the two statements refer to different aspects of Ram's lineage and are not in conflict with each other."
+}

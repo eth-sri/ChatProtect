@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Whole Family?",
+  "orig": "The novel was first published in 1897 and was a popular and influential work in its time.",
+  "alt": "The novel was first published in 1908.",
+  "prefix": " The author of The Whole Family is not specified. The novel was written by an anonymous author, and the identity of the writer has not been definitively established. There are various theories and speculations about the author's identity, but no definitive answer has been found.",
+  "triple": [
+    [
+      "The novel",
+      "was first published",
+      "in 1897"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the publication date of The Whole Family are contradictory, but they do not contradict the statement about the author's identity. The first statement claims that the novel was first published in 1897, while the second statement claims that it was first published in 1908. However, both statements agree that the author of the novel is unknown and has not been definitively established."
+}

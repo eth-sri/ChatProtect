@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of This Is the Sea?",
+  "orig": "He is a South African-born British composer, musician, and producer who has composed music for a wide range of films, television shows, and commercials.",
+  "alt": "He is a British composer, musician, and producer.",
+  "prefix": " The composer of \"This Is the Sea\" is Trevor Jones.",
+  "triple": [
+    [
+      "He",
+      "is",
+      "a South African-born British composer, musician, and producer"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"This Is the Sea\" are contradictory. Statement 1 describes the composer as South African-born, while Statement 2 describes the composer as British. These two statements cannot both be true at the same time."
+}

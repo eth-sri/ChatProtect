@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Debut?",
+  "orig": "I'd be happy to try and help you with your question once I have a better understanding.",
+  "alt": "Sure! Here's a possible next sentence:\n\nI'd be happy to try and help you with your question, have you provided any additional details or context about the movie you're asking about?",
+  "prefix": " I'm not familiar with a movie called \"The Debut.\" Could you provide more information or clarify which movie you're referring to?",
+  "triple": [
+    [
+      "happy to try and help you with your question",
+      "have",
+      "a better understanding."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements express a willingness to help the person asking the question, but the second statement also asks for additional information to better understand the question."
+}

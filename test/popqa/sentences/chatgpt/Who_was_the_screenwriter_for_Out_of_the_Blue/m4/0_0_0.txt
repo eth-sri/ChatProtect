@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Out of the Blue?",
+  "orig": "The screenwriter for Out of the Blue (1980) was Graeme Tetley and director was Dennis Hopper.",
+  "alt": "The screenwriter for Out of the Blue was Graeme Tetley.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for Out of the Blue",
+      "was",
+      "Graeme Tetley"
+    ],
+    "compactie",
+    489
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 and Statement 2 are not contradictory. Both statements agree that Graeme Tetley was the screenwriter for Out of the Blue. However, Statement 1 also adds that the director of the movie was Dennis Hopper. Therefore, Statement 1 provides additional information about the movie's director, while Statement 2 only focuses on the screenwriter."
+}

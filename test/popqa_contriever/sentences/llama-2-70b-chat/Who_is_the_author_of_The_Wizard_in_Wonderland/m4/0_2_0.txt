@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wizard in Wonderland?",
+  "orig": "It is likely a mistake on your part, as you mentioned \"The Wizard of Oz\" in the previous sentence.",
+  "alt": "It is likely a play on words, combining the title of Baum's famous book with the name of the fictional work to create a humorous and whimsical title.",
+  "prefix": " L. Frank Baum is the author of \"The Wizard of Oz\", not \"The Wizard in Wonderland\". \"The Wizard in Wonderland\" is a fictional work that is not a real book.",
+  "triple": [
+    [
+      "It",
+      "is likely",
+      "a mistake on your part,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that L. Frank Baum is not the author of \"The Wizard in Wonderland\", while the second statement suggests that the title may be a play on words combining Baum's famous book with the name of the fictional work. Both statements provide additional information about the title and its relationship to Baum's work, but they do not contradict each other."
+}

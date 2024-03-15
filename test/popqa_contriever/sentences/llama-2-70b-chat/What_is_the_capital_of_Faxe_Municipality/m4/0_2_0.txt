@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Faxe Municipality?",
+  "orig": "Therefore, the capital of Faxe Municipality is Faxe.",
+  "alt": "The capital of Faxe Municipality is Faxe.",
+  "prefix": " The capital of Faxe Municipality is not explicitly stated in the provided information. However, based on the information that Faxe municipality was created by merging three former municipalities, it can be inferred that the capital of Faxe Municipality is likely to be the largest town or city in the municipality, which is Faxe.",
+  "triple": [
+    [
+      "the capital of Faxe Municipality",
+      "is",
+      "Faxe."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both provide the same answer to the question \"What is the capital of Faxe Municipality?\" and confirm that the capital is Faxe."
+}

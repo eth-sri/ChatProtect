@@ -1,0 +1,19 @@
+{
+  "target": "What is Oxford the capital of?",
+  "orig": "It is a city in its own right and serves as the county town of Oxfordshire.",
+  "alt": "It is a city in south central England and the county town of Oxfordshire.",
+  "prefix": " Oxford is not the capital of any country or region.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a city in its own right"
+    ],
+    "compactie",
+    601
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. Both statements provide information about Oxford being a city in south central England and the county town of Oxfordshire. The first statement emphasizes that Oxford is not the capital of any country or region, while the second statement provides additional details about its location and administrative role. Together, the statements provide a comprehensive answer to the prompt without contradicting each other."
+}

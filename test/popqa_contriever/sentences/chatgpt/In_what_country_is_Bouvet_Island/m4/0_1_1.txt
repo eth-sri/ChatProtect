@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Bouvet Island?",
+  "orig": "It is an uninhabited territory governed by Norway.",
+  "alt": "Bouvet Island is an uninhabited territory governed by Norway.",
+  "prefix": " Bouvet Island is not part of any country.",
+  "triple": [
+    [
+      "an uninhabited territory",
+      "governed",
+      "by Norway."
+    ],
+    "compactie",
+    618
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements confirm that Bouvet Island is an uninhabited territory governed by Norway, despite not being part of any country. The first statement simply emphasizes that the island does not belong to any specific country, while the second statement provides additional information about its governance."
+}

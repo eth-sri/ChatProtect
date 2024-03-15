@@ -208,6 +208,8 @@ def read_desc_file_old(
 def read_desc_file(target: typing.Optional[str], path: typing.Union[pathlib.Path, str]):
     with pathlib.Path(path).open("r") as f:
         d = json.load(f)
+    if "context" in d:
+        del d["context"]
     desc = Description(**d)
     test_target = desc.prompt
     if target is not None and test_target != target:

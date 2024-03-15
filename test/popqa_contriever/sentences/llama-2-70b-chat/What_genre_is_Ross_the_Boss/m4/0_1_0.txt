@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Ross the Boss?",
+  "orig": "Therefore, the genre of the song is hip hop.",
+  "alt": "The genre of the song is hip-hop.",
+  "prefix": " Ross the Boss is a song by Rick Ross, who is a rapper.",
+  "triple": [
+    [
+      "the genre of the song",
+      "is",
+      "hip hop."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of \"Ross the Boss\" are not contradictory. They both state that the genre of the song is hip hop. The only difference is that statement 2 is a repetition of statement 1 with slightly different wording."
+}

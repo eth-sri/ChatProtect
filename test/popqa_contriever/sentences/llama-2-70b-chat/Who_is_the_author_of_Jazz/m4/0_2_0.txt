@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Jazz?",
+  "orig": "Sudhalter was a jazz critic and historian who wrote extensively about jazz music and its history.",
+  "alt": "Sudhalter was a jazz critic and historian.",
+  "prefix": " The author of the book \"Jazz\" is not explicitly stated in the provided text. However, based on the information provided, it seems that the author is Richard Sudhalter.",
+  "triple": [
+    [
+      "Sudhalter",
+      "was",
+      "a jazz critic and historian"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Jazz? are not contradictory. Both statements provide information about Richard Sudhalter's profession as a jazz critic and historian, which suggests that he is the likely author of the book \"Jazz.\" The second statement simply omits the additional detail that Sudhalter wrote extensively about jazz music and its history."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about c. t. blackfan",
+  "orig": "He was born on December 4, 1882, in Boston, Massachusetts, and received his medical degree from Harvard Medical School in 1908.",
+  "alt": "He was born in 1883 in Boston, Massachusetts.",
+  "prefix": " C.T. Blackfan was an American physician and researcher who made significant contributions to the field of pediatrics.",
+  "triple": [
+    [
+      "He",
+      "was born",
+      "on December 4, 1882,"
+    ],
+    "compactie",
+    471
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about C.T. Blackfan are contradictory. The first statement states that he was born on December 4, 1882, while the second statement states that he was born in 1883. These two statements cannot both be true, as they provide different birth years for C.T. Blackfan."
+}

@@ -25,6 +25,7 @@ def get_args():
     parser.add_argument("--convo", action="store_true")
     parser.add_argument("--override_sent", action="store_true")
     parser.add_argument("--sent-mode", type=int, default=3)
+    parser.add_argument("--only-initial", action="store_true")
     parser.add_argument(
         "--mode", choices=["factuality", "contradiction"], default="contradiction"
     )
@@ -79,8 +80,12 @@ def print_stats(labels, scores, files, convos, args):
                 print("FP")
                 print(f"score: {score}")
                 print(f"label: {label}")
-                print(convo[0]["Q"])
-                print(convo[0]["A"][0])
+                if convo:
+                    print(convo[0]["Q"])
+                    print(convo[0]["A"][0])
+                else:
+                    print(orig_ext_sent.orig)
+                    print(orig_ext_sent.alt)
                 print()
                 print()
                 print("=" * 100)
@@ -92,8 +97,12 @@ def print_stats(labels, scores, files, convos, args):
                 print("FN")
                 print(f"score: {score}")
                 print(f"label: {label}")
-                print(convo[0]["Q"])
-                print(convo[0]["A"][0])
+                if convo:
+                    print(convo[0]["Q"])
+                    print(convo[0]["A"][0])
+                else:
+                    print(orig_ext_sent.orig)
+                    print(orig_ext_sent.alt)
                 print()
                 print()
                 print("=" * 100)
@@ -104,7 +113,6 @@ def print_stats(labels, scores, files, convos, args):
         print(",".join(map(str, inconsistency_mat)))
 
     pr = PrecisionRecallDisplay.from_predictions(labels, scores)
-    print(pr.average_precision)
     if args.tikz_plot:
         to_tikz_plot(pr)
     if args.prf1:
@@ -161,6 +169,8 @@ def main():
             else:
                 raise NotImplementedError()
             file = d.get("file")
+            if file is not None and pathlib.Path(file).stem.startswith("m"):
+                continue
             if args.override_sent:
                 if args.mode == "contradiction":
                     try:
@@ -201,6 +211,7 @@ def main():
     if not args.local:
         pr = print_stats(labels, scores, files, convos, args)
         if args.pr_curve_file is not None:
+            print(pr.average_precision)
             pr.plot()
             plt.savefig(args.pr_curve_file)
 

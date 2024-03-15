@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Washington, D.C.?",
+  "orig": "The city has evolved and grown over time, but L'Enfant's original plan remains an important part of its design and history.",
+  "alt": "The city has evolved significantly since its initial design, with various additions and modifications made over the years.",
+  "prefix": " Washington, D.C. is a city, not a book, so it doesn't have an author. It was designed by a French engineer and architect named Pierre Charles L'Enfant, who was commissioned by George Washington to plan the layout of the city in the late 18th century. L'Enfant's plan for the city included a central park, a grid system of streets, and a variety of monuments and public buildings.",
+  "triple": [
+    [
+      "The city",
+      "has evolved",
+      "and"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement acknowledges the original author of the city's design, it also recognizes that the city has evolved over time. The second statement expands on this evolution and acknowledges that the city has undergone various changes since its initial design. Both statements provide additional information about the history and development of Washington, D.C. without contradicting each other."
+}

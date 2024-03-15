@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Watch?",
+  "orig": "The producer of the watch was Raketa, a Russian watch factory that was founded in 1961.",
+  "alt": "Raketa, a Russian watch factory, was founded in 2009.",
+  "prefix": "",
+  "triple": [
+    [
+      "Raketa, a Russian watch factory",
+      "was founded",
+      "in 1961."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Watch? are contradictory. Statement 1 states that the producer of the watch was Raketa, a Russian watch factory that was founded in 1961, while statement 2 states that Raketa, a Russian watch factory, was founded in 2009. These two statements cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Island?",
+  "orig": "He was also the creator of the show and wrote many of its episodes, including \"The Producer.\"",
+  "alt": "The producer, Sherwood Schwartz, wrote the majority of the show's episodes.",
+  "prefix": " The producer of \"Gilligan's Island\" was Sherwood Schwartz.",
+  "triple": [
+    [
+      "the",
+      "wrote",
+      "many of its episodes,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Gilligan's Island\" are not contradictory. Both statements confirm that Sherwood Schwartz was the producer of the show and wrote many of its episodes, including \"The Producer.\" The only difference is that statement 2 emphasizes that Schwartz wrote the majority of the show's episodes, while statement 1 simply mentions that he wrote many of them."
+}

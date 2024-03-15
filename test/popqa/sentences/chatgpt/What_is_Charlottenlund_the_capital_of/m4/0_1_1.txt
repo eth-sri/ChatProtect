@@ -1,0 +1,19 @@
+{
+  "target": "What is Charlottenlund the capital of?",
+  "orig": "It is a suburban area located in the northern part of Copenhagen, Denmark.",
+  "alt": "Charlottenlund is a suburban area located in the northern part of Copenhagen, Denmark.",
+  "prefix": " Charlottenlund is not the capital of any country or region.",
+  "triple": [
+    [
+      "a suburban area",
+      "located",
+      "in the northern part of Copenhagen, Denmark."
+    ],
+    "compactie",
+    493
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about Charlottenlund, with statement 2 repeating the information from statement 1. Neither statement contradicts the initial statement that Charlottenlund is not the capital of any country or region."
+}

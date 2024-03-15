@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Sold?",
+  "orig": "The director of the movie \"Sold\" is Jeffrey D. Brown.",
+  "alt": "The director of the movie is Jeffrey D. Brown.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of the movie",
+      "is",
+      "Jeffrey D. Brown."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Sold are not contradictory. Both statements provide the same information and identify Jeffrey D. Brown as the director of the movie. The only difference is the inclusion of the word \"movie\" in the first statement, which is not necessary for understanding the answer to the prompt."
+}

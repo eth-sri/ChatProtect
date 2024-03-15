@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ely?",
+  "orig": "Therefore, Ely is in the United States.",
+  "alt": "Ely is a city located in St. Louis County, Minnesota.",
+  "prefix": " Ely is in the United States. The article mentions that Ely is in Minnesota, and it also mentions that Ely seceded from the United States to be part of Canada, but this is revealed to be a hoax.",
+  "triple": [
+    [
+      "Ely",
+      "is",
+      "in the United States."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the location of Ely are not contradictory. The first statement confirms that Ely is in the United States, while the second statement provides additional information that Ely is specifically located in St. Louis County, Minnesota. Both statements are consistent with each other and do not present any conflicting information."
+}

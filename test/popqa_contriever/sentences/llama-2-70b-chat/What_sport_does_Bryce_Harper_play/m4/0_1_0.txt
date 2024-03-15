@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Bryce Harper play?",
+  "orig": "Specifically, he is a professional baseball right fielder who has played in Major League Baseball (MLB) for the Washington Nationals.",
+  "alt": "He is a right fielder.",
+  "prefix": " Bryce Harper plays baseball.",
+  "triple": [
+    [
+      "he",
+      "is",
+      "a professional baseball right fielder"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide additional information about Bryce Harper's role in the sport of baseball. The first statement clarifies that he is a professional baseball player who has played in the MLB for a specific team, while the second statement specifies his position on the field. Together, these statements provide a more complete answer to the prompt."
+}

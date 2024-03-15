@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Room?",
+  "orig": "According to the book, Tommy Wiseau is credited as an actor, writer, producer, director, and executive producer of The Room.",
+  "alt": "Tommy Wiseau is credited as a producer of The Room.",
+  "prefix": "",
+  "triple": [
+    [
+      "Tommy Wiseau",
+      "is credited",
+      "as an actor, writer, producer, director, and executive producer of The Room."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements confirm that Tommy Wiseau was a producer of The Room. The first statement provides additional information about Wiseau's multiple roles in the film, while the second statement specifically mentions his producer credit."
+}

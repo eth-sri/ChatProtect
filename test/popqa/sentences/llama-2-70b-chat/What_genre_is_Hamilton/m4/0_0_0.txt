@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Hamilton?",
+  "orig": "Hamilton is a musical that blends elements of hip hop, jazz, R&B, and Broadway show tunes.",
+  "alt": "Hamilton is a musical.",
+  "prefix": "",
+  "triple": [
+    [
+      "Hamilton",
+      "is",
+      "a musical"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Hamilton?\" are not contradictory. Statement 1 provides a more detailed description of the musical's genre, highlighting the various musical styles that are incorporated into the show. Statement 2 simply confirms that Hamilton is indeed a musical, without specifying its genre in detail. Both statements are true and complement each other."
+}

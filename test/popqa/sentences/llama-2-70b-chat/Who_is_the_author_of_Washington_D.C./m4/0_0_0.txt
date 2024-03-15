@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Washington, D.C.?",
+  "orig": "Washington, D.C. is a city, not a book, so it doesn't have an author.",
+  "alt": "Washington, D.C. is the capital of the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "Washington, D.C.",
+      "is",
+      "a city, not a book,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Washington, D.C.? are contradictory. The first statement correctly points out that Washington, D.C. is a city and not a book, and therefore it doesn't have an author. However, the second statement provides information about the city itself, stating that it is the capital of the United States. While this statement is true, it doesn't answer the question of who the author of Washington, D.C. is, as there is no author for a city. Therefore, the two statements contradict each other in terms of relevance to the prompt."
+}

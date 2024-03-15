@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Group?",
+  "orig": "The Group follows the lives of eight Vassar College graduates as they navigate their way through the tumultuous years of the 1930s and 1940s, dealing with issues such as sex, marriage, gender roles, and political activism.",
+  "alt": "The Group follows the lives of eight women who graduated from Vassar College in the 1930s.",
+  "prefix": " The author of The Group is Mary McCarthy. The novel was first published in 1963 and has since become a classic of American literature.",
+  "triple": [
+    [
+      "The Group",
+      "follows",
+      "lives of eight Vassar College graduates"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. The first statement identifies Mary McCarthy as the author of The Group and mentions the year of its publication and its status as a classic of American literature. The second statement provides a brief summary of the novel's plot, specifically mentioning that it follows the lives of eight women who graduated from Vassar College in the 1930s. While the two statements provide different information about the novel, they do not contradict each other."
+}

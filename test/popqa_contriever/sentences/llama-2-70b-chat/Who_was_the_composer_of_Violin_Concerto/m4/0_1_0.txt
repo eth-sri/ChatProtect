@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Violin Concerto?",
+  "orig": "35 was Pyotr Ilyich Tchaikovsky.",
+  "alt": "The composer of Violin Concerto in D major, Op. 35, was Pyotr Ilyich Tchaikovsky.",
+  "prefix": " The composer of Violin Concerto in D major, Op.",
+  "triple": [
+    [
+      "35",
+      "was",
+      "Pyotr Ilyich Tchaikovsky."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of Violin Concerto are not contradictory. Both statements convey the same information that Pyotr Ilyich Tchaikovsky was the composer of the Violin Concerto in D major, Op. 35. The only difference is that the second statement provides more specific details about the concerto, such as the opus number and the key."
+}

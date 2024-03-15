@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Bells?",
+  "orig": "The Bells is a choral symphony, also known as \"The Bells of Moscow,\" composed by Rachmaninoff in 1913.",
+  "alt": "Sure! Here's a possible next sentence:\n\na choral symphony, composed by Sergei Rachmaninoff in 1913.",
+  "prefix": " The composer of The Bells is Sergei Rachmaninoff.",
+  "triple": [
+    [
+      "a choral symphony,",
+      "composed",
+      "by Rachmaninoff in 1913."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of The Bells are not contradictory. Both statements provide additional information about the composition, including its full title and the year it was composed, but they both confirm that Sergei Rachmaninoff was the composer."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Halifax the capital of?",
+  "orig": "Halifax is not a capital city.",
+  "alt": "Halifax is not the capital of a country.",
+  "prefix": "",
+  "triple": [
+    [
+      "Halifax",
+      "is not",
+      "a capital city."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The prompt asks for the capital of a place, but both statements deny that Halifax is a capital city or the capital of a country. Therefore, they contradict the prompt and each other."
+}

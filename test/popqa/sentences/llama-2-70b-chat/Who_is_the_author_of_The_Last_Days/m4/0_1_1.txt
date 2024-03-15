@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Last Days?",
+  "orig": "It is a young adult science fiction novel that was published in 2006.",
+  "alt": "The novel was published in 2005.",
+  "prefix": " The author of The Last Days is Scott Westerfeld.",
+  "triple": [
+    [
+      "a young adult science fiction novel",
+      "was published",
+      "in 2006."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Last Days? are contradictory. Statement 1 says that the novel was published in 2006, while Statement 2 says that it was published in 2005. Since the year of publication is different in both statements, they cannot both be true at the same time."
+}

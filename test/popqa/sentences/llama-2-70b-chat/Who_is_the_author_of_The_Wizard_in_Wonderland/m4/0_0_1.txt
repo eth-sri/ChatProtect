@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wizard in Wonderland?",
+  "orig": "The author of \"The Wizard in Wonderland\" is Lewis Carroll, whose real name was Charles Lutwidge Dodgson.",
+  "alt": "The author of The Wizard in Wonderland, real name L. Frank Baum, was an American author, actor, and filmmaker.",
+  "prefix": "",
+  "triple": [
+    [
+      "real name",
+      "was",
+      "Charles Lutwidge Dodgson."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Wizard in Wonderland? are contradictory. \n\nStatement 1 correctly identifies Lewis Carroll as the author of \"The Wizard in Wonderland\" and provides his real name as Charles Lutwidge Dodgson. \n\nHowever, Statement 2 incorrectly identifies the author as L. Frank Baum, who is actually the author of \"The Wonderful Wizard of Oz\" and not \"The Wizard in Wonderland.\" Additionally, Baum was not an actor or filmmaker, but primarily a writer. \n\nTherefore, the two statements provide conflicting information about the author of \"The Wizard in Wonderland.\""
+}

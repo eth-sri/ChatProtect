@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Adam?",
+  "orig": "Mayer also directed the film.",
+  "alt": "Max Mayer directed the film Adam.",
+  "prefix": " The screenwriter for the 2009 film Adam was Max Mayer.",
+  "triple": [
+    [
+      "Mayer",
+      "directed",
+      "the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Adam are not contradictory. Both statements confirm that Max Mayer was the screenwriter and director of the film Adam."
+}

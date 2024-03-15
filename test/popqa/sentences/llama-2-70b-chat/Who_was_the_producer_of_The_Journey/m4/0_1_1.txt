@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Journey?",
+  "orig": "The Journey was a video game developed by Thatgamecompany, an independent game development studio founded by Jenova Chen and Kellee Santiago in 2006.",
+  "alt": "The video game was developed by Jennifer Hale.",
+  "prefix": " The producer of The Journey was Thatgamecompany.",
+  "triple": [
+    [
+      "a video game",
+      "developed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of The Journey? are contradictory. \n\nStatement 1 correctly identifies Thatgamecompany as the producer of The Journey, while also providing additional information about the company's background and founders. \n\nHowever, Statement 2 is incorrect in stating that the video game was developed by Jennifer Hale. Jennifer Hale is a voice actress who has worked on many video games, but she was not involved in the development of The Journey."
+}

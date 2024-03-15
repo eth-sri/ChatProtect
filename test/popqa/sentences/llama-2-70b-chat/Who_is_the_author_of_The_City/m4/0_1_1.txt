@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The City?",
+  "orig": "The book is considered a sacred text in the Bah\u00e1'\u00ed Faith, and its authorship is attributed to Bah\u00e1'u'll\u00e1h, the founder of the faith.",
+  "alt": "The authorship of The City is attributed to Bah\u00e1'u'll\u00e1h.",
+  "prefix": " The author of The City is not explicitly stated.",
+  "triple": [
+    [
+      "a sacred text in the Bah\u00e1'\u00ed Faith,",
+      "is attributed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the authorship of The City are not contradictory. Both statements attribute the authorship of the book to Bah\u00e1'u'll\u00e1h, the founder of the Bah\u00e1'\u00ed Faith. The first statement simply notes that the author is not explicitly stated, while the second statement directly attributes the authorship to Bah\u00e1'u'll\u00e1h."
+}

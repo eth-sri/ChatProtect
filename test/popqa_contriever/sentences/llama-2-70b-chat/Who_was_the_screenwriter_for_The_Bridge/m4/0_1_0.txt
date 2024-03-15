@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Bridge?",
+  "orig": "The text mentions Bar's work on several other screenplays, including \"Type O,\" \"Bonus Day,\" and \"Ruby,\" but it does not mention The Bridge.",
+  "alt": "Bar's collaboration with Sexton does not mention The Bridge.",
+  "prefix": " The screenwriter for The Bridge was not specified in the text.",
+  "triple": [
+    [
+      "Bar's",
+      "does not mention",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both state that the text does not mention Bar's involvement in writing The Bridge. They simply provide additional information about Bar's other works and collaborations."
+}

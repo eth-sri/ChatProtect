@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Annie?",
+  "orig": "The musical features a range of musical styles, including jazz, pop, and classic Broadway show tunes, and is known for its catchy and memorable songs, such as \"Tomorrow\" and \"It's a Hard-Knock Life.\"",
+  "alt": "The musical features a memorable score by Charles Strouse and Martin Charnin, including hit songs such as \"Tomorrow\" and \"It's a Hard-Knock Life.\"",
+  "prefix": " Annie is a musical comedy. It is a stage musical that combines elements of comedy, drama, and music to tell the story of a plucky young orphan named Annie who is determined to find her parents and a sense of belonging.",
+  "triple": [
+    [
+      "The musical",
+      "features",
+      "a range of musical styles, including jazz, pop, and classic Broadway show tunes,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Annie?\" are not contradictory. Both statements provide additional information about the musical, specifically its musical style and score. Statement 1 describes the range of musical styles featured in the show, while Statement 2 highlights the composers and specific hit songs. Both statements support the initial assertion that Annie is a musical comedy."
+}

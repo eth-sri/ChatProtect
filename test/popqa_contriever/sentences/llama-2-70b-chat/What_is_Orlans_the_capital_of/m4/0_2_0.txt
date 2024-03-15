@@ -1,0 +1,19 @@
+{
+  "target": "What is Orl\u00e9ans the capital of?",
+  "orig": "New Orleans, Louisiana, is a city located in the United States, and it is not the capital of any department or region.",
+  "alt": "New Orleans, Louisiana, is a city.",
+  "prefix": " New Orleans is not the capital of Orleans. Orleans is a department in France, and its capital is Orl\u00e9ans.",
+  "triple": [
+    [
+      "New Orleans, Louisiana,",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that New Orleans is not the capital of Orleans, which is a department in France. The second statement simply states that New Orleans is a city located in Louisiana, without making any reference to whether it is the capital of anything. Therefore, both statements are true and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Oil?",
+  "orig": "However, the article is referring to the film adaptation of the book, for which the screenwriter is Paul Thomas Anderson, as stated in the rest of the paragraph.",
+  "alt": "The article is referring to the screenwriter for the film adaptation of \"Oil!\", which was changed to \"There Will Be Blood\".",
+  "prefix": " There is no specific screenwriter for the book \"Oil!\"",
+  "triple": [
+    [
+      "the article",
+      "is referring",
+      "to the film adaptation of the book,"
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Oil!\" are not contradictory. The first statement clarifies that there is no screenwriter for the book itself, while the second statement specifies that the article is referring to the screenwriter for the film adaptation of the book, which was changed to \"There Will Be Blood\". Therefore, both statements provide complementary information about the screenwriter for the film adaptation of \"Oil!\"."
+}

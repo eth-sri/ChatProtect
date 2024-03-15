@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Texas?",
+  "orig": "The capital of Texas is Austin.",
+  "alt": "The capital of Texas is Austin.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Texas",
+      "is",
+      "Austin."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The second statement is a repetition of the first statement, and both state that the capital of Texas is Austin. However, the introductory text explains that there have been other locations that served as the capital of Texas in the past, which contradicts the idea that Austin has always been the capital."
+}

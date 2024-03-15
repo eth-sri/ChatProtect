@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Way I Am?",
+  "orig": "Dr. Luke, whose real name is Lukasz Sebastian Gottwald, is a well-known music producer and songwriter.",
+  "alt": "Dr. Luke's real name is Lukasz Gottwald.",
+  "prefix": " The producer of \"The Way I Am\" by Avril Lavigne was Dr. Luke.",
+  "triple": [
+    [
+      "real name",
+      "is",
+      "Lukasz Sebastian Gottwald,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Way I Am? are not contradictory. Statement 1 provides additional information about Dr. Luke's profession and reputation, while Statement 2 simply clarifies his real name. Both statements are true and do not contradict each other."
+}

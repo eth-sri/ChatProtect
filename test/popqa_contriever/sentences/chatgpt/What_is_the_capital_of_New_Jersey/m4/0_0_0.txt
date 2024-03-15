@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of New Jersey?",
+  "orig": "The capital of New Jersey is Trenton.",
+  "alt": "The capital of New Jersey is Trenton.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of New Jersey",
+      "is",
+      "Trenton."
+    ],
+    "compactie",
+    582
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are repetitive. Both statements provide the same answer to the prompt \"What is the capital of New Jersey?\" and do not offer any additional information."
+}

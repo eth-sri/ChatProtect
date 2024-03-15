@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kenya?",
+  "orig": "The capital of Kenya is Nairobi.",
+  "alt": "The capital of Kenya is Nairobi.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Kenya",
+      "is",
+      "Nairobi."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. While they both provide the same answer to the prompt, the repetition of the same statement implies that there is no additional information or explanation to support the answer. This leaves room for doubt or confusion about the accuracy of the answer. A non-contradictory response would provide additional information or context to support the answer, such as the history or significance of Nairobi as the capital city of Kenya."
+}

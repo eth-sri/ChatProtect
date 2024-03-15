@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Taxi?",
+  "orig": "Schrader is a well-known screenwriter and director, and \"Taxi\" was one of his early works.",
+  "alt": "Schrader is also known for his work on other films such as \"Raging Bull\" and \"American Gigolo.\"",
+  "prefix": " The screenwriter for the 1978 film \"Taxi\" was Paul Schrader.",
+  "triple": [
+    [
+      "Schrader",
+      "is",
+      "a well-known screenwriter and director,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Taxi\" are not contradictory. The first statement simply provides the answer to the prompt, while the second statement provides additional information about Schrader's career and other notable films he has worked on. Both statements are true and do not conflict with each other."
+}

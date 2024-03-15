@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Silence?",
+  "orig": "The screenwriter for the 2016 film \"Silence\" was Martin Scorsese, who also directed the film.",
+  "alt": "The screenwriter for the 2016 film \"Silence\" was Martin Scorsese.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the 2016 film \"Silence\"",
+      "was",
+      "Martin Scorsese,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Silence are not contradictory. Both statements correctly identify Martin Scorsese as the screenwriter for the film. The only difference is that statement 1 also mentions that Scorsese directed the film, while statement 2 does not."
+}

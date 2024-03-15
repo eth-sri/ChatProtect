@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Ring?",
+  "orig": "The film was directed by Gore Verbinski and starred Naomi Watts, Martin Henderson, and David Dorfman.",
+  "alt": "The film starred Naomi Watts as the protagonist, Rachel Keller.",
+  "prefix": " The producer of the 2002 horror film The Ring was Walter F. Parkes and Laurie MacDonald. They produced the film through their production company, Parkes/MacDonald Productions.",
+  "triple": [
+    [
+      "The film",
+      "starred",
+      "Naomi Watts, Martin Henderson, and David Dorfman."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Ring are not contradictory. The first statement provides the answer to the prompt and identifies Walter F. Parkes and Laurie MacDonald as the producers of the film. The second statement provides additional information about the film, specifically the director and some of the actors involved, but does not contradict the information provided in the first statement."
+}

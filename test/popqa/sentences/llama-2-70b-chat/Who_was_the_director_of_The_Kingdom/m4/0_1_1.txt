@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Kingdom?",
+  "orig": "The Kingdom is a 2007 action thriller film directed by Berg and starring Jamie Foxx, Chris Cooper, and Jennifer Garner.",
+  "alt": "The director of The Kingdom, Peter Berg, also directed a 2007 film titled The Hurt Locker.",
+  "prefix": " The director of The Kingdom is Peter Berg.",
+  "triple": [
+    [
+      "a 2007",
+      "directed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Kingdom? are not contradictory. Statement 1 provides additional information about the film, including its genre and cast, while Statement 2 provides information about another film directed by Peter Berg. Both statements are consistent in identifying Peter Berg as the director of The Kingdom."
+}

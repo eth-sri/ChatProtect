@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Shock Treatment?",
+  "orig": "Adler was a well-known record producer and manager who worked with many successful artists in the 1960s and 1970s.",
+  "alt": "Adler was a music producer and manager who worked with many successful artists.",
+  "prefix": " The producer of Shock Treatment was Lou Adler.",
+  "triple": [
+    [
+      "Adler",
+      "was",
+      "a well-known record producer and manager"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the producer of Shock Treatment are not contradictory. Both statements provide additional information about Lou Adler's career as a music producer and manager, highlighting his success in working with many well-known artists. The only difference is that statement 1 specifies the time period of his success, while statement 2 does not."
+}

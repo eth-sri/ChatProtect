@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Americans?",
+  "orig": "The author of The Americans is Robert Frank.",
+  "alt": "The author of The Americans is Frank O'Hara.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Americans",
+      "is",
+      "Robert Frank."
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Americans? are contradictory. Statement 1 correctly identifies Robert Frank as the author of The Americans, while statement 2 incorrectly identifies Frank O'Hara as the author. Therefore, the two statements cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Free and Easy?",
+  "orig": "It discusses the film \"The Big Easy\" and its director Jim McBride.",
+  "alt": "It does not discuss a film called \"Free and Easy\" or its director.",
+  "prefix": " The article does not mention a film called \"Free and Easy\" or its director.",
+  "triple": [
+    [
+      "It",
+      "discusses",
+      "the film \"The Big Easy\" and its director Jim McBride."
+    ],
+    "compactie",
+    628
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both agree that the article does not mention a film called \"Free and Easy\" or its director. They only differ in that statement 1 provides information about a different film and director that the article does discuss."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Dil?",
+  "orig": "The producer of the movie Dil (1990) was Gulshan Rai.",
+  "alt": "The producer of the movie Dil was SR Prabhakaran.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie Dil",
+      "was",
+      "Gulshan Rai."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Dil? are contradictory. Statement 1 claims that Gulshan Rai was the producer of the movie Dil, while statement 2 claims that SR Prabhakaran was the producer. Since both statements cannot be true at the same time, they contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is Billy Joel's occupation?",
+  "orig": "Billy Joel is a singer-songwriter, composer, and pianist.",
+  "alt": "Billy Joel is a singer-songwriter.",
+  "prefix": "",
+  "triple": [
+    [
+      "Billy Joel",
+      "is",
+      "a singer-songwriter, composer, and pianist."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Billy Joel's occupation are not contradictory. Statement 1 provides a more detailed description of his occupation, including his roles as a composer and pianist, while Statement 2 simply states that he is a singer-songwriter. Both statements are accurate and do not contradict each other."
+}

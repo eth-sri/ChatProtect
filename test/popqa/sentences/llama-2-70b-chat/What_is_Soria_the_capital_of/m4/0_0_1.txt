@@ -1,0 +1,19 @@
+{
+  "target": "What is Soria the capital of?",
+  "orig": "Soria is the capital of the province of Soria, which is located in the autonomous community of Castile and Le\u00f3n, Spain.",
+  "alt": "The capital of the province of Soria is located in the city of Soria.",
+  "prefix": "",
+  "triple": [
+    [
+      "the capital of the province of",
+      "is located",
+      "in the autonomous community of Castile and Le\u00f3n,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about \"What is Soria the capital of?\" are not contradictory. Statement 1 provides the context that Soria is the capital of the province of Soria, which is located in Castile and Le\u00f3n, Spain. Statement 2 simply clarifies that the capital of the province of Soria is located in the city of Soria. Both statements complement each other and provide a complete answer to the prompt."
+}

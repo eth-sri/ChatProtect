@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Romanitas?",
+  "orig": "It was first published in 2003 and is the first book in Harris's Roma Sub Rosa series, which follows the adventures of the Roman lawyer and detective Marcus Tullius Cicero.",
+  "alt": "It is set in Ancient Rome.",
+  "prefix": " Romanitas is a historical novel written by Robert Harris.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "the first book in Harris's"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. However, they are not relevant to the prompt as they provide additional information about the novel Romanitas and its series, rather than answering the question of who the author is."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Last Days?",
+  "orig": "The author of The Last Days is Scott Westerfeld.",
+  "alt": "The author of The Last Days is Raymond Queneau.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Last Days",
+      "is",
+      "Scott Westerfeld."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Last Days? are contradictory. Statement 1 correctly identifies Scott Westerfeld as the author of The Last Days, while Statement 2 incorrectly identifies Raymond Queneau as the author. Therefore, the two statements cannot both be true at the same time."
+}

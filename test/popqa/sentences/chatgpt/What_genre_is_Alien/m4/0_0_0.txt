@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Alien?",
+  "orig": "The genre is science fiction horror.",
+  "alt": "The genre of Alien is science fiction horror.",
+  "prefix": "",
+  "triple": [
+    [
+      "The genre",
+      "is",
+      "science fiction horror."
+    ],
+    "compactie",
+    472
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Alien are not contradictory. Statement 1 provides a concise answer to the prompt, while statement 2 restates the answer in a more complete sentence. Both statements convey the same information and do not contradict each other."
+}

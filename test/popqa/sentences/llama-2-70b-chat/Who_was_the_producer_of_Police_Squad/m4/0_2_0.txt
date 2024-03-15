@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Police Squad!?",
+  "orig": "He was also the co-creator of the show, along with Jim Brooks and Brent Spiner.",
+  "alt": "He was also the co-creator of the show along with David and Jerry Zucker.",
+  "prefix": " The producer of Police Squad! was Jim Abrahams.",
+  "triple": [
+    [
+      "He",
+      "was also",
+      "the co-creator of the show, along with Jim Brooks and Brent Spiner."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Police Squad! are contradictory because statement 1 claims that Jim Abrahams co-created the show with Jim Brooks and Brent Spiner, while statement 2 claims that he co-created it with David and Jerry Zucker. These are two different sets of co-creators, so the statements cannot both be true."
+}

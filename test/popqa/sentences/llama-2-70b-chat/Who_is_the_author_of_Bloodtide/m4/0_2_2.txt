@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Bloodtide?",
+  "orig": "The novel is a dystopian tale set in a post-apocalyptic world where a group of teenagers must fight for survival against a world overrun by vampires.",
+  "alt": "The group of teenagers must fight to survive in a world overrun by vampires.",
+  "prefix": " The author of Bloodtide is Melvin Burgess. Bloodtide is a young adult novel written by Burgess and was first published in 1996.",
+  "triple": [
+    [
+      "a group of teenagers",
+      "must fight overrun",
+      "by vampires."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Bloodtide are not contradictory. The first statement provides the name of the author and the fact that Bloodtide is a young adult novel written by Melvin Burgess and published in 1996. The second statement provides a brief summary of the plot of the novel, which is not contradictory to the information provided in the first statement."
+}

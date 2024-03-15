@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Revenge?",
+  "orig": "She is a French filmmaker and screenwriter, and \"Revenge\" is her feature directorial debut.",
+  "alt": "a French filmmaker and screenwriter, is Coralie Fargeat.",
+  "prefix": " The director of the movie \"Revenge\" is Coralie Fargeat.",
+  "triple": [
+    [
+      "a French filmmaker and screenwriter,",
+      "is",
+      "her feature directorial debut."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Revenge? are not contradictory. Both statements provide additional information about Coralie Fargeat, the director of the movie \"Revenge\". Statement 1 mentions that \"Revenge\" is her feature directorial debut, while Statement 2 simply repeats that she is a French filmmaker and screenwriter."
+}

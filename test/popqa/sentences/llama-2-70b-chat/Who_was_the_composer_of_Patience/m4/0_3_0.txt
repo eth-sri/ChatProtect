@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Patience?",
+  "orig": "The opera was first performed in 1881 at the Opera Comique in London.",
+  "alt": "The opera was first performed at the Opera Comique in London in 1881.",
+  "prefix": " The composer of the opera \"Patience\" is Sir Arthur Sullivan. The librettist was W.S. Gilbert.",
+  "triple": [
+    [
+      "The opera",
+      "was first performed",
+      "in 1881 at the Opera Comique in London."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both provide additional information about the opera \"Patience\" and its first performance at the Opera Comique in London in 1881. The first statement identifies the composer and librettist, while the second statement specifies the location and year of the first performance. Together, they provide a more complete answer to the prompt."
+}

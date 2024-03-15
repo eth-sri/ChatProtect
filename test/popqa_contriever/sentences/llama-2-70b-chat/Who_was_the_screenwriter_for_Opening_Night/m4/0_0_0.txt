@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Opening Night?",
+  "orig": "John Cassavetes wrote and directed Opening Night.",
+  "alt": "John Cassavetes wrote and directed Opening Night.",
+  "prefix": "",
+  "triple": [
+    [
+      "John Cassavetes",
+      "wrote directed",
+      "Opening Night."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are identical. The prompt is answered correctly with the first statement, but the second statement is redundant and does not add any new information."
+}

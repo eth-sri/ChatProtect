@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Violin Concerto?",
+  "orig": "There are many violin concertos composed by different composers.",
+  "alt": "Many violin concertos were composed by various composers throughout history.",
+  "prefix": "",
+  "triple": [
+    [
+      "many violin concertos",
+      "composed",
+      "by different composers."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both acknowledge the fact that there are multiple composers who have composed violin concertos throughout history. While the prompt specifically asks for the composer of a particular violin concerto, the statements provide a broader context that highlights the diversity and richness of the violin concerto repertoire."
+}

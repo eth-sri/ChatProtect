@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Pattimura Stadium",
+  "orig": "The stadium has a seating capacity of 20,000 and is primarily used for football matches.",
+  "alt": "The stadium has a seating capacity of 25,000 and is primarily used for football matches.",
+  "prefix": " Pattimura Stadium is a multi-purpose stadium located in Ambon, the capital city of Maluku Province in Indonesia.",
+  "triple": [
+    [
+      "a seating capacity of",
+      "is primarily",
+      "for football matches."
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Pattimura Stadium are contradictory. Statement 1 says that the stadium has a seating capacity of 20,000, while statement 2 says that it has a seating capacity of 25,000. These two statements cannot both be true at the same time."
+}

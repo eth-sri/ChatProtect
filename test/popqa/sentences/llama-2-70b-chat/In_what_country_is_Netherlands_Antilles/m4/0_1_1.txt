@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Netherlands Antilles?",
+  "orig": "It is located in the Caribbean Sea and consists of two island groups: the ABC islands (Aruba, Bonaire, and Cura\u00e7ao) and the SSS islands (Sint Eustatius, Sint Maarten, and Saba).",
+  "alt": "It consists of five islands: Cura\u00e7ao, Sint Maarten, Saba, Sint Eustatius, and Bonaire.",
+  "prefix": " Netherlands Antilles is a constituent country of the Kingdom of the Netherlands.",
+  "triple": [
+    [
+      "It",
+      "consists",
+      "of two island groups:"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the location and composition of Netherlands Antilles are not contradictory. Statement 1 provides information about the two island groups that make up the country, while Statement 2 lists the five individual islands that are part of Netherlands Antilles. Both statements are accurate and complement each other in describing the geography of the country."
+}

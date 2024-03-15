@@ -1,0 +1,794 @@
+[
+  {
+    "id": 18444,
+    "text": "The article does not mention where William Perry Hay was born.\n---;;;\nWilliam Perry Hay was born in New York City.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_city_was_William_Perry_Hay_born\/m4\/0_0_1.txt",
+    "target": "In what city was William Perry Hay born?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18445,
+    "text": "There is no definitive answer as Füzérradvány is a small village located in several countries of Central Europe including Hungary, Slovakia, and Poland.\n---;;;\nFüzérradvány is a village located in the foothills of the Carpathian Mountains in Hungary.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_country_is_Fzrradvny\/m4\/0_0_0.txt",
+    "target": "In what country is Füzérradvány?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18446,
+    "text": "There is no definitive answer as Füzérradvány is a small village located in several countries of Central Europe including Hungary, Slovakia, and Poland.\n---;;;\nFüzérradvány is a small village located in the foothills of the Carpathian Mountains in Hungary.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_country_is_Fzrradvny\/m4\/0_0_1.txt",
+    "target": "In what country is Füzérradvány?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18447,
+    "text": "Khiva District is not a recognized district or administrative division in any known country.\n---;;;\nKhiva District is not located in a country, but rather in the Republic of Dagestan, which is a federal subject of Russia.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_country_is_Khiva_District\/m4\/0_0_0.txt",
+    "target": "In what country is Khiva District?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18448,
+    "text": "I'm sorry, but there is no information provided in the given text to determine in which country Laxmipur, Mahakali is located.\n---;;;\nLaxmipur, Mahakali is located in Nepal.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_country_is_Laxmipur_Mahakali\/m4\/0_0_0.txt",
+    "target": "In what country is Laxmipur, Mahakali?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18449,
+    "text": "It is not specified what genre \"Mars\" belongs to.\n---;;;\nThe genre \"Mars\" belongs to electronica.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/What_genre_is_Mars\/m4\/0_0_0.txt",
+    "target": "What genre is Mars?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18450,
+    "text": "Basse-Kotto Prefecture is located in the Central African Republic, not Togo.\n---;;;\nBasse-Kotto Prefecture is located in the southern part of the Central African Republic.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/What_is_the_capital_of_BasseKotto_Prefecture\/m4\/0_0_0.txt",
+    "target": "What is the capital of Basse-Kotto Prefecture?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18451,
+    "text": "Its capital is Mobaye.\n---;;;\nIts capital is Kembé.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/What_is_the_capital_of_BasseKotto_Prefecture\/m4\/0_1_0.txt",
+    "target": "What is the capital of Basse-Kotto Prefecture?",
+    "prefix": " Basse-Kotto Prefecture is located in the Central African Republic, not Togo.",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18452,
+    "text": "The administrative center and capital of Srednekansky District is an urban-type settlement called Srednekansk.\n---;;;\nSrednekansky District does not have a capital as it is an administrative district and not a city or municipality.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/What_is_the_capital_of_Srednekansky_District\/m4\/0_0_1.txt",
+    "target": "What is the capital of Srednekansky District?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18453,
+    "text": "However, the stadium was demolished in 2006 and has since been replaced with a public park and residential development.\n---;;;\nThe stadium has been demolished and replaced with a residential development.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/What_sport_does_Carlaw_Park_play\/m4\/0_1_2.txt",
+    "target": "What sport does Carlaw Park play?",
+    "prefix": " Carlaw Park was originally built as a rugby league stadium in Auckland, New Zealand.",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18454,
+    "text": "The author of Coji-Coji is Kenji Sonishi.\n---;;;\nThe author of Coji-Coji is Momoko Sakura, a Japanese manga artist and writer.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_CojiCoji\/m4\/0_0_0.txt",
+    "target": "Who is the author of Coji-Coji?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18455,
+    "text": "The author of \"Do The Work\" is Steven Pressfield.\n---;;;\nThe prompt is incorrect. \"Do The Work\" is a book by Steven Pressfield, not Mark Forster.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_Do_The_Work\/m4\/0_0_0.txt",
+    "target": "Who is the author of Do The Work?",
+    "prefix": "",
+    "label": [
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18456,
+    "text": "The text does not mention a book titled \"Down the River.\"\n---;;;\nThe text does not mention a book titled \"Down the River\" or an author by that name.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_Down_the_River\/m4\/0_0_0.txt",
+    "target": "Who is the author of Down the River?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18457,
+    "text": "The passage does not provide information on who the author of \"New Keywords\" is.\n---;;;\nThe author of \"New Keywords\" is HP Newquist.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_New_Keywords\/m4\/0_0_1.txt",
+    "target": "Who is the author of New Keywords?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18458,
+    "text": "The author of \"O dia das calças roladas\" is Roberto Athayde.\n---;;;\nThe author of \"O dia das calças roladas\" is Luís Fernando Veríssimo.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_O_dia_das_calas_roladas\/m4\/0_0_0.txt",
+    "target": "Who is the author of O dia das calças roladas?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18459,
+    "text": "The author of Rivals for Greatness is Geoffrey Bell.\n---;;;\nThe author of Rivals for Greatness is Simon Ball.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_Rivals\/m4\/0_0_0.txt",
+    "target": "Who is the author of Rivals?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18460,
+    "text": "The author of The Great World and the Small: More Tales of the Ominous and Magical is Manly Wade Wellman.\n---;;;\nThe author of The Great World and the Small: More Tales of the Ominous and Magical is John Crowley.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_The_Great_World_and_the_Small_More_Tales_of_the_Ominous_and_Magical\/m4\/0_0_0.txt",
+    "target": "Who is the author of The Great World and the Small: More Tales of the Ominous and Magical?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18461,
+    "text": "The composer of Celebration is not mentioned in the given passage.\n---;;;\nThe composer of Celebration is mentioned in the prompt and is John Corigliano.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_composer_of_Celebration\/m4\/0_0_0.txt",
+    "target": "Who was the composer of Celebration?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18462,
+    "text": "The director of \"After the Show\" is not mentioned in the provided information.\n---;;;\nI'm sorry, I cannot generate a sentence to fill the gap as the director of \"After the Show\" is already mentioned in the text as Gerald Nachman.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_After_the_Show\/m4\/0_0_0.txt",
+    "target": "Who was the director of After the Show?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18463,
+    "text": "The director of Champions is Javier Gutiérrez.\n---;;;\nThe sentence to fill the gap is: \"The director of Champions is Judd Brannon.\"",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_Champions\/m4\/0_0_0.txt",
+    "target": "Who was the director of Champions?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18464,
+    "text": "It is not specified who the director of \"Five Deep Breaths\" is.\n---;;;\nThe director of \"Five Deep Breaths\" is Seith Mann.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_Deep_Breath\/m4\/0_0_0.txt",
+    "target": "Who was the director of Deep Breath?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18465,
+    "text": "Unfortunately, we could not find any information about a film called \"El Último perro\" or its director.\n---;;;\nWe could not find a director named \"El Último perro\".",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_El_ltimo_perro\/m4\/0_0_0.txt",
+    "target": "Who was the director of El Último perro?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18466,
+    "text": "If the question pertains to the musical \"Happy End\" based on the songs of Kurt Weill and Bertolt Brecht, the original Broadway production was directed by Wilford Leach.\n---;;;\nThe original Broadway production of \"Happy End\" was directed by Robert Kalfin and Patricia Birch.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_Happy_End\/m4\/0_1_2.txt",
+    "target": "Who was the director of Happy End?",
+    "prefix": " The question is unclear.",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18467,
+    "text": "The director of Love Story was not mentioned in the provided information.\n---;;;\nThe director of Love Story was mentioned in the preceding answer.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_Love_Story\/m4\/0_0_0.txt",
+    "target": "Who was the director of Love Story?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18468,
+    "text": "The director of Mute remains unspecified in the given text.\n---;;;\nThe director of Mute remains Duncan Jones.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_Mute\/m4\/0_0_0.txt",
+    "target": "Who was the director of Mute?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18469,
+    "text": "Sarah Mullally was the Director of Nursing until 2004.\n---;;;\nI'm sorry, but the prompt is unclear. Could you please provide more context or clarify the question?",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_Nurse\/m4\/0_0_0.txt",
+    "target": "Who was the director of Nurse?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18470,
+    "text": "The director of The Message is not mentioned in the given text.\n---;;;\nI'm sorry, but there seems to be a misunderstanding. The prompt mentions \"Messages\" (not \"The Message\"), and the answer to the prompt is: The director of \"Messages\" is David Fairman.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_The_Message\/m4\/0_0_0.txt",
+    "target": "Who was the director of The Message?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18471,
+    "text": "The director of Those We Love is Arthur Higgins.\n---;;;\nThe director of Those We Love is Robert J. McDonagh.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_Those_We_Love\/m4\/0_0_0.txt",
+    "target": "Who was the director of Those We Love?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18472,
+    "text": "The producer of Captive is Jerry Jameson.\n---;;;\nThe producer of Captive is Terry Botwick.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Captive\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Captive?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18473,
+    "text": "The producer of Cops and Robbers is----\nKenneth Utt.\n---;;;\nThe producer of Cops and Robbers is Elliott Kastner.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Cops_and_Robbers\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Cops and Robbers?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18474,
+    "text": "The producer of Blondie's Eat to the Beat was Mike Chapman.\n---;;;\nThe producer of Blondie's Eat to the Beat was Mike Mansfield.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Eat\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Eat?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18475,
+    "text": "The producer of Grand Slam was Alberto Grimaldi.\n---;;;\nThe producer of Grand Slam was Dino De Laurentiis.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Grand_Slam\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Grand Slam?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18476,
+    "text": "The producer of Le Grand Soir is Christophe Valette.\n---;;;\nThe producer of Le Grand Soir is Michel Saint-Jean.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Le_grand_soir\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Le grand soir?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18477,
+    "text": "The producer of Long Pants was Worldwide Pants, which is owned by David Letterman.\n---;;;\nI'm sorry, but \"Long Pants\" is not a known TV show or movie. Could you please provide a different prompt?",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Long_Pants\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Long Pants?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18478,
+    "text": "The producer of The Debt was Kris Thykier.\n---;;;\nThe producer of The Debt was Eduardo Rossoff.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_The_Debt\/m4\/0_0_0.txt",
+    "target": "Who was the producer of The Debt?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18479,
+    "text": "Sorry, there is no movie titled \"A Busy Day.\"\n---;;;\nI'm sorry, I cannot generate a sentence for this prompt as there is no movie titled \"A Busy Day\". The information provided in the previous text does not match the prompt.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_A_Busy_Day\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for A Busy Day?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18480,
+    "text": "It is not stated in the given information who the screenwriter for \"Barefoot in Athens\" was.\n---;;;\nThe screenwriter for \"Barefoot in Athens\" was Samuel A. Peeples.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Barefoot_in_Athens\/m4\/0_0_1.txt",
+    "target": "Who was the screenwriter for Barefoot in Athens?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18481,
+    "text": "The screenwriter for Far East was Everett De Roche.\n---;;;\nThe screenwriter for Far East was John Duigan, who also directed the film.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Far_East\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for Far East?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18482,
+    "text": "The screenwriter for Home was Fien Troch.\n---;;;\nThe screenwriter for Home was Ursula Meier.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Home\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for Home?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18483,
+    "text": "The screenwriter for Istanbul Tales is Ömer Kavur.\n---;;;\nThe screenwriter for Istanbul Tales is Ümit Ünal.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Istanbul_Tales\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for Istanbul Tales?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18484,
+    "text": "The screenwriter for The Balcony was Joseph Strick, who also directed the film.\n---;;;\nJoseph Strick also directed the film adaptation of James Joyce's \"Ulysses\" in 1967.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_The_Balcony\/m4\/0_0_1.txt",
+    "target": "Who was the screenwriter for The Balcony?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18485,
+    "text": "The screenwriter for The Dove was Jack Couffer.\n---;;;\nThe screenwriter for The Dove was Robin Lee Graham, the author of the book on which the film was based.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_The_Dove\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for The Dove?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18486,
+    "text": "The actual screenwriters for \"Medium\" were Glenn Gordon Caron, Diane Ademu-John, and Moira Kirland.\n---;;;\nThe actual screenwriters for \"Medium\" were Glenn Gordon Caron and Diane Ademu-John.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_The_Medium\/m4\/0_1_0.txt",
+    "target": "Who was the screenwriter for The Medium?",
+    "prefix": " Rod Serling was not the screenwriter for \"Medium\" but he was digitally resurrected for an episode of the TV series \"Medium\" that aired on November 21, 2005.",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18487,
+    "text": "The screenwriter for \"We Are Both\" is Jane Espenson.\n---;;;\nThe screenwriter for \"We Are Both\" is unknown as there is no record of a movie or TV show with that title.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_We_Are_Both\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for We Are Both?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18488,
+    "text": "The screenwriter for \"We Are Both\" is Jane Espenson.\n---;;;\nThe prompt is incomplete and does not provide enough information to determine what \"We Are Both\" refers to. Please provide more context or a complete prompt.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_We_Are_Both\/m4\/0_0_1.txt",
+    "target": "Who was the screenwriter for We Are Both?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18489,
+    "text": "demo\n---;;;demo",
+    "fn": "demo",
+    "target": "demo",
+    "prefix": "demo",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18742,
+    "text": "There is no such place as Borysławice.\n---;;;\nThere is no country called Borysławice. However, Borysław is a city in western Ukraine, located in the Lviv Oblast.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_country_is_Borysawice\/m4\/0_0_0.txt",
+    "target": "In what country is Borysławice?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18743,
+    "text": "However, there is a town called Borysław in western Ukraine.\n---;;;\nThere is a town called Borysław in Ukraine.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_country_is_Borysawice\/m4\/0_1_0.txt",
+    "target": "In what country is Borysławice?",
+    "prefix": " There is no such place as Borysławice.",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18744,
+    "text": "The article is about Rajiv Gandhi Institute of Technology, Kottayam, which is located in India.\n---;;;\nI'm sorry, there is no article to be completed as there is no such institution as Kottayam Institute of Technology & Science.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_country_is_Kottayam_Institute_of_Technology__Science\/m4\/0_1_0.txt",
+    "target": "In what country is Kottayam Institute of Technology & Science?",
+    "prefix": " I'm sorry, there is no Kottayam Institute of Technology & Science.",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18745,
+    "text": "There are two places named Landresse in France - one is in the region of Bourgogne-Franche-Comté and the other is in the region of Auvergne-Rhône-Alpes.\n---;;;\nThere are two places named Landresse, one in France and one in Belgium.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/In_what_country_is_Landresse\/m4\/0_0_0.txt",
+    "target": "In what country is Landresse?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18746,
+    "text": "Taxi is a video game, not a movie or a book, so it doesn't have a traditional genre classification.\n---;;;\nTaxi is a video game that belongs to the racing genre.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/What_genre_is_Taxi\/m4\/0_0_0.txt",
+    "target": "What genre is Taxi?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18747,
+    "text": "The FIBT World Championships 1939 played the sport of bobsleigh and tobogganing.\n---;;;\nThe FIBT World Championships 1939 played the sport of bobsleigh.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/What_sport_does_FIBT_World_Championships_1939_play\/m4\/0_0_0.txt",
+    "target": "What sport does FIBT World Championships 1939 play?",
+    "prefix": "",
+    "label": ["strong"],
+    "Comments": []
+  },
+  {
+    "id": 18748,
+    "text": "The mentioned author in the passage is Walter Mosley.\n---;;;\nThe mentioned author in the given text is Walter Mosley.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_Color\/m4\/0_1_0.txt",
+    "target": "Who is the author of Color?",
+    "prefix": " The author of \"The Color Purple\" is Alice Walker.",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18749,
+    "text": "The author of Kin is John Saunders Bryant.\n---;;;\nThe author of Kin is Holly Black.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_Kin\/m4\/0_0_0.txt",
+    "target": "Who is the author of Kin?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18750,
+    "text": "The author of \"The River\" is Carl Carmer.\n---;;;\nThe author of \"The River\" is not specified in the given text.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_is_the_author_of_The_River\/m4\/0_0_0.txt",
+    "target": "Who is the author of The River?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18751,
+    "text": "It is not specified who the composer of the title track \"Something Wonderful\" is, but the album was arranged by Billy May.\n---;;;\nThe composer of the title track \"Something Wonderful\" is Richard Rodgers.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_composer_of_Something_Wonderful\/m4\/0_0_0.txt",
+    "target": "Who was the composer of Something Wonderful?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18752,
+    "text": "The composer of \"The Bells\" is not specified in the given text.\n---;;;\nThe composer of \"The Bells\" is Sergei Rachmaninoff.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_composer_of_The_Bells\/m4\/0_0_0.txt",
+    "target": "Who was the composer of The Bells?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18753,
+    "text": "The music for This Is the Sea was composed by Mike Scott, lead singer of The Waterboys, and Brian Kennedy.\n---;;;\nThe Sea was not composed by a single composer, but rather features seven different songs by the folk-rock band The Waterboys.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_composer_of_This_Is_the_Sea\/m4\/0_0_1.txt",
+    "target": "Who was the composer of This Is the Sea?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18754,
+    "text": "The director of Sagar Sangamey is Tatineni Prakash Rao.\n---;;;\nThe director of Sagar Sangamey is Tinkari Chakraborty.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_director_of_Sagar_Sangamey\/m4\/0_0_0.txt",
+    "target": "Who was the director of Sagar Sangamey?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18755,
+    "text": "Russ Meyer was the producer of Black Snake.\n---;;;\nRuss Meyer was the director of Black Snake.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Black_Snake\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Black Snake?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18756,
+    "text": "The producer of the film \"Champion\" is Jai Khanna.\n---;;;\nThe producer of the film \"Champion\" is Judd Payne.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Champion\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Champion?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18757,
+    "text": "Jean-Claude Van Damme produced and starred in the film Dual.\n---;;;\nJean-Claude Van Damme produced and starred in the film \"Double Impact\".",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Dual\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Dual?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18758,
+    "text": "The producer of Images was Tommy Thompson.\n---;;;\nThe producer of Images was Robert Altman himself.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Images\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Images?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18759,
+    "text": "The producers of Revenge were Ray Stark and Steven Reuther.\n---;;;\nThe producers of Revenge were Ray Stark and Steve Tisch.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_Revenge\/m4\/0_0_0.txt",
+    "target": "Who was the producer of Revenge?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18760,
+    "text": "The producer of The Shore was Terry Greenlaw.\n---;;;\nThe producer of The Shore was a team consisting of Robert Wieland and John Steed.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_The_Shore\/m4\/0_0_0.txt",
+    "target": "Who was the producer of The Shore?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18761,
+    "text": "However, the film was produced by Merlin Films, and the producers were Kieran Corrigan and Redmond Morris.\n---;;;\nThe producers of The Tiger's Tail were Kieran Corrigan and Neil Jordan.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_producer_of_The_Tigers_Tail\/m4\/0_1_1.txt",
+    "target": "Who was the producer of The Tiger's Tail?",
+    "prefix": " The director of The Tiger's Tail is John Boorman, not the producer.",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18762,
+    "text": "The article does not mention who the screenwriter for Eddie Presley is.\n---;;;\nThe screenwriter for Eddie Presley is Jeff Burr.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Eddie_Presley\/m4\/0_0_1.txt",
+    "target": "Who was the screenwriter for Eddie Presley?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18763,
+    "text": "The screenwriter for Flood is Don Ingalls.\n---;;;\nThe screenwriter for Flood is Steven Thornley.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Flood\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for Flood?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18764,
+    "text": "The screenwriter for Gente di Roma was Cesare Zavattini.\n---;;;\nThe screenwriter for Gente di Roma was Sergio Amidei.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Gente_di_Roma\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for Gente di Roma?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18765,
+    "text": "James Toback was the screenwriter for Seduced and Abandoned.\n---;;;\nJames Toback was the director of Seduced and Abandoned.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Seduced_and_Abandoned\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for Seduced and Abandoned?",
+    "prefix": "",
+    "label": [],
+    "Comments": []
+  },
+  {
+    "id": 18766,
+    "text": "The screenwriter for Ten Seconds to Hell was Teddi Sherman.\n---;;;\nThe screenwriter for Ten Seconds to Hell was Robert Aldrich himself, who also directed the film.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Ten_Seconds_to_Hell\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for Ten Seconds to Hell?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18767,
+    "text": "There were actually two screenwriters credited for \"The Journey\" (1959), Nedrick Young and Robert E. Sherwood.\n---;;;\nThere were actually two screenwriters for the movie \"The Journey\": George Tabori and Harold Medford.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_The_Journey\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for The Journey?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18768,
+    "text": "There were actually two screenwriters credited for \"The Journey\" (1959), Nedrick Young and Robert E. Sherwood.\n---;;;\nTwo screenwriters, John Monks Jr. and Joseph L. Mankiewicz, were credited for writing the screenplay for \"The Journey\".",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_The_Journey\/m4\/0_0_1.txt",
+    "target": "Who was the screenwriter for The Journey?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18769,
+    "text": "The screenplay for Underneath was written by Sam Lowry.\n---;;;\nThe screenplay for Underneath was written by Steven Soderbergh.",
+    "fn": "test\/popqa_contriever\/sentences\/chatgpt\/Who_was_the_screenwriter_for_Underneath\/m4\/0_0_0.txt",
+    "target": "Who was the screenwriter for Underneath?",
+    "prefix": "",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  },
+  {
+    "id": 18770,
+    "text": "demo\n---;;;demo",
+    "fn": "demo",
+    "target": "demo",
+    "prefix": "demo",
+    "label": [
+      "strong"
+    ],
+    "Comments": []
+  }
+]

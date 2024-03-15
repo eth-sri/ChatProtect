@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of One on One?",
+  "orig": "One on One is a novel written by Michael Korfmacher.",
+  "alt": "One on One is a book written by Michael Oher.",
+  "prefix": "",
+  "triple": [
+    [
+      "One on One",
+      "is",
+      "a novel written by Michael Korfmacher."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of One on One? are contradictory. \n\nStatement 1 claims that the author of One on One is Michael Korfmacher, while Statement 2 claims that the author is Michael Oher. These are two different names, and therefore cannot both be correct. It is possible that one of the statements is correct and the other is incorrect, or that both statements are incorrect and the true author of One on One is someone else entirely."
+}

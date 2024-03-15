@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Ten?",
+  "orig": "The screenwriter for the film \"Ten\" was actually the author, Thomas Berger, himself.",
+  "alt": "The screenwriter for the film \"Ten\" was actually Donald Heiney.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the film \"Ten\"",
+      "was actually",
+      "the author,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Ten? are contradictory. Statement 1 claims that Thomas Berger, the author of the novel \"Ten\", was also the screenwriter for the film adaptation. However, statement 2 claims that Donald Heiney was the screenwriter for the film \"Ten\". These two statements cannot both be true at the same time."
+}

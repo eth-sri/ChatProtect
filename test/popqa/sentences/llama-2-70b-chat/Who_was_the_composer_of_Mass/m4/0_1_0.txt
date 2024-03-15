@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Mass?",
+  "orig": "Mass is a theatre piece for singers, players, and dancers that was composed by Bernstein in 1971.",
+  "alt": "Mass is a musical composition.",
+  "prefix": " The composer of Mass is Leonard Bernstein.",
+  "triple": [
+    [
+      "Mass",
+      "is",
+      "a theatre piece for singers, players, and dancers"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Mass? are not contradictory. Statement 1 provides additional information about Mass, specifying that it is a theatre piece composed by Bernstein in 1971. Statement 2 simply clarifies that Mass is a musical composition, which is consistent with the fact that Bernstein was the composer of it. Therefore, both statements complement each other and do not contradict each other."
+}

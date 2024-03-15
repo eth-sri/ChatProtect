@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Wendy?",
+  "orig": "Wendy is a character from the Peter Pan stories, which are typically classified as children's literature or fantasy.",
+  "alt": "Pan stories are fantasy stories.",
+  "prefix": "",
+  "triple": [
+    [
+      "Pan stories,",
+      "are",
+      "typically"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Wendy?\" are not contradictory. The first statement establishes that Wendy is a character from the Peter Pan stories, which are typically classified as children's literature or fantasy. The second statement further clarifies that the Peter Pan stories are fantasy stories. Therefore, both statements support the idea that Wendy belongs to the fantasy genre."
+}

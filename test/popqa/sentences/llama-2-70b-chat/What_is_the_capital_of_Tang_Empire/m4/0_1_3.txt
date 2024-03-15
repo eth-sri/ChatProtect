@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Tang Empire?",
+  "orig": "One was Chang'an (Mathusalem) in modern-day Xi'an, which is located in the Shaanxi province of China, and the other was Luoyang (Aleptic Cop Antiquitus), which is located in Henan, China.",
+  "alt": "Luoyang is located in the Henan province of China.",
+  "prefix": " The Tang Empire Father had two capitals.",
+  "triple": [
+    [
+      "Luoyang",
+      "is located",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Tang Empire are not contradictory. The text states that the Tang Empire had two capitals, and statement 1 provides the names and locations of both capitals, while statement 2 specifies the location of one of the capitals, Luoyang. Therefore, the statements are complementary and provide additional information about the Tang Empire's capitals."
+}

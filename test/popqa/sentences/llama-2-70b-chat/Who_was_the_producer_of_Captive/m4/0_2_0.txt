@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Captive?",
+  "orig": "The film was directed by Jerry Jameson and written by Brian Bird.",
+  "alt": "The film was directed by Jerry Jameson.",
+  "prefix": " The producer of the film \"Captive\" (2015) was David Oyelowo. He also starred in the film as Brian Nichols.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by Jerry Jameson"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Captive are not contradictory. While statement 1 provides additional information about the director and writer of the film, it does not contradict the initial statement that David Oyelowo was the producer. Statement 2 simply confirms that Jerry Jameson was the director of the film, but does not contradict the fact that David Oyelowo was the producer."
+}

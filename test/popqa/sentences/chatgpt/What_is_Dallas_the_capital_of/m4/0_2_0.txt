@@ -1,0 +1,19 @@
+{
+  "target": "What is Dallas the capital of?",
+  "orig": "The capital of Texas is Austin, located about 200 miles south of Dallas.",
+  "alt": "The capital of Texas is Austin.",
+  "prefix": " Dallas is not a capital city. It is a city located in the state of Texas in the United States.",
+  "triple": [
+    [
+      "The capital of Texas",
+      "is",
+      "Austin,"
+    ],
+    "compactie",
+    490
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. While Dallas is not a capital city, statement 1 clarifies that the capital of Texas is actually Austin, which is located south of Dallas. Statement 2 simply reiterates that Austin is the capital of Texas without mentioning Dallas."
+}

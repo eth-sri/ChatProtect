@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Treasure Island?",
+  "orig": "The producer of the 1950 Disney film Treasure Island was Walt Disney Productions, which was the production company founded by Walt Disney and his brother Roy Disney in 1939.",
+  "alt": "The production company was founded by Walt Disney.",
+  "prefix": "",
+  "triple": [
+    [
+      "the production company",
+      "founded",
+      "by Walt Disney and his brother Roy Disney in 1939."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Treasure Island are not contradictory. Statement 1 provides the full name of the production company, which was Walt Disney Productions, and also mentions that it was founded by Walt Disney and his brother Roy Disney. Statement 2 simply reiterates that the production company was founded by Walt Disney. Both statements are consistent with each other and provide additional information about the production company behind the film."
+}

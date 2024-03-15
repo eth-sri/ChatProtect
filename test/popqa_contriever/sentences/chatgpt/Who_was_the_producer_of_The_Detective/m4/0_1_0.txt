@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Detective?",
+  "orig": "If we consider the first work mentioned, then David S. Cass Sr. was the director of the 2005 film.",
+  "alt": "David S. Cass Sr. was the director of the 2005 film adaptation of \"Detective\" by Arthur Hailey.",
+  "prefix": " There are two works mentioned in the passage the could be referred to as \"The Detective.\"",
+  "triple": [
+    [
+      "David S. Cass Sr.",
+      "was",
+      "the director of the 2005 film."
+    ],
+    "compactie",
+    661
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt specifically asks for the producer of \"The Detective,\" the text mentions two works that could be referred to as such - the 2005 film and the novel by Arthur Hailey. Both statements provide information about the director of the 2005 film adaptation of the novel, which is one of the works that could be referred to as \"The Detective.\" Therefore, the statements are not contradictory."
+}

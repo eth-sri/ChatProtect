@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Suspect?",
+  "orig": "The director of The Suspect is Stuart Orme.",
+  "alt": "The director of The Suspect is Robert Siodmak.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of The Suspect",
+      "is",
+      "Stuart Orme."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Suspect? are contradictory because they provide different names for the director of the film. Statement 1 claims that Stuart Orme directed the film, while Statement 2 claims that Robert Siodmak directed it. Since both statements cannot be true at the same time, they contradict each other."
+}

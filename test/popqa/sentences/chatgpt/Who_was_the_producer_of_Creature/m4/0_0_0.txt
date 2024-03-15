@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Creature?",
+  "orig": "The producer of the film Creature is Sidharth Jain.",
+  "alt": "The producer of the film Creature is Sid Sheinberg.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the film Creature",
+      "is",
+      "Sidharth Jain."
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Creature? are contradictory. Statement 1 claims that the producer of the film Creature is Sidharth Jain, while Statement 2 claims that the producer of the film Creature is Sid Sheinberg. These are two different names, and therefore, the statements cannot both be true."
+}

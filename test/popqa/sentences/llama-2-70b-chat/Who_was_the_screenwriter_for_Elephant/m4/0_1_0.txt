@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Elephant?",
+  "orig": "He also directed the film.",
+  "alt": "He also directed the film Good Will Hunting.",
+  "prefix": " The screenwriter for the film Elephant (2003) was Gus Van Sant.",
+  "triple": [
+    [
+      "He",
+      "also directed",
+      "the film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Elephant are not contradictory. While the first statement identifies Gus Van Sant as the screenwriter for Elephant, the second statement adds that he also directed the film Good Will Hunting. These two statements provide additional information about Gus Van Sant's involvement in the film industry, but they do not contradict each other."
+}

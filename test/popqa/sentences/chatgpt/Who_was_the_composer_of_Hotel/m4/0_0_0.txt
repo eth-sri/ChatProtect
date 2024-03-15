@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Hotel?",
+  "orig": "The composer of \"Hotel\" is Chris Stapleton.",
+  "alt": "The composer of \"Hotel\" is Argentine musician and composer Astor Piazzolla.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Hotel\"",
+      "is",
+      "Chris Stapleton."
+    ],
+    "compactie",
+    486
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Hotel? are contradictory because they provide different answers to the same question. Statement 1 claims that Chris Stapleton is the composer of \"Hotel,\" while Statement 2 claims that Astor Piazzolla is the composer. Since they cannot both be true, the statements contradict each other."
+}

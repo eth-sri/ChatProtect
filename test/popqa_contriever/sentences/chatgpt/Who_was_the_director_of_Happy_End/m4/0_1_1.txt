@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Happy End?",
+  "orig": "If the question pertains to the musical \"Happy End\" based on the songs of Kurt Weill and Bertolt Brecht, the original Broadway production was directed by Wilford Leach.",
+  "alt": "Please provide a clear question for me to generate an answer.",
+  "prefix": " The question is unclear.",
+  "triple": [
+    [
+      "the question",
+      "based",
+      "on the songs of Kurt Weill and Bertolt Brecht, the original Broadway production"
+    ],
+    "compactie",
+    620
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides an answer to a specific interpretation of the question, while Statement 2 requests clarification for a more general question."
+}

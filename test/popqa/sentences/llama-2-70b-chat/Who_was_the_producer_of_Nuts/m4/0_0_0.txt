@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Nuts?",
+  "orig": "The producer of the 1987 film \"Nuts\" was David V. Picker.",
+  "alt": "The producer of the 1987 film \"Nuts\" was Martin Ransohoff.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 1987 film \"Nuts\"",
+      "was",
+      "David V. Picker."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Nuts\" are contradictory because they provide different names for the producer. Statement 1 claims that David V. Picker was the producer, while statement 2 claims that Martin Ransohoff was the producer. Since they cannot both be true, the statements contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "Therefore, the company is not limited to operating in one country but has operations in multiple countries.",
+  "alt": "The company has oil reserves of around 10 billion barrels.",
+  "prefix": " According to the information provided, Korea National Oil Corporation (KNOC) operates in several countries including Vietnam, Libya, Peru, Indonesia, Nigeria, Yemen, Kazakhstan, Russia, Canada, and South Korea.",
+  "triple": [
+    [
+      "the company",
+      "has",
+      "operations in multiple countries."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement explains that KNOC operates in multiple countries, including South Korea, while the second statement provides information about the company's oil reserves. Both statements are related to KNOC but address different aspects of the company's operations."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Halloween?",
+  "orig": "The screenwriter for Halloween was Debra Hill and John Carpenter, who co-wrote the screenplay.",
+  "alt": "Debra Hill and John Carpenter co-wrote the screenplay for Halloween.",
+  "prefix": " The screenwriter for Halloween was not Kevin Williamson, who was involved in various areas of production but did not receive a writing credit.",
+  "triple": [
+    [
+      "Debra Hill and John Carpenter,",
+      "co-wrote",
+      "the screenplay."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about who was the screenwriter for Halloween are not contradictory. Both statements agree that Debra Hill and John Carpenter co-wrote the screenplay for the film. The first statement simply clarifies that although Kevin Williamson was involved in the production, he did not receive a writing credit for the film."
+}

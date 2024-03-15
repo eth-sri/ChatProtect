@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Sneakers?",
+  "orig": "It was a comedy-thriller about a team of security experts who are hired to steal a top-secret code-breaking device.",
+  "alt": "The team of security experts are hired to steal a top-secret encryption device.",
+  "prefix": " The screenwriter for the 1992 film \"Sneakers\" was Phil Alden Robinson. He also directed the film and was one of the producers. The film starred Robert Redford, Dan Aykroyd, and Sidney Poitier, among others.",
+  "triple": [
+    [
+      "a team of security experts",
+      "are hired",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the screenwriter for Sneakers are not contradictory. The first statement identifies Phil Alden Robinson as the screenwriter, director, and producer of the film, while the second statement provides a brief summary of the plot, specifically mentioning the team of security experts hired to steal a top-secret code-breaking or encryption device. Both statements provide different information about the film, but they do not contradict each other."
+}

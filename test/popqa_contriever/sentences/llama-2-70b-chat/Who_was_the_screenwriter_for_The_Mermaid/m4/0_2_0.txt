@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Mermaid?",
+  "orig": "It does not specify who was responsible for the final screenplay or who wrote the screenplay for the released film.",
+  "alt": "John Musker and Ron Clements wrote the final screenplay for The Little Mermaid.",
+  "prefix": " The screenwriter for The Mermaid was not specified in the given text. The text only mentions that Disney writers, specifically John Musker and Ron Clements, expanded the two-page idea into a 20-page rough script.",
+  "triple": [
+    [
+      "responsible for the final screenplay",
+      "wrote",
+      "the screenplay for the released film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Mermaid are not contradictory. Statement 1 acknowledges that the given text does not provide information about the final screenplay or the writer(s) of the released film. Statement 2 provides additional information that John Musker and Ron Clements were involved in the expansion of the original idea into a rough script, but it does not claim that they were the sole screenwriters for the final film. Therefore, both statements are consistent with each other and do not contradict each other."
+}

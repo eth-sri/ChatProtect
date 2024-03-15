@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Room?",
+  "orig": "The author of The Room is Tommy Wiseau.",
+  "alt": "The author of The Room is Emma Donoghue.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Room",
+      "is",
+      "Tommy Wiseau."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Room? are contradictory. Statement 1 correctly identifies Tommy Wiseau as the author of The Room, while statement 2 incorrectly identifies Emma Donoghue as the author. Therefore, the two statements cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Romance?",
+  "orig": "Romance is a film that has been produced by Paulo Branco.",
+  "alt": "A film named \"Romance\" has been produced by Catherine Breillat.",
+  "prefix": "",
+  "triple": [
+    [
+      "a film",
+      "has been produced",
+      "by Paulo Branco."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Romance? are contradictory because they attribute the production of the same film to two different individuals, Paulo Branco and Catherine Breillat. It is not possible for both statements to be true at the same time. Therefore, it is unclear which producer is actually responsible for the production of the film."
+}

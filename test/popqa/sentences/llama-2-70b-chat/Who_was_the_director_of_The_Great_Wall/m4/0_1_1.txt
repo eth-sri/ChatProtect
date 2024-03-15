@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Great Wall?",
+  "orig": "He is a Chinese filmmaker and actor who is known for his visually stunning and often critically acclaimed films, such as Hero, House of Flying Daggers, and The Great Wall.",
+  "alt": "Zhang Yimou is known for his visually stunning and often critically acclaimed films such as \"Hero\" and \"House of Flying Daggers.\"",
+  "prefix": " The director of The Great Wall is Zhang Yimou.",
+  "triple": [
+    [
+      "a Chinese filmmaker and actor",
+      "is known",
+      "for his visually stunning and often critically acclaimed films, such as Hero, House of Flying Daggers,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Great Wall? are not contradictory. Both statements provide additional information about Zhang Yimou, the director of The Great Wall, and his previous works. The only difference is that statement 1 includes the fact that Zhang Yimou is also an actor, while statement 2 does not. However, this does not contradict the fact that he directed The Great Wall."
+}

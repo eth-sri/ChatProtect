@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Lou Christie?",
+  "orig": "Lou Christie is a singer known for his hit songs in the 1960s and 1970s.",
+  "alt": "Lou Christie is known for his hit songs in the genre of Pop and Rock.",
+  "prefix": "",
+  "triple": [
+    [
+      "a singer",
+      "known",
+      "for his hit songs in the 1960s and 1970s."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Lou Christie are not contradictory. Both statements mention that Lou Christie is known for his hit songs, but the second statement specifies that his songs fall under the genres of Pop and Rock. Therefore, the second statement provides more specific information about the type of music Lou Christie is known for, but it does not contradict the first statement."
+}

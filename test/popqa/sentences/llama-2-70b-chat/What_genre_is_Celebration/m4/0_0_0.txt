@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Celebration?",
+  "orig": "\"Celebration\" by Kool & the Gang can be classified into several genres, including:\n\n1.",
+  "alt": "\"Celebration\" by Kool & the Gang can be classified as funk.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"Celebration\" by Kool & the Gang",
+      "can be classified",
+      "into several genres,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Celebration?\" are not contradictory. Statement 1 suggests that \"Celebration\" can be classified into multiple genres, while statement 2 specifically identifies it as funk. Therefore, statement 2 is a subset of statement 1, and both statements can be true simultaneously."
+}

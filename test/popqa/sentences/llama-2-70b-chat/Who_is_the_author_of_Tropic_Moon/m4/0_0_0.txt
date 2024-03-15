@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Tropic Moon?",
+  "orig": "The author of Tropic Moon isDictionary.",
+  "alt": "The author of Tropic Moon is Henry Miller.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Tropic Moon",
+      "isDictionary.",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Tropic Moon are contradictory. Statement 1 is incorrect as Dictionary is not an author but rather a reference book. Statement 2 is correct as Henry Miller is the actual author of Tropic Moon. Therefore, the two statements cannot both be true at the same time."
+}

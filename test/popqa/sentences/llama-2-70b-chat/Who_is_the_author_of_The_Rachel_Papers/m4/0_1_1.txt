@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Rachel Papers?",
+  "orig": "The novel was first published in 1973, and it is now considered a classic of postmodern literature.",
+  "alt": "It is considered a coming-of-age novel.",
+  "prefix": " The author of The Rachel Papers is Martin Amis.",
+  "triple": [
+    [
+      "it",
+      "is considered",
+      "a classic of postmodern literature."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Rachel Papers? are not contradictory. The first statement provides information about the publication date and the literary significance of the novel, while the second statement describes the genre of the novel. Both statements are true and do not contradict each other."
+}

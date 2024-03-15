@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Click?",
+  "orig": "The information provided in the text states that \"Click\" was created by Merv Griffin, but it does not provide the name of the director.",
+  "alt": "\"Click\" was created by Merv Griffin.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"Click\"",
+      "was created",
+      "by Merv Griffin,"
+    ],
+    "compactie",
+    533
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of \"Click\" are not contradictory. While the first statement acknowledges that the text does not provide the name of the director, the second statement confirms that \"Click\" was created by Merv Griffin, who is not the director but the creator of the show. Therefore, the statements do not contradict each other."
+}

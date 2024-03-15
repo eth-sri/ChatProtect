@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about ronald ridenhour",
+  "orig": "He is best known for his role in exposing the My Lai Massacre, a war crime committed by American soldiers in which hundreds of unarmed Vietnamese civilians were killed.",
+  "alt": "After the war, Ridenhour investigated and exposed the My Lai Massacre, a war crime committed by American soldiers in which hundreds of unarmed Vietnamese civilians were killed.",
+  "prefix": " Ronald Ridenhour was an American soldier who served in the Vietnam War.",
+  "triple": [
+    [
+      "war crime",
+      "committed",
+      "by American soldiers"
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Ronald Ridenhour are not contradictory. Both statements highlight his role in exposing the My Lai Massacre, a war crime committed by American soldiers during the Vietnam War. The only difference is that statement 2 specifies that Ridenhour investigated and exposed the massacre after the war. Overall, both statements provide complementary information about Ridenhour's contribution to exposing the atrocities committed during the Vietnam War."
+}

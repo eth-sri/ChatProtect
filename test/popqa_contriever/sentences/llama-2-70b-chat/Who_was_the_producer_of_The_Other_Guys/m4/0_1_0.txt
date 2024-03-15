@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Other Guys?",
+  "orig": "The other producers were Will Ferrell, Jimmy Miller, and Patrick Crowley.",
+  "alt": "The other producers were Will Ferrell, Jimmy Miller, and Gary Sanchez Productions.",
+  "prefix": " Adam McKay, who also directed and co-wrote the film, was one of the producers of The Other Guys.",
+  "triple": [
+    [
+      "The other producers",
+      "were",
+      "Will Ferrell, Jimmy Miller, and Patrick Crowley."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Other Guys are not contradictory. Both statements mention the same producers, Will Ferrell and Jimmy Miller, and only differ in the inclusion of Patrick Crowley in statement 1 and Gary Sanchez Productions in statement 2. It is possible that both Patrick Crowley and Gary Sanchez Productions were involved in the production of the film, but statement 1 only mentions Crowley while statement 2 only mentions Sanchez Productions."
+}

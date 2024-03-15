@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Michael?",
+  "orig": "She also wrote and directed \"Michael,\" which starred John Travolta as the title character, an angel who is sent to Earth to help people in need.",
+  "alt": "She wrote and directed many successful films, including \"You've Got Mail\" and \"Julie & Julia.\"",
+  "prefix": " The screenwriter for the 1996 film \"Michael\" was Nora Ephron. Ephron was a well-known screenwriter, director, and producer who was known for her romantic comedies, such as \"When Harry Met Sally\" and \"Sleepless in Seattle.\"",
+  "triple": [
+    [
+      "She",
+      "wrote directed",
+      "to Earth to help people in need."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Michael\" are not contradictory. Statement 1 provides additional information about Nora Ephron's involvement in the film, stating that she not only wrote the screenplay but also directed it. Statement 2 provides information about other successful films that Ephron wrote and directed, but does not contradict the fact that she was the screenwriter for \"Michael.\""
+}

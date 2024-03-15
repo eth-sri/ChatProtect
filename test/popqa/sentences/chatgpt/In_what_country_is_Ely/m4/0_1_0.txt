@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ely?",
+  "orig": "Some of the most notable ones include:\n\n- Ely, Cambridgeshire, England: This is a cathedral city located in northern England, near the border with Wales.",
+  "alt": "Some of the most notable ones include Ely in Cambridgeshire, England and Ely in Nevada, United States.",
+  "prefix": " Ely can refer to several different locations around the world.",
+  "triple": [
+    [
+      "Some of the most notable ones",
+      "include:",
+      ""
+    ],
+    "compactie",
+    501
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Ely?\" are not contradictory. Statement 1 provides information about one notable location named Ely in England, while Statement 2 expands on this by mentioning another notable location named Ely in the United States. Both statements are providing additional information about different locations named Ely, without contradicting each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Confederate States of America?",
+  "orig": "The Confederate States of America (CSA) was a collection of 11 states that seceded from the United States and formed their own government in order to preserve the institution of slavery.",
+  "alt": "The Confederate States of America was formed in Montgomery, Alabama.",
+  "prefix": "",
+  "triple": [
+    [
+      "from the United States",
+      "formed",
+      "their own government in order to preserve the institution of slavery."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Confederate States of America are not contradictory. The first statement provides background information about the formation of the Confederate States of America, while the second statement specifically states that the formation took place in Montgomery, Alabama. The prompt does not ask for the capital of the Confederate States of America, so the statements do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Card?",
+  "orig": "Ambler was a British author and screenwriter who was known for his work in the thriller and crime genres.",
+  "alt": "b. was known for his work in the thriller genre, particularly in the 1930s and 1940s.",
+  "prefix": " The screenwriter for the 1950 film The Card is Eric Ambler.",
+  "triple": [
+    [
+      "a British author and screenwriter",
+      "was known",
+      "for his work in the thriller and crime genres."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Card are not contradictory. Statement 1 provides a general overview of Eric Ambler's career as a British author and screenwriter, highlighting his expertise in the thriller and crime genres. Statement 2 further specifies that Ambler was particularly known for his work in the thriller genre during the 1930s and 1940s. Both statements provide complementary information about Ambler's background and expertise, without contradicting each other."
+}

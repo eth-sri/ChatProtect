@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Dwayne Johnson?",
+  "orig": "Rocky Johnson is a retired professional wrestler and was a member of the National Wrestling Alliance.",
+  "alt": "Rocky Johnson was a professional wrestler.",
+  "prefix": " Dwayne Johnson's father is Rocky Johnson.",
+  "triple": [
+    [
+      "Rocky Johnson",
+      "was",
+      "a member of the National Wrestling Alliance."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of Dwayne Johnson are not contradictory. Both statements provide additional information about Rocky Johnson, who is confirmed to be Dwayne Johnson's father in the initial text. Statement 1 provides more detail about Rocky Johnson's career as a professional wrestler and his affiliation with the National Wrestling Alliance, while Statement 2 simply reiterates that he was a professional wrestler."
+}

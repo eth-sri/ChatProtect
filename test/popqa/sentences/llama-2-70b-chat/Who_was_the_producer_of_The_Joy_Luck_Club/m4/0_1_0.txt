@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Joy Luck Club?",
+  "orig": "She was a film producer and executive producer, and she was responsible for bringing the novel by Amy Tan to the big screen.",
+  "alt": "She was the first woman to produce a film that grossed over $100 million at the box office.",
+  "prefix": " The producer of The Joy Luck Club was Laura Ziskin.",
+  "triple": [
+    [
+      "She",
+      "was",
+      "a film producer and executive producer,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Joy Luck Club are not contradictory. Statement 1 provides additional information about Laura Ziskin's role in bringing the novel to the big screen, while Statement 2 highlights her achievement as the first woman to produce a film that grossed over $100 million. Both statements are true and do not contradict each other."
+}

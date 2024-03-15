@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of King David?",
+  "orig": "The composer of \"Le Roi David\" (King David) is Arthur Honegger.",
+  "alt": "The composer of \"Le G\u00e9nie de la terre\" was Jules Massenet.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Le",
+      "is",
+      "Arthur Honegger."
+    ],
+    "compactie",
+    601
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of King David? are contradictory. Statement 1 correctly identifies Arthur Honegger as the composer of \"Le Roi David\" (King David), while statement 2 incorrectly identifies Jules Massenet as the composer of \"Le G\u00e9nie de la terre\". Therefore, the two statements cannot both be true at the same time."
+}

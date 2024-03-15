@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Richie Ashburn born?",
+  "orig": "According to the given text, Richie Ashburn was born in Tilden, Nebraska.",
+  "alt": "Sure! Here's the next sentence:\n\nRichie Ashburn was born in Tilden, Nebraska.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "Richie Ashburn",
+      "was born",
+      "in Tilden,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about where Richie Ashburn was born are not contradictory. They both state that he was born in Tilden, Nebraska."
+}

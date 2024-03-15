@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of George Washington?",
+  "orig": "She was born in 1708 and married Augustine Washington in 1731.",
+  "alt": "She was born in Lancaster County, Virginia, in 1708.",
+  "prefix": " The mother of George Washington was Mary Ball Washington.",
+  "triple": [
+    [
+      "She",
+      "was born",
+      "in 1708"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the mother of George Washington are not contradictory. Statement 1 provides information about Mary Ball Washington's marriage to Augustine Washington, while Statement 2 provides information about her place of birth. Both statements are true and do not contradict each other."
+}

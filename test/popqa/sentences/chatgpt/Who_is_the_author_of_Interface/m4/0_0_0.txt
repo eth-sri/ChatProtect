@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Interface?",
+  "orig": "The author of Interface is Neal Stephenson and J. Frederick George.",
+  "alt": "The author of Interface is Neal Stephenson.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Interface",
+      "is",
+      "Neal Stephenson and J. Frederick George."
+    ],
+    "compactie",
+    476
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of Interface? are contradictory. \n\nStatement 1 suggests that the book was co-authored by Neal Stephenson and J. Frederick George, while Statement 2 suggests that Neal Stephenson is the sole author. These two statements cannot both be true at the same time, hence they are contradictory."
+}

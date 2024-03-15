@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Box?",
+  "orig": "The producer of the 1975 film \"The Rocky Horror Picture Show\" was Lou Adler.",
+  "alt": "The producer of The Box was James Cameron.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the",
+      "was",
+      "Lou Adler."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Box? are contradictory because they provide different answers. Statement 1 claims that Lou Adler was the producer of \"The Rocky Horror Picture Show,\" while Statement 2 asserts that James Cameron was the producer of The Box. Therefore, it is not clear who the actual producer of The Box is based on these two statements."
+}

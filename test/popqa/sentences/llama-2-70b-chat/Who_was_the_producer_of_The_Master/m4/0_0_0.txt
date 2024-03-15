@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Master?",
+  "orig": "The producer of the 2012 film \"The Master\" was JoAnne Sellar.",
+  "alt": "The producer of the 2012 film \"The Master\" was Paul Thomas Anderson.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 2012 film \"The Master\"",
+      "was",
+      "JoAnne Sellar."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of The Master? are contradictory. Statement 1 claims that JoAnne Sellar was the producer of the film, while statement 2 claims that Paul Thomas Anderson was the producer. Only one of these statements can be true, so they cannot both be correct."
+}

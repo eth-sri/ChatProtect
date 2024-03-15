@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Internship?",
+  "orig": "The film was directed by Shawn Levy and starred Vince Vaughn, Owen Wilson, and Rose Byrne.",
+  "alt": "The film was directed by Shawn Levy.",
+  "prefix": " The screenwriter for The Internship (2013) was Vince Vaughn and Jared Stern. Vaughn and Stern also collaborated on the story for the film, with additional writing contributions from James Bobin and Nicholas Stoller.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Internship are not contradictory. Statement 1 provides additional information about the director and cast of the film, while Statement 2 simply reiterates the information already given in the beginning of the text about the director. Both statements are consistent with the fact that Vince Vaughn and Jared Stern were the screenwriters for the film."
+}

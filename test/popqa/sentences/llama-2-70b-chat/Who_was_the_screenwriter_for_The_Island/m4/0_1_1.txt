@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Island?",
+  "orig": "The film was directed by Michael Bay and starred Ewan McGregor, Scarlett Johansson, and Djimon Hounsou.",
+  "alt": "The film starred Ewan McGregor and Scarlett Johansson.",
+  "prefix": " The screenwriter for the 2005 film The Island was Alex Kurtzman.",
+  "triple": [
+    [
+      "The film",
+      "starred",
+      "Ewan McGregor, Scarlett Johansson, and Djimon Hounsou."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for The Island are not contradictory. While statement 1 provides additional information about the director and other actors involved in the film, statement 2 simply reiterates two of the main actors in the film. Both statements are consistent with the fact that Alex Kurtzman was the screenwriter for The Island."
+}

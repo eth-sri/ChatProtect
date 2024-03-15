@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Godzilla?",
+  "orig": "Godzilla is a monster movie, specifically a Kaiju film.",
+  "alt": "Godzilla is a monster movie franchise.",
+  "prefix": "",
+  "triple": [
+    [
+      "Godzilla",
+      "is",
+      "a monster movie, specifically a Kaiju film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Godzilla are not contradictory. Statement 1 identifies Godzilla as a specific type of monster movie, known as a Kaiju film, while Statement 2 refers to the franchise as a whole. Both statements are accurate and do not contradict each other."
+}

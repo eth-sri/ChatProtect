@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Images?",
+  "orig": "The producer of the album \"Images\" by Jean Michel Jarre was Jean Michel Jarre himself.",
+  "alt": "The producer of the album \"Images\" by Jean Michel Jarre was Michel Ge hr.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the album \"Images\" by Jean Michel",
+      "was",
+      "Jean Michel Jarre himself."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Images? are contradictory. Statement 1 claims that Jean Michel Jarre produced the album himself, while Statement 2 claims that Michel Ge hr was the producer. These two statements cannot both be true at the same time."
+}

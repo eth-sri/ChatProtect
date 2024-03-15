@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "Kno is not a country, it is a brand name of a company that produces education technology products such as tablets and digital textbooks.",
+  "alt": "Kno is not a country, but a brand that produces educational software and hardware for students.",
+  "prefix": "",
+  "triple": [
+    [
+      "a brand",
+      "produces",
+      "education technology products such as tablets and digital textbooks."
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both clarify that Kno is not a country, but rather a brand that produces educational technology products. They simply provide slightly different descriptions of the specific products that Kno produces."
+}

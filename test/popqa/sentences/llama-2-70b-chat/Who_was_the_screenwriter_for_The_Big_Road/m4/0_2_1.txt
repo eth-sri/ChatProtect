@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Big Road?",
+  "orig": "The three men worked together on the screenplay, which was based on a story by Fellini and Pinelli.",
+  "alt": "The three men's screenplay was based on a story by Fellini and Pinelli.",
+  "prefix": " The screenwriter for The Big Road (1954) was Federico Fellini, who also directed the film. The film was a collaborative effort between Fellini and his co-writers, Tullio Pinelli and Ennio Flaiano.",
+  "triple": [
+    [
+      "The three men",
+      "was based",
+      "on a story by"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Big Road are not contradictory. Both statements mention that Federico Fellini, Tullio Pinelli, and Ennio Flaiano collaborated on the screenplay, with the story being based on one by Fellini and Pinelli. The only difference is in the wording of the second statement, which simplifies the information by stating that the screenplay was based on a story by Fellini and Pinelli without explicitly mentioning the collaboration between the three writers."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Beautiful?",
+  "orig": "The producer of the movie \"Beautiful\" is Ed Zwick.",
+  "alt": "The producer of the movie \"Beautiful\" isLD Entertainment.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie \"Beautiful\"",
+      "is",
+      "Ed Zwick."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Beautiful? are contradictory. Statement 1 claims that Ed Zwick was the producer of the movie \"Beautiful\", while statement 2 claims that LD Entertainment was the producer. These two statements cannot both be true at the same time, as they are referring to different entities. It is possible that Ed Zwick was involved in the production of the movie in some capacity, but LD Entertainment is the official production company credited for the film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Wall Street?",
+  "orig": "He was the executive producer of the film, which was released in 1987.",
+  "alt": "He was a film producer and director.",
+  "prefix": " The producer of the movie Wall Street was Edward R. Pressman.",
+  "triple": [
+    [
+      "He",
+      "was",
+      "the executive producer of the film,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Wall Street are not contradictory. Statement 1 provides additional information about Edward R. Pressman's role in the movie as the executive producer and the year of its release. Statement 2 provides information about his profession as a film producer and director, which is not directly related to his involvement in Wall Street. Both statements are true and do not contradict each other."
+}

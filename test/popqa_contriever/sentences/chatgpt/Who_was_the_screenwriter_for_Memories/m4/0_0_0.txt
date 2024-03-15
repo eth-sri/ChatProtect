@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Memories?",
+  "orig": "There is no movie titled \"Memories\".",
+  "alt": "There is no movie called \"Memories\".",
+  "prefix": "",
+  "triple": [
+    [
+      "There",
+      "is",
+      "no movie"
+    ],
+    "compactie",
+    607
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both indicate that there is no movie titled \"Memories\". Therefore, there is no screenwriter for a movie that does not exist."
+}

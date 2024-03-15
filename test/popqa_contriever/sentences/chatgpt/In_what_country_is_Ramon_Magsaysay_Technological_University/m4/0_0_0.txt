@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ramon Magsaysay Technological University?",
+  "orig": "Ramon Magsaysay Technological University is located in the Philippines.",
+  "alt": "Ramon Magsaysay Technological University is located in the Municipality of Iba, Province of Zambales, in the Philippines.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ramon Magsaysay Technological University",
+      "is located",
+      "in the Philippines."
+    ],
+    "compactie",
+    656
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides the general location of the university, which is in the Philippines. Statement 2 provides a more specific location within the Philippines, which is the Municipality of Iba, Province of Zambales. Both statements are true and complement each other."
+}

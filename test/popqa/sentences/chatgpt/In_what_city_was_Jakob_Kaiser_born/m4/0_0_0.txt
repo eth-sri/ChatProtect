@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Jakob Kaiser born?",
+  "orig": "Jakob Kaiser was born in Hamm-Uentrop, Germany.",
+  "alt": "Jakob Kaiser was born in Hamm, Germany.",
+  "prefix": "",
+  "triple": [
+    [
+      "Jakob Kaiser",
+      "was born",
+      "in Hamm-Uentrop, Germany."
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about In what city was Jakob Kaiser born? are contradictory. \n\nStatement 1 says that Jakob Kaiser was born in Hamm-Uentrop, Germany, while Statement 2 says that he was born in Hamm, Germany. These are two different cities, and therefore, the statements cannot both be true. It is unclear which statement is correct without further information or clarification."
+}

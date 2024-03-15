@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Zones?",
+  "orig": "The author of \"Zones\" is a company called Sh elle.",
+  "alt": "The author of \"Zones\" is Timothy Leary.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Zones\"",
+      "is",
+      "a company called Sh elle."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Zones\" are contradictory. Statement 1 claims that the author is a company called Sh elle, while statement 2 claims that the author is Timothy Leary. These two statements cannot both be true at the same time."
+}

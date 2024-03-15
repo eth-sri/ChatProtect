@@ -1,0 +1,19 @@
+{
+  "target": "What genre is U Brown?",
+  "orig": "His music can be classified as reggae, dancehall, and roots reggae.",
+  "alt": "His music can be classified as roots reggae and dancehall.",
+  "prefix": " U Brown is a Jamaican reggae and dancehall deejay.",
+  "triple": [
+    [
+      "His music",
+      "can be classified",
+      "as reggae, dancehall, and roots reggae."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about U Brown's genre are not contradictory. Both statements agree that U Brown's music can be classified as roots reggae and dancehall. The only difference is that statement 1 adds reggae as another genre, while statement 2 does not. However, both statements agree on the two main genres of U Brown's music."
+}

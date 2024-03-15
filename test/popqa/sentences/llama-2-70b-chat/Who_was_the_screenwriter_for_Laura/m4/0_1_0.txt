@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Laura?",
+  "orig": "The screenplay was based on the 1943 novel of the same name by Vera Caspary.",
+  "alt": "The screenplay was based on the novel of the same name by Vera Caspary.",
+  "prefix": " The screenwriter for the movie \"Laura\" (1944) was Otto Preminger, who also directed the film.",
+  "triple": [
+    [
+      "The screenplay",
+      "was based",
+      "on the 1943 novel of the same name by Vera Caspary."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the source material for the screenplay of \"Laura\". Statement 1 specifies that the screenplay was based on the novel of the same name by Vera Caspary, which was published in 1943. Statement 2 provides the same information, but without specifying the year of publication. Both statements are consistent with the fact that Otto Preminger was the screenwriter for the film."
+}

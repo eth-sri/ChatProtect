@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Pygmalion?",
+  "orig": "George Bernard Shaw adapted his own play, Pygmalion, for the screen, so he is the screenwriter for the 1938 film.",
+  "alt": "George Bernard Shaw adapted the screenplay for Pygmalion.",
+  "prefix": "",
+  "triple": [
+    [
+      "George Bernard Shaw",
+      "adapted",
+      "his own play, Pygmalion, for the screen,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Pygmalion are not contradictory. Both statements are saying that George Bernard Shaw adapted the play into a screenplay for the 1938 film. The only difference is that statement 1 explicitly states that Shaw is the screenwriter, while statement 2 uses the term \"adapted the screenplay\" to imply the same thing."
+}

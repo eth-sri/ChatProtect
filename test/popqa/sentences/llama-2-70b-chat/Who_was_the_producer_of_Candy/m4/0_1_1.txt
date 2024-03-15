@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Candy?",
+  "orig": "Deeley was a British film producer and screenwriter who was known for his work on a number of controversial and avant-garde films in the 1960s and 1970s.",
+  "alt": "Michael Deeley was known for his work on several other films, including \"The Italian Job\" and \"The Deer Hunter.\"",
+  "prefix": " The producer of the 1967 film \"Candy\" was Michael Deeley.",
+  "triple": [
+    [
+      "a",
+      "was known",
+      "for his work on a number of controversial and avant-garde films in the 1960s and 1970s."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Candy? are not contradictory. Statement 1 provides additional information about Michael Deeley's background and career, while Statement 2 lists some of his other notable film productions. Both statements are consistent with the fact that Michael Deeley was the producer of the film \"Candy\" in 1967."
+}

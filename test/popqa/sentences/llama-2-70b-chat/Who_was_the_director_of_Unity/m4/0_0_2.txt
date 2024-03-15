@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Unity?",
+  "orig": "The director of Unity is a documentary film directed by Shaka King, released in 2020.",
+  "alt": "Unity was released in 2015.",
+  "prefix": "",
+  "triple": [
+    [
+      "a documentary film",
+      "released",
+      "in 2020."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the director of Unity are contradictory. The first statement states that the director of Unity is a documentary film directed by Shaka King, released in 2020. However, the second statement contradicts this by stating that Unity was released in 2015. Therefore, it is not possible for the director of Unity to have directed a documentary film released in 2020 if the film itself was released in 2015."
+}

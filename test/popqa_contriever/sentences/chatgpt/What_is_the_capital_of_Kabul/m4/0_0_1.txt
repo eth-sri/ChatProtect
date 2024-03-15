@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kabul?",
+  "orig": "There is no capital of Kabul, as Kabul itself is the capital city of Afghanistan.",
+  "alt": "Kabul itself is a municipality, forming part of the greater Kabul Province.",
+  "prefix": "",
+  "triple": [
+    [
+      "Kabul itself",
+      "is",
+      "the capital city of Afghanistan."
+    ],
+    "compactie",
+    594
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory. Statement 1 is incorrect as it confuses the terms \"capital\" and \"city\". Kabul is the capital city of Afghanistan, not the other way around. Statement 2 is correct in stating that Kabul is a municipality within the greater Kabul Province."
+}

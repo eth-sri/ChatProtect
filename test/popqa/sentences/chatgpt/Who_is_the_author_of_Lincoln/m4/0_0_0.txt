@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Lincoln?",
+  "orig": "There are many books about President Abraham Lincoln written by various authors.",
+  "alt": "Many books about President Abraham Lincoln have been written, but if you are referring to the book titled \"Lincoln,\" it was written by David Herbert Donald.",
+  "prefix": "",
+  "triple": [
+    [
+      "many books about President Abraham Lincoln",
+      "written",
+      "by various authors."
+    ],
+    "compactie",
+    500
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Lincoln? are not contradictory. The first statement acknowledges that there are many books about President Abraham Lincoln written by various authors, while the second statement specifies that if the question is referring to the book titled \"Lincoln,\" then it was written by David Herbert Donald. Therefore, the second statement provides a specific answer to the question while the first statement acknowledges the broader context of Lincoln literature."
+}

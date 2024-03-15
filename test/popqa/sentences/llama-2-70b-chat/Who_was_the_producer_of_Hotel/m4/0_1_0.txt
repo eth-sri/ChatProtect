@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Hotel?",
+  "orig": "The show aired from 1983 to 1988 and was broadcast on ABC.",
+  "alt": "The show aired on ABC from 1983 to 1988.",
+  "prefix": " The TV series \"Hotel\" was produced by Aaron Spelling and his production company Spelling-Goldberg Productions.",
+  "triple": [
+    [
+      "The show",
+      "aired",
+      "from 1983 to 1988"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Hotel? are not contradictory. Both statements provide additional information about the TV series \"Hotel\", such as the years it aired and the network it was broadcast on, but they do not contradict the fact that Aaron Spelling and his production company were the producers of the show."
+}

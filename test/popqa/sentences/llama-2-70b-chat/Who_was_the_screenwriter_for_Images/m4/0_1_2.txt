@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Images?",
+  "orig": "Altman also directed the film, which was a psychological horror-thriller that starred Susannah York, Rene Auberjonois, and Marcel Bozzuffi.",
+  "alt": "The psychological horror-thriller starred Susannah York and Rene Auberjonois.",
+  "prefix": " The screenwriter for the 1972 film \"Images\" was Robert Altman.",
+  "triple": [
+    [
+      "a psychological horror-thriller",
+      "starred",
+      "Susannah York, Rene Auberjonois, and Marcel Bozzuffi."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Images? are not contradictory. While statement 1 mentions that Altman directed the film and lists the main cast, it does confirm that he was the screenwriter. Statement 2 simply reiterates that the film starred Susannah York and Rene Auberjonois, which is not contradictory to the fact that Altman was the screenwriter."
+}

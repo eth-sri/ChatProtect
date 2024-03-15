@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Colorful?",
+  "orig": "However, based on the information provided, it can be inferred that the director is Marc Green, as the text mentions that Green received the Creative Capital Moving Image Award in 2001 and that his film \"The Rainbow Man/John 3:16\" premiered at the Sundance Film Festival in 1997.",
+  "alt": "Green received the Creative Capital Moving Image Award in 2001.",
+  "prefix": " The director of \"Colorful\" is not explicitly stated in the text.",
+  "triple": [
+    [
+      "Green",
+      "received",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Colorful? are not contradictory. Statement 1 infers that the director of \"Colorful\" is Marc Green based on the information provided in the text, while Statement 2 simply reiterates that Green received the Creative Capital Moving Image Award in 2001. Both statements are consistent with the information provided in the text and do not contradict each other."
+}

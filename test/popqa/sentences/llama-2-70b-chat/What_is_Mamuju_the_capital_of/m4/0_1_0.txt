@@ -1,0 +1,19 @@
+{
+  "target": "What is Mamuju the capital of?",
+  "orig": "It is a small town located in the Indonesian province of West Nusa Tenggara, on the island of Lombok.",
+  "alt": "It is a small town located in the western part of the island of Sulawesi in Indonesia.",
+  "prefix": " Mamuju is not the capital of any country or region.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a small town"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory because they provide different locations for Mamuju. Statement 1 places Mamuju on the island of Lombok in West Nusa Tenggara province, while statement 2 places it on the western part of Sulawesi island. Therefore, it is unclear which location is correct and whether Mamuju is the capital of either of these regions."
+}

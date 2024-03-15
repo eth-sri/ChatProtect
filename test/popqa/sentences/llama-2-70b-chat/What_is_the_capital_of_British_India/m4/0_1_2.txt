@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of British India?",
+  "orig": "It was established as the capital in 1911 and remained so until India gained independence in 1947.",
+  "alt": "It gained independence from British rule in 1947.",
+  "prefix": " The capital of British India was New Delhi.",
+  "triple": [
+    [
+      "It",
+      "gained",
+      "independence in 1947."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of British India are not contradictory. The first statement provides the answer to the prompt and states that New Delhi was the capital of British India. The second statement provides additional information about the historical context, specifically that India gained independence from British rule in 1947. While the second statement does not directly relate to the prompt, it does not contradict the first statement."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Violin Concerto?",
+  "orig": "It was written in 1800-1801 and is considered one of the most technically and musically challenging violin concertos in the classical repertoire.",
+  "alt": "It was written in 1800.",
+  "prefix": " The Violin Concerto in D major, Op. 61, was composed by Ludwig van Beethoven.",
+  "triple": [
+    [
+      "It",
+      "was written",
+      "in 1800-1801"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Violin Concerto? are not contradictory. While statement 1 provides additional information about the technical and musical difficulty of the concerto, statement 2 simply confirms the year in which it was written. Both statements are consistent with the fact that Ludwig van Beethoven was the composer of the Violin Concerto in D major, Op. 61."
+}

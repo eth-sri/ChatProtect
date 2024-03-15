@@ -1,0 +1,19 @@
+{
+  "target": "What is Washington, D.C. the capital of?",
+  "orig": "The city is located on the East Coast of the United States and is named after George Washington, the first President of the United States.",
+  "alt": "The city is named after George Washington, the first president of the United States.",
+  "prefix": " Washington, D.C. is the capital of the United States of America. It is the seat of the federal government and the home of the President, Congress, and the Supreme Court.",
+  "triple": [
+    [
+      "The city",
+      "is named",
+      "after George Washington, the first President of the United States."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about Washington, D.C., specifically its location on the East Coast of the United States and its namesake, George Washington. While Statement 2 is a repetition of information already provided in the text, it does not contradict Statement 1."
+}

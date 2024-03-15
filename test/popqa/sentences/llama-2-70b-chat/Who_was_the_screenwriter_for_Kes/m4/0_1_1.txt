@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Kes?",
+  "orig": "Hines was a British playwright and screenwriter, best known for his work on \"Kes\" and \"A Kestrel for a Knave,\" the novel on which the film was based.",
+  "alt": "The film was based on Hines' own novel, \"A Kestrel for a Knave.\"",
+  "prefix": " The screenwriter for the 1969 film \"Kes\" was Barry Hines.",
+  "triple": [
+    [
+      "the film",
+      "was based.",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Kes are not contradictory. Statement 1 provides additional information about Barry Hines and his career as a writer, while statement 2 highlights the fact that the film was based on Hines' own novel. Both statements are consistent with the fact that Barry Hines was the screenwriter for Kes."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Logan?",
+  "orig": "Therefore, Logan is in Australia.",
+  "alt": "Logan is a city in the state of Queensland, Australia.",
+  "prefix": " Based on the information provided, Logan Central is a suburb of Logan City, Queensland, Australia.",
+  "triple": [
+    [
+      "Logan",
+      "is",
+      "in Australia."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Logan?\" are not contradictory. Both statements confirm that Logan is located in Australia, specifically in the state of Queensland. Statement 1 directly states that Logan is in Australia, while Statement 2 provides additional information about Logan being a city in the state of Queensland. Therefore, the statements are consistent and support the conclusion that Logan is in Australia."
+}

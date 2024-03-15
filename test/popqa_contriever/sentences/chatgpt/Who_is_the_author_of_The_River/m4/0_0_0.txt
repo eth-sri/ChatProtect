@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The River?",
+  "orig": "The author of \"The River\" is Carl Carmer.",
+  "alt": "The author of \"The River\" is not specified in the given text.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"The River\"",
+      "is",
+      "Carl Carmer."
+    ],
+    "compactie",
+    612
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 is contradictory to the given text as \"The River\" is not mentioned in the text. However, the text does mention several books written by Carl Carmer, including \"Listen for a Lonesome Drum\" and \"Dark Trees to the Wind.\" Therefore, it can be inferred that Carl Carmer is an author, but it cannot be confirmed whether he is the author of \"The River.\""
+}

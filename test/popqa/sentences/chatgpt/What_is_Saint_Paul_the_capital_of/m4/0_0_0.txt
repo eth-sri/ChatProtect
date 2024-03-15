@@ -1,0 +1,19 @@
+{
+  "target": "What is Saint Paul the capital of?",
+  "orig": "Saint Paul is the capital of the state of Minnesota in the United States.",
+  "alt": "Saint Paul is the capital city of the state of Minnesota in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "Saint Paul",
+      "is",
+      "the capital of the state of Minnesota in the United States."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Both statements provide the same answer to the prompt \"What is Saint Paul the capital of?\" by stating that Saint Paul is the capital of the state of Minnesota in the United States. The only difference is that statement 2 adds the word \"city\" to clarify that Saint Paul is the capital city of Minnesota."
+}

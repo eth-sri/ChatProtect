@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Chicago?",
+  "orig": "He adapted the screenplay from the stage musical of the same name, which was based on a play by Maurine Dallas Watkins.",
+  "alt": "He adapted the screenplay from the stage musical of the same name.",
+  "prefix": " The screenwriter for the 2002 film \"Chicago\" was Bill Condon.",
+  "triple": [
+    [
+      "He",
+      "adapted",
+      "the screenplay from the stage musical of the same name,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Chicago are not contradictory. Statement 1 provides additional information about the source material for the screenplay, while statement 2 simply reiterates that the screenplay was adapted from the stage musical. Both statements agree that Bill Condon was the screenwriter for the film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Message?",
+  "orig": "The Message is a hip hop album, specifically a work of gangsta rap.",
+  "alt": "The Message is a song.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Message",
+      "is",
+      "a hip hop album, specifically a work of gangsta rap."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is The Message? are contradictory. \n\nStatement 1 describes The Message as a hip hop album, specifically a work of gangsta rap, which implies that it is a collection of songs. \n\nStatement 2, on the other hand, describes The Message as a song, which suggests that it is a single track rather than an entire album. \n\nTherefore, the two statements cannot both be true at the same time."
+}

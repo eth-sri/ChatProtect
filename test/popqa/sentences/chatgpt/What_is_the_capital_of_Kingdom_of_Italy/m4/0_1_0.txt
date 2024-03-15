@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kingdom of Italy?",
+  "orig": "Before that, the capital of the Kingdom of Italy was Rome.",
+  "alt": "The capital of the Kingdom of Italy was Turin until 1865, and then Florence until 1871, when Rome became the capital.",
+  "prefix": " The Kingdom of Italy was disbanded in 1946.",
+  "triple": [
+    [
+      "the capital of the Kingdom of Italy",
+      "was",
+      "Rome."
+    ],
+    "compactie",
+    507
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of the Kingdom of Italy are not contradictory, but rather provide additional information. Statement 1 confirms that Rome was the capital of the Kingdom of Italy before it was disbanded in 1946. Statement 2 provides further historical context by explaining that Turin and Florence were also capitals of the Kingdom of Italy before Rome, but Rome became the permanent capital in 1871. Therefore, both statements are accurate and do not contradict each other."
+}

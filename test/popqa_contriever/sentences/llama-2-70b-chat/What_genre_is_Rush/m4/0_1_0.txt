@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Rush?",
+  "orig": "Their debut album, released in 1974, shows a hard rock sound typical of many popular rock bands emerging in the decade.",
+  "alt": "Their debut album, Rush, released on March 1, 1974, was a hard rock album.",
+  "prefix": " Rush is a Canadian rock band.",
+  "triple": [
+    [
+      "Their debut album,",
+      "released",
+      "in 1974,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the genre of Rush are not contradictory. Both statements describe the debut album as having a hard rock sound, which is a subgenre of rock music. Therefore, they both support the idea that Rush is a rock band."
+}

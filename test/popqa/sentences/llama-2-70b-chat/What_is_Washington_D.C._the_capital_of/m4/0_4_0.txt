@@ -1,0 +1,19 @@
+{
+  "target": "What is Washington, D.C. the capital of?",
+  "orig": "It is home to many national landmarks and monuments, including the White House, the Capitol Building, and the Lincoln Memorial.",
+  "alt": "It is home to many national landmarks and monuments, including the White House, the Lincoln Memorial, and the National Mall.",
+  "prefix": " Washington, D.C. is the capital of the United States of America. It is the seat of the federal government and the home of the President, Congress, and the Supreme Court. The city is located on the East Coast of the United States and is named after George Washington, the first President of the United States. Washington, D.C. is a unique city in that it is not part of any state, but is instead a federal district that serves as the capital of the country.",
+  "triple": [
+    [
+      "It",
+      "is home",
+      "to many national landmarks and monuments, including the White House, the Capitol Building, and the Lincoln Memorial."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Washington, D.C. are not contradictory. Both statements mention that the city is home to many national landmarks and monuments, including the White House and the Lincoln Memorial. The only difference is that Statement 1 includes the Capitol Building, while Statement 2 includes the National Mall. However, both of these landmarks are also located in Washington, D.C. and are well-known tourist attractions. Therefore, the statements complement each other and provide additional information about the city's significance as the capital of the United States."
+}

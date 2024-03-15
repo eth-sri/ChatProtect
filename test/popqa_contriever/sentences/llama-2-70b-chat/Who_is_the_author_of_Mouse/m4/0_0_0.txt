@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Mouse?",
+  "orig": "The author of \"Santa Mouse,\" \"Santa Mouse Where Are You?,\" and \"Santa Mouse Meets Marmaduke\" is not Harper Lee, but rather the children's book author and illustrator, James Marshall.",
+  "alt": "The author of \"Mouse\" is not Harper Lee.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of",
+      "is not",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Mouse? are not contradictory. Both statements agree that Harper Lee is not the author of \"Mouse\". Statement 1 provides the correct author's name, James Marshall, while Statement 2 simply confirms that Harper Lee did not write the book."
+}

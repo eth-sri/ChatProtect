@@ -1,0 +1,19 @@
+{
+  "target": "What is Benazir Bhutto's occupation?",
+  "orig": "She was assassinated in 2007 while campaigning for the 2008 general elections.",
+  "alt": "She was campaigning for the 2008 general elections when she was assassinated.",
+  "prefix": " Benazir Bhutto was a politician and the first female Prime Minister of Pakistan, serving from 1988 to 1990 and then again from 1993 to 1996. She was the leader of the Pakistan People's Party and was known for her advocacy for democracy and human rights in Pakistan.",
+  "triple": [
+    [
+      "She",
+      "campaigning",
+      "for the 2008 general elections."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement mentions her assassination while campaigning, the second statement provides more detail by specifying that she was campaigning for the 2008 general elections. Both statements still confirm that her occupation was that of a politician and former Prime Minister of Pakistan."
+}

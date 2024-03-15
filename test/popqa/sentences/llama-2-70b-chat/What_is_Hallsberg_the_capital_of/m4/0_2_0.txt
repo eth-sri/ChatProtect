@@ -1,0 +1,19 @@
+{
+  "target": "What is Hallsberg the capital of?",
+  "orig": "It is known for its picturesque countryside, outdoor recreation opportunities, and historical landmarks such as the Hallsberg Castle.",
+  "alt": "It is known for its picturesque countryside and outdoor recreational opportunities, such as hiking and fishing.",
+  "prefix": " Hallsberg is not the capital of any country or region. It is a small town located in the province of \u00d6rebro County in central Sweden.",
+  "triple": [
+    [
+      "It",
+      "is known",
+      "for its picturesque countryside, outdoor recreation opportunities, and historical landmarks such as the Hallsberg Castle."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Hallsberg the capital of?\" are not contradictory. Both statements provide additional information about Hallsberg, but neither of them claim that Hallsberg is the capital of any country or region. Statement 1 mentions historical landmarks such as Hallsberg Castle, while Statement 2 focuses on outdoor recreational opportunities like hiking and fishing. Both statements are consistent with the fact that Hallsberg is a small town located in \u00d6rebro County, Sweden, and not a capital city."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Scream?",
+  "orig": "Scream is a horror movie.",
+  "alt": "Scream is a horror movie.",
+  "prefix": "",
+  "triple": [
+    [
+      "Scream",
+      "is",
+      "a horror movie."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Scream are not contradictory, but they are redundant. Both statements simply repeat that Scream is a horror movie without providing any additional information or elaboration."
+}

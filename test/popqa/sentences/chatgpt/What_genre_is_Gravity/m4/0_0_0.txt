@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Gravity?",
+  "orig": "Gravity is a science fiction thriller film.",
+  "alt": "Gravity is a science fiction thriller film directed by Alfonso Cuar\u00f3n.",
+  "prefix": "",
+  "triple": [
+    [
+      "Gravity",
+      "is",
+      "a science fiction thriller film."
+    ],
+    "compactie",
+    478
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the genre of Gravity are not contradictory. The first statement identifies the genre of the film as science fiction thriller, while the second statement adds the information that the film was directed by Alfonso Cuar\u00f3n. The second statement does not contradict the first statement, but rather provides additional information about the film's production."
+}

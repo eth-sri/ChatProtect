@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Shaft?",
+  "orig": "The music is primarily instrumental and falls under the genre of soul jazz, which is a subgenre of jazz that emerged in the late 1950s and early 1960s.",
+  "alt": "Primarily falls under the genre of soul music.",
+  "prefix": " The album Shaft by Isaac Hayes is primarily a soundtrack album, specifically a score for the 1971 film \"Shaft.\"",
+  "triple": [
+    [
+      "primarily",
+      "falls",
+      "under the genre of soul jazz,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Shaft are not contradictory. Statement 1 specifies that the music is primarily instrumental and falls under the subgenre of soul jazz, while Statement 2 specifies that the album primarily falls under the broader genre of soul music. Both statements are accurate and provide different levels of specificity about the genre of the album."
+}

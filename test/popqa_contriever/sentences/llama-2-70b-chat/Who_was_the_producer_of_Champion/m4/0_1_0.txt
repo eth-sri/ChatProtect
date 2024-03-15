@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Champion?",
+  "orig": "Gregg Champion is a director, not a producer.",
+  "alt": "Gregg Champion is a film director.",
+  "prefix": " I'm not sure what you're asking.",
+  "triple": [
+    [
+      "Gregg Champion",
+      "is",
+      "a director, not a producer."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt asks about the producer of Champion, the text clarifies that the person in question is actually a director. Both statements confirm that Gregg Champion is a film director, not a producer."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Kingdom of the Netherlands?",
+  "orig": "The capital of the Kingdom of the Netherlands is Amsterdam.",
+  "alt": "The capital of the Kingdom of the Netherlands is Amsterdam.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of the Kingdom of the Netherlands",
+      "is",
+      "Amsterdam."
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. While both statements provide the same answer to the prompt, they cannot both be true as there can only be one capital of a country. Therefore, the repetition of the same statement does not provide any additional information and does not clarify the answer to the prompt."
+}

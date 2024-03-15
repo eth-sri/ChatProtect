@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Alamo?",
+  "orig": "The producer of The Alamo (1960) was John Wayne.",
+  "alt": "The producer of The Alamo was John Lee Hancock.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of The Alamo",
+      "was",
+      "John Wayne."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Alamo are contradictory. Statement 1 claims that John Wayne was the producer, while statement 2 claims that John Lee Hancock was the producer. Since they are two different individuals, only one of them can be the actual producer of the film. Therefore, the statements cannot both be true at the same time."
+}

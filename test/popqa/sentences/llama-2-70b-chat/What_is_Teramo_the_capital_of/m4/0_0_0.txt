@@ -1,0 +1,19 @@
+{
+  "target": "What is Teramo the capital of?",
+  "orig": "Teramo is a city located in the Abruzzo region of central Italy.",
+  "alt": "Teramo is a province in the Abruzzo region of Italy.",
+  "prefix": "",
+  "triple": [
+    [
+      "Teramo",
+      "is",
+      "a city"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement establishes that Teramo is a city located in the Abruzzo region of central Italy, while the second statement clarifies that Teramo is also a province within the same region. Therefore, both statements provide complementary information about Teramo's location and administrative division within Italy."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is John Entwistle?",
+  "orig": "John Entwistle was a British musician and songwriter, best known as the bassist for the rock band The Who.",
+  "alt": "John Entwistle is best known as a bassist.",
+  "prefix": "",
+  "triple": [
+    [
+      "a",
+      "best known",
+      "as the bassist for the rock band The Who."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is John Entwistle?\" are not contradictory. While statement 1 provides some background information about John Entwistle's career as a musician and his association with The Who, statement 2 specifically highlights his role as a bassist. Both statements are consistent with the idea that John Entwistle was primarily known for his work as a bassist in the rock genre."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Was?",
+  "orig": "The author of Was is Christopher Fowler.",
+  "alt": "The author of Was is speed leasor.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Was",
+      "is",
+      "Christopher Fowler."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 is incorrect. The author of Was is not Christopher Fowler, but rather Geoff Ryman. Statement 2 is also incorrect as \"speed leasor\" is not a known author. Therefore, both statements are incorrect and not contradictory to each other."
+}

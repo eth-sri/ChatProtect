@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Arthur William Devis?",
+  "orig": "Arthur William Devis (1762-1822) was a British painter who is primarily known for his portraits and historical paintings.",
+  "alt": "Arthur William Devis is primarily known for his portrait paintings.",
+  "prefix": "",
+  "triple": [
+    [
+      "a British painter",
+      "is primarily known",
+      "for his portraits and historical paintings."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Arthur William Devis are not contradictory. Both statements agree that Devis was primarily known for his portrait paintings, with the first statement adding that he also painted historical scenes. Therefore, both statements are consistent in identifying Devis as a portrait painter."
+}

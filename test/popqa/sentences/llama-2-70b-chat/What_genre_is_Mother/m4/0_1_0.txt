@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Mother?",
+  "orig": "is a psychological horror film, specifically a body horror film.",
+  "alt": "specifically, a psychological horror film with elements of allegory and symbolism.",
+  "prefix": " Mother!",
+  "triple": [
+    [
+      "a psychological horror film,",
+      "specifically",
+      "a body horror film."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Mother are not contradictory. Both statements describe the film as a psychological horror film, but the first statement adds that it is also a body horror film, while the second statement adds that it contains elements of allegory and symbolism. These are not mutually exclusive characteristics, so the statements can both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about auguste cl\u00e9singer",
+  "orig": "He studied under the famous sculptor Jean-Baptiste-Jules Klagmann and later became a student of Antoine-Louis Barye.",
+  "alt": "Under the famous sculptor Jean-Baptiste-Jules Klagmann, Cl\u00e9singer became skilled in the art of sculpture.",
+  "prefix": " Auguste Cl\u00e9singer (1814-1883) was a French sculptor who was born in Besan\u00e7on, France.",
+  "triple": [
+    [
+      "under the famous sculptor Jean-Baptiste-Jules Klagmann",
+      "became",
+      "a student of Antoine-Louis Barye."
+    ],
+    "compactie",
+    501
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Auguste Cl\u00e9singer are not contradictory, but they are repetitive. Both statements convey the same information that Cl\u00e9singer studied under Jean-Baptiste-Jules Klagmann and became skilled in sculpture. However, statement 1 adds that he later became a student of Antoine-Louis Barye, which is not mentioned in statement 2."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Fear?",
+  "orig": "Fear can refer to many books, so please provide more information such as the full title or author's name.",
+  "alt": "Fear can refer to the book \"Fear: Trump in the White House\" written by Bob Woodward.",
+  "prefix": "",
+  "triple": [
+    [
+      "Fear",
+      "can refer",
+      "to many books,"
+    ],
+    "compactie",
+    485
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Fear? are not contradictory. The first statement acknowledges that there are multiple books with the title \"Fear\" and requests more specific information to identify the author. The second statement provides a specific answer to the question by identifying the author of a book titled \"Fear: Trump in the White House.\" Therefore, the two statements complement each other by providing different levels of specificity in answering the question."
+}

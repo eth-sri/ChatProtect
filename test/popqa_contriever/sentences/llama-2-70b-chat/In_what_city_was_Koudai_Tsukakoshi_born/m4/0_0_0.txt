@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Koudai Tsukakoshi born?",
+  "orig": "According to the text, Koudai Tsukamoto was born in the former town of Gokash\u014d, which is now part of Higashi\u014dmi in Shiga Prefecture.",
+  "alt": "Koudai Tsukamoto was born in the former town of Gokash\u014d, now part of Higashi\u014dmi, in Shiga Prefecture.",
+  "prefix": "",
+  "triple": [
+    [
+      "Koudai Tsukamoto",
+      "was born",
+      "in the former town of Gokash\u014d,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory because the name of the person mentioned in the text is Koichi Tsukamoto, not Koudai Tsukakoshi. Therefore, the statements cannot be used to answer the prompt about Koudai Tsukakoshi's birthplace."
+}

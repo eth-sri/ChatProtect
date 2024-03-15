@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Annie?",
+  "orig": "There is no composer named Annie.",
+  "alt": "There is no composer named Annie.",
+  "prefix": "",
+  "triple": [
+    [
+      "no composer",
+      "named",
+      "Annie."
+    ],
+    "compactie",
+    622
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory as they both deny the existence of a composer named Annie, while the prompt clearly suggests that there is a composer named Annie. Therefore, one of the statements must be false."
+}

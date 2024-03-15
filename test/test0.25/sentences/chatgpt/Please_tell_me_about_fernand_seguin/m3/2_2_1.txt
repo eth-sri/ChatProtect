@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about fernand seguin",
+  "orig": "He went on to earn a PhD in biochemistry from the University of Paris.",
+  "alt": "He went on to earn a PhD in biochemistry from the University of Montreal in 1950.",
+  "prefix": " Fernand Seguin (1922-1988) was a Canadian scientist, broadcaster, and environmentalist. He was born in Montreal and studied at the University of Montreal, where he earned a degree in biochemistry.",
+  "triple": [
+    [
+      "He",
+      "went to earn",
+      "a PhD in biochemistry from the University of Paris."
+    ],
+    "compactie",
+    500
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Fernand Seguin are contradictory. Statement 1 says that he earned his PhD in biochemistry from the University of Paris, while statement 2 says that he earned it from the University of Montreal. These two statements cannot both be true at the same time."
+}

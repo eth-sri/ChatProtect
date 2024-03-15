@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Alice?",
+  "orig": "The final screenplay was written by brothers Jon and Erich Hoeber.",
+  "alt": "The final screenplay for \"Alice\" was written by Jon and Erich Hoeber.",
+  "prefix": " Initially, Wes Craven was the attached screenwriter for \"Alice\", but he later left the project.",
+  "triple": [
+    [
+      "The final screenplay",
+      "was written",
+      "by brothers Jon and Erich Hoeber."
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"Alice\" are not contradictory. Both statements confirm that the final screenplay for the film adaptation of \"Alice\" was written by Jon and Erich Hoeber. The first statement provides additional information that Wes Craven was initially attached to the project but later left, while the second statement is a straightforward confirmation of the Hoeber brothers' involvement in the project."
+}

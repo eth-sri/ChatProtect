@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Pindus?",
+  "orig": "Pindus is a mountain range located in Greece.",
+  "alt": "Pindus is a mountain range in Greece.",
+  "prefix": "",
+  "triple": [
+    [
+      "Pindus",
+      "is",
+      "a mountain range"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the location of Pindus in Greece are not contradictory. They both convey the same information that Pindus is a mountain range situated in Greece. The only difference is the use of the preposition \"located\" in the first statement, which is not present in the second statement. However, this does not change the meaning of the sentence. Therefore, the statements are not contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Something Wonderful?",
+  "orig": "The composer of \"Something Wonderful\" is Richard Rodgers, with lyrics by Oscar Hammerstein II.",
+  "alt": "The composer of \"Something Wonderful\" is Richard Rodgers.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Something Wonderful\"",
+      "is",
+      "Richard Rodgers, with lyrics by Oscar Hammerstein II."
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of \"Something Wonderful\" are not contradictory. Statement 1 provides additional information about the song's lyrics, while Statement 2 only identifies the composer. Both statements are true and do not contradict each other."
+}

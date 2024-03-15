@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Captive?",
+  "orig": "However, the article states that David Oyelowo and Kate Mara joined the thriller \"Captive\" on October 15, 2013, which suggests that the movie was in production at that time.",
+  "alt": "David Oyelowo and Kate Mara joined the cast of \"Captive.\"",
+  "prefix": " According to the information provided, the producer of the movie \"Captive\" was not explicitly mentioned.",
+  "triple": [
+    [
+      "David Oyelowo and Kate Mara",
+      "joined",
+      "the thriller \"Captive\" on October 15, 2013,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"Captive\" are not contradictory. While the producer is not explicitly mentioned in the given information, statement 1 suggests that the movie was in production at the time David Oyelowo and Kate Mara joined the cast, which implies that a producer was involved. Statement 2 simply confirms that Oyelowo and Mara were part of the cast."
+}

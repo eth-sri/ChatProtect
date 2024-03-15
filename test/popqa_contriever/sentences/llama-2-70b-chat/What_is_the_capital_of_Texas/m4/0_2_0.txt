@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Texas?",
+  "orig": "During the Texas Revolution, the capital moved from city to city.",
+  "alt": "The capital moved from city to city during the period of the Republic of Texas (1836-1845).",
+  "prefix": " The capital of Texas is Austin. However, the city has not always been the capital.",
+  "triple": [
+    [
+      "the capital",
+      "moved",
+      "from city to city."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both explain that while Austin is currently the capital of Texas, it was not always the case. The first statement specifically mentions the Texas Revolution as a time when the capital moved around, while the second statement provides a broader time frame of the Republic of Texas period. Both statements support the idea that Austin is not the only city to have served as the capital of Texas."
+}

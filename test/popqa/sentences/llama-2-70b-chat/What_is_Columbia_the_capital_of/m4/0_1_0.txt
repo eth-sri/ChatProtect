@@ -1,0 +1,19 @@
+{
+  "target": "What is Columbia the capital of?",
+  "orig": "It is not the capital of any country, but rather a country itself.",
+  "alt": "It is not the capital of Colombia.",
+  "prefix": " Colombia is a country located in South America.",
+  "triple": [
+    [
+      "It",
+      "is not",
+      "the capital of any country, but rather a country itself."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The first statement clarifies that Colombia is a country, while the second statement contradicts it by stating that it is not the capital of Colombia. If Colombia is a country, then it cannot be the capital of itself. Therefore, the second statement is incorrect."
+}

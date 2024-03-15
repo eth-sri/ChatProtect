@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Message?",
+  "orig": "The Message is the fourth book in the series and is narrated by the character Cassie.",
+  "alt": "The Message is a young adult science fiction novel.",
+  "prefix": " The genre of The Message, written by K.A. Applegate and published in 1996, is young adult science fiction. The book is part of the Animorphs series, which is a series of young adult science fiction novels that combines elements of science fiction, fantasy, and action-adventure.",
+  "triple": [
+    [
+      "The Message",
+      "is",
+      "the fourth book in the series"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Message are not contradictory. Statement 1 provides additional information about the book, specifically that it is the fourth book in the Animorphs series and is narrated by Cassie. Statement 2 identifies the genre of the book as young adult science fiction. Both statements are consistent with each other and provide complementary information about the book."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Action?",
+  "orig": "Can you please specify which movie or TV show titled \"Action\" you are referring to?",
+  "alt": "Please provide the name of the movie or TV show you are referring to so I can generate the next sentence of the answer.",
+  "prefix": " The AI language model does not have enough information to accurately answer this question.",
+  "triple": [
+    [
+      "movie or TV show",
+      "titled",
+      "\"Action\""
+    ],
+    "compactie",
+    501
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"Who was the director of Action?\" are not contradictory. Both statements are asking for clarification on which specific movie or TV show titled \"Action\" the prompt is referring to. The first statement is asking for clarification on the title, while the second statement is asking for the name of the movie or TV show. Both statements are necessary to provide a more accurate answer to the prompt."
+}

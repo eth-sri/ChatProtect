@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Good News?",
+  "orig": "The movie was based on a story by Damon Runyon and was directed by Charles Walters.",
+  "alt": "The movie was directed by Charles Walters.",
+  "prefix": " The screenwriter for the 1947 movie \"Good News\" was Betty Comden and Adolph Green. They were a husband-and-wife team who also provided the lyrics for the film's songs.",
+  "triple": [
+    [
+      "The movie",
+      "was directed",
+      "by Charles Walters."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While statement 1 provides additional information about the source material and director of the movie, it does not contradict the initial statement that Betty Comden and Adolph Green were the screenwriters for \"Good News\". Statement 2 simply reiterates that the movie was directed by Charles Walters, which is also mentioned in statement 1."
+}

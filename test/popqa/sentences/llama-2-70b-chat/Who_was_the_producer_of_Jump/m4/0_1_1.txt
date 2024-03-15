@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Jump?",
+  "orig": "He was a well-known producer in the music industry at the time and had worked with many other successful bands and artists.",
+  "alt": "Had worked with many successful artists, including Van Halen, The Doobie Brothers, and Eric Clapton.",
+  "prefix": " The producer of the song \"Jump\" by Van Halen was Ted Templeman.",
+  "triple": [
+    [
+      "a well-known producer in the music industry at the time",
+      "had worked",
+      "with many other successful bands and artists."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the producer of \"Jump\" are not contradictory. Statement 1 provides a general description of Ted Templeman's reputation in the music industry, while Statement 2 gives specific examples of the successful artists he had worked with, including Van Halen. Both statements support the fact that Templeman was an experienced and accomplished producer who had worked with many successful musicians."
+}

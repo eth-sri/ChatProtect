@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Nancy Drew and the Hidden Staircase?",
+  "orig": "Nancy Drew and the Hidden Staircase is a mystery novel.",
+  "alt": "Nancy Drew and the Hidden Staircase is a mystery film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Nancy Drew and the Hidden Staircase",
+      "is",
+      "a mystery novel."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Nancy Drew and the Hidden Staircase are not contradictory. The first statement identifies the book as a mystery novel, while the second statement identifies the movie adaptation as a mystery film. Both statements are consistent in identifying the work as belonging to the mystery genre, but they refer to different mediums of storytelling."
+}

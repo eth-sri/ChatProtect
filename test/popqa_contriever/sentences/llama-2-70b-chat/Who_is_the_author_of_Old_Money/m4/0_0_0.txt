@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Old Money?",
+  "orig": "Wendy Wasserstein is the author of the play Old Money.",
+  "alt": "Wendy Wasserstein is the author of Old Money.",
+  "prefix": "",
+  "triple": [
+    [
+      "Wendy Wasserstein",
+      "is",
+      "the author of the play Old Money."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the author of Old Money are not contradictory. They both provide the same information that Wendy Wasserstein is the author of the play. The only difference is the inclusion of the word \"the\" in the second statement, which does not change the meaning of the sentence."
+}

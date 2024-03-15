@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of David Cassidy?",
+  "orig": "Jack Cassidy was the father of David Cassidy.",
+  "alt": "Jack Cassidy was a singer and actor.",
+  "prefix": "",
+  "triple": [
+    [
+      "Jack Cassidy",
+      "was",
+      "the father of David Cassidy."
+    ],
+    "compactie",
+    609
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. Statement 1 directly answers the prompt by identifying Jack Cassidy as David Cassidy's father. Statement 2 provides additional information about Jack Cassidy's profession as a singer and actor, but does not contradict the fact that he is David Cassidy's father."
+}

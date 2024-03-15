@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Superstar?",
+  "orig": "The comic book series referred to in the text is \"Hollywood Superstars\" and the writer is Mark Evanier.",
+  "alt": "The comic book series referred to in the previous prompt is \"Hollywood Superstars,\" created by Mark Evanier and Dan Spiegle.",
+  "prefix": " There is no specific \"Superstar\" comic book series.",
+  "triple": [
+    [
+      "The comic book series",
+      "is",
+      ""
+    ],
+    "compactie",
+    635
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They both provide the same information about the writer of the comic book series \"Hollywood Superstars,\" which is Mark Evanier. The only difference is that statement 2 also includes the artist, Dan Spiegle."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Hotel?",
+  "orig": "I'm not aware of a composer named \"Hotel.\"",
+  "alt": "I'm named management.",
+  "prefix": "",
+  "triple": [
+    [
+      "I'm",
+      "named",
+      "\"Hotel.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are not directly related to the prompt either. Statement 1 suggests that there is no composer named \"Hotel,\" which is true since \"Hotel\" is not a person's name but a title of a song or a piece of music. Statement 2 is a personal introduction that does not provide any information about the composer of \"Hotel.\" Therefore, the statements do not contradict each other, but they do not answer the prompt either."
+}

@@ -2,5 +2,7 @@ set -e
 
 prefix="$(dirname "$0")"
 
-echo "P / R / F1"
-python3 $prefix/detection_prf1.py
+echo "self-contra. predicted"
+python3 $prefix/temperature_generation_trigger.py
+echo "precision"
+python3 $prefix/temperature_generation_precision.py

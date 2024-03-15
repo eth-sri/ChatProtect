@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Netherlands Antilles?",
+  "orig": "The country is located in the southern Caribbean, off the coast of Venezuela.",
+  "alt": "The country is located in the southern Caribbean.",
+  "prefix": " Netherlands Antilles is a constituent country of the Kingdom of the Netherlands. It is located in the Caribbean Sea and consists of two island groups: the ABC islands (Aruba, Bonaire, and Cura\u00e7ao) and the SSS islands (Sint Eustatius, Sint Maarten, and Saba).",
+  "triple": [
+    [
+      "The country",
+      "is located",
+      "in the southern Caribbean, off the coast of Venezuela."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements correctly state that Netherlands Antilles is located in the southern Caribbean. However, statement 1 provides additional information about the country's proximity to Venezuela, while statement 2 does not specify any neighboring countries."
+}

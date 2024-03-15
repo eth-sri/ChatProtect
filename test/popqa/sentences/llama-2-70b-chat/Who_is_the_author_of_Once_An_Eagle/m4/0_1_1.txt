@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Once An Eagle?",
+  "orig": "It is a novel that tells the story of two military officers, Sam Damon and Courtney Massengale, who are rivals and yet are compelled to work together in various ways throughout their careers.",
+  "alt": "The novel tells the story of a young man named Sam Damon.",
+  "prefix": " The author of \"Once an Eagle\" is Anton Myrer.",
+  "triple": [
+    [
+      "a novel",
+      "tells",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "No, the statements are not contradictory. The first statement identifies Anton Myrer as the author of \"Once an Eagle\" and provides a brief summary of the novel's plot, focusing on the two main characters, Sam Damon and Courtney Massengale. The second statement also describes the novel's plot, but focuses specifically on the character of Sam Damon. Both statements provide information about the novel, but they do not contradict each other."
+}

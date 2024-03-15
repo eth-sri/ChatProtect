@@ -393,7 +393,7 @@ window.addEventListener('load', function() {
     })
     const element = document.querySelector("#--static-precomputed-live-jsonl")
     // fetch stream data from server and display
-    const server = document.location.hostname == "localhost" ? "http://localhost:9913" : "https://api.chatprotect.ai"
+    const server = document.location.hostname == "localhost" ? "http://localhost:9113" : "https://api.chatprotect.ai"
     fetch(`${server}/chat?q=${encodeURIComponent(input)}`).then(
       (response) => {
         PLAYER_SPEED = 2

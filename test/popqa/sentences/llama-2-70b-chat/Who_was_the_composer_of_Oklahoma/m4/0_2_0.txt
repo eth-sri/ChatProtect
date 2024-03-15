@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Oklahoma!?",
+  "orig": "He wrote the music for the show, which was lyrics by Oscar Hammerstein II.",
+  "alt": "He wrote the music for the show, while Oscar Hammerstein II wrote the lyrics.",
+  "prefix": " The composer of Oklahoma! was Richard Rodgers.",
+  "triple": [
+    [
+      "He",
+      "wrote",
+      "the music for the show,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Oklahoma!? are not contradictory. Both statements convey the same information that Richard Rodgers composed the music for the show, while Oscar Hammerstein II wrote the lyrics. The only difference is the phrasing of the second statement, which emphasizes the division of labor between the two collaborators."
+}

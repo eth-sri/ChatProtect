@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Nicaragua?",
+  "orig": "According to the text, Managua was agreed upon as the permanent capital of Nicaragua in 1852, replacing Le\u00f3n and Granada, which had previously served as capitals in a rotating manner.",
+  "alt": "Le\u00f3n and Granada had previously served as the capital cities of Nicaragua, alternating as the seat of government due to political tensions between liberal and conservative factions.",
+  "prefix": " The capital of Nicaragua is Managua.",
+  "triple": [
+    [
+      "Le\u00f3n and Granada,",
+      "had previously served",
+      "as capitals in a rotating manner."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides information about when Managua became the permanent capital of Nicaragua, while Statement 2 explains the historical context of why Le\u00f3n and Granada alternated as the capital cities before Managua was chosen. Both statements provide different but complementary information about the capital of Nicaragua."
+}

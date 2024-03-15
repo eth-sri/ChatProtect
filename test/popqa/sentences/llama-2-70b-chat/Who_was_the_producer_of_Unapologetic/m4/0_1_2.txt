@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Unapologetic?",
+  "orig": "They have worked with Rihanna on many of her albums and have also produced hits for other artists such as Beyonc\u00e9, Katy Perry, and Selena Gomez.",
+  "alt": "They have worked with a variety of artists, including Beyonc\u00e9, Katy Perry, and Coldplay.",
+  "prefix": " The producer of Rihanna's album \"Unapologetic\" was Stargate, which is a production duo composed of Tor Erik Hermansen and Mikkel Storleer Eriksen.",
+  "triple": [
+    [
+      "They",
+      "have worked",
+      "with Rihanna on many of her albums"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the producer of Unapologetic are not contradictory. Both statements mention that Stargate, composed of Tor Erik Hermansen and Mikkel Storleer Eriksen, produced the album. The only difference is that statement 1 specifies that they have also produced hits for other artists such as Beyonc\u00e9, Katy Perry, and Selena Gomez, while statement 2 mentions Coldplay instead of Selena Gomez. However, this does not contradict the fact that Stargate produced Unapologetic for Rihanna."
+}

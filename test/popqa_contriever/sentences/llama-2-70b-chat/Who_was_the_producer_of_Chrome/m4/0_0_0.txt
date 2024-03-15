@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Chrome?",
+  "orig": "The producer of Chrome, the Catherine Wheel album, was Gil Norton, who is a former producer of the Pixies.",
+  "alt": "The producer of Chrome, the Catherine Wheel album, was Gil Norton.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Chrome, the Catherine Wheel album,",
+      "was",
+      "Gil Norton,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Chrome are not contradictory. Statement 1 provides additional information about Gil Norton, mentioning that he is a former producer of the Pixies, while Statement 2 simply states that he was the producer of Chrome. Both statements agree that Gil Norton was the producer of the album."
+}

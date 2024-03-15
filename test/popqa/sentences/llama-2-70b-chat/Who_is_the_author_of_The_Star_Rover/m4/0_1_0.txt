@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Star Rover?",
+  "orig": "The Star Rover, also known as The Jacket, is a novel written by Jack London, published in 1915.",
+  "alt": "The Star Rover is also known as The Jacket.",
+  "prefix": " The author of The Star Rover is Jack London.",
+  "triple": [
+    [
+      "The Star Rover,",
+      "also known",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Star Rover are not contradictory. The first statement directly answers the prompt by stating that the author of The Star Rover is Jack London. The second statement provides additional information about the novel, stating that it is also known as The Jacket. Both statements are true and do not contradict each other."
+}

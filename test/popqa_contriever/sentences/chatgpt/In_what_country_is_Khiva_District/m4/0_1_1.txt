@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Khiva District?",
+  "orig": "However, there is a similar district called Khivsky District in the Republic of Dagestan, Russia.",
+  "alt": "However, there is a similar district in Russia called Khivsky District, which is located in the Republic of Dagestan.",
+  "prefix": " Khiva District is not a recognized district or administrative division in any known country.",
+  "triple": [
+    [
+      "a similar district",
+      "called",
+      "Khivsky District in the Republic of Dagestan,"
+    ],
+    "compactie",
+    632
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide the same information that there is a district called Khivsky District, which is located in the Republic of Dagestan, Russia. The only difference is the order of the words in the sentence."
+}

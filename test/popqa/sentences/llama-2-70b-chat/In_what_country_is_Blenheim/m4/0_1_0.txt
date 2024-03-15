@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Blenheim?",
+  "orig": "It is a town situated in the Marlborough region, which is located in the South Island of New Zealand.",
+  "alt": "It is situated in the Marlborough region.",
+  "prefix": " Blenheim is located in New Zealand.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a town"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the location of Blenheim within New Zealand. Statement 1 specifies that Blenheim is a town located in the Marlborough region, which is in the South Island of New Zealand. Statement 2 simply reiterates that Blenheim is situated in the Marlborough region. Both statements are consistent with the initial statement that Blenheim is located in New Zealand."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Newcastle?",
+  "orig": "City of Newcastle does not have a capital city as it is a local government area within the Newcastle metropolitan area.",
+  "alt": "City of Newcastle does not have a capital as it is a local government area and not a state or territory.",
+  "prefix": "",
+  "triple": [
+    [
+      "City of Newcastle",
+      "does not have",
+      "a capital city"
+    ],
+    "compactie",
+    616
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both explain that City of Newcastle does not have a capital city. Statement 1 clarifies that it is because it is a local government area within the Newcastle metropolitan area, while Statement 2 explains that it is because it is not a state or territory. Both statements provide different reasons for the same answer."
+}

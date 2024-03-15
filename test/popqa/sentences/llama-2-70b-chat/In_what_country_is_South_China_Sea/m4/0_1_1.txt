@@ -1,0 +1,19 @@
+{
+  "target": "In what country is South China Sea?",
+  "orig": "It is a semi-enclosed sea, meaning it is partially surrounded by land, and it is bordered by several countries, including China, Taiwan, Philippines, Vietnam, Malaysia, Brunei, and Indonesia.",
+  "alt": "It is partially surrounded by several countries, including China, Taiwan, Vietnam, Malaysia, and the Philippines.",
+  "prefix": " The South China Sea is a marginal sea located in the Western Pacific Ocean, and it is not located in any specific country.",
+  "triple": [
+    [
+      "it",
+      "is partially surrounded",
+      "by land,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. Both statements mention that the South China Sea is bordered by several countries, including China, Taiwan, Vietnam, Malaysia, and the Philippines. The only difference is that statement 1 includes Brunei and Indonesia as well, while statement 2 does not. However, this does not contradict the fact that the South China Sea is not located in any specific country."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Revenge?",
+  "orig": "The producer of the TV series \"Revenge\" was ABC Studios.",
+  "alt": "The producer of the TV series \"Revenge\" was Mike Kelley.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the TV series \"Revenge\"",
+      "was",
+      "ABC Studios."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Revenge are contradictory. Statement 1 claims that ABC Studios was the producer, while statement 2 claims that Mike Kelley was the producer. It is possible that both entities were involved in the production of the show, but they cannot both be the sole producer. Therefore, the statements contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Load?",
+  "orig": "Load is a heavy metal album by the band Metallica, specifically belonging to the genre of thrash metal.",
+  "alt": "Load is a heavy metal album.",
+  "prefix": "",
+  "triple": [
+    [
+      "Load",
+      "is",
+      "a heavy metal album by the band Metallica, specifically belonging to the genre of thrash metal."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What genre is Load?\" are not contradictory. Statement 1 provides a more specific answer, stating that Load belongs to the subgenre of thrash metal within the broader heavy metal genre. Statement 2 is a more general answer, simply stating that Load is a heavy metal album without specifying a subgenre. Both statements are true and do not contradict each other."
+}

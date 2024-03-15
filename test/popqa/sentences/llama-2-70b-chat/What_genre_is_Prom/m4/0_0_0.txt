@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Prom?",
+  "orig": "Prom is a 2011 American romantic comedy film directed by Joe Nussbaum and produced by Justin Springer, Shasta Proof, and Ted Griffin.",
+  "alt": "Prom is a dance.",
+  "prefix": "",
+  "triple": [
+    [
+      "Prom",
+      "is",
+      "a 2011"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Prom? are not contradictory. The first statement provides information about the specific movie titled \"Prom,\" including its director and producers, and identifies it as a romantic comedy. The second statement describes prom as a type of dance, which is not necessarily a genre in the same way that a film genre is defined. Therefore, the two statements are not in conflict with each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of All Around the World?",
+  "orig": "So, the composer of \"All Around the World\" is a collaborative effort between these three individuals.",
+  "alt": "The composer of \"All Around the World\" is Rihanna.",
+  "prefix": " \"All Around the World\" is a song by Rihanna, and it was written and produced by Rihanna, Stargate, and Rob Swire. Stargate is a production team composed of Tor Erik Hermansen and Mikkel Storleer Eriksen, who are both Norwegian music producers and songwriters. Rob Swire is a British music producer and songwriter.",
+  "triple": [
+    [
+      "the composer of \"All Around the World\"",
+      "is",
+      "a collaborative effort between these three individuals."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 and Statement 2 are contradictory. \n\nStatement 1 states that the composer of \"All Around the World\" is a collaborative effort between Rihanna, Stargate, and Rob Swire. On the other hand, Statement 2 claims that the composer of the song is Rihanna alone. \n\nWhile Rihanna did write and produce the song along with Stargate and Rob Swire, it is not accurate to say that she is the sole composer of the song. Therefore, the two statements cannot both be true at the same time."
+}

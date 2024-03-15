@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mike rawlings",
+  "orig": "He was born on August 25, 1954, in Borger, Texas, and grew up in Hockley, Texas.",
+  "alt": "He was born in Borger, Texas.",
+  "prefix": " Mike Rawlings is an American businessman and politician who served as the 61st mayor of Dallas, Texas from 2011 to 2019.",
+  "triple": [
+    [
+      "He",
+      "was born",
+      ""
+    ],
+    "compactie",
+    473
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Mike Rawlings are contradictory. Statement 1 says that he was born in Borger, Texas and grew up in Hockley, Texas, while statement 2 only mentions that he was born in Borger, Texas. The two statements cannot both be true at the same time, as one provides additional information about Rawlings' upbringing that the other does not."
+}

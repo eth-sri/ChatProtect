@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Big One?",
+  "orig": "There are multiple films titled \"The Big One,\" so without further context it is unclear which \"The Big One\" the question is referring to.",
+  "alt": "The question is referring to the screenwriter for the film \"Big\", not \"The Big One\".",
+  "prefix": "",
+  "triple": [
+    [
+      "the question",
+      "is referring",
+      ""
+    ],
+    "compactie",
+    597
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for The Big One? are not contradictory. Statement 1 clarifies that there are multiple films with similar titles, which could cause confusion. Statement 2 then specifies which film the question is referring to, making it clear that the screenwriter being discussed is not related to any other similarly titled films."
+}

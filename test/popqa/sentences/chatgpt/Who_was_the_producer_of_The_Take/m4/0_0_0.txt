@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Take?",
+  "orig": "The producer of The Take is Pierre Morel.",
+  "alt": "The producer of The Take is Brad Pitt.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of The Take",
+      "is",
+      "Pierre Morel."
+    ],
+    "compactie",
+    478
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of The Take? are contradictory. Statement 1 claims that Pierre Morel was the producer of The Take, while statement 2 claims that Brad Pitt was the producer. Since they are two different people, only one of them can be the actual producer of the film. Therefore, the statements cannot both be true at the same time."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Revenge?",
+  "orig": "Revenge was created and produced by Mike Kelley.",
+  "alt": "Revenge was created by Mike Kelley.",
+  "prefix": "",
+  "triple": [
+    [
+      "Revenge",
+      "was created",
+      "and"
+    ],
+    "compactie",
+    474
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Revenge are not contradictory. Statement 1 indicates that Mike Kelley both created and produced the show, while Statement 2 only states that he created it. Therefore, Statement 2 is a subset of Statement 1, and both can be true at the same time."
+}

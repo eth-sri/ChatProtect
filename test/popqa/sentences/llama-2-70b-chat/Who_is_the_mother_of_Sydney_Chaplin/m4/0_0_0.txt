@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Sydney Chaplin?",
+  "orig": "The mother of Sydney Chaplin is Hannah Chaplin (1865-1928).",
+  "alt": "The mother of Sydney Chaplin is Hannah Chaplin.",
+  "prefix": "",
+  "triple": [
+    [
+      "The mother of Sydney Chaplin",
+      "is",
+      "Hannah Chaplin"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the mother of Sydney Chaplin are not contradictory. Both statements provide the same answer to the prompt, with the only difference being the inclusion or exclusion of Hannah Chaplin's birth and death years in the first statement. Therefore, both statements confirm that Hannah Chaplin is the mother of Sydney Chaplin."
+}

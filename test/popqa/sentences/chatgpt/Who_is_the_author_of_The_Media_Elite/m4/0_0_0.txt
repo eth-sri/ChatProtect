@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Media Elite?",
+  "orig": "The authors of The Media Elite are Robert Lichter, Stanley Rothman, and Linda S. Lichter.",
+  "alt": "The authors of The Media Elite are S. Robert Lichter, Stanley Rothman, and Linda S. Lichter.",
+  "prefix": "",
+  "triple": [
+    [
+      "The authors of The Media Elite",
+      "are",
+      "Robert Lichter,"
+    ],
+    "compactie",
+    495
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the authors of The Media Elite are not contradictory. The only difference between the two statements is the use of the author's first initial. \"Robert\" and \"S. Robert\" refer to the same person, so both statements are referring to the same set of authors."
+}

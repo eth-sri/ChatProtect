@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Sun?",
+  "orig": "It has had various authors and editors throughout its history, but it is currently owned by News UK and is edited by Victoria Newton.",
+  "alt": "It is owned by News UK, a subsidiary of News Corp.",
+  "prefix": " The Sun is a daily newspaper published in the United Kingdom.",
+  "triple": [
+    [
+      "it",
+      "owned",
+      "by News UK"
+    ],
+    "compactie",
+    484
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Sun are not contradictory. The first statement provides information about the current editor of The Sun, while the second statement provides information about the ownership of the newspaper. Both statements are true and do not contradict each other."
+}

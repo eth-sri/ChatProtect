@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Street Fighter?",
+  "orig": "It is specifically a 2D fighting game, as the gameplay takes place in a 2D plane and features side-scrolling and 2D graphics.",
+  "alt": "It is specifically a one-on-one fighting game.",
+  "prefix": " Street Fighter is a fighting game, which is a subgenre of action games.",
+  "triple": [
+    [
+      "It",
+      "is specifically",
+      "a 2D fighting game,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Street Fighter are not contradictory. Statement 1 provides a specific detail about the visual and gameplay style of the game, while Statement 2 specifies that it is a one-on-one fighting game. Both statements complement each other and provide a more detailed understanding of the subgenre of fighting games that Street Fighter belongs to."
+}

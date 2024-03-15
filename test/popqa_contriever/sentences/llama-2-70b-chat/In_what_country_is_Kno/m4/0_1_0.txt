@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Kno?",
+  "orig": "Therefore, the company is not limited to operating in one country but has operations in multiple countries.",
+  "alt": "The company is not limited to its domestic market, with a significant presence in the global oil and gas industry.",
+  "prefix": " According to the information provided, Korea National Oil Corporation (KNOC) operates in several countries including Vietnam, Libya, Peru, Indonesia, Nigeria, Yemen, Kazakhstan, Russia, Canada, and South Korea.",
+  "triple": [
+    [
+      "the company",
+      "is not limited",
+      "to"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement highlights the fact that KNOC operates in multiple countries, indicating that it is not limited to operating in one country. The second statement emphasizes the global presence of the company, indicating that it is not limited to its domestic market. Both statements provide additional information about KNOC's operations and do not contradict each other."
+}

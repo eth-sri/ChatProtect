@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of San Marino?",
+  "orig": "San Marino is a microstate located within the Italian Peninsula, and it is the world's oldest surviving republic.",
+  "alt": "It is located in the Apennine Mountains.",
+  "prefix": " The capital of San Marino is San Marino City.",
+  "triple": [
+    [
+      "it",
+      "is",
+      "the world's oldest surviving republic."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of San Marino are not contradictory. The first statement simply provides the answer to the question, while the second statement provides additional information about the location of San Marino within the Apennine Mountains. The third statement provides further context about San Marino's history and status as a microstate. None of these statements contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Redeployment?",
+  "orig": "It is a collection of short stories that won the 2014 National Book Award for Fiction.",
+  "alt": "The collection won the National Book Award for Fiction in 2014.",
+  "prefix": " The author of Redeployment is Phil Klay.",
+  "triple": [
+    [
+      "a collection",
+      "won",
+      "the 2014 National Book Award for Fiction."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Redeployment are not contradictory. Both statements provide additional information about the book, such as the fact that it is a collection of short stories and that it won the National Book Award for Fiction in 2014. They do not contradict each other or the initial statement that Phil Klay is the author of the book."
+}

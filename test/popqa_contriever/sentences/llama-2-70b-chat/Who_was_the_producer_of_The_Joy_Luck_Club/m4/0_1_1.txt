@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Joy Luck Club?",
+  "orig": "He was the president of Carolco Pictures, which initially supported the project, but the filmmakers turned down the contract due to a lack of creative control.",
+  "alt": "Pictures initially supported the project until 1990.",
+  "prefix": " The producer of The Joy Luck Club was Arnold Leibovit.",
+  "triple": [
+    [
+      "Pictures,",
+      "supported",
+      "the project,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides additional information about Arnold Leibovit's role as the producer and the reason why the filmmakers turned down the contract with Carolco Pictures. The second statement simply states that Carolco Pictures initially supported the project until 1990, which is consistent with the information provided in the first statement."
+}

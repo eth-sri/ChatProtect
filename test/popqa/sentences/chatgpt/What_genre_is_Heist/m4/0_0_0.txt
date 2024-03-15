@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Heist?",
+  "orig": "Heist is typically categorized as a subgenre of crime fiction or thriller.",
+  "alt": "Heist is typically categorized as a subgenre of crime fiction.",
+  "prefix": "",
+  "triple": [
+    [
+      "Heist",
+      "is typically categorized",
+      "as a subgenre of crime fiction or thriller."
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Heist are not contradictory. Statement 1 includes thriller as a possible subgenre, while statement 2 only includes crime fiction. Therefore, statement 2 is a subset of statement 1. Both statements agree that Heist is a subgenre of crime fiction."
+}

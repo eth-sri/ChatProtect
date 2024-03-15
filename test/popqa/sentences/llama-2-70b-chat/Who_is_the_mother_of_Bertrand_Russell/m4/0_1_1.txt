@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Bertrand Russell?",
+  "orig": "She was born in 1844 and died in 1924.",
+  "alt": "She died in 1924.",
+  "prefix": " The mother of Bertrand Russell was Katherine Stanley Stewart.",
+  "triple": [
+    [
+      "She",
+      "died",
+      "in 1924."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the mother of Bertrand Russell are not contradictory. Both statements provide information about Katherine Stanley Stewart, who is confirmed to be the mother of Bertrand Russell. The first statement provides additional information about her birth year, while the second statement simply reiterates her year of death."
+}

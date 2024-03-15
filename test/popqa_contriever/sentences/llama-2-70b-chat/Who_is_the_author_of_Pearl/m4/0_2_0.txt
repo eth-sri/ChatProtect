@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Pearl?",
+  "orig": "The text provides biographical information about Pearl and summarizes her accomplishments, suggesting that it was written by someone else.",
+  "alt": "The text provides a brief biography of Nancy Pearl's career and achievements.",
+  "prefix": " The author of the text about Nancy Pearl is not explicitly stated. However, based on the style and content of the text, it appears to be written by a third-party author or journalist, rather than Nancy Pearl herself.",
+  "triple": [
+    [
+      "The text",
+      "provides",
+      "biographical information about Pearl"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Pearl? are not contradictory. Both statements acknowledge that the text provides biographical information about Nancy Pearl and her accomplishments, and that it appears to be written by a third-party author or journalist. Statement 1 emphasizes the style and content of the text, while Statement 2 focuses on the biographical information provided."
+}

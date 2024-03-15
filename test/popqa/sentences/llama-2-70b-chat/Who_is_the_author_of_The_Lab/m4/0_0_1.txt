@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Lab?",
+  "orig": "I am not able to provide information on the author of The Lab as it is not a real book.",
+  "alt": "It is notspecified.",
+  "prefix": "",
+  "triple": [
+    [
+      "it",
+      "is not",
+      "a real book."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Lab? are contradictory. \n\nStatement 1 indicates that The Lab is not a real book, therefore there cannot be an author for it. However, Statement 2 suggests that there is a book called The Lab, but the author is not specified. These two statements cannot both be true at the same time."
+}

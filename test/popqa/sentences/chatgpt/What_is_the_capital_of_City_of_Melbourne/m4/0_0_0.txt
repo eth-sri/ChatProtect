@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of City of Melbourne?",
+  "orig": "Melbourne does not have a capital as it is a city itself.",
+  "alt": "Melbourne does not have a capital as it is a city itself and the capital of the state of Victoria in Australia.",
+  "prefix": "",
+  "triple": [
+    [
+      "Melbourne",
+      "does not have",
+      "a capital"
+    ],
+    "compactie",
+    493
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are contradictory. Statement 1 claims that Melbourne does not have a capital, while statement 2 claims that Melbourne does not have a capital but also states that it is the capital of the state of Victoria. Therefore, statement 2 contradicts statement 1 by providing additional information that Melbourne is indeed a capital, just not of itself."
+}

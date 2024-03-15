@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ely?",
+  "orig": "The article mentions that Ely is in Minnesota, and it also mentions that Ely seceded from the United States to be part of Canada, but this is revealed to be a hoax.",
+  "alt": "This is revealed in the article as a tongue-in-cheek attempt to secede from the United States and join Canada.",
+  "prefix": " Ely is in the United States.",
+  "triple": [
+    [
+      "this",
+      "is revealed",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clearly states that Ely is in the United States, while the second statement explains that the mention of Ely seceding from the United States to join Canada was a hoax and a tongue-in-cheek attempt. Both statements are consistent with Ely being located in the United States."
+}

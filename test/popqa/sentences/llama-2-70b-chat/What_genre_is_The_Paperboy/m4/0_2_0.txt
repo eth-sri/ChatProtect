@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Paperboy?",
+  "orig": "The film's genre can be classified as a drama, specifically a crime drama, as it explores themes of crime, violence, and family dynamics.",
+  "alt": "The film's genre can be classified as drama.",
+  "prefix": " The Paperboy is a 2012 American crime drama film directed by Lee Daniels. The film is based on the 1995 novel of the same name by Pete Dexter.",
+  "triple": [
+    [
+      "The film's genre",
+      "can be classified",
+      "as a drama, specifically a crime drama,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Paperboy are not contradictory. Statement 1 provides a more specific classification of the film as a crime drama, while Statement 2 simply identifies it as a drama without specifying a subgenre. Both statements are accurate and do not contradict each other."
+}

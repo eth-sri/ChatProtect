@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Into the Woods?",
+  "orig": "It is a musical with music and lyrics by Sondheim and a book by James Lapine.",
+  "alt": "It is a musical.",
+  "prefix": " The author of Into the Woods is Stephen Sondheim.",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a musical with music and lyrics by Sondheim"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Into the Woods? are not contradictory. Statement 1 provides additional information about the musical, including the fact that it has a book by James Lapine and that Sondheim wrote both the music and lyrics. Statement 2 simply confirms that Into the Woods is indeed a musical."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Love?",
+  "orig": "The author of Love is Dr.bl Woodside.",
+  "alt": "The author of Love is Dr. Shirley Love.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of Love",
+      "is",
+      "Dr.bl Woodside."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 2 is correct, while Statement 1 is incorrect. The prompt clearly states that the author's name is Shirley Love, not \"Dr.bl Woodside.\" Therefore, the statements are contradictory."
+}

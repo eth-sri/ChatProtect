@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Giver?",
+  "orig": "Bridges not only produced the film but also starred in it as the character Jonas' father.",
+  "alt": "Bridges not only produced the film but also starred in it as the character Jonas' mentor, The Giver.",
+  "prefix": " The producer of the 2014 film adaptation of Lois Lowry's novel \"The Giver\" was Jeff Bridges.",
+  "triple": [
+    [
+      "Bridges",
+      "not only produced starred",
+      "in it as the character Jonas' father."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Giver are not contradictory. Both statements acknowledge that Jeff Bridges was the producer of the film adaptation of the novel. The only difference is that statement 1 mentions that Bridges also starred in the film as Jonas' father, while statement 2 mentions that he starred as The Giver. These statements do not contradict each other, but rather provide additional information about Bridges' involvement in the film."
+}

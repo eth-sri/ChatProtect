@@ -1,0 +1,19 @@
+{
+  "target": "Who is the mother of Jesus?",
+  "orig": "Mary gave birth to Jesus in Bethlehem, and she and Joseph raised him in Nazareth.",
+  "alt": "Mary gave birth to Jesus in Bethlehem.",
+  "prefix": " The mother of Jesus is Mary. According to the New Testament, Mary was a virgin who was chosen by God to bear Jesus, the Son of God. She was betrothed to Joseph, a carpenter, and they lived in Nazareth. The angel Gabriel appeared to Mary and announced that she would conceive and give birth to Jesus, and she responded, \"Behold, I am the handmaid of the Lord; let it be to me according to your word\" (Luke 1:38).",
+  "triple": [
+    [
+      "Mary",
+      "gave",
+      "birth to Jesus in Bethlehem,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the mother of Jesus are not contradictory. Both statements acknowledge that Mary is the mother of Jesus, but they provide additional information about where Jesus was born and raised. Statement 1 specifies that Jesus was born in Bethlehem and raised in Nazareth by Mary and Joseph, while Statement 2 only mentions the birthplace of Jesus. Therefore, the statements do not contradict each other."
+}

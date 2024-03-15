@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Nunavut?",
+  "orig": "It is located on Baffin Island in the eastern Canadian Arctic.",
+  "alt": "It is located on Baffin Island.",
+  "prefix": " The capital of Nunavut is Iqaluit.",
+  "triple": [
+    [
+      "It",
+      "is located",
+      "on Baffin Island in the eastern Canadian Arctic."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Nunavut are not contradictory. Both statements provide additional information about the location of Iqaluit, the capital of Nunavut. Statement 1 specifies that Iqaluit is located in the eastern Canadian Arctic, while Statement 2 simply states that it is located on Baffin Island. Both statements are true and do not contradict each other."
+}

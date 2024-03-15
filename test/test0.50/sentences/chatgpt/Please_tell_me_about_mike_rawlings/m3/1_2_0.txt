@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about mike rawlings",
+  "orig": "Before entering politics, Rawlings worked in the advertising industry, serving as the CEO of TracyLocke, a global marketing agency.",
+  "alt": "Rawlings worked as the CEO of Pizza Hut before entering politics.",
+  "prefix": " Mike Rawlings is an American businessman and politician. He served as the 61st mayor of Dallas, Texas, from 2011 to 2019.",
+  "triple": [
+    [
+      "Rawlings",
+      "worked",
+      "in the advertising industry,"
+    ],
+    "compactie",
+    479
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Mike Rawlings are contradictory. Statement 1 states that Rawlings worked in the advertising industry before entering politics, while statement 2 states that he worked as the CEO of Pizza Hut. These two statements cannot both be true at the same time, as they describe different career paths for Rawlings. Therefore, they are contradictory."
+}

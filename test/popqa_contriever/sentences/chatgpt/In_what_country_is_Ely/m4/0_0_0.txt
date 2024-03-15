@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Ely?",
+  "orig": "The country where Ely is located is not specified in the given information.",
+  "alt": "Ely is located in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "Ely",
+      "is located is not specified",
+      "in the given information."
+    ],
+    "compactie",
+    589
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is Ely?\" are contradictory. Statement 1 suggests that the country where Ely is located is unknown, while statement 2 states that Ely is located in the United States. These two statements cannot both be true at the same time."
+}

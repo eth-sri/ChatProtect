@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Proof?",
+  "orig": "He also created the show and wrote the first two episodes of the first series.",
+  "alt": "The show was written by Tony Philpott.",
+  "prefix": " Tony Philpott was the screenwriter for Proof.",
+  "triple": [
+    [
+      "the show",
+      "wrote",
+      "the first two episodes of the first series."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements confirm that Tony Philpott was the screenwriter for Proof. Statement 1 provides additional information that Philpott also created the show and wrote the first two episodes of the first series. Statement 2 simply reiterates that the show was written by Philpott."
+}

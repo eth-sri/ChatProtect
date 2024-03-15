@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Jap\u00f3n?",
+  "orig": "The film was directed by Carlos Reygadas and released in 2002.",
+  "alt": "The film was directed by Carlos Reygadas.",
+  "prefix": " The producer of the film \"Jap\u00f3n\" is not explicitly stated.",
+  "triple": [
+    [
+      "The film",
+      "was directed",
+      "by Carlos Reygadas"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Jap\u00f3n are not contradictory. While the beginning of the text states that the producer is not explicitly stated, both statements provide information about the director of the film, Carlos Reygadas. Statement 1 includes additional information about the release year of the film, while statement 2 simply reiterates that Reygadas was the director. Neither statement contradicts the other or provides conflicting information about the producer of the film."
+}

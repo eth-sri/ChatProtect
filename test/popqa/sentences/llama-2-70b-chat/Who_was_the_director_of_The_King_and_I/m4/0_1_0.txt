@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The King and I?",
+  "orig": "The movie was released in 1956 and starred Deborah Kerr and Yul Brynner.",
+  "alt": "The movie was released in 1956.",
+  "prefix": " The director of the film The King and I was Walter Lang.",
+  "triple": [
+    [
+      "The movie",
+      "was released",
+      "in 1956"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of The King and I are not contradictory. Both statements provide additional information about the movie, such as the year it was released and the actors who starred in it, but they do not contradict the fact that Walter Lang was the director."
+}

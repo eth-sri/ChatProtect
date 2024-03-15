@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Oil?",
+  "orig": "There have been several films made throughout history with the title \"Oil,\" but the most well-known is likely the 2007 film \"There Will Be Blood,\" which starred Daniel Day-Lewis.",
+  "alt": "I'm sorry, but the prompt \"Who was the screenwriter for Oil?\" is incorrect. There is no movie called \"Oil\" and therefore no screenwriter for it. Could you please provide a different prompt?",
+  "prefix": "",
+  "triple": [
+    [
+      "the most well-known",
+      "starred",
+      "Daniel Day-Lewis."
+    ],
+    "compactie",
+    511
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"Who was the screenwriter for Oil?\" are contradictory. Statement 1 assumes that \"Oil\" refers to the 2007 film \"There Will Be Blood,\" and provides information about the film's star but not its screenwriter. Statement 2, on the other hand, asserts that there is no movie called \"Oil\" and therefore no screenwriter for it. These two statements cannot both be true at the same time, so they are contradictory."
+}

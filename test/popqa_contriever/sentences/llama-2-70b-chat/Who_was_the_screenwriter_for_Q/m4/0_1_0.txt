@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Q?",
+  "orig": "She used the pseudonym J Michael Bingham for her work on the episode \"The Naked Now.\"",
+  "alt": "She used the pseudonym J Michael Bingham for her work on the episode.",
+  "prefix": " The screenwriter for the Star Trek: The Next Generation episode \"Q\" was Hannah Louise Shearer.",
+  "triple": [
+    [
+      "She",
+      "used",
+      "the pseudonym J Michael Bingham for her work on the episode \"The"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Q? are contradictory. Statement 1 implies that Hannah Louise Shearer only used the pseudonym J Michael Bingham for her work on \"The Naked Now,\" while Statement 2 implies that she used the pseudonym for her work on \"Q.\" However, the text itself states that Shearer was the screenwriter for \"Q\" and used the pseudonym for \"The Naked Now.\" Therefore, Statement 2 is incorrect."
+}

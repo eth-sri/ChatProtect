@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Love?",
+  "orig": "Many writers, poets, and philosophers have written about love throughout history, including Shakespeare, Jane Austen, Rumi, and Plato, among others.",
+  "alt": "Many writers, poets, and philosophers have written about love throughout history.",
+  "prefix": " Love is an abstract concept and therefore does not have an author.",
+  "triple": [
+    [
+      "Many writers, poets, and philosophers",
+      "have written",
+      "about love throughout history, including Shakespeare, Jane Austen, Rumi, and Plato,"
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that love is an abstract concept and therefore cannot have a specific author. The second statement simply adds that many writers, poets, and philosophers have written about love throughout history, which is a factual statement and does not contradict the first statement."
+}

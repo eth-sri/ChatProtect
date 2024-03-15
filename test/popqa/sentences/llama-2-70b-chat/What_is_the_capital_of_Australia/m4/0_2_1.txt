@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Australia?",
+  "orig": "The city is situated approximately 150 miles (240 km) inland from the southeastern coast of Australia, and it is home to a population of around 400,000 people.",
+  "alt": "It is the largest inland city in the country.",
+  "prefix": " The capital of Australia is Canberra. It is located in the Australian Capital Territory (ACT) and is home to many national institutions, including the Parliament of Australia and the High Court of Australia.",
+  "triple": [
+    [
+      "it",
+      "is",
+      "home to a population of around"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Australia are not contradictory. Statement 1 provides information about the location and population of Canberra, while Statement 2 provides information about its size in relation to other cities in Australia. Both statements are true and do not contradict each other."
+}

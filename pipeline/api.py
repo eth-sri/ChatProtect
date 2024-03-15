@@ -92,118 +92,131 @@ def redaction_streamer(query: str, model: str):
             triples = extract_triples_compact_ie(sent)
             # for the website we only choose the first triple - there will be a revision anyways
             for triple in triples:
-                state.status = "producing"
-                state.alternative = ""
-                state.contradiction = None
-                state.triple = list(triple)
-                yield dumps_diff(state)
-                frame += 1
-
-                continuation_stream = generate_statement_missing_object_free(
-                    bot, triple[0], triple[1], query, " ".join(state.sentences[:i])
-                )
-                for update in continuation_stream:
-                    state.alternative = update[0]
-                    yield dumps_diff(state)
-                    frame += 1
-                state.status = "done"
-                yield dumps_diff(state)
-                frame += 1
-                state.contradiction = None
-                state.generating = "contradiction"
-                state.status = "starting"
-                yield dumps_diff(state)
-                frame += 1
-                state.status = "producing"
-                yield dumps_diff(state)
-                frame += 1
-
-                explanation_stream = explain_consistent_cot(
-                    bot, sent, state.alternative, query, " ".join(state.sentences[:i])
-                )
-                for update in explanation_stream:
-                    state.explanation = update[0]
+                contradiction = False
+                for _ in range(2):
+                    state.status = "producing"
+                    state.alternative = ""
+                    state.contradiction = None
+                    state.triple = list(triple)
                     yield dumps_diff(state)
                     frame += 1
 
-                bot.stream = False
-                contradiction_score = check_consistent_cot_stream(
-                    bot,
-                    sent,
-                    state.alternative,
-                    query,
-                    " ".join(state.sentences[:i]),
-                    state.explanation,
-                )
-                contradiction = contradiction_score > 0.5
-                state.contradiction = contradiction
-                state.status = "done"
-                yield dumps_diff(state)
-                frame += 1
-                bot.stream = True
+                    continuation_stream = generate_statement_missing_object_free(
+                        bot,
+                        triple[0],
+                        triple[1],
+                        query,
+                        " ".join(state.sentences[:i]),
+                        override_temperature=1,
+                    )
+                    for update in continuation_stream:
+                        state.alternative = update[0]
+                        yield dumps_diff(state)
+                        frame += 1
+                    state.status = "done"
+                    yield dumps_diff(state)
+                    frame += 1
+                    state.contradiction = None
+                    state.generating = "contradiction"
+                    state.status = "starting"
+                    yield dumps_diff(state)
+                    frame += 1
+                    state.status = "producing"
+                    yield dumps_diff(state)
+                    frame += 1
 
-                state.generating = "mitigation"
-                # here we fetch the decision
-                state.mitigation = ""
-                state.status = "starting"
-                yield dumps_diff(state)
-                frame += 1
-                state.mitigation = ""
-                state.status = "producing"
-                yield dumps_diff(state)
-                frame += 1
-                if state.contradiction:
-                    if step == 1:
-                        state.decision = "drop"
-                        state.mitigation = (
-                            "[Hallucination removed]"
-                            if len(state.sentences) > 1
-                            else "The model can not provide a reliable answer for this query."
-                        )
-                        pass
-                    elif state.contradiction:
-                        checked.remove(sent)
-                        state.decision = "redact"
-                        mitigation_stream = rephrase_sent_remove_conflict(
-                            bot,
-                            sent,
-                            state.alternative,
-                            query,
-                            " ".join(state.sentences[:i]),
-                        )
-                        for update in mitigation_stream:
-                            state.mitigation = update[0]
-                            yield dumps_diff(state)
-                            frame += 1
-                else:
-                    state.decision = "keep"
-                    state.mitigation = sent
-                sent = state.mitigation
-                state.status = "done"
-                yield dumps_diff(state)
-                frame += 1
+                    explanation_stream = explain_consistent_cot(
+                        bot,
+                        sent,
+                        state.alternative,
+                        query,
+                        " ".join(state.sentences[:i]),
+                    )
+                    for update in explanation_stream:
+                        state.explanation = update[0]
+                        yield dumps_diff(state)
+                        frame += 1
 
-                if f"s_{i}" not in state.decisions:
-                    state.decisions[f"s_{i}"] = []
-                state.decisions[f"s_{i}"].append(
-                    {
-                        "decision": state.decision,
-                        "original": state.sentences[i],
-                        "contradiction": state.contradiction,
-                        "alternative": state.alternative,
-                        "mitigation": state.mitigation,
-                        "step": state.step,
-                        "frame": frame,
-                        "explanation": state.explanation,
-                        "triple": state.triple,
-                    }
-                )
-                state.sentences[i] = state.mitigation
-                state.mitigation = None
-                state.alternative = None
-                state.contradiction = None
-                state.explanation = None
-                state.decision = None
+                    bot.stream = False
+                    contradiction_score = check_consistent_cot_stream(
+                        bot,
+                        sent,
+                        state.alternative,
+                        query,
+                        " ".join(state.sentences[:i]),
+                        state.explanation,
+                    )
+                    contradiction = contradiction_score > 0.5
+                    state.contradiction = contradiction
+                    state.status = "done"
+                    yield dumps_diff(state)
+                    frame += 1
+                    bot.stream = True
+
+                    state.generating = "mitigation"
+                    # here we fetch the decision
+                    state.mitigation = ""
+                    state.status = "starting"
+                    yield dumps_diff(state)
+                    frame += 1
+                    state.mitigation = ""
+                    state.status = "producing"
+                    yield dumps_diff(state)
+                    frame += 1
+                    if state.contradiction:
+                        if step == 1:
+                            state.decision = "drop"
+                            state.mitigation = (
+                                "[Hallucination removed]"
+                                if len(state.sentences) > 1
+                                else "The model can not provide a reliable answer for this query."
+                            )
+                            pass
+                        elif state.contradiction:
+                            checked.remove(sent)
+                            state.decision = "redact"
+                            mitigation_stream = rephrase_sent_remove_conflict(
+                                bot,
+                                sent,
+                                state.alternative,
+                                query,
+                                " ".join(state.sentences[:i]),
+                            )
+                            for update in mitigation_stream:
+                                state.mitigation = update[0]
+                                yield dumps_diff(state)
+                                frame += 1
+                    else:
+                        state.decision = "keep"
+                        state.mitigation = sent
+                    sent = state.mitigation
+                    state.status = "done"
+                    yield dumps_diff(state)
+                    frame += 1
+
+                    if f"s_{i}" not in state.decisions:
+                        state.decisions[f"s_{i}"] = []
+                    state.decisions[f"s_{i}"].append(
+                        {
+                            "decision": state.decision,
+                            "original": state.sentences[i],
+                            "contradiction": state.contradiction,
+                            "alternative": state.alternative,
+                            "mitigation": state.mitigation,
+                            "step": state.step,
+                            "frame": frame,
+                            "explanation": state.explanation,
+                            "triple": state.triple,
+                        }
+                    )
+                    state.sentences[i] = state.mitigation
+                    state.mitigation = None
+                    state.alternative = None
+                    state.contradiction = None
+                    state.explanation = None
+                    state.decision = None
+                    if contradiction:
+                        break
                 if contradiction:
                     break
         state.current_sentence = None

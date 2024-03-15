@@ -1,0 +1,19 @@
+{
+  "target": "What is Nancy the capital of?",
+  "orig": "Nancy is the capital of the Meurthe-et-Moselle department in the Grand Est region of France.",
+  "alt": "Nancy is a city in northeastern France, located in the region of Grand Est.",
+  "prefix": "",
+  "triple": [
+    [
+      "Nancy",
+      "is",
+      "the capital of the Meurthe-et-Moselle department in the Grand Est region of France."
+    ],
+    "compactie",
+    482
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 specifically states that Nancy is the capital of the Meurthe-et-Moselle department in the Grand Est region of France, while Statement 2 provides additional information about Nancy being a city located in the same region. Both statements are true and do not contradict each other."
+}

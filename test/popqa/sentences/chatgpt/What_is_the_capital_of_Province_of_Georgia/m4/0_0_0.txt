@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Province of Georgia?",
+  "orig": "There is no province of Georgia.",
+  "alt": "There is no Province of Georgia. However, there is a country called Georgia, and the capital of Georgia is Tbilisi.",
+  "prefix": "",
+  "triple": [
+    [
+      "There",
+      "is",
+      "no province of Georgia."
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is the capital of Province of Georgia?\" are not contradictory. The first statement clarifies that there is no province of Georgia, which means that the question itself is invalid. The second statement provides the correct information that there is a country called Georgia, and its capital is Tbilisi. Therefore, both statements are consistent and provide accurate information."
+}

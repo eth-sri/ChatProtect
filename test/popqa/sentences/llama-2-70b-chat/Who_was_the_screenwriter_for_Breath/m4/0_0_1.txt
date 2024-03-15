@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Breath?",
+  "orig": "The screenwriter for the 2017 film \"Breath\" was Simon Baker, who also directed the film and starred in it as the character of Mr. Pike.",
+  "alt": "Simon Baker also directed the film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Simon Baker,",
+      "also directed",
+      "the film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Breath are not contradictory. Both statements confirm that Simon Baker was the screenwriter for the film, and also directed and starred in it as the character of Mr. Pike. Statement 1 simply provides additional information about Baker's involvement in the film, while statement 2 reiterates that he directed it."
+}

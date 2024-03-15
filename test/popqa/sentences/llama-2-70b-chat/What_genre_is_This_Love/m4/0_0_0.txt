@@ -1,0 +1,19 @@
+{
+  "target": "What genre is This Love?",
+  "orig": "\"This Love\" by Taylor Swift is a country pop song.",
+  "alt": "\"This Love\" by Taylor Swift is a pop song.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"This Love\" by Taylor Swift",
+      "is",
+      "a country pop song."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the genre of \"This Love\" by Taylor Swift are contradictory. The first statement identifies the song as a country pop song, while the second statement identifies it as a pop song. While pop music can incorporate elements of various genres, including country, the two statements suggest different primary genres for the song. Therefore, they cannot both be true at the same time."
+}

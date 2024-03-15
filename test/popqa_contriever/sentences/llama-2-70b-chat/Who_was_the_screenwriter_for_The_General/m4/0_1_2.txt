@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The General?",
+  "orig": "The text only mentions that William Mankiewicz wrote a first draft of the script for the film \"Batman,\" but it does not mention anything about \"The General.\"",
+  "alt": "The screenwriter for the film \"The General\" was not specified in the provided text.",
+  "prefix": " The screenwriter for the film \"The General\" was not specified in the provided text.",
+  "triple": [
+    [
+      "a first draft of the script for the film \"Batman,\"",
+      "does not mention",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements acknowledge that the provided text does not mention the screenwriter for \"The General.\" Statement 1 provides additional information about William Mankiewicz's involvement in writing the script for \"Batman,\" but it does not contradict the fact that the screenwriter for \"The General\" is not specified in the text. Therefore, both statements are consistent with each other."
+}

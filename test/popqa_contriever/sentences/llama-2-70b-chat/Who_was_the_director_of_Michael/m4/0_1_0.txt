@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Michael?",
+  "orig": "She was a television producer and director and was married to Michael in the 1970s.",
+  "alt": "She was a television producer and director.",
+  "prefix": " The director of Michael was Sandra Levy.",
+  "triple": [
+    [
+      "She",
+      "was",
+      "a television producer and director"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Michael? are contradictory. The first statement implies that Michael was the director of the film, while the second statement clarifies that it was actually Sandra Levy who was a television producer and director. Therefore, the two statements cannot both be true at the same time."
+}

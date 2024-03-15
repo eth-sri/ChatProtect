@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Eve?",
+  "orig": "The video game \"Parasite Eve\" is a role-playing video game (RPG).",
+  "alt": "The video game \"Parasite Eve\" is a role-playing game (RPG).",
+  "prefix": "",
+  "triple": [
+    [
+      "The video game \"Parasite Eve\"",
+      "is",
+      "a role-playing video game"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of \"Eve\" are not contradictory. They both state that \"Parasite Eve\" is a role-playing game (RPG), with the only difference being the inclusion or exclusion of the word \"video\". This difference does not change the meaning of the statement or contradict the other statement."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Superstar?",
+  "orig": "The film was directed by verso Vando and produced by Ben Myron.",
+  "alt": "The film was produced by Tommy Wirkola.",
+  "prefix": " The screenwriter for the 1999 film \"Superstar\" is not explicitly stated.",
+  "triple": [
+    [
+      "The film",
+      "produced",
+      "by Ben Myron."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Superstar are not contradictory. While the first statement mentions the lack of explicit information about the screenwriter, the second and third statements provide information about the director and producer of the film. However, none of the statements provide conflicting information about the identity of the screenwriter."
+}

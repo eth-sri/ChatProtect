@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Q?",
+  "orig": "The screenwriter for the movie \"Q\" (1996) is Michael Tolkin.",
+  "alt": "The screenwriter for the movie Q is Jonathan Glazer.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the movie",
+      "is",
+      "Michael Tolkin."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the screenwriter for Q? are contradictory. Statement 1 claims that Michael Tolkin was the screenwriter for the movie \"Q\" (1996), while statement 2 claims that Jonathan Glazer was the screenwriter for the movie Q. Since they are referring to the same movie, they cannot both be true. Therefore, the statements contradict each other."
+}

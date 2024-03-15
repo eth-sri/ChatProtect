@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Sun?",
+  "orig": "The newspaper is owned by News Corp, a media conglomerate that also owns other newspapers, television networks, and online media outlets.",
+  "alt": "The newspaper is owned by News Corp, a media conglomerate founded by Rupert Murdoch.",
+  "prefix": " The author of The Sun is not a specific person, but rather a team of journalists and editors who work together to create the newspaper's content. The Sun is a tabloid newspaper that is published in the United Kingdom and is known for its sensationalist headlines and coverage of news, sports, and celebrity gossip.",
+  "triple": [
+    [
+      "The newspaper",
+      "is owned",
+      "by News Corp,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Sun? are not contradictory. Both statements provide additional information about the ownership of The Sun, but do not contradict the fact that the newspaper's content is created by a team of journalists and editors. Statement 1 provides a broader context by mentioning that News Corp owns other media outlets, while Statement 2 specifically names Rupert Murdoch as the founder of News Corp."
+}

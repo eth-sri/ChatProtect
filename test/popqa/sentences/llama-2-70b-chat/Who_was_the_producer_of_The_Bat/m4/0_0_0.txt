@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Bat?",
+  "orig": "The producer of the 1959 film The Bat was Cousin C.C.",
+  "alt": "The producer of the 1959 film The Bat was Roger Corman.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 1959 film The Bat",
+      "was",
+      "Cousin C.C."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Bat are contradictory. Statement 1 claims that Cousin C.C. was the producer, while statement 2 claims that Roger Corman was the producer. Since they are two different names, they cannot both be true. Therefore, the statements contradict each other."
+}

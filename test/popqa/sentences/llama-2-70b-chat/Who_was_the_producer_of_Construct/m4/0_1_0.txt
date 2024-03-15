@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Construct?",
+  "orig": "The album was released in 2015, and there is no information available on the producer.",
+  "alt": "The album was released in 2013.",
+  "prefix": " The producer of the album \"Construct\" by The Construct is unknown.",
+  "triple": [
+    [
+      "The album",
+      "was released",
+      "in 2015,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Construct? are contradictory. Statement 1 says that the album was released in 2015 and there is no information available on the producer, while statement 2 says that the album was released in 2013. Since the release year of the album is different in both statements, it is not possible for both statements to be true at the same time. Therefore, the statements are contradictory."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Friday the 13th Part 2?",
+  "orig": "Frank Mancuso, Sr. was not the producer of Friday the 13th Part 2.",
+  "alt": "There is no gap to fill in this case, as Frank Mancuso, Sr. is not mentioned in the given text.",
+  "prefix": "",
+  "triple": [
+    [
+      "Frank Mancuso, Sr.",
+      "was not",
+      "the producer of Friday the 13th Part 2."
+    ],
+    "compactie",
+    627
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they do not refer to the same person. The given text states that the producer of Friday the 13th Part 2 was Frank Mancuso, Jr., the son of Paramount CEO Frank Mancuso, Sr. Statement 1 clarifies that Frank Mancuso, Sr. was not the producer of the film, while Statement 2 acknowledges that he is not mentioned in the given text. Therefore, the statements do not contradict each other."
+}

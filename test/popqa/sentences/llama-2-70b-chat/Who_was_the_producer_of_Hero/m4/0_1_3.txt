@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Hero?",
+  "orig": "He is a Chinese filmmaker and actor who has directed and produced many notable films, including \"Hero,\" \"Crouching Tiger, Hidden Dragon,\" and \"The Great Wall.\"",
+  "alt": "and produced several other successful films, including \"House of Flying Daggers\" and \"Curse of the Golden Flower\".",
+  "prefix": " The producer of the 2002 film \"Hero\" was Zhang Yimou.",
+  "triple": [
+    [
+      "and",
+      "produced",
+      "many notable films, including \"Hero,\" \"Crouching Tiger, Hidden Dragon,\" and \"The Great Wall.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the producer of \"Hero\" are not contradictory. Statement 1 provides additional information about Zhang Yimou, the producer of the film, including his profession as a filmmaker and actor, as well as other notable films he has directed and produced. Statement 2 further emphasizes his success as a producer, listing two additional successful films he has produced. Both statements are consistent with the fact that Zhang Yimou was the producer of \"Hero.\""
+}

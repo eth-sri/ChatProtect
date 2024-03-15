@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Dasht Jeyhun?",
+  "orig": "Dasht-e Jeyhun is located in the southeastern part of Turkmenistan.",
+  "alt": "Dasht-e Jeyhun is located in Iran.",
+  "prefix": "",
+  "triple": [
+    [
+      "Dasht-e Jeyhun",
+      "is located",
+      "in the southeastern part of Turkmenistan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about the location of Dasht Jeyhun are contradictory. Statement 1 claims that Dasht Jeyhun is located in Turkmenistan, while statement 2 claims that it is located in Iran. Since the two statements provide different answers to the same question, they cannot both be true at the same time. Therefore, they are contradictory."
+}

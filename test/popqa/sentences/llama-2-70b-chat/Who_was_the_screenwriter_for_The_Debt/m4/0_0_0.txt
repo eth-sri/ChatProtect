@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Debt?",
+  "orig": "The screenwriter for the 2010 film \"The Debt\" was Matthew Vaughn, who also directed the film.",
+  "alt": "The screenwriter for The Debt was Matthew Vaughn.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for the",
+      "was",
+      "Matthew Vaughn,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The Debt are not contradictory. Both statements identify Matthew Vaughn as the screenwriter for the film. The only difference is that statement 1 also mentions that Vaughn directed the film, while statement 2 does not provide that information."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about Homer Simpson",
+  "orig": "He is voiced by actor Dan Castellaneta and first appeared on television in 1989.",
+  "alt": "He is voiced by Dan Castellaneta.",
+  "prefix": " Homer Simpson is a fictional character and the main protagonist of the American animated sitcom, The Simpsons.",
+  "triple": [
+    [
+      "He",
+      "is voiced",
+      "by actor Dan Castellaneta"
+    ],
+    "compactie",
+    461
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Homer Simpson are not contradictory. Both statements provide additional information about the character, with statement 1 giving the year of his first appearance and statement 2 reiterating the fact that he is voiced by Dan Castellaneta."
+}

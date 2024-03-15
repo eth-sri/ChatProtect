@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The General?",
+  "orig": "The film was written by Buster Keaton and Clyde Bruckman, with additional dialogue by Joseph A. Mitchell.",
+  "alt": "The film was written by Buster Keaton and Clyde Bruckman.",
+  "prefix": " The General is a 1926 silent film comedy directed by Buster Keaton and Clyde Bruckman.",
+  "triple": [
+    [
+      "The film",
+      "was written",
+      "by Buster Keaton and Clyde Bruckman,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for The General are not contradictory. Statement 1 provides additional information that Joseph A. Mitchell contributed to the dialogue, while Statement 2 simply states that the film was written by Buster Keaton and Clyde Bruckman. Both statements agree that Keaton and Bruckman were the primary screenwriters for the film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Smooth?",
+  "orig": "The composer of \"Smooth\" is Rob Thomas and Carlos Santana.",
+  "alt": "The composer of \"Smooth\" is Rob Thomas.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"Smooth\"",
+      "is",
+      "Rob Thomas and Carlos Santana."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the composer of Smooth? are contradictory. \n\nStatement 1 claims that the composer of \"Smooth\" is both Rob Thomas and Carlos Santana, while Statement 2 claims that the composer of \"Smooth\" is only Rob Thomas. These two statements cannot both be true at the same time, as they present different information about the composer of the song. Therefore, they are contradictory."
+}

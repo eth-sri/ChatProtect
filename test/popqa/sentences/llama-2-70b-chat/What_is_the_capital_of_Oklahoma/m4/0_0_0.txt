@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Oklahoma?",
+  "orig": "The capital of Oklahoma is Oklahoma City.",
+  "alt": "The capital of Oklahoma is Oklahoma City.",
+  "prefix": "",
+  "triple": [
+    [
+      "The capital of Oklahoma",
+      "is",
+      "Oklahoma City."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"What is the capital of Oklahoma?\" are contradictory. Although they both provide the same answer, they are presented as separate statements, which implies that they are different pieces of information. A non-contradictory response would be a single statement that provides the answer to the prompt."
+}

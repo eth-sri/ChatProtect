@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Clouds?",
+  "orig": "The Clouds is a Greek comedy play written by Aristophanes and was first performed in 423 BCE in ancient Athens.",
+  "alt": "The Clouds is a play.",
+  "prefix": " The author of The Clouds is Aristophanes.",
+  "triple": [
+    [
+      "The Clouds",
+      "is",
+      "a Greek comedy play"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Clouds? are not contradictory. Statement 1 provides additional information about the play, including its genre, when it was written, and where it was first performed. Statement 2 simply restates that The Clouds is a play, which is already implied in the prompt. Both statements are consistent with the fact that Aristophanes is the author of The Clouds."
+}

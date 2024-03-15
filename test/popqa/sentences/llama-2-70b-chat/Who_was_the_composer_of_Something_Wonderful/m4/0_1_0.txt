@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Something Wonderful?",
+  "orig": "It was written for the 1951 musical \"The King and I\" and has since become a popular standard.",
+  "alt": "It was written for the 1951 musical \"The King and I.\"",
+  "prefix": " The composer of \"Something Wonderful\" is Rodgers and Hammerstein.",
+  "triple": [
+    [
+      "It",
+      "was written",
+      "for the 1951 musical \"The"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Something Wonderful? are not contradictory. Both statements agree that the composer of \"Something Wonderful\" is Rodgers and Hammerstein and that it was written for the 1951 musical \"The King and I.\" The only difference is that statement 1 adds that the song has become a popular standard."
+}

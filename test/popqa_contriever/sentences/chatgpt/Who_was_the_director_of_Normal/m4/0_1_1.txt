@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Normal?",
+  "orig": "The theater is a building and was owned by the town of Normal.",
+  "alt": "The Normal Theater was owned by the town of Normal after being purchased and renovated in the early 1990s.",
+  "prefix": " There is no information provided that the Normal Theater was directed by anyone.",
+  "triple": [
+    [
+      "a building",
+      "was owned",
+      "by the town of Normal."
+    ],
+    "compactie",
+    610
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements do not address the question of who was the director of Normal, so they are not contradictory. They provide information about the ownership and operation of the theater, but not about its director."
+}

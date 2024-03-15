@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Micro?",
+  "orig": "Micro is a thriller and science fiction novel.",
+  "alt": "Micro is a techno-thriller novel written by Michael Crichton and Richard Preston.",
+  "prefix": "",
+  "triple": [
+    [
+      "Micro",
+      "is",
+      "a thriller and science fiction novel."
+    ],
+    "compactie",
+    480
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Micro are not contradictory. Both statements describe Micro as a thriller novel, with statement 1 adding the additional genre of science fiction. Statement 2 provides further detail by specifying that Micro is a techno-thriller novel co-authored by Michael Crichton and Richard Preston."
+}

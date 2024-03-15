@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Michael?",
+  "orig": "Michael Wilson was the screenwriter.",
+  "alt": "Michael Wilson was the screenwriter for himself.",
+  "prefix": "",
+  "triple": [
+    [
+      "Michael Wilson",
+      "was",
+      "the screenwriter."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for Michael? are contradictory. Statement 1 correctly identifies Michael Wilson as the screenwriter, while statement 2 suggests that Michael Wilson was the screenwriter for himself, which does not make sense in the context of the prompt. The prompt is asking for the name of the screenwriter who worked on Michael's films, not for the screenwriter of Michael's personal projects. Therefore, statement 2 is incorrect and contradicts statement 1."
+}

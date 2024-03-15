@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of arrondissement of Limoges?",
+  "orig": "Limoges is not an arrondissement, it is a commune and the capital of the Haute-Vienne department in the Nouvelle-Aquitaine region of France.",
+  "alt": "An arrondissement is an administrative division in France, used in particular for the French department of Haute-Vienne, where Limoges is located.",
+  "prefix": "",
+  "triple": [
+    [
+      "an arrondissement,",
+      "is",
+      "a commune and the capital of the Haute-Vienne department in the Nouvelle-Aquitaine region of France."
+    ],
+    "compactie",
+    505
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 clarifies that Limoges is not an arrondissement but rather a commune and the capital of the Haute-Vienne department. Statement 2 provides additional information about arrondissements in general and their use in the Haute-Vienne department, where Limoges is located. Together, the statements provide a comprehensive answer to the prompt."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The River?",
+  "orig": "Therefore, the author of \"The River\" is not identified in the given text.",
+  "alt": "The author of \"The River\" is not identified in the provided text.",
+  "prefix": " The author of \"The River\" is not specified in the text. The text mentions that Carl Carmer wrote a well-received volume in the Rivers of America Series called \"The Hudson River\" in 1939, but it does not mention him as the author of \"The River.\"",
+  "triple": [
+    [
+      "the author of \"The River\"",
+      "is not identified",
+      "in the given text."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of \"The River\" are not contradictory. Both statements convey the same information that the author of \"The River\" is not mentioned or identified in the given text."
+}

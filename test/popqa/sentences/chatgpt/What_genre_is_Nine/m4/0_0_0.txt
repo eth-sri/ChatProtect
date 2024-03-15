@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Nine?",
+  "orig": "Nine is a musical drama film.",
+  "alt": "Nine is a musical, specifically a rap musical.",
+  "prefix": "",
+  "triple": [
+    [
+      "Nine",
+      "is",
+      "a musical drama film."
+    ],
+    "compactie",
+    472
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Nine are contradictory. The first statement identifies Nine as a musical drama film, while the second statement specifies that it is a rap musical. While a musical can certainly have elements of drama, the term \"musical drama\" typically refers to a specific subgenre of musical theater that emphasizes serious themes and complex characters. In contrast, a rap musical is a more specific subgenre that incorporates rap music and hip-hop culture into the storytelling. Therefore, the two statements cannot both be true at the same time."
+}

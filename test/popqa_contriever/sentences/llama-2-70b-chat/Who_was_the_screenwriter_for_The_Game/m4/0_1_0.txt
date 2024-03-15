@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Game?",
+  "orig": "The text only mentions that Jubert worked as a narrative designer on the game.",
+  "alt": "Jubert worked as a narrative designer on The Game.",
+  "prefix": " The screenwriter for The Game is not explicitly mentioned in the text.",
+  "triple": [
+    [
+      "Jubert",
+      "worked",
+      "as a narrative designer on the game."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 and Statement 2 are not contradictory. They both state that Jubert worked on The Game, but Statement 2 specifically mentions that he worked as a narrative designer, while the text does not explicitly state his role as a screenwriter. Therefore, while Jubert may have contributed to the writing of The Game, the text does not provide enough information to confirm whether he was the sole screenwriter or not."
+}

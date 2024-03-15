@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Le grand soir?",
+  "orig": "The producer of the film was Jean-Louis Trintignant, who was also one of the main actors in the movie.",
+  "alt": "The producer of the film was Claude Berri.",
+  "prefix": " Le grand soir is a 1967 French-Italian film directed by Claude Berri.",
+  "triple": [
+    [
+      "The producer of the film",
+      "was",
+      "Jean-Louis Trintignant,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Le grand soir are contradictory. Statement 1 claims that the producer was Jean-Louis Trintignant, while statement 2 claims that the producer was Claude Berri. Since they provide different answers to the same question, they cannot both be true at the same time."
+}

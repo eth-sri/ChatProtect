@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Other Guys?",
+  "orig": "Adam McKay, who also directed and co-wrote the film, was one of the producers of The Other Guys.",
+  "alt": "The film was produced by Adam McKay, Will Ferrell, and Jimmy Miller.",
+  "prefix": "",
+  "triple": [
+    [
+      "the film,",
+      "was",
+      "one of the producers of The Other Guys."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Other Guys are not contradictory. Statement 1 identifies Adam McKay as one of the producers, while Statement 2 expands on this by adding that Will Ferrell and Jimmy Miller were also producers. Therefore, both statements are consistent with each other and provide complementary information about the producers of the film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Revenge?",
+  "orig": "The show was created by Mike Kelley and produced by ABC Studios, The Mark Gordon Company, and Smoke and Mirrors.",
+  "alt": "The show produced 4 seasons from 2011 to 2015.",
+  "prefix": " The producer of the TV series \"Revenge\" was ABC Studios.",
+  "triple": [
+    [
+      "The show",
+      "produced",
+      "by ABC Studios, The Mark Gordon Company, and Smoke and Mirrors."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement provides the name of the primary producer of the TV series \"Revenge,\" which is ABC Studios. The second statement provides additional information about the show, including the fact that it was produced for four seasons from 2011 to 2015. Both statements are true and do not contradict each other."
+}

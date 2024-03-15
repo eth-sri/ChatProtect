@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of 9?",
+  "orig": "The producer of the movie 9 (2009) was Tim Burton.",
+  "alt": "The producer of the movie 9 was Tim Burton.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the movie 9",
+      "was",
+      "Tim Burton."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of 9 are not contradictory. Both statements provide the same answer to the prompt and state that Tim Burton was the producer of the movie 9. The only difference between the two statements is the use of parentheses in the first statement, which is simply a formatting choice and does not change the meaning of the statement."
+}

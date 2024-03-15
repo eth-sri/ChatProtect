@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Laura?",
+  "orig": "Laura Jones is the screenwriter, not the subject, so the question is unclear.",
+  "alt": "Laura Jones is an Australian screenwriter.",
+  "prefix": "",
+  "triple": [
+    [
+      "Laura Jones",
+      "is",
+      "the screenwriter, not the subject,"
+    ],
+    "compactie",
+    586
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement clarifies that the question is unclear as it implies that Laura is the subject, not the screenwriter. The second statement provides the answer that Laura Jones is indeed a screenwriter from Australia."
+}

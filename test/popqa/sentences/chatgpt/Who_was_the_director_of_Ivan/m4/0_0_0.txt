@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Ivan?",
+  "orig": "The director of Ivan is Oleg Safaraliev.",
+  "alt": "The director of Ivan is Janez Burger.",
+  "prefix": "",
+  "triple": [
+    [
+      "The director of Ivan",
+      "is",
+      "Oleg Safaraliev."
+    ],
+    "compactie",
+    476
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Ivan? are contradictory because they provide different names for the director of the film. Statement 1 claims that Oleg Safaraliev was the director, while Statement 2 claims that Janez Burger was the director. Since they cannot both be true, the statements contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Visit?",
+  "orig": "The book was written by Terrence McNally.",
+  "alt": "The book was written by Terrence McNally.",
+  "prefix": " The Visit is a musical with music and lyrics by John Kander and Fred Ebb.",
+  "triple": [
+    [
+      "The book",
+      "was written",
+      "by Terrence McNally."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are identical. They both provide information about the author of the book for The Visit, rather than the composer. Therefore, neither statement answers the prompt."
+}

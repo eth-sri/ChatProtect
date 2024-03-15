@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Romanitas?",
+  "orig": "Romanitas is a historical novel written by Robert Harris.",
+  "alt": "Romanitas is a novel written by Robert Harris.",
+  "prefix": "",
+  "triple": [
+    [
+      "Romanitas",
+      "is",
+      "a historical novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of Romanitas are not contradictory. Both statements identify Robert Harris as the author of the novel. The only difference between the two statements is that one includes the descriptor \"historical\" while the other does not. However, this difference does not change the fact that Robert Harris is the author of the novel."
+}

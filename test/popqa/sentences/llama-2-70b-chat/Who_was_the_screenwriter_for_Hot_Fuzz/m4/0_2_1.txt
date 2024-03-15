@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Hot Fuzz?",
+  "orig": "The film was directed by Edgar Wright and starred Simon Pegg, Nick Frost, and Jim Broadbent.",
+  "alt": "The film starred Simon Pegg as the protagonist, Nicholas Angel.",
+  "prefix": " The screenwriter for Hot Fuzz was Edgar Wright and Simon Pegg. They also co-wrote the film's story together.",
+  "triple": [
+    [
+      "The film",
+      "starred",
+      "Simon Pegg, Nick Frost, and Jim Broadbent."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Hot Fuzz are not contradictory. The first statement correctly identifies Edgar Wright and Simon Pegg as the screenwriters and co-writers of the film's story. The second statement provides additional information about the film's director (Edgar Wright) and the main cast members, including Simon Pegg in the lead role. Both statements are accurate and do not contradict each other."
+}

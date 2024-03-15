@@ -1,0 +1,19 @@
+{
+  "target": "In what country is National Assembly?",
+  "orig": "The National Assembly has the power to pass legislation, approve the budget, and exercise parliamentary control over the government.",
+  "alt": "The National Assembly has the power to pass legislation and approve the government's budget.",
+  "prefix": " The National Assembly is located in France. It is the lower house of the bicameral Parliament of France, the other house being the Senate. The National Assembly is composed of 577 deputies who are elected by the people for a five-year term. It is presided over by a President of the National Assembly, who is elected by the deputies.",
+  "triple": [
+    [
+      "The National Assembly",
+      "has",
+      "power to"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what country is National Assembly?\" are not contradictory. Both statements provide information about the powers of the National Assembly in France, with statement 1 providing additional information about its role in exercising parliamentary control over the government."
+}

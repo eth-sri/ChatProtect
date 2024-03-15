@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Doc?",
+  "orig": "The producer of Doc is George Englund.",
+  "alt": "The producer of Doc is Frank Perry.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Doc",
+      "is",
+      "George Englund."
+    ],
+    "compactie",
+    557
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The given statements about the producer of Doc, \"The producer of Doc is George Englund\" and \"The producer of Doc is Frank Perry,\" are contradictory. Only one person can be the producer of a film, and these statements suggest two different individuals. Therefore, they cannot both be true."
+}

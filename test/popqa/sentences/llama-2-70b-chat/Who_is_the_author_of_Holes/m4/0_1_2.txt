@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Holes?",
+  "orig": "Holes is a young adult novel written by Sachar and published in 1998.",
+  "alt": "Holes, a young adult novel, was published in 1998.",
+  "prefix": " The author of Holes is Louis Sachar.",
+  "triple": [
+    [
+      "a young adult novel",
+      "published",
+      "in 1998."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Holes? are not contradictory. Both statements provide additional information about the novel Holes, such as its genre and publication year, but they do not contradict the initial statement that Louis Sachar is the author."
+}

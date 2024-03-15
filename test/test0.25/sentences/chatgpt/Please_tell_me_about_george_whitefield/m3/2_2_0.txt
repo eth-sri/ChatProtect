@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about george whitefield",
+  "orig": "Whitefield was born in Gloucester, England, and was educated at Oxford University.",
+  "alt": "Whitefield was educated at Pembroke College, Oxford.",
+  "prefix": " George Whitefield was an English Anglican preacher who lived from 1714 to 1770. He was one of the most influential figures of the Great Awakening, a religious revival that swept through the American colonies in the mid-18th century.",
+  "triple": [
+    [
+      "Whitefield",
+      "was born was educated",
+      "at Oxford University."
+    ],
+    "compactie",
+    499
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about George Whitefield are contradictory as they provide different information about where he was educated. Statement 1 says he was educated at Oxford University, while Statement 2 specifies that he was educated at Pembroke College, which is a constituent college of Oxford University. However, the two statements do not contradict the fact that Whitefield was an influential figure of the Great Awakening."
+}

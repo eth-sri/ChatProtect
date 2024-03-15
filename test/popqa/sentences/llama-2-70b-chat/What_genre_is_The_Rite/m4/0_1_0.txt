@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Rite?",
+  "orig": "It is classified as a horror film, specifically a demonic possession film, as it centers around the idea of demonic spirits and the rituals used to expel them.",
+  "alt": "It is classified as a PG-13 movie.",
+  "prefix": " The Rite is a supernatural thriller film that incorporates elements of horror and drama.",
+  "triple": [
+    [
+      "It",
+      "is classified",
+      "as a horror film, specifically a demonic possession film,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of The Rite are not contradictory. Statement 1 provides a more specific sub-genre classification within the broader genre of horror, while Statement 2 provides information about the film's rating. Both statements can coexist and provide different aspects of the film's genre classification."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Parlami d'Amore?",
+  "orig": "Silvio Muccino and Carla Vangelista co-wrote the novel of the same name that the film is based on, and Silvio Muccino also directed the film.",
+  "alt": "The film is based on the novel of the same name that was co-written by Silvio Muccino and Carla Vangelista.",
+  "prefix": "",
+  "triple": [
+    [
+      "the film",
+      "is based",
+      ""
+    ],
+    "compactie",
+    647
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. They both state that Silvio Muccino was involved in the writing of the novel and the screenplay, and that the film is based on the novel co-written by Muccino and Carla Vangelista. The only difference is the order in which the names are presented."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Jan van de Cappelle born?",
+  "orig": "Jan van de Cappelle was born in Antwerp, which is a city located in the Flemish region of Belgium.",
+  "alt": "Jan van de Cappelle was born in Amsterdam.",
+  "prefix": "",
+  "triple": [
+    [
+      "Jan van de Cappelle",
+      "was born",
+      "in Antwerp,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about In what city was Jan van de Cappelle born? are contradictory. Statement 1 claims that Jan van de Cappelle was born in Antwerp, Belgium, while statement 2 claims that he was born in Amsterdam. These two cities are located in different countries, with Antwerp being in Belgium and Amsterdam being in the Netherlands. Therefore, the two statements cannot both be true, and they contradict each other."
+}

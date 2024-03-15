@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of arrondissement of Limoges?",
+  "orig": "However, France does not have administrative divisions called \"arrondissements\" at the national level.",
+  "alt": "France does not have an arrondissement of Limoges.",
+  "prefix": " I'm not sure what you mean by \"arrondissement of Limoges.\" Limoges is a city in France, and it is the capital of the Haute-Vienne department.",
+  "triple": [
+    [
+      "France",
+      "does",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements are not contradictory. The first statement clarifies that France does not have administrative divisions called \"arrondissements\" at the national level, which implies that the term \"arrondissement of Limoges\" may not be a valid administrative division in France. The second statement confirms that France does not have an arrondissement of Limoges, which supports the information provided in the first statement. Therefore, both statements are consistent with each other and provide a clear answer to the prompt."
+}

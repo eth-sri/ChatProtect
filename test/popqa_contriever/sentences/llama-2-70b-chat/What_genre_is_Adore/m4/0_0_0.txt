@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Adore?",
+  "orig": "\"Adore\" by Amy Shark can be classified as indie pop or alternative pop.",
+  "alt": "\"Adore\" by Amy Shark can be classified as indie pop.",
+  "prefix": "",
+  "triple": [
+    [
+      "\"Adore\" by Amy Shark",
+      "can be classified",
+      "as indie pop or alternative pop."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of \"Adore\" by Amy Shark are not contradictory. Statement 1 includes the possibility of the song being classified as alternative pop, while statement 2 only includes indie pop as a classification. Therefore, statement 1 is more inclusive than statement 2, but they both agree that the song can be classified as indie pop."
+}

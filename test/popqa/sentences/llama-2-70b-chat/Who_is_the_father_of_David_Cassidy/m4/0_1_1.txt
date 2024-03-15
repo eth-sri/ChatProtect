@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of David Cassidy?",
+  "orig": "Jack Cassidy was a singer and actor, and he was married to Evelyn Ward, David's mother.",
+  "alt": "He was a singer and actor.",
+  "prefix": " David Cassidy's father was Jack Cassidy.",
+  "triple": [
+    [
+      "he",
+      "was",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the father of David Cassidy are not contradictory. The first statement directly answers the prompt by identifying Jack Cassidy as David Cassidy's father and also provides additional information about his relationship with David's mother. The second statement provides further information about Jack Cassidy's career as a singer and actor, which is not directly related to his paternity. Therefore, both statements can be true simultaneously without contradicting each other."
+}

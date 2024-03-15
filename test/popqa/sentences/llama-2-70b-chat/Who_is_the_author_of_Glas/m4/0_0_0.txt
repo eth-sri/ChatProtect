@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Glas?",
+  "orig": "Glas is a novel written by Jacques Derrida.",
+  "alt": "Glas is a novel written byJean Genet.",
+  "prefix": "",
+  "triple": [
+    [
+      "Glas",
+      "is",
+      "a novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Glas? are contradictory. Statement 1 claims that Jacques Derrida is the author of Glas, while statement 2 claims that Jean Genet is the author. Since they are two different authors, they cannot both be correct. Therefore, the statements contradict each other."
+}

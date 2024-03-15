@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Images?",
+  "orig": "The article states that he wrote the script and collaboratively developed it further with the actors throughout the shoot.",
+  "alt": "He wrote and developed the screenplay in collaboration with the actors.",
+  "prefix": " The screenwriter for Images was Robert Altman, who also directed the film.",
+  "triple": [
+    [
+      "he",
+      "wrote developed",
+      "it further with the actors throughout the shoot."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Images are not contradictory. Both statements agree that Robert Altman wrote the script for the film and collaborated with the actors to develop it further during the shoot. The only difference is in the wording of the second statement, which emphasizes that Altman both wrote and developed the screenplay in collaboration with the actors."
+}

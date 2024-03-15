@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of list of Mr. Men?",
+  "orig": "He created the series in the 1970s and wrote and illustrated all of the books himself.",
+  "alt": "and illustrated by Adam Hargreaves, his son.",
+  "prefix": " The author of the Mr. Men series is Roger Hargreaves.",
+  "triple": [
+    [
+      "and",
+      "illustrated",
+      "all of the books himself."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The first statement clearly states that Roger Hargreaves both wrote and illustrated all of the Mr. Men books himself. However, the second statement contradicts this by stating that the books were illustrated by Adam Hargreaves, Roger's son. Therefore, the two statements cannot both be true at the same time."
+}

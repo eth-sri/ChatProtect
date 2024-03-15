@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Unapologetic?",
+  "orig": "The producer of Rihanna's album \"Unapologetic\" was Stargate, which is a production duo composed of Tor Erik Hermansen and Mikkel Storleer Eriksen.",
+  "alt": "Stargate is a producer of Unapologetic.",
+  "prefix": "",
+  "triple": [
+    [
+      "Stargate,",
+      "is",
+      "a production duo"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Unapologetic are not contradictory. Statement 1 provides the specific information that Stargate, composed of Tor Erik Hermansen and Mikkel Storleer Eriksen, was the producer of the album. Statement 2 simply restates that Stargate produced Unapologetic without providing any additional information. Both statements are consistent with each other."
+}

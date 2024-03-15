@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Mark?",
+  "orig": "The text mentions Michael Frayn, who became a lifelong friend of the researcher, director, and producer John Drury, but it does not mention anyone named Mark.",
+  "alt": "Michael Frayn became a lifelong friend of Marks.",
+  "prefix": " The director of The Mark is not specified in the text.",
+  "triple": [
+    [
+      "Michael Frayn,",
+      "became",
+      "a lifelong friend of the researcher, director, and producer John Drury,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the text does not mention anyone named Mark, it does mention John Drury Marks, who was a director and producer of television arts programmes and became Head of Music Programmes at the BBC. The second statement confirms that Michael Frayn became a lifelong friend of Marks, further emphasizing his role as a director and producer."
+}

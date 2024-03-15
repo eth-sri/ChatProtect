@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Construct?",
+  "orig": "It seems like there is a mistake in your question.",
+  "alt": "It is Jones.",
+  "prefix": "",
+  "triple": [
+    [
+      "It",
+      "is",
+      "a mistake in your question."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Construct? are not contradictory. Statement 2 clarifies that the producer of Construct is Jones, while Statement 1 suggests that there may be an error in the question itself. They do not contradict each other."
+}

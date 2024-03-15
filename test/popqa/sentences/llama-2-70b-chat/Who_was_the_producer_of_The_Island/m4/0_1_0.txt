@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Island?",
+  "orig": "They produced the film through their production company, Amblin Entertainment, in association with DreamWorks Pictures.",
+  "alt": "They produced the film under their production company, DreamWorks.",
+  "prefix": " The producer of the 2005 film The Island was Walter F. Parkes and Laurie MacDonald.",
+  "triple": [
+    [
+      "They",
+      "produced",
+      "the film"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Island are not contradictory. Both statements mention Walter F. Parkes and Laurie MacDonald as the producers of the film. The only difference is that statement 1 specifies that they produced the film through their production company, Amblin Entertainment, in association with DreamWorks Pictures, while statement 2 specifies that they produced the film under their production company, DreamWorks. These are simply different ways of describing the same production arrangement and do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Crossing?",
+  "orig": "The director of The Crossing is a 2000 historical drama film directed by Robert Harmon.",
+  "alt": "The director of the 2000 historical drama film The Crossing was Robert Harmon.",
+  "prefix": "",
+  "triple": [
+    [
+      "a 2000 historical drama film",
+      "directed",
+      "by"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Crossing? are not contradictory. Both statements provide the same information, with the only difference being the order of the words in the sentence. Statement 1 introduces the film and then identifies the director, while Statement 2 identifies the director and then specifies the film. However, both statements convey the same information that Robert Harmon was the director of The Crossing."
+}

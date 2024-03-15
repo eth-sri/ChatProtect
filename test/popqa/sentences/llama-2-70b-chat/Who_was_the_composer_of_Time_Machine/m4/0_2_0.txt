@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Time Machine?",
+  "orig": "If that's the case, I'm unsure who the composer for the film is.",
+  "alt": "The composer for the film is Jean Constantin.",
+  "prefix": " I'm not aware of a composer named Time Machine. Could Fran\u00e7ois Truffaut's 1960 film \"The 400 Blows\" have a music composer by this name?",
+  "triple": [
+    [
+      "the composer for the film",
+      "is.",
+      ""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they are referring to different works. The first statement is questioning whether there is a composer named Time Machine and suggesting that the name may be associated with a different film. The second statement provides the actual composer for the film \"The 400 Blows\" mentioned in the previous sentence."
+}

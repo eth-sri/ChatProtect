@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Don?",
+  "orig": "However, Farhan Akhtar, who is the son of Javed Akhtar, one of the writers of the original film, made a remake of the film in 2006, which was also titled Don.",
+  "alt": "Farhan made a remake of the film in 2006.",
+  "prefix": " The director of Don was Chandra Barot.",
+  "triple": [
+    [
+      "Farhan",
+      "made",
+      "a remake of the film in 2006,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the director of Don are not contradictory. The first statement correctly identifies Chandra Barot as the director of the original 1978 film. The second statement provides additional information about a remake of the film made by Farhan Akhtar in 2006, which is not contradictory to the first statement."
+}

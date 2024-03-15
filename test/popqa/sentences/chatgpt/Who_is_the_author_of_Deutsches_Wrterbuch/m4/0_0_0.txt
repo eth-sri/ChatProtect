@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Deutsches W\u00f6rterbuch?",
+  "orig": "The authors of Deutsches W\u00f6rterbuch are Jacob Grimm and Wilhelm Grimm.",
+  "alt": "The authors of Deutsches W\u00f6rterbuch are Jacob and Wilhelm Grimm.",
+  "prefix": "",
+  "triple": [
+    [
+      "The authors of Deutsches W\u00f6rterbuch",
+      "are",
+      "Jacob Grimm and Wilhelm Grimm."
+    ],
+    "compactie",
+    495
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the authors of Deutsches W\u00f6rterbuch are not contradictory. Both statements provide the same information, identifying Jacob and Wilhelm Grimm as the authors of the dictionary. The only difference is the use of their full names in the first statement and their first names only in the second statement."
+}

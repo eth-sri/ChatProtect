@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Taxi?",
+  "orig": "Taxi is a comedy-drama film.",
+  "alt": "Taxi is a comedy film.",
+  "prefix": "",
+  "triple": [
+    [
+      "Taxi",
+      "is",
+      "a comedy-drama film."
+    ],
+    "compactie",
+    470
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Taxi are not contradictory, but rather one is a more specific subgenre of the other. Statement 1 describes Taxi as a comedy-drama film, indicating that it contains elements of both comedy and drama. Statement 2 simply describes Taxi as a comedy film, which is a broader genre that encompasses any film that is primarily intended to be humorous. Therefore, both statements can be true at the same time without contradicting each other."
+}

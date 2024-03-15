@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Pan?",
+  "orig": "Powell is a British composer who has composed music for over 50 films, including \"Shrek,\" \"The Bourne Identity,\" and \"How to Train Your Dragon.\"",
+  "alt": "John Powell has composed many other film scores, including the music for the \"Clarkson: Top Gear\" television series.",
+  "prefix": " The composer of the 2015 film \"Pan\" is John Powell.",
+  "triple": [
+    [
+      "composer",
+      "has composed",
+      "music for over 50 films, including \"Shrek,\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the composer of Pan? are not contradictory. Statement 1 provides additional information about John Powell's career as a composer, including other films he has worked on. Statement 2 further supports the idea that Powell has composed music for various media, including television. Both statements are consistent with the initial text that identifies Powell as the composer of \"Pan.\""
+}

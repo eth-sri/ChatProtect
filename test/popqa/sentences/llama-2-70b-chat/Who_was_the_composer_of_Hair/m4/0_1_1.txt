@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Hair?",
+  "orig": "MacDermot was a Canadian-American composer, pianist, and writer who was best known for his work in musical theatre.",
+  "alt": "Galt MacDermot was a Canadian composer.",
+  "prefix": " The music for the musical \"Hair\" was written by Galt MacDermot.",
+  "triple": [
+    [
+      "a",
+      "was",
+      "best known for his work in musical theatre."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the composer of Hair are not contradictory. Both statements agree that Galt MacDermot was the composer of the musical \"Hair\". The only difference is that statement 1 provides additional information about MacDermot's profession and his notable work in musical theatre, while statement 2 simply specifies his nationality."
+}

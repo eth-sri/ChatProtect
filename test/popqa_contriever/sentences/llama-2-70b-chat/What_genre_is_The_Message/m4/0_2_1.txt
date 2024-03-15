@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Message?",
+  "orig": "The book is part of the Animorphs series, which is a series of young adult science fiction novels that combines elements of science fiction, fantasy, and action-adventure.",
+  "alt": "The book is part of the Animorphs series.",
+  "prefix": " The genre of The Message, written by K.A. Applegate and published in 1996, is young adult science fiction.",
+  "triple": [
+    [
+      "The book",
+      "is",
+      "a series of young adult science fiction novels"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides additional information about the Animorphs series as a whole, while Statement 2 simply states that The Message is a part of that series. Both statements are consistent in identifying the genre of The Message as young adult science fiction."
+}

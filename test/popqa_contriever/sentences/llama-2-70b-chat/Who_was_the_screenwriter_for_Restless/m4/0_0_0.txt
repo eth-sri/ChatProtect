@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Restless?",
+  "orig": "The screenwriter for \"The Young and the Restless\" during the time period mentioned in the passage was Hogan Sheffer.",
+  "alt": "The screenwriter for \"The Young and the Restless\" mentioned is Hogan Sheffer.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for \"The Young and the Restless\"",
+      "mentioned",
+      "in the passage"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for \"The Young and the Restless\" are contradictory. Statement 1 implies that Hogan Sheffer was the screenwriter during the time period mentioned in the passage, while Statement 2 implies that Hogan Sheffer is the screenwriter mentioned in the passage. However, the passage actually mentions both Sheffer and Griffith as having worked on the show during different time periods. Therefore, only Statement 2 is accurate in identifying one of the screenwriters mentioned in the passage."
+}

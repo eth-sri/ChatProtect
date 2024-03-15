@@ -1,0 +1,19 @@
+{
+  "target": "What is Vienna the capital of?",
+  "orig": "Vienna is the federal capital of Austria.",
+  "alt": "Vienna is the federal capital and largest city of Austria.",
+  "prefix": "",
+  "triple": [
+    [
+      "Vienna",
+      "is",
+      "the federal capital of Austria."
+    ],
+    "compactie",
+    565
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Vienna the capital of?\" are not contradictory. Statement 2 includes the information from Statement 1 and adds the fact that Vienna is also the largest city in Austria. Therefore, both statements are true and provide complementary information about Vienna's status as the capital of Austria."
+}

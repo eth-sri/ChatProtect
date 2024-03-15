@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Wall Street?",
+  "orig": "He was the executive producer of the film, which was released in 1987.",
+  "alt": "The executive producer of the film, Joel Silver, was released in 1987.",
+  "prefix": " The producer of the movie Wall Street was Edward R. Pressman.",
+  "triple": [
+    [
+      "the executive producer of the film,",
+      "was released",
+      "in 1987."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who was the producer of Wall Street? are contradictory. The first statement states that Edward R. Pressman was the executive producer of the film, while the second statement states that Joel Silver was the executive producer of the film. Since they both cannot be the executive producer, the statements contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Help?",
+  "orig": "The genre of the song \"Help\" by The Beatles is rock music, specifically British Invasion rock.",
+  "alt": "The genre of the song \"Help\" by The Beatles is pop.",
+  "prefix": "",
+  "triple": [
+    [
+      "The genre of the song \"Help\" by The Beatles",
+      "is",
+      "rock music, specifically British Invasion rock."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about What genre is Help? are contradictory. Statement 1 identifies the genre of \"Help\" as British Invasion rock, while Statement 2 identifies it as pop. While British Invasion rock is a subgenre of rock music, it is distinct from pop music. Therefore, the two statements cannot both be true."
+}

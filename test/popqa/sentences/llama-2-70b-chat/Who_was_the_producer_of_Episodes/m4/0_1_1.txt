@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Episodes?",
+  "orig": "The show was created and written by David Crane and Jeffrey Klarik, and it was produced by Hat Trick Productions in association with Crane Klarik Productions.",
+  "alt": "The show was created and written by David Crane and Jeffrey Klarik.",
+  "prefix": " The producer of the TV show \"Episodes\" was Hat Trick Productions.",
+  "triple": [
+    [
+      "The show",
+      "was created written",
+      "by David Crane and Jeffrey Klarik,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of Episodes? are not contradictory. Statement 1 provides additional information about the production of the show, including the fact that it was produced in association with Crane Klarik Productions. Statement 2 simply confirms that David Crane and Jeffrey Klarik were the creators and writers of the show."
+}

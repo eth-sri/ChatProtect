@@ -1,0 +1,19 @@
+{
+  "target": "Who is the father of Alexander?",
+  "orig": "The father of Alexander is Achaeus.",
+  "alt": "The father of Alexander is Achaeus, a wealthy nobleman who owned estates in Anatolia.",
+  "prefix": "",
+  "triple": [
+    [
+      "The father of Alexander",
+      "is",
+      "Achaeus."
+    ],
+    "compactie",
+    630
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 2 provides additional information about Achaeus, such as his wealth and ownership of estates in Anatolia, but both statements ultimately identify him as the father of Alexander."
+}

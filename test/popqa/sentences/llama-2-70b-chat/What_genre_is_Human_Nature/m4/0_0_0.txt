@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Human Nature?",
+  "orig": "Human Nature is a pop boy band from the United Kingdom, and their music can be classified as pop and R&B.",
+  "alt": "Human Nature is a pop band.",
+  "prefix": "",
+  "triple": [
+    [
+      "Human Nature",
+      "is",
+      "a pop boy band from the United Kingdom,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about What genre is Human Nature? are contradictory. Statement 1 describes Human Nature as a pop boy band with music that can be classified as pop and R&B, while Statement 2 simply describes them as a pop band. The inclusion of \"boy band\" and the mention of R&B in Statement 1 suggests a more specific genre classification than the broad label of \"pop\" in Statement 2."
+}

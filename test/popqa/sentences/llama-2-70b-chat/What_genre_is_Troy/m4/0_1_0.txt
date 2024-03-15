@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Troy?",
+  "orig": "It is based on Homer's Iliad, which is an ancient Greek epic poem that tells the story of the Trojan War.",
+  "alt": "It is based on Homer's epic poem, the Iliad.",
+  "prefix": " Troy is a historical epic film directed by Wolfgang Petersen, released in 2004.",
+  "triple": [
+    [
+      "It",
+      "is based",
+      "on Homer's Iliad,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Troy are not contradictory. Both statements provide additional information about the source material for the film, which is the ancient Greek epic poem, the Iliad. The fact that Troy is a historical epic film is not contradicted by the information that it is based on the Iliad. In fact, the source material reinforces the idea that Troy is a historical epic film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of The Brat?",
+  "orig": "The Brat is a 1931 American pre-Code comedy film starring Charlie Chaplin, Edna Purviance, and Jackie Coogan.",
+  "alt": "a. Starring Charlie Chaplin.",
+  "prefix": " The director of The Brat was John Francis Dillon.",
+  "triple": [
+    [
+      "a",
+      "starring",
+      "Charlie Chaplin, Edna Purviance, and Jackie Coogan."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of The Brat? are not contradictory. The first statement provides the answer to the prompt, stating that the director was John Francis Dillon. The second statement provides additional information about the film, specifically that it starred Charlie Chaplin, but does not contradict the information provided in the first statement."
+}

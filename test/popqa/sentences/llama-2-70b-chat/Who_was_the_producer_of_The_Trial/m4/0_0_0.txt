@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Trial?",
+  "orig": "The producer of the 1925 German silent film \"The Trial\" (also known as \"Der Process\" or \"Le Proc\u00e8s\") was Hermann Kintopp.",
+  "alt": "The producer of the 1925 film \"The Trial\" was Josef von Sternberg.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the 1925",
+      "was",
+      "Hermann Kintopp."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of \"The Trial\" are contradictory because they provide different names for the producer. Statement 1 claims that Hermann Kintopp was the producer, while statement 2 claims that Josef von Sternberg was the producer. Since they cannot both be true, the statements contradict each other."
+}

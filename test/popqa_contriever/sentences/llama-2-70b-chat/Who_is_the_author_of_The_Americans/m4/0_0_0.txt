@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Americans?",
+  "orig": "The author of \"Thomas Jefferson: Author of America\" is Christopher Hitchens.",
+  "alt": "The author of \"Thomas Jefferson: Author of America\" is Christopher Hitchens.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Thomas",
+      "is",
+      "Christopher Hitchens."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are identical and do not provide any information about the author of \"The Americans.\" Therefore, they are not contradictory, but they do not answer the prompt."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Blue Light?",
+  "orig": "The producer of the film The Blue Light (1932) was Robert Flaherty.",
+  "alt": "The producer of the film was Wim Wenders.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of the film",
+      "was",
+      "Robert Flaherty."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of The Blue Light are contradictory. Statement 1 claims that Robert Flaherty was the producer, while statement 2 claims that Wim Wenders was the producer. As both statements cannot be true at the same time, they contradict each other."
+}

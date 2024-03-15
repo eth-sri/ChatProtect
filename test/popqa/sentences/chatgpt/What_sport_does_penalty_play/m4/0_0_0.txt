@@ -1,0 +1,19 @@
+{
+  "target": "What sport does penalty play?",
+  "orig": "Penalty is not a sport, but rather a method of punishment used in several sports.",
+  "alt": "Penalty is not a sport, but rather a method of punishment used in various sports, such as soccer and ice hockey.",
+  "prefix": "",
+  "triple": [
+    [
+      "a sport, but rather a method of punishment",
+      "used",
+      "in several sports."
+    ],
+    "compactie",
+    496
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What sport does penalty play?\" are not contradictory. Both statements agree that penalty is not a sport but a method of punishment used in different sports. The only difference is that statement 2 provides examples of sports where penalty is used, while statement 1 does not. Therefore, both statements are consistent with each other."
+}

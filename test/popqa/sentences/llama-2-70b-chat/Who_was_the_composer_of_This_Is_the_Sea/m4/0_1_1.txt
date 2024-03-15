@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of This Is the Sea?",
+  "orig": "He is a South African-born British composer, musician, and producer who has composed music for a wide range of films, television shows, and commercials.",
+  "alt": "Trevor Jones has composed numerous film scores, including the music for \"The Last of the Mohicans\" and \"Notting Hill.\"",
+  "prefix": " The composer of \"This Is the Sea\" is Trevor Jones.",
+  "triple": [
+    [
+      "a",
+      "has composed",
+      "music for a wide range of films, television shows, and commercials."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"This Is the Sea\" are not contradictory. The first statement provides the answer to the prompt and identifies Trevor Jones as the composer of the song. The second statement provides additional information about Jones' career as a composer, including his work on other film scores such as \"The Last of the Mohicans\" and \"Notting Hill.\" Both statements are true and do not contradict each other."
+}

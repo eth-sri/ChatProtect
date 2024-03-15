@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Unreal Tournament?",
+  "orig": "The music was created by a group of audio professionals who worked at Epic Games, the company that developed the game.",
+  "alt": "The company that developed Unreal Tournament was Epic Games.",
+  "prefix": " The music for Unreal Tournament was composed by a team of composers, rather than a single individual.",
+  "triple": [
+    [
+      "company",
+      "developed",
+      "the game."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt asks for the composer of Unreal Tournament, the text clarifies that it was actually a team of composers who worked on the music for the game. Statement 1 further explains that these composers were audio professionals employed by Epic Games, the company that developed the game, which is also confirmed in statement 2. Therefore, both statements provide additional information about the team of composers and the company behind Unreal Tournament, without contradicting each other."
+}

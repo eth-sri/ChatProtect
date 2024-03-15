@@ -12,6 +12,8 @@ from chatprotect.util import (
 )
 from collections import defaultdict
 
+sentence_total = [0, 0]
+
 parser = ArgumentParser()
 parser.add_argument("--set", type=str, help="testset to be assessed", default="test")
 parser.add_argument(
@@ -160,11 +162,20 @@ for target in ENTITIES:
             unique_sents.add(sent)
     for sent in unique_sents:
         ext_sents = sents[sent]
+        contradiction = 0
         for ext_sent in ext_sents:
             tag = OK if ext_sent.tag == "ok" else STRONG
             facts[tag] += 1
+            if tag == STRONG:
+                contradiction += 1
+        if ext_sents:
+            if contradiction > 0:
+                sentence_total[STRONG] += 1
+            else:
+                sentence_total[OK] += 1
 
     print(",".join(map(str, facts)))
     fact_total[0] += facts[0]
     fact_total[1] += facts[1]
 print(",".join(map(str, fact_total)))
+# print(",".join(map(str, sentence_total)))

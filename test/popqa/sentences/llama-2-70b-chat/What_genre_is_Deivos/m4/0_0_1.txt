@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Deivos?",
+  "orig": "Deivos is a Polish death metal band, specifically playing a style known as brutal death metal.",
+  "alt": "Specifically playing technical death metal.",
+  "prefix": "",
+  "triple": [
+    [
+      "a Polish death metal",
+      "specifically playing",
+      "a style"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Deivos are contradictory. The first statement identifies Deivos as a brutal death metal band, while the second statement identifies them as a technical death metal band. While both subgenres fall under the umbrella of death metal, they have distinct characteristics and are not interchangeable. Therefore, the two statements cannot both be true at the same time."
+}

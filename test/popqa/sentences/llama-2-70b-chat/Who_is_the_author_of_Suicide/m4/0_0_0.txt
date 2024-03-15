@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Suicide?",
+  "orig": "The author of \"Suicide\" is \u00c9mile Durkheim.",
+  "alt": "The author of \"Suicide\" is Albert Camus.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of \"Suicide\"",
+      "is",
+      "\u00c9mile Durkheim."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of \"Suicide\" are contradictory. Statement 1 claims that \u00c9mile Durkheim is the author, while statement 2 claims that Albert Camus is the author. Both cannot be true at the same time. It is possible that one of the statements is incorrect or that there are multiple works titled \"Suicide\" with different authors. Further clarification is needed to determine the correct author of \"Suicide.\""
+}

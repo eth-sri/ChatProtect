@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Clouds?",
+  "orig": "The Clouds is a Greek comedy play written by Aristophanes and was first performed in 423 BCE in ancient Athens.",
+  "alt": "The Clouds was first performed in 423 BCE at the Dionysia festival in Athens.",
+  "prefix": " The author of The Clouds is Aristophanes.",
+  "triple": [
+    [
+      "a Greek comedy play",
+      "was first performed",
+      "in 423 BCE in ancient Athens."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Clouds? are not contradictory. Both statements provide additional information about the play and its first performance, but they do not contradict the fact that Aristophanes is the author of The Clouds. Statement 1 identifies the play as a Greek comedy and provides the year of its first performance, while Statement 2 specifies the festival at which it was performed. Both statements support the fact that Aristophanes wrote The Clouds."
+}

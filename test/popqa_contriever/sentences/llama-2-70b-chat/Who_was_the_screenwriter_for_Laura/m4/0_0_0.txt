@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Laura?",
+  "orig": "The screenwriter for \"Laura\" was Laura Jones.",
+  "alt": "The screenwriter for \"Laura\" was Laura Jones.",
+  "prefix": "",
+  "triple": [
+    [
+      "The screenwriter for \"Laura\"",
+      "was",
+      "Laura Jones."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are incomplete and do not fully answer the prompt. The prompt asks for information about the screenwriter for \"Laura,\" but the statements only repeat the name of the screenwriter, Laura Jones. More information is needed to fully answer the prompt."
+}

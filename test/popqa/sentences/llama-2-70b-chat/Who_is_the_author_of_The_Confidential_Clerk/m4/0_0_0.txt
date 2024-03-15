@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Confidential Clerk?",
+  "orig": "The author of The Confidential Clerk is T.S.",
+  "alt": "The author of The Confidential Clerk is T.S. Eliot.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Confidential Clerk",
+      "is",
+      "T.S."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Confidential Clerk? are not contradictory. Statement 2 provides the full name of the author, while Statement 1 only provides the author's initials. Therefore, Statement 2 clarifies and expands upon the information provided in Statement 1."
+}

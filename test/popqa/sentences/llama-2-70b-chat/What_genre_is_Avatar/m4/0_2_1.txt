@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Avatar?",
+  "orig": "The film is set in the future and takes place on a planet called Pandora, where humans have established a mining colony to extract a valuable mineral called unobtanium.",
+  "alt": "The film takes place in the future, on a planet called Pandora, where humans have established a mining colony.",
+  "prefix": " Avatar is a science fiction film directed by James Cameron and released in 2009. It is primarily classified as a science fiction film, with elements of action, adventure, and fantasy.",
+  "triple": [
+    [
+      "The film",
+      "takes",
+      "place on a planet called Pandora,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the setting of the film, but do not contradict the classification of Avatar as a science fiction film with elements of action, adventure, and fantasy."
+}

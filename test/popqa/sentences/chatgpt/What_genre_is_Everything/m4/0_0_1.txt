@@ -1,0 +1,19 @@
+{
+  "target": "What genre is Everything?",
+  "orig": "Everything is a video game that is often categorized as an open-world exploration simulation game.",
+  "alt": "A video game is often categorized as a simulation game.",
+  "prefix": "",
+  "triple": [
+    [
+      "a video game",
+      "is often categorized",
+      "as an open-world exploration simulation game."
+    ],
+    "compactie",
+    477
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the genre of Everything are not contradictory. The first statement identifies Everything as an open-world exploration simulation game, while the second statement notes that video games are often categorized as simulation games. Therefore, the second statement provides a broader context for the first statement and does not contradict it."
+}

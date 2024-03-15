@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Brat?",
+  "orig": "He directed and produced a number of films, including The Brat, which starred Charlie Chaplin and Edna Purviance.",
+  "alt": "A number of films, including \"The Brat,\" starred actress Dolores Costello.",
+  "prefix": " The producer of the 1931 film The Brat was John Francis Dillon. Dillon was a prolific film director and producer who worked in the industry from the 1910s to the 1950s.",
+  "triple": [
+    [
+      "a number of films, including",
+      "starred",
+      "Charlie Chaplin and Edna Purviance."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Brat are contradictory. Statement 1 claims that The Brat starred Charlie Chaplin and Edna Purviance, while Statement 2 claims that a number of films, including The Brat, starred actress Dolores Costello. These two statements cannot both be true at the same time, as they present different information about the cast of The Brat. However, both statements agree that John Francis Dillon was the producer of the film."
+}

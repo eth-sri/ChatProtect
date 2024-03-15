@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Mauritius?",
+  "orig": "The capital of Mauritius is Port Louis.",
+  "alt": "The capital of Mauritius is Port Louis.",
+  "prefix": " Sure!",
+  "triple": [
+    [
+      "The capital of Mauritius",
+      "is",
+      "Port Louis."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both provide the same answer to the prompt \"What is the capital of Mauritius?\". They are identical and simply repeat the same information."
+}

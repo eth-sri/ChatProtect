@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Doc?",
+  "orig": "However, the film was produced by Universal Pictures, which is a major Hollywood film studio.",
+  "alt": "The film is a 2016 American period drama film directed by F. Gary Gray.",
+  "prefix": " The producer of the movie \"Doc\" is not explicitly stated.",
+  "triple": [
+    [
+      "the film",
+      "is",
+      "a major Hollywood film studio."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that the producer of the movie \"Doc\" is not explicitly stated, while the second statement provides additional information about the film, specifically that it was directed by F. Gary Gray. The two statements do not conflict with each other and can both be true. Additionally, the fact that the film was produced by Universal Pictures does not contradict the first statement, as the prompt specifically asks about the producer of the movie \"Doc,\" not the production company behind it."
+}

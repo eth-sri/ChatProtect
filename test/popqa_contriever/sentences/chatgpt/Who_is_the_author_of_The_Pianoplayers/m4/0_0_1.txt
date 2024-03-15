@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Pianoplayers?",
+  "orig": "There is no book titled \"The Pianoplayers\" and no author by that name is available.",
+  "alt": "There is no book titled \"The Pianoplayers\" written by Larry Fine.",
+  "prefix": "",
+  "triple": [
+    [
+      "no book",
+      "titled",
+      "\"The Pianoplayers\""
+    ],
+    "compactie",
+    586
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both agree that there is no book titled \"The Pianoplayers\" and no author by that name. The prompt is therefore incorrect or incomplete."
+}

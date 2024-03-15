@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Secret Life of Plants?",
+  "orig": "The author of The Secret Life of Plants is Peter Tompkins and Christopher Bird.",
+  "alt": "The author of The Secret Life of Plants is Peter Tompkins.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Secret Life of Plants",
+      "is",
+      "Peter Tompkins and Christopher Bird."
+    ],
+    "compactie",
+    489
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about Who is the author of The Secret Life of Plants? are contradictory. \n\nStatement 1 claims that the authors of the book are Peter Tompkins and Christopher Bird, while Statement 2 only mentions Peter Tompkins as the author. Therefore, the two statements cannot both be true at the same time."
+}

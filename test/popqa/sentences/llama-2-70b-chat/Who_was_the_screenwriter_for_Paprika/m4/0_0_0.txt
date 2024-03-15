@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Paprika?",
+  "orig": "The screenwriter for the 2006 anime film Paprika was Chiaki Konaka.",
+  "alt": "The anime film Paprika was directed by Satoshi Kon.",
+  "prefix": "",
+  "triple": [
+    [
+      "anime film Paprika",
+      "was",
+      "Chiaki Konaka."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Paprika are not contradictory. Statement 1 correctly identifies Chiaki Konaka as the screenwriter for the film, while statement 2 provides additional information about the director of the film, Satoshi Kon. The two statements provide complementary information about different aspects of the production of the film."
+}

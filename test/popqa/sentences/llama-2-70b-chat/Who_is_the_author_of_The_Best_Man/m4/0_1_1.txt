@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Best Man?",
+  "orig": "It premiered on Broadway in 1960 and was later adapted into a film in 1964, directed by Franklin J. Schaffner and starring Henry Fonda and Cliff Robertson.",
+  "alt": "on Broadway in 1960 and directed by Jose Ferrer.",
+  "prefix": " The play The Best Man was written by Gore Vidal.",
+  "triple": [
+    [
+      "on Broadway in 1960 and",
+      "directed",
+      "by Franklin J. Schaffner"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Best Man are contradictory. The first statement mentions that the play was directed by Franklin J. Schaffner and starred Henry Fonda and Cliff Robertson, while the second statement mentions that it was directed by Jose Ferrer. However, both statements agree that the play was written by Gore Vidal."
+}

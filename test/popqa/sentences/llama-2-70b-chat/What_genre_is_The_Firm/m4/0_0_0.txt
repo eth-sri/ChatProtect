@@ -1,0 +1,19 @@
+{
+  "target": "What genre is The Firm?",
+  "orig": "The Firm is a legal thriller novel written by John Grisham.",
+  "alt": "The Firm is a legal thriller.",
+  "prefix": "",
+  "triple": [
+    [
+      "The Firm",
+      "is",
+      "a legal thriller novel"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The two statements about the genre of The Firm are not contradictory. Both statements identify the novel as a legal thriller, with the only difference being that the first statement specifies that it is a novel written by John Grisham. Therefore, the statements are complementary and provide consistent information about the genre of The Firm."
+}

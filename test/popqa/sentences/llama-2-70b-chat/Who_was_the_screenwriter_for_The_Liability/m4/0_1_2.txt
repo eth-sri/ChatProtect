@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Liability?",
+  "orig": "The Liability is a 2013 British black comedy thriller film written and directed by Craig Viveiros.",
+  "alt": "The director of the 2013 movie \"The Liability\" is Craig Viveiros.",
+  "prefix": " The screenwriter for The Liability is not explicitly stated.",
+  "triple": [
+    [
+      "a 2013",
+      "directed",
+      "by Craig Viveiros."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the first statement acknowledges that the screenwriter for The Liability is not explicitly stated, the second statement provides information about the director of the movie, which is not related to the screenwriter. Therefore, both statements can be true at the same time without contradicting each other."
+}

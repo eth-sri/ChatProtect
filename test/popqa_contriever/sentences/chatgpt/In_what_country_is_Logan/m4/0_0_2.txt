@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Logan?",
+  "orig": "Logan is not a country, it is a suburb within Logan City, which is located in Queensland, Australia.",
+  "alt": "Logan City is located in the state of Queensland, Australia.",
+  "prefix": "",
+  "triple": [
+    [
+      "a suburb within Logan City,",
+      "is located",
+      "in Queensland, Australia."
+    ],
+    "compactie",
+    653
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 clarifies that Logan is not a country but a suburb within Logan City, which is located in Queensland, Australia. Statement 2 further specifies that Logan City is indeed located in the state of Queensland, Australia. Both statements provide accurate information about the location of Logan, without contradicting each other."
+}

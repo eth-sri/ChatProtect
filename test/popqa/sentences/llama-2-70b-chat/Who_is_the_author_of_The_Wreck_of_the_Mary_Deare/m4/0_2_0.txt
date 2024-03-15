@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Wreck of the Mary Deare?",
+  "orig": "The book tells the story of a shipwreck and its aftermath, and it parallelly explores the themes of justice, morality, and the human condition.",
+  "alt": "The book tells the story of a shipwreck and its aftermath.",
+  "prefix": " The author of The Wreck of the Mary Deare is Hammond Innes. The Wreck of the Mary Deare is a novel written by Hammond Innes, first published in 1956.",
+  "triple": [
+    [
+      "The book",
+      "tells",
+      "the story of a shipwreck and its aftermath,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who is the author of The Wreck of the Mary Deare are not contradictory. The first statement provides additional information about the novel, including its themes, while the second statement simply summarizes the plot. Both statements agree that the author of the novel is Hammond Innes."
+}

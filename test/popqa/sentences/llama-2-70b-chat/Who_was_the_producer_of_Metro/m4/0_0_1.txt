@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Metro?",
+  "orig": "The producer of Metro was a company called 4A Games.",
+  "alt": "The company called Metro was produced by Microsoft.",
+  "prefix": "",
+  "triple": [
+    [
+      "a company",
+      "called",
+      "4A Games."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Metro are contradictory. Statement 1 claims that the producer of Metro was a company called 4A Games, while statement 2 claims that the company called Metro was produced by Microsoft. These two statements cannot both be true at the same time. One of them must be incorrect."
+}

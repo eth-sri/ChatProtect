@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of Shock Treatment?",
+  "orig": "The producer of Shock Treatment was Lou Adler.",
+  "alt": "The producer of Shock Treatment was Jim Sharman.",
+  "prefix": "",
+  "triple": [
+    [
+      "The producer of Shock Treatment",
+      "was",
+      "Lou Adler."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the producer of Shock Treatment are contradictory because they provide different answers to the same question. One statement claims that Lou Adler was the producer, while the other claims that Jim Sharman was the producer. Only one of these statements can be true, so they cannot both be correct."
+}

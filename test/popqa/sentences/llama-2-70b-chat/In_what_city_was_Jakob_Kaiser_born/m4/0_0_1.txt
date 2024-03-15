@@ -1,0 +1,19 @@
+{
+  "target": "In what city was Jakob Kaiser born?",
+  "orig": "Jakob Kaiser was born in Hernals, which is a district of Vienna, Austria.",
+  "alt": "Jakob Kaiser is a German bioinformatician and scientist.",
+  "prefix": "",
+  "triple": [
+    [
+      "Jakob Kaiser",
+      "is",
+      "a district of Vienna, Austria."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"In what city was Jakob Kaiser born?\" are not contradictory. The first statement clearly states that Jakob Kaiser was born in Hernals, a district of Vienna, Austria. The second statement provides additional information about Jakob Kaiser, stating that he is a German bioinformatician and scientist. While the second statement does not directly relate to the question of where Jakob Kaiser was born, it does not contradict the information provided in the first statement."
+}

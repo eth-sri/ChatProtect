@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of A Man and a Woman?",
+  "orig": "- A Man and a Woman: 20 Years Later (1986): The producer of this film was Paul de Lussanet.",
+  "alt": "The sentence should contain as little other information as possible.\n\n- A Man and a Woman (2016): The producer of this film was Samuel Hadida.\n\n- Man, Woman and Sin (1927): The producer of this film was Metro-Goldwyn-Mayer.",
+  "prefix": " There are multiple films with a similar title, so here are the producers of three different films:\n\n- A Man and a Woman (1966): The producer of this film was Claude Lelouch.",
+  "triple": [
+    [
+      "The producer of this film",
+      "was",
+      "Paul de Lussanet."
+    ],
+    "compactie",
+    701
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. They provide information about the producers of different films with similar titles, including A Man and a Woman (1966), A Man and a Woman: 20 Years Later (1986), A Man and a Woman (2016), and Man, Woman and Sin (1927). Each statement provides accurate information about the producer of the respective film."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of European Economic Community?",
+  "orig": "The EEC was a supranational organization that was established in 1958 and operated until 1993, when it was replaced by the European Union.",
+  "alt": "The EEC was a supranational organization that spanned multiple countries.",
+  "prefix": " The European Economic Community (EEC) was a predecessor to the European Union (EU) and did not have a capital in the classical sense.",
+  "triple": [
+    [
+      "The EEC",
+      "was",
+      "a supranational organization"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. While the prompt asks for the capital of the European Economic Community, the text explains that the EEC did not have a capital in the classical sense. Statement 1 provides additional information about the EEC, including its establishment and replacement by the EU. Statement 2 further emphasizes the fact that the EEC was a supranational organization that spanned multiple countries. Neither statement directly addresses the prompt, but they do provide relevant information about the EEC."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of The Good Life?",
+  "orig": "The composer of \"The Good Life\" has been attributed to many artists.",
+  "alt": "The composer of \"The Good Life\" has been attributed to Burt Bacharach.",
+  "prefix": "",
+  "triple": [
+    [
+      "The composer of \"The Good Life\"",
+      "has been attributed",
+      "to many artists."
+    ],
+    "compactie",
+    492
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the composer of \"The Good Life\" are not contradictory. The first statement acknowledges that there have been multiple attributions of the composition, while the second statement specifically identifies Burt Bacharach as one of those attributions. Therefore, the second statement is a subset of the first statement and does not contradict it."
+}

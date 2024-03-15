@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Trial?",
+  "orig": "Some of the most well-known adaptations are the 1962 film directed by Orson Welles and the 1993 film directed by David Jones.",
+  "alt": "The 1962 film adaptation of The Trial was directed by Orson Welles.",
+  "prefix": " The producer of The Trial is unknown as there have been multiple adaptations of the book by Franz Kafka.",
+  "triple": [
+    [
+      "the 1962 film",
+      "directed",
+      "by David Jones."
+    ],
+    "compactie",
+    500
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. The first statement acknowledges that there have been multiple adaptations of The Trial, and therefore the producer of each adaptation may differ. The second statement specifically refers to the 1962 film adaptation and identifies Orson Welles as the director, not the producer. Therefore, both statements are providing different information and are not in conflict with each other."
+}

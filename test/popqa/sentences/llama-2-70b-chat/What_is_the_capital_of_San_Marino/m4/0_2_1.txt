@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of San Marino?",
+  "orig": "San Marino City is the country's capital and largest city, and it is home to many historic landmarks, museums, and cultural institutions.",
+  "alt": "It is situated on a rocky outcrop in the Apennine Mountains.",
+  "prefix": " The capital of San Marino is San Marino City. San Marino is a microstate located within the Italian Peninsula, and it is the world's oldest surviving republic.",
+  "triple": [
+    [
+      "it",
+      "is",
+      "home to many historic landmarks, museums, and cultural institutions."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of San Marino are not contradictory. The first statement simply provides the answer to the prompt and gives some background information about San Marino being a microstate and the world's oldest surviving republic. The second statement provides additional information about the physical location of San Marino City, which is situated on a rocky outcrop in the Apennine Mountains. The two statements complement each other and provide a more complete picture of the capital of San Marino."
+}

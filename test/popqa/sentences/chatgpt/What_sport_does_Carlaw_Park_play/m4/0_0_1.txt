@@ -1,0 +1,19 @@
+{
+  "target": "What sport does Carlaw Park play?",
+  "orig": "Carlaw Park was a former sports stadium located in Auckland, New Zealand.",
+  "alt": "Carlaw Park was a former sports stadium located in Auckland, New Zealand.",
+  "prefix": "",
+  "triple": [
+    [
+      "a former sports stadium",
+      "located",
+      "in Auckland, New Zealand."
+    ],
+    "compactie",
+    483
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "As the given text only provides information about the location and former status of Carlaw Park, it does not answer the prompt \"What sport does Carlaw Park play?\" Therefore, the two statements provided are not contradictory, but rather redundant as they both repeat the same information."
+}

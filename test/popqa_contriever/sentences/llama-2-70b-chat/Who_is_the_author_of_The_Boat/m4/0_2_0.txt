@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Boat?",
+  "orig": "The blurb describes the book as \"An excellent teaching tool for readers of all ages who enjoy learning about empathy by process of elimination,\" which implies that the author is someone who has been criticized for lacking empathy, which is a common criticism of Trump.",
+  "alt": "The blurb describes the book as \"An excellent teaching tool for readers of all ages who enjoy learning about empathy by process of elimination.\"",
+  "prefix": " The author of \"The Boat\" is not explicitly mentioned in the provided text. However, the book's blurb and the press release from Simon & Schuster suggest that the author is Donald Trump.",
+  "triple": [
+    [
+      "The blurb",
+      "describes",
+      "the book as \"An excellent teaching tool for readers of all ages"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Boat? are not contradictory. Statement 1 suggests that the author of the book is Donald Trump based on the implication that the book is meant to teach empathy to someone who has been criticized for lacking it, which is a common criticism of Trump. Statement 2 simply restates the description of the book as a teaching tool for empathy. Both statements support the idea that the author of the book is Donald Trump."
+}

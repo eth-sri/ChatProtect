@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Word?",
+  "orig": "The author of The Word is John, a disciple of Jesus Christ.",
+  "alt": "The author of The Word is John.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of The Word",
+      "is",
+      "John, a disciple of Jesus Christ."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the author of The Word are not contradictory. Both statements identify the author as John, but the first statement provides additional information that he was a disciple of Jesus Christ. Therefore, the first statement is more specific than the second statement."
+}

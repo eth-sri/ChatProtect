@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Afghan?",
+  "orig": "The novel was first published in 2001.",
+  "alt": "The novel was first published in 2001.",
+  "prefix": " The author of The Afghan is Frederick Forsyth.",
+  "triple": [
+    [
+      "The novel",
+      "was first published",
+      "in 2001."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory, but they are identical. It appears that there was an error in duplicating the second statement. A different statement should have been provided to avoid confusion."
+}

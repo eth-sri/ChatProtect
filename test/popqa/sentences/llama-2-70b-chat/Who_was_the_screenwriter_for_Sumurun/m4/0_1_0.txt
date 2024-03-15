@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Sumurun?",
+  "orig": "Lubitsch was not only the director of the film but also wrote the screenplay, which was based on a play of the same name by Friedrich Freksa.",
+  "alt": "The screenplay was based on a play by German playwright Oscar Straus.",
+  "prefix": " The screenwriter for the 1920 German silent film \"Sumurun\" was Lubitsch himself, working under the pseudonym \"Louisianne\".",
+  "triple": [
+    [
+      "the screenplay,",
+      "was based",
+      "on a play of the same name by Friedrich Freksa."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Statement 1 is consistent with the beginning of the text, which states that Lubitsch was the screenwriter for \"Sumurun\". It also provides additional information that Lubitsch not only directed the film but also wrote the screenplay, which was based on a play by Friedrich Freksa. \n\nStatement 2, on the other hand, contradicts the beginning of the text by stating that the screenplay was based on a play by Oscar Straus instead of Friedrich Freksa. Therefore, the statements are contradictory."
+}

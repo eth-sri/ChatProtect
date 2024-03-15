@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about ronald ridenhour",
+  "orig": "He interviewed several soldiers who had been present during the incident and obtained evidence that confirmed the massacre had indeed taken place.",
+  "alt": "Ridenhour's investigation confirmed that the massacre had indeed taken place.",
+  "prefix": " Ronald Ridenhour was an American soldier and whistleblower who exposed the My Lai Massacre during the Vietnam War. He was born on April 6, 1946, in Oakland, California, and served in the United States Army from 1967 to 1968. In March 1968, Ridenhour heard rumors of a massacre of civilians by American soldiers in the village of My Lai. He was shocked by the reports and decided to investigate further.",
+  "triple": [
+    [
+      "the massacre",
+      "had indeed taken",
+      "place."
+    ],
+    "compactie",
+    547
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Ronald Ridenhour are not contradictory. Both statements confirm that Ridenhour's investigation confirmed the occurrence of the My Lai Massacre, which he had heard rumors about. The only difference is that statement 1 provides additional information about how Ridenhour obtained evidence to confirm the massacre, while statement 2 simply states that his investigation confirmed it."
+}

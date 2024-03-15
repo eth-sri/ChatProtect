@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about prince albert of saxe-altenburg",
+  "orig": "Albert was educated at the University of Bonn and the University of Leipzig.",
+  "alt": "Albert was educated at the universities of Bonn, Leipzig, and Heidelberg.",
+  "prefix": " Prince Albert of Saxe-Altenburg was born on August 14, 1819, in Hildburghausen, Thuringia, Germany. He was the second son of Prince Eduard of Saxe-Altenburg and Princess Amalie of Hohenzollern-Sigmaringen.",
+  "triple": [
+    [
+      "Albert",
+      "was educated",
+      "at the University of Bonn and the University of Leipzig."
+    ],
+    "compactie",
+    518
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements are contradictory. The first statement mentions that Prince Albert was educated at the University of Bonn and the University of Leipzig, while the second statement adds that he was also educated at the University of Heidelberg. Therefore, the two statements cannot both be true at the same time."
+}

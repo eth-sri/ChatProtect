@@ -1,0 +1,19 @@
+{
+  "target": "Please tell me about l\u00fctfi elvan",
+  "orig": "Elvan graduated from Istanbul Technical University with a degree in civil engineering and later earned a master's degree in transportation engineering from the same university.",
+  "alt": "L\u00fctfi Elvan earned a degree in civil engineering from Istanbul Technical University.",
+  "prefix": " L\u00fctfi Elvan is a Turkish politician who currently serves as the Minister of Treasury and Finance in Turkey. He was born on March 12, 1962, in Karaman, Turkey.",
+  "triple": [
+    [
+      "a degree in civil engineering",
+      "earned",
+      "a master's degree in transportation engineering"
+    ],
+    "compactie",
+    499
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about L\u00fctfi Elvan are contradictory. Statement 1 says that he earned a master's degree in transportation engineering from Istanbul Technical University, while Statement 2 says that he earned a degree in civil engineering from the same university. These two statements cannot both be true at the same time, as they provide different information about Elvan's educational background."
+}

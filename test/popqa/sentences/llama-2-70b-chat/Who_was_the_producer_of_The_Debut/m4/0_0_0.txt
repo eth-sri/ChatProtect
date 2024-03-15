@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Debut?",
+  "orig": "I'm not familiar with a movie called \"The Debut.\"",
+  "alt": "The producer of The Debut was Marc Platt.",
+  "prefix": "",
+  "triple": [
+    [
+      "familiar with a movie",
+      "called",
+      "\"The Debut.\""
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the producer of The Debut? are not contradictory. Statement 1 simply indicates that the person is not familiar with the movie, while Statement 2 provides the answer to the question by stating that the producer was Marc Platt."
+}

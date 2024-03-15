@@ -1,0 +1,19 @@
+{
+  "target": "Who was the director of Ryan?",
+  "orig": "He directed and produced several films, including \"The List\" and \"Home Room\".",
+  "alt": "Paul F. Ryan produced the 1998 short film \"The List\" and the 2002 independent film \"Home Room\".",
+  "prefix": " Paul F. Ryan is a film director, producer, and teacher.",
+  "triple": [
+    [
+      "and",
+      "produced",
+      "several films, including \"The List\" and \"Home Room\"."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the director of Ryan? are not contradictory. Both statements mention that Paul F. Ryan directed and produced \"The List\" and \"Home Room\". The only difference is that statement 2 specifically mentions that he produced those films, while statement 1 includes the broader category of \"several films\". However, both statements convey the same information about Paul F. Ryan's involvement in those particular films."
+}

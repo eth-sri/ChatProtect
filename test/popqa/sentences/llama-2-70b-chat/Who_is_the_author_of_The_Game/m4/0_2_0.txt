@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Game?",
+  "orig": "Neil Strauss is a journalist and author who has written several other books on relationships, sex, and self-improvement.",
+  "alt": "Neil Strauss has written several other books on dating and relationships, including \"The Rules of the Game\" and \"The Art of Seduction.\"",
+  "prefix": " The author of \"The Game\" is Neil Strauss. The book was first published in 2005 and has since become a bestseller.",
+  "triple": [
+    [
+      "Neil Strauss",
+      "is has written",
+      "several other books on relationships, sex, and self-improvement."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Game? are not contradictory. Both statements provide additional information about Neil Strauss, the author of \"The Game.\" The first statement describes his profession and the topics he writes about, while the second statement lists some of his other books related to dating and relationships."
+}

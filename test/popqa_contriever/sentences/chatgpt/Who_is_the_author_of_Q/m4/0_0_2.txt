@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Q?",
+  "orig": "The author of Q is Luther Blissett, which was a \"nom de plume\" for four Italian authors who were part of the \"Luther Blissett Project\".",
+  "alt": "Luther Blissett were actually a group of four Italian authors who wrote under a shared pseudonym.",
+  "prefix": "",
+  "triple": [
+    [
+      "Luther Blissett,",
+      "were",
+      "part of the \"Luther Blissett Project\"."
+    ],
+    "compactie",
+    655
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Q are not contradictory. Both statements agree that Luther Blissett was a shared pseudonym used by four Italian authors who were part of the \"Luther Blissett Project\". The only difference is that statement 1 explicitly states that Luther Blissett was a \"nom de plume\" for the authors, while statement 2 implies this by stating that the group wrote under a shared pseudonym."
+}

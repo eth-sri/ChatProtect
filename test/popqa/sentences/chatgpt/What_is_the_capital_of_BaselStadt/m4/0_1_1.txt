@@ -1,0 +1,19 @@
+{
+  "target": "What is the capital of Basel-Stadt?",
+  "orig": "However, the city of Basel is the largest and most populous city in the canton, and it serves as its administrative center.",
+  "alt": "It serves as a city-state and is one of the smallest cantons in Switzerland.",
+  "prefix": " Basel-Stadt does not have a capital as it is a canton in Switzerland.",
+  "triple": [
+    [
+      "it",
+      "serves",
+      "as its administrative center."
+    ],
+    "compactie",
+    494
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about the capital of Basel-Stadt are not contradictory. The first statement clarifies that Basel-Stadt does not have a capital, while the second statement provides additional information about the city of Basel serving as the administrative center of the canton. The second statement also mentions that Basel-Stadt is one of the smallest cantons in Switzerland and operates as a city-state, which is not directly related to the question of its capital. Therefore, the two statements do not contradict each other."
+}

@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of The Best Man?",
+  "orig": "The author of the script for the movie The Best Man is Stefan Schwartz and Ed Roe.",
+  "alt": "The author of the script for the movie The Best Man is Stefan Schwartz.",
+  "prefix": "",
+  "triple": [
+    [
+      "The author of the script for the movie The Best Man",
+      "is",
+      "Stefan Schwartz and Ed Roe."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of The Best Man? are not contradictory. Statement 1 includes both Stefan Schwartz and Ed Roe as the authors of the script, while Statement 2 only mentions Stefan Schwartz. Therefore, Statement 2 is a subset of Statement 1, and both statements can be true at the same time."
+}

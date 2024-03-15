@@ -1,0 +1,19 @@
+{
+  "target": "What is Hallsberg the capital of?",
+  "orig": "It is a small town located in the province of \u00d6rebro County in central Sweden.",
+  "alt": "Hallsberg is a small town located in Sweden.",
+  "prefix": " Hallsberg is not the capital of any country or region.",
+  "triple": [
+    [
+      "a small",
+      "located",
+      "in the province of \u00d6rebro"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about \"What is Hallsberg the capital of?\" are not contradictory. While the first statement clarifies that Hallsberg is not the capital of any country or region, the second statement provides additional information that Hallsberg is a small town located in Sweden. Both statements are true and do not contradict each other."
+}

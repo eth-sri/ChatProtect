@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Dasht Jeyhun?",
+  "orig": "There is no country named Dasht Jeyhun.",
+  "alt": "There is no country named Dasht Jeyhun.",
+  "prefix": "",
+  "triple": [
+    [
+      "no country",
+      "named",
+      "Dasht Jeyhun."
+    ],
+    "compactie",
+    481
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "Yes, the statements about \"In what country is Dasht Jeyhun?\" are contradictory. The first statement claims that there is no country named Dasht Jeyhun, while the second statement repeats the same claim. However, the prompt clearly asks for the country in which Dasht Jeyhun is located, implying that such a country exists. Therefore, the two statements contradict the prompt and each other."
+}

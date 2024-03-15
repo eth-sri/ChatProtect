@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for Pygmalion?",
+  "orig": "Shaw was a prominent playwright and critic, and he was known for his wit and satire.",
+  "alt": "Shaw was also the producer of the film.",
+  "prefix": " The screenwriter for the 1938 film adaptation of Pygmalion was George Bernard Shaw, who also wrote the play on which the film was based.",
+  "triple": [
+    [
+      "Shaw",
+      "was",
+      "a prominent playwright and critic,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about who was the screenwriter for Pygmalion are not contradictory. The first statement provides information about George Bernard Shaw being the screenwriter for the 1938 film adaptation of Pygmalion and also the writer of the play on which the film was based. The second statement adds to this information by stating that Shaw was also the producer of the film. Both statements provide complementary information about Shaw's involvement in the film adaptation of Pygmalion."
+}

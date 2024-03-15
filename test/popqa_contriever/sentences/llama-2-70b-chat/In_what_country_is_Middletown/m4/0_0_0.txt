@@ -1,0 +1,19 @@
+{
+  "target": "In what country is Middletown?",
+  "orig": "Middletown is located in the United States, specifically in the state of New York.",
+  "alt": "Middletown is located in the United States.",
+  "prefix": "",
+  "triple": [
+    [
+      "Middletown",
+      "is located",
+      "in the United States,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Statement 1 provides more specific information about the location of Middletown within the United States, while Statement 2 simply confirms that Middletown is indeed located in the United States."
+}

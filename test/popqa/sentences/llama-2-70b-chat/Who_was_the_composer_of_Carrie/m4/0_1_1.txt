@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of Carrie?",
+  "orig": "He wrote the music and lyrics for the show, which was based on the novel of the same name by Stephen King.",
+  "alt": "The music and lyrics for the show, were based on a novel of the same name by Stephen King.",
+  "prefix": " The composer of the musical \"Carrie\" is Michael Gore.",
+  "triple": [
+    [
+      "the music and lyrics for the show,",
+      "was based",
+      "on the novel of the same name by Stephen King."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements provide additional information about the musical \"Carrie\" and its source material, but they do not contradict the initial statement that Michael Gore was the composer of the show. Statement 1 emphasizes that Gore wrote both the music and lyrics for the show, while Statement 2 emphasizes that the show was based on a novel by Stephen King."
+}

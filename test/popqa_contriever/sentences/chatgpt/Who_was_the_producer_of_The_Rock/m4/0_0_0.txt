@@ -1,0 +1,19 @@
+{
+  "target": "Who was the producer of The Rock?",
+  "orig": "There is no information given about a film or project called \"The Rock\" in the provided text.",
+  "alt": "There is no producer of a movie called \"The Rock\" associated with Joe Rock.",
+  "prefix": "",
+  "triple": [
+    [
+      "There",
+      "is",
+      "no information"
+    ],
+    "compactie",
+    608
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory as they both clarify that there is no connection between Joe Rock and a film or project called \"The Rock\". The first statement simply states that there is no information provided about such a project in the given text, while the second statement explicitly states that there is no producer associated with that specific project. Therefore, both statements support the conclusion that Joe Rock was not the producer of \"The Rock\"."
+}

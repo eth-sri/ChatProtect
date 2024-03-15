@@ -1,0 +1,19 @@
+{
+  "target": "Who was the screenwriter for The Report?",
+  "orig": "Burns has also written and directed several films of his own, including The Bourne Ultimatum and Side Effects.",
+  "alt": "and directed several other films, including Traffic, Ocean's Eleven, and Magic Mike.",
+  "prefix": " The screenwriter for The Report is Scott Z. Burns. Burns is a frequent collaborator of director Steven Soderbergh, and the two have worked together on several projects, including The Limey, Erin Brockovich, and Contagion.",
+  "triple": [
+    [
+      "and",
+      "directed",
+      "several films of his own,"
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "strong",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who was the screenwriter for The Report are contradictory. The first statement states that Scott Z. Burns is the screenwriter for The Report and mentions some of his collaborations with Steven Soderbergh. The second statement, however, incorrectly attributes the directing credits of Traffic, Ocean's Eleven, and Magic Mike to Burns, when in fact they were directed by Soderbergh. Therefore, the second statement contradicts the first statement and is inaccurate."
+}

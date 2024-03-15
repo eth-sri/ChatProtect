@@ -1,0 +1,19 @@
+{
+  "target": "Who is the author of Lighthouse?",
+  "orig": "Therefore, there is no single author of Lighthouse.",
+  "alt": "There is no author of a book titled \"Lighthouse\" as it is a general term.",
+  "prefix": " Lighthouse is a general term that does not refer to a specific book or author.",
+  "triple": [
+    [
+      "there",
+      "is",
+      "no single author of Lighthouse."
+    ],
+    "compactie",
+    495
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements about Who is the author of Lighthouse? are not contradictory. Both statements clarify that \"Lighthouse\" is a general term and not a specific book or author. Statement 1 emphasizes that there is no single author of Lighthouse, while Statement 2 specifies that there is no author of a book titled \"Lighthouse.\" Both statements are consistent with the initial text that establishes Lighthouse as a general term."
+}

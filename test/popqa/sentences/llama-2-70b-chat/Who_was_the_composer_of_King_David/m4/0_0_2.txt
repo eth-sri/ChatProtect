@@ -1,0 +1,19 @@
+{
+  "target": "Who was the composer of King David?",
+  "orig": "The composer of King David is unclear, as the biblical figure of King David lived over 3,000 years ago and there is limited historical information available about his life and reign.",
+  "alt": "Limited historical information is available about the composer of King David.",
+  "prefix": "",
+  "triple": [
+    [
+      "limited historical",
+      "available",
+      "about his life and reign."
+    ],
+    "compactie",
+    0
+  ],
+  "tag": "ok",
+  "wrong": "unk",
+  "orig_tag": null,
+  "explanation": "The statements are not contradictory. Both statements acknowledge the limited historical information available about the composer of King David. The first statement provides context for why the composer is unclear, while the second statement simply restates the fact that there is limited information available."
+}
