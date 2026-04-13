@@ -1,6 +1,6 @@
 """Variant of run_dataset_submission.py using the Figure 6 setting from the paper:
-sample 20 alternative answers per triple and check whether any contradicts the original,
-using check_factual_multi_score instead of the single-sample CoT approach.
+sample 20 alternative answers per triple and pass them all to check_factual_multi_score,
+which asks whether any evidence contradicts the original statement.
 """
 import argparse
 import json
@@ -150,7 +150,7 @@ def write_submission_file(cache_dir: pathlib.Path, output_file: pathlib.Path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Figure 6 variant: sample %(default)s alternatives per triple and "
+        description="Figure 6 variant: sample NUM_ALTS alternatives per triple and "
         "detect contradictions with check_factual_multi_score."
     )
     parser.add_argument(
