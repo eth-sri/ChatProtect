@@ -1,7 +1,6 @@
 import argparse
 import json
 import pathlib
-import re
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -9,7 +8,10 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from chatprotect.consistency import check_consistent_cot, explain_consistent_cot
-from chatprotect.sentences import generate_statement_missing_object_free
+from chatprotect.sentences import (
+    extract_triples_compact_ie,
+    generate_statement_missing_object_free,
+)
 from chatprotect.util import fetch_model, prompt_identifier, split_sentences
 
 
@@ -17,77 +19,6 @@ MODEL_SPECS = [
     ("Llama-3.1-8B-Instruct", "llama3.1-8b-instruct"),
     ("Gemma-3-12B-Instruct", "gemma3-12b-instruct"),
 ]
-TRIPLE_EXTRACTION_MODEL = "llama3.1-8b-instruct"
-
-TRIPLE_EXTRACTION_EXAMPLES = [
-    (
-        "Angela Merkel was born in Hamburg, West Germany.",
-        [
-            {
-                "subject": "Angela Merkel",
-                "relation": "was born in",
-                "object": "Hamburg, West Germany",
-            }
-        ],
-    ),
-    (
-        "Dolly the sheep gave birth to her first lamb, Bonnie, in April 1998.",
-        [
-            {
-                "subject": "Dolly the sheep",
-                "relation": "gave birth to",
-                "object": "her first lamb, Bonnie",
-            },
-            {
-                "subject": "Dolly the sheep",
-                "relation": "gave birth in",
-                "object": "April 1998",
-            },
-        ],
-    ),
-    (
-        "I am not sure which film you mean by 'Glory'.",
-        [],
-    ),
-    (
-        "It documented the political tensions and strategic choices behind the administration's response.",
-        [
-            {
-                "subject": "It",
-                "relation": "documented",
-                "object": "the political tensions and strategic choices behind the administration's response",
-            }
-        ],
-    ),
-]
-
-TRIPLE_RESPONSE_FORMAT = {
-    "type": "json_schema",
-    "json_schema": {
-        "name": "triple_extraction",
-        "strict": True,
-        "schema": {
-            "type": "object",
-            "properties": {
-                "triples": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "subject": {"type": "string"},
-                            "relation": {"type": "string"},
-                            "object": {"type": "string"},
-                        },
-                        "required": ["subject", "relation", "object"],
-                        "additionalProperties": False,
-                    },
-                }
-            },
-            "required": ["triples"],
-            "additionalProperties": False,
-        },
-    },
-}
 
 
 def load_dataset(path: pathlib.Path):
@@ -114,57 +45,13 @@ def ask_question(question: str, model_name: str) -> str:
         return bot_session.ask(question)[0]
 
 
-def _parse_triples_json(raw: str):
-    parsed = json.loads(raw)
-    triples = []
-    if isinstance(parsed, dict):
-        parsed = parsed["triples"]
-    for item in parsed:
-        triples.append(
-            (
-                item["subject"].strip(),
-                item["relation"].strip(),
-                item["object"].strip(),
-            )
-        )
-    return triples
-
-
-def extract_triples_llm(sentence: str):
-    model_name = TRIPLE_EXTRACTION_MODEL
-    bot = configure_batch_bot(fetch_model(model_name), model_name)
-    examples = []
-    for example_sentence, example_output in TRIPLE_EXTRACTION_EXAMPLES:
-        examples.append(
-            'Sentence:\n'
-            f'"{example_sentence}"\n'
-            "JSON:\n"
-            f"{json.dumps(example_output, indent=2)}"
-        )
-    prompt = (
-        "Extract atomic factual triples from the sentence.\n"
-        'Return JSON only as a list of objects with keys "subject", "relation", and "object".\n'
-        "Only include triples directly supported by the sentence.\n"
-        "If there is no clear factual triple, return [].\n\n"
-        "Examples:\n\n"
-        + "\n\n".join(examples)
-        + f'\n\nSentence:\n"{sentence}"\nJSON:\n'
-    )
-    with bot as bot_session:
-        bot_session.set_deterministic(True)
-        bot_session.set_num_answers(1)
-        bot_session.set_response_format(TRIPLE_RESPONSE_FORMAT)
-        raw = bot_session.ask(prompt)[0]
-    return _parse_triples_json(raw)
-
-
 def analyze_response(question: str, response: str, glm_name: str, alm_name: str):
     generator_bot = configure_batch_bot(fetch_model(glm_name), glm_name)
     analyzer_bot = configure_batch_bot(fetch_model(alm_name), alm_name)
     sentence_results = []
     prefix = ""
     for sentence in split_sentences(response):
-        triples = extract_triples_llm(sentence)
+        triples = extract_triples_compact_ie(sentence)
         for triple in triples:
             alternative = generate_statement_missing_object_free(
                 generator_bot, triple[0], triple[1], question, prefix
