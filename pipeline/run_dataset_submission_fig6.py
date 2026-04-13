@@ -67,15 +67,18 @@ def analyze_response(
     for sentence in split_sentences(response):
         triples = extract_triples_compact_ie(sentence)
         for triple in triples:
-            alternatives = generate_statement_missing_object_free(
-                generator_bot,
-                triple[0],
-                triple[1],
-                question,
-                prefix,
-                override_temperature=temperature,
-                alts=num_alts,
-            )
+            alternatives = []
+            for _ in range(num_alts):
+                alt = generate_statement_missing_object_free(
+                    generator_bot,
+                    triple[0],
+                    triple[1],
+                    question,
+                    prefix,
+                    override_temperature=temperature,
+                    alts=1,
+                )
+                alternatives.append(alt[0])
             score = check_factual_multi_score(
                 analyzer_bot, sentence, alternatives, question, prefix
             )
