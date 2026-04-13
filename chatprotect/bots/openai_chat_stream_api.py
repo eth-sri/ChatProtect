@@ -113,6 +113,8 @@ class OpenAIBot(Bot):
         override_temperature=None,
         response_format=None,
         provider=None,
+        top_k=None,
+        top_p=None,
     ):
         messages = []
         if system_prompt is not None:

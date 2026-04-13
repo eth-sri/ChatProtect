@@ -32,6 +32,8 @@ class Bot:
         override_temperature=None,
         response_format=None,
         provider=None,
+        top_k=None,
+        top_p=None,
     ) -> Tuple[List[str], Usage]:
         raise NotImplementedError()
 
@@ -50,6 +52,8 @@ class BotSession:
         self.override_temperature = None
         self.response_format = None
         self.provider = getattr(bot, "default_provider", None)
+        self.top_k = getattr(bot, "default_top_k", None)
+        self.top_p = getattr(bot, "default_top_p", None)
 
     def set_num_answers(self, num: int):
         # can be accomplished by other systems by repeating the questions
@@ -99,6 +103,8 @@ class BotSession:
             self.override_temperature,
             self.response_format,
             self.provider,
+            self.top_k,
+            self.top_p,
         )
         ress, cost = res
         self.usage.prompt_tokens += cost.prompt_tokens

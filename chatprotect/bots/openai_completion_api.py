@@ -31,6 +31,8 @@ class OpenAIBot(Bot):
         override_temperature=None,
         response_format=None,
         provider=None,
+        top_k=None,
+        top_p=None,
     ):
         for i in range(1000):
             try:

@@ -3,9 +3,11 @@ sample 20 alternative answers per triple and pass them all to check_factual_mult
 which asks whether any evidence contradicts the original statement.
 """
 import argparse
+import concurrent.futures
 import json
 import pathlib
 import sys
+import threading
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
@@ -20,12 +22,11 @@ from chatprotect.util import fetch_model, prompt_identifier, split_sentences
 
 
 MODEL_SPECS = [
-    ("Llama-3.1-8B-Instruct", "llama3.1-8b-instruct"),
-    ("Gemma-3-12B-Instruct", "gemma3-12b-instruct"),
+    ("Llama-3.1-8B-Instruct", "llama3.1-8b-instruct", {"temperature": 0.6, "top_p": 0.9}),
+    ("Gemma-3-12B-Instruct", "gemma3-12b-instruct", {"temperature": 1.0, "top_k": 64, "top_p": 0.95}),
 ]
 
 NUM_ALTS = 20
-TEMPERATURE = 0.5
 
 
 def load_dataset(path: pathlib.Path):
@@ -34,13 +35,18 @@ def load_dataset(path: pathlib.Path):
     return [entry["question"] for entry in dataset]
 
 
-def configure_batch_bot(bot, model_name: str):
+def configure_batch_bot(bot, model_name: str, sampling_params: dict = None):
     if "openrouter/" in getattr(bot, "model", ""):
         bot.default_provider = {
             "order": ["deepinfra"],
             "allow_fallbacks": False,
             "require_parameters": True,
         }
+    if sampling_params:
+        if "top_k" in sampling_params:
+            bot.default_top_k = sampling_params["top_k"]
+        if "top_p" in sampling_params:
+            bot.default_top_p = sampling_params["top_p"]
     return bot
 
 
@@ -57,10 +63,12 @@ def analyze_response(
     response: str,
     glm_name: str,
     alm_name: str,
+    sampling_params: dict = None,
     num_alts: int = NUM_ALTS,
-    temperature: float = TEMPERATURE,
 ):
-    generator_bot = configure_batch_bot(fetch_model(glm_name), glm_name)
+    sampling_params = sampling_params or {}
+    temperature = sampling_params.get("temperature", 0.5)
+    generator_bot = configure_batch_bot(fetch_model(glm_name), glm_name, sampling_params)
     analyzer_bot = configure_batch_bot(fetch_model(alm_name), alm_name)
     sentence_results = []
     prefix = ""
@@ -180,12 +188,6 @@ def main():
         help="Number of alternative answers to sample per triple (default: %(default)s)",
     )
     parser.add_argument(
-        "--temperature",
-        type=float,
-        default=TEMPERATURE,
-        help="Sampling temperature for alternative generation (default: %(default)s)",
-    )
-    parser.add_argument(
         "--force",
         action="store_true",
         help="Recompute cached entries",
@@ -210,62 +212,74 @@ def main():
 
     total = len(questions) * len(MODEL_SPECS)
     completed = 0
-    for question in questions:
-        for model_label, glm_name in MODEL_SPECS:
-            target_cache_path = cache_path(cache_dir, model_label, question)
-            cached_entry = load_cached_entry(target_cache_path)
-            if (
-                cached_entry is not None
-                and cached_entry.get("status") == "complete"
-                and not args.force
-            ):
+    lock = threading.Lock()
+
+    def run_one(question, model_label, glm_name, sampling_params):
+        nonlocal completed
+        target_cache_path = cache_path(cache_dir, model_label, question)
+        cached_entry = load_cached_entry(target_cache_path)
+        if (
+            cached_entry is not None
+            and cached_entry.get("status") == "complete"
+            and not args.force
+        ):
+            with lock:
                 completed += 1
                 print(f"[{completed}/{total}] skipping cached {model_label}: {question}")
-                continue
+            return
 
-            alm_name = args.alm_model or glm_name
-            print(f"[{completed + 1}/{total}] running {model_label}: {question}")
-            if cached_entry is not None and not args.force:
-                model_response = cached_entry["model_response"]
-            else:
-                model_response = ask_question(question, glm_name)
-                cached_entry = {
-                    "status": "generated",
-                    "model": model_label,
-                    "question": question,
-                    "model_response": model_response,
-                    "generator_model_id": glm_name,
-                    "analyzer_model_id": alm_name,
-                    "sentence_results": [],
-                }
-                write_cached_entry(target_cache_path, cached_entry)
-
-            analysis = analyze_response(
-                question,
-                model_response,
-                glm_name,
-                alm_name,
-                num_alts=args.num_alts,
-                temperature=args.temperature,
-            )
+        alm_name = args.alm_model or glm_name
+        print(f"running {model_label}: {question}")
+        if cached_entry is not None and not args.force:
+            model_response = cached_entry["model_response"]
+        else:
+            model_response = ask_question(question, glm_name)
             cached_entry = {
-                "status": "complete",
+                "status": "generated",
                 "model": model_label,
                 "question": question,
                 "model_response": model_response,
-                "hallucination": analysis["hallucination"],
-                "hallucination_possibility(%)": analysis[
-                    "hallucination_possibility(%)"
-                ],
                 "generator_model_id": glm_name,
                 "analyzer_model_id": alm_name,
-                "num_alts": args.num_alts,
-                "temperature": args.temperature,
-                "sentence_results": analysis["sentence_results"],
+                "sentence_results": [],
             }
             write_cached_entry(target_cache_path, cached_entry)
-            write_submission_file(cache_dir, output_file)
+
+        analysis = analyze_response(
+            question,
+            model_response,
+            glm_name,
+            alm_name,
+            sampling_params=sampling_params,
+            num_alts=args.num_alts,
+        )
+        cached_entry = {
+            "status": "complete",
+            "model": model_label,
+            "question": question,
+            "model_response": model_response,
+            "hallucination": analysis["hallucination"],
+            "hallucination_possibility(%)": analysis["hallucination_possibility(%)"],
+            "generator_model_id": glm_name,
+            "analyzer_model_id": alm_name,
+            "num_alts": args.num_alts,
+            "sampling_params": sampling_params,
+            "sentence_results": analysis["sentence_results"],
+        }
+        write_cached_entry(target_cache_path, cached_entry)
+        with lock:
             completed += 1
+            print(f"[{completed}/{total}] done {model_label}: {question}")
+            write_submission_file(cache_dir, output_file)
+
+    def run_model(model_label, glm_name, sampling_params):
+        for question in questions:
+            run_one(question, model_label, glm_name, sampling_params)
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=len(MODEL_SPECS)) as executor:
+        futures = [executor.submit(run_model, *spec) for spec in MODEL_SPECS]
+        for future in concurrent.futures.as_completed(futures):
+            future.result()  # re-raise any exceptions
 
     write_submission_file(cache_dir, output_file)
     print(f"Wrote submission file to {output_file}")

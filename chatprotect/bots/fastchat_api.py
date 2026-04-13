@@ -40,6 +40,8 @@ class FastChatBot(Bot):
         override_temperature=None,
         response_format=None,
         provider=None,
+        top_k=None,
+        top_p=None,
     ):
         body = {"model": self.model, "system": system_prompt}
         messages = []

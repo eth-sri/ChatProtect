@@ -363,7 +363,7 @@ def check_factual_multi_score(
     add_stms = "".join(
         f"""
 
-Evidence {i}:
+Statement {i}:
 {stmt2}
 """
         for i, stmt2 in enumerate(stmt2s, start=1)
@@ -371,9 +371,7 @@ Evidence {i}:
     explain_prompt = f"""\
 I give you the beginning of a text answering the prompt "{target}".
 Then follow several statements. The first statement is the original statement of the text.
-The subsequent statements are additional evidence for you to verify the correctness of the original statement.
-If there is a contradiction between the original text and any of the additional evidences,
-you should conclude that the original statement is incorrect.
+The subsequent statements are additional statements.
 
 Text:
 {prefix}
@@ -381,8 +379,7 @@ Text:
 Original Statement:
 {stmt1}{add_stms}
 
-Are there contradictions between the original statement and the provided evidence?
-Based on your reasoning about the above question and the evidences, what is your conclusion regarding the correctness of the original statement?
+Are there contradictions between the original statement and the provided statements?
 Provide your explanation only.
 """
     with bot as bot_ses:
@@ -393,13 +390,13 @@ Provide your explanation only.
         bot_ses.set_deterministic(False)
         bot_ses.set_num_answers(10)
         conclusions_raw = bot_ses.ask(
-            'Please conclude whether the statement is incorrect a score between 0 (entirely incorrect) and 10 (fully correct).\nAnswer just "Score: X" where X is your score'
+            'Please conclude whether the statements are contradictory on a score between 0 (no contradictions) and 10 (at least one clear and unambiguous contradiction).\nAnswer just "Score: X" where X is your score'
         )
     scores = []
     for conclusion in conclusions_raw:
         number = extract_score(conclusion)
         scores.append(number / 10)
-    return (1 - sum(scores) / len(scores)) if scores else 0
+    return sum(scores) / len(scores) if scores else 0
 
 
 def check_consistent_step_by_step(

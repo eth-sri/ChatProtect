@@ -52,6 +52,8 @@ class OpenAIBot(Bot):
         override_temperature=None,
         response_format=None,
         provider=None,
+        top_k=None,
+        top_p=None,
     ):
         messages = []
         if system_prompt is not None:
@@ -90,6 +92,10 @@ class OpenAIBot(Bot):
                 )
                 if provider is not None:
                     kwargs["provider"] = provider
+                if top_k is not None:
+                    kwargs["top_k"] = top_k
+                if top_p is not None:
+                    kwargs["top_p"] = top_p
                 res = self.bot.create(**kwargs)
                 choices = res.choices
                 if choices is None:
