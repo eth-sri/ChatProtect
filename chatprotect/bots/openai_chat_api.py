@@ -92,6 +92,8 @@ class OpenAIBot(Bot):
                     kwargs["provider"] = provider
                 res = self.bot.create(**kwargs)
                 choices = res.choices
+                if choices is None:
+                    raise ValueError(f"API returned choices=None: {res}")
                 usage = self._parse_usage(res)
                 self.total_usage.append(usage)
                 break
