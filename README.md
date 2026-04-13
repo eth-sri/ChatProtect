@@ -14,6 +14,11 @@ Set up a virtual environment with `uv` and install the requirements for this pro
 $ uv venv --python 3.10 .venv
 $ uv sync
 $ .venv/bin/python -m spacy download en_core_web_sm
+$ .venv/bin/python - <<'PY'
+import nltk
+nltk.download("punkt")
+nltk.download("punkt_tab")
+PY
 ```
 
 Create a `secret.py` and enter required API keys

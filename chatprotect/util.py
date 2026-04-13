@@ -30,10 +30,14 @@ from dataclasses import dataclass
 
 import nltk
 
-try:
-    nltk.data.find("tokenizers/punkt")
-except LookupError:
-    nltk.download("punkt")
+for resource, path in (
+    ("punkt", "tokenizers/punkt"),
+    ("punkt_tab", "tokenizers/punkt_tab/english"),
+):
+    try:
+        nltk.data.find(path)
+    except LookupError:
+        nltk.download(resource)
 from nltk import sent_tokenize
 
 
