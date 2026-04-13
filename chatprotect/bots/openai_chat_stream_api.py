@@ -25,6 +25,12 @@ TOKEN_OUTPUT_COST_MAP = {
 _LOGGER = logging.getLogger(__name__)
 
 MODEL_MAP = {"chatgpt": "gpt-3.5-turbo-0301", "gpt4": "gpt-4-0314"}
+PROXY_MODEL_MAP = {
+    "llama3.1-8b-instruct": "openrouter/meta-llama/llama-3.1-8b-instruct",
+    "llama-3.1-8b-instruct": "openrouter/meta-llama/llama-3.1-8b-instruct",
+    "gemma3-12b-instruct": "gemini/gemma-3-12b-it",
+    "gemma-3-12b-it": "gemini/gemma-3-12b-it",
+}
 ENCODING_MAP = {m: tiktoken.encoding_for_model(m) for m in MODEL_MAP.values()}
 
 FASTCHAT_OPENAI_BASE = "http://localhost:8000/v1"
@@ -87,10 +93,11 @@ class OpenAIBot(Bot):
         if openai_baseurl is not None:
             openai.api_base = openai_baseurl
         self.bot = openai.ChatCompletion()
-        if openai_baseurl is None:
-            self.model = MODEL_MAP[model]
-        else:
-            self.model = model
+        self.model = MODEL_MAP.get(model, PROXY_MODEL_MAP.get(model, model))
+        self.encoding = ENCODING_MAP.get(
+            self.model, tiktoken.get_encoding("cl100k_base")
+        )
+        self.track_cost = self.model in TOKEN_INPUT_COST_MAP
         self.last_request = datetime.datetime.now()
 
     def _ask(
@@ -140,13 +147,11 @@ class OpenAIBot(Bot):
                     n=num,
                     stream=True,
                 )
-                prompt_tokens.add_cost(
-                    self.model,
-                    sum(
-                        len(ENCODING_MAP[self.model].encode(m["content"]))
-                        for m in messages
-                    ),
-                )
+                if self.track_cost:
+                    prompt_tokens.add_cost(
+                        self.model,
+                        sum(len(self.encoding.encode(m["content"])) for m in messages),
+                    )
 
                 def stream():
                     choices = [""] * num
@@ -159,10 +164,10 @@ class OpenAIBot(Bot):
                         for a in choices:
                             _LOGGER.debug("A: " + a)
                         yield choices
-                    completion_tokens.add_cost(
-                        self.model,
-                        sum(len(ENCODING_MAP[self.model].encode(c)) for c in choices),
-                    )
+                    if self.track_cost:
+                        completion_tokens.add_cost(
+                            self.model, sum(len(self.encoding.encode(c)) for c in choices)
+                        )
 
                 return stream(), Cost(0, 0)
             except Exception as e:

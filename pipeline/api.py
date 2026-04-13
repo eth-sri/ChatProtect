@@ -21,7 +21,10 @@ from chatprotect.sentences import (
     generate_statement_missing_object_free,
 )
 from chatprotect.util import State, split_sentences
+import secret
 from secret import OPENAI_API_KEY
+
+OPENAI_BASE_URL = getattr(secret, "OPENAI_BASE_URL", None)
 
 app = FastAPI()
 
@@ -52,7 +55,7 @@ def redaction_streamer(query: str, model: str):
 
     frame = 0
     bot = chatprotect.bots.openai_chat_stream_api.OpenAIBot(
-        api_key=OPENAI_API_KEY, model=model
+        api_key=OPENAI_API_KEY, model=model, openai_baseurl=OPENAI_BASE_URL
     )
     state = State()
     state.generating = "sentences"

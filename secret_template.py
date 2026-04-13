@@ -1,5 +1,6 @@
 # set this to interact with gpt-4 and chatgpt
 OPENAI_API_KEY = "xx-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+OPENAI_BASE_URL = "https://your-openai-compatible-proxy/v1"
 # set this to interact with llama-2-70b-chat
 TOGETHER_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 

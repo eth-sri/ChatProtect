@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chatprotect"
+version = "0.0.1"
+description = "Detecting and Removing hallucinations from LLMs"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+  { name = "anonymous" },
+]
+dependencies = [
+  "requests",
+  "nltk",
+  "editdistance",
+  "spacy",
+  "evaluate",
+  "torch",
+  "openai==0.28",
+  "fschat",
+  "uvicorn",
+  "bert_score",
+  "scikit-learn",
+  "matplotlib",
+  "transformers",
+  "bidict",
+  "configargparse",
+  "fastapi",
+  "diff_match_patch",
+  "tiktoken",
+]
+
+[tool.setuptools.packages.find]
+include = ["chatprotect*"]

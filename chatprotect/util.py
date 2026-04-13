@@ -15,6 +15,14 @@ from chatprotect.bots import (
 )
 from secret import OPENAI_API_KEY
 
+OPENAI_BASE_URL = getattr(secret, "OPENAI_BASE_URL", None)
+OPENAI_PROXY_MODELS = {
+    "llama3.1-8b-instruct",
+    "llama-3.1-8b-instruct",
+    "gemma3-12b-instruct",
+    "gemma-3-12b-it",
+}
+
 LOGLEVEL = os.environ.get("LOGLEVEL", "WARNING").upper()
 logging.basicConfig(level=LOGLEVEL)
 
@@ -250,7 +258,13 @@ class State:
 
 def fetch_model(model):
     if model in ("chatgpt", "gpt4"):
-        bot = openai_chat_api.OpenAIBot(OPENAI_API_KEY, model)
+        bot = openai_chat_api.OpenAIBot(
+            OPENAI_API_KEY, model, openai_baseurl=OPENAI_BASE_URL
+        )
+    elif OPENAI_BASE_URL and (model in OPENAI_PROXY_MODELS or "/" in model):
+        bot = openai_chat_api.OpenAIBot(
+            OPENAI_API_KEY, model, openai_baseurl=OPENAI_BASE_URL
+        )
     elif model in ("davinci", "babbage", "ada", "text-davinci-003"):
         bot = openai_completion_api.OpenAIBot(OPENAI_API_KEY, model)
     elif model in (f"Llama-2-{i}b-chat-hf" for i in [7, 13, 70]):

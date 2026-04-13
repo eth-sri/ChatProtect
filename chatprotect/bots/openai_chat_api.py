@@ -8,6 +8,12 @@ from .bot import Bot, Usage
 _LOGGER = logging.getLogger(__name__)
 
 MODEL_MAP = {"chatgpt": "gpt-3.5-turbo-0301", "gpt4": "gpt-4-0314"}
+PROXY_MODEL_MAP = {
+    "llama3.1-8b-instruct": "openrouter/meta-llama/llama-3.1-8b-instruct",
+    "llama-3.1-8b-instruct": "openrouter/meta-llama/llama-3.1-8b-instruct",
+    "gemma3-12b-instruct": "gemini/gemma-3-12b-it",
+    "gemma-3-12b-it": "gemini/gemma-3-12b-it",
+}
 
 FASTCHAT_OPENAI_BASE = "http://localhost:8000/v1"
 
@@ -20,12 +26,18 @@ class OpenAIBot(Bot):
         if openai_baseurl is not None:
             openai.api_base = openai_baseurl
         self.bot = openai.ChatCompletion()
-        if openai_baseurl is None:
-            self.model = MODEL_MAP[model]
-        else:
-            self.model = model
+        self.model = MODEL_MAP.get(model, PROXY_MODEL_MAP.get(model, model))
         self.last_request = datetime.datetime.now()
         self.total_usage = []
+
+    @staticmethod
+    def _parse_usage(res):
+        usage = getattr(res, "usage", None)
+        if usage is None:
+            return Usage(0, 0)
+        prompt_tokens = getattr(usage, "prompt_tokens", 0)
+        completion_tokens = getattr(usage, "completion_tokens", 0)
+        return Usage(prompt_tokens or 0, completion_tokens or 0)
 
     def _ask(
         self,
@@ -65,8 +77,7 @@ class OpenAIBot(Bot):
                     stream=False,
                 )
                 choices = res.choices
-                usage = res.usage
-                usage = Usage(usage.prompt_tokens, usage.completion_tokens)
+                usage = self._parse_usage(res)
                 self.total_usage.append(usage)
                 break
             except Exception as e:

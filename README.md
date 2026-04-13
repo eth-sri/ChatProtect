@@ -9,13 +9,11 @@ An easy-to-use website presenting the tool and its use-cases is hosted at https:
 ## Installation
 
 This project was tested with python3.10.
-Set up a virtual environment (or use conda) and install the requirements for this project:
+Set up a virtual environment with `uv` and install the requirements for this project:
 ```bash
-$ conda create -n chatprotect pip pytorch python=3.10
-$ conda activate chatprotect
-$ python3 -m pip install -r requirements.txt
-$ python3 -m spacy download en_core_web_sm
-$ python3 -m pip install -e .
+$ uv venv --python 3.10 .venv
+$ uv sync
+$ .venv/bin/python -m spacy download en_core_web_sm
 ```
 
 Create a `secret.py` and enter required API keys
@@ -24,6 +22,10 @@ Create a `secret.py` and enter required API keys
 $ cp secret_template.py secret.py
 $ <use your favorite editor to set api keys>
 ```
+
+If you use an OpenAI-compatible proxy, also set `OPENAI_BASE_URL` in `secret.py`.
+This repository includes aliases for the proxy-backed chat models `llama3.1-8b-instruct` and `gemma3-12b-instruct`.
+These currently resolve to `openrouter/meta-llama/llama-3.1-8b-instruct` and `gemini/gemma-3-12b-it`.
 
 #### Using CompactIE for triple extraction
 
@@ -46,20 +48,21 @@ $ wget https://zenodo.org/record/6804440/files/cl_model?download=1
 $ mv cl_model?download=1 save_results/models/relation/cl_model
 ```
 
-Then install the requirements. You need python 3.6 and pytorch. We recommend creating a seperate conda environment for this.
+Then install the requirements. CompactIE is a separate legacy service, so keep it in its own `uv` environment.
+The upstream project targeted python 3.6 and pytorch 1.9.0; on modern machines, use the closest python version available to you in `uv` and install the pinned python packages from the paper setup.
+On Apple Silicon, the legacy `transformers==4.2.2` stack may still fail because it depends on `tokenizers==0.9.4`, which does not provide a native wheel.
 
 ```bash
-$ conda create -n CompactIE pip python=3.6 pytorch=1.9.0  -c pytorch
-$ conda activate CompactIE
-$ pip install transformers==4.2.2 configargparse==1.2.3 bidict==0.20.0 PyYAML==6.0.1
+$ uv venv --python 3.8 .venv
+$ uv sync
 ```
 
-Run the following command to start the API and return to the root directory and ChatProtect conda environment.
+Run the following command to start the API and return to the root directory and ChatProtect `uv` environment.
 Keep this process running and continue with [Running](#running) to run ChatProtect.
 
 
 ```bash
-$ python api.py --config_file config.yml
+$ .venv/bin/python api.py --config_file config.yml
 ```
 
 ## Running
@@ -72,7 +75,7 @@ First install the whole pipeline as described in the section Installation.
 Then run the full pipeline on a singular topic via
 
 ```bash
-$ python3 -m chatprotect --prompt "Please tell me about Thomas Chapais"
+$ .venv/bin/python -m chatprotect --glm llama3.1-8b-instruct --alm gemma3-12b-instruct --prompt "Please tell me about Thomas Chapais"
 ```
 
 #### Running the website API
@@ -80,7 +83,7 @@ $ python3 -m chatprotect --prompt "Please tell me about Thomas Chapais"
 This API provides the required streams to interact with the demo website.
 
 ```bash
-uvicorn pipeline.api:app --reload --port 9113
+.venv/bin/uvicorn pipeline.api:app --reload --port 9113
 ```
 
 #### Running pipeline step by step
@@ -94,16 +97,16 @@ This corresponds to the steps `gLM.gen_sentence`, `aLM.detect` and `aLM.revise`
 
 ```bash
 $ # generate answers to prompt
-$ python3 pipeline/0_generate_descriptions.py --prompt "Please tell me about Thomas Chapais"
+$ .venv/bin/python pipeline/0_generate_descriptions.py --prompt "Please tell me about Thomas Chapais"
 $ # generate sentence + alternative sentences pairs /w tag for inconsistency (gen_sentence + detect, Figure 1 + 2)
-$ python3 pipeline/1_generate_sentences.py --prompt "Please tell me about Thomas Chapais"
+$ .venv/bin/python pipeline/1_generate_sentences.py --prompt "Please tell me about Thomas Chapais"
 $ # generate new descriptions based on the original description and the tags (first step of revise, Figure 3)
-$ python3 pipeline/2_generate_new_descriptions.py --prompt "Please tell me about Thomas Chapais"
+$ .venv/bin/python pipeline/2_generate_new_descriptions.py --prompt "Please tell me about Thomas Chapais"
 $ # automatically execute further mitigation steps
 $ bash pipeline/mitigation.sh --prompt "Please tell me about Thomas Chapais" --test_description_dir test/custom/new_descriptions
 
 $ # run only a specific detect implementation (detect, Figure 2)
-$ python3 pipeline/direct_sentences.py --prompt "Please tell me about Thomas Chapais"
+$ .venv/bin/python pipeline/direct_sentences.py --prompt "Please tell me about Thomas Chapais"
 ```
 
 Each script has more information about its parameters (such as employed aLM or gLM) displayed via `--help`.
