@@ -24,11 +24,14 @@ class Bot:
         prompt: str,
         system_prompt=None,
         system_hist=(),
+        system_prompt_role="system",
         history=(),
         num_answers=1,
         deterministic=False,
         stop_seq=None,
         override_temperature=None,
+        response_format=None,
+        provider=None,
     ) -> Tuple[List[str], Usage]:
         raise NotImplementedError()
 
@@ -38,12 +41,15 @@ class BotSession:
         self.bot = bot
         self.system_prompt = None
         self.system_hist = []
+        self.system_prompt_role = getattr(bot, "default_system_prompt_role", "system")
         self.history = []
         self.num_answers = 1
         self.usage = Usage(0, 0)
         self.deterministic = True
         self.stop_seq = None
         self.override_temperature = None
+        self.response_format = None
+        self.provider = getattr(bot, "default_provider", None)
 
     def set_num_answers(self, num: int):
         # can be accomplished by other systems by repeating the questions
@@ -60,6 +66,17 @@ class BotSession:
     def set_system_prompt(self, prompt: str):
         self.system_prompt = prompt
 
+    def set_system_prompt_role(self, role: str):
+        if role not in ("system", "user"):
+            raise ValueError("system prompt role must be 'system' or 'user'")
+        self.system_prompt_role = role
+
+    def set_response_format(self, response_format):
+        self.response_format = response_format
+
+    def set_provider(self, provider):
+        self.provider = provider
+
     def add_system_history(self, prompt, answer):
         # needs to be manually added! because we don't know which answer was chosen by the user
         self.system_hist.append((prompt, answer))
@@ -74,11 +91,14 @@ class BotSession:
             prompt,
             self.system_prompt,
             self.system_hist,
+            self.system_prompt_role,
             self.history,
             self.num_answers,
             self.deterministic,
             self.stop_seq,
             self.override_temperature,
+            self.response_format,
+            self.provider,
         )
         ress, cost = res
         self.usage.prompt_tokens += cost.prompt_tokens

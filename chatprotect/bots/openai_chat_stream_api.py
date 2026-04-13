@@ -28,8 +28,8 @@ MODEL_MAP = {"chatgpt": "gpt-3.5-turbo-0301", "gpt4": "gpt-4-0314"}
 PROXY_MODEL_MAP = {
     "llama3.1-8b-instruct": "openrouter/meta-llama/llama-3.1-8b-instruct",
     "llama-3.1-8b-instruct": "openrouter/meta-llama/llama-3.1-8b-instruct",
-    "gemma3-12b-instruct": "gemini/gemma-3-12b-it",
-    "gemma-3-12b-it": "gemini/gemma-3-12b-it",
+    "gemma3-12b-instruct": "openrouter/google/gemma-3-12b-it",
+    "gemma-3-12b-it": "openrouter/google/gemma-3-12b-it",
 }
 ENCODING_MAP = {m: tiktoken.encoding_for_model(m) for m in MODEL_MAP.values()}
 
@@ -105,22 +105,33 @@ class OpenAIBot(Bot):
         prompt: str,
         system_prompt=None,
         system_hist=(),
+        system_prompt_role="system",
         history=(),
         num=1,
         deterministic=False,
         stop_seq=None,
         override_temperature=None,
+        response_format=None,
+        provider=None,
     ):
         messages = []
         if system_prompt is not None:
-            messages.append({"role": "system", "content": system_prompt})
+            messages.append({"role": system_prompt_role, "content": system_prompt})
         for question, answer in system_hist:
-            messages.append(
-                {"role": "system", "name": "example_user", "content": question}
-            )
-            messages.append(
-                {"role": "system", "name": "example_assistant", "content": answer}
-            )
+            if system_prompt_role == "system":
+                messages.append(
+                    {"role": "system", "name": "example_user", "content": question}
+                )
+                messages.append(
+                    {
+                        "role": "system",
+                        "name": "example_assistant",
+                        "content": answer,
+                    }
+                )
+            else:
+                messages.append({"role": "user", "content": question})
+                messages.append({"role": "assistant", "content": answer})
         for question, answer in history:
             messages.append({"role": "user", "content": question})
             messages.append({"role": "assistant", "content": answer})
@@ -138,7 +149,7 @@ class OpenAIBot(Bot):
             return error_stream(), Cost(0, 0)
         for i in range(3):
             try:
-                results = self.bot.create(
+                kwargs = dict(
                     model=self.model,
                     messages=messages,
                     temperature=(1 if not deterministic else 0)
@@ -146,7 +157,11 @@ class OpenAIBot(Bot):
                     else override_temperature,
                     n=num,
                     stream=True,
+                    response_format=response_format,
                 )
+                if provider is not None:
+                    kwargs["provider"] = provider
+                results = self.bot.create(**kwargs)
                 if self.track_cost:
                     prompt_tokens.add_cost(
                         self.model,

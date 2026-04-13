@@ -73,11 +73,14 @@ class TogetherAIBot(Bot):
         prompt: str,
         system_prompt=None,
         system_hist=(),
+        system_prompt_role="system",
         history=(),
         num=1,
         deterministic=False,
         stop_seq=None,
         override_temperature=None,
+        response_format=None,
+        provider=None,
     ):
         messages = []
         if system_prompt is not None:

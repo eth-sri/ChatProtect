@@ -17,6 +17,7 @@ MODEL_SPECS = [
     ("Llama-3.1-8B-Instruct", "llama3.1-8b-instruct"),
     ("Gemma-3-12B-Instruct", "gemma3-12b-instruct"),
 ]
+TRIPLE_EXTRACTION_MODEL = "llama3.1-8b-instruct"
 
 TRIPLE_EXTRACTION_EXAMPLES = [
     (
@@ -48,7 +49,45 @@ TRIPLE_EXTRACTION_EXAMPLES = [
         "I am not sure which film you mean by 'Glory'.",
         [],
     ),
+    (
+        "It documented the political tensions and strategic choices behind the administration's response.",
+        [
+            {
+                "subject": "It",
+                "relation": "documented",
+                "object": "the political tensions and strategic choices behind the administration's response",
+            }
+        ],
+    ),
 ]
+
+TRIPLE_RESPONSE_FORMAT = {
+    "type": "json_schema",
+    "json_schema": {
+        "name": "triple_extraction",
+        "strict": True,
+        "schema": {
+            "type": "object",
+            "properties": {
+                "triples": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "subject": {"type": "string"},
+                            "relation": {"type": "string"},
+                            "object": {"type": "string"},
+                        },
+                        "required": ["subject", "relation", "object"],
+                        "additionalProperties": False,
+                    },
+                }
+            },
+            "required": ["triples"],
+            "additionalProperties": False,
+        },
+    },
+}
 
 
 def load_dataset(path: pathlib.Path):
@@ -57,8 +96,18 @@ def load_dataset(path: pathlib.Path):
     return [entry["question"] for entry in dataset]
 
 
+def configure_batch_bot(bot, model_name: str):
+    if "openrouter/" in getattr(bot, "model", ""):
+        bot.default_provider = {
+            "order": ["deepinfra"],
+            "allow_fallbacks": False,
+            "require_parameters": True,
+        }
+    return bot
+
+
 def ask_question(question: str, model_name: str) -> str:
-    bot = fetch_model(model_name)
+    bot = configure_batch_bot(fetch_model(model_name), model_name)
     with bot as bot_session:
         bot_session.set_deterministic(True)
         bot_session.set_num_answers(1)
@@ -66,14 +115,10 @@ def ask_question(question: str, model_name: str) -> str:
 
 
 def _parse_triples_json(raw: str):
-    try:
-        parsed = json.loads(raw)
-    except json.JSONDecodeError:
-        match = re.search(r"(\[[\s\S]*\])", raw)
-        if not match:
-            raise
-        parsed = json.loads(match.group(1))
+    parsed = json.loads(raw)
     triples = []
+    if isinstance(parsed, dict):
+        parsed = parsed["triples"]
     for item in parsed:
         triples.append(
             (
@@ -85,8 +130,9 @@ def _parse_triples_json(raw: str):
     return triples
 
 
-def extract_triples_llm(sentence: str, model_name: str):
-    bot = fetch_model(model_name)
+def extract_triples_llm(sentence: str):
+    model_name = TRIPLE_EXTRACTION_MODEL
+    bot = configure_batch_bot(fetch_model(model_name), model_name)
     examples = []
     for example_sentence, example_output in TRIPLE_EXTRACTION_EXAMPLES:
         examples.append(
@@ -107,17 +153,18 @@ def extract_triples_llm(sentence: str, model_name: str):
     with bot as bot_session:
         bot_session.set_deterministic(True)
         bot_session.set_num_answers(1)
+        bot_session.set_response_format(TRIPLE_RESPONSE_FORMAT)
         raw = bot_session.ask(prompt)[0]
     return _parse_triples_json(raw)
 
 
 def analyze_response(question: str, response: str, glm_name: str, alm_name: str):
-    generator_bot = fetch_model(glm_name)
-    analyzer_bot = fetch_model(alm_name)
+    generator_bot = configure_batch_bot(fetch_model(glm_name), glm_name)
+    analyzer_bot = configure_batch_bot(fetch_model(alm_name), alm_name)
     sentence_results = []
     prefix = ""
     for sentence in split_sentences(response):
-        triples = extract_triples_llm(sentence, alm_name)
+        triples = extract_triples_llm(sentence)
         for triple in triples:
             alternative = generate_statement_missing_object_free(
                 generator_bot, triple[0], triple[1], question, prefix
