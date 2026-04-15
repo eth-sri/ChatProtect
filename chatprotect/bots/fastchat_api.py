@@ -42,6 +42,7 @@ class FastChatBot(Bot):
         provider=None,
         top_k=None,
         top_p=None,
+        max_tokens=None,
     ):
         body = {"model": self.model, "system": system_prompt}
         messages = []

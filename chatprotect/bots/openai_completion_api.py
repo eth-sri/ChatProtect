@@ -33,6 +33,7 @@ class OpenAIBot(Bot):
         provider=None,
         top_k=None,
         top_p=None,
+        max_tokens=None,
     ):
         for i in range(1000):
             try:

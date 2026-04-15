@@ -34,6 +34,7 @@ class Bot:
         provider=None,
         top_k=None,
         top_p=None,
+        max_tokens=None,
     ) -> Tuple[List[str], Usage]:
         raise NotImplementedError()
 
@@ -54,6 +55,7 @@ class BotSession:
         self.provider = getattr(bot, "default_provider", None)
         self.top_k = getattr(bot, "default_top_k", None)
         self.top_p = getattr(bot, "default_top_p", None)
+        self.max_tokens = getattr(bot, "default_max_tokens", None)
 
     def set_num_answers(self, num: int):
         # can be accomplished by other systems by repeating the questions
@@ -105,6 +107,7 @@ class BotSession:
             self.provider,
             self.top_k,
             self.top_p,
+            self.max_tokens,
         )
         ress, cost = res
         self.usage.prompt_tokens += cost.prompt_tokens

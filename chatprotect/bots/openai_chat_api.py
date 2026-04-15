@@ -54,6 +54,7 @@ class OpenAIBot(Bot):
         provider=None,
         top_k=None,
         top_p=None,
+        max_tokens=None,
     ):
         messages = []
         if system_prompt is not None:
@@ -96,6 +97,8 @@ class OpenAIBot(Bot):
                     kwargs["top_k"] = top_k
                 if top_p is not None:
                     kwargs["top_p"] = top_p
+                if max_tokens is not None:
+                    kwargs["max_tokens"] = max_tokens
                 res = self.bot.create(**kwargs)
                 choices = res.choices
                 if choices is None:
