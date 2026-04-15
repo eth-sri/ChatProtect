@@ -270,14 +270,18 @@ def main():
                 }
                 save_cache(cache_file, cache_data)
 
-        analysis = analyze_response(
-            question,
-            model_response,
-            glm_name,
-            alm_name,
-            sampling_params=sampling_params,
-            num_alts=args.num_alts,
-        )
+        try:
+            analysis = analyze_response(
+                question,
+                model_response,
+                glm_name,
+                alm_name,
+                sampling_params=sampling_params,
+                num_alts=args.num_alts,
+            )
+        except Exception as e:
+            print(f"skipping {model_label}: {question} — {e}")
+            return
         with lock:
             cache_data.setdefault(question, {})[model_label] = {
                 "status": "complete",
