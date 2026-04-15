@@ -99,7 +99,7 @@ class OpenAIBot(Bot):
                     kwargs["top_p"] = top_p
                 if max_tokens is not None:
                     kwargs["max_tokens"] = max_tokens
-                res = self.bot.create(**kwargs)
+                res = self.bot.create(**kwargs, request_timeout=300)
                 choices = res.choices
                 if choices is None:
                     raise ValueError(f"API returned choices=None: {res}")
@@ -108,8 +108,8 @@ class OpenAIBot(Bot):
                 break
             except Exception as e:
                 _LOGGER.warning(e)
-                # exponential backoff
-                time.sleep(2**i)
+                # exponential backoff capped at 60s
+                time.sleep(min(2**i, 60))
         choices = [a.message.content for a in choices]
         print(json.dumps({"Q": prompt, "A": choices}))
         self.last_request = datetime.datetime.now()

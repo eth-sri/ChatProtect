@@ -22,8 +22,8 @@ from chatprotect.util import fetch_model, split_sentences
 
 
 MODEL_SPECS = [
-    ("Llama-3.1-8B-Instruct", "llama3.1-8b-instruct", {"temperature": 0.6, "top_p": 0.9}),
-    ("Gemma-3-12B-Instruct", "gemma3-12b-instruct", {"temperature": 1.0, "top_k": 64, "top_p": 0.95}),
+    ("Llama-3.1-8B-Instruct", "llama3.1-8b-instruct", {"temperature": 0.6, "top_p": 0.9, "max_tokens": 1000}),
+    ("Gemma-3-12B-Instruct", "gemma3-12b-instruct", {"temperature": 1.0, "top_k": 64, "top_p": 0.95, "max_tokens": 1000}),
 ]
 
 NUM_ALTS = 20
@@ -47,6 +47,8 @@ def configure_batch_bot(bot, model_name: str, sampling_params: dict = None):
             bot.default_top_k = sampling_params["top_k"]
         if "top_p" in sampling_params:
             bot.default_top_p = sampling_params["top_p"]
+        if "max_tokens" in sampling_params:
+            bot.default_max_tokens = sampling_params["max_tokens"]
     return bot
 
 
@@ -86,7 +88,8 @@ def analyze_response(
                     override_temperature=temperature,
                     alts=1,
                 )
-                alternatives.append(alt[0])
+                a = alt[0]
+                alternatives.append(a[:500] + "..." if len(a) > 500 else a)
             score = check_factual_multi_score(
                 analyzer_bot, sentence, alternatives, question, prefix
             )
@@ -177,12 +180,12 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="output/dataset_submission.json",
+        default="output/dataset_submission_fig6.json",
         help="Path to final submission json",
     )
     parser.add_argument(
         "--cache-file",
-        default="output/dataset_submission_cache.json",
+        default="output/dataset_submission_fig6_cache.json",
         help="Single JSON cache file keyed by question",
     )
     parser.add_argument(
